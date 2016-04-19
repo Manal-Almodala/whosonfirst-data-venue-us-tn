@@ -1,0 +1,68 @@
+{
+  "id": 403839785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-83.913536,35.956165,-83.913536,35.956165",
+    "geom:latitude":35.956165,
+    "geom:longitude":-83.913536,
+    "iso:country":"US",
+    "sg:address":"137 E Blount Ave",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 549 4500",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85878551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W4pvXdbRmZVwu1T56GeUg_35.956165_-83.913536@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e93ae237b7a039b713eed516e6f5834e",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85878551,
+            "region_id":85688701,
+            "venue_id":403839785
+        }
+    ],
+    "wof:id":403839785,
+    "wof:lastmodified":1449055457,
+    "wof:name":"Karl Lawrence MD",
+    "wof:parent_id":85878551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-83.913536,35.956165,-83.913536,35.956165],
+  "geometry": {"coordinates":[-83.913536,35.956165],"type":"Point"}
+}

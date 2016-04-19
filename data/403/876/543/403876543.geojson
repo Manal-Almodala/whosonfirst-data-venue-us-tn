@@ -1,0 +1,70 @@
+{
+  "id": 403876543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.023315,36.006896,-84.023315,36.006896",
+    "geom:latitude":36.006896,
+    "geom:longitude":-84.023315,
+    "iso:country":"US",
+    "sg:address":"6709 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 938 4445",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wCtCye4ttzsSgaXi9W67B_36.006896_-84.023315@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"d7631aa79c468dcd940edf332537df74",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":403876543
+        }
+    ],
+    "wof:id":403876543,
+    "wof:lastmodified":1449054901,
+    "wof:name":"Poopsie's Doggie Day Spa",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [-84.023315,36.006896,-84.023315,36.006896],
+  "geometry": {"coordinates":[-84.023315,36.006896],"type":"Point"}
+}

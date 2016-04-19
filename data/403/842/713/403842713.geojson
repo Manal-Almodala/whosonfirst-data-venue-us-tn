@@ -1,0 +1,77 @@
+{
+  "id": 403842713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.842598,35.161055,-84.842598,35.161055",
+    "geom:latitude":35.161055,
+    "geom:longitude":-84.842598,
+    "iso:country":"US",
+    "sg:address":"1820 Benton Pike NE",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 472 9841",
+    "sg:postcode":"37323",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "lawn",
+        "general",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85849565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vrFNyDa6rt4iBnEp7bBfy_35.161055_-84.842598@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9ca658a7e8d90130a0dbb5b042a61b12",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85849565,
+            "region_id":85688701,
+            "venue_id":403842713
+        }
+    ],
+    "wof:id":403842713,
+    "wof:lastmodified":1449054736,
+    "wof:name":"Jack's Small Engine Repair",
+    "wof:parent_id":85849565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "lawn",
+        "general",
+        "mower"
+    ]
+},
+  "bbox": [-84.842598,35.161055,-84.842598,35.161055],
+  "geometry": {"coordinates":[-84.842598,35.161055],"type":"Point"}
+}

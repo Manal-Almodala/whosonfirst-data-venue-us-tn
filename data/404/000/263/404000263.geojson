@@ -1,0 +1,66 @@
+{
+  "id": 404000263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-85.475263,35.928678,-85.475263,35.928678",
+    "geom:latitude":35.928678,
+    "geom:longitude":-85.475263,
+    "iso:country":"US",
+    "sg:address":"31 Hayes St",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 837 5512",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0i69lFR1f7qPeNZF3myNCu_35.928678_-85.475263@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"40768d6147bb5c16b1ba7abbcfb4eeab",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":404000263
+        }
+    ],
+    "wof:id":404000263,
+    "wof:lastmodified":1449039209,
+    "wof:name":"Bruces Clean Up",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [-85.475263,35.928678,-85.475263,35.928678],
+  "geometry": {"coordinates":[-85.475263,35.928678],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 403850605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-83.309478,36.203007,-83.309478,36.203007",
+    "geom:latitude":36.203007,
+    "geom:longitude":-83.309478,
+    "iso:country":"US",
+    "sg:address":"1633 W Morris Blvd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 8041",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "surgeon",
+        "physician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AkgTew5J2qXJjboc1JOEN_36.203007_-83.309478@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"10a807bcec09099e439879b8552f7202",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":403850605
+        }
+    ],
+    "wof:id":403850605,
+    "wof:lastmodified":1449055405,
+    "wof:name":"Surgical Associates",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "surgeon",
+        "physician"
+    ]
+},
+  "bbox": [-83.309478,36.203007,-83.309478,36.203007],
+  "geometry": {"coordinates":[-83.309478,36.203007],"type":"Point"}
+}

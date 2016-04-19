@@ -1,0 +1,68 @@
+{
+  "id": 404001715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.868602,35.203441,-89.868602,35.203441",
+    "geom:latitude":35.203441,
+    "geom:longitude":-89.868602,
+    "iso:country":"US",
+    "sg:address":"2841 Bartlett Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 388 2683",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d8fWlxDFxz5H9VWJgEq2f_35.203441_-89.868602@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"36e1c13c774f3c51c31a5fda557ecde4",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":404001715
+        }
+    ],
+    "wof:id":404001715,
+    "wof:lastmodified":1449039329,
+    "wof:name":"Sun Electric Co",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [-89.868602,35.203441,-89.868602,35.203441],
+  "geometry": {"coordinates":[-89.868602,35.203441],"type":"Point"}
+}

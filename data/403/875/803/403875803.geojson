@@ -1,0 +1,68 @@
+{
+  "id": 403875803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-82.264469,36.333777,-82.264469,36.333777",
+    "geom:latitude":36.333777,
+    "geom:longitude":-82.264469,
+    "iso:country":"US",
+    "sg:address":"2141 W Elk Ave",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 543 1131",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85844667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sd3l3YOPjJdrY04CXraIG_36.333777_-82.264469@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"284b2a05cc7788941fcba846d670aebf",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85844667,
+            "region_id":85688701,
+            "venue_id":403875803
+        }
+    ],
+    "wof:id":403875803,
+    "wof:lastmodified":1449055609,
+    "wof:name":"Elk Avenue Automotive Svc",
+    "wof:parent_id":85844667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-82.264469,36.333777,-82.264469,36.333777],
+  "geometry": {"coordinates":[-82.264469,36.333777],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 404108961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-83.970148,35.757056,-83.970148,35.757056",
+    "geom:latitude":35.757056,
+    "geom:longitude":-83.970148,
+    "iso:country":"US",
+    "sg:address":"200 E Broadway Ave",
+    "sg:city":"Maryville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 984 3864",
+    "sg:postcode":"37804",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722701,
+        102087017,
+        85823815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08bs59u2WmKJDBc9pUvnhC_35.757056_-83.970148@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"1758176ae60a4c38d3b4642342483eb1",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85823815,
+            "region_id":85688701,
+            "venue_id":404108961
+        }
+    ],
+    "wof:id":404108961,
+    "wof:lastmodified":1449039110,
+    "wof:name":"East Tennessee Medical Group",
+    "wof:parent_id":85823815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-83.970148,35.757056,-83.970148,35.757056],
+  "geometry": {"coordinates":[-83.970148,35.757056],"type":"Point"}
+}

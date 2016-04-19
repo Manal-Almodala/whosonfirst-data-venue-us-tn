@@ -1,0 +1,68 @@
+{
+  "id": 404136319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-84.781684,35.12918,-84.781684,35.12918",
+    "geom:latitude":35.12918,
+    "geom:longitude":-84.781684,
+    "iso:country":"US",
+    "sg:address":"483 Kinser Rd SE",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 614 8888",
+    "sg:postcode":"37323",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85849565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U23iluZVnJAo3AgQrE1AC_35.129180_-84.781684@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"a37421f7ca10237868beb3f1829b159d",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85849565,
+            "region_id":85688701,
+            "venue_id":404136319
+        }
+    ],
+    "wof:id":404136319,
+    "wof:lastmodified":1449040318,
+    "wof:name":"Speed Automotive",
+    "wof:parent_id":85849565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [-84.781684,35.12918,-84.781684,35.12918],
+  "geometry": {"coordinates":[-84.781684,35.12918],"type":"Point"}
+}

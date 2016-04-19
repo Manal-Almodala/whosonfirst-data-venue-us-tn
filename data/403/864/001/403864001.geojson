@@ -1,0 +1,66 @@
+{
+  "id": 403864001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-83.966622,36.008265,-83.966622,36.008265",
+    "geom:latitude":36.008265,
+    "geom:longitude":-83.966622,
+    "iso:country":"US",
+    "sg:address":"4700 Central Avenue Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 687 2515",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11kJy9RTdytsdWgw45c5yz_36.008265_-83.966622@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"e32d5a3d2f35bc5ba18ad70efde2ce35",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":403864001
+        }
+    ],
+    "wof:id":403864001,
+    "wof:lastmodified":1449055983,
+    "wof:name":"North KNOX Veterinary Clinic",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [-83.966622,36.008265,-83.966622,36.008265],
+  "geometry": {"coordinates":[-83.966622,36.008265],"type":"Point"}
+}

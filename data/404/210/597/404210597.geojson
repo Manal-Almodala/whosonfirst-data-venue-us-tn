@@ -1,0 +1,68 @@
+{
+  "id": 404210597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.773957,35.20557,-89.773957,35.20557",
+    "geom:latitude":35.20557,
+    "geom:longitude":-89.773957,
+    "iso:country":"US",
+    "sg:address":"2911 Brunswick Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 213 1600",
+    "sg:postcode":"38133",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qjzy6QxlGoFflYV5bB2Lx_35.205570_-89.773957@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"04552c9feff81f8a04f501a422078149",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":404210597
+        }
+    ],
+    "wof:id":404210597,
+    "wof:lastmodified":1449039420,
+    "wof:name":"James Fenley MD",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-89.773957,35.20557,-89.773957,35.20557],
+  "geometry": {"coordinates":[-89.773957,35.20557],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 403983037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-89.817434,35.050324,-89.817434,35.050324",
+    "geom:latitude":35.050324,
+    "geom:longitude":-89.817434,
+    "iso:country":"US",
+    "sg:address":"7464 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 758 1234",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85870787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dflChFEIhPcjOgZzPiDHl_35.050324_-89.817434@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"9f1ace09cb951bbb55767201de61083a",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870787,
+            "region_id":85688701,
+            "venue_id":403983037
+        }
+    ],
+    "wof:id":403983037,
+    "wof:lastmodified":1449055855,
+    "wof:name":"OCCUMED",
+    "wof:parent_id":85870787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [-89.817434,35.050324,-89.817434,35.050324],
+  "geometry": {"coordinates":[-89.817434,35.050324],"type":"Point"}
+}

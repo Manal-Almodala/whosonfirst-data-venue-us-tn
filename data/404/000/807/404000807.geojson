@@ -1,0 +1,66 @@
+{
+  "id": 404000807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"u",
+    "edtf:inception":"u",
+    "geom:area":0.0,
+    "geom:bbox":"-83.225209,35.842061,-83.225209,35.842061",
+    "geom:latitude":35.842061,
+    "geom:longitude":-83.225209,
+    "iso:country":"US",
+    "sg:address":"3323 Cosby Hwy",
+    "sg:city":"Cosby",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 487 4434",
+    "sg:postcode":"37722",
+    "sg:province":"TN",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YP4Aug0WoRJ2WXjre4r96_35.842061_-83.225209@1294204733"
+    },
+    "wof:country":"US",
+    "wof:geomhash":"374c57c6fe9f6256b16fe97411578084",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":404000807
+        }
+    ],
+    "wof:id":404000807,
+    "wof:lastmodified":1449039208,
+    "wof:name":"House Of Douglas Bakery",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [-83.225209,35.842061,-83.225209,35.842061],
+  "geometry": {"coordinates":[-83.225209,35.842061],"type":"Point"}
+}
