@@ -1,0 +1,73 @@
+{
+  "id": 806628031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.145773,35.208365,-85.145773,35.208365",
+    "geom:latitude":35.208365,
+    "geom:longitude":-85.145773,
+    "iso:country":"US",
+    "sg:address":"8908 Nelson Rd",
+    "sg:city":"Soddy Daisy",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 843 1442",
+    "sg:postcode":"37379",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723037,
+        102087185,
+        85843021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nUqpG3gcrl1upZn89mm7L_35.208365_-85.145773@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599720,
+    "wof:geomhash":"fd176387d597556c1a2118eb62312ac1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723037,
+            "neighbourhood_id":85843021,
+            "region_id":85688701,
+            "venue_id":806628031
+        }
+    ],
+    "wof:id":806628031,
+    "wof:lastmodified":1462599720,
+    "wof:name":"Stanford Electric",
+    "wof:parent_id":85843021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.145773,
+    35.208365,
+    -85.145773,
+    35.208365
+],
+  "geometry": {"coordinates":[-85.14577300000001,35.208365],"type":"Point"}
+}

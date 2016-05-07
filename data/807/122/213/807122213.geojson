@@ -1,0 +1,75 @@
+{
+  "id": 807122213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.313986,35.032794,-85.313986,35.032794",
+    "geom:latitude":35.032794,
+    "geom:longitude":-85.313986,
+    "iso:country":"US",
+    "sg:address":"2025 Broad St",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 266 5956",
+    "sg:postcode":"37402",
+    "sg:province":"TN",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZmGOLCSvBUpEWbeIVVJnT_35.032794_-85.313986@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603964,
+    "wof:geomhash":"85f1d1c5128394b63aa4ed0d0b93b701",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876745,
+            "region_id":85688701,
+            "venue_id":807122213
+        }
+    ],
+    "wof:id":807122213,
+    "wof:lastmodified":1462603964,
+    "wof:name":"Broad Street Video",
+    "wof:parent_id":85876745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -85.313986,
+    35.032794,
+    -85.313986,
+    35.032794
+],
+  "geometry": {"coordinates":[-85.313986,35.032794],"type":"Point"}
+}

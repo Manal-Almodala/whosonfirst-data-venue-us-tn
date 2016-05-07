@@ -1,0 +1,71 @@
+{
+  "id": 789586621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.382065,35.833155,-83.382065,35.833155",
+    "geom:latitude":35.833155,
+    "geom:longitude":-83.382065,
+    "iso:country":"US",
+    "sg:address":"1625 Misty Mountain Way",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 774 8207",
+    "sg:postcode":"37876",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722579,
+        102086245,
+        85842013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JPbhJ706gY6C8tl2NaIIF_35.833155_-83.382065@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588960,
+    "wof:geomhash":"bd7ec40284fc1785a17242116d3c5635",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722579,
+            "neighbourhood_id":85842013,
+            "region_id":85688701,
+            "venue_id":789586621
+        }
+    ],
+    "wof:id":789586621,
+    "wof:lastmodified":1462588960,
+    "wof:name":"New Center Auto Repair",
+    "wof:parent_id":85842013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.382065,
+    35.833155,
+    -83.382065,
+    35.833155
+],
+  "geometry": {"coordinates":[-83.382065,35.833155],"type":"Point"}
+}

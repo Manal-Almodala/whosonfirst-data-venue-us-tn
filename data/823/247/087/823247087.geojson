@@ -1,0 +1,74 @@
+{
+  "id": 823247087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.001015,35.506444,-85.001015,35.506444",
+    "geom:latitude":35.506444,
+    "geom:longitude":-85.001015,
+    "iso:country":"US",
+    "sg:address":"7693 Rhea County Hwy",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/dayton/140293-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 7792",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bg4GPjPd1JpJQu6hy1cLW_35.506444_-85.001015@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609278,
+    "wof:geomhash":"83e3dd2471c06d449a8d7441800cf512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":823247087
+        }
+    ],
+    "wof:id":823247087,
+    "wof:lastmodified":1462609278,
+    "wof:name":"Subway",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -85.001015,
+    35.506444,
+    -85.001015,
+    35.506444
+],
+  "geometry": {"coordinates":[-85.001015,35.506444],"type":"Point"}
+}

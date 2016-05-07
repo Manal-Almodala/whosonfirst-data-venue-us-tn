@@ -1,0 +1,76 @@
+{
+  "id": 823288029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.888039,35.152109,-89.888039,35.152109",
+    "geom:latitude":35.152109,
+    "geom:longitude":-89.888039,
+    "iso:country":"US",
+    "sg:address":"729 N White Station Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 682 6604",
+    "sg:postcode":"38122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "sg:website":"http://www.greyhound.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ctCZqEZ1tE181e2iJsNGN_35.152109_-89.888039@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610625,
+    "wof:geomhash":"245b40cd14094812cbbdecb505fb7e0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":823288029
+        }
+    ],
+    "wof:id":823288029,
+    "wof:lastmodified":1462610625,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -89.888039,
+    35.152109,
+    -89.888039,
+    35.152109
+],
+  "geometry": {"coordinates":[-89.88803900000001,35.152109],"type":"Point"}
+}

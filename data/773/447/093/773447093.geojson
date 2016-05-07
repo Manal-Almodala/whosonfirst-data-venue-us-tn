@@ -1,0 +1,76 @@
+{
+  "id": 773447093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.041892,35.964585,-84.041892,35.964585",
+    "geom:latitude":35.964585,
+    "geom:longitude":-84.041892,
+    "iso:country":"US",
+    "sg:address":"2483 Piney Grove Church Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 694 5079",
+    "sg:postcode":"37921",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85856659,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T2omrX7HUH1KuPtvJfSM0_35.964585_-84.041892@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585817,
+    "wof:geomhash":"14ddd34a731250a136ff29abf1814eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85856659,
+            "region_id":85688701,
+            "venue_id":773447093
+        }
+    ],
+    "wof:id":773447093,
+    "wof:lastmodified":1462585817,
+    "wof:name":"Shaw Transport",
+    "wof:parent_id":85856659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.041892,
+    35.964585,
+    -84.041892,
+    35.964585
+],
+  "geometry": {"coordinates":[-84.041892,35.964585],"type":"Point"}
+}

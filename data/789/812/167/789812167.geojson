@@ -1,0 +1,83 @@
+{
+  "id": 789812167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.344433,36.501065,-87.344433,36.501065",
+    "geom:latitude":36.501065,
+    "geom:longitude":-87.344433,
+    "iso:country":"US",
+    "sg:address":"1455 Ashland City Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 552 5483",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "uniform"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85809463,
+        85813201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UjLfMNNFfWw5cdSnjB6yK_36.501065_-87.344433@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590732,
+    "wof:geomhash":"c009d4ffdde72ed3be7aba769c5cf054",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85809463,
+            "region_id":85688701,
+            "venue_id":789812167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85813201,
+            "region_id":85688701,
+            "venue_id":789812167
+        }
+    ],
+    "wof:id":789812167,
+    "wof:lastmodified":1462590732,
+    "wof:name":"Uniform Sales Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "uniform"
+    ]
+},
+  "bbox": [
+    -87.344433,
+    36.501065,
+    -87.344433,
+    36.501065
+],
+  "geometry": {"coordinates":[-87.344433,36.501065],"type":"Point"}
+}

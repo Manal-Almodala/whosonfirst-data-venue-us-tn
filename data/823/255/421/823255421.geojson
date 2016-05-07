@@ -1,0 +1,78 @@
+{
+  "id": 823255421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.854578,35.133313,-89.854578,35.133313",
+    "geom:latitude":35.133313,
+    "geom:longitude":-89.854578,
+    "iso:country":"US",
+    "sg:address":"6143 Walnut Grove Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/173214-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 747 4707",
+    "sg:postcode":"38120",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85844747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AJ51UXUUQRDIhqEBI074a_35.133313_-89.854578@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609449,
+    "wof:geomhash":"e60bb3c8ec9398ac48b9e6d94fc4bfd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85844747,
+            "region_id":85688701,
+            "venue_id":823255421
+        }
+    ],
+    "wof:id":823255421,
+    "wof:lastmodified":1462609449,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85844747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -89.854578,
+    35.133313,
+    -89.854578,
+    35.133313
+],
+  "geometry": {"coordinates":[-89.854578,35.133313],"type":"Point"}
+}

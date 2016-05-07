@@ -1,0 +1,80 @@
+{
+  "id": 807341903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.027821,35.943699,-85.027821,35.943699",
+    "geom:latitude":35.943699,
+    "geom:longitude":-85.027821,
+    "iso:country":"US",
+    "sg:address":"116 Brown Ave",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 2500",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical",
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iPNhrv5zEBl2t3gzyVo1Q_35.943699_-85.027821@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606375,
+    "wof:geomhash":"4044a270099227bcbf4cbaa04b268fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":807341903
+        }
+    ],
+    "wof:id":807341903,
+    "wof:lastmodified":1462606375,
+    "wof:name":"Specialty Surgery Center",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -85.027821,
+    35.943699,
+    -85.027821,
+    35.943699
+],
+  "geometry": {"coordinates":[-85.027821,35.943699],"type":"Point"}
+}

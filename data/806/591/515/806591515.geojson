@@ -1,0 +1,71 @@
+{
+  "id": 806591515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.313995,36.202784,-83.313995,36.202784",
+    "geom:latitude":36.202784,
+    "geom:longitude":-83.313995,
+    "iso:country":"US",
+    "sg:address":"230 Bowman St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 1356",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j4KCXhbPdGyyWhzAAv47r_36.202784_-83.313995@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599409,
+    "wof:geomhash":"215000fdc23cc65f511c777ab9ee3869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":806591515
+        }
+    ],
+    "wof:id":806591515,
+    "wof:lastmodified":1462599409,
+    "wof:name":"Harry A Zain MD",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.313995,
+    36.202784,
+    -83.313995,
+    36.202784
+],
+  "geometry": {"coordinates":[-83.31399500000001,36.202784],"type":"Point"}
+}

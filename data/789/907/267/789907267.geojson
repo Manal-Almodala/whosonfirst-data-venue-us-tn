@@ -1,0 +1,78 @@
+{
+  "id": 789907267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.021417,35.118317,-90.021417,35.118317",
+    "geom:latitude":35.118317,
+    "geom:longitude":-90.021417,
+    "iso:country":"US",
+    "sg:address":"1046 S Bellevue Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 775 0203",
+    "sg:postcode":"38106",
+    "sg:province":"TN",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85803189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WSuAU4DZXIN0bRoKK4XAm_35.118317_-90.021417@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591504,
+    "wof:geomhash":"085b9c248a80f078ea4e34d96a7141da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85803189,
+            "region_id":85688701,
+            "venue_id":789907267
+        }
+    ],
+    "wof:id":789907267,
+    "wof:lastmodified":1462591504,
+    "wof:name":"Besty's Coin Laundry",
+    "wof:parent_id":85803189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -90.021417,
+    35.118317,
+    -90.021417,
+    35.118317
+],
+  "geometry": {"coordinates":[-90.021417,35.118317],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 773242603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.113286,35.185732,-86.113286,35.185732",
+    "geom:latitude":35.185732,
+    "geom:longitude":-86.113286,
+    "iso:country":"US",
+    "sg:address":"200 State Hwy 16",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 478 6300",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:website":"www.belk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27ddMN3wrZ5hQsRfg4bUhU_35.185732_-86.113286@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584233,
+    "wof:geomhash":"4af2c9f4e569b315a39d536c4628cbdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":773242603
+        }
+    ],
+    "wof:id":773242603,
+    "wof:lastmodified":1462584233,
+    "wof:name":"Belk",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.113286,
+    35.185732,
+    -86.113286,
+    35.185732
+],
+  "geometry": {"coordinates":[-86.113286,35.185732],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806849327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.246814,36.37121,-82.246814,36.37121",
+    "geom:latitude":36.37121,
+    "geom:longitude":-82.246814,
+    "iso:country":"US",
+    "sg:address":"118 Sc Slagle Rd",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 543 8132",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85844667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JPpQxYGXhi1fZAV4DToTe_36.371210_-82.246814@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601601,
+    "wof:geomhash":"1995d566e6b6e4f648cf3de07f8bdedf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85844667,
+            "region_id":85688701,
+            "venue_id":806849327
+        }
+    ],
+    "wof:id":806849327,
+    "wof:lastmodified":1462601601,
+    "wof:name":"Mike's Trash Svc",
+    "wof:parent_id":85844667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -82.246814,
+    36.37121,
+    -82.246814,
+    36.37121
+],
+  "geometry": {"coordinates":[-82.246814,36.37121],"type":"Point"}
+}

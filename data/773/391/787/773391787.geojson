@@ -1,0 +1,71 @@
+{
+  "id": 773391787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.290398,36.210814,-83.290398,36.210814",
+    "geom:latitude":36.210814,
+    "geom:longitude":-83.290398,
+    "iso:country":"US",
+    "sg:address":"420 S Cumberland St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 4655",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QLdHaKwBULH2XPuHWCPLu_36.210814_-83.290398@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585342,
+    "wof:geomhash":"9100a277ebcdb77506eae67f782c0aad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773391787
+        }
+    ],
+    "wof:id":773391787,
+    "wof:lastmodified":1462585342,
+    "wof:name":"Automotive Service Center",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.290398,
+    36.210814,
+    -83.290398,
+    36.210814
+],
+  "geometry": {"coordinates":[-83.290398,36.210814],"type":"Point"}
+}

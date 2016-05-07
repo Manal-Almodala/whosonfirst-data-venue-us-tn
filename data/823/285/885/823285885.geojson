@@ -1,0 +1,88 @@
+{
+  "id": 823285885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.894763,35.106563,-89.894763,35.106563",
+    "geom:latitude":35.106563,
+    "geom:longitude":-89.894763,
+    "iso:country":"US",
+    "sg:address":"5018 Park Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 767 4046",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.littlecaesars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nDNkJuDnwnqVZccWSb6X1_35.106563_-89.894763@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610545,
+    "wof:geomhash":"ef1d13e987bc9fda2fc277c412ab627d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":823285885
+        }
+    ],
+    "wof:id":823285885,
+    "wof:lastmodified":1462610545,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.894763,
+    35.106563,
+    -89.894763,
+    35.106563
+],
+  "geometry": {"coordinates":[-89.894763,35.106563],"type":"Point"}
+}

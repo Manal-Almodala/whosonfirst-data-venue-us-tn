@@ -1,0 +1,71 @@
+{
+  "id": 807287909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.07552,35.919832,-84.07552,35.919832",
+    "geom:latitude":35.919832,
+    "geom:longitude":-84.07552,
+    "iso:country":"US",
+    "sg:address":"8706 Unicorn Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 690 4141",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4McpZNcY48CINaP7B918Wx_35.919832_-84.075520@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605723,
+    "wof:geomhash":"62cdcbac9560ada87d8cb97561c1092a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":807287909
+        }
+    ],
+    "wof:id":807287909,
+    "wof:lastmodified":1462605723,
+    "wof:name":"West Bearden Veterinary Hosp",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "animal"
+    ]
+},
+  "bbox": [
+    -84.07552,
+    35.919832,
+    -84.07552,
+    35.919832
+],
+  "geometry": {"coordinates":[-84.07552,35.919832],"type":"Point"}
+}

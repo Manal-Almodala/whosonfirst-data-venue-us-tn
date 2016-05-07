@@ -1,0 +1,73 @@
+{
+  "id": 773610053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.364167,35.909439,-86.364167,35.909439",
+    "geom:latitude":35.909439,
+    "geom:longitude":-86.364167,
+    "iso:country":"US",
+    "sg:address":"3518 April Ln",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 898 1077",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85840327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aAcMvGofKofZrW5f826lI_35.909439_-86.364167@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587014,
+    "wof:geomhash":"f169844a6f29262558b60bb4b3c2afe6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85840327,
+            "region_id":85688701,
+            "venue_id":773610053
+        }
+    ],
+    "wof:id":773610053,
+    "wof:lastmodified":1462587014,
+    "wof:name":"Sam's Appliance Repair",
+    "wof:parent_id":85840327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -86.364167,
+    35.909439,
+    -86.364167,
+    35.909439
+],
+  "geometry": {"coordinates":[-86.36416699999999,35.909439],"type":"Point"}
+}

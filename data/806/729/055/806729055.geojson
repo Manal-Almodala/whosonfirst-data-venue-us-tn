@@ -1,0 +1,85 @@
+{
+  "id": 806729055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.634303,36.070207,-86.634303,36.070207",
+    "geom:latitude":36.070207,
+    "geom:longitude":-86.634303,
+    "iso:country":"US",
+    "sg:address":"2717 Murfreesboro Pike",
+    "sg:city":"Antioch",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 361 5672",
+    "sg:postcode":"37013",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85846409,
+        420541523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oek6zvg4nnjWyjp0ltVXw_36.070207_-86.634303@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600574,
+    "wof:geomhash":"4976d3950627a49e2fd94fbefea913cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85846409,
+            "region_id":85688701,
+            "venue_id":806729055
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420541523,
+            "region_id":85688701,
+            "venue_id":806729055
+        }
+    ],
+    "wof:id":806729055,
+    "wof:lastmodified":1462600574,
+    "wof:name":"Priest Lake Medical Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.634303,
+    36.070207,
+    -86.634303,
+    36.070207
+],
+  "geometry": {"coordinates":[-86.634303,36.070207],"type":"Point"}
+}

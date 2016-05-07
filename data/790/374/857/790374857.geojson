@@ -1,0 +1,73 @@
+{
+  "id": 790374857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.081621,35.476861,-86.081621,35.476861",
+    "geom:latitude":35.476861,
+    "geom:longitude":-86.081621,
+    "iso:country":"US",
+    "sg:address":"535 Hillsboro Blvd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 1147",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rug2WtFKorK962pg2GRFY_35.476861_-86.081621@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595346,
+    "wof:geomhash":"edc1437fd4c1f5929b36c63e4392b9ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":790374857
+        }
+    ],
+    "wof:id":790374857,
+    "wof:lastmodified":1462595346,
+    "wof:name":"Smith's Auto Repair",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.081621,
+    35.476861,
+    -86.081621,
+    35.476861
+],
+  "geometry": {"coordinates":[-86.081621,35.476861],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806525409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.714062,35.000575,-85.714062,35.000575",
+    "geom:latitude":35.000575,
+    "geom:longitude":-85.714062,
+    "iso:country":"US",
+    "sg:address":"1200 S Cedar Ave",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 7018",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722495,
+        102086347,
+        85823635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IFeFpNxPtCnULxAHmr509_35.000575_-85.714062@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598825,
+    "wof:geomhash":"df4a84bca456dbe8903960bf9074efe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":85823635,
+            "region_id":85688701,
+            "venue_id":806525409
+        }
+    ],
+    "wof:id":806525409,
+    "wof:lastmodified":1462598825,
+    "wof:name":"E Trade",
+    "wof:parent_id":85823635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -85.714062,
+    35.000575,
+    -85.714062,
+    35.000575
+],
+  "geometry": {"coordinates":[-85.714062,35.000575],"type":"Point"}
+}

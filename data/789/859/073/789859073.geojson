@@ -1,0 +1,71 @@
+{
+  "id": 789859073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.647311,36.441753,-86.647311,36.441753",
+    "geom:latitude":36.441753,
+    "geom:longitude":-86.647311,
+    "iso:country":"US",
+    "sg:address":"477 Marlin Rd",
+    "sg:city":"White House",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 672 0906",
+    "sg:postcode":"37188",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723169,
+        102086357,
+        85825691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QxBwny4tumJQahfYVNLw8_36.441753_-86.647311@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591097,
+    "wof:geomhash":"93b5cedacc794dc006d72cd6bedc8c7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85825691,
+            "region_id":85688701,
+            "venue_id":789859073
+        }
+    ],
+    "wof:id":789859073,
+    "wof:lastmodified":1462591097,
+    "wof:name":"Tennessee Backroads Moving Co",
+    "wof:parent_id":85825691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -86.647311,
+    36.441753,
+    -86.647311,
+    36.441753
+],
+  "geometry": {"coordinates":[-86.647311,36.441753],"type":"Point"}
+}

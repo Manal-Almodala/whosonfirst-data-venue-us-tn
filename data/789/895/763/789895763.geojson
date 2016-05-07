@@ -1,0 +1,71 @@
+{
+  "id": 789895763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.263168,36.472775,-82.263168,36.472775",
+    "geom:latitude":36.472775,
+    "geom:longitude":-82.263168,
+    "iso:country":"US",
+    "sg:address":"421 Cedar St",
+    "sg:city":"Bluff City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 538 6448",
+    "sg:postcode":"37618",
+    "sg:province":"TN",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722907,
+        102086471,
+        85825439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g8NFzttrfnEqP9fkk4cSW_36.472775_-82.263168@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591411,
+    "wof:geomhash":"00801d0ead575a9165931be0dcc6817f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722907,
+            "neighbourhood_id":85825439,
+            "region_id":85688701,
+            "venue_id":789895763
+        }
+    ],
+    "wof:id":789895763,
+    "wof:lastmodified":1462591411,
+    "wof:name":"Cetra Pro Painters",
+    "wof:parent_id":85825439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -82.263168,
+    36.472775,
+    -82.263168,
+    36.472775
+],
+  "geometry": {"coordinates":[-82.26316799999999,36.472775],"type":"Point"}
+}

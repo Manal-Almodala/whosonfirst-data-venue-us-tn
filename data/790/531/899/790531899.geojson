@@ -1,0 +1,71 @@
+{
+  "id": 790531899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.280828,36.22101,-83.280828,36.22101",
+    "geom:latitude":36.22101,
+    "geom:longitude":-83.280828,
+    "iso:country":"US",
+    "sg:address":"233 King Ave",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 1242",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CtYwe8FOT3b9cix5O9kGK_36.221010_-83.280828@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596637,
+    "wof:geomhash":"da2676a467254bfedbfb3a2d07c73e1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":790531899
+        }
+    ],
+    "wof:id":790531899,
+    "wof:lastmodified":1462596637,
+    "wof:name":"Kenneth R Mills DDS",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.280828,
+    36.22101,
+    -83.280828,
+    36.22101
+],
+  "geometry": {"coordinates":[-83.280828,36.22101],"type":"Point"}
+}

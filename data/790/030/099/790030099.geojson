@@ -1,0 +1,73 @@
+{
+  "id": 790030099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.01699,35.49901,-85.01699,35.49901",
+    "geom:latitude":35.49901,
+    "geom:longitude":-85.01699,
+    "iso:country":"US",
+    "sg:address":"759 Dayton Mountain Hwy",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 3123",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uOAsFn0PEWAISmpLyarqE_35.499010_-85.016990@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592574,
+    "wof:geomhash":"df80264666a9ac116aca1ddd1d248ce8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":790030099
+        }
+    ],
+    "wof:id":790030099,
+    "wof:lastmodified":1462592574,
+    "wof:name":"Arnel Garage",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.01699,
+    35.49901,
+    -85.01699,
+    35.49901
+],
+  "geometry": {"coordinates":[-85.01699000000001,35.49901],"type":"Point"}
+}

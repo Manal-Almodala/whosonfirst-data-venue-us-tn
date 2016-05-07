@@ -1,0 +1,67 @@
+{
+  "id": 789782819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.895301,35.195076,-89.895301,35.195076",
+    "geom:latitude":35.195076,
+    "geom:longitude":-89.895301,
+    "iso:country":"US",
+    "sg:address":"2542 Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 388 0091",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:website":"www.redwingshoe.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H0GTlDKyzv53xryN68pcg_35.195076_-89.895301@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590512,
+    "wof:geomhash":"a13daf43a9f76d9ff3290d6b7d525a06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789782819
+        }
+    ],
+    "wof:id":789782819,
+    "wof:lastmodified":1462590512,
+    "wof:name":"Red Wing Shoe Store",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.895301,
+    35.195076,
+    -89.895301,
+    35.195076
+],
+  "geometry": {"coordinates":[-89.895301,35.195076],"type":"Point"}
+}

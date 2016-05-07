@@ -1,0 +1,89 @@
+{
+  "id": 807043341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.600686,36.44219,-83.600686,36.44219",
+    "geom:latitude":36.44219,
+    "geom:longitude":-83.600686,
+    "iso:country":"US",
+    "sg:address":"430 S Broad St",
+    "sg:city":"New Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 526 2729",
+    "sg:postcode":"37824",
+    "sg:province":"TN",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917,
+        102191575,
+        101722889,
+        85811469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ootwOqCjjlZmdMW994jS6_36.442190_-83.600686@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603238,
+    "wof:geomhash":"959a431428fa95ccac9285efb694c86e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":807043341
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722889,
+            "neighbourhood_id":85811469,
+            "region_id":85688701,
+            "venue_id":807043341
+        }
+    ],
+    "wof:id":807043341,
+    "wof:lastmodified":1462603238,
+    "wof:name":"Movie Time Video",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -83.600686,
+    36.44219,
+    -83.600686,
+    36.44219
+],
+  "geometry": {"coordinates":[-83.600686,36.44219],"type":"Point"}
+}

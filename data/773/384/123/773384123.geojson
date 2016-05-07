@@ -1,0 +1,85 @@
+{
+  "id": 773384123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.588191,36.446774,-83.588191,36.446774",
+    "geom:latitude":36.446774,
+    "geom:longitude":-83.588191,
+    "iso:country":"US",
+    "sg:address":"926 N Broad St",
+    "sg:city":"New Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 6888",
+    "sg:postcode":"37825",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917,
+        102191575,
+        101722889,
+        85811469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77xDIAEFxtkfI0Qow9yQYD_36.446774_-83.588191@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585279,
+    "wof:geomhash":"1afdbc3e5f7614b88ddef25a12d04dbf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":773384123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722889,
+            "neighbourhood_id":85811469,
+            "region_id":85688701,
+            "venue_id":773384123
+        }
+    ],
+    "wof:id":773384123,
+    "wof:lastmodified":1462585279,
+    "wof:name":"Hatfield Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.588191,
+    36.446774,
+    -83.588191,
+    36.446774
+],
+  "geometry": {"coordinates":[-83.58819099999999,36.446774],"type":"Point"}
+}

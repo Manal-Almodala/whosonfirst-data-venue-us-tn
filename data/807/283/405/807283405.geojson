@@ -1,0 +1,73 @@
+{
+  "id": 807283405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.570245,35.966359,-86.570245,35.966359",
+    "geom:latitude":35.966359,
+    "geom:longitude":-86.570245,
+    "iso:country":"US",
+    "sg:address":"528 Breslin Ave",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 223 1366",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85845521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j7GlwzqrlVhzH9AU0MNof_35.966359_-86.570245@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605682,
+    "wof:geomhash":"e0fccd05c3084ef19b94fbc6087f41b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85845521,
+            "region_id":85688701,
+            "venue_id":807283405
+        }
+    ],
+    "wof:id":807283405,
+    "wof:lastmodified":1462605682,
+    "wof:name":"Heating Illustrated",
+    "wof:parent_id":85845521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.570245,
+    35.966359,
+    -86.570245,
+    35.966359
+],
+  "geometry": {"coordinates":[-86.570245,35.966359],"type":"Point"}
+}

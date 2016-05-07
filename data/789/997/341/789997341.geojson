@@ -1,0 +1,71 @@
+{
+  "id": 789997341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.445701,35.816446,-86.445701,35.816446",
+    "geom:latitude":35.816446,
+    "geom:longitude":-86.445701,
+    "iso:country":"US",
+    "sg:address":"1650 Cason Ln",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 6005",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xhp3XuzWI5k2xVmZ7EN4T_35.816446_-86.445701@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592310,
+    "wof:geomhash":"c378ebb52d60521fcb6c931cb8964a25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":789997341
+        }
+    ],
+    "wof:id":789997341,
+    "wof:lastmodified":1462592310,
+    "wof:name":"Cason Estates",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.445701,
+    35.816446,
+    -86.445701,
+    35.816446
+],
+  "geometry": {"coordinates":[-86.445701,35.816446],"type":"Point"}
+}

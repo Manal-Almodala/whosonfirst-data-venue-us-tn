@@ -1,0 +1,71 @@
+{
+  "id": 806554237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.620328,35.253128,-86.620328,35.253128",
+    "geom:latitude":35.253128,
+    "geom:longitude":-86.620328,
+    "iso:country":"US",
+    "sg:address":"8 Jobe Rd",
+    "sg:city":"Petersburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 438 4080",
+    "sg:postcode":"37144",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7beKiVOIKPr3BDeHQsLthK_35.253128_-86.620328@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599065,
+    "wof:geomhash":"44a43bf9558cf65f5bfa2f964fe57788",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":806554237
+        }
+    ],
+    "wof:id":806554237,
+    "wof:lastmodified":1462599065,
+    "wof:name":"Mike Harry DVM",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.620328,
+    35.253128,
+    -86.620328,
+    35.253128
+],
+  "geometry": {"coordinates":[-86.620328,35.253128],"type":"Point"}
+}

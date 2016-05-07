@@ -1,0 +1,69 @@
+{
+  "id": 789680401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.93272,35.307752,-85.93272,35.307752",
+    "geom:latitude":35.307752,
+    "geom:longitude":-85.93272,
+    "iso:country":"US",
+    "sg:address":"529 Wilder Rd",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 467 3559",
+    "sg:postcode":"37342",
+    "sg:province":"TN",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jJPGLUKtLJ3mrlQyLzi8o_35.307752_-85.932720@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589706,
+    "wof:geomhash":"00f0d65d51b608e5f541996bbaa68519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":789680401
+        }
+    ],
+    "wof:id":789680401,
+    "wof:lastmodified":1462589706,
+    "wof:name":"M&M Logging LLC",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -85.93272,
+    35.307752,
+    -85.93272,
+    35.307752
+],
+  "geometry": {"coordinates":[-85.93272,35.307752],"type":"Point"}
+}

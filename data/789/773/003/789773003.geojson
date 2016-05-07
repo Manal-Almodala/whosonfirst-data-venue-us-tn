@@ -1,0 +1,78 @@
+{
+  "id": 789773003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.716516,36.273358,-86.716516,36.273358",
+    "geom:latitude":36.273358,
+    "geom:longitude":-86.716516,
+    "iso:country":"US",
+    "sg:address":"222 Nesbitt Ln",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 870 0291",
+    "sg:postcode":"37115",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85803051
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Haf8nCu067vIteprLN8Hf_36.273358_-86.716516@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590422,
+    "wof:geomhash":"aa8ba5fdc5ea514976b697d9bef27e11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85803051,
+            "region_id":85688701,
+            "venue_id":789773003
+        }
+    ],
+    "wof:id":789773003,
+    "wof:lastmodified":1462590422,
+    "wof:name":"Jean's Cleaning Co",
+    "wof:parent_id":85803051,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.716516,
+    36.273358,
+    -86.716516,
+    36.273358
+],
+  "geometry": {"coordinates":[-86.716516,36.273358],"type":"Point"}
+}

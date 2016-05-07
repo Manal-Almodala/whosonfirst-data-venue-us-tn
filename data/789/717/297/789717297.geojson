@@ -1,0 +1,69 @@
+{
+  "id": 789717297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.686087,35.625999,-86.686087,35.625999",
+    "geom:latitude":35.625999,
+    "geom:longitude":-86.686087,
+    "iso:country":"US",
+    "sg:address":"411 E Depot St",
+    "sg:city":"Chapel Hill",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 364 7224",
+    "sg:postcode":"37034",
+    "sg:province":"TN",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85854287,
+        102087115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wOzhU5vhQAlKLFjKlC0P2_35.625999_-86.686087@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589991,
+    "wof:geomhash":"892606bcf79501e3dd98423cceee7f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "neighbourhood_id":85854287,
+            "region_id":85688701,
+            "venue_id":789717297
+        }
+    ],
+    "wof:id":789717297,
+    "wof:lastmodified":1462589991,
+    "wof:name":"Adams & Company Surveyors",
+    "wof:parent_id":85854287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -86.686087,
+    35.625999,
+    -86.686087,
+    35.625999
+],
+  "geometry": {"coordinates":[-86.686087,35.625999],"type":"Point"}
+}

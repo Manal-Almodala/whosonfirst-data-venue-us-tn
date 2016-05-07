@@ -1,0 +1,71 @@
+{
+  "id": 823188873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.597619,35.441853,-84.597619,35.441853",
+    "geom:latitude":35.441853,
+    "geom:longitude":-84.597619,
+    "iso:country":"US",
+    "sg:address":"110 N Kilgore St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 744 3900",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63KmpaQI1rAT1sCt31HUAr_35.441853_-84.597619@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608177,
+    "wof:geomhash":"068ef12380f75097c9d8dff15df9ab5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":823188873
+        }
+    ],
+    "wof:id":823188873,
+    "wof:lastmodified":1462608177,
+    "wof:name":"J P Taxi Svc",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.597619,
+    35.441853,
+    -84.597619,
+    35.441853
+],
+  "geometry": {"coordinates":[-84.59761899999999,35.441853],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807153693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.788907,35.450991,-86.788907,35.450991",
+    "geom:latitude":35.450991,
+    "geom:longitude":-86.788907,
+    "iso:country":"US",
+    "sg:address":"100 Water St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 359 6831",
+    "sg:postcode":"37091",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722897,
+        102087115,
+        85811699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p2Szy7C3fHFAR8jdKKvUF_35.450991_-86.788907@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604308,
+    "wof:geomhash":"b443a69edcc423496671443e374d6470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "locality_id":101722897,
+            "neighbourhood_id":85811699,
+            "region_id":85688701,
+            "venue_id":807153693
+        }
+    ],
+    "wof:id":807153693,
+    "wof:lastmodified":1462604308,
+    "wof:name":"Lewisburg Water & Wastewater",
+    "wof:parent_id":85811699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -86.788907,
+    35.450991,
+    -86.788907,
+    35.450991
+],
+  "geometry": {"coordinates":[-86.78890699999999,35.450991],"type":"Point"}
+}

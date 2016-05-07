@@ -1,0 +1,77 @@
+{
+  "id": 789603973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.096659,35.939446,-84.096659,35.939446",
+    "geom:latitude":35.939446,
+    "geom:longitude":-84.096659,
+    "iso:country":"US",
+    "sg:address":"9215 Bob Gray Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 690 9208",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "camp"
+    ],
+    "sg:website":"www.tatesschool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TzxhjVFKnDXTK3OEbKS5g_35.939446_-84.096659@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589096,
+    "wof:geomhash":"d546a75272eb2fab0fc1befe798fc3de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":789603973
+        }
+    ],
+    "wof:id":789603973,
+    "wof:lastmodified":1462589096,
+    "wof:name":"Tate's School Of Discovery",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "camp"
+    ]
+},
+  "bbox": [
+    -84.096659,
+    35.939446,
+    -84.096659,
+    35.939446
+],
+  "geometry": {"coordinates":[-84.096659,35.939446],"type":"Point"}
+}

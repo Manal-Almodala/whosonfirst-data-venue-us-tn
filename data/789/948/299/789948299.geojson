@@ -1,0 +1,71 @@
+{
+  "id": 789948299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.929123,36.074679,-83.929123,36.074679",
+    "geom:latitude":36.074679,
+    "geom:longitude":-83.929123,
+    "iso:country":"US",
+    "sg:address":"3725 Cunningham Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 922 7567",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FKLzcaihLJF35G7x7k6ha_36.074679_-83.929123@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591892,
+    "wof:geomhash":"b56d9d52344b867ce767a73482d6063e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":789948299
+        }
+    ],
+    "wof:id":789948299,
+    "wof:lastmodified":1462591892,
+    "wof:name":"Halls Service Center",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -83.929123,
+    36.074679,
+    -83.929123,
+    36.074679
+],
+  "geometry": {"coordinates":[-83.929123,36.074679],"type":"Point"}
+}

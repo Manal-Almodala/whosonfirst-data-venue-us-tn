@@ -1,0 +1,80 @@
+{
+  "id": 823267427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.671791,36.105679,-86.671791,36.105679",
+    "geom:latitude":36.105679,
+    "geom:longitude":-86.671791,
+    "iso:country":"US",
+    "sg:address":"1603 Murfreesboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 361 2836",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department",
+        "government-state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85804275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JyQePU73uN8u6PD69BRvN_36.105679_-86.671791@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609805,
+    "wof:geomhash":"02a45ebfd2b831c70cbf30746b9389a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85804275,
+            "region_id":85688701,
+            "venue_id":823267427
+        }
+    ],
+    "wof:id":823267427,
+    "wof:lastmodified":1462609805,
+    "wof:name":"Tennessee State Government",
+    "wof:parent_id":85804275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "government-state"
+    ]
+},
+  "bbox": [
+    -86.671791,
+    36.105679,
+    -86.671791,
+    36.105679
+],
+  "geometry": {"coordinates":[-86.671791,36.105679],"type":"Point"}
+}

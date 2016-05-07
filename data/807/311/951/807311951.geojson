@@ -1,0 +1,84 @@
+{
+  "id": 807311951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.011758,35.958281,-85.011758,35.958281",
+    "geom:latitude":35.958281,
+    "geom:longitude":-85.011758,
+    "iso:country":"US",
+    "sg:address":"607 Cook Rd",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 4076",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "exchanging",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809,
+        102191575,
+        85824095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TcKWwQPWojxgQCDPusqGa_35.958281_-85.011758@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605977,
+    "wof:geomhash":"a6be6ac5ac8f715038ffadec5940d642",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":807311951
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85824095,
+            "region_id":85688701,
+            "venue_id":807311951
+        }
+    ],
+    "wof:id":807311951,
+    "wof:lastmodified":1462605977,
+    "wof:name":"Gilley's Small Engine Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exchanging",
+        "engine"
+    ]
+},
+  "bbox": [
+    -85.011758,
+    35.958281,
+    -85.011758,
+    35.958281
+],
+  "geometry": {"coordinates":[-85.011758,35.958281],"type":"Point"}
+}

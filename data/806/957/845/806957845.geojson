@@ -1,0 +1,73 @@
+{
+  "id": 806957845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.571419,36.451468,-83.571419,36.451468",
+    "geom:latitude":36.451468,
+    "geom:longitude":-83.571419,
+    "iso:country":"US",
+    "sg:address":"1601 Tazewell Rd",
+    "sg:city":"Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 4299",
+    "sg:postcode":"37879",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X3FsE3s3hsH5ac3YFxURT_36.451468_-83.571419@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602509,
+    "wof:geomhash":"c3e264009ec75b8393184db3e47add07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":806957845
+        }
+    ],
+    "wof:id":806957845,
+    "wof:lastmodified":1462602509,
+    "wof:name":"Richard Clark MD",
+    "wof:parent_id":85810917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.571419,
+    36.451468,
+    -83.571419,
+    36.451468
+],
+  "geometry": {"coordinates":[-83.57141900000001,36.451468],"type":"Point"}
+}

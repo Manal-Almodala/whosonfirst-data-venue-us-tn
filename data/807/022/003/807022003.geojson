@@ -1,0 +1,78 @@
+{
+  "id": 807022003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.328614,35.244659,-87.328614,35.244659",
+    "geom:latitude":35.244659,
+    "geom:longitude":-87.328614,
+    "iso:country":"US",
+    "sg:address":"518 N Locust Ave",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 9033",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "piano",
+        "organs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U825RbqLy24TLtxgwtAjc_35.244659_-87.328614@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603054,
+    "wof:geomhash":"e397a521adf2e81657586a3994468744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":807022003
+        }
+    ],
+    "wof:id":807022003,
+    "wof:lastmodified":1462603054,
+    "wof:name":"Mayberry's Piano Works",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "organs"
+    ]
+},
+  "bbox": [
+    -87.328614,
+    35.244659,
+    -87.328614,
+    35.244659
+],
+  "geometry": {"coordinates":[-87.328614,35.244659],"type":"Point"}
+}

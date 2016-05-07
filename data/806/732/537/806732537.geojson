@@ -1,0 +1,71 @@
+{
+  "id": 806732537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.279216,35.673875,-86.279216,35.673875",
+    "geom:latitude":35.673875,
+    "geom:longitude":-86.279216,
+    "iso:country":"US",
+    "sg:address":"7318 Manchester Pike",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 7117",
+    "sg:postcode":"37127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wGoFraM08ei0S01JsvMHz_35.673875_-86.279216@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600605,
+    "wof:geomhash":"fbff20611e321980eaa9398e336efbe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":806732537
+        }
+    ],
+    "wof:id":806732537,
+    "wof:lastmodified":1462600605,
+    "wof:name":"Gordon's Market",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.279216,
+    35.673875,
+    -86.279216,
+    35.673875
+],
+  "geometry": {"coordinates":[-86.27921600000001,35.673875],"type":"Point"}
+}

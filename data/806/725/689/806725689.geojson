@@ -1,0 +1,71 @@
+{
+  "id": 806725689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.171369,36.33829,-84.171369,36.33829",
+    "geom:latitude":36.33829,
+    "geom:longitude":-84.171369,
+    "iso:country":"US",
+    "sg:address":"2500 Jacksboro Pike",
+    "sg:city":"Jacksboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 562 2753",
+    "sg:postcode":"37757",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722415,
+        102086391,
+        85841731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qmr0DN5ABM2Vmg72sshK4_36.338290_-84.171369@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600550,
+    "wof:geomhash":"447be8905fcfbd3427fa80d783dd22c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086391,
+            "locality_id":101722415,
+            "neighbourhood_id":85841731,
+            "region_id":85688701,
+            "venue_id":806725689
+        }
+    ],
+    "wof:id":806725689,
+    "wof:lastmodified":1462600550,
+    "wof:name":"Food City",
+    "wof:parent_id":85841731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.171369,
+    36.33829,
+    -84.171369,
+    36.33829
+],
+  "geometry": {"coordinates":[-84.171369,36.33829],"type":"Point"}
+}

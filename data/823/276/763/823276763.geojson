@@ -1,0 +1,85 @@
+{
+  "id": 823276763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.643509,35.576939,-89.643509,35.576939",
+    "geom:latitude":35.576939,
+    "geom:longitude":-89.643509,
+    "iso:country":"US",
+    "sg:address":"910 Highway 51 N",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 2227",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "batteries-storage",
+        "accessory"
+    ],
+    "sg:website":"http://www.autozone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bxUyMdz80FcTRtt1DQ19A_35.576939_-89.643509@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610180,
+    "wof:geomhash":"b1d9d908bea065cb140135b4b512b43a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823276763
+        }
+    ],
+    "wof:id":823276763,
+    "wof:lastmodified":1462610180,
+    "wof:name":"AutoZone",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "batteries-storage",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -89.643509,
+    35.576939,
+    -89.643509,
+    35.576939
+],
+  "geometry": {"coordinates":[-89.64350899999999,35.576939],"type":"Point"}
+}

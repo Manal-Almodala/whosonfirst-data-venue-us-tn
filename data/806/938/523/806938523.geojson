@@ -1,0 +1,75 @@
+{
+  "id": 806938523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.707535,35.00804,-85.707535,35.00804",
+    "geom:latitude":35.00804,
+    "geom:longitude":-85.707535,
+    "iso:country":"US",
+    "sg:address":"601 S Cedar Ave",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 7055",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722495,
+        102086347,
+        85823635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71ctkvrLjd3vTE4QxkOv0A_35.008040_-85.707535@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602349,
+    "wof:geomhash":"0fd99f8291ceed6c94e74a0112c718a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":85823635,
+            "region_id":85688701,
+            "venue_id":806938523
+        }
+    ],
+    "wof:id":806938523,
+    "wof:lastmodified":1462602349,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85823635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.707535,
+    35.00804,
+    -85.707535,
+    35.00804
+],
+  "geometry": {"coordinates":[-85.70753499999999,35.00804],"type":"Point"}
+}

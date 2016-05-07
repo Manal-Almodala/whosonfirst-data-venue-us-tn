@@ -1,0 +1,73 @@
+{
+  "id": 789949123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.033204,35.207338,-90.033204,35.207338",
+    "geom:latitude":35.207338,
+    "geom:longitude":-90.033204,
+    "iso:country":"US",
+    "sg:address":"3037 Thomas St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 353 4275",
+    "sg:postcode":"38127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85820619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qSWsXnuPTNckncqDacTIB_35.207338_-90.033204@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591904,
+    "wof:geomhash":"f2646f202d176446abf3709cb8e2243b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85820619,
+            "region_id":85688701,
+            "venue_id":789949123
+        }
+    ],
+    "wof:id":789949123,
+    "wof:lastmodified":1462591904,
+    "wof:name":"Dillon's Restaurant",
+    "wof:parent_id":85820619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.033204,
+    35.207338,
+    -90.033204,
+    35.207338
+],
+  "geometry": {"coordinates":[-90.033204,35.207338],"type":"Point"}
+}

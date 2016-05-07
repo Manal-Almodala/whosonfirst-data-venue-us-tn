@@ -1,0 +1,71 @@
+{
+  "id": 773360471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.007876,35.509475,-85.007876,35.509475",
+    "geom:latitude":35.509475,
+    "geom:longitude":-85.007876,
+    "iso:country":"US",
+    "sg:address":"995 Broadway St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 6278",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fnndtA9yje220QFYS1n6W_35.509475_-85.007876@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585117,
+    "wof:geomhash":"1a9440f9f931c49627dc846980ea92df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":773360471
+        }
+    ],
+    "wof:id":773360471,
+    "wof:lastmodified":1462585117,
+    "wof:name":"Volunteer Trucking Inc",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.007876,
+    35.509475,
+    -85.007876,
+    35.509475
+],
+  "geometry": {"coordinates":[-85.007876,35.509475],"type":"Point"}
+}

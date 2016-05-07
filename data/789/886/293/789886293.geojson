@@ -1,0 +1,71 @@
+{
+  "id": 789886293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.252254,36.574009,-82.252254,36.574009",
+    "geom:latitude":36.574009,
+    "geom:longitude":-82.252254,
+    "iso:country":"US",
+    "sg:address":"117 Lone Oak Ln",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 764 3621",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85825325,
+        102086471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UIG7F99WPSKXUm7t3cwOK_36.574009_-82.252254@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591341,
+    "wof:geomhash":"5521812a51f69b5227b8208a558f408d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "neighbourhood_id":85825325,
+            "region_id":85688701,
+            "venue_id":789886293
+        }
+    ],
+    "wof:id":789886293,
+    "wof:lastmodified":1462591341,
+    "wof:name":"Affordable Locksmith Svc",
+    "wof:parent_id":85825325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -82.252254,
+    36.574009,
+    -82.252254,
+    36.574009
+],
+  "geometry": {"coordinates":[-82.25225399999999,36.574009],"type":"Point"}
+}

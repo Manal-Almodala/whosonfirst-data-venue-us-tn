@@ -1,0 +1,73 @@
+{
+  "id": 789989973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.913012,35.082581,-89.913012,35.082581",
+    "geom:latitude":35.082581,
+    "geom:longitude":-89.913012,
+    "iso:country":"US",
+    "sg:address":"1743 Danville Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 682 5993",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85839073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZBpo7KnziwOXl4k09DogY_35.082581_-89.913012@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592246,
+    "wof:geomhash":"e946d4e24a48f2039404b4def5d7a644",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85839073,
+            "region_id":85688701,
+            "venue_id":789989973
+        }
+    ],
+    "wof:id":789989973,
+    "wof:lastmodified":1462592246,
+    "wof:name":"Twins Cleaning Svc",
+    "wof:parent_id":85839073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -89.913012,
+    35.082581,
+    -89.913012,
+    35.082581
+],
+  "geometry": {"coordinates":[-89.91301199999999,35.082581],"type":"Point"}
+}

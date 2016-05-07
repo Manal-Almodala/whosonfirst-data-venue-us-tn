@@ -1,0 +1,71 @@
+{
+  "id": 806541659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.80779,35.616683,-88.80779,35.616683",
+    "geom:latitude":35.616683,
+    "geom:longitude":-88.80779,
+    "iso:country":"US",
+    "sg:address":"340 N Hays Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 424 4351",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L6qcp8IkSOYVSt29I08gS_35.616683_-88.807790@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598974,
+    "wof:geomhash":"0b7d78593f002235e6e86217f7ee29af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":806541659
+        }
+    ],
+    "wof:id":806541659,
+    "wof:lastmodified":1462598974,
+    "wof:name":"Melvin Wright DDS",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.80779,
+    35.616683,
+    -88.80779,
+    35.616683
+],
+  "geometry": {"coordinates":[-88.80779,35.616683],"type":"Point"}
+}

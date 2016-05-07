@@ -1,0 +1,73 @@
+{
+  "id": 789794701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.514229,36.190972,-86.514229,36.190972",
+    "geom:latitude":36.190972,
+    "geom:longitude":-86.514229,
+    "iso:country":"US",
+    "sg:address":"1378 N Mount Juliet Rd",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 754 2315",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VIX1CjypU4vlGBMAHMLLU_36.190972_-86.514229@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590603,
+    "wof:geomhash":"b58d8d48975d11b62a6d8fa16741db16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":789794701
+        }
+    ],
+    "wof:id":789794701,
+    "wof:lastmodified":1462590603,
+    "wof:name":"Hobbs & Sons Garage",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.514229,
+    36.190972,
+    -86.514229,
+    36.190972
+],
+  "geometry": {"coordinates":[-86.514229,36.190972],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 823275053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.151702,35.907484,-84.151702,35.907484",
+    "geom:latitude":35.907484,
+    "geom:longitude":-84.151702,
+    "iso:country":"US",
+    "sg:address":"11146 Outlet Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 671 4000",
+    "sg:postcode":"37932",
+    "sg:province":"TN",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.glassusa.com/safety",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85852201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VcsIGU5fyEG4YQq3zbpmJ_35.907484_-84.151702@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610109,
+    "wof:geomhash":"c5a9d94a82b5b67f9020f4f74803b419",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85852201,
+            "region_id":85688701,
+            "venue_id":823275053
+        }
+    ],
+    "wof:id":823275053,
+    "wof:lastmodified":1462610109,
+    "wof:name":"Auto Glass Service",
+    "wof:parent_id":85852201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -84.151702,
+    35.907484,
+    -84.151702,
+    35.907484
+],
+  "geometry": {"coordinates":[-84.151702,35.907484],"type":"Point"}
+}

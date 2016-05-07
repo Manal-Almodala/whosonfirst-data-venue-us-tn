@@ -1,0 +1,71 @@
+{
+  "id": 789937543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.858419,35.224477,-89.858419,35.224477",
+    "geom:latitude":35.224477,
+    "geom:longitude":-89.858419,
+    "iso:country":"US",
+    "sg:address":"3620 J Alan Dr",
+    "sg:city":"Bartlett",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 355 3114",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Cp3mtP7KsglHmnvSwm6Vb_35.224477_-89.858419@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591769,
+    "wof:geomhash":"9d44acba0a0761994b07ade1287f96f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789937543
+        }
+    ],
+    "wof:id":789937543,
+    "wof:lastmodified":1462591769,
+    "wof:name":"Next Level Painting",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -89.858419,
+    35.224477,
+    -89.858419,
+    35.224477
+],
+  "geometry": {"coordinates":[-89.858419,35.224477],"type":"Point"}
+}

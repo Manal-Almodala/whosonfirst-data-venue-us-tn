@@ -1,0 +1,77 @@
+{
+  "id": 789892927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.645304,36.303512,-86.645304,36.303512",
+    "geom:latitude":36.303512,
+    "geom:longitude":-86.645304,
+    "iso:country":"US",
+    "sg:address":"800 W Main St",
+    "sg:city":"Hendersonville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 824 7018",
+    "sg:postcode":"37075",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723169,
+        102086357,
+        85825073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k7kh60vIuB0xlYPWG2UJK_36.303512_-86.645304@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591391,
+    "wof:geomhash":"ed414888d32d478c496e793d4b0c005c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85825073,
+            "region_id":85688701,
+            "venue_id":789892927
+        }
+    ],
+    "wof:id":789892927,
+    "wof:lastmodified":1462591391,
+    "wof:name":"BP",
+    "wof:parent_id":85825073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -86.645304,
+    36.303512,
+    -86.645304,
+    36.303512
+],
+  "geometry": {"coordinates":[-86.645304,36.303512],"type":"Point"}
+}

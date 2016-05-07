@@ -1,0 +1,75 @@
+{
+  "id": 806943091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.525186,35.425525,-84.525186,35.425525",
+    "geom:latitude":35.425525,
+    "geom:longitude":-84.525186,
+    "iso:country":"US",
+    "sg:address":"1140 Hwy 39 E",
+    "sg:city":"Englewood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 8567",
+    "sg:postcode":"37329",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pump",
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722749,
+        102086293,
+        85839313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QSwJ4BjMMIojyJXoUmaI0_35.425525_-84.525186@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602385,
+    "wof:geomhash":"a6c9862391dd6fafef81eabbc00294a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722749,
+            "neighbourhood_id":85839313,
+            "region_id":85688701,
+            "venue_id":806943091
+        }
+    ],
+    "wof:id":806943091,
+    "wof:lastmodified":1462602385,
+    "wof:name":"Sweetwater Electric Motor Svc",
+    "wof:parent_id":85839313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pump",
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -84.525186,
+    35.425525,
+    -84.525186,
+    35.425525
+],
+  "geometry": {"coordinates":[-84.52518600000001,35.425525],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789686255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.649806,35.563935,-89.649806,35.563935",
+    "geom:latitude":35.563935,
+    "geom:longitude":-89.649806,
+    "iso:country":"US",
+    "sg:address":"109 US Hwy 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 2776",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rBARQZkDWkfwC7qewG5RE_35.563935_-89.649806@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589751,
+    "wof:geomhash":"96d435ac7fc30c42768fee9d41186145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789686255
+        }
+    ],
+    "wof:id":789686255,
+    "wof:lastmodified":1462589751,
+    "wof:name":"Ideal Cleaners",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -89.649806,
+    35.563935,
+    -89.649806,
+    35.563935
+],
+  "geometry": {"coordinates":[-89.649806,35.563935],"type":"Point"}
+}

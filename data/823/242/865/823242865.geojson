@@ -1,0 +1,76 @@
+{
+  "id": 823242865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.457465,36.382315,-86.457465,36.382315",
+    "geom:latitude":36.382315,
+    "geom:longitude":-86.457465,
+    "iso:country":"US",
+    "sg:address":"420 Maple St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/gallatin/85651-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 3030",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dBzhuE2wztOdFmFX9tgyz_36.382315_-86.457465@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609199,
+    "wof:geomhash":"1205a26300c63d5082fb7ed2d47676be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":823242865
+        }
+    ],
+    "wof:id":823242865,
+    "wof:lastmodified":1462609199,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.457465,
+    36.382315,
+    -86.457465,
+    36.382315
+],
+  "geometry": {"coordinates":[-86.457465,36.382315],"type":"Point"}
+}

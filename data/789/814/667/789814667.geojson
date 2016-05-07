@@ -1,0 +1,75 @@
+{
+  "id": 789814667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.274159,36.207228,-83.274159,36.207228",
+    "geom:latitude":36.207228,
+    "geom:longitude":-83.274159,
+    "iso:country":"US",
+    "sg:address":"1209 Ledford Ave",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 3507",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85852009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5o23hvFvKjYWu4eEE3Ccua_36.207228_-83.274159@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590750,
+    "wof:geomhash":"3259e0cf74b60fa53990b25be7f2c648",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85852009,
+            "region_id":85688701,
+            "venue_id":789814667
+        }
+    ],
+    "wof:id":789814667,
+    "wof:lastmodified":1462590750,
+    "wof:name":"Johnsons Trucking",
+    "wof:parent_id":85852009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.274159,
+    36.207228,
+    -83.274159,
+    36.207228
+],
+  "geometry": {"coordinates":[-83.274159,36.207228],"type":"Point"}
+}

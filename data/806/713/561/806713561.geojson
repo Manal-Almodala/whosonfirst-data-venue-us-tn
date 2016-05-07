@@ -1,0 +1,84 @@
+{
+  "id": 806713561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.974603,35.177305,-89.974603,35.177305",
+    "geom:latitude":35.177305,
+    "geom:longitude":-89.974603,
+    "iso:country":"US",
+    "sg:address":"2500 Peres Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 458 7027",
+    "sg:postcode":"38108",
+    "sg:province":"TN",
+    "sg:tags":[
+        "county",
+        "physician",
+        "surgeon",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85826023
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DwL7nhXbbew1icqpaNnJr_35.177305_-89.974603@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600446,
+    "wof:geomhash":"8a47ed3e56927e10c80b92ebaf4de507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85826023,
+            "region_id":85688701,
+            "venue_id":806713561
+        }
+    ],
+    "wof:id":806713561,
+    "wof:lastmodified":1462600446,
+    "wof:name":"Hollywood WIC Clinic",
+    "wof:parent_id":85826023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "physician",
+        "surgeon",
+        "resource"
+    ]
+},
+  "bbox": [
+    -89.974603,
+    35.177305,
+    -89.974603,
+    35.177305
+],
+  "geometry": {"coordinates":[-89.974603,35.177305],"type":"Point"}
+}

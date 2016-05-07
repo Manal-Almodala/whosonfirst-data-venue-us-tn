@@ -1,0 +1,75 @@
+{
+  "id": 807081621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.481391,35.995541,-86.481391,35.995541",
+    "geom:latitude":35.995541,
+    "geom:longitude":-86.481391,
+    "iso:country":"US",
+    "sg:address":"303 Jefferson Pike",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 459 3020",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85823525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5usyaCSJrhgOV7SVQeofeH_35.995541_-86.481391@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603546,
+    "wof:geomhash":"13222c8f42dfb2ea8e1c2c952f7f004a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85823525,
+            "region_id":85688701,
+            "venue_id":807081621
+        }
+    ],
+    "wof:id":807081621,
+    "wof:lastmodified":1462603546,
+    "wof:name":"Posh Pets Dog Grooming",
+    "wof:parent_id":85823525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -86.481391,
+    35.995541,
+    -86.481391,
+    35.995541
+],
+  "geometry": {"coordinates":[-86.481391,35.995541],"type":"Point"}
+}

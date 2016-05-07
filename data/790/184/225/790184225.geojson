@@ -1,0 +1,73 @@
+{
+  "id": 790184225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.581395,35.881981,-83.581395,35.881981",
+    "geom:latitude":35.881981,
+    "geom:longitude":-83.581395,
+    "iso:country":"US",
+    "sg:address":"1012 Old Knoxville Hwy",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 428 1800",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85809817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4slXtZI1aO0p7G19FYL4gF_35.881981_-83.581395@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593808,
+    "wof:geomhash":"30ea06661d3cc9cf7e8fad9065508fd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85809817,
+            "region_id":85688701,
+            "venue_id":790184225
+        }
+    ],
+    "wof:id":790184225,
+    "wof:lastmodified":1462593808,
+    "wof:name":"Tri-County Appliance Service",
+    "wof:parent_id":85809817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -83.581395,
+    35.881981,
+    -83.581395,
+    35.881981
+],
+  "geometry": {"coordinates":[-83.581395,35.881981],"type":"Point"}
+}

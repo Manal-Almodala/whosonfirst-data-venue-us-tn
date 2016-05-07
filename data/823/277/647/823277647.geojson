@@ -1,0 +1,73 @@
+{
+  "id": 823277647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.797014,35.447269,-89.797014,35.447269",
+    "geom:latitude":35.447269,
+    "geom:longitude":-89.797014,
+    "iso:country":"US",
+    "sg:address":"76 Doctors Dr",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 840 4446",
+    "sg:postcode":"38058",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_543j5JMvforUlw6eZQmptu_35.447269_-89.797014@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610212,
+    "wof:geomhash":"c9db569f921750f8449b7bbbf3f9cf7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823277647
+        }
+    ],
+    "wof:id":823277647,
+    "wof:lastmodified":1462610212,
+    "wof:name":"SMZ Specialist PC",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.797014,
+    35.447269,
+    -89.797014,
+    35.447269
+],
+  "geometry": {"coordinates":[-89.797014,35.447269],"type":"Point"}
+}

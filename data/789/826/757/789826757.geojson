@@ -1,0 +1,75 @@
+{
+  "id": 789826757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.953895,35.982304,-83.953895,35.982304",
+    "geom:latitude":35.982304,
+    "geom:longitude":-83.953895,
+    "iso:country":"US",
+    "sg:address":"1322 New York Ave",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 525 8464",
+    "sg:postcode":"37921",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85878543
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bS8NocPuiooOacIFvs2Wt_35.982304_-83.953895@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590844,
+    "wof:geomhash":"27703101fdff794314828f2e3018e46b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85878543,
+            "region_id":85688701,
+            "venue_id":789826757
+        }
+    ],
+    "wof:id":789826757,
+    "wof:lastmodified":1462590844,
+    "wof:name":"Garage",
+    "wof:parent_id":85878543,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.953895,
+    35.982304,
+    -83.953895,
+    35.982304
+],
+  "geometry": {"coordinates":[-83.953895,35.982304],"type":"Point"}
+}

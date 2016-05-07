@@ -1,0 +1,71 @@
+{
+  "id": 773155123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.916091,36.061523,-83.916091,36.061523",
+    "geom:latitude":36.061523,
+    "geom:longitude":-83.916091,
+    "iso:country":"US",
+    "sg:address":"4117 Genny Lynn Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 687 5878",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bs3YeqGqEYg9vm0tJTgeR_36.061523_-83.916091@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583558,
+    "wof:geomhash":"1ac0236f4b554180e9042406b6f5ebc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":773155123
+        }
+    ],
+    "wof:id":773155123,
+    "wof:lastmodified":1462583558,
+    "wof:name":"Norris Package Svc",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -83.916091,
+    36.061523,
+    -83.916091,
+    36.061523
+],
+  "geometry": {"coordinates":[-83.91609099999999,36.061523],"type":"Point"}
+}

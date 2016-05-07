@@ -1,0 +1,73 @@
+{
+  "id": 789652515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.503062,35.882999,-84.503062,35.882999",
+    "geom:latitude":35.882999,
+    "geom:longitude":-84.503062,
+    "iso:country":"US",
+    "sg:address":"1200 N Kentucky St",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 376 3477",
+    "sg:postcode":"37763",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operation",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723087,
+        102087051,
+        85838767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PJfOtGp4PYauM5PSXcGtd_35.882999_-84.503062@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589475,
+    "wof:geomhash":"51ce64a438b42dcb649528e0fdbed5d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101723087,
+            "neighbourhood_id":85838767,
+            "region_id":85688701,
+            "venue_id":789652515
+        }
+    ],
+    "wof:id":789652515,
+    "wof:lastmodified":1462589475,
+    "wof:name":"Knights Inn",
+    "wof:parent_id":85838767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating"
+    ]
+},
+  "bbox": [
+    -84.503062,
+    35.882999,
+    -84.503062,
+    35.882999
+],
+  "geometry": {"coordinates":[-84.503062,35.882999],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 773457999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.167367,35.888196,-83.167367,35.888196",
+    "geom:latitude":35.888196,
+    "geom:longitude":-83.167367,
+    "iso:country":"US",
+    "sg:address":"934 Chicken Hollow Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 4322",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DYJpCZnkeRT9PM7QFxKbs_35.888196_-83.167367@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585898,
+    "wof:geomhash":"88aaccf2452a28dc1827222d8e6110dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":773457999
+        }
+    ],
+    "wof:id":773457999,
+    "wof:lastmodified":1462585898,
+    "wof:name":"Messer Doug Septic Tank Svc",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -83.167367,
+    35.888196,
+    -83.167367,
+    35.888196
+],
+  "geometry": {"coordinates":[-83.167367,35.888196],"type":"Point"}
+}

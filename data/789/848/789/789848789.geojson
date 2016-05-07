@@ -1,0 +1,72 @@
+{
+  "id": 789848789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.826177,35.947263,-83.826177,35.947263",
+    "geom:latitude":35.947263,
+    "geom:longitude":-83.826177,
+    "iso:country":"US",
+    "sg:address":"5307 S National Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 637 2666",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "sg:website":"www.con-way.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85833365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pMsYWxSqd8sCC1GdHBC5E_35.947263_-83.826177@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591018,
+    "wof:geomhash":"df4530529f91fe30f604189d40cdce83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85833365,
+            "region_id":85688701,
+            "venue_id":789848789
+        }
+    ],
+    "wof:id":789848789,
+    "wof:lastmodified":1462591018,
+    "wof:name":"Con-Way Southern Express",
+    "wof:parent_id":85833365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.826177,
+    35.947263,
+    -83.826177,
+    35.947263
+],
+  "geometry": {"coordinates":[-83.826177,35.947263],"type":"Point"}
+}

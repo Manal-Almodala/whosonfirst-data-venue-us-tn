@@ -1,0 +1,75 @@
+{
+  "id": 789659643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.387049,35.839448,-86.387049,35.839448",
+    "geom:latitude":35.839448,
+    "geom:longitude":-86.387049,
+    "iso:country":"US",
+    "sg:address":"425 SE Broad St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 3666",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85835585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30Nu2BWTKmpQIJLE4Dz4fV_35.839448_-86.387049@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589526,
+    "wof:geomhash":"985325e2ed8599403f43c19100c90694",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85835585,
+            "region_id":85688701,
+            "venue_id":789659643
+        }
+    ],
+    "wof:id":789659643,
+    "wof:lastmodified":1462589526,
+    "wof:name":"Broad Street Auto Clinic",
+    "wof:parent_id":85835585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.387049,
+    35.839448,
+    -86.387049,
+    35.839448
+],
+  "geometry": {"coordinates":[-86.387049,35.839448],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807316609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.645961,35.564519,-89.645961,35.564519",
+    "geom:latitude":35.564519,
+    "geom:longitude":-89.645961,
+    "iso:country":"US",
+    "sg:address":"114 E Court Sq",
+    "sg:city":"Somerville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 465 7141",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1x8sow3m56HVFWG3B49DH5_35.564519_-89.645961@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606024,
+    "wof:geomhash":"bfe5348a50ef6d939bb6e4837ef68bd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":807316609
+        }
+    ],
+    "wof:id":807316609,
+    "wof:lastmodified":1462606024,
+    "wof:name":"N Nabeel Khan MD",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.645961,
+    35.564519,
+    -89.645961,
+    35.564519
+],
+  "geometry": {"coordinates":[-89.645961,35.564519],"type":"Point"}
+}

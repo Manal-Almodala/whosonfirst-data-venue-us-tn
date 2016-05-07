@@ -1,0 +1,74 @@
+{
+  "id": 823231921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.002788,35.508513,-85.002788,35.508513",
+    "geom:latitude":35.508513,
+    "geom:longitude":-85.002788,
+    "iso:country":"US",
+    "sg:address":"260 16th Ave",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 8885",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop",
+        "discount"
+    ],
+    "sg:website":"http://www.fredsdiscount.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fE07VnQca6IPyEz2OeukD_35.508831_-85.003099@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462608996,
+    "wof:geomhash":"73809c2db0485bc39a652248212ea4b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":823231921
+        }
+    ],
+    "wof:id":823231921,
+    "wof:lastmodified":1462608996,
+    "wof:name":"Fred's Discount",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "discount"
+    ]
+},
+  "bbox": [
+    -85.002788,
+    35.508513,
+    -85.002788,
+    35.508513
+],
+  "geometry": {"coordinates":[-85.002788,35.508513],"type":"Point"}
+}

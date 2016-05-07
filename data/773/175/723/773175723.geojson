@@ -1,0 +1,73 @@
+{
+  "id": 773175723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.231449,36.351589,-82.231449,36.351589",
+    "geom:latitude":36.351589,
+    "geom:longitude":-82.231449,
+    "iso:country":"US",
+    "sg:address":"1503 W Elk Ave",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 543 8619",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85816779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zFzRWaZNcMo3sKd24H8qD_36.351589_-82.231449@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583705,
+    "wof:geomhash":"4681e998f85c11bdf6df97257eb91520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85816779,
+            "region_id":85688701,
+            "venue_id":773175723
+        }
+    ],
+    "wof:id":773175723,
+    "wof:lastmodified":1462583705,
+    "wof:name":"Appalachian Surgery",
+    "wof:parent_id":85816779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.231449,
+    36.351589,
+    -82.231449,
+    36.351589
+],
+  "geometry": {"coordinates":[-82.231449,36.351589],"type":"Point"}
+}

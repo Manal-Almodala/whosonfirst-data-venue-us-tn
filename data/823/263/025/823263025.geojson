@@ -1,0 +1,69 @@
+{
+  "id": 823263025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.385811,35.870659,-86.385811,35.870659",
+    "geom:latitude":35.870659,
+    "geom:longitude":-86.385811,
+    "iso:country":"US",
+    "sg:address":"1801 Memorial Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 5731",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85824375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jU0AhsvrxnLJtRVlBkuHX_35.870659_-86.385811@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609642,
+    "wof:geomhash":"c8158c11decc8cca2bf542169554dbc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85824375,
+            "region_id":85688701,
+            "venue_id":823263025
+        }
+    ],
+    "wof:id":823263025,
+    "wof:lastmodified":1462609642,
+    "wof:name":"USPS - United States Post Office",
+    "wof:parent_id":85824375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.385811,
+    35.870659,
+    -86.385811,
+    35.870659
+],
+  "geometry": {"coordinates":[-86.385811,35.870659],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806373911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.635273,36.206033,-85.635273,36.206033",
+    "geom:latitude":36.206033,
+    "geom:longitude":-85.635273,
+    "iso:country":"US",
+    "sg:address":"7088 Martin Creek Rd",
+    "sg:city":"Bloomington Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 5919",
+    "sg:postcode":"38545",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pzIkUzJajCUxwNwXZYhy1_36.206033_-85.635273@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597629,
+    "wof:geomhash":"1ba2744ed74ad0b5932a3730219b47e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":806373911
+        }
+    ],
+    "wof:id":806373911,
+    "wof:lastmodified":1462597629,
+    "wof:name":"Johns Garage & Wrecker Svc",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.635273,
+    36.206033,
+    -85.635273,
+    36.206033
+],
+  "geometry": {"coordinates":[-85.635273,36.206033],"type":"Point"}
+}

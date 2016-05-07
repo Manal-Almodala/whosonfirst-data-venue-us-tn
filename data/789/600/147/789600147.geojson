@@ -1,0 +1,71 @@
+{
+  "id": 789600147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.974403,36.001854,-83.974403,36.001854",
+    "geom:latitude":36.001854,
+    "geom:longitude":-83.974403,
+    "iso:country":"US",
+    "sg:address":"4815 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 687 8108",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74TMDb9zwFIgm8meXwqR56_36.001854_-83.974403@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589069,
+    "wof:geomhash":"23d07c74677ab83bf1225d38e45217dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":789600147
+        }
+    ],
+    "wof:id":789600147,
+    "wof:lastmodified":1462589069,
+    "wof:name":"Ragtops Auto Accrs",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -83.974403,
+    36.001854,
+    -83.974403,
+    36.001854
+],
+  "geometry": {"coordinates":[-83.974403,36.001854],"type":"Point"}
+}

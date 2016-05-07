@@ -1,0 +1,80 @@
+{
+  "id": 807020521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827883,35.632842,-88.827883,35.632842",
+    "geom:latitude":35.632842,
+    "geom:longitude":-88.827883,
+    "iso:country":"US",
+    "sg:address":"534 Roland Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 422 1100",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "home",
+        "medical",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UJM7c8ntvwNesChixgN7Z_35.632842_-88.827883@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603043,
+    "wof:geomhash":"c75c310371538e1b609f4ac7c6df1414",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":807020521
+        }
+    ],
+    "wof:id":807020521,
+    "wof:lastmodified":1462603043,
+    "wof:name":"Medical Center Home Health",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "medical",
+        "care"
+    ]
+},
+  "bbox": [
+    -88.827883,
+    35.632842,
+    -88.827883,
+    35.632842
+],
+  "geometry": {"coordinates":[-88.827883,35.632842],"type":"Point"}
+}

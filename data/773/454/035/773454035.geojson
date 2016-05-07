@@ -1,0 +1,71 @@
+{
+  "id": 773454035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.116288,35.909653,-84.116288,35.909653",
+    "geom:latitude":35.909653,
+    "geom:longitude":-84.116288,
+    "iso:country":"US",
+    "sg:address":"10028 Parkside Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 671 4000",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7D7t1Fe5tuv5L9c0lUCPQ2_35.909653_-84.116288@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585869,
+    "wof:geomhash":"78960063bebe1e37c5dd537e8ffaa5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":773454035
+        }
+    ],
+    "wof:id":773454035,
+    "wof:lastmodified":1462585869,
+    "wof:name":"Auto Glass Service",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -84.116288,
+    35.909653,
+    -84.116288,
+    35.909653
+],
+  "geometry": {"coordinates":[-84.116288,35.909653],"type":"Point"}
+}

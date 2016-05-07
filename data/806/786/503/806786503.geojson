@@ -1,0 +1,85 @@
+{
+  "id": 806786503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.664374,36.460026,-86.664374,36.460026",
+    "geom:latitude":36.460026,
+    "geom:longitude":-86.664374,
+    "iso:country":"US",
+    "sg:address":"2836 Hwy 31 W",
+    "sg:city":"White House",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 672 9526",
+    "sg:postcode":"37188",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722997,
+        102086357,
+        420541507,
+        420542223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OhW4C0zSclJIuZQA0XN1x_36.460026_-86.664374@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601072,
+    "wof:geomhash":"9b728ca5094472da83c8b1b74a7fb9a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420541507,
+            "region_id":85688701,
+            "venue_id":806786503
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420542223,
+            "region_id":85688701,
+            "venue_id":806786503
+        }
+    ],
+    "wof:id":806786503,
+    "wof:lastmodified":1462601072,
+    "wof:name":"Myers Service Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.664374,
+    36.460026,
+    -86.664374,
+    36.460026
+],
+  "geometry": {"coordinates":[-86.664374,36.460026],"type":"Point"}
+}

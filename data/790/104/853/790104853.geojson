@@ -1,0 +1,71 @@
+{
+  "id": 790104853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.816329,35.614259,-88.816329,35.614259",
+    "geom:latitude":35.614259,
+    "geom:longitude":-88.816329,
+    "iso:country":"US",
+    "sg:address":"407 E Main St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Bus Station",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 427 1573",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "terminal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xxbeI0zkjw3Pv727KRBaw_35.614259_-88.816329@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593178,
+    "wof:geomhash":"99ea924033c3a07aef4cdd679325cdd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":790104853
+        }
+    ],
+    "wof:id":790104853,
+    "wof:lastmodified":1462593178,
+    "wof:name":"Greyhound Bus Terminal",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal"
+    ]
+},
+  "bbox": [
+    -88.816329,
+    35.614259,
+    -88.816329,
+    35.614259
+],
+  "geometry": {"coordinates":[-88.816329,35.614259],"type":"Point"}
+}

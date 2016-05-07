@@ -1,0 +1,71 @@
+{
+  "id": 807035055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.318197,36.308647,-82.318197,36.308647",
+    "geom:latitude":36.308647,
+    "geom:longitude":-82.318197,
+    "iso:country":"US",
+    "sg:address":"465 Cedar Grove Rd",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 928 3754",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723215,
+        102087053,
+        85851527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4chKLZhXmwOsoFLVcFqDyI_36.308647_-82.318197@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603163,
+    "wof:geomhash":"6e4de6cc638e056b490249d0eb1e0e4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101723215,
+            "neighbourhood_id":85851527,
+            "region_id":85688701,
+            "venue_id":807035055
+        }
+    ],
+    "wof:id":807035055,
+    "wof:lastmodified":1462603163,
+    "wof:name":"Bob Harrell's Welding",
+    "wof:parent_id":85851527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -82.318197,
+    36.308647,
+    -82.318197,
+    36.308647
+],
+  "geometry": {"coordinates":[-82.318197,36.308647],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790468815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.831938,35.742629,-83.831938,35.742629",
+    "geom:latitude":35.742629,
+    "geom:longitude":-83.831938,
+    "iso:country":"US",
+    "sg:address":"4726 E Lamar Alexander Pkwy",
+    "sg:city":"Walland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 982 9346",
+    "sg:postcode":"37886",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722697,
+        102087017,
+        85828507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qWqYzJJYmRXf6HEUR62NY_35.742629_-83.831938@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596081,
+    "wof:geomhash":"a24771bcfc2f37cc9e80508e6fded500",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722697,
+            "neighbourhood_id":85828507,
+            "region_id":85688701,
+            "venue_id":790468815
+        }
+    ],
+    "wof:id":790468815,
+    "wof:lastmodified":1462596081,
+    "wof:name":"Butler Wrecker Svc",
+    "wof:parent_id":85828507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.831938,
+    35.742629,
+    -83.831938,
+    35.742629
+],
+  "geometry": {"coordinates":[-83.83193799999999,35.742629],"type":"Point"}
+}

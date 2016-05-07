@@ -1,0 +1,73 @@
+{
+  "id": 807366821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.740712,36.195005,-86.740712,36.195005",
+    "geom:latitude":36.195005,
+    "geom:longitude":-86.740712,
+    "iso:country":"US",
+    "sg:address":"1125 Chester Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 262 3779",
+    "sg:postcode":"37206",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85816591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I7LicYqGTpmHbvMoB8VuL_36.195005_-86.740712@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606751,
+    "wof:geomhash":"cb117f724d61713fe9d2efb6b5bfc656",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85816591,
+            "region_id":85688701,
+            "venue_id":807366821
+        }
+    ],
+    "wof:id":807366821,
+    "wof:lastmodified":1462606751,
+    "wof:name":"Freemans Garage",
+    "wof:parent_id":85816591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.740712,
+    36.195005,
+    -86.740712,
+    36.195005
+],
+  "geometry": {"coordinates":[-86.740712,36.195005],"type":"Point"}
+}

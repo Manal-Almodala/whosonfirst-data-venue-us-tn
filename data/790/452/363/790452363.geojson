@@ -1,0 +1,82 @@
+{
+  "id": 790452363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.210773,36.044379,-84.210773,36.044379",
+    "geom:latitude":36.044379,
+    "geom:longitude":-84.210773,
+    "iso:country":"US",
+    "sg:address":"175 Oak Ridge Tpke",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 576 5454",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "federal",
+        "govt"
+    ],
+    "sg:website":"www.energy.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065,
+        85818003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h1PSpXghZkcNnI6bVRfVu_36.044379_-84.210773@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595928,
+    "wof:geomhash":"50e8c6f6e777fa5aba8c4f9315f0de63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":790452363
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "neighbourhood_id":85818003,
+            "region_id":85688701,
+            "venue_id":790452363
+        }
+    ],
+    "wof:id":790452363,
+    "wof:lastmodified":1462595928,
+    "wof:name":"US Energy Dept",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "govt"
+    ]
+},
+  "bbox": [
+    -84.210773,
+    36.044379,
+    -84.210773,
+    36.044379
+],
+  "geometry": {"coordinates":[-84.210773,36.044379],"type":"Point"}
+}

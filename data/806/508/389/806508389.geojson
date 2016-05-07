@@ -1,0 +1,83 @@
+{
+  "id": 806508389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.502016,36.180946,-85.502016,36.180946",
+    "geom:latitude":36.180946,
+    "geom:longitude":-85.502016,
+    "iso:country":"US",
+    "sg:address":"238 E 14th St",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 372 2556",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722459,
+        102086339,
+        85811771,
+        85852063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kQ8M3y0fCbjXI1se1PydB_36.180946_-85.502016@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598698,
+    "wof:geomhash":"5aa1178f7d59e8b8442c9690b28a5baf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85811771,
+            "region_id":85688701,
+            "venue_id":806508389
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85852063,
+            "region_id":85688701,
+            "venue_id":806508389
+        }
+    ],
+    "wof:id":806508389,
+    "wof:lastmodified":1462598698,
+    "wof:name":"Farris Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.502016,
+    36.180946,
+    -85.502016,
+    36.180946
+],
+  "geometry": {"coordinates":[-85.502016,36.180946],"type":"Point"}
+}

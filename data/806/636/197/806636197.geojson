@@ -1,0 +1,73 @@
+{
+  "id": 806636197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028583,35.939806,-85.028583,35.939806",
+    "geom:latitude":35.939806,
+    "geom:longitude":-85.028583,
+    "iso:country":"US",
+    "sg:address":"448 W Adams St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 0042",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GVkCejZEIKiq2pmoaDNRB_35.939806_-85.028583@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599785,
+    "wof:geomhash":"9cebb72ee2186319c1abf819bf14e610",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":806636197
+        }
+    ],
+    "wof:id":806636197,
+    "wof:lastmodified":1462599785,
+    "wof:name":"Crossville Gynecology Assoc",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.028583,
+    35.939806,
+    -85.028583,
+    35.939806
+],
+  "geometry": {"coordinates":[-85.028583,35.939806],"type":"Point"}
+}

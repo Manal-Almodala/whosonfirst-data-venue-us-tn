@@ -1,0 +1,71 @@
+{
+  "id": 806371079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.301509,36.215747,-83.301509,36.215747",
+    "geom:latitude":36.215747,
+    "geom:longitude":-83.301509,
+    "iso:country":"US",
+    "sg:address":"538 W 6th North St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 5283",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Dg4kVr7jFtnjyDbY2iZes_36.215747_-83.301509@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597607,
+    "wof:geomhash":"fb5510b6566b3ed99a5f59b05e1d715b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":806371079
+        }
+    ],
+    "wof:id":806371079,
+    "wof:lastmodified":1462597607,
+    "wof:name":"John C Horner MD",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.301509,
+    36.215747,
+    -83.301509,
+    36.215747
+],
+  "geometry": {"coordinates":[-83.301509,36.215747],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806476943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.288512,36.215319,-83.288512,36.215319",
+    "geom:latitude":36.215319,
+    "geom:longitude":-83.288512,
+    "iso:country":"US",
+    "sg:address":"406 E Main St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 8428",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5j0xORNAvOtPgxmaxyyRJ2_36.215319_-83.288512@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598436,
+    "wof:geomhash":"5a1e8fa8b5b456ffdeab952d508c6150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":806476943
+        }
+    ],
+    "wof:id":806476943,
+    "wof:lastmodified":1462598436,
+    "wof:name":"Sam Jarnigan Electric",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.288512,
+    36.215319,
+    -83.288512,
+    36.215319
+],
+  "geometry": {"coordinates":[-83.288512,36.215319],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789743325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.259049,35.113952,-85.259049,35.113952",
+    "geom:latitude":35.113952,
+    "geom:longitude":-85.259049,
+    "iso:country":"US",
+    "sg:address":"4066 Hixson Pike",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 870 5650",
+    "sg:postcode":"37415",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85818491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yS85NQsAB2tTDU7falzMZ_35.113952_-85.259049@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590202,
+    "wof:geomhash":"d608b51e659c62b000c34407244255f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85818491,
+            "region_id":85688701,
+            "venue_id":789743325
+        }
+    ],
+    "wof:id":789743325,
+    "wof:lastmodified":1462590202,
+    "wof:name":"Brown Peter J MD",
+    "wof:parent_id":85818491,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.259049,
+    35.113952,
+    -85.259049,
+    35.113952
+],
+  "geometry": {"coordinates":[-85.259049,35.113952],"type":"Point"}
+}

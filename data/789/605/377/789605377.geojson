@@ -1,0 +1,78 @@
+{
+  "id": 789605377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.314192,36.205573,-83.314192,36.205573",
+    "geom:latitude":36.205573,
+    "geom:longitude":-83.314192,
+    "iso:country":"US",
+    "sg:address":"1725 W 1st North St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 317 7083",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "terminal",
+        "facility",
+        "truck",
+        "trucking"
+    ],
+    "sg:website":"www.firstfleet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21yb4wtEYs7hLF0Zy8NNr4_36.205573_-83.314192@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589106,
+    "wof:geomhash":"c659f478d68aa96ed53576361806cdfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789605377
+        }
+    ],
+    "wof:id":789605377,
+    "wof:lastmodified":1462589106,
+    "wof:name":"First Fleet Inc",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "facility",
+        "truck",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.314192,
+    36.205573,
+    -83.314192,
+    36.205573
+],
+  "geometry": {"coordinates":[-83.31419200000001,36.205573],"type":"Point"}
+}

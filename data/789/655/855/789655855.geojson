@@ -1,0 +1,68 @@
+{
+  "id": 789655855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.524123,36.158625,-85.524123,36.158625",
+    "geom:latitude":36.158625,
+    "geom:longitude":-85.524123,
+    "iso:country":"US",
+    "sg:address":"750 W Jackson St",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 525 6666",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722459,
+        102086339,
+        85822779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v39RY6autmzXpoB9wGoBL_36.158625_-85.524123@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589500,
+    "wof:geomhash":"b54d6a0722448893913eee19784d7e55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85822779,
+            "region_id":85688701,
+            "venue_id":789655855
+        }
+    ],
+    "wof:id":789655855,
+    "wof:lastmodified":1462589500,
+    "wof:name":"Sweet Temptations",
+    "wof:parent_id":85822779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.524123,
+    36.158625,
+    -85.524123,
+    36.158625
+],
+  "geometry": {"coordinates":[-85.524123,36.158625],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 790314717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.837195,36.182983,-86.837195,36.182983",
+    "geom:latitude":36.182983,
+    "geom:longitude":-86.837195,
+    "iso:country":"US",
+    "sg:address":"3223 Mexico Dr",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 242 5858",
+    "sg:postcode":"37218",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85806715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33g4pi8CZzS0doT8eKX3US_36.182983_-86.837195@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594880,
+    "wof:geomhash":"c2995c78092e601a904c1244def9c7df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85806715,
+            "region_id":85688701,
+            "venue_id":790314717
+        }
+    ],
+    "wof:id":790314717,
+    "wof:lastmodified":1462594880,
+    "wof:name":"D&E Trucking",
+    "wof:parent_id":85806715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.837195,
+    36.182983,
+    -86.837195,
+    36.182983
+],
+  "geometry": {"coordinates":[-86.83719499999999,36.182983],"type":"Point"}
+}

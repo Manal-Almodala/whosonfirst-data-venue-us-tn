@@ -1,0 +1,73 @@
+{
+  "id": 806819237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.240595,35.226624,-88.240595,35.226624",
+    "geom:latitude":35.226624,
+    "geom:longitude":-88.240595,
+    "iso:country":"US",
+    "sg:address":"1212 Wayne Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 8016",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CmslyciQa0QzowFl3m3gL_35.226624_-88.240595@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601334,
+    "wof:geomhash":"45fcc92f6f7f3ff1e6f4e31be45ee712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":806819237
+        }
+    ],
+    "wof:id":806819237,
+    "wof:lastmodified":1462601334,
+    "wof:name":"Savannah Medical Ctr",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.240595,
+    35.226624,
+    -88.240595,
+    35.226624
+],
+  "geometry": {"coordinates":[-88.240595,35.226624],"type":"Point"}
+}

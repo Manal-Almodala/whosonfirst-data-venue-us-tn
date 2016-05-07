@@ -1,0 +1,73 @@
+{
+  "id": 790189851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.297777,36.214846,-83.297777,36.214846",
+    "geom:latitude":36.214846,
+    "geom:longitude":-83.297777,
+    "iso:country":"US",
+    "sg:address":"530 Long Ave",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 585 2700",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dispatcher",
+        "emergency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y0RV8DL555ne1aEEgXK9K_36.214846_-83.297777@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593853,
+    "wof:geomhash":"17b036db2428c07fd757e6d80534803a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":790189851
+        }
+    ],
+    "wof:id":790189851,
+    "wof:lastmodified":1462593853,
+    "wof:name":"E911",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dispatcher",
+        "emergency"
+    ]
+},
+  "bbox": [
+    -83.297777,
+    36.214846,
+    -83.297777,
+    36.214846
+],
+  "geometry": {"coordinates":[-83.297777,36.214846],"type":"Point"}
+}

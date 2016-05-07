@@ -1,0 +1,71 @@
+{
+  "id": 807354517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.340489,36.219776,-86.340489,36.219776",
+    "geom:latitude":36.219776,
+    "geom:longitude":-86.340489,
+    "iso:country":"US",
+    "sg:address":"1616 W Main St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 453 1653",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z8sNBFMQf2PHB80U66KbE_36.219776_-86.340489@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606566,
+    "wof:geomhash":"9bb624a834a45af3b4d1c85721120ae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":807354517
+        }
+    ],
+    "wof:id":807354517,
+    "wof:lastmodified":1462606566,
+    "wof:name":"Lebanon MRI Ctr",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.340489,
+    36.219776,
+    -86.340489,
+    36.219776
+],
+  "geometry": {"coordinates":[-86.34048900000001,36.219776],"type":"Point"}
+}

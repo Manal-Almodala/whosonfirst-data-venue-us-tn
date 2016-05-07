@@ -1,0 +1,76 @@
+{
+  "id": 823258219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.429945,35.849917,-86.429945,35.849917",
+    "geom:latitude":35.849917,
+    "geom:longitude":-86.429945,
+    "iso:country":"US",
+    "sg:address":"202 N Thompson Ln",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/116207-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 217 7070",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dA2wPB07a5unLwFuz1qlm_35.850356_-86.429909@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609512,
+    "wof:geomhash":"3faf8c4afb57b3e980cd448c733d9494",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823258219
+        }
+    ],
+    "wof:id":823258219,
+    "wof:lastmodified":1462609512,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.429945,
+    35.849917,
+    -86.429945,
+    35.849917
+],
+  "geometry": {"coordinates":[-86.429945,35.849917],"type":"Point"}
+}

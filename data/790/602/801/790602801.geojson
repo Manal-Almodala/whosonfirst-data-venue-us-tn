@@ -1,0 +1,73 @@
+{
+  "id": 790602801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.377381,35.936888,-85.377381,35.936888",
+    "geom:latitude":35.936888,
+    "geom:longitude":-85.377381,
+    "iso:country":"US",
+    "sg:address":"161 Mesa Trl",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 738 4472",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MGUm4VvY8LzPut0PR2kfB_35.936888_-85.377381@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597247,
+    "wof:geomhash":"cfb869dd9de97962c24106504af414b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":790602801
+        }
+    ],
+    "wof:id":790602801,
+    "wof:lastmodified":1462597247,
+    "wof:name":"Vincent Gamble",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -85.377381,
+    35.936888,
+    -85.377381,
+    35.936888
+],
+  "geometry": {"coordinates":[-85.377381,35.936888],"type":"Point"}
+}

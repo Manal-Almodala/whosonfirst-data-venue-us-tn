@@ -1,0 +1,80 @@
+{
+  "id": 823261937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.283287,36.595982,-87.283287,36.595982",
+    "geom:latitude":36.595982,
+    "geom:longitude":-87.283287,
+    "iso:country":"US",
+    "sg:address":"201 Holiday Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Conference Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 645 6300",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lodging",
+        "convention",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85805425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VNecqP0EuDHFUyP6GdmHo_36.595982_-87.283287@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609594,
+    "wof:geomhash":"f4676b85cb5e52e323786026e6f1b727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85805425,
+            "region_id":85688701,
+            "venue_id":823261937
+        }
+    ],
+    "wof:id":823261937,
+    "wof:lastmodified":1462609594,
+    "wof:name":"Super 8 Clarksville",
+    "wof:parent_id":85805425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging",
+        "convention",
+        "facility"
+    ]
+},
+  "bbox": [
+    -87.283287,
+    36.595982,
+    -87.283287,
+    36.595982
+],
+  "geometry": {"coordinates":[-87.283287,36.595982],"type":"Point"}
+}

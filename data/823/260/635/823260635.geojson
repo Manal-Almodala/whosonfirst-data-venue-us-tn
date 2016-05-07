@@ -1,0 +1,76 @@
+{
+  "id": 823260635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.858742,35.087736,-89.858742,35.087736",
+    "geom:latitude":35.087736,
+    "geom:longitude":-89.858742,
+    "iso:country":"US",
+    "sg:address":"2219 Ridgeway Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/86641-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 683 2300",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A30YL5KzzxUyIJOHf7yCW_35.087766_-89.858814@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609563,
+    "wof:geomhash":"7162c6346457ce0de6417c8768637dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870789,
+            "region_id":85688701,
+            "venue_id":823260635
+        }
+    ],
+    "wof:id":823260635,
+    "wof:lastmodified":1462609563,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85870789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.858742,
+    35.087736,
+    -89.858742,
+    35.087736
+],
+  "geometry": {"coordinates":[-89.85874200000001,35.087736],"type":"Point"}
+}

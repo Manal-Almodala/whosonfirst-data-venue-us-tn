@@ -1,0 +1,75 @@
+{
+  "id": 806627337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.518456,35.983982,-86.518456,35.983982",
+    "geom:latitude":35.983982,
+    "geom:longitude":-86.518456,
+    "iso:country":"US",
+    "sg:address":"201 Sam Hager St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 355 6645",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723109,
+        102086355,
+        85825657
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KWlCxRJkkFnLA52I3MjPY_35.983982_-86.518456@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599715,
+    "wof:geomhash":"b6e47113a81dae64c0782512d3f840ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85825657,
+            "region_id":85688701,
+            "venue_id":806627337
+        }
+    ],
+    "wof:id":806627337,
+    "wof:lastmodified":1462599715,
+    "wof:name":"B & K Automotive",
+    "wof:parent_id":85825657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.518456,
+    35.983982,
+    -86.518456,
+    35.983982
+],
+  "geometry": {"coordinates":[-86.518456,35.983982],"type":"Point"}
+}

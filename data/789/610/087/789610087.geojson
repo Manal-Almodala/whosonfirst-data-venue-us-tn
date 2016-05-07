@@ -1,0 +1,73 @@
+{
+  "id": 789610087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.999455,35.072025,-89.999455,35.072025",
+    "geom:latitude":35.072025,
+    "geom:longitude":-89.999455,
+    "iso:country":"US",
+    "sg:address":"1910 Nonconnah Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 345 9610",
+    "sg:postcode":"38132",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LjI2P12T30doWxVjO9UWN_35.072025_-89.999455@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589139,
+    "wof:geomhash":"078d8d4d7f3892b2e20e255360085bfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805535,
+            "region_id":85688701,
+            "venue_id":789610087
+        }
+    ],
+    "wof:id":789610087,
+    "wof:lastmodified":1462589139,
+    "wof:name":"Nonconnah Corporate Ctr Fire",
+    "wof:parent_id":85805535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.999455,
+    35.072025,
+    -89.999455,
+    35.072025
+],
+  "geometry": {"coordinates":[-89.999455,35.072025],"type":"Point"}
+}

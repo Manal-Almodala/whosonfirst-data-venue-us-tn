@@ -1,0 +1,75 @@
+{
+  "id": 823166197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.916392,35.094307,-89.916392,35.094307",
+    "geom:latitude":35.094307,
+    "geom:longitude":-89.916392,
+    "iso:country":"US",
+    "sg:address":"1343 Cherry Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 744 8768",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85893423
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qHqVCPAYsHbDbT5j5K74N_35.094307_-89.916392@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607883,
+    "wof:geomhash":"3f250e0b1b75984c3888ffdb5a204cdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85893423,
+            "region_id":85688701,
+            "venue_id":823166197
+        }
+    ],
+    "wof:id":823166197,
+    "wof:lastmodified":1462607883,
+    "wof:name":"ABC Hot Shot Delivery",
+    "wof:parent_id":85893423,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.916392,
+    35.094307,
+    -89.916392,
+    35.094307
+],
+  "geometry": {"coordinates":[-89.916392,35.094307],"type":"Point"}
+}

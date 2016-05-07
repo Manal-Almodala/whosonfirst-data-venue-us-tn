@@ -1,0 +1,78 @@
+{
+  "id": 807194775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.681844,36.535997,-82.681844,36.535997",
+    "geom:latitude":36.535997,
+    "geom:longitude":-82.681844,
+    "iso:country":"US",
+    "sg:address":"108 Kay St",
+    "sg:city":"Church Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 357 6375",
+    "sg:postcode":"37642",
+    "sg:province":"TN",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722787,
+        102087101,
+        85802727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1krNrdWHnxRPqg3VryhDxs_36.535997_-82.681844@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604740,
+    "wof:geomhash":"d924ce1a78ba429c89cecbe6f799434d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087101,
+            "locality_id":101722787,
+            "neighbourhood_id":85802727,
+            "region_id":85688701,
+            "venue_id":807194775
+        }
+    ],
+    "wof:id":807194775,
+    "wof:lastmodified":1462604740,
+    "wof:name":"Jerry's Gun Shop",
+    "wof:parent_id":85802727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -82.681844,
+    36.535997,
+    -82.681844,
+    36.535997
+],
+  "geometry": {"coordinates":[-82.681844,36.535997],"type":"Point"}
+}

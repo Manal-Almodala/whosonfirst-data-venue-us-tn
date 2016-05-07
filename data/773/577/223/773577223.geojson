@@ -1,0 +1,85 @@
+{
+  "id": 773577223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.02032,35.208883,-87.02032,35.208883",
+    "geom:latitude":35.208883,
+    "geom:longitude":-87.02032,
+    "iso:country":"US",
+    "sg:address":"1100 Ragsdale Ln",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 424 3479",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k2v82sqW9RuAAnT3zjaAQ_35.208883_-87.020320@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586782,
+    "wof:geomhash":"70d8b5dd70e5dec96a6ea530fe97a2f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":773577223
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":773577223
+        }
+    ],
+    "wof:id":773577223,
+    "wof:lastmodified":1462586782,
+    "wof:name":"Cox Garbage Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -87.02032,
+    35.208883,
+    -87.02032,
+    35.208883
+],
+  "geometry": {"coordinates":[-87.02032,35.208883],"type":"Point"}
+}

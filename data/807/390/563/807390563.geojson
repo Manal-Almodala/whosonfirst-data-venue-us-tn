@@ -1,0 +1,73 @@
+{
+  "id": 807390563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.15979,35.880493,-84.15979,35.880493",
+    "geom:latitude":35.880493,
+    "geom:longitude":-84.15979,
+    "iso:country":"US",
+    "sg:address":"150 S Campbell Station Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 675 8879",
+    "sg:postcode":"37934",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722867,
+        102086455,
+        85853837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tYpk4Ov4Ycy0kibU3Ok21_35.880493_-84.159790@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607079,
+    "wof:geomhash":"3ae4885e6ef66194ed69e7148ee1c6c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722867,
+            "neighbourhood_id":85853837,
+            "region_id":85688701,
+            "venue_id":807390563
+        }
+    ],
+    "wof:id":807390563,
+    "wof:lastmodified":1462607079,
+    "wof:name":"Express Lube",
+    "wof:parent_id":85853837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -84.15979,
+    35.880493,
+    -84.15979,
+    35.880493
+],
+  "geometry": {"coordinates":[-84.15979,35.880493],"type":"Point"}
+}

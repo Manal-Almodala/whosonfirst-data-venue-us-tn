@@ -1,0 +1,71 @@
+{
+  "id": 789879255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.573318,35.871016,-83.573318,35.871016",
+    "geom:latitude":35.871016,
+    "geom:longitude":-83.573318,
+    "iso:country":"US",
+    "sg:address":"330 W Main St",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 0777",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85809817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wdYSWdtuzNwEZcrGGxcCK_35.871016_-83.573318@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591283,
+    "wof:geomhash":"ae50d46e304c1f1348cd3b0747780cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85809817,
+            "region_id":85688701,
+            "venue_id":789879255
+        }
+    ],
+    "wof:id":789879255,
+    "wof:lastmodified":1462591283,
+    "wof:name":"Tractor Supply Co",
+    "wof:parent_id":85809817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.573318,
+    35.871016,
+    -83.573318,
+    35.871016
+],
+  "geometry": {"coordinates":[-83.573318,35.871016],"type":"Point"}
+}

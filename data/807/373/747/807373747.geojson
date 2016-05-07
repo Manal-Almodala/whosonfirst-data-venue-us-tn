@@ -1,0 +1,85 @@
+{
+  "id": 807373747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.194515,35.032883,-85.194515,35.032883",
+    "geom:latitude":35.032883,
+    "geom:longitude":-85.194515,
+    "iso:country":"US",
+    "sg:address":"1101 Airport Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 855 8133",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85851775,
+        420558385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r9MpPZMZSjYVSO2PHlXVO_35.032883_-85.194515@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606838,
+    "wof:geomhash":"2b0d83d9dcb4d0f50e0c9068d79cdfbd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85851775,
+            "region_id":85688701,
+            "venue_id":807373747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":420558385,
+            "region_id":85688701,
+            "venue_id":807373747
+        }
+    ],
+    "wof:id":807373747,
+    "wof:lastmodified":1462606838,
+    "wof:name":"Hertz",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -85.194515,
+    35.032883,
+    -85.194515,
+    35.032883
+],
+  "geometry": {"coordinates":[-85.194515,35.032883],"type":"Point"}
+}

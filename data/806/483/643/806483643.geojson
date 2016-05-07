@@ -1,0 +1,81 @@
+{
+  "id": 806483643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.2103,36.595683,-82.2103,36.595683",
+    "geom:latitude":36.595683,
+    "geom:longitude":-82.2103,
+    "iso:country":"US",
+    "sg:address":"2520 W State St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 274 0576",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        420542157,
+        85688747,
+        101728659,
+        102084925,
+        420547853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i9747VfhLQKScLVUdXNNw_36.595683_-82.210300@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598496,
+    "wof:geomhash":"41f028db1f809aad67a24920ed6bdad6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":420542157,
+            "region_id":85688701,
+            "venue_id":806483643
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":420547853,
+            "region_id":85688747,
+            "venue_id":806483643
+        }
+    ],
+    "wof:id":806483643,
+    "wof:lastmodified":1462598496,
+    "wof:name":"Carol's Diner",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.2103,
+    36.595683,
+    -82.2103,
+    36.595683
+],
+  "geometry": {"coordinates":[-82.2103,36.595683],"type":"Point"}
+}

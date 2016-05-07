@@ -1,0 +1,71 @@
+{
+  "id": 807261575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.473584,36.154885,-85.473584,36.154885",
+    "geom:latitude":36.154885,
+    "geom:longitude":-85.473584,
+    "iso:country":"US",
+    "sg:address":"424 Charleston Dr",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 6800",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_481UoMsEPOZyyUzg1mP8cP_36.154885_-85.473584@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605445,
+    "wof:geomhash":"12c0a75418bb67c18b82ccab6b5cc640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":807261575
+        }
+    ],
+    "wof:id":807261575,
+    "wof:lastmodified":1462605445,
+    "wof:name":"Charleston Plantation",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.473584,
+    36.154885,
+    -85.473584,
+    36.154885
+],
+  "geometry": {"coordinates":[-85.473584,36.154885],"type":"Point"}
+}

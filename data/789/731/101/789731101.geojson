@@ -1,0 +1,73 @@
+{
+  "id": 789731101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.505785,36.081724,-85.505785,36.081724",
+    "geom:latitude":36.081724,
+    "geom:longitude":-85.505785,
+    "iso:country":"US",
+    "sg:address":"5698 S Jefferson Ave",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 526 7028",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iwAgGWlxHocvO6IRAYH1e_36.081724_-85.505785@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590111,
+    "wof:geomhash":"da925c70cfbc94826dc419ad064fcae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":789731101
+        }
+    ],
+    "wof:id":789731101,
+    "wof:lastmodified":1462590111,
+    "wof:name":"Cunningham Construction",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.505785,
+    36.081724,
+    -85.505785,
+    36.081724
+],
+  "geometry": {"coordinates":[-85.505785,36.081724],"type":"Point"}
+}

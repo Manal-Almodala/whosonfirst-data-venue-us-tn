@@ -1,0 +1,71 @@
+{
+  "id": 823269173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.626717,35.074725,-85.626717,35.074725",
+    "geom:latitude":35.074725,
+    "geom:longitude":-85.626717,
+    "iso:country":"US",
+    "sg:address":"103 Oak Ave",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 942 5667",
+    "sg:postcode":"37347",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LyIaPgXtwcZN8ITafWSYs_35.074725_-85.626717@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609882,
+    "wof:geomhash":"8e11049bcf5b3c21119e7578f5679a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":823269173
+        }
+    ],
+    "wof:id":823269173,
+    "wof:lastmodified":1462609882,
+    "wof:name":"Marion County Of",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.626717,
+    35.074725,
+    -85.626717,
+    35.074725
+],
+  "geometry": {"coordinates":[-85.626717,35.074725],"type":"Point"}
+}

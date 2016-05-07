@@ -1,0 +1,73 @@
+{
+  "id": 789895409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.392536,36.183494,-85.392536,36.183494",
+    "geom:latitude":36.183494,
+    "geom:longitude":-85.392536,
+    "iso:country":"US",
+    "sg:address":"351 Green Springs Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 537 9643",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lG6r6TvON64fOMaDwR9BH_36.183494_-85.392536@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591408,
+    "wof:geomhash":"773f751a0b3d39b9bf969a57fb2795c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":789895409
+        }
+    ],
+    "wof:id":789895409,
+    "wof:lastmodified":1462591408,
+    "wof:name":"D&S Electric",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.392536,
+    36.183494,
+    -85.392536,
+    36.183494
+],
+  "geometry": {"coordinates":[-85.39253600000001,36.183494],"type":"Point"}
+}

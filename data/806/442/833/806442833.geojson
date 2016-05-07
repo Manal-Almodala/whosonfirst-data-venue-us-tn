@@ -1,0 +1,72 @@
+{
+  "id": 806442833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.074563,35.916702,-84.074563,35.916702",
+    "geom:latitude":35.916702,
+    "geom:longitude":-84.074563,
+    "iso:country":"US",
+    "sg:address":"8844 Kingston Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 694 8501",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"www.aamco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l2rCqtNRqjSrEgQyY0gsN_35.916702_-84.074563@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598188,
+    "wof:geomhash":"5b1f7ece9364c012fda4d368df323cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":806442833
+        }
+    ],
+    "wof:id":806442833,
+    "wof:lastmodified":1462598188,
+    "wof:name":"AAMCO Transmissions",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.074563,
+    35.916702,
+    -84.074563,
+    35.916702
+],
+  "geometry": {"coordinates":[-84.074563,35.916702],"type":"Point"}
+}

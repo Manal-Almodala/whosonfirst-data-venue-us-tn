@@ -1,0 +1,87 @@
+{
+  "id": 823282755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.947015,35.128243,-89.947015,35.128243",
+    "geom:latitude":35.128243,
+    "geom:longitude":-89.947015,
+    "iso:country":"US",
+    "sg:address":"3455 Poplar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 323 5300",
+    "sg:postcode":"38111",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery",
+        "style",
+        "balloons-retail",
+        "american",
+        "family"
+    ],
+    "sg:website":"http://www.perkinsrestaurants.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85893409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GHZ5vi7onZjcqEgeIsQ3T_35.128243_-89.947015@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610427,
+    "wof:geomhash":"523d818b74ce062e7609bd556f68b60a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85893409,
+            "region_id":85688701,
+            "venue_id":823282755
+        }
+    ],
+    "wof:id":823282755,
+    "wof:lastmodified":1462610427,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85893409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "style",
+        "balloons-retail",
+        "american",
+        "family"
+    ]
+},
+  "bbox": [
+    -89.947015,
+    35.128243,
+    -89.947015,
+    35.128243
+],
+  "geometry": {"coordinates":[-89.94701499999999,35.128243],"type":"Point"}
+}

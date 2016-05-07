@@ -1,0 +1,74 @@
+{
+  "id": 823278387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.050055,35.145125,-90.050055,35.145125",
+    "geom:latitude":35.145125,
+    "geom:longitude":-90.050055,
+    "iso:country":"US",
+    "sg:address":"22 N 3rd St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 527 1138",
+    "sg:postcode":"38103",
+    "sg:province":"TN",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"http://www.avis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uxXOhkarIesNO8OTMSI1q_35.145125_-90.050055@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610238,
+    "wof:geomhash":"6a8c21f522b5336dd25d026a9a207256",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867179,
+            "region_id":85688701,
+            "venue_id":823278387
+        }
+    ],
+    "wof:id":823278387,
+    "wof:lastmodified":1462610238,
+    "wof:name":"Avis Rent A Car",
+    "wof:parent_id":85867179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -90.050055,
+    35.145125,
+    -90.050055,
+    35.145125
+],
+  "geometry": {"coordinates":[-90.050055,35.145125],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789592021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.30869,36.565892,-87.30869,36.565892",
+    "geom:latitude":36.565892,
+    "geom:longitude":-87.30869,
+    "iso:country":"US",
+    "sg:address":"2104 Wilma Rudolph Blvd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 221 0073",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85819931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_078FMqzNQ8Ma4pBhJuXUEj_36.565892_-87.308690@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589000,
+    "wof:geomhash":"5daa4f7e491af713ea997e4c95e3a4bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85819931,
+            "region_id":85688701,
+            "venue_id":789592021
+        }
+    ],
+    "wof:id":789592021,
+    "wof:lastmodified":1462589000,
+    "wof:name":"Access Car Rental",
+    "wof:parent_id":85819931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -87.30869,
+    36.565892,
+    -87.30869,
+    36.565892
+],
+  "geometry": {"coordinates":[-87.30869,36.565892],"type":"Point"}
+}

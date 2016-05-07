@@ -1,0 +1,66 @@
+{
+  "id": 789583181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.470165,35.726106,-83.470165,35.726106",
+    "geom:latitude":35.726106,
+    "geom:longitude":-83.470165,
+    "iso:country":"US",
+    "sg:address":"1424 E Pkwy",
+    "sg:city":"Gatlinburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 430 9004",
+    "sg:postcode":"37738",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722585,
+        102086245,
+        85821619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_268VN4GN4sRT0UrQ8PIeRw_35.726106_-83.470165@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588934,
+    "wof:geomhash":"65169ea4468a041f5c47669b15e79926",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722585,
+            "neighbourhood_id":85821619,
+            "region_id":85688701,
+            "venue_id":789583181
+        }
+    ],
+    "wof:id":789583181,
+    "wof:lastmodified":1462588934,
+    "wof:name":"Mason's Moutain Market",
+    "wof:parent_id":85821619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.470165,
+    35.726106,
+    -83.470165,
+    35.726106
+],
+  "geometry": {"coordinates":[-83.47016499999999,35.726106],"type":"Point"}
+}

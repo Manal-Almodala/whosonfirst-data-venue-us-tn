@@ -1,0 +1,75 @@
+{
+  "id": 806842981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.969831,36.000499,-83.969831,36.000499",
+    "geom:latitude":36.000499,
+    "geom:longitude":-83.969831,
+    "iso:country":"US",
+    "sg:address":"4600 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 4284",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kW313AyENiG0W4MT62VqR_36.000499_-83.969831@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601549,
+    "wof:geomhash":"11b67b5232bb33f4ee33cafafa2a4148",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":806842981
+        }
+    ],
+    "wof:id":806842981,
+    "wof:lastmodified":1462601549,
+    "wof:name":"Clayton Body Shop",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.969831,
+    36.000499,
+    -83.969831,
+    36.000499
+],
+  "geometry": {"coordinates":[-83.969831,36.000499],"type":"Point"}
+}

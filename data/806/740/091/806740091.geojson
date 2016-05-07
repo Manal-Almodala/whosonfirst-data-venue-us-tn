@@ -1,0 +1,73 @@
+{
+  "id": 806740091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.260169,36.337569,-82.260169,36.337569",
+    "geom:latitude":36.337569,
+    "geom:longitude":-82.260169,
+    "iso:country":"US",
+    "sg:address":"1937 W Elk Ave",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 547 9400",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85844667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CBgSSwV5A0Y13KTQrvvSL_36.337569_-82.260169@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600681,
+    "wof:geomhash":"711dbcfb6a214da42f26dd3e522f7fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85844667,
+            "region_id":85688701,
+            "venue_id":806740091
+        }
+    ],
+    "wof:id":806740091,
+    "wof:lastmodified":1462600681,
+    "wof:name":"Riverside Pediatrics",
+    "wof:parent_id":85844667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.260169,
+    36.337569,
+    -82.260169,
+    36.337569
+],
+  "geometry": {"coordinates":[-82.260169,36.337569],"type":"Point"}
+}

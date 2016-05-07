@@ -1,0 +1,71 @@
+{
+  "id": 807364115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.841352,35.354833,-86.841352,35.354833",
+    "geom:latitude":35.354833,
+    "geom:longitude":-86.841352,
+    "iso:country":"US",
+    "sg:address":"410 S Main St",
+    "sg:city":"Cornersville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 293 3979",
+    "sg:postcode":"37047",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722897,
+        102087115,
+        85811699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M5HtVmO4169EstlJqRQn1_35.354833_-86.841352@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606709,
+    "wof:geomhash":"6b1dbab35825a11ce87574e68a436e31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "locality_id":101722897,
+            "neighbourhood_id":85811699,
+            "region_id":85688701,
+            "venue_id":807364115
+        }
+    ],
+    "wof:id":807364115,
+    "wof:lastmodified":1462606709,
+    "wof:name":"Marshall County Ambulance Svc",
+    "wof:parent_id":85811699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -86.841352,
+    35.354833,
+    -86.841352,
+    35.354833
+],
+  "geometry": {"coordinates":[-86.841352,35.354833],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806771923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.737318,35.434329,-86.737318,35.434329",
+    "geom:latitude":35.434329,
+    "geom:longitude":-86.737318,
+    "iso:country":"US",
+    "sg:address":"1734 Fayetteville Hwy",
+    "sg:city":"Belfast",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 270 9624",
+    "sg:postcode":"37019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722897,
+        102087115,
+        85811699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XEaEPh8zoRHFPmIY1B81p_35.434329_-86.737318@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600944,
+    "wof:geomhash":"44d97927556bd4ca5655a8944fc9f59b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "locality_id":101722897,
+            "neighbourhood_id":85811699,
+            "region_id":85688701,
+            "venue_id":806771923
+        }
+    ],
+    "wof:id":806771923,
+    "wof:lastmodified":1462600944,
+    "wof:name":"Belfast Automotive",
+    "wof:parent_id":85811699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.737318,
+    35.434329,
+    -86.737318,
+    35.434329
+],
+  "geometry": {"coordinates":[-86.737318,35.434329],"type":"Point"}
+}

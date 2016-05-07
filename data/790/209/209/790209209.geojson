@@ -1,0 +1,75 @@
+{
+  "id": 790209209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.013369,35.493601,-85.013369,35.493601",
+    "geom:latitude":35.493601,
+    "geom:longitude":-85.013369,
+    "iso:country":"US",
+    "sg:address":"264 1st Ave",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 1663",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o3olim1DbOBgPjYDocdM7_35.493601_-85.013369@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594022,
+    "wof:geomhash":"6105a99dfd58a1156dacf073c84cef2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":790209209
+        }
+    ],
+    "wof:id":790209209,
+    "wof:lastmodified":1462594022,
+    "wof:name":"Magic Touch Cleaners",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "power"
+    ]
+},
+  "bbox": [
+    -85.013369,
+    35.493601,
+    -85.013369,
+    35.493601
+],
+  "geometry": {"coordinates":[-85.013369,35.493601],"type":"Point"}
+}

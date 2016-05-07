@@ -1,0 +1,73 @@
+{
+  "id": 773711791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.468541,35.927334,-85.468541,35.927334",
+    "geom:latitude":35.927334,
+    "geom:longitude":-85.468541,
+    "iso:country":"US",
+    "sg:address":"207 W Bockman Way",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 836 6461",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nH9ZzpLF9heCRXA3PKvN2_35.927334_-85.468541@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587815,
+    "wof:geomhash":"9a73314883560ee085619f3ca532a47d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":773711791
+        }
+    ],
+    "wof:id":773711791,
+    "wof:lastmodified":1462587815,
+    "wof:name":"Sparta Medcial Clinic",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.468541,
+    35.927334,
+    -85.468541,
+    35.927334
+],
+  "geometry": {"coordinates":[-85.468541,35.927334],"type":"Point"}
+}

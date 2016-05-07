@@ -1,0 +1,71 @@
+{
+  "id": 790021095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.799196,35.050277,-89.799196,35.050277",
+    "geom:latitude":35.050277,
+    "geom:longitude":-89.799196,
+    "iso:country":"US",
+    "sg:address":"3640 County Gate Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 375 4600",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eueCXl0mxZNWq7QDyqvMK_35.050277_-89.799196@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592499,
+    "wof:geomhash":"40f184a6dc9f8d0e8eb22358c56c97e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":790021095
+        }
+    ],
+    "wof:id":790021095,
+    "wof:lastmodified":1462592499,
+    "wof:name":"Barnett Inc of Memphis",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.799196,
+    35.050277,
+    -89.799196,
+    35.050277
+],
+  "geometry": {"coordinates":[-89.79919599999999,35.050277],"type":"Point"}
+}

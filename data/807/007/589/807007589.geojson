@@ -1,0 +1,73 @@
+{
+  "id": 807007589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.988195,35.946065,-83.988195,35.946065",
+    "geom:latitude":35.946065,
+    "geom:longitude":-83.988195,
+    "iso:country":"US",
+    "sg:address":"1038 Forest Heights Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 588 1860",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85819883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t3JIV5zhohMJm51bZgnPp_35.946065_-83.988195@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602924,
+    "wof:geomhash":"09b1e64a08c676fc0590b8d10c304b21",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85819883,
+            "region_id":85688701,
+            "venue_id":807007589
+        }
+    ],
+    "wof:id":807007589,
+    "wof:lastmodified":1462602924,
+    "wof:name":"Quick Svc Taxi",
+    "wof:parent_id":85819883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -83.988195,
+    35.946065,
+    -83.988195,
+    35.946065
+],
+  "geometry": {"coordinates":[-83.988195,35.946065],"type":"Point"}
+}

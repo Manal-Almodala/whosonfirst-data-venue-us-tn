@@ -1,0 +1,71 @@
+{
+  "id": 806567027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.782823,35.443185,-89.782823,35.443185",
+    "geom:latitude":35.443185,
+    "geom:longitude":-89.782823,
+    "iso:country":"US",
+    "sg:address":"334 Atoka-Munford Rd",
+    "sg:city":"Atoka",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 5302",
+    "sg:postcode":"38004",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XUxr0SVO6BtKSCJ6rpcsj_35.443185_-89.782823@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599182,
+    "wof:geomhash":"5c7d6121349c16225d0d86f8d1fd72b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806567027
+        }
+    ],
+    "wof:id":806567027,
+    "wof:lastmodified":1462599182,
+    "wof:name":"Atoka Police Dept",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.782823,
+    35.443185,
+    -89.782823,
+    35.443185
+],
+  "geometry": {"coordinates":[-89.78282299999999,35.443185],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806567797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.222193,35.863229,-83.222193,35.863229",
+    "geom:latitude":35.863229,
+    "geom:longitude":-83.222193,
+    "iso:country":"US",
+    "sg:address":"2920 Cosby Hwy",
+    "sg:city":"Cosby",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 487 5600",
+    "sg:postcode":"37722",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kw8C5NNAVjviDrSJQ0jwz_35.863229_-83.222193@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599189,
+    "wof:geomhash":"04bd176511ba68fb6222ad12304c04ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":806567797
+        }
+    ],
+    "wof:id":806567797,
+    "wof:lastmodified":1462599189,
+    "wof:name":"Rural Medical Services Inc",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.222193,
+    35.863229,
+    -83.222193,
+    35.863229
+],
+  "geometry": {"coordinates":[-83.222193,35.863229],"type":"Point"}
+}

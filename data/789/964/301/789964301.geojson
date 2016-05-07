@@ -1,0 +1,73 @@
+{
+  "id": 789964301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.891938,35.61594,-85.891938,35.61594",
+    "geom:latitude":35.61594,
+    "geom:longitude":-85.891938,
+    "iso:country":"US",
+    "sg:address":"8424 Manchester Hwy",
+    "sg:city":"Morrison",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 815 3674",
+    "sg:postcode":"37357",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723105,
+        102086399,
+        420542243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aB9FKePblBPOQUoBryuf1_35.615940_-85.891938@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592032,
+    "wof:geomhash":"0648fcce4eeb748177aa49a176a30790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086399,
+            "locality_id":101723105,
+            "neighbourhood_id":420542243,
+            "region_id":85688701,
+            "venue_id":789964301
+        }
+    ],
+    "wof:id":789964301,
+    "wof:lastmodified":1462592032,
+    "wof:name":"Med Stat Ems",
+    "wof:parent_id":420542243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -85.891938,
+    35.61594,
+    -85.891938,
+    35.61594
+],
+  "geometry": {"coordinates":[-85.891938,35.61594],"type":"Point"}
+}

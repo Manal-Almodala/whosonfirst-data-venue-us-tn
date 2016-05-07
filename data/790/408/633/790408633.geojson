@@ -1,0 +1,83 @@
+{
+  "id": 790408633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.594135,36.441094,-83.594135,36.441094",
+    "geom:latitude":36.441094,
+    "geom:longitude":-83.594135,
+    "iso:country":"US",
+    "sg:address":"505 Old Knoxville Hwy",
+    "sg:city":"New Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 8844",
+    "sg:postcode":"37825",
+    "sg:province":"TN",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722889,
+        102086965,
+        85811469,
+        101722885,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IZYZPS4glsfymHnKssVpG_36.441094_-83.594135@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595603,
+    "wof:geomhash":"1e8834851de5597a27d73e93b5acefcf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722889,
+            "neighbourhood_id":85811469,
+            "region_id":85688701,
+            "venue_id":790408633
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":790408633
+        }
+    ],
+    "wof:id":790408633,
+    "wof:lastmodified":1462595603,
+    "wof:name":"National Guard Armory",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -83.594135,
+    36.441094,
+    -83.594135,
+    36.441094
+],
+  "geometry": {"coordinates":[-83.59413499999999,36.441094],"type":"Point"}
+}

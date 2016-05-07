@@ -1,0 +1,73 @@
+{
+  "id": 789660429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.237725,36.343061,-82.237725,36.343061",
+    "geom:latitude":36.343061,
+    "geom:longitude":-82.237725,
+    "iso:country":"US",
+    "sg:address":"305 Lawson Ave",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 543 8124",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85844667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oDcOHbkFA063F5XkIWWOF_36.343061_-82.237725@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589533,
+    "wof:geomhash":"af25cc69535bf1479336b8c7e4c0b331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85844667,
+            "region_id":85688701,
+            "venue_id":789660429
+        }
+    ],
+    "wof:id":789660429,
+    "wof:lastmodified":1462589533,
+    "wof:name":"Jonathan S Bremer MD",
+    "wof:parent_id":85844667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.237725,
+    36.343061,
+    -82.237725,
+    36.343061
+],
+  "geometry": {"coordinates":[-82.237725,36.343061],"type":"Point"}
+}

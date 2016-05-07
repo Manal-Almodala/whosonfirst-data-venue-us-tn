@@ -1,0 +1,71 @@
+{
+  "id": 789715847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.894045,35.223222,-89.894045,35.223222",
+    "geom:latitude":35.223222,
+    "geom:longitude":-89.894045,
+    "iso:country":"US",
+    "sg:address":"3594 Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 377 6800",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vTkdPL0psy7J3rcd6iUj2_35.223222_-89.894045@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589981,
+    "wof:geomhash":"d250ce497095160ceb751def87c9b8f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789715847
+        }
+    ],
+    "wof:id":789715847,
+    "wof:lastmodified":1462589981,
+    "wof:name":"Covington Pike Dental Clinic",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.894045,
+    35.223222,
+    -89.894045,
+    35.223222
+],
+  "geometry": {"coordinates":[-89.89404500000001,35.223222],"type":"Point"}
+}

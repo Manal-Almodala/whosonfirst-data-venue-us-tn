@@ -1,0 +1,71 @@
+{
+  "id": 806829091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.572,36.448522,-83.572,36.448522",
+    "geom:latitude":36.448522,
+    "geom:longitude":-83.572,
+    "iso:country":"US",
+    "sg:address":"1410 N Broad St",
+    "sg:city":"Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 5001",
+    "sg:postcode":"37879",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44eDE8G4BTPcv6AVZ0agCg_36.448522_-83.572000@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601417,
+    "wof:geomhash":"ee5a2ce0d984eb7bf738182e5f71848a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":806829091
+        }
+    ],
+    "wof:id":806829091,
+    "wof:lastmodified":1462601417,
+    "wof:name":"Home Town Grocery",
+    "wof:parent_id":85810917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.572,
+    36.448522,
+    -83.572,
+    36.448522
+],
+  "geometry": {"coordinates":[-83.572,36.448522],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789585283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.350732,35.842865,-86.350732,35.842865",
+    "geom:latitude":35.842865,
+    "geom:longitude":-86.350732,
+    "iso:country":"US",
+    "sg:address":"2431 Yearwood Ave",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 4895",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Rq8AXLlDUTwMKtQ0v0CxX_35.842865_-86.350732@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588951,
+    "wof:geomhash":"f2bbbf7ea2cf92ad72f8336193cdb11e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":789585283
+        }
+    ],
+    "wof:id":789585283,
+    "wof:lastmodified":1462588951,
+    "wof:name":"Robinson Ridge Cemetery",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -86.350732,
+    35.842865,
+    -86.350732,
+    35.842865
+],
+  "geometry": {"coordinates":[-86.35073199999999,35.842865],"type":"Point"}
+}

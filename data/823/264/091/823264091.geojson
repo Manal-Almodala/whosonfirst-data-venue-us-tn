@@ -1,0 +1,93 @@
+{
+  "id": 823264091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.74945,36.096092,-86.74945,36.096092",
+    "geom:latitude":36.096092,
+    "geom:longitude":-86.74945,
+    "iso:country":"US",
+    "sg:address":"3640 Trousdale Dr",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 834 7229",
+    "sg:postcode":"37204",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrician",
+        "electric",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85843601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3robWbb9ELVAGJbBIXqUxA_36.096092_-86.749450@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609682,
+    "wof:geomhash":"5805388959062ee38a2b6f24ca3edda5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85843601,
+            "region_id":85688701,
+            "venue_id":823264091
+        }
+    ],
+    "wof:id":823264091,
+    "wof:lastmodified":1462609682,
+    "wof:name":"Hermitage Electric",
+    "wof:parent_id":85843601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "electric",
+        "supply",
+        "equipment",
+        "supplies-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -86.74945,
+    36.096092,
+    -86.74945,
+    36.096092
+],
+  "geometry": {"coordinates":[-86.74945,36.096092],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 790494503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.645418,35.575106,-89.645418,35.575106",
+    "geom:latitude":35.575106,
+    "geom:longitude":-89.645418,
+    "iso:country":"US",
+    "sg:address":"101 Peeler Rd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 9030",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "lubrication",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tEsrZNHfukEMv8TYVdXV5_35.575106_-89.645418@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596327,
+    "wof:geomhash":"eac68ae5d870dff56540843da162de3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790494503
+        }
+    ],
+    "wof:id":790494503,
+    "wof:lastmodified":1462596327,
+    "wof:name":"Performance Automotive Express",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.645418,
+    35.575106,
+    -89.645418,
+    35.575106
+],
+  "geometry": {"coordinates":[-89.64541800000001,35.575106],"type":"Point"}
+}

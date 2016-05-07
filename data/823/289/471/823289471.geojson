@@ -1,0 +1,74 @@
+{
+  "id": 823289471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.013385,35.225353,-90.013385,35.225353",
+    "geom:latitude":35.225353,
+    "geom:longitude":-90.013385,
+    "iso:country":"US",
+    "sg:address":"1510 Corning Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 358 7610",
+    "sg:postcode":"38127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.memphislibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85820619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kT8WCLXkOOoJxiVJmomSK_35.225353_-90.013385@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610677,
+    "wof:geomhash":"f51721d015898c1c1b88f08d20589526",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85820619,
+            "region_id":85688701,
+            "venue_id":823289471
+        }
+    ],
+    "wof:id":823289471,
+    "wof:lastmodified":1462610677,
+    "wof:name":"Police Department",
+    "wof:parent_id":85820619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.013385,
+    35.225353,
+    -90.013385,
+    35.225353
+],
+  "geometry": {"coordinates":[-90.013385,35.225353],"type":"Point"}
+}

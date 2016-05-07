@@ -1,0 +1,76 @@
+{
+  "id": 823260021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.911243,35.943576,-83.911243,35.943576",
+    "geom:latitude":35.943576,
+    "geom:longitude":-83.911243,
+    "iso:country":"US",
+    "sg:address":"3318 Chapman Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/154938-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 577 1942",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85878565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Co9NTSj719ShL8DmN0f14_35.944042_-83.911293@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609552,
+    "wof:geomhash":"214486138c2fa6ba36daddc696854e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85878565,
+            "region_id":85688701,
+            "venue_id":823260021
+        }
+    ],
+    "wof:id":823260021,
+    "wof:lastmodified":1462609552,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85878565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.911243,
+    35.943576,
+    -83.911243,
+    35.943576
+],
+  "geometry": {"coordinates":[-83.911243,35.943576],"type":"Point"}
+}

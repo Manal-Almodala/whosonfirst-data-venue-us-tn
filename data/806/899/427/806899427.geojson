@@ -1,0 +1,80 @@
+{
+  "id": 806899427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.930629,36.038686,-83.930629,36.038686",
+    "geom:latitude":36.038686,
+    "geom:longitude":-83.930629,
+    "iso:country":"US",
+    "sg:address":"5433 N Broadway St",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 8213",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners",
+        "parts",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oHcqQorV8DzsJ8VFtTzfG_36.038686_-83.930629@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602005,
+    "wof:geomhash":"42fb004ac0170dc2baa3d39ba37ecec2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":806899427
+        }
+    ],
+    "wof:id":806899427,
+    "wof:lastmodified":1462602005,
+    "wof:name":"Kirby Vacuum Cleaners Sales",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "parts",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -83.930629,
+    36.038686,
+    -83.930629,
+    36.038686
+],
+  "geometry": {"coordinates":[-83.930629,36.038686],"type":"Point"}
+}

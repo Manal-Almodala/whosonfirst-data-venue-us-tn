@@ -1,0 +1,75 @@
+{
+  "id": 789792473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.640583,36.15755,-86.640583,36.15755",
+    "geom:latitude":36.15755,
+    "geom:longitude":-86.640583,
+    "iso:country":"US",
+    "sg:address":"3220 Cloverwood Dr",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 391 4110",
+    "sg:postcode":"37214",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85811505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fZX985FtS9oVXIOvluttg_36.157550_-86.640583@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590583,
+    "wof:geomhash":"5ec59758ac7a018af708789d6e3f5647",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85811505,
+            "region_id":85688701,
+            "venue_id":789792473
+        }
+    ],
+    "wof:id":789792473,
+    "wof:lastmodified":1462590583,
+    "wof:name":"Absolute Lock & Key",
+    "wof:parent_id":85811505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.640583,
+    36.15755,
+    -86.640583,
+    36.15755
+],
+  "geometry": {"coordinates":[-86.64058300000001,36.15755],"type":"Point"}
+}

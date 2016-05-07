@@ -1,0 +1,71 @@
+{
+  "id": 773315027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.815957,35.557932,-88.815957,35.557932",
+    "geom:latitude":35.557932,
+    "geom:longitude":-88.815957,
+    "iso:country":"US",
+    "sg:address":"138 Edwards Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 423 3333",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58OweLsod9dYU35hbk66KJ_35.557932_-88.815957@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584805,
+    "wof:geomhash":"f0cebd67ed927e325ddfc9ca0ab52806",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":773315027
+        }
+    ],
+    "wof:id":773315027,
+    "wof:lastmodified":1462584805,
+    "wof:name":"Superior Transfer Inc",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.815957,
+    35.557932,
+    -88.815957,
+    35.557932
+],
+  "geometry": {"coordinates":[-88.815957,35.557932],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 773193445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.054475,35.107423,-90.054475,35.107423",
+    "geom:latitude":35.107423,
+    "geom:longitude":-90.054475,
+    "iso:country":"US",
+    "sg:address":"1526 Rayburn St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 947 4940",
+    "sg:postcode":"38106",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542119
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L4Z2IXN22rJiQYN1aOAHS_35.107423_-90.054475@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583878,
+    "wof:geomhash":"df4d5bd82fe29d53be10fb30ef17914e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542119,
+            "region_id":85688701,
+            "venue_id":773193445
+        }
+    ],
+    "wof:id":773193445,
+    "wof:lastmodified":1462583878,
+    "wof:name":"Leslie's Grocery",
+    "wof:parent_id":420542119,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "eating"
+    ]
+},
+  "bbox": [
+    -90.054475,
+    35.107423,
+    -90.054475,
+    35.107423
+],
+  "geometry": {"coordinates":[-90.054475,35.107423],"type":"Point"}
+}

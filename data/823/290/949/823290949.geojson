@@ -1,0 +1,77 @@
+{
+  "id": 823290949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.843513,35.20475,-89.843513,35.20475",
+    "geom:latitude":35.20475,
+    "geom:longitude":-89.843513,
+    "iso:country":"US",
+    "sg:address":"6570 Stage Rd Ste 202",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 213 4225",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "neurology",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722655,
+        102087213,
+        85838691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09FR87EBHCmJcDKaCL2E73_35.204750_-89.843513@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610735,
+    "wof:geomhash":"fad6340f0182f81aed474a1a1c02f354",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722655,
+            "neighbourhood_id":85838691,
+            "region_id":85688701,
+            "venue_id":823290949
+        }
+    ],
+    "wof:id":823290949,
+    "wof:lastmodified":1462610735,
+    "wof:name":"West Tennessee Neurology PC",
+    "wof:parent_id":85838691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "neurology",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -89.843513,
+    35.20475,
+    -89.843513,
+    35.20475
+],
+  "geometry": {"coordinates":[-89.843513,35.20475],"type":"Point"}
+}

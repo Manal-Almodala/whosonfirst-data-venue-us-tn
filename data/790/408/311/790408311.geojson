@@ -1,0 +1,71 @@
+{
+  "id": 790408311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.893984,35.192512,-89.893984,35.192512",
+    "geom:latitude":35.192512,
+    "geom:longitude":-89.893984,
+    "iso:country":"US",
+    "sg:address":"5113 Raleigh Lagrange Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 372 4782",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rUBrA7aTdjOXEJByFS0ln_35.192512_-89.893984@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595600,
+    "wof:geomhash":"398495ad921595d2ee33e4ba8a9ccb4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":790408311
+        }
+    ],
+    "wof:id":790408311,
+    "wof:lastmodified":1462595600,
+    "wof:name":"Gurleys Alignment & Brake Svc",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.893984,
+    35.192512,
+    -89.893984,
+    35.192512
+],
+  "geometry": {"coordinates":[-89.893984,35.192512],"type":"Point"}
+}

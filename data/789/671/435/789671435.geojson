@@ -1,0 +1,71 @@
+{
+  "id": 789671435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.031048,35.958231,-85.031048,35.958231",
+    "geom:latitude":35.958231,
+    "geom:longitude":-85.031048,
+    "iso:country":"US",
+    "sg:address":"106 Woodmere Mall",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 5268",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AGOWteOhgiGFa6poLVuJ9_35.958231_-85.031048@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589636,
+    "wof:geomhash":"1b83ba93be393b515ba7e8d4417b2c2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":789671435
+        }
+    ],
+    "wof:id":789671435,
+    "wof:lastmodified":1462589636,
+    "wof:name":"United Grocery Outlet",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.031048,
+    35.958231,
+    -85.031048,
+    35.958231
+],
+  "geometry": {"coordinates":[-85.031048,35.958231],"type":"Point"}
+}

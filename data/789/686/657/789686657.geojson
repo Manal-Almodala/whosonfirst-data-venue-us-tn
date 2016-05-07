@@ -1,0 +1,71 @@
+{
+  "id": 789686657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.057764,35.537525,-85.057764,35.537525",
+    "geom:latitude":35.537525,
+    "geom:longitude":-85.057764,
+    "iso:country":"US",
+    "sg:address":"5310 Dayton Mountain Hwy",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 8855",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cOMtnZ7ndyfwbhP6v2CuU_35.537525_-85.057764@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589754,
+    "wof:geomhash":"a6cf9602e61dc5401fbace09c3518d3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":789686657
+        }
+    ],
+    "wof:id":789686657,
+    "wof:lastmodified":1462589754,
+    "wof:name":"Kluka Fire Dept",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.057764,
+    35.537525,
+    -85.057764,
+    35.537525
+],
+  "geometry": {"coordinates":[-85.05776400000001,35.537525],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790005025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.827686,35.955549,-83.827686,35.955549",
+    "geom:latitude":35.955549,
+    "geom:longitude":-83.827686,
+    "iso:country":"US",
+    "sg:address":"5344 N National Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 523 0104",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85833365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EMaidurJRK6KWrnorjDFg_35.955549_-83.827686@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592370,
+    "wof:geomhash":"f41be05cdc6a536413610809adc0642d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85833365,
+            "region_id":85688701,
+            "venue_id":790005025
+        }
+    ],
+    "wof:id":790005025,
+    "wof:lastmodified":1462592370,
+    "wof:name":"Terminal Trucking Co Inc",
+    "wof:parent_id":85833365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.827686,
+    35.955549,
+    -83.827686,
+    35.955549
+],
+  "geometry": {"coordinates":[-83.827686,35.955549],"type":"Point"}
+}

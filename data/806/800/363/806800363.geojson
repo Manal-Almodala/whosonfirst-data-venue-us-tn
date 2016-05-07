@@ -1,0 +1,73 @@
+{
+  "id": 806800363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.801566,36.465259,-81.801566,36.465259",
+    "geom:latitude":36.465259,
+    "geom:longitude":-81.801566,
+    "iso:country":"US",
+    "sg:address":"1049 S Shady St",
+    "sg:city":"Mountain City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 727 0700",
+    "sg:postcode":"37683",
+    "sg:province":"TN",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FfCEf1gy2jbzuNRExlfuV_36.465259_-81.801566@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601188,
+    "wof:geomhash":"b4a8f825624f2650964b8387f47ec3be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":806800363
+        }
+    ],
+    "wof:id":806800363,
+    "wof:lastmodified":1462601188,
+    "wof:name":"Mountain City Car Wash",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.801566,
+    36.465259,
+    -81.801566,
+    36.465259
+],
+  "geometry": {"coordinates":[-81.80156599999999,36.465259],"type":"Point"}
+}

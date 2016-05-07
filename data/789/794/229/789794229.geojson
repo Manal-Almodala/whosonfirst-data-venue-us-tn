@@ -1,0 +1,76 @@
+{
+  "id": 789794229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.818887,35.615837,-88.818887,35.615837",
+    "geom:latitude":35.615837,
+    "geom:longitude":-88.818887,
+    "iso:country":"US",
+    "sg:address":"102 E College St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 427 4510",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OCip5b1e6EtmL4xpAxcy8_35.615837_-88.818887@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590599,
+    "wof:geomhash":"040f781089b1bf867322fbfd05ec44ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":789794229
+        }
+    ],
+    "wof:id":789794229,
+    "wof:lastmodified":1462590599,
+    "wof:name":"City Lumber Co",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -88.818887,
+    35.615837,
+    -88.818887,
+    35.615837
+],
+  "geometry": {"coordinates":[-88.818887,35.615837],"type":"Point"}
+}

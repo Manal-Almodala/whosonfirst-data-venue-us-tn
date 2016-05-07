@@ -1,0 +1,81 @@
+{
+  "id": 823260335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.991706,35.119664,-89.991706,35.119664",
+    "geom:latitude":35.119664,
+    "geom:longitude":-89.991706,
+    "iso:country":"US",
+    "sg:address":"2119 Young Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/12842-young-avenue-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 278 0034",
+    "sg:postcode":"38104",
+    "sg:province":"TN",
+    "sg:tags":[
+        "deli",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z2QE6fjtp5G3D4V49aZIe_35.119577_-89.992464@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609558,
+    "wof:geomhash":"a505e7755e307bd9fa898f69a68c1027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867181,
+            "region_id":85688701,
+            "venue_id":823260335
+        }
+    ],
+    "wof:id":823260335,
+    "wof:lastmodified":1462609558,
+    "wof:name":"Young Avenue Deli",
+    "wof:parent_id":85867181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.991706,
+    35.119664,
+    -89.991706,
+    35.119664
+],
+  "geometry": {"coordinates":[-89.99170599999999,35.119664],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823261683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.82008,35.983158,-86.82008,35.983158",
+    "geom:latitude":35.983158,
+    "geom:longitude":-86.82008,
+    "iso:country":"US",
+    "sg:address":"1434 Franklin Rd",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 377 6457",
+    "sg:postcode":"37027",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723097,
+        102086337,
+        85820341
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DfVVPI4uvMV9Kf36z8gtw_35.983158_-86.820080@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609584,
+    "wof:geomhash":"dc8b64b7db42993af7b6404d3bbbe805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723097,
+            "neighbourhood_id":85820341,
+            "region_id":85688701,
+            "venue_id":823261683
+        }
+    ],
+    "wof:id":823261683,
+    "wof:lastmodified":1462609584,
+    "wof:name":"Franklin Road Animal Hospital",
+    "wof:parent_id":85820341,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -86.82008,
+    35.983158,
+    -86.82008,
+    35.983158
+],
+  "geometry": {"coordinates":[-86.82008,35.983158],"type":"Point"}
+}

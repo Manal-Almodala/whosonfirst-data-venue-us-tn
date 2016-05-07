@@ -1,0 +1,80 @@
+{
+  "id": 790620695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.960094,35.952087,-84.960094,35.952087",
+    "geom:latitude":35.952087,
+    "geom:longitude":-84.960094,
+    "iso:country":"US",
+    "sg:address":"3857 US Hwy 70 E",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 4065",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker",
+        "used",
+        "truck",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hKR989EfzTEtsrIvypD91_35.952087_-84.960094@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597419,
+    "wof:geomhash":"ac2811b1078a73a3a11187ee60c4c757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":790620695
+        }
+    ],
+    "wof:id":790620695,
+    "wof:lastmodified":1462597419,
+    "wof:name":"Presley's Auto Parts",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker",
+        "used",
+        "truck",
+        "parts"
+    ]
+},
+  "bbox": [
+    -84.960094,
+    35.952087,
+    -84.960094,
+    35.952087
+],
+  "geometry": {"coordinates":[-84.960094,35.952087],"type":"Point"}
+}

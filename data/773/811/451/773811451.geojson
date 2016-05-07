@@ -1,0 +1,71 @@
+{
+  "id": 773811451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.480077,36.59422,-86.480077,36.59422",
+    "geom:latitude":36.59422,
+    "geom:longitude":-86.480077,
+    "iso:country":"US",
+    "sg:address":"601 Airport Rd",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 361 3211",
+    "sg:postcode":"37148",
+    "sg:province":"TN",
+    "sg:tags":[
+        "airline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EELzs5Y1h6Lavvy6z4G49_36.594220_-86.480077@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588566,
+    "wof:geomhash":"a9ce0ade02e1ac0f84645561147d1663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773811451
+        }
+    ],
+    "wof:id":773811451,
+    "wof:lastmodified":1462588566,
+    "wof:name":"Global Air Service Inc",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airline"
+    ]
+},
+  "bbox": [
+    -86.480077,
+    36.59422,
+    -86.480077,
+    36.59422
+],
+  "geometry": {"coordinates":[-86.48007699999999,36.59422],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 790491021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.870878,35.128407,-84.870878,35.128407",
+    "geom:latitude":35.128407,
+    "geom:longitude":-84.870878,
+    "iso:country":"US",
+    "sg:address":"2405 Buchanan Rd SE",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 476 6381",
+    "sg:postcode":"37323",
+    "sg:province":"TN",
+    "sg:tags":[
+        "packer",
+        "plant",
+        "packing",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723343,
+        102087043,
+        85849565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LnDFCmPYLfdjU48PbjoWp_35.128407_-84.870878@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596298,
+    "wof:geomhash":"6ca2b77b06ca81ed31e09b8e6b678756",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723343,
+            "neighbourhood_id":85849565,
+            "region_id":85688701,
+            "venue_id":790491021
+        }
+    ],
+    "wof:id":790491021,
+    "wof:lastmodified":1462596298,
+    "wof:name":"Ed's Meat Processing Co",
+    "wof:parent_id":85849565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packer",
+        "plant",
+        "packing",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -84.870878,
+    35.128407,
+    -84.870878,
+    35.128407
+],
+  "geometry": {"coordinates":[-84.870878,35.128407],"type":"Point"}
+}

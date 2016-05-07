@@ -1,0 +1,71 @@
+{
+  "id": 790443609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.270048,35.057549,-86.270048,35.057549",
+    "geom:latitude":35.057549,
+    "geom:longitude":-86.270048,
+    "iso:country":"US",
+    "sg:address":"400 Main St",
+    "sg:city":"Huntland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 469 7343",
+    "sg:postcode":"37345",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68RzC85Wt4kFfGGV0i3o0m_35.057549_-86.270048@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595871,
+    "wof:geomhash":"43f1c06f85c79f005c2cded3c4b43484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":790443609
+        }
+    ],
+    "wof:id":790443609,
+    "wof:lastmodified":1462595871,
+    "wof:name":"Michael E Walp DDS",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.270048,
+    35.057549,
+    -86.270048,
+    35.057549
+],
+  "geometry": {"coordinates":[-86.270048,35.057549],"type":"Point"}
+}

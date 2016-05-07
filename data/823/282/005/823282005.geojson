@@ -1,0 +1,74 @@
+{
+  "id": 823282005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.072865,35.072659,-90.072865,35.072659",
+    "geom:latitude":35.072659,
+    "geom:longitude":-90.072865,
+    "iso:country":"US",
+    "sg:address":"297 Rivergate Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Train Station",
+            "subcategory":"Rail",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 789 6330",
+    "sg:postcode":"38109",
+    "sg:province":"TN",
+    "sg:tags":[
+        "railroad"
+    ],
+    "sg:website":"http://www.cn.ca",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LPlIZHbyXw9GkdacsH65c_35.072659_-90.072865@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610393,
+    "wof:geomhash":"78370abdbead49f9ff82a54ed4dfeaf3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542147,
+            "region_id":85688701,
+            "venue_id":823282005
+        }
+    ],
+    "wof:id":823282005,
+    "wof:lastmodified":1462610393,
+    "wof:name":"Illinois Central Division",
+    "wof:parent_id":420542147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "railroad"
+    ]
+},
+  "bbox": [
+    -90.072865,
+    35.072659,
+    -90.072865,
+    35.072659
+],
+  "geometry": {"coordinates":[-90.07286499999999,35.072659],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 823231475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.937724,35.149329,-89.937724,35.149329",
+    "geom:latitude":35.149329,
+    "geom:longitude":-89.937724,
+    "iso:country":"US",
+    "sg:address":"3698 Summer Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 324 9186",
+    "sg:postcode":"38122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85893409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3b4Nla46VVWVn3ht2fSt0h_35.149408_-89.937944@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462608978,
+    "wof:geomhash":"05b07fd2703985ba1b04fea92a8a088e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85893409,
+            "region_id":85688701,
+            "venue_id":823231475
+        }
+    ],
+    "wof:id":823231475,
+    "wof:lastmodified":1462608978,
+    "wof:name":"East Park Animal Hospital",
+    "wof:parent_id":85893409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -89.937724,
+    35.149329,
+    -89.937724,
+    35.149329
+],
+  "geometry": {"coordinates":[-89.937724,35.149329],"type":"Point"}
+}

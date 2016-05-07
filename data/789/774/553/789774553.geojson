@@ -1,0 +1,73 @@
+{
+  "id": 789774553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.130047,35.765473,-84.130047,35.765473",
+    "geom:latitude":35.765473,
+    "geom:longitude":-84.130047,
+    "iso:country":"US",
+    "sg:address":"105 Wynoka Ln",
+    "sg:city":"Loudon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 458 1458",
+    "sg:postcode":"37737",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722703,
+        102087017,
+        85808753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xAry4IWjn6a5KyL2rTyXr_35.765473_-84.130047@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590436,
+    "wof:geomhash":"1ecdf660e285c45cdf472843eb0a8008",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722703,
+            "neighbourhood_id":85808753,
+            "region_id":85688701,
+            "venue_id":789774553
+        }
+    ],
+    "wof:id":789774553,
+    "wof:lastmodified":1462590436,
+    "wof:name":"Ray's Auto Repair",
+    "wof:parent_id":85808753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.130047,
+    35.765473,
+    -84.130047,
+    35.765473
+],
+  "geometry": {"coordinates":[-84.130047,35.765473],"type":"Point"}
+}

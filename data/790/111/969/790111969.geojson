@@ -1,0 +1,73 @@
+{
+  "id": 790111969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.983091,35.529779,-84.983091,35.529779",
+    "geom:latitude":35.529779,
+    "geom:longitude":-84.983091,
+    "iso:country":"US",
+    "sg:address":"9961 US Hwy 27",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 1058",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0njJjWjqX0SeTPnxnUcgDA_35.529779_-84.983091@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593232,
+    "wof:geomhash":"f16e373ad49f29b99458b83dcd918d61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":790111969
+        }
+    ],
+    "wof:id":790111969,
+    "wof:lastmodified":1462593232,
+    "wof:name":"Animal Hospital",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -84.983091,
+    35.529779,
+    -84.983091,
+    35.529779
+],
+  "geometry": {"coordinates":[-84.983091,35.529779],"type":"Point"}
+}

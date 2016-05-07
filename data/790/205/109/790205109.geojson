@@ -1,0 +1,71 @@
+{
+  "id": 790205109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269576,35.050782,-86.269576,35.050782",
+    "geom:latitude":35.050782,
+    "geom:longitude":-86.269576,
+    "iso:country":"US",
+    "sg:address":"108 Banks St",
+    "sg:city":"Huntland",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 469 7791",
+    "sg:postcode":"37345",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bAGwmFR5AOcVQxBz2bLrP_35.050782_-86.269576@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593995,
+    "wof:geomhash":"861bca5a1dac7d0ced1332eff8cdcc36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":790205109
+        }
+    ],
+    "wof:id":790205109,
+    "wof:lastmodified":1462593995,
+    "wof:name":"Hunter's Grocery",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.269576,
+    35.050782,
+    -86.269576,
+    35.050782
+],
+  "geometry": {"coordinates":[-86.269576,35.050782],"type":"Point"}
+}

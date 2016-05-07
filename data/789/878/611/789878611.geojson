@@ -1,0 +1,72 @@
+{
+  "id": 789878611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.83003,36.162884,-82.83003,36.162884",
+    "geom:latitude":36.162884,
+    "geom:longitude":-82.83003,
+    "iso:country":"US",
+    "sg:address":"116 E Depot St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 798 1800",
+    "sg:postcode":"37743",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "sg:website":"www.greenecountysheriffsdepartment.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XB69AGaZXRhuLbsLAZESM_36.162884_-82.830030@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591276,
+    "wof:geomhash":"c4273efcc9f607b309bc1e98153c6fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":789878611
+        }
+    ],
+    "wof:id":789878611,
+    "wof:lastmodified":1462591276,
+    "wof:name":"Greene County Sheriff's Ofc",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -82.83003,
+    36.162884,
+    -82.83003,
+    36.162884
+],
+  "geometry": {"coordinates":[-82.83002999999999,36.162884],"type":"Point"}
+}

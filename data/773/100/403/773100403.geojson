@@ -1,0 +1,69 @@
+{
+  "id": 773100403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.361364,36.527327,-87.361364,36.527327",
+    "geom:latitude":36.527327,
+    "geom:longitude":-87.361364,
+    "iso:country":"US",
+    "sg:address":"106 Public Sq",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 553 2420",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cMwDgENwos3FDx7tXXitX_36.527327_-87.361364@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583158,
+    "wof:geomhash":"f3bab0e0ecdad60b432a808f4a296cf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":773100403
+        }
+    ],
+    "wof:id":773100403,
+    "wof:lastmodified":1462583158,
+    "wof:name":"Clarksville Address Assignment",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -87.361364,
+    36.527327,
+    -87.361364,
+    36.527327
+],
+  "geometry": {"coordinates":[-87.36136399999999,36.527327],"type":"Point"}
+}

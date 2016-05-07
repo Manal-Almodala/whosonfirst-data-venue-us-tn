@@ -1,0 +1,76 @@
+{
+  "id": 789602559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.722252,35.481978,-89.722252,35.481978",
+    "geom:latitude":35.481978,
+    "geom:longitude":-89.722252,
+    "iso:country":"US",
+    "sg:address":"72 School St",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 0634",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aPObztPJ56Z6PM4w3Rrnx_35.481978_-89.722252@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589086,
+    "wof:geomhash":"c39bbf232b8bfbe3319f5940036261d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789602559
+        }
+    ],
+    "wof:id":789602559,
+    "wof:lastmodified":1462589086,
+    "wof:name":"Brighton Senior Citizen Center",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -89.722252,
+    35.481978,
+    -89.722252,
+    35.481978
+],
+  "geometry": {"coordinates":[-89.722252,35.481978],"type":"Point"}
+}

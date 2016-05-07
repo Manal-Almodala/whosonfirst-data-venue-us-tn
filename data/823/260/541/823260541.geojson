@@ -1,0 +1,78 @@
+{
+  "id": 823260541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.006496,35.053599,-90.006496,35.053599",
+    "geom:latitude":35.053599,
+    "geom:longitude":-90.006496,
+    "iso:country":"US",
+    "sg:address":"1725 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/173217-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 345 3206",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LQOjQz7h5HOQ7sVS0k9Dn_35.053646_-90.006005@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609562,
+    "wof:geomhash":"4000d39f8064e02bd32a09485d2de0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867187,
+            "region_id":85688701,
+            "venue_id":823260541
+        }
+    ],
+    "wof:id":823260541,
+    "wof:lastmodified":1462609562,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85867187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -90.006496,
+    35.053599,
+    -90.006496,
+    35.053599
+],
+  "geometry": {"coordinates":[-90.006496,35.053599],"type":"Point"}
+}

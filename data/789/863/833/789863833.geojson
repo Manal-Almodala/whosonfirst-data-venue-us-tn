@@ -1,0 +1,71 @@
+{
+  "id": 789863833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.423563,35.887995,-86.423563,35.887995",
+    "geom:latitude":35.887995,
+    "geom:longitude":-86.423563,
+    "iso:country":"US",
+    "sg:address":"2110 N Thompson Ln",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 9420",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cfbFeYHcZFVMNvZ0M81ee_35.887995_-86.423563@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591138,
+    "wof:geomhash":"3158b67fcb527eca7631dae47210090f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821325,
+            "region_id":85688701,
+            "venue_id":789863833
+        }
+    ],
+    "wof:id":789863833,
+    "wof:lastmodified":1462591138,
+    "wof:name":"Auto Art Body Shop Inc",
+    "wof:parent_id":85821325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -86.423563,
+    35.887995,
+    -86.423563,
+    35.887995
+],
+  "geometry": {"coordinates":[-86.423563,35.887995],"type":"Point"}
+}

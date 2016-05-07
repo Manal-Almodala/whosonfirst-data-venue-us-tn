@@ -1,0 +1,75 @@
+{
+  "id": 807283441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.314354,35.014874,-85.314354,35.014874",
+    "geom:latitude":35.014874,
+    "geom:longitude":-85.314354,
+    "iso:country":"US",
+    "sg:address":"1016 W 33rd St",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 266 6692",
+    "sg:postcode":"37410",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85846343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hJ8VaJWul4ajqmivO3M2y_35.014874_-85.314354@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605682,
+    "wof:geomhash":"caacec557dbf3b022d367334a5093bed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85846343,
+            "region_id":85688701,
+            "venue_id":807283441
+        }
+    ],
+    "wof:id":807283441,
+    "wof:lastmodified":1462605682,
+    "wof:name":"Blakney Auto Repair",
+    "wof:parent_id":85846343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.314354,
+    35.014874,
+    -85.314354,
+    35.014874
+],
+  "geometry": {"coordinates":[-85.31435399999999,35.014874],"type":"Point"}
+}

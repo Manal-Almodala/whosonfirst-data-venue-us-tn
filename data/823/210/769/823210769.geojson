@@ -1,0 +1,73 @@
+{
+  "id": 823210769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.592304,35.455962,-84.592304,35.455962",
+    "geom:latitude":35.455962,
+    "geom:longitude":-84.592304,
+    "iso:country":"US",
+    "sg:address":"810 Woodward Ave",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 744 5242",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85811277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PbruDzvsBSqQo73cs12IA_35.455962_-84.592304@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608548,
+    "wof:geomhash":"f33dcb0f5d550ceb6baa57ab108c0b20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85811277,
+            "region_id":85688701,
+            "venue_id":823210769
+        }
+    ],
+    "wof:id":823210769,
+    "wof:lastmodified":1462608548,
+    "wof:name":"Athens Utilities Board",
+    "wof:parent_id":85811277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.592304,
+    35.455962,
+    -84.592304,
+    35.455962
+],
+  "geometry": {"coordinates":[-84.592304,35.455962],"type":"Point"}
+}

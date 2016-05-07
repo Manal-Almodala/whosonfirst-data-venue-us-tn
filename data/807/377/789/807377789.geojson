@@ -1,0 +1,71 @@
+{
+  "id": 807377789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.582572,35.431734,-84.582572,35.431734",
+    "geom:latitude":35.431734,
+    "geom:longitude":-84.582572,
+    "iso:country":"US",
+    "sg:address":"101 New Englewood Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 6564",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YNP0d8Za1qB4FY9nnI1NR_35.431734_-84.582572@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606893,
+    "wof:geomhash":"4465719a33ab18daa2dcf020b8867d43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":807377789
+        }
+    ],
+    "wof:id":807377789,
+    "wof:lastmodified":1462606893,
+    "wof:name":"Offutt Veterinary Svc",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.582572,
+    35.431734,
+    -84.582572,
+    35.431734
+],
+  "geometry": {"coordinates":[-84.582572,35.431734],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790380253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.664867,35.488825,-89.664867,35.488825",
+    "geom:latitude":35.488825,
+    "geom:longitude":-89.664867,
+    "iso:country":"US",
+    "sg:address":"3226 Sunnyside Rd",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 485 2332",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J1fiSn6AwSfJDdYjr5hM1_35.488825_-89.664867@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595382,
+    "wof:geomhash":"df2afadd282610ce2eccfc332a98c62f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790380253
+        }
+    ],
+    "wof:id":790380253,
+    "wof:lastmodified":1462595382,
+    "wof:name":"Water Doctors West Tennessee",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.664867,
+    35.488825,
+    -89.664867,
+    35.488825
+],
+  "geometry": {"coordinates":[-89.664867,35.488825],"type":"Point"}
+}

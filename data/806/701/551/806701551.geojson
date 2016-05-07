@@ -1,0 +1,71 @@
+{
+  "id": 806701551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.196805,35.928841,-83.196805,35.928841",
+    "geom:latitude":35.928841,
+    "geom:longitude":-83.196805,
+    "iso:country":"US",
+    "sg:address":"1525 Golf Course Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 5899",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JT3ZGJzmD0ymxI5CgAffV_35.928841_-83.196805@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600350,
+    "wof:geomhash":"38107bcad9fb09cf2b614d9e08c27c7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":806701551
+        }
+    ],
+    "wof:id":806701551,
+    "wof:lastmodified":1462600350,
+    "wof:name":"Vassar Plumbing",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.196805,
+    35.928841,
+    -83.196805,
+    35.928841
+],
+  "geometry": {"coordinates":[-83.196805,35.928841],"type":"Point"}
+}

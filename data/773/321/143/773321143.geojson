@@ -1,0 +1,71 @@
+{
+  "id": 773321143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.829066,36.166187,-82.829066,36.166187",
+    "geom:latitude":36.166187,
+    "geom:longitude":-82.829066,
+    "iso:country":"US",
+    "sg:address":"228 N Main St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 639 7261",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VD0MfHLrDNKVkLJCWd8ga_36.166187_-82.829066@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584851,
+    "wof:geomhash":"0ce013347240d5fabefc03388444958a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":773321143
+        }
+    ],
+    "wof:id":773321143,
+    "wof:lastmodified":1462584851,
+    "wof:name":"Quest Diagnostics",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -82.829066,
+    36.166187,
+    -82.829066,
+    36.166187
+],
+  "geometry": {"coordinates":[-82.829066,36.166187],"type":"Point"}
+}

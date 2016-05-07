@@ -1,0 +1,69 @@
+{
+  "id": 807112997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.968409,35.409248,-85.968409,35.409248",
+    "geom:latitude":35.409248,
+    "geom:longitude":-85.968409,
+    "iso:country":"US",
+    "sg:address":"7951 Hillsboro Hwy",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 596 2222",
+    "sg:postcode":"37342",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M9nCL5l5D6HGWwRRC7nLg_35.409248_-85.968409@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603870,
+    "wof:geomhash":"e8ed0ad3607a3c9c7f166c9ec5921193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":807112997
+        }
+    ],
+    "wof:id":807112997,
+    "wof:lastmodified":1462603870,
+    "wof:name":"Hillsboro Fire Dept",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.968409,
+    35.409248,
+    -85.968409,
+    35.409248
+],
+  "geometry": {"coordinates":[-85.96840899999999,35.409248],"type":"Point"}
+}

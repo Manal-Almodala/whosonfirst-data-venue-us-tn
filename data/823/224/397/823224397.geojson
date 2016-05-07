@@ -1,0 +1,90 @@
+{
+  "id": 823224397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.016054,35.141164,-90.016054,35.141164",
+    "geom:latitude":35.141164,
+    "geom:longitude":-90.016054,
+    "iso:country":"US",
+    "sg:address":"85 N Cleveland St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 728 6171",
+    "sg:postcode":"38104",
+    "sg:province":"TN",
+    "sg:tags":[
+        "residential",
+        "specialty",
+        "outpatient",
+        "charitable",
+        "homes-institutional",
+        "aged",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01liuQb9Q5JznnAOiO1FgF_35.141253_-90.016115@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462608827,
+    "wof:geomhash":"88b07b36d3055c68541cec306b43d896",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867189,
+            "region_id":85688701,
+            "venue_id":823224397
+        }
+    ],
+    "wof:id":823224397,
+    "wof:lastmodified":1462608827,
+    "wof:name":"Doziers House",
+    "wof:parent_id":85867189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "specialty",
+        "outpatient",
+        "charitable",
+        "homes-institutional",
+        "aged",
+        "care"
+    ]
+},
+  "bbox": [
+    -90.016054,
+    35.141164,
+    -90.016054,
+    35.141164
+],
+  "geometry": {"coordinates":[-90.016054,35.141164],"type":"Point"}
+}

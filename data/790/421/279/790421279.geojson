@@ -1,0 +1,71 @@
+{
+  "id": 790421279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.566976,35.888807,-86.566976,35.888807",
+    "geom:latitude":35.888807,
+    "geom:longitude":-86.566976,
+    "iso:country":"US",
+    "sg:address":"1305 Almaville Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 758 5337",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85845521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ppjzFUXxSWiWrN851v6X0_35.888807_-86.566976@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595687,
+    "wof:geomhash":"763e4c94ebf6b738195706bae1850c52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85845521,
+            "region_id":85688701,
+            "venue_id":790421279
+        }
+    ],
+    "wof:id":790421279,
+    "wof:lastmodified":1462595687,
+    "wof:name":"Country Junction Carwash",
+    "wof:parent_id":85845521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -86.566976,
+    35.888807,
+    -86.566976,
+    35.888807
+],
+  "geometry": {"coordinates":[-86.566976,35.888807],"type":"Point"}
+}

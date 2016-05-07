@@ -1,0 +1,73 @@
+{
+  "id": 773582271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.32139,35.978328,-87.32139,35.978328",
+    "geom:latitude":35.978328,
+    "geom:longitude":-87.32139,
+    "iso:country":"US",
+    "sg:address":"2610 Old Hwy 46 S",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 740 0500",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LsWkKQptuH80WrTUmcTFb_35.978328_-87.321390@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586819,
+    "wof:geomhash":"1f6980f341b09c731537311c405c9478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":773582271
+        }
+    ],
+    "wof:id":773582271,
+    "wof:lastmodified":1462586819,
+    "wof:name":"Dickson Automotive Plus",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.32139,
+    35.978328,
+    -87.32139,
+    35.978328
+],
+  "geometry": {"coordinates":[-87.32138999999999,35.978328],"type":"Point"}
+}

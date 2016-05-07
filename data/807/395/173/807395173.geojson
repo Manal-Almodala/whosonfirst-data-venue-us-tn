@@ -1,0 +1,71 @@
+{
+  "id": 807395173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.292544,36.211318,-83.292544,36.211318",
+    "geom:latitude":36.211318,
+    "geom:longitude":-83.292544,
+    "iso:country":"US",
+    "sg:address":"202 W Morris Blvd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 5672",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5J3BctzQFW4yjDujVTxWBi_36.211318_-83.292544@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607166,
+    "wof:geomhash":"6a625213f983aad7f031672dc59cc49b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807395173
+        }
+    ],
+    "wof:id":807395173,
+    "wof:lastmodified":1462607166,
+    "wof:name":"Burger King",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.292544,
+    36.211318,
+    -83.292544,
+    36.211318
+],
+  "geometry": {"coordinates":[-83.29254400000001,36.211318],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 807344913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.289341,36.209352,-83.289341,36.209352",
+    "geom:latitude":36.209352,
+    "geom:longitude":-83.289341,
+    "iso:country":"US",
+    "sg:address":"517 S Cumberland St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 6050",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S0odMBltFaESmOSFTMwkO_36.209352_-83.289341@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606431,
+    "wof:geomhash":"3cc5c5877e118c87aacd50e421201adb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807344913
+        }
+    ],
+    "wof:id":807344913,
+    "wof:lastmodified":1462606431,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -83.289341,
+    36.209352,
+    -83.289341,
+    36.209352
+],
+  "geometry": {"coordinates":[-83.28934099999999,36.209352],"type":"Point"}
+}

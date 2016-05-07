@@ -1,0 +1,71 @@
+{
+  "id": 790405081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.170618,35.946481,-87.170618,35.946481",
+    "geom:latitude":35.946481,
+    "geom:longitude":-87.170618,
+    "iso:country":"US",
+    "sg:address":"7349 Walker Rd",
+    "sg:city":"Fairview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 799 9988",
+    "sg:postcode":"37062",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723095,
+        102086337,
+        85822897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57daHzBMzMMaZBW8lk5xEV_35.946481_-87.170618@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595574,
+    "wof:geomhash":"73edc5e8db238b34bb0c3342f266a730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723095,
+            "neighbourhood_id":85822897,
+            "region_id":85688701,
+            "venue_id":790405081
+        }
+    ],
+    "wof:id":790405081,
+    "wof:lastmodified":1462595574,
+    "wof:name":"Coggin Transmission",
+    "wof:parent_id":85822897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -87.170618,
+    35.946481,
+    -87.170618,
+    35.946481
+],
+  "geometry": {"coordinates":[-87.170618,35.946481],"type":"Point"}
+}

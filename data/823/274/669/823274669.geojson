@@ -1,0 +1,85 @@
+{
+  "id": 823274669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.915008,35.955269,-83.915008,35.955269",
+    "geom:latitude":35.955269,
+    "geom:longitude":-83.915008,
+    "iso:country":"US",
+    "sg:address":"2020 Kay St",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 579 3920",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "ophthalmology",
+        "surgeons",
+        "surgeon"
+    ],
+    "sg:website":"http://www.baptisteye.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85878551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vWMbbzrUXf4g3tb84rTih_35.955269_-83.915008@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610094,
+    "wof:geomhash":"732159287a3f0cf87603b4c6e846250d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85878551,
+            "region_id":85688701,
+            "venue_id":823274669
+        }
+    ],
+    "wof:id":823274669,
+    "wof:lastmodified":1462610094,
+    "wof:name":"Baptist Eye Institute",
+    "wof:parent_id":85878551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "ophthalmology",
+        "surgeons",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.915008,
+    35.955269,
+    -83.915008,
+    35.955269
+],
+  "geometry": {"coordinates":[-83.915008,35.955269],"type":"Point"}
+}

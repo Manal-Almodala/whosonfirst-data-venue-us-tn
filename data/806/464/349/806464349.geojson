@@ -1,0 +1,71 @@
+{
+  "id": 806464349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.289196,36.210576,-86.289196,36.210576",
+    "geom:latitude":36.210576,
+    "geom:longitude":-86.289196,
+    "iso:country":"US",
+    "sg:address":"203 N College St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 0500",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MKljEpOEFA2DsTXtKE5ct_36.210576_-86.289196@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598349,
+    "wof:geomhash":"71e900d429e45af3b56ccb456dfca1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":806464349
+        }
+    ],
+    "wof:id":806464349,
+    "wof:lastmodified":1462598349,
+    "wof:name":"Kelley Cab Co",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.289196,
+    36.210576,
+    -86.289196,
+    36.210576
+],
+  "geometry": {"coordinates":[-86.289196,36.210576],"type":"Point"}
+}

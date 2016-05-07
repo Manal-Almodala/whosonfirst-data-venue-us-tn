@@ -1,0 +1,76 @@
+{
+  "id": 823259107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.155287,35.031677,-85.155287,35.031677",
+    "geom:latitude":35.031677,
+    "geom:longitude":-85.155287,
+    "iso:country":"US",
+    "sg:address":"2017 Gunbarrel Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/chattanooga/203547-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 510 0889",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85824831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ObF7e9RcjrZ649CFwnx9_35.031488_-85.154871@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609533,
+    "wof:geomhash":"897e123b69ca987c493c0f6c25afd05c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85824831,
+            "region_id":85688701,
+            "venue_id":823259107
+        }
+    ],
+    "wof:id":823259107,
+    "wof:lastmodified":1462609533,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85824831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.155287,
+    35.031677,
+    -85.155287,
+    35.031677
+],
+  "geometry": {"coordinates":[-85.155287,35.031677],"type":"Point"}
+}

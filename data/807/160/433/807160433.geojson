@@ -1,0 +1,75 @@
+{
+  "id": 807160433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.995694,35.016294,-89.995694,35.016294",
+    "geom:latitude":35.016294,
+    "geom:longitude":-89.995694,
+    "iso:country":"US",
+    "sg:address":"2038 Jamie Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 345 6477",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uE9xF315TJeeXfrLJLSHU_35.016294_-89.995694@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604383,
+    "wof:geomhash":"ca1667ea3c324d73322198a619a3f43c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542123,
+            "region_id":85688701,
+            "venue_id":807160433
+        }
+    ],
+    "wof:id":807160433,
+    "wof:lastmodified":1462604383,
+    "wof:name":"Amoco",
+    "wof:parent_id":420542123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.995694,
+    35.016294,
+    -89.995694,
+    35.016294
+],
+  "geometry": {"coordinates":[-89.995694,35.016294],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823244753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.424123,35.84581,-86.424123,35.84581",
+    "geom:latitude":35.84581,
+    "geom:longitude":-86.424123,
+    "iso:country":"US",
+    "sg:address":"1835 Old Fort Pkwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/10327-don-pablos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 8098",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich",
+        "mexican",
+        "salad",
+        "soup",
+        "american",
+        "wrap",
+        "tex-mex"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sg1uk0brYnuHgkf12yAZJ_35.845810_-86.424123@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609232,
+    "wof:geomhash":"9b30b41a59bf54db96444c8b13159bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823244753
+        }
+    ],
+    "wof:id":823244753,
+    "wof:lastmodified":1462609232,
+    "wof:name":"Don Pablo's",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "mexican",
+        "salad",
+        "soup",
+        "american",
+        "wrap",
+        "tex-mex"
+    ]
+},
+  "bbox": [
+    -86.424123,
+    35.84581,
+    -86.424123,
+    35.84581
+],
+  "geometry": {"coordinates":[-86.42412299999999,35.84581],"type":"Point"}
+}

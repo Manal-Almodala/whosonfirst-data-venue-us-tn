@@ -1,0 +1,73 @@
+{
+  "id": 773291831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.469801,35.435211,-84.469801,35.435211",
+    "geom:latitude":35.435211,
+    "geom:longitude":-84.469801,
+    "iso:country":"US",
+    "sg:address":"3302 US Hwy 411",
+    "sg:city":"Englewood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 887 6470",
+    "sg:postcode":"37329",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722749,
+        102086293,
+        85839313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aK8GOt7OrH7nCvNRJiZEw_35.435211_-84.469801@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584613,
+    "wof:geomhash":"6856709b91a0a111ceaae151da264ff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722749,
+            "neighbourhood_id":85839313,
+            "region_id":85688701,
+            "venue_id":773291831
+        }
+    ],
+    "wof:id":773291831,
+    "wof:lastmodified":1462584613,
+    "wof:name":"Englewood Automotive",
+    "wof:parent_id":85839313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.469801,
+    35.435211,
+    -84.469801,
+    35.435211
+],
+  "geometry": {"coordinates":[-84.469801,35.435211],"type":"Point"}
+}

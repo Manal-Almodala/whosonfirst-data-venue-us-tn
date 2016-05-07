@@ -1,0 +1,68 @@
+{
+  "id": 773678901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.65329,36.094258,-86.65329,36.094258",
+    "geom:latitude":36.094258,
+    "geom:longitude":-86.65329,
+    "iso:country":"US",
+    "sg:address":"2115 Murfreesboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 360 9222",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85841041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13LnbAE9XZ8tn9807vBwpI_36.094258_-86.653290@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587531,
+    "wof:geomhash":"7039000862b77fc09184c3465cdff7e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85841041,
+            "region_id":85688701,
+            "venue_id":773678901
+        }
+    ],
+    "wof:id":773678901,
+    "wof:lastmodified":1462587531,
+    "wof:name":"Nashboro Animal Clinic",
+    "wof:parent_id":85841041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.65329,
+    36.094258,
+    -86.65329,
+    36.094258
+],
+  "geometry": {"coordinates":[-86.65329,36.094258],"type":"Point"}
+}

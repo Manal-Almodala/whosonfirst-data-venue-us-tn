@@ -1,0 +1,82 @@
+{
+  "id": 823284843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.022453,35.000543,-90.022453,35.000543",
+    "geom:latitude":35.000543,
+    "geom:longitude":-90.022453,
+    "iso:country":"US",
+    "sg:address":"1250 Winfield Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 332 6803",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85847303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZqklWaCZSFRxsEqODLrmJ_35.000543_-90.022453@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610507,
+    "wof:geomhash":"4b6fa37440f67b3278c4b6cc1d27e716",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85847303,
+            "region_id":85688701,
+            "venue_id":823284843
+        }
+    ],
+    "wof:id":823284843,
+    "wof:lastmodified":1462610507,
+    "wof:name":"Circle A Trucking",
+    "wof:parent_id":85847303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.022453,
+    35.000543,
+    -90.022453,
+    35.000543
+],
+  "geometry": {"coordinates":[-90.022453,35.000543],"type":"Point"}
+}

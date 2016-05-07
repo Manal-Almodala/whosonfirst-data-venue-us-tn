@@ -1,0 +1,71 @@
+{
+  "id": 806444315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.022848,35.94263,-85.022848,35.94263",
+    "geom:latitude":35.94263,
+    "geom:longitude":-85.022848,
+    "iso:country":"US",
+    "sg:address":"421 S Main St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 707 5335",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hvZne0ZAxxjShEEi1XN2c_35.942630_-85.022848@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598198,
+    "wof:geomhash":"0c93296b96070dede76f2231580ae3e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":806444315
+        }
+    ],
+    "wof:id":806444315,
+    "wof:lastmodified":1462598198,
+    "wof:name":"Martin Richard MD",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.022848,
+    35.94263,
+    -85.022848,
+    35.94263
+],
+  "geometry": {"coordinates":[-85.022848,35.94263],"type":"Point"}
+}

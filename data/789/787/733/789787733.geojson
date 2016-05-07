@@ -1,0 +1,73 @@
+{
+  "id": 789787733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.093197,35.485024,-86.093197,35.485024",
+    "geom:latitude":35.485024,
+    "geom:longitude":-86.093197,
+    "iso:country":"US",
+    "sg:address":"412 W High St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 7336",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FRnt0V13i4BCgRksS2UhJ_35.485024_-86.093197@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590547,
+    "wof:geomhash":"7f206cc2987c32da784a4ecededa7cae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":789787733
+        }
+    ],
+    "wof:id":789787733,
+    "wof:lastmodified":1462590547,
+    "wof:name":"Ferrell's Lock & Key",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.093197,
+    35.485024,
+    -86.093197,
+    35.485024
+],
+  "geometry": {"coordinates":[-86.093197,35.485024],"type":"Point"}
+}

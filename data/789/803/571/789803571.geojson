@@ -1,0 +1,82 @@
+{
+  "id": 789803571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.11054,35.184218,-86.11054,35.184218",
+    "geom:latitude":35.184218,
+    "geom:longitude":-86.11054,
+    "iso:country":"US",
+    "sg:address":"301 S Jefferson St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 2235",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oir0r3OgWfE3YB1sX6zYH_35.184218_-86.110540@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590665,
+    "wof:geomhash":"096f10b7ce78b970fa0438ed56c95de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":789803571
+        }
+    ],
+    "wof:id":789803571,
+    "wof:lastmodified":1462590665,
+    "wof:name":"Cumberland Machine Shop Inc",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "shop",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -86.11054,
+    35.184218,
+    -86.11054,
+    35.184218
+],
+  "geometry": {"coordinates":[-86.11054,35.184218],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823283561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.989207,35.09157,-89.989207,35.09157",
+    "geom:latitude":35.09157,
+    "geom:longitude":-89.989207,
+    "iso:country":"US",
+    "sg:address":"2234 Dunn Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 365 9119",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "signs-erectors",
+        "hanger",
+        "signs-maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RPqqnPPuDqGep44K74mXa_35.091570_-89.989207@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610454,
+    "wof:geomhash":"59a1cf10fc98097d7183a9c548da6fbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542111,
+            "region_id":85688701,
+            "venue_id":823283561
+        }
+    ],
+    "wof:id":823283561,
+    "wof:lastmodified":1462610454,
+    "wof:name":"Memphis Sign Erectors, Inc.",
+    "wof:parent_id":420542111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "signs-erectors",
+        "hanger",
+        "signs-maintenance"
+    ]
+},
+  "bbox": [
+    -89.989207,
+    35.09157,
+    -89.989207,
+    35.09157
+],
+  "geometry": {"coordinates":[-89.98920699999999,35.09157],"type":"Point"}
+}

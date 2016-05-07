@@ -1,0 +1,75 @@
+{
+  "id": 806459453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.435656,36.130801,-85.435656,36.130801",
+    "geom:latitude":36.130801,
+    "geom:longitude":-85.435656,
+    "iso:country":"US",
+    "sg:address":"2647 Lake Pointe Dr",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 520 6415",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_019wVKVn4tWLOBl321jITd_36.130801_-85.435656@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598309,
+    "wof:geomhash":"e9dde9f0a087e98b7782347a2138bd97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":806459453
+        }
+    ],
+    "wof:id":806459453,
+    "wof:lastmodified":1462598309,
+    "wof:name":"Dobbs Fleet Leasing",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -85.435656,
+    36.130801,
+    -85.435656,
+    36.130801
+],
+  "geometry": {"coordinates":[-85.43565599999999,36.130801],"type":"Point"}
+}

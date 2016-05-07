@@ -1,0 +1,73 @@
+{
+  "id": 789641567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.091375,35.839763,-84.091375,35.839763",
+    "geom:latitude":35.839763,
+    "geom:longitude":-84.091375,
+    "iso:country":"US",
+    "sg:address":"3433 Seebers Ln",
+    "sg:city":"Louisville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 681 8926",
+    "sg:postcode":"37777",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dock",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722703,
+        102087017,
+        85808753
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aftMQC2lxhB9Y7VW0DOpI_35.839763_-84.091375@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589386,
+    "wof:geomhash":"f0cd537801abfd1356ea1150ee994744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722703,
+            "neighbourhood_id":85808753,
+            "region_id":85688701,
+            "venue_id":789641567
+        }
+    ],
+    "wof:id":789641567,
+    "wof:lastmodified":1462589386,
+    "wof:name":"Jack Morgan",
+    "wof:parent_id":85808753,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock",
+        "boat"
+    ]
+},
+  "bbox": [
+    -84.091375,
+    35.839763,
+    -84.091375,
+    35.839763
+],
+  "geometry": {"coordinates":[-84.091375,35.839763],"type":"Point"}
+}

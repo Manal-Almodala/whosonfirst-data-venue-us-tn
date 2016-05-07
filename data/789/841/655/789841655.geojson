@@ -1,0 +1,73 @@
+{
+  "id": 789841655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.22928,36.490885,-87.22928,36.490885",
+    "geom:latitude":36.490885,
+    "geom:longitude":-87.22928,
+    "iso:country":"US",
+    "sg:address":"3316 Marrast Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 358 5808",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RjWxGog6PR1gHfzHeFAoI_36.490885_-87.229280@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590959,
+    "wof:geomhash":"02644e886f40ddbceb76901d0db7a30a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846211,
+            "region_id":85688701,
+            "venue_id":789841655
+        }
+    ],
+    "wof:id":789841655,
+    "wof:lastmodified":1462590959,
+    "wof:name":"Jerry's Lock & Key",
+    "wof:parent_id":85846211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -87.22928,
+    36.490885,
+    -87.22928,
+    36.490885
+],
+  "geometry": {"coordinates":[-87.22928,36.490885],"type":"Point"}
+}

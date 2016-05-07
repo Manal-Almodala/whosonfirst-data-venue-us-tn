@@ -1,0 +1,80 @@
+{
+  "id": 823167355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.825943,36.012433,-83.825943,36.012433",
+    "geom:latitude":36.012433,
+    "geom:longitude":-83.825943,
+    "iso:country":"US",
+    "sg:address":"5811 E Governor John Sevier Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 523 3755",
+    "sg:postcode":"37924",
+    "sg:province":"TN",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Oa83WBJmSoTXWief9kU9P_36.012433_-83.825943@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607896,
+    "wof:geomhash":"61df3e9b6427bc087c5553518571863e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":823167355
+        }
+    ],
+    "wof:id":823167355,
+    "wof:lastmodified":1462607896,
+    "wof:name":"Dialysis Clinic Inc",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.825943,
+    36.012433,
+    -83.825943,
+    36.012433
+],
+  "geometry": {"coordinates":[-83.825943,36.012433],"type":"Point"}
+}

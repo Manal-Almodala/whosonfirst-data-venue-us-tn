@@ -1,0 +1,71 @@
+{
+  "id": 823203741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.9031,35.21799,-89.9031,35.21799",
+    "geom:latitude":35.21799,
+    "geom:longitude":-89.9031,
+    "iso:country":"US",
+    "sg:address":"4728 N Milnor Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 377 5890",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_088L80C7DGbzw3ghXB8YcN_35.217990_-89.903100@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608421,
+    "wof:geomhash":"c313a44933b7cade84e7fe0a9e7753c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823203741
+        }
+    ],
+    "wof:id":823203741,
+    "wof:lastmodified":1462608421,
+    "wof:name":"Rhundy Building Maintenance",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -89.9031,
+    35.21799,
+    -89.9031,
+    35.21799
+],
+  "geometry": {"coordinates":[-89.90309999999999,35.21799],"type":"Point"}
+}

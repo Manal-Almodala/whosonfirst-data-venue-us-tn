@@ -1,0 +1,73 @@
+{
+  "id": 789899531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.20276,36.251005,-83.20276,36.251005",
+    "geom:latitude":36.251005,
+    "geom:longitude":-83.20276,
+    "iso:country":"US",
+    "sg:address":"234 Rockwell Dr",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 317 8821",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7IMuRGpMSHzi1zPMVFSwPl_36.251005_-83.202760@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591443,
+    "wof:geomhash":"04d149339c16cecb84be29b13bb48786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789899531
+        }
+    ],
+    "wof:id":789899531,
+    "wof:lastmodified":1462591443,
+    "wof:name":"East Tennessee Trucklines Inc",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.20276,
+    36.251005,
+    -83.20276,
+    36.251005
+],
+  "geometry": {"coordinates":[-83.20276,36.251005],"type":"Point"}
+}

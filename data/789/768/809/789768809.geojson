@@ -1,0 +1,75 @@
+{
+  "id": 789768809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.361725,36.453731,-86.361725,36.453731",
+    "geom:latitude":36.453731,
+    "geom:longitude":-86.361725,
+    "iso:country":"US",
+    "sg:address":"390 Rock Bridge Rd",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 451 6777",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dnEDzNbZD7oG6sukHHCX3_36.453731_-86.361725@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590394,
+    "wof:geomhash":"dd7faf0346e540fcf72579da716627a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":789768809
+        }
+    ],
+    "wof:id":789768809,
+    "wof:lastmodified":1462590394,
+    "wof:name":"Ed's Auto Rebuilders",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.361725,
+    36.453731,
+    -86.361725,
+    36.453731
+],
+  "geometry": {"coordinates":[-86.36172500000001,36.453731],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789604471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.470837,35.928882,-85.470837,35.928882",
+    "geom:latitude":35.928882,
+    "geom:longitude":-85.470837,
+    "iso:country":"US",
+    "sg:address":"324 W Bockman Way",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 836 2556",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ppCqkhoAKZleAqntQFJZ1_35.928882_-85.470837@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589100,
+    "wof:geomhash":"e831c51385502f7243e1af061eb5221b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":789604471
+        }
+    ],
+    "wof:id":789604471,
+    "wof:lastmodified":1462589100,
+    "wof:name":"Big Red Wash",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -85.470837,
+    35.928882,
+    -85.470837,
+    35.928882
+],
+  "geometry": {"coordinates":[-85.470837,35.928882],"type":"Point"}
+}

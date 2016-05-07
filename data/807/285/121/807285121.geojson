@@ -1,0 +1,71 @@
+{
+  "id": 807285121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.788599,35.153804,-89.788599,35.153804",
+    "geom:latitude":35.153804,
+    "geom:longitude":-89.788599,
+    "iso:country":"US",
+    "sg:address":"981 Cordova Station Ave",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 737 9255",
+    "sg:postcode":"38018",
+    "sg:province":"TN",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85812297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59ujGcm14cLfFk30RTQRQc_35.153804_-89.788599@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605698,
+    "wof:geomhash":"dd53594a710fa92a7afd19a449b5d149",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85812297,
+            "region_id":85688701,
+            "venue_id":807285121
+        }
+    ],
+    "wof:id":807285121,
+    "wof:lastmodified":1462605698,
+    "wof:name":"Laboratory Express",
+    "wof:parent_id":85812297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -89.788599,
+    35.153804,
+    -89.788599,
+    35.153804
+],
+  "geometry": {"coordinates":[-89.788599,35.153804],"type":"Point"}
+}

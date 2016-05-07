@@ -1,0 +1,73 @@
+{
+  "id": 807292943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.209291,35.073101,-85.209291,35.073101",
+    "geom:latitude":35.073101,
+    "geom:longitude":-85.209291,
+    "iso:country":"US",
+    "sg:address":"4301 Butterfly Dr",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 855 8202",
+    "sg:postcode":"37406",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85810631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mujDfFFM4GEQg0lTFK1Iq_35.073101_-85.209291@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605773,
+    "wof:geomhash":"ecd575c1f4162a9d03a1316266fd3a6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85810631,
+            "region_id":85688701,
+            "venue_id":807292943
+        }
+    ],
+    "wof:id":807292943,
+    "wof:lastmodified":1462605773,
+    "wof:name":"Tech Service Appliance Repair",
+    "wof:parent_id":85810631,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -85.209291,
+    35.073101,
+    -85.209291,
+    35.073101
+],
+  "geometry": {"coordinates":[-85.20929099999999,35.073101],"type":"Point"}
+}

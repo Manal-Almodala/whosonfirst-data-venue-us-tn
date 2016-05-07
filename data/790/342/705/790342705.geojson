@@ -1,0 +1,88 @@
+{
+  "id": 790342705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.033676,35.198165,-87.033676,35.198165",
+    "geom:latitude":35.198165,
+    "geom:longitude":-87.033676,
+    "iso:country":"US",
+    "sg:address":"211 S 3rd St",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 363 1542",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ornamental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yhIn9REj2f2HaCsedU5Pe_35.198165_-87.033676@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595081,
+    "wof:geomhash":"1c7b14c8dff55c32615a38506cedf168",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":790342705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":790342705
+        }
+    ],
+    "wof:id":790342705,
+    "wof:lastmodified":1462595081,
+    "wof:name":"Chapman's Flowers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ornamental"
+    ]
+},
+  "bbox": [
+    -87.033676,
+    35.198165,
+    -87.033676,
+    35.198165
+],
+  "geometry": {"coordinates":[-87.033676,35.198165],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773676607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.246566,35.224364,-88.246566,35.224364",
+    "geom:latitude":35.224364,
+    "geom:longitude":-88.246566,
+    "iso:country":"US",
+    "sg:address":"123 Pickwick St S",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 0388",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vdvx6PTT9PjDfzrr2Tumh_35.224364_-88.246566@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587511,
+    "wof:geomhash":"850f6600d8f65c85e36f6401ff77ea7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":773676607
+        }
+    ],
+    "wof:id":773676607,
+    "wof:lastmodified":1462587511,
+    "wof:name":"EMG Clinics Of West Tn",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.246566,
+    35.224364,
+    -88.246566,
+    35.224364
+],
+  "geometry": {"coordinates":[-88.246566,35.224364],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773738977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.36884,35.866959,-86.36884,35.866959",
+    "geom:latitude":35.866959,
+    "geom:longitude":-86.36884,
+    "iso:country":"US",
+    "sg:address":"1622 N Tennessee Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 893 0184",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85843385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0owpm300Grguc8SgG47JVG_35.866959_-86.368840@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588014,
+    "wof:geomhash":"b9288bd0c2e9b8589d4c72bd1202e75d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85843385,
+            "region_id":85688701,
+            "venue_id":773738977
+        }
+    ],
+    "wof:id":773738977,
+    "wof:lastmodified":1462588014,
+    "wof:name":"Kroger",
+    "wof:parent_id":85843385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.36884,
+    35.866959,
+    -86.36884,
+    35.866959
+],
+  "geometry": {"coordinates":[-86.36884000000001,35.866959],"type":"Point"}
+}

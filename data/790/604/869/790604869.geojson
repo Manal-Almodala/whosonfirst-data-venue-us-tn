@@ -1,0 +1,73 @@
+{
+  "id": 790604869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.025017,35.946603,-85.025017,35.946603",
+    "geom:latitude":35.946603,
+    "geom:longitude":-85.025017,
+    "iso:country":"US",
+    "sg:address":"29 E Stanley St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 0881",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rj7adUkkzWI7deYFrzDBO_35.946603_-85.025017@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597262,
+    "wof:geomhash":"165f9c8985f5d61046cbfa069658648d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":790604869
+        }
+    ],
+    "wof:id":790604869,
+    "wof:lastmodified":1462597262,
+    "wof:name":"Lisa P Jones MD",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.025017,
+    35.946603,
+    -85.025017,
+    35.946603
+],
+  "geometry": {"coordinates":[-85.02501700000001,35.946603],"type":"Point"}
+}

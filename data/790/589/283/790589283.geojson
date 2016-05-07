@@ -1,0 +1,71 @@
+{
+  "id": 790589283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028564,35.947509,-85.028564,35.947509",
+    "geom:latitude":35.947509,
+    "geom:longitude":-85.028564,
+    "iso:country":"US",
+    "sg:address":"141 Henry St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 6144",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U0vj0xtXJoZuyizZpO8rR_35.947509_-85.028564@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597118,
+    "wof:geomhash":"97e45f91ee08fc021244dea5e55bd630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":790589283
+        }
+    ],
+    "wof:id":790589283,
+    "wof:lastmodified":1462597118,
+    "wof:name":"Crossville Fire Department",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.028564,
+    35.947509,
+    -85.028564,
+    35.947509
+],
+  "geometry": {"coordinates":[-85.028564,35.947509],"type":"Point"}
+}

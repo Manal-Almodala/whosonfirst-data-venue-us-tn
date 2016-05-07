@@ -1,0 +1,71 @@
+{
+  "id": 773692111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.968132,35.411263,-85.968132,35.411263",
+    "geom:latitude":35.411263,
+    "geom:longitude":-85.968132,
+    "iso:country":"US",
+    "sg:address":"119 Stephenson Rd",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 596 3988",
+    "sg:postcode":"37342",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cC9uaIfDdYcVJ7quQ9sxk_35.411263_-85.968132@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587631,
+    "wof:geomhash":"50dc76c3b17dc702c4498d27e629549a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":773692111
+        }
+    ],
+    "wof:id":773692111,
+    "wof:lastmodified":1462587631,
+    "wof:name":"Thompson's Auto Repair",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.968132,
+    35.411263,
+    -85.968132,
+    35.411263
+],
+  "geometry": {"coordinates":[-85.968132,35.411263],"type":"Point"}
+}

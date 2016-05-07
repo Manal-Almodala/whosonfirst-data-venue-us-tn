@@ -1,0 +1,71 @@
+{
+  "id": 789852443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.462532,36.20692,-86.462532,36.20692",
+    "geom:latitude":36.20692,
+    "geom:longitude":-86.462532,
+    "iso:country":"US",
+    "sg:address":"2199 Beckwith Rd",
+    "sg:city":"Mount Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 754 7758",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vI6VigbbxqL8iwNt9uk6h_36.206920_-86.462532@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591046,
+    "wof:geomhash":"ed903d21b6b7c66d816dc42d3013a3b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":789852443
+        }
+    ],
+    "wof:id":789852443,
+    "wof:lastmodified":1462591046,
+    "wof:name":"MCI",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -86.462532,
+    36.20692,
+    -86.462532,
+    36.20692
+],
+  "geometry": {"coordinates":[-86.462532,36.20692],"type":"Point"}
+}

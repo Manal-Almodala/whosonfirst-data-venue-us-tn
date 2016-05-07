@@ -1,0 +1,71 @@
+{
+  "id": 789686539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.313811,36.29497,-86.313811,36.29497",
+    "geom:latitude":36.29497,
+    "geom:longitude":-86.313811,
+    "iso:country":"US",
+    "sg:address":"306 Cave Springs Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 2669",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R2MdegtFs4gbAx4LsKNHZ_36.294970_-86.313811@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589753,
+    "wof:geomhash":"c539cd13d0b7b1da7a9a5160b1d1c066",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":789686539
+        }
+    ],
+    "wof:id":789686539,
+    "wof:lastmodified":1462589753,
+    "wof:name":"B & R Trucking",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.313811,
+    36.29497,
+    -86.313811,
+    36.29497
+],
+  "geometry": {"coordinates":[-86.313811,36.29497],"type":"Point"}
+}

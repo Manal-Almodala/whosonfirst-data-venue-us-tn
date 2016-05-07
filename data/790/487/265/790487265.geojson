@@ -1,0 +1,73 @@
+{
+  "id": 790487265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.470956,35.897481,-86.470956,35.897481",
+    "geom:latitude":35.897481,
+    "geom:longitude":-86.470956,
+    "iso:country":"US",
+    "sg:address":"5042 Joe Bond Trl",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 506 7774",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ftbSEFtEcIGbH1Hx8zrcn_35.897481_-86.470956@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596270,
+    "wof:geomhash":"07112f97be996c8e4c277f0206f9bf47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821325,
+            "region_id":85688701,
+            "venue_id":790487265
+        }
+    ],
+    "wof:id":790487265,
+    "wof:lastmodified":1462596270,
+    "wof:name":"Areawide Services",
+    "wof:parent_id":85821325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.470956,
+    35.897481,
+    -86.470956,
+    35.897481
+],
+  "geometry": {"coordinates":[-86.470956,35.897481],"type":"Point"}
+}

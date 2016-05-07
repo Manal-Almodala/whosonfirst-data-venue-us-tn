@@ -1,0 +1,73 @@
+{
+  "id": 806537699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.505718,35.879915,-86.505718,35.879915",
+    "geom:latitude":35.879915,
+    "geom:longitude":-86.505718,
+    "iso:country":"US",
+    "sg:address":"3131 Valley Bend Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 542 6493",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nhfv36aMBnmVWnSsZLxMQ_35.879915_-86.505718@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598936,
+    "wof:geomhash":"243e0c9ee5b38ffa623829e839b14f26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":806537699
+        }
+    ],
+    "wof:id":806537699,
+    "wof:lastmodified":1462598936,
+    "wof:name":"Iron Horse Transporters",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.505718,
+    35.879915,
+    -86.505718,
+    35.879915
+],
+  "geometry": {"coordinates":[-86.505718,35.879915],"type":"Point"}
+}

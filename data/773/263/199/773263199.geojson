@@ -1,0 +1,71 @@
+{
+  "id": 773263199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.570194,36.449988,-83.570194,36.449988",
+    "geom:latitude":36.449988,
+    "geom:longitude":-83.570194,
+    "iso:country":"US",
+    "sg:address":"1501 N Broad St",
+    "sg:city":"Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 5421",
+    "sg:postcode":"37879",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03bWguBfhAbOUbeUZy3wzv_36.449988_-83.570194@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584385,
+    "wof:geomhash":"f0cfa7479f85f77d6736112339506077",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":773263199
+        }
+    ],
+    "wof:id":773263199,
+    "wof:lastmodified":1462584385,
+    "wof:name":"KFC",
+    "wof:parent_id":85810917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.570194,
+    36.449988,
+    -83.570194,
+    36.449988
+],
+  "geometry": {"coordinates":[-83.570194,36.449988],"type":"Point"}
+}

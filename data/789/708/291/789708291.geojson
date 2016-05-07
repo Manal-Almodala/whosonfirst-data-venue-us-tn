@@ -1,0 +1,69 @@
+{
+  "id": 789708291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.817403,35.015326,-89.817403,35.015326",
+    "geom:latitude":35.015326,
+    "geom:longitude":-89.817403,
+    "iso:country":"US",
+    "sg:address":"4848 Harvest Knoll Ln",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 754 8456",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fi2hamYR4qTn4Wysi3kgT_35.015326_-89.817403@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589918,
+    "wof:geomhash":"90e1f1f045ff9553272916b98c861288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":789708291
+        }
+    ],
+    "wof:id":789708291,
+    "wof:lastmodified":1462589918,
+    "wof:name":"Good Housekeeping Cleaning Svc",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -89.817403,
+    35.015326,
+    -89.817403,
+    35.015326
+],
+  "geometry": {"coordinates":[-89.817403,35.015326],"type":"Point"}
+}

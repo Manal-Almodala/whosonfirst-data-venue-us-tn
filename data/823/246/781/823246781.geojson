@@ -1,0 +1,74 @@
+{
+  "id": 823246781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.576768,35.492223,-84.576768,35.492223",
+    "geom:latitude":35.492223,
+    "geom:longitude":-84.576768,
+    "iso:country":"US",
+    "sg:address":"1215 Congress Pkwy N",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/athens/73106-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 2111",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85811277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24h2WsCtXwwFEitxbLhfbk_35.492223_-84.576768@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609273,
+    "wof:geomhash":"b73ce944d19023be4465bf77f76392e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85811277,
+            "region_id":85688701,
+            "venue_id":823246781
+        }
+    ],
+    "wof:id":823246781,
+    "wof:lastmodified":1462609273,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85811277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.576768,
+    35.492223,
+    -84.576768,
+    35.492223
+],
+  "geometry": {"coordinates":[-84.576768,35.492223],"type":"Point"}
+}

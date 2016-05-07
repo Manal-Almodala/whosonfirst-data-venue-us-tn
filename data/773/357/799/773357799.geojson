@@ -1,0 +1,73 @@
+{
+  "id": 773357799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.356968,36.54173,-87.356968,36.54173",
+    "geom:latitude":36.54173,
+    "geom:longitude":-87.356968,
+    "iso:country":"US",
+    "sg:address":"513 Kraft St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 648 9977",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85836715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_058jaFykTKjn5xCnhSl0af_36.541730_-87.356968@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585102,
+    "wof:geomhash":"49b9d101a05c1531795abb7cc20e26d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85836715,
+            "region_id":85688701,
+            "venue_id":773357799
+        }
+    ],
+    "wof:id":773357799,
+    "wof:lastmodified":1462585102,
+    "wof:name":"American Transmission",
+    "wof:parent_id":85836715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -87.356968,
+    36.54173,
+    -87.356968,
+    36.54173
+],
+  "geometry": {"coordinates":[-87.35696799999999,36.54173],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 807385001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.355516,36.504518,-87.355516,36.504518",
+    "geom:latitude":36.504518,
+    "geom:longitude":-87.355516,
+    "iso:country":"US",
+    "sg:address":"1371 Ashland City Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 647 0815",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85813201,
+        85809463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4G54ZNaKIK6hPxC444YF4Y_36.504518_-87.355516@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606999,
+    "wof:geomhash":"729b74e5b4ea7b7250dd956e0b715d94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85813201,
+            "region_id":85688701,
+            "venue_id":807385001
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85809463,
+            "region_id":85688701,
+            "venue_id":807385001
+        }
+    ],
+    "wof:id":807385001,
+    "wof:lastmodified":1462606999,
+    "wof:name":"Modern Heating Cooling Roofing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.355516,
+    36.504518,
+    -87.355516,
+    36.504518
+],
+  "geometry": {"coordinates":[-87.35551599999999,36.504518],"type":"Point"}
+}

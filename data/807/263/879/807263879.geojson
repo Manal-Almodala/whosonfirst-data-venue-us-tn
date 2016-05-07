@@ -1,0 +1,71 @@
+{
+  "id": 807263879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.209701,35.530343,-87.209701,35.530343",
+    "geom:latitude":35.530343,
+    "geom:longitude":-87.209701,
+    "iso:country":"US",
+    "sg:address":"402 S Main St",
+    "sg:city":"Mount Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 0204",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JTGUECqq85uBmHX1eiNLJ_35.530343_-87.209701@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605470,
+    "wof:geomhash":"c594baa3da124d26095edd6681f584b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":807263879
+        }
+    ],
+    "wof:id":807263879,
+    "wof:lastmodified":1462605470,
+    "wof:name":"Hickmans Auto Repair",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -87.209701,
+    35.530343,
+    -87.209701,
+    35.530343
+],
+  "geometry": {"coordinates":[-87.209701,35.530343],"type":"Point"}
+}

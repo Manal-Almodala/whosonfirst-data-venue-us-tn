@@ -1,0 +1,74 @@
+{
+  "id": 806833649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.506494,36.113001,-85.506494,36.113001",
+    "geom:latitude":36.113001,
+    "geom:longitude":-85.506494,
+    "iso:country":"US",
+    "sg:address":"1860 S Jefferson Ave",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 520 5227",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "sg:website":"www.cityofcookeville.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6itbIFNebp7mjKN2wAXkGP_36.113001_-85.506494@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601454,
+    "wof:geomhash":"34bc52015a4b68277c2d61365fb4480a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":806833649
+        }
+    ],
+    "wof:id":806833649,
+    "wof:lastmodified":1462601454,
+    "wof:name":"Cookville City Water Dept",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -85.506494,
+    36.113001,
+    -85.506494,
+    36.113001
+],
+  "geometry": {"coordinates":[-85.506494,36.113001],"type":"Point"}
+}

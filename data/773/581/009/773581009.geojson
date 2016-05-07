@@ -1,0 +1,72 @@
+{
+  "id": 773581009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.464144,36.380843,-86.464144,36.380843",
+    "geom:latitude":36.380843,
+    "geom:longitude":-86.464144,
+    "iso:country":"US",
+    "sg:address":"370 Sumner Hall Dr",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 5518",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.foodlion.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74u3AActIyGvnsgCOoX5f0_36.380843_-86.464144@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586811,
+    "wof:geomhash":"34e69cc80583ea71ff111cce7fcecde3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773581009
+        }
+    ],
+    "wof:id":773581009,
+    "wof:lastmodified":1462586811,
+    "wof:name":"Food Lion",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.464144,
+    36.380843,
+    -86.464144,
+    36.380843
+],
+  "geometry": {"coordinates":[-86.464144,36.380843],"type":"Point"}
+}

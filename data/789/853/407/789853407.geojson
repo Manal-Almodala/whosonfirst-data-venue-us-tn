@@ -1,0 +1,73 @@
+{
+  "id": 789853407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.360451,36.324037,-82.360451,36.324037",
+    "geom:latitude":36.324037,
+    "geom:longitude":-82.360451,
+    "iso:country":"US",
+    "sg:address":"1007 N Roan St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 928 1804",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722757,
+        102086335,
+        85822495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s2ffcl2uDebsnvtEnv20x_36.324037_-82.360451@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591055,
+    "wof:geomhash":"a9b2c43139ab91720665fe604041300b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85822495,
+            "region_id":85688701,
+            "venue_id":789853407
+        }
+    ],
+    "wof:id":789853407,
+    "wof:lastmodified":1462591055,
+    "wof:name":"Roan Street Coin Laundry",
+    "wof:parent_id":85822495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -82.360451,
+    36.324037,
+    -82.360451,
+    36.324037
+],
+  "geometry": {"coordinates":[-82.360451,36.324037],"type":"Point"}
+}

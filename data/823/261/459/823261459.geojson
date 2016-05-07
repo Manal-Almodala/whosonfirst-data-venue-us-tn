@@ -1,0 +1,83 @@
+{
+  "id": 823261459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.270716,36.143944,-85.270716,36.143944",
+    "geom:latitude":36.143944,
+    "geom:longitude":-85.270716,
+    "iso:country":"US",
+    "sg:address":"202 E Stratton Ave",
+    "sg:city":"Monterey",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/monterey/192602-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 839 3315",
+    "sg:postcode":"38574",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73WHJtQLD1bpCRKySNf2QZ_36.143970_-85.270961@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609578,
+    "wof:geomhash":"7c4fc7d32bbad4ad437fabdf2ae93f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":823261459
+        }
+    ],
+    "wof:id":823261459,
+    "wof:lastmodified":1462609578,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -85.270716,
+    36.143944,
+    -85.270716,
+    36.143944
+],
+  "geometry": {"coordinates":[-85.27071599999999,36.143944],"type":"Point"}
+}

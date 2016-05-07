@@ -1,0 +1,75 @@
+{
+  "id": 789910919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.99973,35.09877,-89.99973,35.09877",
+    "geom:latitude":35.09877,
+    "geom:longitude":-89.99973,
+    "iso:country":"US",
+    "sg:address":"1734 S Barksdale St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 246 4005",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tjZNKUMWuspkmm4ooW4OB_35.098770_-89.999730@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591547,
+    "wof:geomhash":"3d3ee48d262345a2a10a772691c47c90",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542111,
+            "region_id":85688701,
+            "venue_id":789910919
+        }
+    ],
+    "wof:id":789910919,
+    "wof:lastmodified":1462591547,
+    "wof:name":"Family Maintenance",
+    "wof:parent_id":420542111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.99973,
+    35.09877,
+    -89.99973,
+    35.09877
+],
+  "geometry": {"coordinates":[-89.99973,35.09877],"type":"Point"}
+}

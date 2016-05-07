@@ -1,0 +1,71 @@
+{
+  "id": 773065011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.566638,35.082555,-86.566638,35.082555",
+    "geom:latitude":35.082555,
+    "geom:longitude":-86.566638,
+    "iso:country":"US",
+    "sg:address":"20 Colbert Ln",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 433 7152",
+    "sg:postcode":"37334",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y7CL6UrYIiCud7zYOI3iT_35.082555_-86.566638@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462582893,
+    "wof:geomhash":"9f44e46f739ab8afa1f5be1dfee2e681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":773065011
+        }
+    ],
+    "wof:id":773065011,
+    "wof:lastmodified":1462582893,
+    "wof:name":"Colbert Radiator Service",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.566638,
+    35.082555,
+    -86.566638,
+    35.082555
+],
+  "geometry": {"coordinates":[-86.566638,35.082555],"type":"Point"}
+}

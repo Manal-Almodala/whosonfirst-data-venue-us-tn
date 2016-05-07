@@ -1,0 +1,85 @@
+{
+  "id": 823274333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.924081,36.023606,-83.924081,36.023606",
+    "geom:latitude":36.023606,
+    "geom:longitude":-83.924081,
+    "iso:country":"US",
+    "sg:address":"2917 Tazewell Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 357 5467",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "tavern",
+        "brew",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nBDEXTHEhqQkcSwnrmq52_36.023606_-83.924081@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610083,
+    "wof:geomhash":"25f988286434611ad4ddb242929c9d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":823274333
+        }
+    ],
+    "wof:id":823274333,
+    "wof:lastmodified":1462610083,
+    "wof:name":"Jimmy's Original Southern Pub",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "brew",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -83.924081,
+    36.023606,
+    -83.924081,
+    36.023606
+],
+  "geometry": {"coordinates":[-83.924081,36.023606],"type":"Point"}
+}

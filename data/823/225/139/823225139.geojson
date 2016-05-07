@@ -1,0 +1,73 @@
+{
+  "id": 823225139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.967224,35.091799,-89.967224,35.091799",
+    "geom:latitude":35.091799,
+    "geom:longitude":-89.967224,
+    "iso:country":"US",
+    "sg:address":"2861 Lamar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 745 9088",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gk0m2kWuV6r8s9zojm6Sp_35.091805_-89.967321@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462608841,
+    "wof:geomhash":"d632df84dc236517bc53cff5d55ae5a3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805535,
+            "region_id":85688701,
+            "venue_id":823225139
+        }
+    ],
+    "wof:id":823225139,
+    "wof:lastmodified":1462608841,
+    "wof:name":"Lee's Market",
+    "wof:parent_id":85805535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.967224,
+    35.091799,
+    -89.967224,
+    35.091799
+],
+  "geometry": {"coordinates":[-89.967224,35.091799],"type":"Point"}
+}

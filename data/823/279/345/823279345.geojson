@@ -1,0 +1,80 @@
+{
+  "id": 823279345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.017961,35.13534,-90.017961,35.13534",
+    "geom:latitude":35.13534,
+    "geom:longitude":-90.017961,
+    "iso:country":"US",
+    "sg:address":"251 S Claybrook St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 726 8516",
+    "sg:postcode":"38104",
+    "sg:province":"TN",
+    "sg:tags":[
+        "school",
+        "nursing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85846027
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pTVzCiLtIpndPIn0oNTPt_35.135340_-90.017961@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610290,
+    "wof:geomhash":"73d7a08e843f9a0e22da7116abe24e51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85846027,
+            "region_id":85688701,
+            "venue_id":823279345
+        }
+    ],
+    "wof:id":823279345,
+    "wof:lastmodified":1462610290,
+    "wof:name":"Methodist Hospital School of Nursing",
+    "wof:parent_id":85846027,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "nursing"
+    ]
+},
+  "bbox": [
+    -90.017961,
+    35.13534,
+    -90.017961,
+    35.13534
+],
+  "geometry": {"coordinates":[-90.017961,35.13534],"type":"Point"}
+}

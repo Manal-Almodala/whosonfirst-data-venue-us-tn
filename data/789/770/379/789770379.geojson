@@ -1,0 +1,71 @@
+{
+  "id": 789770379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.563813,35.866151,-83.563813,35.866151",
+    "geom:latitude":35.866151,
+    "geom:longitude":-83.563813,
+    "iso:country":"US",
+    "sg:address":"233 Parkway",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 774 7481",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SzHviRRfn3Tgv9xIe6tyc_35.866151_-83.563813@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590404,
+    "wof:geomhash":"0bc490f754ea3f89e98484782fe2bedd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":789770379
+        }
+    ],
+    "wof:id":789770379,
+    "wof:lastmodified":1462590404,
+    "wof:name":"All Care Medical Clinic",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.563813,
+    35.866151,
+    -83.563813,
+    35.866151
+],
+  "geometry": {"coordinates":[-83.563813,35.866151],"type":"Point"}
+}

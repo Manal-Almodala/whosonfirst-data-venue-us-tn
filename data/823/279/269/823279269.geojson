@@ -1,0 +1,75 @@
+{
+  "id": 823279269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.046266,35.139003,-90.046266,35.139003",
+    "geom:latitude":35.139003,
+    "geom:longitude":-90.046266,
+    "iso:country":"US",
+    "sg:address":"439 Beale St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 544 1215",
+    "sg:postcode":"38103",
+    "sg:province":"TN",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68HCJCLPuK5tV5MdUutbh1_35.139003_-90.046266@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610287,
+    "wof:geomhash":"5476ad34355784370c14202a6c0268a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867183,
+            "region_id":85688701,
+            "venue_id":823279269
+        }
+    ],
+    "wof:id":823279269,
+    "wof:lastmodified":1462610287,
+    "wof:name":"Memphis Housing Authority",
+    "wof:parent_id":85867183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -90.046266,
+    35.139003,
+    -90.046266,
+    35.139003
+],
+  "geometry": {"coordinates":[-90.046266,35.139003],"type":"Point"}
+}

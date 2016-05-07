@@ -1,0 +1,88 @@
+{
+  "id": 823263563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.801208,36.15044,-86.801208,36.15044",
+    "geom:latitude":36.15044,
+    "geom:longitude":-86.801208,
+    "iso:country":"US",
+    "sg:address":"2100 W End Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 345 5500",
+    "sg:postcode":"37203",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "dialysis",
+        "surgeons",
+        "nephrology",
+        "surgeon",
+        "kidneys"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85893455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T3tyOs15bv1Ohx0F8alKY_36.150440_-86.801208@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609663,
+    "wof:geomhash":"42ec3d74ebebf834d256ff1cfa5e9d8f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893455,
+            "region_id":85688701,
+            "venue_id":823263563
+        }
+    ],
+    "wof:id":823263563,
+    "wof:lastmodified":1462609663,
+    "wof:name":"Renal Care Group",
+    "wof:parent_id":85893455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "dialysis",
+        "surgeons",
+        "nephrology",
+        "surgeon",
+        "kidneys"
+    ]
+},
+  "bbox": [
+    -86.801208,
+    36.15044,
+    -86.801208,
+    36.15044
+],
+  "geometry": {"coordinates":[-86.801208,36.15044],"type":"Point"}
+}

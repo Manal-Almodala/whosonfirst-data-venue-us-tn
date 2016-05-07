@@ -1,0 +1,73 @@
+{
+  "id": 806924733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.388523,35.87096,-86.388523,35.87096",
+    "geom:latitude":35.87096,
+    "geom:longitude":-86.388523,
+    "iso:country":"US",
+    "sg:address":"226 Mtcs Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 2151",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85824375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eP8YhhN9u2MFOwg5nz24u_35.870960_-86.388523@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602230,
+    "wof:geomhash":"808279ed125f9f98899f1aca1e97eec3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85824375,
+            "region_id":85688701,
+            "venue_id":806924733
+        }
+    ],
+    "wof:id":806924733,
+    "wof:lastmodified":1462602230,
+    "wof:name":"Regional Ambulance Svc",
+    "wof:parent_id":85824375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -86.388523,
+    35.87096,
+    -86.388523,
+    35.87096
+],
+  "geometry": {"coordinates":[-86.38852300000001,35.87096],"type":"Point"}
+}

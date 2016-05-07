@@ -1,0 +1,73 @@
+{
+  "id": 789963103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.42106,35.794568,-86.42106,35.794568",
+    "geom:latitude":35.794568,
+    "geom:longitude":-86.42106,
+    "iso:country":"US",
+    "sg:address":"109 Jansen Ct",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 848 5043",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r5rkj39a0Noq5AKO3u8NN_35.794568_-86.421060@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592023,
+    "wof:geomhash":"4b7d8df8e47f0d9f32ce0e23c83465be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":789963103
+        }
+    ],
+    "wof:id":789963103,
+    "wof:lastmodified":1462592023,
+    "wof:name":"Stay At Home Oil Svc",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -86.42106,
+    35.794568,
+    -86.42106,
+    35.794568
+],
+  "geometry": {"coordinates":[-86.42106,35.794568],"type":"Point"}
+}

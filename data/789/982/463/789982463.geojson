@@ -1,0 +1,74 @@
+{
+  "id": 789982463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.44863,35.845055,-86.44863,35.845055",
+    "geom:latitude":35.845055,
+    "geom:longitude":-86.44863,
+    "iso:country":"US",
+    "sg:address":"2510 Old Fort Pkwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 0388",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.expressoilchange.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EjlZ9G6j6qD5tm9n9SUJG_35.845055_-86.448630@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592190,
+    "wof:geomhash":"72675f51617f018839773d98046f52ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":789982463
+        }
+    ],
+    "wof:id":789982463,
+    "wof:lastmodified":1462592190,
+    "wof:name":"Express Oil Change",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.44863,
+    35.845055,
+    -86.44863,
+    35.845055
+],
+  "geometry": {"coordinates":[-86.44862999999999,35.845055],"type":"Point"}
+}

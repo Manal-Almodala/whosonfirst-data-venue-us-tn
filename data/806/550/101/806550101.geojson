@@ -1,0 +1,71 @@
+{
+  "id": 806550101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.034815,35.609733,-87.034815,35.609733",
+    "geom:latitude":35.609733,
+    "geom:longitude":-87.034815,
+    "iso:country":"US",
+    "sg:address":"1124 Carmack Blvd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 840 0056",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rXF4K3NkShLVQZkMat53U_35.609733_-87.034815@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599035,
+    "wof:geomhash":"1c848f308377c9f0dd8549eb4b0beeec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":806550101
+        }
+    ],
+    "wof:id":806550101,
+    "wof:lastmodified":1462599035,
+    "wof:name":"Better Built Transmission",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -87.034815,
+    35.609733,
+    -87.034815,
+    35.609733
+],
+  "geometry": {"coordinates":[-87.03481499999999,35.609733],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 789725285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.514939,35.845712,-85.514939,35.845712",
+    "geom:latitude":35.845712,
+    "geom:longitude":-85.514939,
+    "iso:country":"US",
+    "sg:address":"5820 McMinnville Hwy",
+    "sg:city":"Doyle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 657 5578",
+    "sg:postcode":"38559",
+    "sg:province":"TN",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LpZjwmxs2DK57N1hVsUnG_35.845712_-85.514939@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590066,
+    "wof:geomhash":"2d3679ad459861b6dcb654287343cba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":789725285
+        }
+    ],
+    "wof:id":789725285,
+    "wof:lastmodified":1462590066,
+    "wof:name":"Doyle Convenience Center",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -85.514939,
+    35.845712,
+    -85.514939,
+    35.845712
+],
+  "geometry": {"coordinates":[-85.514939,35.845712],"type":"Point"}
+}

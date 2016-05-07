@@ -1,0 +1,71 @@
+{
+  "id": 790617737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.981052,35.531182,-84.981052,35.531182",
+    "geom:latitude":35.531182,
+    "geom:longitude":-84.981052,
+    "iso:country":"US",
+    "sg:address":"9460 Rhea County Hwy",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 2141",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xs1himDVLdJPGAlF4fdjG_35.531182_-84.981052@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597391,
+    "wof:geomhash":"cd2042b921c14c4934e7b97ce5854343",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":790617737
+        }
+    ],
+    "wof:id":790617737,
+    "wof:lastmodified":1462597391,
+    "wof:name":"Rhea Emergency Medical Svc LLC",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.981052,
+    35.531182,
+    -84.981052,
+    35.531182
+],
+  "geometry": {"coordinates":[-84.98105200000001,35.531182],"type":"Point"}
+}

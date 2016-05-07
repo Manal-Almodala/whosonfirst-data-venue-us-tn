@@ -1,0 +1,71 @@
+{
+  "id": 806760523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.036968,35.945502,-85.036968,35.945502",
+    "geom:latitude":35.945502,
+    "geom:longitude":-85.036968,
+    "iso:country":"US",
+    "sg:address":"1080 Miller Ave",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 8614",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CHLExYldVcrmrnEF6B02S_35.945502_-85.036968@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600852,
+    "wof:geomhash":"859b0012aa8680920eada4d5fa87b66d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":806760523
+        }
+    ],
+    "wof:id":806760523,
+    "wof:lastmodified":1462600852,
+    "wof:name":"Volunteer Hearth & Home",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.036968,
+    35.945502,
+    -85.036968,
+    35.945502
+],
+  "geometry": {"coordinates":[-85.036968,35.945502],"type":"Point"}
+}

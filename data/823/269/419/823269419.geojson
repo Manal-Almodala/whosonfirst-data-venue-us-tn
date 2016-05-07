@@ -1,0 +1,84 @@
+{
+  "id": 823269419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.591492,35.117401,-85.591492,35.117401",
+    "geom:latitude":35.117401,
+    "geom:longitude":-85.591492,
+    "iso:country":"US",
+    "sg:address":"184 Handle St",
+    "sg:city":"Sequatchie",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 942 6009",
+    "sg:postcode":"37374",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OxWKWNwuvAR10Rj2ijt33_35.117401_-85.591492@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609897,
+    "wof:geomhash":"fd46dfad99c033a55b6f5f7fdcfafc7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":823269419
+        }
+    ],
+    "wof:id":823269419,
+    "wof:lastmodified":1462609897,
+    "wof:name":"Sequatchie Fire Department",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "township",
+        "protection",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -85.591492,
+    35.117401,
+    -85.591492,
+    35.117401
+],
+  "geometry": {"coordinates":[-85.591492,35.117401],"type":"Point"}
+}

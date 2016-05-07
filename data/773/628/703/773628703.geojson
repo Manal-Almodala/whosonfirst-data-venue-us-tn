@@ -1,0 +1,71 @@
+{
+  "id": 773628703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.034829,36.355358,-82.034829,36.355358",
+    "geom:latitude":36.355358,
+    "geom:longitude":-82.034829,
+    "iso:country":"US",
+    "sg:address":"127 McQueen St",
+    "sg:city":"Butler",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 768 2800",
+    "sg:postcode":"37640",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lnlEyzgfgWgQtDKfHNdMC_36.355358_-82.034829@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587160,
+    "wof:geomhash":"e35f85babda20dc7a36814b3849c294c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":773628703
+        }
+    ],
+    "wof:id":773628703,
+    "wof:lastmodified":1462587160,
+    "wof:name":"Butler General Store",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -82.034829,
+    36.355358,
+    -82.034829,
+    36.355358
+],
+  "geometry": {"coordinates":[-82.034829,36.355358],"type":"Point"}
+}

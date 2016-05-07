@@ -1,0 +1,75 @@
+{
+  "id": 789822735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.98253,35.084647,-89.98253,35.084647",
+    "geom:latitude":35.084647,
+    "geom:longitude":-89.98253,
+    "iso:country":"US",
+    "sg:address":"2331 Dwight Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 744 0022",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S5RctFCcCRT14OLbEp5Hl_35.084647_-89.982530@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590813,
+    "wof:geomhash":"9ff9e36ef900ab56a262cd6f328c7707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805535,
+            "region_id":85688701,
+            "venue_id":789822735
+        }
+    ],
+    "wof:id":789822735,
+    "wof:lastmodified":1462590813,
+    "wof:name":"Woodhills Apartments",
+    "wof:parent_id":85805535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.98253,
+    35.084647,
+    -89.98253,
+    35.084647
+],
+  "geometry": {"coordinates":[-89.98253,35.084647],"type":"Point"}
+}

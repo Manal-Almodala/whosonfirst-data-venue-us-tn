@@ -1,0 +1,72 @@
+{
+  "id": 823239659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.980662,36.00376,-83.980662,36.00376",
+    "geom:latitude":36.00376,
+    "geom:longitude":-83.980662,
+    "iso:country":"US",
+    "sg:address":"5327 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 4200",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "sg:website":"http://www.knoxvilletransmissions.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UrrGp2ilx7zz9195594s1_36.003661_-83.980470@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609144,
+    "wof:geomhash":"07cad6de5752a234b078ec154a8981e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":823239659
+        }
+    ],
+    "wof:id":823239659,
+    "wof:lastmodified":1462609144,
+    "wof:name":"Transmission Corporation of America",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.980662,
+    36.00376,
+    -83.980662,
+    36.00376
+],
+  "geometry": {"coordinates":[-83.980662,36.00376],"type":"Point"}
+}

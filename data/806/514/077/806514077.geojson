@@ -1,0 +1,71 @@
+{
+  "id": 806514077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.299695,36.219179,-83.299695,36.219179",
+    "geom:latitude":36.219179,
+    "geom:longitude":-83.299695,
+    "iso:country":"US",
+    "sg:address":"825 Donna St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 748 3322",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cIudCbhDQldHM4HLKl11A_36.219179_-83.299695@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598745,
+    "wof:geomhash":"6d1543553d5613162948194a8bff1eb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":806514077
+        }
+    ],
+    "wof:id":806514077,
+    "wof:lastmodified":1462598745,
+    "wof:name":"Appliance Service-Morristown",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -83.299695,
+    36.219179,
+    -83.299695,
+    36.219179
+],
+  "geometry": {"coordinates":[-83.299695,36.219179],"type":"Point"}
+}

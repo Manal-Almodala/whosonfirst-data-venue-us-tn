@@ -1,0 +1,74 @@
+{
+  "id": 807200369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.715303,36.258611,-86.715303,36.258611",
+    "geom:latitude":36.258611,
+    "geom:longitude":-86.715303,
+    "iso:country":"US",
+    "sg:address":"310 Madison St",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 868 0006",
+    "sg:postcode":"37115",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "sg:website":"www.libertyems.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85834867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vQpedeihwWLbIGcnfJiyL_36.258611_-86.715303@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604801,
+    "wof:geomhash":"5cb0399f9de645d98770ef6d82c9bfa1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85834867,
+            "region_id":85688701,
+            "venue_id":807200369
+        }
+    ],
+    "wof:id":807200369,
+    "wof:lastmodified":1462604801,
+    "wof:name":"Liberty Ambulance Svc",
+    "wof:parent_id":85834867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -86.715303,
+    36.258611,
+    -86.715303,
+    36.258611
+],
+  "geometry": {"coordinates":[-86.71530300000001,36.258611],"type":"Point"}
+}

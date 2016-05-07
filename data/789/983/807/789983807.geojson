@@ -1,0 +1,73 @@
+{
+  "id": 789983807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.346112,36.325925,-82.346112,36.325925",
+    "geom:latitude":36.325925,
+    "geom:longitude":-82.346112,
+    "iso:country":"US",
+    "sg:address":"109 New St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 926 9873",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85809563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PfHGTKhownPhPeCx74WeY_36.325925_-82.346112@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592200,
+    "wof:geomhash":"d8737967ddb8bc6ca153f0d7c41f989e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85809563,
+            "region_id":85688701,
+            "venue_id":789983807
+        }
+    ],
+    "wof:id":789983807,
+    "wof:lastmodified":1462592200,
+    "wof:name":"Mark Wismer Electrical Co",
+    "wof:parent_id":85809563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.346112,
+    36.325925,
+    -82.346112,
+    36.325925
+],
+  "geometry": {"coordinates":[-82.34611200000001,36.325925],"type":"Point"}
+}

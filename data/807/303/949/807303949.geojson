@@ -1,0 +1,71 @@
+{
+  "id": 807303949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.507606,36.412723,-86.507606,36.412723",
+    "geom:latitude":36.412723,
+    "geom:longitude":-86.507606,
+    "iso:country":"US",
+    "sg:address":"1035 Liberty Ln",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 7789",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02WRlWR9dRql4Cs0clPtCr_36.412723_-86.507606@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605893,
+    "wof:geomhash":"e467b5d89ca9f75b366bd9d609c4e00d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":807303949
+        }
+    ],
+    "wof:id":807303949,
+    "wof:lastmodified":1462605893,
+    "wof:name":"Lovell Equine Clinic",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.507606,
+    36.412723,
+    -86.507606,
+    36.412723
+],
+  "geometry": {"coordinates":[-86.507606,36.412723],"type":"Point"}
+}

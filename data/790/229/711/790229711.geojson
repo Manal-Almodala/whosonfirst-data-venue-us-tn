@@ -1,0 +1,73 @@
+{
+  "id": 790229711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.31403,36.20723,-83.31403,36.20723",
+    "geom:latitude":36.20723,
+    "geom:longitude":-83.31403,
+    "iso:country":"US",
+    "sg:address":"1709 W Andrew Johnson Hwy",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 8000",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51EEHYZjFEfZHzmoA2UKrj_36.207230_-83.314030@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594168,
+    "wof:geomhash":"c20a42f24cf5b5342ad0c003b9231047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":790229711
+        }
+    ],
+    "wof:id":790229711,
+    "wof:lastmodified":1462594168,
+    "wof:name":"Physicians Medical",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.31403,
+    36.20723,
+    -83.31403,
+    36.20723
+],
+  "geometry": {"coordinates":[-83.31403,36.20723],"type":"Point"}
+}

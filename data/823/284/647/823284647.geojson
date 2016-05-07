@@ -1,0 +1,83 @@
+{
+  "id": 823284647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.00354,35.0653,-90.00354,35.0653",
+    "geom:latitude":35.0653,
+    "geom:longitude":-90.00354,
+    "iso:country":"US",
+    "sg:address":"3086 Carrier St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 344 9333",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "sg:website":"http://www.smtl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85837045
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2grfyeeycR3naXftS8mulp_35.065300_-90.003540@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610501,
+    "wof:geomhash":"1cadbac53a8c352972c126955e35885d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85837045,
+            "region_id":85688701,
+            "venue_id":823284647
+        }
+    ],
+    "wof:id":823284647,
+    "wof:lastmodified":1462610501,
+    "wof:name":"Southwestern Motor Transport Inc",
+    "wof:parent_id":85837045,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.00354,
+    35.0653,
+    -90.00354,
+    35.0653
+],
+  "geometry": {"coordinates":[-90.00354,35.0653],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806386565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.512164,36.179646,-86.512164,36.179646",
+    "geom:latitude":36.179646,
+    "geom:longitude":-86.512164,
+    "iso:country":"US",
+    "sg:address":"403 N Mount Juliet Rd",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 758 5206",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_673MwMfq2iRL69m0zWHg38_36.179646_-86.512164@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597729,
+    "wof:geomhash":"7b472d308891830669bcdfda2072929d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":806386565
+        }
+    ],
+    "wof:id":806386565,
+    "wof:lastmodified":1462597729,
+    "wof:name":"Goodman Plumbing Co",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.512164,
+    36.179646,
+    -86.512164,
+    36.179646
+],
+  "geometry": {"coordinates":[-86.512164,36.179646],"type":"Point"}
+}

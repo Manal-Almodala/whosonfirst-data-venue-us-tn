@@ -1,0 +1,73 @@
+{
+  "id": 789789305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.244574,35.224426,-88.244574,35.224426",
+    "geom:latitude":35.224426,
+    "geom:longitude":-88.244574,
+    "iso:country":"US",
+    "sg:address":"1040 Main St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 6808",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "city",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UJfwZRM6e0L9JtjW8ZKwN_35.224426_-88.244574@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590560,
+    "wof:geomhash":"760bb873e41439c1283950554052febf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":789789305
+        }
+    ],
+    "wof:id":789789305,
+    "wof:lastmodified":1462590560,
+    "wof:name":"Savannah City Tax Dept",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -88.244574,
+    35.224426,
+    -88.244574,
+    35.224426
+],
+  "geometry": {"coordinates":[-88.244574,35.224426],"type":"Point"}
+}

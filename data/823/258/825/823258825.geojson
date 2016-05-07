@@ -1,0 +1,72 @@
+{
+  "id": 823258825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.058221,35.459273,-86.058221,35.459273",
+    "geom:latitude":35.459273,
+    "geom:longitude":-86.058221,
+    "iso:country":"US",
+    "sg:address":"2194 Hillsboro Blvd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/manchester/166324-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 6626",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wYg2oG9eIEukRJMa3XZ0i_35.459573_-86.057853@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609525,
+    "wof:geomhash":"3e0372ad60e9779c5c97348fcf86b30e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":823258825
+        }
+    ],
+    "wof:id":823258825,
+    "wof:lastmodified":1462609525,
+    "wof:name":"Arby's",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.058221,
+    35.459273,
+    -86.058221,
+    35.459273
+],
+  "geometry": {"coordinates":[-86.058221,35.459273],"type":"Point"}
+}

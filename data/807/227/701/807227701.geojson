@@ -1,0 +1,75 @@
+{
+  "id": 807227701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.39087,36.003663,-85.39087,36.003663",
+    "geom:latitude":36.003663,
+    "geom:longitude":-85.39087,
+    "iso:country":"US",
+    "sg:address":"7147 Monterey Hwy",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 738 8999",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jLYNncqG9x4Gq7cOpizKM_36.003663_-85.390870@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605092,
+    "wof:geomhash":"77fb1e84f1896510811b82aba599bfff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":807227701
+        }
+    ],
+    "wof:id":807227701,
+    "wof:lastmodified":1462605092,
+    "wof:name":"Bob's Repair",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.39087,
+    36.003663,
+    -85.39087,
+    36.003663
+],
+  "geometry": {"coordinates":[-85.39087000000001,36.003663],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807384981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.055101,36.43265,-89.055101,36.43265",
+    "geom:latitude":36.43265,
+    "geom:longitude":-89.055101,
+    "iso:country":"US",
+    "sg:address":"301 E Cheatham St",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 884 0169",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7j1AhN3VZBZZKAQmcDIn7l_36.432650_-89.055101@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606998,
+    "wof:geomhash":"bfb89a6f085cadffb3bbe93f7e7cca7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":807384981
+        }
+    ],
+    "wof:id":807384981,
+    "wof:lastmodified":1462606998,
+    "wof:name":"Bobby's Automotive",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.055101,
+    36.43265,
+    -89.055101,
+    36.43265
+],
+  "geometry": {"coordinates":[-89.05510099999999,36.43265],"type":"Point"}
+}

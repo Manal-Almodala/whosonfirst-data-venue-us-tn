@@ -1,0 +1,78 @@
+{
+  "id": 789625817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.336907,36.341128,-82.336907,36.341128",
+    "geom:latitude":36.341128,
+    "geom:longitude":-82.336907,
+    "iso:country":"US",
+    "sg:address":"1908 E Unaka Ave",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 929 3501",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85809563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cuGr4nchTnX85Y6xpBx48_36.341128_-82.336907@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589262,
+    "wof:geomhash":"057394a39dbb307f2bb7fa10df01cfdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85809563,
+            "region_id":85688701,
+            "venue_id":789625817
+        }
+    ],
+    "wof:id":789625817,
+    "wof:lastmodified":1462589262,
+    "wof:name":"Roadrunner Markets Inc",
+    "wof:parent_id":85809563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -82.336907,
+    36.341128,
+    -82.336907,
+    36.341128
+],
+  "geometry": {"coordinates":[-82.336907,36.341128],"type":"Point"}
+}

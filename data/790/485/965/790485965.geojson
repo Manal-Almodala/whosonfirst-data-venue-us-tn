@@ -1,0 +1,71 @@
+{
+  "id": 790485965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.094313,35.181017,-86.094313,35.181017",
+    "geom:latitude":35.181017,
+    "geom:longitude":-86.094313,
+    "iso:country":"US",
+    "sg:address":"1509 Old Cowan Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 962 1004",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cLMX5y0CdHaLctGG24T2G_35.181017_-86.094313@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596244,
+    "wof:geomhash":"ebd95c5fa3e85d594996a824da30da6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":790485965
+        }
+    ],
+    "wof:id":790485965,
+    "wof:lastmodified":1462596244,
+    "wof:name":"Doctors Office",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.094313,
+    35.181017,
+    -86.094313,
+    35.181017
+],
+  "geometry": {"coordinates":[-86.094313,35.181017],"type":"Point"}
+}

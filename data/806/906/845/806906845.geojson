@@ -1,0 +1,71 @@
+{
+  "id": 806906845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.963324,36.010258,-83.963324,36.010258",
+    "geom:latitude":36.010258,
+    "geom:longitude":-83.963324,
+    "iso:country":"US",
+    "sg:address":"100 E Inskip Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 687 4990",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NVfVdTU1HMhAP7qk5TzOP_36.010258_-83.963324@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602068,
+    "wof:geomhash":"e97165aadc5ea2b27aa4c7f7ebea2fa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":806906845
+        }
+    ],
+    "wof:id":806906845,
+    "wof:lastmodified":1462602068,
+    "wof:name":"Whatever It Takes",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.963324,
+    36.010258,
+    -83.963324,
+    36.010258
+],
+  "geometry": {"coordinates":[-83.963324,36.010258],"type":"Point"}
+}

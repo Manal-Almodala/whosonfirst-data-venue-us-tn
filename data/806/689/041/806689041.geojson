@@ -1,0 +1,71 @@
+{
+  "id": 806689041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.306742,36.204872,-83.306742,36.204872",
+    "geom:latitude":36.204872,
+    "geom:longitude":-83.306742,
+    "iso:country":"US",
+    "sg:address":"1423 W Morris Blvd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 9484",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43xM40lA5L55M2GLbBEooU_36.204872_-83.306742@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600246,
+    "wof:geomhash":"f6d7366855c83c19200e30af7047864e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":806689041
+        }
+    ],
+    "wof:id":806689041,
+    "wof:lastmodified":1462600246,
+    "wof:name":"Housecall Hospice",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -83.306742,
+    36.204872,
+    -83.306742,
+    36.204872
+],
+  "geometry": {"coordinates":[-83.306742,36.204872],"type":"Point"}
+}

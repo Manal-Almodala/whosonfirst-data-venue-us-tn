@@ -1,0 +1,71 @@
+{
+  "id": 789981011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.609613,36.155333,-82.609613,36.155333",
+    "geom:latitude":36.155333,
+    "geom:longitude":-82.609613,
+    "iso:country":"US",
+    "sg:address":"2949 State Hwy 107",
+    "sg:city":"Chuckey",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 257 6276",
+    "sg:postcode":"37641",
+    "sg:province":"TN",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722753,
+        102086335,
+        85822827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b2RHg8CfYaSL9InkHrjlH_36.155333_-82.609613@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592174,
+    "wof:geomhash":"8d700ce79bd5aa8780c142b122037f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722753,
+            "neighbourhood_id":85822827,
+            "region_id":85688701,
+            "venue_id":789981011
+        }
+    ],
+    "wof:id":789981011,
+    "wof:lastmodified":1462592174,
+    "wof:name":"South Central Produce Market",
+    "wof:parent_id":85822827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -82.609613,
+    36.155333,
+    -82.609613,
+    36.155333
+],
+  "geometry": {"coordinates":[-82.609613,36.155333],"type":"Point"}
+}

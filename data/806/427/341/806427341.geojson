@@ -1,0 +1,75 @@
+{
+  "id": 806427341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.800578,36.138954,-86.800578,36.138954",
+    "geom:latitude":36.138954,
+    "geom:longitude":-86.800578,
+    "iso:country":"US",
+    "sg:address":"1500 21st Ave S",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 343 1999",
+    "sg:postcode":"37212",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85893451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gJUbgzV2RbmFxtzUqUimN_36.138954_-86.800578@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598058,
+    "wof:geomhash":"68ca367ca2d4e6719a7ae4555b15fa67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893451,
+            "region_id":85688701,
+            "venue_id":806427341
+        }
+    ],
+    "wof:id":806427341,
+    "wof:lastmodified":1462598058,
+    "wof:name":"Vanderbilt Mohs Micrographic",
+    "wof:parent_id":85893451,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.800578,
+    36.138954,
+    -86.800578,
+    36.138954
+],
+  "geometry": {"coordinates":[-86.800578,36.138954],"type":"Point"}
+}

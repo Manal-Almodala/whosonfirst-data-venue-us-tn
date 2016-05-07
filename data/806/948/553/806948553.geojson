@@ -1,0 +1,71 @@
+{
+  "id": 806948553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.03352,35.616128,-87.03352,35.616128",
+    "geom:latitude":35.616128,
+    "geom:longitude":-87.03352,
+    "iso:country":"US",
+    "sg:address":"110 E 6th St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 7981",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4twLynVPjaumzWF1Lj123M_35.616128_-87.033520@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602426,
+    "wof:geomhash":"a06cf9309be2efed90c5be3f587e8a40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":806948553
+        }
+    ],
+    "wof:id":806948553,
+    "wof:lastmodified":1462602426,
+    "wof:name":"Dougs Auto Trim",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -87.03352,
+    35.616128,
+    -87.03352,
+    35.616128
+],
+  "geometry": {"coordinates":[-87.03352,35.616128],"type":"Point"}
+}

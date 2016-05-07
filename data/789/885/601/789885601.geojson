@@ -1,0 +1,73 @@
+{
+  "id": 789885601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.751105,36.164088,-86.751105,36.164088",
+    "geom:latitude":36.164088,
+    "geom:longitude":-86.751105,
+    "iso:country":"US",
+    "sg:address":"1120 Glenview Dr",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 337 9624",
+    "sg:postcode":"37206",
+    "sg:province":"TN",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85816591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IjZtZMhPAjWNeimpup7SC_36.164088_-86.751105@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591335,
+    "wof:geomhash":"b0b9046595c01ae780f9280e4ad5e231",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85816591,
+            "region_id":85688701,
+            "venue_id":789885601
+        }
+    ],
+    "wof:id":789885601,
+    "wof:lastmodified":1462591335,
+    "wof:name":"Paint Works",
+    "wof:parent_id":85816591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -86.751105,
+    36.164088,
+    -86.751105,
+    36.164088
+],
+  "geometry": {"coordinates":[-86.751105,36.164088],"type":"Point"}
+}

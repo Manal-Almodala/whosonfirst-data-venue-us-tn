@@ -1,0 +1,86 @@
+{
+  "id": 823246091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.726606,36.080465,-86.726606,36.080465",
+    "geom:latitude":36.080465,
+    "geom:longitude":-86.726606,
+    "iso:country":"US",
+    "sg:address":"4098 Nolensville Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/95119-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 832 9633",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85840471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O1w6HBzqyQEpKc2YuLBfp_36.080465_-86.726606@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609261,
+    "wof:geomhash":"924217c938d04b167aaada521e0e4842",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85840471,
+            "region_id":85688701,
+            "venue_id":823246091
+        }
+    ],
+    "wof:id":823246091,
+    "wof:lastmodified":1462609261,
+    "wof:name":"IHOP",
+    "wof:parent_id":85840471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -86.726606,
+    36.080465,
+    -86.726606,
+    36.080465
+],
+  "geometry": {"coordinates":[-86.726606,36.080465],"type":"Point"}
+}

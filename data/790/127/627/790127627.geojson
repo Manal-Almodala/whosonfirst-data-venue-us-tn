@@ -1,0 +1,80 @@
+{
+  "id": 790127627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.209103,35.53149,-87.209103,35.53149",
+    "geom:latitude":35.53149,
+    "geom:longitude":-87.209103,
+    "iso:country":"US",
+    "sg:address":"312 S Main St",
+    "sg:city":"Mt Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 3123",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00LXS7X51NSMRadP3MAlsi_35.531490_-87.209103@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593344,
+    "wof:geomhash":"798312a46a9a7c66c31fc3e5f3624c2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":790127627
+        }
+    ],
+    "wof:id":790127627,
+    "wof:lastmodified":1462593344,
+    "wof:name":"Zingarell's Market",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -87.209103,
+    35.53149,
+    -87.209103,
+    35.53149
+],
+  "geometry": {"coordinates":[-87.209103,35.53149],"type":"Point"}
+}

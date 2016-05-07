@@ -1,0 +1,71 @@
+{
+  "id": 806773201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.572129,36.171765,-85.572129,36.171765",
+    "geom:latitude":36.171765,
+    "geom:longitude":-85.572129,
+    "iso:country":"US",
+    "sg:address":"3249 Eaton Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 525 6719",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_728pUnnIfsKOi7ZEXUlr7P_36.171765_-85.572129@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600955,
+    "wof:geomhash":"81bbf7ab24770ca468df27f6904747f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":806773201
+        }
+    ],
+    "wof:id":806773201,
+    "wof:lastmodified":1462600955,
+    "wof:name":"Auto Pro Collision Repair",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -85.572129,
+    36.171765,
+    -85.572129,
+    36.171765
+],
+  "geometry": {"coordinates":[-85.572129,36.171765],"type":"Point"}
+}

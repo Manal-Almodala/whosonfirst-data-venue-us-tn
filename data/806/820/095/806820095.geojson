@@ -1,0 +1,73 @@
+{
+  "id": 806820095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.641749,35.569582,-89.641749,35.569582",
+    "geom:latitude":35.569582,
+    "geom:longitude":-89.641749,
+    "iso:country":"US",
+    "sg:address":"411 E Ripley Ave",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 2188",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EYGr8zvBIWjeBMDGSfFkl_35.569582_-89.641749@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601346,
+    "wof:geomhash":"26dea821f4614c3f823f846fc5cfb78e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806820095
+        }
+    ],
+    "wof:id":806820095,
+    "wof:lastmodified":1462601346,
+    "wof:name":"Covington Mini-Storage",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -89.641749,
+    35.569582,
+    -89.641749,
+    35.569582
+],
+  "geometry": {"coordinates":[-89.641749,35.569582],"type":"Point"}
+}

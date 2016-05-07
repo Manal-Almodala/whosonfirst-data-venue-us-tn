@@ -1,0 +1,73 @@
+{
+  "id": 807000301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.247575,36.340579,-82.247575,36.340579",
+    "geom:latitude":36.340579,
+    "geom:longitude":-82.247575,
+    "iso:country":"US",
+    "sg:address":"1522 W G St",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 543 8245",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85844667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_618vIiQc6k7crAivyv772t_36.340579_-82.247575@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602863,
+    "wof:geomhash":"2ed2638791346538bc63c0e94df2d68a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85844667,
+            "region_id":85688701,
+            "venue_id":807000301
+        }
+    ],
+    "wof:id":807000301,
+    "wof:lastmodified":1462602863,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85844667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour"
+    ]
+},
+  "bbox": [
+    -82.247575,
+    36.340579,
+    -82.247575,
+    36.340579
+],
+  "geometry": {"coordinates":[-82.247575,36.340579],"type":"Point"}
+}

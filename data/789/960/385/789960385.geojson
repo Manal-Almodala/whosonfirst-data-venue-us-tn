@@ -1,0 +1,71 @@
+{
+  "id": 789960385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.284723,36.138329,-85.284723,36.138329",
+    "geom:latitude":36.138329,
+    "geom:longitude":-85.284723,
+    "iso:country":"US",
+    "sg:address":"13450 Monterey Hwy",
+    "sg:city":"Monterey",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 839 2880",
+    "sg:postcode":"38574",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cmwviPiS8EBHzHhLeUJSf_36.138329_-85.284723@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592003,
+    "wof:geomhash":"7f9d36b7e3fb3acff062f7315ce0e007",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":789960385
+        }
+    ],
+    "wof:id":789960385,
+    "wof:lastmodified":1462592003,
+    "wof:name":"Mc Cormick & Sons Garage",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -85.284723,
+    36.138329,
+    -85.284723,
+    36.138329
+],
+  "geometry": {"coordinates":[-85.284723,36.138329],"type":"Point"}
+}

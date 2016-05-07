@@ -1,0 +1,73 @@
+{
+  "id": 789974459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.62106,35.45677,-84.62106,35.45677",
+    "geom:latitude":35.45677,
+    "geom:longitude":-84.62106,
+    "iso:country":"US",
+    "sg:address":"1728 Garden Dr",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 5601",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85808247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i0Lv4mnmvc0VH0XcGulKt_35.456770_-84.621060@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592119,
+    "wof:geomhash":"a67fc58632e3b18d8049dc60569ec1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85808247,
+            "region_id":85688701,
+            "venue_id":789974459
+        }
+    ],
+    "wof:id":789974459,
+    "wof:lastmodified":1462592119,
+    "wof:name":"Athens Mews Apartments",
+    "wof:parent_id":85808247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -84.62106,
+    35.45677,
+    -84.62106,
+    35.45677
+],
+  "geometry": {"coordinates":[-84.62106,35.45677],"type":"Point"}
+}

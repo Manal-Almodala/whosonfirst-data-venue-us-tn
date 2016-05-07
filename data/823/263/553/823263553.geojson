@@ -1,0 +1,74 @@
+{
+  "id": 823263553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.793977,36.155378,-86.793977,36.155378",
+    "geom:latitude":36.155378,
+    "geom:longitude":-86.793977,
+    "iso:country":"US",
+    "sg:address":"1616 Hayes St",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 321 0212",
+    "sg:postcode":"37203",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dialysis"
+    ],
+    "sg:website":"http://www.khgreensboro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85893465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DCDgrY95ncfiJwuRaFVBL_36.155378_-86.793977@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609662,
+    "wof:geomhash":"993b983ec192997696e1aec27fd8543a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893465,
+            "region_id":85688701,
+            "venue_id":823263553
+        }
+    ],
+    "wof:id":823263553,
+    "wof:lastmodified":1462609662,
+    "wof:name":"Dialysis Laboratory",
+    "wof:parent_id":85893465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dialysis"
+    ]
+},
+  "bbox": [
+    -86.793977,
+    36.155378,
+    -86.793977,
+    36.155378
+],
+  "geometry": {"coordinates":[-86.793977,36.155378],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789839989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.557752,36.101722,-85.557752,36.101722",
+    "geom:latitude":36.101722,
+    "geom:longitude":-85.557752,
+    "iso:country":"US",
+    "sg:address":"2345 Huntland Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 432 1111",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wbQ2EKsrmsCy4cWq3XOlb_36.101722_-85.557752@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590946,
+    "wof:geomhash":"8d731a68763c1059a26d37e208128260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":789839989
+        }
+    ],
+    "wof:id":789839989,
+    "wof:lastmodified":1462590946,
+    "wof:name":"Personal Touch Landscaping",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.557752,
+    36.101722,
+    -85.557752,
+    36.101722
+],
+  "geometry": {"coordinates":[-85.55775199999999,36.101722],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789789479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.64785,36.144988,-85.64785,36.144988",
+    "geom:latitude":36.144988,
+    "geom:longitude":-85.64785,
+    "iso:country":"US",
+    "sg:address":"810 Elmore Town Rd",
+    "sg:city":"Baxter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 3348",
+    "sg:postcode":"38544",
+    "sg:province":"TN",
+    "sg:tags":[
+        "water",
+        "control",
+        "pollution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51e6emNg3mcLHt9j70uXzi_36.144988_-85.647850@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590561,
+    "wof:geomhash":"ed569d548214dc668566e742d3f9866c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":789789479
+        }
+    ],
+    "wof:id":789789479,
+    "wof:lastmodified":1462590561,
+    "wof:name":"Baxter Wastewater Plant",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "control",
+        "pollution"
+    ]
+},
+  "bbox": [
+    -85.64785,
+    36.144988,
+    -85.64785,
+    36.144988
+],
+  "geometry": {"coordinates":[-85.64785000000001,36.144988],"type":"Point"}
+}

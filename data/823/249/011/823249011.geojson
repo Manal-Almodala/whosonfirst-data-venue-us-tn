@@ -1,0 +1,76 @@
+{
+  "id": 823249011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.340439,36.30619,-82.340439,36.30619",
+    "geom:latitude":36.30619,
+    "geom:longitude":-82.340439,
+    "iso:country":"US",
+    "sg:address":"1909 S Roan St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/johnson-city/166294-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 926 8835",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722757,
+        102086335,
+        85844181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BiMHP7WIKFnIlZdzQbq6j_36.306190_-82.340439@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609315,
+    "wof:geomhash":"d1f56e57700769b0439a9b8c5bf489fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85844181,
+            "region_id":85688701,
+            "venue_id":823249011
+        }
+    ],
+    "wof:id":823249011,
+    "wof:lastmodified":1462609315,
+    "wof:name":"Arby's",
+    "wof:parent_id":85844181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.340439,
+    36.30619,
+    -82.340439,
+    36.30619
+],
+  "geometry": {"coordinates":[-82.340439,36.30619],"type":"Point"}
+}

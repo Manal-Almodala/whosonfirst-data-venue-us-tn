@@ -1,0 +1,73 @@
+{
+  "id": 823155583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.744228,35.159938,-89.744228,35.159938",
+    "geom:latitude":35.159938,
+    "geom:longitude":-89.744228,
+    "iso:country":"US",
+    "sg:address":"1280 Big Orange Rd",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 624 1325",
+    "sg:postcode":"38018",
+    "sg:province":"TN",
+    "sg:tags":[
+        "terminal",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85812297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45BBfj3VMMVzVcsjW3ONB9_35.159938_-89.744228@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607743,
+    "wof:geomhash":"b672016b1a9397877f8ed6e0ba331ae1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85812297,
+            "region_id":85688701,
+            "venue_id":823155583
+        }
+    ],
+    "wof:id":823155583,
+    "wof:lastmodified":1462607743,
+    "wof:name":"Lemm Corp",
+    "wof:parent_id":85812297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "marine"
+    ]
+},
+  "bbox": [
+    -89.744228,
+    35.159938,
+    -89.744228,
+    35.159938
+],
+  "geometry": {"coordinates":[-89.74422800000001,35.159938],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 773257897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.81523,36.17095,-82.81523,36.17095",
+    "geom:latitude":36.17095,
+    "geom:longitude":-82.81523,
+    "iso:country":"US",
+    "sg:address":"806 Tusculum Blvd",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 639 0404",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KrHln2yT6lBvzb6IjhiDq_36.170950_-82.815230@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584348,
+    "wof:geomhash":"94b8f6489e350307bd625c9ab9468d9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":773257897
+        }
+    ],
+    "wof:id":773257897,
+    "wof:lastmodified":1462584348,
+    "wof:name":"Butler Electric Motor Service",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -82.81523,
+    36.17095,
+    -82.81523,
+    36.17095
+],
+  "geometry": {"coordinates":[-82.81523,36.17095],"type":"Point"}
+}

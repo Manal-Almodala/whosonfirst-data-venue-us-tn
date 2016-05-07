@@ -1,0 +1,73 @@
+{
+  "id": 789754189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.847391,36.148149,-82.847391,36.148149",
+    "geom:latitude":36.148149,
+    "geom:longitude":-82.847391,
+    "iso:country":"US",
+    "sg:address":"1004 W Vann Rd",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 798 9274",
+    "sg:postcode":"37743",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash",
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85851539,
+        102086377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44moufsgJ2DpHGfXUwPeKU_36.148149_-82.847391@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590285,
+    "wof:geomhash":"21f28e0866cd4329a020b070db5d5649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "neighbourhood_id":85851539,
+            "region_id":85688701,
+            "venue_id":789754189
+        }
+    ],
+    "wof:id":789754189,
+    "wof:lastmodified":1462590285,
+    "wof:name":"C & R Car Wash",
+    "wof:parent_id":85851539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -82.847391,
+    36.148149,
+    -82.847391,
+    36.148149
+],
+  "geometry": {"coordinates":[-82.847391,36.148149],"type":"Point"}
+}

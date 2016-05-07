@@ -1,0 +1,71 @@
+{
+  "id": 806712819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.134083,36.099778,-86.134083,36.099778",
+    "geom:latitude":36.099778,
+    "geom:longitude":-86.134083,
+    "iso:country":"US",
+    "sg:address":"112 Public Sq",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 237 3326",
+    "sg:postcode":"37184",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tQ9BLKZS49KnKFmkzd3Pf_36.099778_-86.134083@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600440,
+    "wof:geomhash":"6b346e6ec0837cd19199e9e11a1a211e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":806712819
+        }
+    ],
+    "wof:id":806712819,
+    "wof:lastmodified":1462600440,
+    "wof:name":"Watertown City Police Dept",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.134083,
+    36.099778,
+    -86.134083,
+    36.099778
+],
+  "geometry": {"coordinates":[-86.134083,36.099778],"type":"Point"}
+}

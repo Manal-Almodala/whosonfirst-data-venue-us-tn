@@ -1,0 +1,71 @@
+{
+  "id": 790439255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.547298,35.041901,-89.547298,35.041901",
+    "geom:latitude":35.041901,
+    "geom:longitude":-89.547298,
+    "iso:country":"US",
+    "sg:address":"5745 State Hwy 57",
+    "sg:city":"Rossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 861 4333",
+    "sg:postcode":"38066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85846193,
+        102086439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FenYfLRB5SDdtPXp4fPqx_35.041901_-89.547298@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595836,
+    "wof:geomhash":"b594ef37e255c2adcd26f548f4130180",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086439,
+            "neighbourhood_id":85846193,
+            "region_id":85688701,
+            "venue_id":790439255
+        }
+    ],
+    "wof:id":790439255,
+    "wof:lastmodified":1462595836,
+    "wof:name":"Rossville Auto Ctr",
+    "wof:parent_id":85846193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.547298,
+    35.041901,
+    -89.547298,
+    35.041901
+],
+  "geometry": {"coordinates":[-89.547298,35.041901],"type":"Point"}
+}

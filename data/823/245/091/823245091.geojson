@@ -1,0 +1,72 @@
+{
+  "id": 823245091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.526396,35.991875,-86.526396,35.991875",
+    "geom:latitude":35.991875,
+    "geom:longitude":-86.526396,
+    "iso:country":"US",
+    "sg:address":"305 N Lowry St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/smyrna/215223-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 355 1981",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85823525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DGPqoxACLoxSlhz4uAqdI_35.991875_-86.526396@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609239,
+    "wof:geomhash":"1e2bcd4f99cd2937022e6c08ced801e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85823525,
+            "region_id":85688701,
+            "venue_id":823245091
+        }
+    ],
+    "wof:id":823245091,
+    "wof:lastmodified":1462609239,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85823525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.526396,
+    35.991875,
+    -86.526396,
+    35.991875
+],
+  "geometry": {"coordinates":[-86.52639600000001,35.991875],"type":"Point"}
+}

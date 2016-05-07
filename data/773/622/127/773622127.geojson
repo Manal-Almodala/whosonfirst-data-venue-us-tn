@@ -1,0 +1,75 @@
+{
+  "id": 773622127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.901166,35.213349,-89.901166,35.213349",
+    "geom:latitude":35.213349,
+    "geom:longitude":-89.901166,
+    "iso:country":"US",
+    "sg:address":"3162 Bluefield St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 388 0667",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25j4yf7LNzQ1nnltbr0DnD_35.213349_-89.901166@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587111,
+    "wof:geomhash":"656724f64be6b62f493677dd51be6c36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":773622127
+        }
+    ],
+    "wof:id":773622127,
+    "wof:lastmodified":1462587111,
+    "wof:name":"Bio-Serv Inc",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "medical",
+        "surgical"
+    ]
+},
+  "bbox": [
+    -89.901166,
+    35.213349,
+    -89.901166,
+    35.213349
+],
+  "geometry": {"coordinates":[-89.901166,35.213349],"type":"Point"}
+}

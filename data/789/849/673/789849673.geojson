@@ -1,0 +1,73 @@
+{
+  "id": 789849673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.808261,35.041335,-89.808261,35.041335",
+    "geom:latitude":35.041335,
+    "geom:longitude":-89.808261,
+    "iso:country":"US",
+    "sg:address":"3935 Autumn Harvest Ln",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 754 4900",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DjkZIUlH6lDmqzDRyMLcv_35.041335_-89.808261@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591024,
+    "wof:geomhash":"b2da6a78157889d0d8d1260475874e11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":789849673
+        }
+    ],
+    "wof:id":789849673,
+    "wof:lastmodified":1462591024,
+    "wof:name":"Ae Hauling",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.808261,
+    35.041335,
+    -89.808261,
+    35.041335
+],
+  "geometry": {"coordinates":[-89.808261,35.041335],"type":"Point"}
+}

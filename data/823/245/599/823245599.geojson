@@ -1,0 +1,76 @@
+{
+  "id": 823245599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.798999,36.147173,-86.798999,36.147173",
+    "geom:latitude":36.147173,
+    "geom:longitude":-86.798999,
+    "iso:country":"US",
+    "sg:address":"400 21st Ave S",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/140157-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 329 2800",
+    "sg:postcode":"37203",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85893455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2B26RpLj0nTp1G6dSySnxb_36.147173_-86.798999@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609253,
+    "wof:geomhash":"ed60545ca5b7abab20e8f3ad3724871e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893455,
+            "region_id":85688701,
+            "venue_id":823245599
+        }
+    ],
+    "wof:id":823245599,
+    "wof:lastmodified":1462609253,
+    "wof:name":"Subway",
+    "wof:parent_id":85893455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.798999,
+    36.147173,
+    -86.798999,
+    36.147173
+],
+  "geometry": {"coordinates":[-86.79899899999999,36.147173],"type":"Point"}
+}

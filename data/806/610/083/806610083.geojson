@@ -1,0 +1,73 @@
+{
+  "id": 806610083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.398199,36.064707,-87.398199,36.064707",
+    "geom:latitude":36.064707,
+    "geom:longitude":-87.398199,
+    "iso:country":"US",
+    "sg:address":"195 E Piney Rd",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 446 6150",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "disposal",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iYYtximovJLS7bCXkxgOf_36.064707_-87.398199@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599566,
+    "wof:geomhash":"19a76e5d8cd0ab2ec9a9d0f3ac3f1834",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":806610083
+        }
+    ],
+    "wof:id":806610083,
+    "wof:lastmodified":1462599566,
+    "wof:name":"Dickson Sewage Disposal Plant",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "system"
+    ]
+},
+  "bbox": [
+    -87.398199,
+    36.064707,
+    -87.398199,
+    36.064707
+],
+  "geometry": {"coordinates":[-87.39819900000001,36.064707],"type":"Point"}
+}

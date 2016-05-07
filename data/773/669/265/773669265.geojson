@@ -1,0 +1,73 @@
+{
+  "id": 773669265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.909615,35.234415,-89.909615,35.234415",
+    "geom:latitude":35.234415,
+    "geom:longitude":-89.909615,
+    "iso:country":"US",
+    "sg:address":"4014 Glendale Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 373 3109",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oM7MV0PbvEoB0XmlW07sY_35.234415_-89.909615@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587461,
+    "wof:geomhash":"b965e2ee245ab0cbb0a029b0f4bca2e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":773669265
+        }
+    ],
+    "wof:id":773669265,
+    "wof:lastmodified":1462587461,
+    "wof:name":"Avery Properties",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -89.909615,
+    35.234415,
+    -89.909615,
+    35.234415
+],
+  "geometry": {"coordinates":[-89.909615,35.234415],"type":"Point"}
+}

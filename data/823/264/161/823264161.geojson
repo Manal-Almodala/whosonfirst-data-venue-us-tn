@@ -1,0 +1,90 @@
+{
+  "id": 823264161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.764771,36.113022,-86.764771,36.113022",
+    "geom:latitude":36.113022,
+    "geom:longitude":-86.764771,
+    "iso:country":"US",
+    "sg:address":"512 Heather Pl",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 463 7338",
+    "sg:postcode":"37204",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grooming",
+        "cat",
+        "specialty",
+        "dog"
+    ],
+    "sg:website":"http://www.dizzysdogwash.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85843601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iEFGxFRUhIdu8GDC4DsBL_36.113022_-86.764771@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609685,
+    "wof:geomhash":"5a0fd36bf467f1ec52fa21b155ab9fe2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85843601,
+            "region_id":85688701,
+            "venue_id":823264161
+        }
+    ],
+    "wof:id":823264161,
+    "wof:lastmodified":1462609685,
+    "wof:name":"Dizzy's Dog Wash & Corner Store",
+    "wof:parent_id":85843601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "cat",
+        "specialty",
+        "dog"
+    ]
+},
+  "bbox": [
+    -86.764771,
+    36.113022,
+    -86.764771,
+    36.113022
+],
+  "geometry": {"coordinates":[-86.764771,36.113022],"type":"Point"}
+}

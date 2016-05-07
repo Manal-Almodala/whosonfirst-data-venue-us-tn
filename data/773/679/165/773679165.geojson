@@ -1,0 +1,76 @@
+{
+  "id": 773679165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.015289,35.491497,-85.015289,35.491497",
+    "geom:latitude":35.491497,
+    "geom:longitude":-85.015289,
+    "iso:country":"US",
+    "sg:address":"1169 Market St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 6337",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4w0fPtMqNsIkoxPT9Jwwzm_35.491497_-85.015289@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587533,
+    "wof:geomhash":"c35540c344b8ad9db6a8ea700c8fb834",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":773679165
+        }
+    ],
+    "wof:id":773679165,
+    "wof:lastmodified":1462587533,
+    "wof:name":"Rhea County Juvenile Probation",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -85.015289,
+    35.491497,
+    -85.015289,
+    35.491497
+],
+  "geometry": {"coordinates":[-85.015289,35.491497],"type":"Point"}
+}

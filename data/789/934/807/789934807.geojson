@@ -1,0 +1,73 @@
+{
+  "id": 789934807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.411564,35.398283,-89.411564,35.398283",
+    "geom:latitude":35.398283,
+    "geom:longitude":-89.411564,
+    "iso:country":"US",
+    "sg:address":"8145 State Hwy 222",
+    "sg:city":"Somerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 465 5077",
+    "sg:postcode":"38049",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722831,
+        102086439,
+        420541553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26cEICKkk7mUHNQuDsb1eH_35.398283_-89.411564@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591750,
+    "wof:geomhash":"2007186b5b1899a10daf68bbd3f555f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086439,
+            "locality_id":101722831,
+            "neighbourhood_id":420541553,
+            "region_id":85688701,
+            "venue_id":789934807
+        }
+    ],
+    "wof:id":789934807,
+    "wof:lastmodified":1462591750,
+    "wof:name":"Earl's Garage & Wrecker Svc",
+    "wof:parent_id":420541553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.411564,
+    35.398283,
+    -89.411564,
+    35.398283
+],
+  "geometry": {"coordinates":[-89.411564,35.398283],"type":"Point"}
+}

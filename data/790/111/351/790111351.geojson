@@ -1,0 +1,71 @@
+{
+  "id": 790111351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.792329,35.997871,-83.792329,35.997871",
+    "geom:latitude":35.997871,
+    "geom:longitude":-83.792329,
+    "iso:country":"US",
+    "sg:address":"6908 Pine Grove Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 673 8571",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23hsxjgXvYC7hIqsmhJquu_35.997871_-83.792329@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593229,
+    "wof:geomhash":"7a274e351df3f96614916857aad60d29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":790111351
+        }
+    ],
+    "wof:id":790111351,
+    "wof:lastmodified":1462593229,
+    "wof:name":"American Pride Cleaning",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.792329,
+    35.997871,
+    -83.792329,
+    35.997871
+],
+  "geometry": {"coordinates":[-83.792329,35.997871],"type":"Point"}
+}

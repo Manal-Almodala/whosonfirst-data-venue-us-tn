@@ -1,0 +1,75 @@
+{
+  "id": 807110863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.089951,35.482814,-86.089951,35.482814",
+    "geom:latitude":35.482814,
+    "geom:longitude":-86.089951,
+    "iso:country":"US",
+    "sg:address":"215 Murfreesboro Hwy",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 723 2190",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EaXRqNU8wF2XygJD3OUBz_35.482814_-86.089951@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603842,
+    "wof:geomhash":"cdecc29984fe1531d3f5deaa08c042b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":807110863
+        }
+    ],
+    "wof:id":807110863,
+    "wof:lastmodified":1462603842,
+    "wof:name":"Mike's Mechanix",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.089951,
+    35.482814,
+    -86.089951,
+    35.482814
+],
+  "geometry": {"coordinates":[-86.089951,35.482814],"type":"Point"}
+}

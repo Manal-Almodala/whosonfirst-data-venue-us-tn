@@ -1,0 +1,71 @@
+{
+  "id": 806604689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.631666,35.974477,-85.631666,35.974477",
+    "geom:latitude":35.974477,
+    "geom:longitude":-85.631666,
+    "iso:country":"US",
+    "sg:address":"160 Luna Rd",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 761 3030",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NGebGlaC6kol7uiBvIMOB_35.974477_-85.631666@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599527,
+    "wof:geomhash":"aff75322e5bc0fb3dda0048e95220039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":806604689
+        }
+    ],
+    "wof:id":806604689,
+    "wof:lastmodified":1462599527,
+    "wof:name":"Cantrells Transmission Service",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.631666,
+    35.974477,
+    -85.631666,
+    35.974477
+],
+  "geometry": {"coordinates":[-85.631666,35.974477],"type":"Point"}
+}

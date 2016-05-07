@@ -1,0 +1,71 @@
+{
+  "id": 790364003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.125153,36.019278,-86.125153,36.019278",
+    "geom:latitude":36.019278,
+    "geom:longitude":-86.125153,
+    "iso:country":"US",
+    "sg:address":"12 Statesville-Main St",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 286 2080",
+    "sg:postcode":"37184",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JED4kW1YzRimDJqHINIIc_36.019278_-86.125153@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595258,
+    "wof:geomhash":"b64b8e4fe4475a5efcf9b7db64abd556",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":790364003
+        }
+    ],
+    "wof:id":790364003,
+    "wof:lastmodified":1462595258,
+    "wof:name":"Suttons Auto & Tow",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.125153,
+    36.019278,
+    -86.125153,
+    36.019278
+],
+  "geometry": {"coordinates":[-86.125153,36.019278],"type":"Point"}
+}

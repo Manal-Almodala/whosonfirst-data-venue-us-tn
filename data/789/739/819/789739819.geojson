@@ -1,0 +1,71 @@
+{
+  "id": 789739819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.458586,35.872817,-86.458586,35.872817",
+    "geom:latitude":35.872817,
+    "geom:longitude":-86.458586,
+    "iso:country":"US",
+    "sg:address":"2777 Brookrun Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 893 2351",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_775VnX4AHO0JdetjzqscDN_35.872817_-86.458586@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590172,
+    "wof:geomhash":"c629c63347b59515ab78f245e6565bb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":789739819
+        }
+    ],
+    "wof:id":789739819,
+    "wof:lastmodified":1462590172,
+    "wof:name":"Stones River Transport",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.458586,
+    35.872817,
+    -86.458586,
+    35.872817
+],
+  "geometry": {"coordinates":[-86.458586,35.872817],"type":"Point"}
+}

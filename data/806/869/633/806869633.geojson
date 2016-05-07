@@ -1,0 +1,73 @@
+{
+  "id": 806869633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.025215,35.037323,-90.025215,35.037323",
+    "geom:latitude":35.037323,
+    "geom:longitude":-90.025215,
+    "iso:country":"US",
+    "sg:address":"4029 Elvis Presley Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 396 2144",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85857515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7a6bWg2ChuPwP8J5Cmo4kw_35.037323_-90.025215@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601768,
+    "wof:geomhash":"b96502785707fd63da73bf52089cf8ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85857515,
+            "region_id":85688701,
+            "venue_id":806869633
+        }
+    ],
+    "wof:id":806869633,
+    "wof:lastmodified":1462601768,
+    "wof:name":"Brake Depot",
+    "wof:parent_id":85857515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -90.025215,
+    35.037323,
+    -90.025215,
+    35.037323
+],
+  "geometry": {"coordinates":[-90.025215,35.037323],"type":"Point"}
+}

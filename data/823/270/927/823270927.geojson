@@ -1,0 +1,83 @@
+{
+  "id": 823270927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.220205,35.00994,-85.220205,35.00994",
+    "geom:latitude":35.00994,
+    "geom:longitude":-85.220205,
+    "iso:country":"US",
+    "sg:address":"5515 Brainerd Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 894 1058",
+    "sg:postcode":"37411",
+    "sg:province":"TN",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.regionsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65eS0YB5O7fBsNTMUGekVG_35.009940_-85.220205@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609946,
+    "wof:geomhash":"ffd0e0fcf18d09e454b7e2754b83cc2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876729,
+            "region_id":85688701,
+            "venue_id":823270927
+        }
+    ],
+    "wof:id":823270927,
+    "wof:lastmodified":1462609946,
+    "wof:name":"Regions Bank",
+    "wof:parent_id":85876729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -85.220205,
+    35.00994,
+    -85.220205,
+    35.00994
+],
+  "geometry": {"coordinates":[-85.22020500000001,35.00994],"type":"Point"}
+}

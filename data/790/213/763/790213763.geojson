@@ -1,0 +1,86 @@
+{
+  "id": 790213763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.617009,36.052621,-86.617009,36.052621",
+    "geom:latitude":36.052621,
+    "geom:longitude":-86.617009,
+    "iso:country":"US",
+    "sg:address":"3541 Murfreesboro Pike",
+    "sg:city":"Antioch",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 641 9202",
+    "sg:postcode":"37013",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "storage",
+        "commercial",
+        "leasing",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85835767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E8EYb4OiAVyZE5RgBDOTR_36.052621_-86.617009@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594055,
+    "wof:geomhash":"45a08a787594687e05bfa0f8dd0cad4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85835767,
+            "region_id":85688701,
+            "venue_id":790213763
+        }
+    ],
+    "wof:id":790213763,
+    "wof:lastmodified":1462594055,
+    "wof:name":"You Secure Self Storage",
+    "wof:parent_id":85835767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "storage",
+        "commercial",
+        "leasing",
+        "truck"
+    ]
+},
+  "bbox": [
+    -86.617009,
+    36.052621,
+    -86.617009,
+    36.052621
+],
+  "geometry": {"coordinates":[-86.617009,36.052621],"type":"Point"}
+}

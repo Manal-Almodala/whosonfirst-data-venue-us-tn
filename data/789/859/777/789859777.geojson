@@ -1,0 +1,73 @@
+{
+  "id": 789859777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.948251,35.99085,-84.948251,35.99085",
+    "geom:latitude":35.99085,
+    "geom:longitude":-84.948251,
+    "iso:country":"US",
+    "sg:address":"2976 Peavine Rd",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 8753",
+    "sg:postcode":"38571",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AWP1s177Y0VY2k5QVjIdW_35.990850_-84.948251@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591104,
+    "wof:geomhash":"49022b04f27e602b3a57e6b38daaa88c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":789859777
+        }
+    ],
+    "wof:id":789859777,
+    "wof:lastmodified":1462591104,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.948251,
+    35.99085,
+    -84.948251,
+    35.99085
+],
+  "geometry": {"coordinates":[-84.948251,35.99085],"type":"Point"}
+}

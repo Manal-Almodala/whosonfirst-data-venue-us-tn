@@ -1,0 +1,75 @@
+{
+  "id": 806866723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.323854,35.952014,-85.323854,35.952014",
+    "geom:latitude":35.952014,
+    "geom:longitude":-85.323854,
+    "iso:country":"US",
+    "sg:address":"973 Idlewild Dr",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 935 9141",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rgwB8T82YyaI4O2pKnbCU_35.952014_-85.323854@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601746,
+    "wof:geomhash":"7b5591de0e42900b9e23d48f33fed64b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":806866723
+        }
+    ],
+    "wof:id":806866723,
+    "wof:lastmodified":1462601746,
+    "wof:name":"Selby's Repair Shop",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.323854,
+    35.952014,
+    -85.323854,
+    35.952014
+],
+  "geometry": {"coordinates":[-85.323854,35.952014],"type":"Point"}
+}

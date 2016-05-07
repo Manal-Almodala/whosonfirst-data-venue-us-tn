@@ -1,0 +1,71 @@
+{
+  "id": 789634237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.354222,35.821661,-86.354222,35.821661",
+    "geom:latitude":35.821661,
+    "geom:longitude":-86.354222,
+    "iso:country":"US",
+    "sg:address":"2319 Aspen Ave",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 292 7400",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jvtAZgbrmuiYI4CNTvM3y_35.821661_-86.354222@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589331,
+    "wof:geomhash":"b9a04939d54babe285f7adfc1608ff4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":789634237
+        }
+    ],
+    "wof:id":789634237,
+    "wof:lastmodified":1462589331,
+    "wof:name":"Paul C Alexander MD",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.354222,
+    35.821661,
+    -86.354222,
+    35.821661
+],
+  "geometry": {"coordinates":[-86.35422199999999,35.821661],"type":"Point"}
+}

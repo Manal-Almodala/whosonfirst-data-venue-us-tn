@@ -1,0 +1,71 @@
+{
+  "id": 806850015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.889502,35.911739,-86.889502,35.911739",
+    "geom:latitude":35.911739,
+    "geom:longitude":-86.889502,
+    "iso:country":"US",
+    "sg:address":"1421 W Main St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 794 4422",
+    "sg:postcode":"37064",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723093,
+        102086337,
+        85845729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LOf5PZz1dsNQxHFuvglzL_35.911739_-86.889502@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601606,
+    "wof:geomhash":"eb012525eb1ce82b83e07431f09f7a7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85845729,
+            "region_id":85688701,
+            "venue_id":806850015
+        }
+    ],
+    "wof:id":806850015,
+    "wof:lastmodified":1462601606,
+    "wof:name":"Jewel-Osco",
+    "wof:parent_id":85845729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.889502,
+    35.911739,
+    -86.889502,
+    35.911739
+],
+  "geometry": {"coordinates":[-86.88950199999999,35.911739],"type":"Point"}
+}

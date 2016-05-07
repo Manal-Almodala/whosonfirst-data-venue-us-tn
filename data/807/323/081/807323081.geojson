@@ -1,0 +1,73 @@
+{
+  "id": 807323081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.317125,36.248255,-83.317125,36.248255",
+    "geom:latitude":36.248255,
+    "geom:longitude":-83.317125,
+    "iso:country":"US",
+    "sg:address":"2901 Boatmans Mountain Rd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 2838",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60Wo86P9ousCCEKsB6jG7R_36.248255_-83.317125@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606100,
+    "wof:geomhash":"2d8662594fb725838339c9a3f098dd96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807323081
+        }
+    ],
+    "wof:id":807323081,
+    "wof:lastmodified":1462606100,
+    "wof:name":"Jerrells Electric",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.317125,
+    36.248255,
+    -83.317125,
+    36.248255
+],
+  "geometry": {"coordinates":[-83.317125,36.248255],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 807382353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.194475,35.038295,-85.194475,35.038295",
+    "geom:latitude":35.038295,
+    "geom:longitude":-85.194475,
+    "iso:country":"US",
+    "sg:address":"1709 Chickamauga Loop",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 510 9394",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85851775,
+        420558385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aTAYbp1O63RoIZ3NSgNPZ_35.038295_-85.194475@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606952,
+    "wof:geomhash":"c28c2c80097c4de6ba837e7f4ee7a537",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85851775,
+            "region_id":85688701,
+            "venue_id":807382353
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":420558385,
+            "region_id":85688701,
+            "venue_id":807382353
+        }
+    ],
+    "wof:id":807382353,
+    "wof:lastmodified":1462606952,
+    "wof:name":"Airport Wrecker Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.194475,
+    35.038295,
+    -85.194475,
+    35.038295
+],
+  "geometry": {"coordinates":[-85.194475,35.038295],"type":"Point"}
+}

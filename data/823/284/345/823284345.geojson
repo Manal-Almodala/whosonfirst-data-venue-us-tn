@@ -1,0 +1,78 @@
+{
+  "id": 823284345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.025131,35.041597,-90.025131,35.041597",
+    "geom:latitude":35.041597,
+    "geom:longitude":-90.025131,
+    "iso:country":"US",
+    "sg:address":"3928 Elvis Presley Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 398 2724",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85857515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UuGRe692ngYgysKg94qqZ_35.041597_-90.025131@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610486,
+    "wof:geomhash":"cfd4131abb96086d674c9f473e17bcc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85857515,
+            "region_id":85688701,
+            "venue_id":823284345
+        }
+    ],
+    "wof:id":823284345,
+    "wof:lastmodified":1462610486,
+    "wof:name":"Nails Plus",
+    "wof:parent_id":85857515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.025131,
+    35.041597,
+    -90.025131,
+    35.041597
+],
+  "geometry": {"coordinates":[-90.025131,35.041597],"type":"Point"}
+}

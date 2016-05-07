@@ -1,0 +1,83 @@
+{
+  "id": 823281087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.069924,35.118872,-90.069924,35.118872",
+    "geom:latitude":35.118872,
+    "geom:longitude":-90.069924,
+    "iso:country":"US",
+    "sg:address":"1046 Arkansas St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 334 4448",
+    "sg:postcode":"38106",
+    "sg:province":"TN",
+    "sg:tags":[
+        "container",
+        "trucking-motor",
+        "trucking"
+    ],
+    "sg:website":"http://www.suncoast-carriers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85893427
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KH9gqclkJE4fDRs0K6gmi_35.118872_-90.069924@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610355,
+    "wof:geomhash":"db50921ee8b0a5a7ad1b2379cbc9d3c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85893427,
+            "region_id":85688701,
+            "venue_id":823281087
+        }
+    ],
+    "wof:id":823281087,
+    "wof:lastmodified":1462610355,
+    "wof:name":"Sun Coast Carriers Inc",
+    "wof:parent_id":85893427,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "container",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.069924,
+    35.118872,
+    -90.069924,
+    35.118872
+],
+  "geometry": {"coordinates":[-90.069924,35.118872],"type":"Point"}
+}

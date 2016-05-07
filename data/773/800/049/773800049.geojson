@@ -1,0 +1,71 @@
+{
+  "id": 773800049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.692067,35.631143,-86.692067,35.631143",
+    "geom:latitude":35.631143,
+    "geom:longitude":-86.692067,
+    "iso:country":"US",
+    "sg:address":"401 N Horton Pkwy",
+    "sg:city":"Chapel Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 364 5708",
+    "sg:postcode":"37034",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85854287,
+        102087115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00h9Bl29iQWeWaRlJs41v6_35.631143_-86.692067@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588467,
+    "wof:geomhash":"3e2a6c70534fd4f5044eb346550aedfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "neighbourhood_id":85854287,
+            "region_id":85688701,
+            "venue_id":773800049
+        }
+    ],
+    "wof:id":773800049,
+    "wof:lastmodified":1462588467,
+    "wof:name":"Chapel Hill Automotive",
+    "wof:parent_id":85854287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.692067,
+    35.631143,
+    -86.692067,
+    35.631143
+],
+  "geometry": {"coordinates":[-86.69206699999999,35.631143],"type":"Point"}
+}

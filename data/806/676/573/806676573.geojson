@@ -1,0 +1,71 @@
+{
+  "id": 806676573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.986916,35.9334,-83.986916,35.9334",
+    "geom:latitude":35.9334,
+    "geom:longitude":-83.986916,
+    "iso:country":"US",
+    "sg:address":"5104 Lyons View Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 584 3450",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85831819,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IPiYxbPNrzjLdpTyhLvKs_35.933400_-83.986916@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600140,
+    "wof:geomhash":"2028e6fd69674ea24fa802f2eac524ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85831819,
+            "region_id":85688701,
+            "venue_id":806676573
+        }
+    ],
+    "wof:id":806676573,
+    "wof:lastmodified":1462600140,
+    "wof:name":"Frank B Gray MD",
+    "wof:parent_id":85831819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.986916,
+    35.9334,
+    -83.986916,
+    35.9334
+],
+  "geometry": {"coordinates":[-83.98691599999999,35.9334],"type":"Point"}
+}

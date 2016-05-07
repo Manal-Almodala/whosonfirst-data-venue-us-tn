@@ -1,0 +1,73 @@
+{
+  "id": 789607065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.294,36.212845,-83.294,36.212845",
+    "geom:latitude":36.212845,
+    "geom:longitude":-83.294,
+    "iso:country":"US",
+    "sg:address":"225 W Main St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 5111",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HCZs8rPz133C04ltNYBk8_36.212845_-83.294000@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589118,
+    "wof:geomhash":"bca9aa451f6f03df84a23ff30f113eca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789607065
+        }
+    ],
+    "wof:id":789607065,
+    "wof:lastmodified":1462589118,
+    "wof:name":"Morristown Women's Ctr",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.294,
+    36.212845,
+    -83.294,
+    36.212845
+],
+  "geometry": {"coordinates":[-83.294,36.212845],"type":"Point"}
+}

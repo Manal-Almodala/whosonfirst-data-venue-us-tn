@@ -1,0 +1,72 @@
+{
+  "id": 823250257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.486566,35.725139,-83.486566,35.725139",
+    "geom:latitude":35.725139,
+    "geom:longitude":-83.486566,
+    "iso:country":"US",
+    "sg:address":"370 Newman Rd",
+    "sg:city":"Gatlinburg",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/gatlinburg/210349-greenbrier-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 436 6318",
+    "sg:postcode":"37738",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722585,
+        102086245,
+        85821619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DaSpUNza5YZVWD1QtUFul_35.725139_-83.486566@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609341,
+    "wof:geomhash":"a6405adad93ec98cc583ea326faac59a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722585,
+            "neighbourhood_id":85821619,
+            "region_id":85688701,
+            "venue_id":823250257
+        }
+    ],
+    "wof:id":823250257,
+    "wof:lastmodified":1462609341,
+    "wof:name":"Greenbrier Restaurant",
+    "wof:parent_id":85821619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.486566,
+    35.725139,
+    -83.486566,
+    35.725139
+],
+  "geometry": {"coordinates":[-83.486566,35.725139],"type":"Point"}
+}

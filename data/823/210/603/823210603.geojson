@@ -1,0 +1,71 @@
+{
+  "id": 823210603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.646811,36.478865,-86.646811,36.478865",
+    "geom:latitude":36.478865,
+    "geom:longitude":-86.646811,
+    "iso:country":"US",
+    "sg:address":"3229 Hwy 31 W",
+    "sg:city":"White House",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 672 2889",
+    "sg:postcode":"37188",
+    "sg:province":"TN",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723169,
+        102086357,
+        85825691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QXJAInH1cqn7sliwp4lIO_36.478865_-86.646811@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608544,
+    "wof:geomhash":"c301fa24b0870b2e53ddbd0261480cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85825691,
+            "region_id":85688701,
+            "venue_id":823210603
+        }
+    ],
+    "wof:id":823210603,
+    "wof:lastmodified":1462608544,
+    "wof:name":"White House State Court",
+    "wof:parent_id":85825691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -86.646811,
+    36.478865,
+    -86.646811,
+    36.478865
+],
+  "geometry": {"coordinates":[-86.646811,36.478865],"type":"Point"}
+}

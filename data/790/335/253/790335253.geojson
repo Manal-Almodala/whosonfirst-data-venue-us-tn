@@ -1,0 +1,71 @@
+{
+  "id": 790335253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.365887,36.514544,-87.365887,36.514544",
+    "geom:latitude":36.514544,
+    "geom:longitude":-87.365887,
+    "iso:country":"US",
+    "sg:address":"993 S Riverside Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 647 7158",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wDjCJPHOcfxqefo7thDXj_36.514544_-87.365887@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595028,
+    "wof:geomhash":"6dc980a38a44f1b5cf492612986bdbf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":790335253
+        }
+    ],
+    "wof:id":790335253,
+    "wof:lastmodified":1462595028,
+    "wof:name":"Kent Glass",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -87.365887,
+    36.514544,
+    -87.365887,
+    36.514544
+],
+  "geometry": {"coordinates":[-87.365887,36.514544],"type":"Point"}
+}

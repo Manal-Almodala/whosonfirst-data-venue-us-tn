@@ -1,0 +1,88 @@
+{
+  "id": 823264517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.754435,36.17579,-86.754435,36.17579",
+    "geom:latitude":36.17579,
+    "geom:longitude":-86.754435,
+    "iso:country":"US",
+    "sg:address":"936 Woodland St",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 228 6880",
+    "sg:postcode":"37206",
+    "sg:province":"TN",
+    "sg:tags":[
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85816591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PibplV1v4lZKh7rWWlmTc_36.175790_-86.754435@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609698,
+    "wof:geomhash":"9c2ba4f3aebf046158edc6cab0386f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85816591,
+            "region_id":85688701,
+            "venue_id":823264517
+        }
+    ],
+    "wof:id":823264517,
+    "wof:lastmodified":1462609698,
+    "wof:name":"Altra Salon",
+    "wof:parent_id":85816591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "perfume"
+    ]
+},
+  "bbox": [
+    -86.754435,
+    36.17579,
+    -86.754435,
+    36.17579
+],
+  "geometry": {"coordinates":[-86.754435,36.17579],"type":"Point"}
+}

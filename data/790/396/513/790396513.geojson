@@ -1,0 +1,75 @@
+{
+  "id": 790396513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.964106,35.151174,-89.964106,35.151174",
+    "geom:latitude":35.151174,
+    "geom:longitude":-89.964106,
+    "iso:country":"US",
+    "sg:address":"658 Carpenter St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 324 9700",
+    "sg:postcode":"38112",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repair",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85806143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H7Mx0JIpKim9tGpai1ed4_35.151174_-89.964106@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595510,
+    "wof:geomhash":"5d3b6de5e1dea331ff9a8d22898226af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85806143,
+            "region_id":85688701,
+            "venue_id":790396513
+        }
+    ],
+    "wof:id":790396513,
+    "wof:lastmodified":1462595510,
+    "wof:name":"Allstar Rent A Car",
+    "wof:parent_id":85806143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "parking"
+    ]
+},
+  "bbox": [
+    -89.964106,
+    35.151174,
+    -89.964106,
+    35.151174
+],
+  "geometry": {"coordinates":[-89.964106,35.151174],"type":"Point"}
+}

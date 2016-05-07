@@ -1,0 +1,73 @@
+{
+  "id": 790221005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.891246,36.042276,-86.891246,36.042276",
+    "geom:latitude":36.042276,
+    "geom:longitude":-86.891246,
+    "iso:country":"US",
+    "sg:address":"1048 Stonebridge Park Dr",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 507 0587",
+    "sg:postcode":"37069",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85827075,
+        102086337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75J4W0NMD15o0fG1zmSxV2_36.042276_-86.891246@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594109,
+    "wof:geomhash":"e7abab5afdc5a21e6ddb40cf0e00e536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "neighbourhood_id":85827075,
+            "region_id":85688701,
+            "venue_id":790221005
+        }
+    ],
+    "wof:id":790221005,
+    "wof:lastmodified":1462594109,
+    "wof:name":"Power Source Delivery",
+    "wof:parent_id":85827075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.891246,
+    36.042276,
+    -86.891246,
+    36.042276
+],
+  "geometry": {"coordinates":[-86.891246,36.042276],"type":"Point"}
+}

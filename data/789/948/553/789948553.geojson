@@ -1,0 +1,86 @@
+{
+  "id": 789948553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.405355,35.860019,-86.405355,35.860019",
+    "geom:latitude":35.860019,
+    "geom:longitude":-86.405355,
+    "iso:country":"US",
+    "sg:address":"1128 Hamilton Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 8975",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "air",
+        "heating",
+        "contractor",
+        "system",
+        "conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85835585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03sFw9kXVhkdPwYIYMr2al_35.860019_-86.405355@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591895,
+    "wof:geomhash":"e85bc838bf4b11a92261172dae780072",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85835585,
+            "region_id":85688701,
+            "venue_id":789948553
+        }
+    ],
+    "wof:id":789948553,
+    "wof:lastmodified":1462591895,
+    "wof:name":"Fields Heating & Air Cond",
+    "wof:parent_id":85835585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "contractor",
+        "system",
+        "conditioning"
+    ]
+},
+  "bbox": [
+    -86.405355,
+    35.860019,
+    -86.405355,
+    35.860019
+],
+  "geometry": {"coordinates":[-86.405355,35.860019],"type":"Point"}
+}

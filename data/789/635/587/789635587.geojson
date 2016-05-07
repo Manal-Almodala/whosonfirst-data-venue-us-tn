@@ -1,0 +1,69 @@
+{
+  "id": 789635587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.97261,35.409669,-85.97261,35.409669",
+    "geom:latitude":35.409669,
+    "geom:longitude":-85.97261,
+    "iso:country":"US",
+    "sg:address":"193 Winchester Hwy",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 596 3350",
+    "sg:postcode":"37342",
+    "sg:province":"TN",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zYeEmcLB3VH5QGbFABF3A_35.409669_-85.972610@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589341,
+    "wof:geomhash":"6551d49e65d2ebbfbb27cf7d19f77070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":789635587
+        }
+    ],
+    "wof:id":789635587,
+    "wof:lastmodified":1462589341,
+    "wof:name":"Hillsboro Vol Fire Dept",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -85.97261,
+    35.409669,
+    -85.97261,
+    35.409669
+],
+  "geometry": {"coordinates":[-85.97261,35.409669],"type":"Point"}
+}

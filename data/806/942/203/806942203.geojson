@@ -1,0 +1,73 @@
+{
+  "id": 806942203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.380912,35.847992,-86.380912,35.847992",
+    "geom:latitude":35.847992,
+    "geom:longitude":-86.380912,
+    "iso:country":"US",
+    "sg:address":"606 E Burton St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 898 7790",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85835585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b6G2GGV3ekW9iOmEGGhfb_35.847992_-86.380912@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602378,
+    "wof:geomhash":"4f8be1b295c729ce0921a3ee0888a04b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85835585,
+            "region_id":85688701,
+            "venue_id":806942203
+        }
+    ],
+    "wof:id":806942203,
+    "wof:lastmodified":1462602378,
+    "wof:name":"Ambulance Service",
+    "wof:parent_id":85835585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -86.380912,
+    35.847992,
+    -86.380912,
+    35.847992
+],
+  "geometry": {"coordinates":[-86.380912,35.847992],"type":"Point"}
+}

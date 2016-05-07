@@ -1,0 +1,74 @@
+{
+  "id": 823257253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.475377,36.153182,-85.475377,36.153182",
+    "geom:latitude":36.153182,
+    "geom:longitude":-85.475377,
+    "iso:country":"US",
+    "sg:address":"1310 E Spring St",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/cookeville/215012-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 526 2276",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4udhqY0NpnwbeM6OUOt5vy_36.153182_-85.475377@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609481,
+    "wof:geomhash":"6bf2cfde3ec2a12004c605fa1b32dfd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":823257253
+        }
+    ],
+    "wof:id":823257253,
+    "wof:lastmodified":1462609481,
+    "wof:name":"Burger King",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.475377,
+    36.153182,
+    -85.475377,
+    36.153182
+],
+  "geometry": {"coordinates":[-85.47537699999999,36.153182],"type":"Point"}
+}

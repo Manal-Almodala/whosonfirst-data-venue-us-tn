@@ -1,0 +1,73 @@
+{
+  "id": 773164913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.246602,35.224154,-88.246602,35.224154",
+    "geom:latitude":35.224154,
+    "geom:longitude":-88.246602,
+    "iso:country":"US",
+    "sg:address":"145 Pickwick St S",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 9277",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4y9nxUsf8epexWuD7PC00U_35.224154_-88.246602@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583628,
+    "wof:geomhash":"bd90172f185953e90038166aaba9d564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":773164913
+        }
+    ],
+    "wof:id":773164913,
+    "wof:lastmodified":1462583628,
+    "wof:name":"James H Thomas MD",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.246602,
+    35.224154,
+    -88.246602,
+    35.224154
+],
+  "geometry": {"coordinates":[-88.246602,35.224154],"type":"Point"}
+}

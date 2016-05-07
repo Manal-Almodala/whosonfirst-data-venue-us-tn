@@ -1,0 +1,71 @@
+{
+  "id": 789798503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.734786,35.574579,-88.734786,35.574579",
+    "geom:latitude":35.574579,
+    "geom:longitude":-88.734786,
+    "iso:country":"US",
+    "sg:address":"217 Lohrig Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 427 4320",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dlgFnhf1JOAlwvrau7Bri_35.574579_-88.734786@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590630,
+    "wof:geomhash":"18f21b53bb220685ec311709f4214851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":789798503
+        }
+    ],
+    "wof:id":789798503,
+    "wof:lastmodified":1462590630,
+    "wof:name":"O S Neely Septic Tank Svc",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -88.734786,
+    35.574579,
+    -88.734786,
+    35.574579
+],
+  "geometry": {"coordinates":[-88.734786,35.574579],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807033031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.287602,36.206527,-83.287602,36.206527",
+    "geom:latitude":36.206527,
+    "geom:longitude":-83.287602,
+    "iso:country":"US",
+    "sg:address":"803 S Cumberland St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 5572",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6daJHZSjVOJenmgj11UyjD_36.206527_-83.287602@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603147,
+    "wof:geomhash":"49c3b9a081a8755400223ab2a22877c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807033031
+        }
+    ],
+    "wof:id":807033031,
+    "wof:lastmodified":1462603147,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -83.287602,
+    36.206527,
+    -83.287602,
+    36.206527
+],
+  "geometry": {"coordinates":[-83.28760200000001,36.206527],"type":"Point"}
+}

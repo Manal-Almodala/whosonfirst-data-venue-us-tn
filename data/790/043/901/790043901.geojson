@@ -1,0 +1,71 @@
+{
+  "id": 790043901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.30548,36.296207,-82.30548,36.296207",
+    "geom:latitude":36.296207,
+    "geom:longitude":-82.30548,
+    "iso:country":"US",
+    "sg:address":"123 Milligan Ave",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 833 4341",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723215,
+        102087053,
+        85851527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pzAFt1FaBwVdmH5b81PyE_36.296207_-82.305480@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592671,
+    "wof:geomhash":"7e151b8621b39ab1d25f70ccdb78e77d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101723215,
+            "neighbourhood_id":85851527,
+            "region_id":85688701,
+            "venue_id":790043901
+        }
+    ],
+    "wof:id":790043901,
+    "wof:lastmodified":1462592671,
+    "wof:name":"S & W Painting Svc",
+    "wof:parent_id":85851527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -82.30548,
+    36.296207,
+    -82.30548,
+    36.296207
+],
+  "geometry": {"coordinates":[-82.30548,36.296207],"type":"Point"}
+}

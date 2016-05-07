@@ -1,0 +1,71 @@
+{
+  "id": 773825267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.919043,35.211208,-89.919043,35.211208",
+    "geom:latitude":35.211208,
+    "geom:longitude":-89.919043,
+    "iso:country":"US",
+    "sg:address":"3144 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 386 2032",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qPdWNwlQz0eWV2VXV46Qx_35.211208_-89.919043@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588682,
+    "wof:geomhash":"838f664be33d8ed4d29f22de9c761457",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":773825267
+        }
+    ],
+    "wof:id":773825267,
+    "wof:lastmodified":1462588682,
+    "wof:name":"Value Brakes",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.919043,
+    35.211208,
+    -89.919043,
+    35.211208
+],
+  "geometry": {"coordinates":[-89.919043,35.211208],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790030037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.216519,36.349432,-82.216519,36.349432",
+    "geom:latitude":36.349432,
+    "geom:longitude":-82.216519,
+    "iso:country":"US",
+    "sg:address":"208 N Pine St",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 542 2171",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85816779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EHEZsQD4ddwHwxkbFPYJ3_36.349432_-82.216519@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592574,
+    "wof:geomhash":"f5ed638a80414edc0b66f6a3682d30da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85816779,
+            "region_id":85688701,
+            "venue_id":790030037
+        }
+    ],
+    "wof:id":790030037,
+    "wof:lastmodified":1462592574,
+    "wof:name":"Graham Cabs",
+    "wof:parent_id":85816779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -82.216519,
+    36.349432,
+    -82.216519,
+    36.349432
+],
+  "geometry": {"coordinates":[-82.21651900000001,36.349432],"type":"Point"}
+}

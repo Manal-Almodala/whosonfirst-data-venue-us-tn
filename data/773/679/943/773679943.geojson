@@ -1,0 +1,73 @@
+{
+  "id": 773679943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.555945,35.911081,-86.555945,35.911081",
+    "geom:latitude":35.911081,
+    "geom:longitude":-86.555945,
+    "iso:country":"US",
+    "sg:address":"172 Inez Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 459 0003",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CwB72TzkmDiKQQagbH4je_35.911081_-86.555945@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587539,
+    "wof:geomhash":"dd9073011d66284213f10a2a717b7c8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":773679943
+        }
+    ],
+    "wof:id":773679943,
+    "wof:lastmodified":1462587539,
+    "wof:name":"Gs Express",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.555945,
+    35.911081,
+    -86.555945,
+    35.911081
+],
+  "geometry": {"coordinates":[-86.55594499999999,35.911081],"type":"Point"}
+}

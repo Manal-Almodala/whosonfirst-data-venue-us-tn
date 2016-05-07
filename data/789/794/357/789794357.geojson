@@ -1,0 +1,73 @@
+{
+  "id": 789794357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.79686,35.448362,-89.79686,35.448362",
+    "geom:latitude":35.448362,
+    "geom:longitude":-89.79686,
+    "iso:country":"US",
+    "sg:address":"110 Doctors Dr",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 243 3860",
+    "sg:postcode":"38058",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cI0B0o4Xr8QEZ49VQu9wD_35.448362_-89.796860@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590600,
+    "wof:geomhash":"028af4eae11191f225b327b9b2127643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789794357
+        }
+    ],
+    "wof:id":789794357,
+    "wof:lastmodified":1462590600,
+    "wof:name":"J Lee Copeland MD",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.79686,
+    35.448362,
+    -89.79686,
+    35.448362
+],
+  "geometry": {"coordinates":[-89.79686,35.448362],"type":"Point"}
+}

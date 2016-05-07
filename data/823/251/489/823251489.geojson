@@ -1,0 +1,84 @@
+{
+  "id": 823251489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.574625,35.829314,-83.574625,35.829314",
+    "geom:latitude":35.829314,
+    "geom:longitude":-83.574625,
+    "iso:country":"US",
+    "sg:address":"1802 Parkway",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/sevierville/95121-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 429 3925",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4E7DOsSRZM9QpMj1BHFMlU_35.829314_-83.574625@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609362,
+    "wof:geomhash":"95aee724a1509d3a211dcac7e0fe86d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":823251489
+        }
+    ],
+    "wof:id":823251489,
+    "wof:lastmodified":1462609362,
+    "wof:name":"IHOP",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -83.574625,
+    35.829314,
+    -83.574625,
+    35.829314
+],
+  "geometry": {"coordinates":[-83.574625,35.829314],"type":"Point"}
+}

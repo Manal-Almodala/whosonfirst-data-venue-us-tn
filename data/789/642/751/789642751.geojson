@@ -1,0 +1,71 @@
+{
+  "id": 789642751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.441968,36.38947,-86.441968,36.38947",
+    "geom:latitude":36.38947,
+    "geom:longitude":-86.441968,
+    "iso:country":"US",
+    "sg:address":"316 E Main St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 4006",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sc1QkWe4p0SxkrsFeu5Mp_36.389470_-86.441968@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589394,
+    "wof:geomhash":"5d462ff9c04ff9db0caf4625458027bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":789642751
+        }
+    ],
+    "wof:id":789642751,
+    "wof:lastmodified":1462589394,
+    "wof:name":"Loden James C MD",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.441968,
+    36.38947,
+    -86.441968,
+    36.38947
+],
+  "geometry": {"coordinates":[-86.441968,36.38947],"type":"Point"}
+}

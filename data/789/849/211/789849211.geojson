@@ -1,0 +1,75 @@
+{
+  "id": 789849211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.864402,35.155082,-89.864402,35.155082",
+    "geom:latitude":35.155082,
+    "geom:longitude":-89.864402,
+    "iso:country":"US",
+    "sg:address":"1101 John A Denie Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 372 2269",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vb3AyZ536gXk3mzy4uprT_35.155082_-89.864402@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591021,
+    "wof:geomhash":"22c508a3b6c4e3be9b450c85d0856ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":789849211
+        }
+    ],
+    "wof:id":789849211,
+    "wof:lastmodified":1462591021,
+    "wof:name":"Fci Memphis",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -89.864402,
+    35.155082,
+    -89.864402,
+    35.155082
+],
+  "geometry": {"coordinates":[-89.864402,35.155082],"type":"Point"}
+}

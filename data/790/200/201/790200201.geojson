@@ -1,0 +1,73 @@
+{
+  "id": 790200201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.51626,36.211399,-86.51626,36.211399",
+    "geom:latitude":36.211399,
+    "geom:longitude":-86.51626,
+    "iso:country":"US",
+    "sg:address":"3025 N Mount Juliet Rd",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 355 9330",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_408lIPJ1pXwkTC0h3VH7Zk_36.211399_-86.516260@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593959,
+    "wof:geomhash":"072def3466e05943fc6a46ecfe402192",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":790200201
+        }
+    ],
+    "wof:id":790200201,
+    "wof:lastmodified":1462593959,
+    "wof:name":"All Keyed Up",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.51626,
+    36.211399,
+    -86.51626,
+    36.211399
+],
+  "geometry": {"coordinates":[-86.51626,36.211399],"type":"Point"}
+}

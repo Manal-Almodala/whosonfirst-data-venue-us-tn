@@ -1,0 +1,75 @@
+{
+  "id": 789863289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.033242,35.623464,-87.033242,35.623464",
+    "geom:latitude":35.623464,
+    "geom:longitude":-87.033242,
+    "iso:country":"US",
+    "sg:address":"105 Nashville Hwy",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 490 0600",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65LXZBaXBhvU6h8V5MP8FS_35.623464_-87.033242@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591132,
+    "wof:geomhash":"4132f080cd3d84ffc000329230e729f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":789863289
+        }
+    ],
+    "wof:id":789863289,
+    "wof:lastmodified":1462591132,
+    "wof:name":"Columbia Car Wash & Lube",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -87.033242,
+    35.623464,
+    -87.033242,
+    35.623464
+],
+  "geometry": {"coordinates":[-87.033242,35.623464],"type":"Point"}
+}

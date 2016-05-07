@@ -1,0 +1,73 @@
+{
+  "id": 823236671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.921562,35.204811,-89.921562,35.204811",
+    "geom:latitude":35.204811,
+    "geom:longitude":-89.921562,
+    "iso:country":"US",
+    "sg:address":"2906 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 382 2936",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GVL0sr7drzrHWdRlbIRlM_35.205065_-89.921473@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609079,
+    "wof:geomhash":"2c74da23a3fe2b0d347784702e434048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823236671
+        }
+    ],
+    "wof:id":823236671,
+    "wof:lastmodified":1462609079,
+    "wof:name":"Automotive Solutions",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.921562,
+    35.204811,
+    -89.921562,
+    35.204811
+],
+  "geometry": {"coordinates":[-89.92156199999999,35.204811],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773033183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.153184,35.899669,-83.153184,35.899669",
+    "geom:latitude":35.899669,
+    "geom:longitude":-83.153184,
+    "iso:country":"US",
+    "sg:address":"1329 Shady Rest Dr",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 6200",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q6LjAmV6tIlx9A8jylTLv_35.899669_-83.153184@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462582607,
+    "wof:geomhash":"3686f3fec95bdb642a53116801d04a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":773033183
+        }
+    ],
+    "wof:id":773033183,
+    "wof:lastmodified":1462582607,
+    "wof:name":"D&L Dental Lab",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.153184,
+    35.899669,
+    -83.153184,
+    35.899669
+],
+  "geometry": {"coordinates":[-83.153184,35.899669],"type":"Point"}
+}

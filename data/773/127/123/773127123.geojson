@@ -1,0 +1,71 @@
+{
+  "id": 773127123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.590749,36.491195,-83.590749,36.491195",
+    "geom:latitude":36.491195,
+    "geom:longitude":-83.590749,
+    "iso:country":"US",
+    "sg:address":"3220 US Hwy 25E",
+    "sg:city":"Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 8299",
+    "sg:postcode":"37879",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4P5Vkh8mGlNq9o3a0ZqKLb_36.491195_-83.590749@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583342,
+    "wof:geomhash":"c55c0a07b51cea0acb1828ca5517d9a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":773127123
+        }
+    ],
+    "wof:id":773127123,
+    "wof:lastmodified":1462583342,
+    "wof:name":"New Tazewell Volunteer Fire",
+    "wof:parent_id":85810917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.590749,
+    36.491195,
+    -83.590749,
+    36.491195
+],
+  "geometry": {"coordinates":[-83.590749,36.491195],"type":"Point"}
+}

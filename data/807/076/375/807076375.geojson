@@ -1,0 +1,71 @@
+{
+  "id": 807076375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.646143,35.304573,-84.646143,35.304573",
+    "geom:latitude":35.304573,
+    "geom:longitude":-84.646143,
+    "iso:country":"US",
+    "sg:address":"1710 Co Rd 750",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 336 5166",
+    "sg:postcode":"37370",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722741,
+        102086293,
+        85837601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QgcCG3ssPwajJaxHuLOGk_35.304573_-84.646143@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603505,
+    "wof:geomhash":"53bc746e34d5fac97f618d3182c03a35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722741,
+            "neighbourhood_id":85837601,
+            "region_id":85688701,
+            "venue_id":807076375
+        }
+    ],
+    "wof:id":807076375,
+    "wof:lastmodified":1462603505,
+    "wof:name":"Claxton Community Volunteer",
+    "wof:parent_id":85837601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.646143,
+    35.304573,
+    -84.646143,
+    35.304573
+],
+  "geometry": {"coordinates":[-84.646143,35.304573],"type":"Point"}
+}

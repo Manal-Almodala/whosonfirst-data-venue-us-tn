@@ -1,0 +1,73 @@
+{
+  "id": 806617529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.650512,35.535981,-89.650512,35.535981",
+    "geom:latitude":35.535981,
+    "geom:longitude":-89.650512,
+    "iso:country":"US",
+    "sg:address":"4905 Mueller Brass Rd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 2500",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UhYUjBfMgdBFekF0Mlo9Z_35.535981_-89.650512@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599633,
+    "wof:geomhash":"0cf9955e343ce7e8b2261ce6ae7f2d31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806617529
+        }
+    ],
+    "wof:id":806617529,
+    "wof:lastmodified":1462599633,
+    "wof:name":"District Public Defender",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -89.650512,
+    35.535981,
+    -89.650512,
+    35.535981
+],
+  "geometry": {"coordinates":[-89.65051200000001,35.535981],"type":"Point"}
+}

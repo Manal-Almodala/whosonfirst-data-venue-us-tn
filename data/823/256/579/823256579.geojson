@@ -1,0 +1,75 @@
+{
+  "id": 823256579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.852476,35.656023,-88.852476,35.656023",
+    "geom:latitude":35.656023,
+    "geom:longitude":-88.852476,
+    "iso:country":"US",
+    "sg:address":"2196 Highway 45 Byp",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/jackson/201811-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"38305",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722769,
+        102087221,
+        85821577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28ims9tVV0aM6bqHzfLEMQ_35.656023_-88.852476@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609469,
+    "wof:geomhash":"821a20edf2d852d30d84651ba4d430ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85821577,
+            "region_id":85688701,
+            "venue_id":823256579
+        }
+    ],
+    "wof:id":823256579,
+    "wof:lastmodified":1462609469,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -88.852476,
+    35.656023,
+    -88.852476,
+    35.656023
+],
+  "geometry": {"coordinates":[-88.852476,35.656023],"type":"Point"}
+}

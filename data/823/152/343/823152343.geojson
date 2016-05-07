@@ -1,0 +1,73 @@
+{
+  "id": 823152343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.874961,35.907408,-86.874961,35.907408",
+    "geom:latitude":35.907408,
+    "geom:longitude":-86.874961,
+    "iso:country":"US",
+    "sg:address":"1556 Columbia Ave",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 790 5596",
+    "sg:postcode":"37064",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grading",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723093,
+        102086337,
+        85845729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xWRXF1bLlLVyXU66sJBgh_35.907408_-86.874961@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607695,
+    "wof:geomhash":"63013380006d055c64989ae88885b950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85845729,
+            "region_id":85688701,
+            "venue_id":823152343
+        }
+    ],
+    "wof:id":823152343,
+    "wof:lastmodified":1462607695,
+    "wof:name":"Highway Dept",
+    "wof:parent_id":85845729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grading",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.874961,
+    35.907408,
+    -86.874961,
+    35.907408
+],
+  "geometry": {"coordinates":[-86.874961,35.907408],"type":"Point"}
+}

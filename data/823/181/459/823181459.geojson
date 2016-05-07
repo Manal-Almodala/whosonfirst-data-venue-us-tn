@@ -1,0 +1,71 @@
+{
+  "id": 823181459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.352314,36.522596,-87.352314,36.522596",
+    "geom:latitude":36.522596,
+    "geom:longitude":-87.352314,
+    "iso:country":"US",
+    "sg:address":"512 Washington Ct",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 552 6167",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W4qRRxNHd6VxEA2sIlW4I_36.522596_-87.352314@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608080,
+    "wof:geomhash":"4b837cfbe7f2b38d029bedaa70af4460",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":823181459
+        }
+    ],
+    "wof:id":823181459,
+    "wof:lastmodified":1462608080,
+    "wof:name":"ACT Brokerage",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.352314,
+    36.522596,
+    -87.352314,
+    36.522596
+],
+  "geometry": {"coordinates":[-87.35231400000001,36.522596],"type":"Point"}
+}

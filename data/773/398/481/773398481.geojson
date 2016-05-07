@@ -1,0 +1,80 @@
+{
+  "id": 773398481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.569721,35.059076,-86.569721,35.059076",
+    "geom:latitude":35.059076,
+    "geom:longitude":-86.569721,
+    "iso:country":"US",
+    "sg:address":"37 Airport Rd",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 433 1960",
+    "sg:postcode":"37334",
+    "sg:province":"TN",
+    "sg:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WaGyA1LbJktMoXfUTp3zt_35.059076_-86.569721@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585388,
+    "wof:geomhash":"67a900c245e239285b8ddb1a3557cc52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":773398481
+        }
+    ],
+    "wof:id":773398481,
+    "wof:lastmodified":1462585388,
+    "wof:name":"Fayetteville Aviation Inc",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "leasing",
+        "charter"
+    ]
+},
+  "bbox": [
+    -86.569721,
+    35.059076,
+    -86.569721,
+    35.059076
+],
+  "geometry": {"coordinates":[-86.569721,35.059076],"type":"Point"}
+}

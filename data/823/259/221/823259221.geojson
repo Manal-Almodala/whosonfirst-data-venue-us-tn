@@ -1,0 +1,74 @@
+{
+  "id": 823259221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.428511,36.374882,-82.428511,36.374882",
+    "geom:latitude":36.374882,
+    "geom:longitude":-82.428511,
+    "iso:country":"US",
+    "sg:address":"2695 Boones Creek Rd",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/johnson-city/140089-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 282 6118",
+    "sg:postcode":"37615",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85806709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lMwK7t3Gqa3i46z4EV4YE_36.374282_-82.427752@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609536,
+    "wof:geomhash":"d121cabe70d4596a16118f25e0b677f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85806709,
+            "region_id":85688701,
+            "venue_id":823259221
+        }
+    ],
+    "wof:id":823259221,
+    "wof:lastmodified":1462609536,
+    "wof:name":"Subway",
+    "wof:parent_id":85806709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -82.428511,
+    36.374882,
+    -82.428511,
+    36.374882
+],
+  "geometry": {"coordinates":[-82.428511,36.374882],"type":"Point"}
+}

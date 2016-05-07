@@ -1,0 +1,73 @@
+{
+  "id": 807050283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.021307,36.230672,-87.021307,36.230672",
+    "geom:latitude":36.230672,
+    "geom:longitude":-87.021307,
+    "iso:country":"US",
+    "sg:address":"1025 Thompson Rd",
+    "sg:city":"Ashland City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 792 9879",
+    "sg:postcode":"37015",
+    "sg:province":"TN",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722445,
+        102086233,
+        85822629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OfNwAx4DacUBlwObKMfDG_36.230672_-87.021307@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603290,
+    "wof:geomhash":"05e303b33100d93d8a58734da6db7894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086233,
+            "locality_id":101722445,
+            "neighbourhood_id":85822629,
+            "region_id":85688701,
+            "venue_id":807050283
+        }
+    ],
+    "wof:id":807050283,
+    "wof:lastmodified":1462603290,
+    "wof:name":"Clark's Plumbing",
+    "wof:parent_id":85822629,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.021307,
+    36.230672,
+    -87.021307,
+    36.230672
+],
+  "geometry": {"coordinates":[-87.02130699999999,36.230672],"type":"Point"}
+}

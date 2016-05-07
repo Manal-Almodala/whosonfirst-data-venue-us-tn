@@ -1,0 +1,81 @@
+{
+  "id": 823260705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.95319,35.165095,-89.95319,35.165095",
+    "geom:latitude":35.165095,
+    "geom:longitude":-89.95319,
+    "iso:country":"US",
+    "sg:address":"3224 Jackson Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/201788-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 327 7071",
+    "sg:postcode":"38122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7f9bqxntbCrAnKnDzVaJJY_35.164984_-89.952525@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609564,
+    "wof:geomhash":"7381eb94e70ac20d10663b465cf6bb85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870771,
+            "region_id":85688701,
+            "venue_id":823260705
+        }
+    ],
+    "wof:id":823260705,
+    "wof:lastmodified":1462609564,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85870771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.95319,
+    35.165095,
+    -89.95319,
+    35.165095
+],
+  "geometry": {"coordinates":[-89.95319000000001,35.165095],"type":"Point"}
+}

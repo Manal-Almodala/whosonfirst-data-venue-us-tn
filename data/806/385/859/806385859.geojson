@@ -1,0 +1,71 @@
+{
+  "id": 806385859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.305271,35.83148,-86.305271,35.83148",
+    "geom:latitude":35.83148,
+    "geom:longitude":-86.305271,
+    "iso:country":"US",
+    "sg:address":"4524 Woodbury Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 4858",
+    "sg:postcode":"37127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gGnSrIF8MBBzjugC9SjUl_35.831480_-86.305271@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597724,
+    "wof:geomhash":"0ec5210a2b165c6541b1b4c49b0512ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":806385859
+        }
+    ],
+    "wof:id":806385859,
+    "wof:lastmodified":1462597724,
+    "wof:name":"Taylor's Grocery",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.305271,
+    35.83148,
+    -86.305271,
+    35.83148
+],
+  "geometry": {"coordinates":[-86.305271,35.83148],"type":"Point"}
+}

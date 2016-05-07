@@ -1,0 +1,73 @@
+{
+  "id": 789886457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.802268,35.095406,-89.802268,35.095406",
+    "geom:latitude":35.095406,
+    "geom:longitude":-89.802268,
+    "iso:country":"US",
+    "sg:address":"1975 Exeter Rd",
+    "sg:city":"Germantown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 754 4870",
+    "sg:postcode":"38138",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722649,
+        102087213,
+        85823035
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5W6VLTOAXLTFPgYQwRdg8o_35.095406_-89.802268@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591342,
+    "wof:geomhash":"eb4c9dc147cd067faf877d6b945a4ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722649,
+            "neighbourhood_id":85823035,
+            "region_id":85688701,
+            "venue_id":789886457
+        }
+    ],
+    "wof:id":789886457,
+    "wof:lastmodified":1462591342,
+    "wof:name":"Germantown Farmington Animal",
+    "wof:parent_id":85823035,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.802268,
+    35.095406,
+    -89.802268,
+    35.095406
+],
+  "geometry": {"coordinates":[-89.802268,35.095406],"type":"Point"}
+}

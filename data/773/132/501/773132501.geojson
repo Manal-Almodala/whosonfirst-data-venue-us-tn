@@ -1,0 +1,81 @@
+{
+  "id": 773132501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.019315,35.590095,-87.019315,35.590095",
+    "geom:latitude":35.590095,
+    "geom:longitude":-87.019315,
+    "iso:country":"US",
+    "sg:address":"2345 Precast Dr",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 381 6136",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757,
+        85812797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DeCP1gRBBLaNFV2vktAet_35.590095_-87.019315@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583375,
+    "wof:geomhash":"bb239a2f2bea5a07e5cd18349f4ce1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":773132501
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "neighbourhood_id":85812797,
+            "region_id":85688701,
+            "venue_id":773132501
+        }
+    ],
+    "wof:id":773132501,
+    "wof:lastmodified":1462583375,
+    "wof:name":"Columbia Roofing & Shtmtl Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.019315,
+    35.590095,
+    -87.019315,
+    35.590095
+],
+  "geometry": {"coordinates":[-87.01931500000001,35.590095],"type":"Point"}
+}

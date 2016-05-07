@@ -1,0 +1,90 @@
+{
+  "id": 823245317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.918556,35.775272,-86.918556,35.775272",
+    "geom:latitude":35.775272,
+    "geom:longitude":-86.918556,
+    "iso:country":"US",
+    "sg:address":"4935 Columbia Pike",
+    "sg:city":"Spring Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/boston/116221-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 591 5747",
+    "sg:postcode":"37174",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723077,
+        102087107,
+        420541943,
+        101723089,
+        102086337,
+        420542331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eOclnKDxib6fKJNBub3KO_35.775272_-86.918556@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609248,
+    "wof:geomhash":"100765e501ddad6a872c537d8295384e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723077,
+            "neighbourhood_id":420541943,
+            "region_id":85688701,
+            "venue_id":823245317
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723089,
+            "neighbourhood_id":420542331,
+            "region_id":85688701,
+            "venue_id":823245317
+        }
+    ],
+    "wof:id":823245317,
+    "wof:lastmodified":1462609248,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.918556,
+    35.775272,
+    -86.918556,
+    35.775272
+],
+  "geometry": {"coordinates":[-86.918556,35.775272],"type":"Point"}
+}

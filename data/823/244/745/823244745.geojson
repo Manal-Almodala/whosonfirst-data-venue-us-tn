@@ -1,0 +1,76 @@
+{
+  "id": 823244745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.386236,35.872496,-86.386236,35.872496",
+    "geom:latitude":35.872496,
+    "geom:longitude":-86.386236,
+    "iso:country":"US",
+    "sg:address":"1851 Memorial Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/154975-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 4870",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85824375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5F0An9SBds0bxh2nFnDuqI_35.872496_-86.386236@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609231,
+    "wof:geomhash":"ef264769d40702b06b074f9241bc3a4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85824375,
+            "region_id":85688701,
+            "venue_id":823244745
+        }
+    ],
+    "wof:id":823244745,
+    "wof:lastmodified":1462609231,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85824375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.386236,
+    35.872496,
+    -86.386236,
+    35.872496
+],
+  "geometry": {"coordinates":[-86.386236,35.872496],"type":"Point"}
+}

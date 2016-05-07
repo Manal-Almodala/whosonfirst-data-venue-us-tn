@@ -1,0 +1,73 @@
+{
+  "id": 806853833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.860617,35.229034,-89.860617,35.229034",
+    "geom:latitude":35.229034,
+    "geom:longitude":-89.860617,
+    "iso:country":"US",
+    "sg:address":"3804 Shallowhill Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 386 1319",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hbSANA4zoYvGbZMuHiBsx_35.229034_-89.860617@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601639,
+    "wof:geomhash":"561a37529da6c3e4cb8f54c40bc71447",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":806853833
+        }
+    ],
+    "wof:id":806853833,
+    "wof:lastmodified":1462601639,
+    "wof:name":"Scotts Windshield Repair",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -89.860617,
+    35.229034,
+    -89.860617,
+    35.229034
+],
+  "geometry": {"coordinates":[-89.860617,35.229034],"type":"Point"}
+}

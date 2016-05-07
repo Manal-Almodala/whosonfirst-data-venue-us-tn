@@ -1,0 +1,71 @@
+{
+  "id": 806564769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.486414,36.288912,-82.486414,36.288912",
+    "geom:latitude":36.288912,
+    "geom:longitude":-82.486414,
+    "iso:country":"US",
+    "sg:address":"1500 Persimmon Ridge Rd",
+    "sg:city":"Jonesborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 753 5661",
+    "sg:postcode":"37659",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722753,
+        102086335,
+        85822827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LXVktNGtK7CW2dtogkqQT_36.288912_-82.486414@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599164,
+    "wof:geomhash":"30d1e78d885a610047b044cc712deb94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722753,
+            "neighbourhood_id":85822827,
+            "region_id":85688701,
+            "venue_id":806564769
+        }
+    ],
+    "wof:id":806564769,
+    "wof:lastmodified":1462599164,
+    "wof:name":"Archer Brothers Garage Wrecker",
+    "wof:parent_id":85822827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.486414,
+    36.288912,
+    -82.486414,
+    36.288912
+],
+  "geometry": {"coordinates":[-82.486414,36.288912],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 823223723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.888847,35.912144,-86.888847,35.912144",
+    "geom:latitude":35.912144,
+    "geom:longitude":-86.888847,
+    "iso:country":"US",
+    "sg:address":"1420 W Main St",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 794 5668",
+    "sg:postcode":"37064",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723093,
+        102086337,
+        85826737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nqjttzVv9JjfKf1anmnU3_35.912144_-86.888847@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608812,
+    "wof:geomhash":"499244f8fd40847c5ca207148349a49b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85826737,
+            "region_id":85688701,
+            "venue_id":823223723
+        }
+    ],
+    "wof:id":823223723,
+    "wof:lastmodified":1462608812,
+    "wof:name":"Canadas Radiator",
+    "wof:parent_id":85826737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -86.888847,
+    35.912144,
+    -86.888847,
+    35.912144
+],
+  "geometry": {"coordinates":[-86.888847,35.912144],"type":"Point"}
+}

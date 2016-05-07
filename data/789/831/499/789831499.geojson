@@ -1,0 +1,75 @@
+{
+  "id": 789831499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.667257,36.119616,-86.667257,36.119616",
+    "geom:latitude":36.119616,
+    "geom:longitude":-86.667257,
+    "iso:country":"US",
+    "sg:address":"969 Airport Svc Rd",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 275 2277",
+    "sg:postcode":"37214",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cargo",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85853015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vmrMeI3FDgeZbOUtpVEKe_36.119616_-86.667257@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590881,
+    "wof:geomhash":"5815da1fe2c298056928cdbc7522f2af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85853015,
+            "region_id":85688701,
+            "venue_id":789831499
+        }
+    ],
+    "wof:id":789831499,
+    "wof:lastmodified":1462590881,
+    "wof:name":"Southwest Airlines Cargo",
+    "wof:parent_id":85853015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "air"
+    ]
+},
+  "bbox": [
+    -86.667257,
+    36.119616,
+    -86.667257,
+    36.119616
+],
+  "geometry": {"coordinates":[-86.66725700000001,36.119616],"type":"Point"}
+}

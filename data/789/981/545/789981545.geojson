@@ -1,0 +1,73 @@
+{
+  "id": 789981545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.505006,36.142906,-85.505006,36.142906",
+    "geom:latitude":36.142906,
+    "geom:longitude":-85.505006,
+    "iso:country":"US",
+    "sg:address":"241 Palkway Dr",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 526 9212",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sMEJKZ7jlXlDgnZusyMNd_36.142906_-85.505006@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592178,
+    "wof:geomhash":"e104d1316c7a7a80c8f113c6516b82d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":789981545
+        }
+    ],
+    "wof:id":789981545,
+    "wof:lastmodified":1462592178,
+    "wof:name":"Greyhound Package Express",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.505006,
+    36.142906,
+    -85.505006,
+    36.142906
+],
+  "geometry": {"coordinates":[-85.50500599999999,36.142906],"type":"Point"}
+}

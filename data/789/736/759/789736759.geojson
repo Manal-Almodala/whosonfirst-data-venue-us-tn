@@ -1,0 +1,77 @@
+{
+  "id": 789736759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.965309,35.977217,-83.965309,35.977217",
+    "geom:latitude":35.977217,
+    "geom:longitude":-83.965309,
+    "iso:country":"US",
+    "sg:address":"2829 Texas Ave",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 524 2964",
+    "sg:postcode":"37921",
+    "sg:province":"TN",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        420541861
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aTKFibW502q5rWfnHYk9S_35.977217_-83.965309@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590150,
+    "wof:geomhash":"cdee1ad9dc81289da4d7431544cf447d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":420541861,
+            "region_id":85688701,
+            "venue_id":789736759
+        }
+    ],
+    "wof:id":789736759,
+    "wof:lastmodified":1462590150,
+    "wof:name":"Service Transport Inc",
+    "wof:parent_id":420541861,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -83.965309,
+    35.977217,
+    -83.965309,
+    35.977217
+],
+  "geometry": {"coordinates":[-83.965309,35.977217],"type":"Point"}
+}

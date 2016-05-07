@@ -1,0 +1,71 @@
+{
+  "id": 789712959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.65332,36.035948,-85.65332,36.035948",
+    "geom:latitude":36.035948,
+    "geom:longitude":-85.65332,
+    "iso:country":"US",
+    "sg:address":"11089 Cookeville Boat Dock Rd",
+    "sg:city":"Baxter",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 4071",
+    "sg:postcode":"38544",
+    "sg:province":"TN",
+    "sg:tags":[
+        "landfill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zfvBFE3f5WwUtQt1tDeZv_36.035948_-85.653320@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589958,
+    "wof:geomhash":"548ebbfbb6e0afa049a98b4359b5f342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":789712959
+        }
+    ],
+    "wof:id":789712959,
+    "wof:lastmodified":1462589958,
+    "wof:name":"Putnam County Landfill",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landfill"
+    ]
+},
+  "bbox": [
+    -85.65332,
+    36.035948,
+    -85.65332,
+    36.035948
+],
+  "geometry": {"coordinates":[-85.65331999999999,36.035948],"type":"Point"}
+}

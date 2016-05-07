@@ -1,0 +1,71 @@
+{
+  "id": 807336759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.562796,35.866719,-83.562796,35.866719",
+    "geom:latitude":35.866719,
+    "geom:longitude":-83.562796,
+    "iso:country":"US",
+    "sg:address":"126 Bruce St",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 3654",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aYEbYLzkBxzJIlsUctx5y_35.866719_-83.562796@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606306,
+    "wof:geomhash":"9d94ad1ee39400d94f937832ea93fb3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":807336759
+        }
+    ],
+    "wof:id":807336759,
+    "wof:lastmodified":1462606306,
+    "wof:name":"Newmans Taxi",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -83.562796,
+    35.866719,
+    -83.562796,
+    35.866719
+],
+  "geometry": {"coordinates":[-83.56279600000001,35.866719],"type":"Point"}
+}

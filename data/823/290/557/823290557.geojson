@@ -1,0 +1,86 @@
+{
+  "id": 823290557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.812181,35.210585,-89.812181,35.210585",
+    "geom:latitude":35.210585,
+    "geom:longitude":-89.812181,
+    "iso:country":"US",
+    "sg:address":"3121 Bartlett Corp Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 381 0079",
+    "sg:postcode":"38133",
+    "sg:province":"TN",
+    "sg:tags":[
+        "supplies-wholesale",
+        "manufacturer",
+        "electronic",
+        "consumer",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722655,
+        102087213,
+        85838691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y7SJxtuRIu6xlWNdAYW20_35.210585_-89.812181@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610721,
+    "wof:geomhash":"f10a4c7448a21d5181627c2c1e3b665c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722655,
+            "neighbourhood_id":85838691,
+            "region_id":85688701,
+            "venue_id":823290557
+        }
+    ],
+    "wof:id":823290557,
+    "wof:lastmodified":1462610721,
+    "wof:name":"Melco",
+    "wof:parent_id":85838691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supplies-wholesale",
+        "manufacturer",
+        "electronic",
+        "consumer",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -89.812181,
+    35.210585,
+    -89.812181,
+    35.210585
+],
+  "geometry": {"coordinates":[-89.812181,35.210585],"type":"Point"}
+}

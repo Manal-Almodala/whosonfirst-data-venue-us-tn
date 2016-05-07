@@ -1,0 +1,77 @@
+{
+  "id": 806827489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.38176,36.353164,-82.38176,36.353164",
+    "geom:latitude":36.353164,
+    "geom:longitude":-82.38176,
+    "iso:country":"US",
+    "sg:address":"2601 N Roan St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 283 3079",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722757,
+        102086335,
+        420542283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dngx7COwrJ5pIF1OobXlx_36.353164_-82.381760@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601402,
+    "wof:geomhash":"9fc1b6e9850540254fa37381bcf04f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":420542283,
+            "region_id":85688701,
+            "venue_id":806827489
+        }
+    ],
+    "wof:id":806827489,
+    "wof:lastmodified":1462601402,
+    "wof:name":"U-Haul",
+    "wof:parent_id":420542283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.38176,
+    36.353164,
+    -82.38176,
+    36.353164
+],
+  "geometry": {"coordinates":[-82.38176,36.353164],"type":"Point"}
+}

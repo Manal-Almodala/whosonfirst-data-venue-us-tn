@@ -1,0 +1,78 @@
+{
+  "id": 789730603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.652047,36.468191,-86.652047,36.468191",
+    "geom:latitude":36.468191,
+    "geom:longitude":-86.652047,
+    "iso:country":"US",
+    "sg:address":"105 College St",
+    "sg:city":"White House",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 672 0239",
+    "sg:postcode":"37188",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722997,
+        102086357,
+        420541507,
+        420542223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KWHsANcM8TmJTBNUpLyY4_36.468191_-86.652047@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590107,
+    "wof:geomhash":"ee60edd33ada436b28d0195dea144813",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420541507,
+            "region_id":85688701,
+            "venue_id":789730603
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420542223,
+            "region_id":85688701,
+            "venue_id":789730603
+        }
+    ],
+    "wof:id":789730603,
+    "wof:lastmodified":1462590107,
+    "wof:name":"White House City Library",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.652047,
+    36.468191,
+    -86.652047,
+    36.468191
+],
+  "geometry": {"coordinates":[-86.652047,36.468191],"type":"Point"}
+}

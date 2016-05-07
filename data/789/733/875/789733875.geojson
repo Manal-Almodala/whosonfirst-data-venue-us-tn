@@ -1,0 +1,71 @@
+{
+  "id": 789733875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.828407,36.171306,-82.828407,36.171306",
+    "geom:latitude":36.171306,
+    "geom:longitude":-82.828407,
+    "iso:country":"US",
+    "sg:address":"510 N Irish St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 639 1676",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EnR7MxRK9Hvnfx87ZCQvu_36.171306_-82.828407@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590131,
+    "wof:geomhash":"221f85998e1ccd3cedd606bc89cac77a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":789733875
+        }
+    ],
+    "wof:id":789733875,
+    "wof:lastmodified":1462590131,
+    "wof:name":"Norton Auto-Tow",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.828407,
+    36.171306,
+    -82.828407,
+    36.171306
+],
+  "geometry": {"coordinates":[-82.828407,36.171306],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790398273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.631945,35.063931,-85.631945,35.063931",
+    "geom:latitude":35.063931,
+    "geom:longitude":-85.631945,
+    "iso:country":"US",
+    "sg:address":"130 Morgan Rd",
+    "sg:city":"Pikeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 447 2283",
+    "sg:postcode":"37347",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cB7wBcxQo1SDZ8yP2YjiP_35.063931_-85.631945@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595522,
+    "wof:geomhash":"c1467b4bf6924016524bfe0ecabe6bdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":790398273
+        }
+    ],
+    "wof:id":790398273,
+    "wof:lastmodified":1462595522,
+    "wof:name":"Morgan Electric",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.631945,
+    35.063931,
+    -85.631945,
+    35.063931
+],
+  "geometry": {"coordinates":[-85.631945,35.063931],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807161983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.9767,36.005808,-83.9767,36.005808",
+    "geom:latitude":36.005808,
+    "geom:longitude":-83.9767,
+    "iso:country":"US",
+    "sg:address":"5300 Clinton Plaza Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 7563",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hsTfTuQxO0RGvxSLNrCu0_36.005808_-83.976700@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604397,
+    "wof:geomhash":"c49c98781a4d0b6abaa086bbd8577c11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":807161983
+        }
+    ],
+    "wof:id":807161983,
+    "wof:lastmodified":1462604397,
+    "wof:name":"Park's Pediatric Clinic",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.9767,
+    36.005808,
+    -83.9767,
+    36.005808
+],
+  "geometry": {"coordinates":[-83.97669999999999,36.005808],"type":"Point"}
+}

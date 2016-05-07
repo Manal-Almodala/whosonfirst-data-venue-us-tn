@@ -1,0 +1,76 @@
+{
+  "id": 823258735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.705927,36.122031,-86.705927,36.122031",
+    "geom:latitude":36.122031,
+    "geom:longitude":-86.705927,
+    "iso:country":"US",
+    "sg:address":"1175 Murfreesboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/98705-longhorn-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 361 0457",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85821799
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N9wK5pNq7cPhkeqkQAlCp_36.122227_-86.705464@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609523,
+    "wof:geomhash":"6a6e0b2fbf55a7068591fb2ac8ee1417",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85821799,
+            "region_id":85688701,
+            "venue_id":823258735
+        }
+    ],
+    "wof:id":823258735,
+    "wof:lastmodified":1462609523,
+    "wof:name":"LongHorn Steakhouse",
+    "wof:parent_id":85821799,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -86.705927,
+    36.122031,
+    -86.705927,
+    36.122031
+],
+  "geometry": {"coordinates":[-86.705927,36.122031],"type":"Point"}
+}

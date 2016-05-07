@@ -1,0 +1,71 @@
+{
+  "id": 773701423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.653046,35.56932,-89.653046,35.56932",
+    "geom:latitude":35.56932,
+    "geom:longitude":-89.653046,
+    "iso:country":"US",
+    "sg:address":"460 Peete St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 2897",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KIf7p343sFml6bPl0WPIl_35.569320_-89.653046@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587735,
+    "wof:geomhash":"ff8333e7a1b023f903125e4d361e3f77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":773701423
+        }
+    ],
+    "wof:id":773701423,
+    "wof:lastmodified":1462587735,
+    "wof:name":"Ride 4 Less",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -89.653046,
+    35.56932,
+    -89.653046,
+    35.56932
+],
+  "geometry": {"coordinates":[-89.653046,35.56932],"type":"Point"}
+}

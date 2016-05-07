@@ -1,0 +1,71 @@
+{
+  "id": 773835045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.892981,35.221105,-89.892981,35.221105",
+    "geom:latitude":35.221105,
+    "geom:longitude":-89.892981,
+    "iso:country":"US",
+    "sg:address":"5125 Yale Rd",
+    "sg:city":"Bartlett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 377 0824",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02egvWYQkVAuY7pLYVL8ym_35.221105_-89.892981@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588764,
+    "wof:geomhash":"5c73a070cf18472b3e5e7c6bc8ddbaca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":773835045
+        }
+    ],
+    "wof:id":773835045,
+    "wof:lastmodified":1462588764,
+    "wof:name":"Bartlett Cleaners",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.892981,
+    35.221105,
+    -89.892981,
+    35.221105
+],
+  "geometry": {"coordinates":[-89.89298100000001,35.221105],"type":"Point"}
+}

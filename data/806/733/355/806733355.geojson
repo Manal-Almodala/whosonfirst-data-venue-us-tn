@@ -1,0 +1,71 @@
+{
+  "id": 806733355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.59513,35.445654,-84.59513,35.445654",
+    "geom:latitude":35.445654,
+    "geom:longitude":-84.59513,
+    "iso:country":"US",
+    "sg:address":"200 N Jackson St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 8364",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26TMxHj2AviDq1vXQstc29_35.445654_-84.595130@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600611,
+    "wof:geomhash":"ec311748bc0e7ef77ee8e9d3ece12ec6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":806733355
+        }
+    ],
+    "wof:id":806733355,
+    "wof:lastmodified":1462600611,
+    "wof:name":"Davidson Dental Center",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -84.59513,
+    35.445654,
+    -84.59513,
+    35.445654
+],
+  "geometry": {"coordinates":[-84.59513,35.445654],"type":"Point"}
+}

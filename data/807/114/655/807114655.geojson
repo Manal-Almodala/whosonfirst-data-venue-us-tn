@@ -1,0 +1,71 @@
+{
+  "id": 807114655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.472112,35.928385,-85.472112,35.928385",
+    "geom:latitude":35.928385,
+    "geom:longitude":-85.472112,
+    "iso:country":"US",
+    "sg:address":"313 Clark St",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 836 2347",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5D0MImIbbPgn0yILzQn2A6_35.928385_-85.472112@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603886,
+    "wof:geomhash":"f98020440d8f61477270dc96d92ae6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":807114655
+        }
+    ],
+    "wof:id":807114655,
+    "wof:lastmodified":1462603886,
+    "wof:name":"White Denny Service Station",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.472112,
+    35.928385,
+    -85.472112,
+    35.928385
+],
+  "geometry": {"coordinates":[-85.472112,35.928385],"type":"Point"}
+}

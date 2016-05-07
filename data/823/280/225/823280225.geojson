@@ -1,0 +1,90 @@
+{
+  "id": 823280225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.989548,35.126011,-89.989548,35.126011",
+    "geom:latitude":35.126011,
+    "geom:longitude":-89.989548,
+    "iso:country":"US",
+    "sg:address":"2169 Central Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Antiques",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 276 3808",
+    "sg:postcode":"38104",
+    "sg:province":"TN",
+    "sg:tags":[
+        "interior",
+        "designer",
+        "decorator",
+        "store"
+    ],
+    "sg:website":"http://www.palladioantiques.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85830283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ieas8985VgqBMIzhSvmK_35.126011_-89.989548@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610319,
+    "wof:geomhash":"8d95fb6669981afd99d03f76f78d4da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85830283,
+            "region_id":85688701,
+            "venue_id":823280225
+        }
+    ],
+    "wof:id":823280225,
+    "wof:lastmodified":1462610319,
+    "wof:name":"Palladio Antiques & Art",
+    "wof:parent_id":85830283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "designer",
+        "decorator",
+        "store"
+    ]
+},
+  "bbox": [
+    -89.989548,
+    35.126011,
+    -89.989548,
+    35.126011
+],
+  "geometry": {"coordinates":[-89.989548,35.126011],"type":"Point"}
+}

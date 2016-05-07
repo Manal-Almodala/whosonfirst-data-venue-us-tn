@@ -1,0 +1,75 @@
+{
+  "id": 789669769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.304571,36.430341,-82.304571,36.430341",
+    "geom:latitude":36.430341,
+    "geom:longitude":-82.304571,
+    "iso:country":"US",
+    "sg:address":"240 Industrial Park Rd",
+    "sg:city":"Piney Flats",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 878 2111",
+    "sg:postcode":"37686",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722907,
+        102086471,
+        85825439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f2KleJ381J945xkPdabmy_36.430341_-82.304571@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589626,
+    "wof:geomhash":"dfea1f754d7d49df0025c6bb7a520e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722907,
+            "neighbourhood_id":85825439,
+            "region_id":85688701,
+            "venue_id":789669769
+        }
+    ],
+    "wof:id":789669769,
+    "wof:lastmodified":1462589626,
+    "wof:name":"Brooks Collision Ctr",
+    "wof:parent_id":85825439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -82.304571,
+    36.430341,
+    -82.304571,
+    36.430341
+],
+  "geometry": {"coordinates":[-82.304571,36.430341],"type":"Point"}
+}

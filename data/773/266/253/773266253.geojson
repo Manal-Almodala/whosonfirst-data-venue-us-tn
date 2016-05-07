@@ -1,0 +1,71 @@
+{
+  "id": 773266253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.448252,36.387911,-86.448252,36.387911",
+    "geom:latitude":36.387911,
+    "geom:longitude":-86.448252,
+    "iso:country":"US",
+    "sg:address":"132 W Main St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 451 5821",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AO1BGvnUiqa9wXKXw994U_36.387911_-86.448252@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584410,
+    "wof:geomhash":"ff4e4cef2583a8889ce1da1449cd813f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773266253
+        }
+    ],
+    "wof:id":773266253,
+    "wof:lastmodified":1462584410,
+    "wof:name":"Tennessee Bureau-Investigation",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.448252,
+    36.387911,
+    -86.448252,
+    36.387911
+],
+  "geometry": {"coordinates":[-86.448252,36.387911],"type":"Point"}
+}

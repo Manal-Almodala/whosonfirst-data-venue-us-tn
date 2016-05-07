@@ -1,0 +1,74 @@
+{
+  "id": 823255701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.909934,35.217082,-89.909934,35.217082",
+    "geom:latitude":35.217082,
+    "geom:longitude":-89.909934,
+    "iso:country":"US",
+    "sg:address":"3344 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/214968-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 388 8750",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NAOutOQRhGxkDTSBBo8JA_35.217082_-89.909934@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609454,
+    "wof:geomhash":"7b1b73ca56bb33f11abc111c67c013ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823255701
+        }
+    ],
+    "wof:id":823255701,
+    "wof:lastmodified":1462609454,
+    "wof:name":"Burger King",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.909934,
+    35.217082,
+    -89.909934,
+    35.217082
+],
+  "geometry": {"coordinates":[-89.90993400000001,35.217082],"type":"Point"}
+}

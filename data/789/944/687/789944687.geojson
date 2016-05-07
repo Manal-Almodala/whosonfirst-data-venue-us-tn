@@ -1,0 +1,71 @@
+{
+  "id": 789944687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.978546,36.062146,-83.978546,36.062146",
+    "geom:latitude":36.062146,
+    "geom:longitude":-83.978546,
+    "iso:country":"US",
+    "sg:address":"1506 E Emory Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 8737",
+    "sg:postcode":"37938",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VyFP1zZt1LEDkTmqaC55P_36.062146_-83.978546@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591833,
+    "wof:geomhash":"fd2e18ac07902a3e24470a846794a18c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":789944687
+        }
+    ],
+    "wof:id":789944687,
+    "wof:lastmodified":1462591833,
+    "wof:name":"Weigel's Farm Store",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.978546,
+    36.062146,
+    -83.978546,
+    36.062146
+],
+  "geometry": {"coordinates":[-83.97854599999999,36.062146],"type":"Point"}
+}

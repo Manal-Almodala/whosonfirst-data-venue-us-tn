@@ -1,0 +1,71 @@
+{
+  "id": 807004155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.854416,35.250126,-89.854416,35.250126",
+    "geom:latitude":35.250126,
+    "geom:longitude":-89.854416,
+    "iso:country":"US",
+    "sg:address":"4559 Dietz Cove",
+    "sg:city":"Bartlett",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 266 4024",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XOZHSIanstQGmkKRL2RtI_35.250126_-89.854416@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602892,
+    "wof:geomhash":"122a376a7a39d0fbab23ce4aaedee54f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":807004155
+        }
+    ],
+    "wof:id":807004155,
+    "wof:lastmodified":1462602892,
+    "wof:name":"Techmen Transportation Repair",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.854416,
+    35.250126,
+    -89.854416,
+    35.250126
+],
+  "geometry": {"coordinates":[-89.854416,35.250126],"type":"Point"}
+}

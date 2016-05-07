@@ -1,0 +1,77 @@
+{
+  "id": 773602801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.304514,36.585248,-87.304514,36.585248",
+    "geom:latitude":36.585248,
+    "geom:longitude":-87.304514,
+    "iso:country":"US",
+    "sg:address":"2727 Union Hall Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 551 8574",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85804513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uGhdpdESKqsqRngVuBXXg_36.585248_-87.304514@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586961,
+    "wof:geomhash":"3b1a089ee1ab5ab83e31ee9f621ec576",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85804513,
+            "region_id":85688701,
+            "venue_id":773602801
+        }
+    ],
+    "wof:id":773602801,
+    "wof:lastmodified":1462586961,
+    "wof:name":"T L Express",
+    "wof:parent_id":85804513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -87.304514,
+    36.585248,
+    -87.304514,
+    36.585248
+],
+  "geometry": {"coordinates":[-87.304514,36.585248],"type":"Point"}
+}

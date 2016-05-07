@@ -1,0 +1,71 @@
+{
+  "id": 823268257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.873099,35.159575,-84.873099,35.159575",
+    "geom:latitude":35.159575,
+    "geom:longitude":-84.873099,
+    "iso:country":"US",
+    "sg:address":"160 2nd St NE",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 479 1000",
+    "sg:postcode":"37311",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85803171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xxV1PhMxIsqWFw5SrHfLH_35.159575_-84.873099@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609836,
+    "wof:geomhash":"eb3d16f6bccd4ba775ecf18590c43491",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85803171,
+            "region_id":85688701,
+            "venue_id":823268257
+        }
+    ],
+    "wof:id":823268257,
+    "wof:lastmodified":1462609836,
+    "wof:name":"Mainstreet Cleveland",
+    "wof:parent_id":85803171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.873099,
+    35.159575,
+    -84.873099,
+    35.159575
+],
+  "geometry": {"coordinates":[-84.873099,35.159575],"type":"Point"}
+}

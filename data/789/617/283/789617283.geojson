@@ -1,0 +1,71 @@
+{
+  "id": 789617283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.416254,35.714001,-86.416254,35.714001",
+    "geom:latitude":35.714001,
+    "geom:longitude":-86.416254,
+    "iso:country":"US",
+    "sg:address":"9730 Shelbyville Pike",
+    "sg:city":"Bell Buckle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 233 5512",
+    "sg:postcode":"37020",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rRGGpnH86WxchKeBFrNHR_35.714001_-86.416254@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589198,
+    "wof:geomhash":"f2d424045b62848841bc0dbb9a07b07a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":789617283
+        }
+    ],
+    "wof:id":789617283,
+    "wof:lastmodified":1462589198,
+    "wof:name":"Gambill's Truck & Surplus",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -86.416254,
+    35.714001,
+    -86.416254,
+    35.714001
+],
+  "geometry": {"coordinates":[-86.416254,35.714001],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823255811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.8364,35.194978,-89.8364,35.194978",
+    "geom:latitude":35.194978,
+    "geom:longitude":-89.8364,
+    "iso:country":"US",
+    "sg:address":"2535 Whitten Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/29071-bistro-burger/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 937 1275",
+    "sg:postcode":"38133",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e2rx1erwYIytxyx8teN7e_35.194978_-89.836400@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609456,
+    "wof:geomhash":"82ef7a263a49ba8666453f8a0733027c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":823255811
+        }
+    ],
+    "wof:id":823255811,
+    "wof:lastmodified":1462609456,
+    "wof:name":"Bistro Burger",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.8364,
+    35.194978,
+    -89.8364,
+    35.194978
+],
+  "geometry": {"coordinates":[-89.8364,35.194978],"type":"Point"}
+}

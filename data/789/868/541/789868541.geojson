@@ -1,0 +1,75 @@
+{
+  "id": 789868541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.885249,36.002349,-86.885249,36.002349",
+    "geom:latitude":36.002349,
+    "geom:longitude":-86.885249,
+    "iso:country":"US",
+    "sg:address":"2225 Hillsboro Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 794 8424",
+    "sg:postcode":"37069",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723093,
+        102086337,
+        85835017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gElzqLJ4kAxif3MZTy5n2_36.002349_-86.885249@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591171,
+    "wof:geomhash":"dcbc913b65553e6d79083276d37efaeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85835017,
+            "region_id":85688701,
+            "venue_id":789868541
+        }
+    ],
+    "wof:id":789868541,
+    "wof:lastmodified":1462591171,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85835017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.885249,
+    36.002349,
+    -86.885249,
+    36.002349
+],
+  "geometry": {"coordinates":[-86.885249,36.002349],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790545775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.813187,36.168579,-82.813187,36.168579",
+    "geom:latitude":36.168579,
+    "geom:longitude":-82.813187,
+    "iso:country":"US",
+    "sg:address":"906 Tusculum Blvd",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 639 3171",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tWiQyxFW32MpIgzyaCkOC_36.168579_-82.813187@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596750,
+    "wof:geomhash":"09835892391b97fd1dc373f252bc2669",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":790545775
+        }
+    ],
+    "wof:id":790545775,
+    "wof:lastmodified":1462596750,
+    "wof:name":"Ben J Keebler MD",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.813187,
+    36.168579,
+    -82.813187,
+    36.168579
+],
+  "geometry": {"coordinates":[-82.813187,36.168579],"type":"Point"}
+}

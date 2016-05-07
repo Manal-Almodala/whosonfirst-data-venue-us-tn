@@ -1,0 +1,82 @@
+{
+  "id": 789961885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.271937,36.170502,-83.271937,36.170502",
+    "geom:latitude":36.170502,
+    "geom:longitude":-83.271937,
+    "iso:country":"US",
+    "sg:address":"251 Spencer Hale Rd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 3171",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "gasoline",
+        "grocer",
+        "station",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85852009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eljkWuuNt82MTuGw4QLGL_36.170502_-83.271937@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592014,
+    "wof:geomhash":"a6c52c2cc07067e9b7078be63a06c7f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85852009,
+            "region_id":85688701,
+            "venue_id":789961885
+        }
+    ],
+    "wof:id":789961885,
+    "wof:lastmodified":1462592014,
+    "wof:name":"Andy's Country Market",
+    "wof:parent_id":85852009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline",
+        "grocer",
+        "station",
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.271937,
+    36.170502,
+    -83.271937,
+    36.170502
+],
+  "geometry": {"coordinates":[-83.27193699999999,36.170502],"type":"Point"}
+}

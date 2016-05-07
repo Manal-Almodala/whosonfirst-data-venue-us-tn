@@ -1,0 +1,71 @@
+{
+  "id": 789963853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.574446,35.15174,-86.574446,35.15174",
+    "geom:latitude":35.15174,
+    "geom:longitude":-86.574446,
+    "iso:country":"US",
+    "sg:address":"300 Market St W",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 433 6563",
+    "sg:postcode":"37334",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09oae5GvTvsKeOfIvqC1Od_35.151740_-86.574446@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592028,
+    "wof:geomhash":"323717ac50868d0bb1f5dae0d3dd825a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":789963853
+        }
+    ],
+    "wof:id":789963853,
+    "wof:lastmodified":1462592028,
+    "wof:name":"Fayetteville Fire Dept",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.574446,
+    35.15174,
+    -86.574446,
+    35.15174
+],
+  "geometry": {"coordinates":[-86.57444599999999,35.15174],"type":"Point"}
+}

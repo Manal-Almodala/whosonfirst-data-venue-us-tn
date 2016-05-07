@@ -1,0 +1,71 @@
+{
+  "id": 807106445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.576343,35.82471,-83.576343,35.82471",
+    "geom:latitude":35.82471,
+    "geom:longitude":-83.576343,
+    "iso:country":"US",
+    "sg:address":"1981 Parkway",
+    "sg:city":"Pigeon Forge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 1122",
+    "sg:postcode":"37863",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2SLe12ollfrNDy3I85dKyB_35.824710_-83.576343@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603798,
+    "wof:geomhash":"53cf133c1c24ed1f86bc0b0564ada8a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":807106445
+        }
+    ],
+    "wof:id":807106445,
+    "wof:lastmodified":1462603798,
+    "wof:name":"Medicntr/Walk In Med Clinic PC",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.576343,
+    35.82471,
+    -83.576343,
+    35.82471
+],
+  "geometry": {"coordinates":[-83.57634299999999,35.82471],"type":"Point"}
+}

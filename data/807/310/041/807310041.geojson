@@ -1,0 +1,73 @@
+{
+  "id": 807310041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.005398,35.522342,-85.005398,35.522342",
+    "geom:latitude":35.522342,
+    "geom:longitude":-85.005398,
+    "iso:country":"US",
+    "sg:address":"646 Walnut Grove Rd",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 1318",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jdvq5nIeSHugrppbbkiuR_35.522342_-85.005398@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605958,
+    "wof:geomhash":"0d83494aa4d95bcd92a0c92a5fdd55f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":807310041
+        }
+    ],
+    "wof:id":807310041,
+    "wof:lastmodified":1462605958,
+    "wof:name":"Brown's Mini Storage Warehouse",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.005398,
+    35.522342,
+    -85.005398,
+    35.522342
+],
+  "geometry": {"coordinates":[-85.005398,35.522342],"type":"Point"}
+}

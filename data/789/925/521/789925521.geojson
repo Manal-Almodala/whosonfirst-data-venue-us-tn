@@ -1,0 +1,73 @@
+{
+  "id": 789925521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.995049,35.09403,-89.995049,35.09403",
+    "geom:latitude":35.09403,
+    "geom:longitude":-89.995049,
+    "iso:country":"US",
+    "sg:address":"1943 Castalia St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 743 9479",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mbGZLrZ7MnhqkwLbhIYgj_35.094030_-89.995049@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591669,
+    "wof:geomhash":"f4d6fb3c7c473de98e97a7490bf82e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542111,
+            "region_id":85688701,
+            "venue_id":789925521
+        }
+    ],
+    "wof:id":789925521,
+    "wof:lastmodified":1462591669,
+    "wof:name":"Bob's Drive Inn Grocery",
+    "wof:parent_id":420542111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.995049,
+    35.09403,
+    -89.995049,
+    35.09403
+],
+  "geometry": {"coordinates":[-89.99504899999999,35.09403],"type":"Point"}
+}

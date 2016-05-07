@@ -1,0 +1,71 @@
+{
+  "id": 807277081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.530397,36.166121,-85.530397,36.166121",
+    "geom:latitude":36.166121,
+    "geom:longitude":-85.530397,
+    "iso:country":"US",
+    "sg:address":"2105 W Jackson St",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 526 3647",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_668EcWXVUy1kQXNsi1I1Uk_36.166121_-85.530397@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605618,
+    "wof:geomhash":"56aa7ab54ddbb4eab62d53e5b5304046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":807277081
+        }
+    ],
+    "wof:id":807277081,
+    "wof:lastmodified":1462605618,
+    "wof:name":"Cookeville-Putnam Animal Shltr",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -85.530397,
+    36.166121,
+    -85.530397,
+    36.166121
+],
+  "geometry": {"coordinates":[-85.53039699999999,36.166121],"type":"Point"}
+}

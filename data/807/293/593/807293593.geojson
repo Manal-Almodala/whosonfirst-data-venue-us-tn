@@ -1,0 +1,74 @@
+{
+  "id": 807293593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.945327,36.196991,-82.945327,36.196991",
+    "geom:latitude":36.196991,
+    "geom:longitude":-82.945327,
+    "iso:country":"US",
+    "sg:address":"7155 Blue Springs Pkwy",
+    "sg:city":"Mosheim",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 422 2900",
+    "sg:postcode":"37818",
+    "sg:province":"TN",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85851539,
+        102086377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fy9dSgeKSpVmQ3vULf3ey_36.196991_-82.945327@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605782,
+    "wof:geomhash":"fc1723c07123fd252ade9621a8c1830d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "neighbourhood_id":85851539,
+            "region_id":85688701,
+            "venue_id":807293593
+        }
+    ],
+    "wof:id":807293593,
+    "wof:lastmodified":1462605782,
+    "wof:name":"Blue Springs Tire & Repair",
+    "wof:parent_id":85851539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -82.945327,
+    36.196991,
+    -82.945327,
+    36.196991
+],
+  "geometry": {"coordinates":[-82.94532700000001,36.196991],"type":"Point"}
+}

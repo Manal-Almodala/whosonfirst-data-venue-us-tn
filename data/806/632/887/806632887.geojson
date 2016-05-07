@@ -1,0 +1,73 @@
+{
+  "id": 806632887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.023743,35.943901,-85.023743,35.943901",
+    "geom:latitude":35.943901,
+    "geom:longitude":-85.023743,
+    "iso:country":"US",
+    "sg:address":"322 S Main St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 3636",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6voiBn5WEyGKhHsAmx1loq_35.943901_-85.023743@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599760,
+    "wof:geomhash":"dc1402672c7c0d93c84c85b8762690d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":806632887
+        }
+    ],
+    "wof:id":806632887,
+    "wof:lastmodified":1462599760,
+    "wof:name":"Tennessee Cancer Ctr",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.023743,
+    35.943901,
+    -85.023743,
+    35.943901
+],
+  "geometry": {"coordinates":[-85.023743,35.943901],"type":"Point"}
+}

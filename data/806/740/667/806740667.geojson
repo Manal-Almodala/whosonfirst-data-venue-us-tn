@@ -1,0 +1,67 @@
+{
+  "id": 806740667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.641553,35.579609,-89.641553,35.579609",
+    "geom:latitude":35.579609,
+    "geom:longitude":-89.641553,
+    "iso:country":"US",
+    "sg:address":"121 Industrial Rd N",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 0188",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2w0MzqEKTrKjZkWDluuLhA_35.579609_-89.641553@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600685,
+    "wof:geomhash":"197845e698acbc37f7ea039010de8492",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806740667
+        }
+    ],
+    "wof:id":806740667,
+    "wof:lastmodified":1462600685,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.641553,
+    35.579609,
+    -89.641553,
+    35.579609
+],
+  "geometry": {"coordinates":[-89.641553,35.579609],"type":"Point"}
+}

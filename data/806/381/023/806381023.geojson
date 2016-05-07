@@ -1,0 +1,73 @@
+{
+  "id": 806381023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.031352,35.960934,-85.031352,35.960934",
+    "geom:latitude":35.960934,
+    "geom:longitude":-85.031352,
+    "iso:country":"US",
+    "sg:address":"82 Dooley Ct",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 2723",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QJABuq46ZSa7c73vkPw72_35.960934_-85.031352@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597680,
+    "wof:geomhash":"0a95243b8dc749327a39be031bce81ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":806381023
+        }
+    ],
+    "wof:id":806381023,
+    "wof:lastmodified":1462597680,
+    "wof:name":"Cumberland Auto Repair",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.031352,
+    35.960934,
+    -85.031352,
+    35.960934
+],
+  "geometry": {"coordinates":[-85.031352,35.960934],"type":"Point"}
+}

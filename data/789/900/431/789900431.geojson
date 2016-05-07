@@ -1,0 +1,71 @@
+{
+  "id": 789900431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.769938,36.557418,-81.769938,36.557418",
+    "geom:latitude":36.557418,
+    "geom:longitude":-81.769938,
+    "iso:country":"US",
+    "sg:address":"115 Deer Run Rd",
+    "sg:city":"Mountain City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 727 5700",
+    "sg:postcode":"37683",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EBo9kPEYHIbcdnezWUZk8_36.557418_-81.769938@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591449,
+    "wof:geomhash":"ff9258bd980233f2386270f072d2b42f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":789900431
+        }
+    ],
+    "wof:id":789900431,
+    "wof:lastmodified":1462591449,
+    "wof:name":"Blue Ridge Towing & Repair",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -81.769938,
+    36.557418,
+    -81.769938,
+    36.557418
+],
+  "geometry": {"coordinates":[-81.769938,36.557418],"type":"Point"}
+}

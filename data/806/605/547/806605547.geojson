@@ -1,0 +1,71 @@
+{
+  "id": 806605547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.275855,36.142105,-85.275855,36.142105",
+    "geom:latitude":36.142105,
+    "geom:longitude":-85.275855,
+    "iso:country":"US",
+    "sg:address":"902 S Holly St",
+    "sg:city":"Monterey",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 839 3505",
+    "sg:postcode":"38574",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3seI5tiAsrLBaCM99RjNeY_36.142105_-85.275855@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599533,
+    "wof:geomhash":"8c143be6180941baaa9c5616dbb0fcda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":806605547
+        }
+    ],
+    "wof:id":806605547,
+    "wof:lastmodified":1462599533,
+    "wof:name":"Hardees",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.275855,
+    36.142105,
+    -85.275855,
+    36.142105
+],
+  "geometry": {"coordinates":[-85.27585500000001,36.142105],"type":"Point"}
+}

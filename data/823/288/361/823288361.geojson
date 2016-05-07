@@ -1,0 +1,81 @@
+{
+  "id": 823288361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.803909,35.04924,-89.803909,35.04924",
+    "geom:latitude":35.04924,
+    "geom:longitude":-89.803909,
+    "iso:country":"US",
+    "sg:address":"7800 Winchester Rd Southwind",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 751 5600",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"http://www.bancorpsouth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jdxm4ZCO3ne9BfXmWM57i_35.049240_-89.803909@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610636,
+    "wof:geomhash":"a538a7d7b8ebca4cf284d88380fc9501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823288361
+        }
+    ],
+    "wof:id":823288361,
+    "wof:lastmodified":1462610636,
+    "wof:name":"BancorpSouth",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -89.803909,
+    35.04924,
+    -89.803909,
+    35.04924
+],
+  "geometry": {"coordinates":[-89.803909,35.04924],"type":"Point"}
+}

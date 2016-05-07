@@ -1,0 +1,71 @@
+{
+  "id": 806665901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.091387,35.566047,-85.091387,35.566047",
+    "geom:latitude":35.566047,
+    "geom:longitude":-85.091387,
+    "iso:country":"US",
+    "sg:address":"632 Morgan Springs Rd",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 870 2450",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QgiiIvm9bSUb7FdVZeHCb_35.566047_-85.091387@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600046,
+    "wof:geomhash":"32bf3e1aff8e3216ec4a2c6b8d6b0261",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":806665901
+        }
+    ],
+    "wof:id":806665901,
+    "wof:lastmodified":1462600046,
+    "wof:name":"Galen Medical Group PC",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.091387,
+    35.566047,
+    -85.091387,
+    35.566047
+],
+  "geometry": {"coordinates":[-85.091387,35.566047],"type":"Point"}
+}

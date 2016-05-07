@@ -1,0 +1,72 @@
+{
+  "id": 789635327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.565378,35.848386,-83.565378,35.848386",
+    "geom:latitude":35.848386,
+    "geom:longitude":-83.565378,
+    "iso:country":"US",
+    "sg:address":"1112 Park Rd",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 1070",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.etoms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cjTBIMIb2bZaVHyP1Ty5d_35.848386_-83.565378@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589339,
+    "wof:geomhash":"10a4fb86dbf836154b4938e31c3b635a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":789635327
+        }
+    ],
+    "wof:id":789635327,
+    "wof:lastmodified":1462589339,
+    "wof:name":"East Tennessee Oral Surgery",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.565378,
+    35.848386,
+    -83.565378,
+    35.848386
+],
+  "geometry": {"coordinates":[-83.565378,35.848386],"type":"Point"}
+}

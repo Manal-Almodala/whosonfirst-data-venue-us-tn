@@ -1,0 +1,71 @@
+{
+  "id": 806450551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.267369,36.523427,-82.267369,36.523427",
+    "geom:latitude":36.523427,
+    "geom:longitude":-82.267369,
+    "iso:country":"US",
+    "sg:address":"361 Exide Dr",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 989 5551",
+    "sg:postcode":"37618",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722903,
+        102086471,
+        85858265
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gqGqI4OqlTAkBSdr5yr0V_36.523427_-82.267369@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598248,
+    "wof:geomhash":"57705d66fba22e057aecf8677a5f82e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":85858265,
+            "region_id":85688701,
+            "venue_id":806450551
+        }
+    ],
+    "wof:id":806450551,
+    "wof:lastmodified":1462598248,
+    "wof:name":"Bristol Fire Dept",
+    "wof:parent_id":85858265,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.267369,
+    36.523427,
+    -82.267369,
+    36.523427
+],
+  "geometry": {"coordinates":[-82.267369,36.523427],"type":"Point"}
+}

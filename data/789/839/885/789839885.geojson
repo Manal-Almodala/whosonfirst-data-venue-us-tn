@@ -1,0 +1,75 @@
+{
+  "id": 789839885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.72748,36.326506,-82.72748,36.326506",
+    "geom:latitude":36.326506,
+    "geom:longitude":-82.72748,
+    "iso:country":"US",
+    "sg:address":"2420 W Pines Rd",
+    "sg:city":"Afton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 234 0630",
+    "sg:postcode":"37616",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722677,
+        102086377,
+        85842363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MSCCijxZWly33PFeA7BD0_36.326506_-82.727480@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590945,
+    "wof:geomhash":"9a88bd7806c5352a9223f6945d3122d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722677,
+            "neighbourhood_id":85842363,
+            "region_id":85688701,
+            "venue_id":789839885
+        }
+    ],
+    "wof:id":789839885,
+    "wof:lastmodified":1462590945,
+    "wof:name":"Davis Trucking Co",
+    "wof:parent_id":85842363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.72748,
+    36.326506,
+    -82.72748,
+    36.326506
+],
+  "geometry": {"coordinates":[-82.72748,36.326506],"type":"Point"}
+}

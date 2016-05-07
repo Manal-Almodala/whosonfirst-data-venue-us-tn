@@ -1,0 +1,73 @@
+{
+  "id": 806922995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.513476,36.197536,-86.513476,36.197536",
+    "geom:latitude":36.197536,
+    "geom:longitude":-86.513476,
+    "iso:country":"US",
+    "sg:address":"505 Industrial Dr",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 384 5587",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pumping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aaTHX8SrN14CnyzyilL6w_36.197536_-86.513476@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602213,
+    "wof:geomhash":"f007834221d877ad045a88222d301ba7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":806922995
+        }
+    ],
+    "wof:id":806922995,
+    "wof:lastmodified":1462602213,
+    "wof:name":"17th Ave Pumping Station",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pumping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.513476,
+    36.197536,
+    -86.513476,
+    36.197536
+],
+  "geometry": {"coordinates":[-86.513476,36.197536],"type":"Point"}
+}

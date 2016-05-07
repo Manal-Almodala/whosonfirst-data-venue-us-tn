@@ -1,0 +1,75 @@
+{
+  "id": 823225801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.935127,35.18037,-89.935127,35.18037",
+    "geom:latitude":35.18037,
+    "geom:longitude":-89.935127,
+    "iso:country":"US",
+    "sg:address":"3799 Jackson Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 266 3634",
+    "sg:postcode":"38108",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PPo7ZttPrdQWevy6MK7fC_35.179774_-89.935639@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462608862,
+    "wof:geomhash":"e3dc911f93c0f6dbd9b7d90334fa6997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870771,
+            "region_id":85688701,
+            "venue_id":823225801
+        }
+    ],
+    "wof:id":823225801,
+    "wof:lastmodified":1462608862,
+    "wof:name":"Cars & Auto Service & Sales",
+    "wof:parent_id":85870771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.935127,
+    35.18037,
+    -89.935127,
+    35.18037
+],
+  "geometry": {"coordinates":[-89.93512699999999,35.18037],"type":"Point"}
+}

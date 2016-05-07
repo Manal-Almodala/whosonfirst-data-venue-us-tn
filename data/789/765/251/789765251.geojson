@@ -1,0 +1,75 @@
+{
+  "id": 789765251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.591812,35.389711,-84.591812,35.389711",
+    "geom:latitude":35.389711,
+    "geom:longitude":-84.591812,
+    "iso:country":"US",
+    "sg:address":"334 Co Rd 750",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 746 2971",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RPSDuxOH1ddN5WDyAOoNw_35.389711_-84.591812@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590368,
+    "wof:geomhash":"e73589401d78bc39efc888a200d15c38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":789765251
+        }
+    ],
+    "wof:id":789765251,
+    "wof:lastmodified":1462590368,
+    "wof:name":"JTC Trucking Inc",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.591812,
+    35.389711,
+    -84.591812,
+    35.389711
+],
+  "geometry": {"coordinates":[-84.591812,35.389711],"type":"Point"}
+}

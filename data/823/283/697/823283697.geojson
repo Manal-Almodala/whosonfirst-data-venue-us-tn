@@ -1,0 +1,86 @@
+{
+  "id": 823283697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.970081,35.09815,-89.970081,35.09815",
+    "geom:latitude":35.09815,
+    "geom:longitude":-89.970081,
+    "iso:country":"US",
+    "sg:address":"1711 Pendleton St Apt 35",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 743 6686",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85808437
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CP8Q1LnTzRswUHMNpBPDb_35.098150_-89.970081@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610459,
+    "wof:geomhash":"9dcedf6fdcf7d40113a060849660154c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85808437,
+            "region_id":85688701,
+            "venue_id":823283697
+        }
+    ],
+    "wof:id":823283697,
+    "wof:lastmodified":1462610459,
+    "wof:name":"Pendleton Court Apartments",
+    "wof:parent_id":85808437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -89.970081,
+    35.09815,
+    -89.970081,
+    35.09815
+],
+  "geometry": {"coordinates":[-89.97008099999999,35.09815],"type":"Point"}
+}

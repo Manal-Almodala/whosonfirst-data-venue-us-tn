@@ -1,0 +1,67 @@
+{
+  "id": 806962115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.219042,36.35096,-82.219042,36.35096",
+    "geom:latitude":36.35096,
+    "geom:longitude":-82.219042,
+    "iso:country":"US",
+    "sg:address":"415 Broad St",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 543 2141",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:website":"www.wendys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85816779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7K5N9codQseEvXIY5rKMEn_36.350960_-82.219042@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602541,
+    "wof:geomhash":"a59ea23b30a0556091c3c03a1e9422f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85816779,
+            "region_id":85688701,
+            "venue_id":806962115
+        }
+    ],
+    "wof:id":806962115,
+    "wof:lastmodified":1462602541,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85816779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.219042,
+    36.35096,
+    -82.219042,
+    36.35096
+],
+  "geometry": {"coordinates":[-82.219042,36.35096],"type":"Point"}
+}

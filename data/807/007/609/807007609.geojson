@@ -1,0 +1,71 @@
+{
+  "id": 807007609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.471512,35.341515,-84.471512,35.341515",
+    "geom:latitude":35.341515,
+    "geom:longitude":-84.471512,
+    "iso:country":"US",
+    "sg:address":"797 State Hwy 310",
+    "sg:city":"Englewood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 263 8838",
+    "sg:postcode":"37329",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722741,
+        102086293,
+        85837601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ArC4qsFCcWvlGLXAZEKNp_35.341515_-84.471512@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602924,
+    "wof:geomhash":"aa9c078aee90b7b7330cbafc8beda1ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722741,
+            "neighbourhood_id":85837601,
+            "region_id":85688701,
+            "venue_id":807007609
+        }
+    ],
+    "wof:id":807007609,
+    "wof:lastmodified":1462602924,
+    "wof:name":"Auto Clinic",
+    "wof:parent_id":85837601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.471512,
+    35.341515,
+    -84.471512,
+    35.341515
+],
+  "geometry": {"coordinates":[-84.471512,35.341515],"type":"Point"}
+}

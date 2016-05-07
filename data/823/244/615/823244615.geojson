@@ -1,0 +1,82 @@
+{
+  "id": 823244615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.401421,35.851469,-86.401421,35.851469",
+    "geom:latitude":35.851469,
+    "geom:longitude":-86.401421,
+    "iso:country":"US",
+    "sg:address":"755 NW Broad St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/114923-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 867 2855",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85835585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r21hs7LgBSFtJBWEzWRsl_35.851469_-86.401421@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609229,
+    "wof:geomhash":"2e92bd494001f487e10bd68d7da68a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85835585,
+            "region_id":85688701,
+            "venue_id":823244615
+        }
+    ],
+    "wof:id":823244615,
+    "wof:lastmodified":1462609229,
+    "wof:name":"Chili's",
+    "wof:parent_id":85835585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.401421,
+    35.851469,
+    -86.401421,
+    35.851469
+],
+  "geometry": {"coordinates":[-86.401421,35.851469],"type":"Point"}
+}

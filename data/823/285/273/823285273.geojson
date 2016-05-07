@@ -1,0 +1,86 @@
+{
+  "id": 823285273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.897953,35.146256,-89.897953,35.146256",
+    "geom:latitude":35.146256,
+    "geom:longitude":-89.897953,
+    "iso:country":"US",
+    "sg:address":"543 N Mendenhall Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 684 1599",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZorQqnoYahW0OWCr5Ibo5_35.146256_-89.897953@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610523,
+    "wof:geomhash":"632bfc4e6ca3da959f7a69c81e59b5fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":823285273
+        }
+    ],
+    "wof:id":823285273,
+    "wof:lastmodified":1462610523,
+    "wof:name":"Mendenhall Gardens Apartments",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -89.897953,
+    35.146256,
+    -89.897953,
+    35.146256
+],
+  "geometry": {"coordinates":[-89.897953,35.146256],"type":"Point"}
+}

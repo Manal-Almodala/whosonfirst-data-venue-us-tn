@@ -1,0 +1,71 @@
+{
+  "id": 773069315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.087346,35.920628,-84.087346,35.920628",
+    "geom:latitude":35.920628,
+    "geom:longitude":-84.087346,
+    "iso:country":"US",
+    "sg:address":"9123 Executive Park Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 693 5070",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wFR5ZOsfIzkr1B8NFHSvv_35.920628_-84.087346@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462582930,
+    "wof:geomhash":"25d46d88f2d8475333dabd96f0a19ee6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":773069315
+        }
+    ],
+    "wof:id":773069315,
+    "wof:lastmodified":1462582930,
+    "wof:name":"Food City",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.087346,
+    35.920628,
+    -84.087346,
+    35.920628
+],
+  "geometry": {"coordinates":[-84.087346,35.920628],"type":"Point"}
+}

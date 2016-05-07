@@ -1,0 +1,73 @@
+{
+  "id": 789899717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.288246,36.209934,-83.288246,36.209934",
+    "geom:latitude":36.209934,
+    "geom:longitude":-83.288246,
+    "iso:country":"US",
+    "sg:address":"513 S Hill St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 1263",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tL5C3UYFyRM08kjhNmOuJ_36.209934_-83.288246@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591444,
+    "wof:geomhash":"d9953321ccb28eb841935e7583058ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789899717
+        }
+    ],
+    "wof:id":789899717,
+    "wof:lastmodified":1462591444,
+    "wof:name":"Laurelwood Apartments",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.288246,
+    36.209934,
+    -83.288246,
+    36.209934
+],
+  "geometry": {"coordinates":[-83.288246,36.209934],"type":"Point"}
+}

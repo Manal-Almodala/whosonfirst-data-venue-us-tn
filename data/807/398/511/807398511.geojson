@@ -1,0 +1,71 @@
+{
+  "id": 807398511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.144443,35.948323,-87.144443,35.948323",
+    "geom:latitude":35.948323,
+    "geom:longitude":-87.144443,
+    "iso:country":"US",
+    "sg:address":"1597 Fairview Blvd",
+    "sg:city":"Fairview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 799 2118",
+    "sg:postcode":"37062",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723095,
+        102086337,
+        85822897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r0PYfU1q5Nvln8T7PWRHr_35.948323_-87.144443@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607249,
+    "wof:geomhash":"183b30958b7efac4edfa2d6424e2db59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723095,
+            "neighbourhood_id":85822897,
+            "region_id":85688701,
+            "venue_id":807398511
+        }
+    ],
+    "wof:id":807398511,
+    "wof:lastmodified":1462607249,
+    "wof:name":"Green Animal Hospital",
+    "wof:parent_id":85822897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.144443,
+    35.948323,
+    -87.144443,
+    35.948323
+],
+  "geometry": {"coordinates":[-87.144443,35.948323],"type":"Point"}
+}

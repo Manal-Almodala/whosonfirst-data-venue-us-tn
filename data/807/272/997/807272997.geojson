@@ -1,0 +1,71 @@
+{
+  "id": 807272997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.095829,35.44949,-86.095829,35.44949",
+    "geom:latitude":35.44949,
+    "geom:longitude":-86.095829,
+    "iso:country":"US",
+    "sg:address":"2027 McArthur St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 7580",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67N9aHGex7jgvIqX72NvVI_35.449490_-86.095829@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605574,
+    "wof:geomhash":"74c9f948ea70f12fc4140c17664657f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":807272997
+        }
+    ],
+    "wof:id":807272997,
+    "wof:lastmodified":1462605574,
+    "wof:name":"Hackett Animal Clinic",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.095829,
+    35.44949,
+    -86.095829,
+    35.44949
+],
+  "geometry": {"coordinates":[-86.09582899999999,35.44949],"type":"Point"}
+}

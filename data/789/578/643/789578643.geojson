@@ -1,0 +1,73 @@
+{
+  "id": 789578643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.785964,35.631996,-88.785964,35.631996",
+    "geom:latitude":35.631996,
+    "geom:longitude":-88.785964,
+    "iso:country":"US",
+    "sg:address":"95 American Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 424 3564",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "communications",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85830001,
+        102087221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lJykFUIwhf5C3gT2Hwge3_35.631996_-88.785964@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588893,
+    "wof:geomhash":"831155ebdcb298b0872f2c0b33715c8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "neighbourhood_id":85830001,
+            "region_id":85688701,
+            "venue_id":789578643
+        }
+    ],
+    "wof:id":789578643,
+    "wof:lastmodified":1462588893,
+    "wof:name":"BellSouth",
+    "wof:parent_id":85830001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -88.785964,
+    35.631996,
+    -88.785964,
+    35.631996
+],
+  "geometry": {"coordinates":[-88.78596400000001,35.631996],"type":"Point"}
+}

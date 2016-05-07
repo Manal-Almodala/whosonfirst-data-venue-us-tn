@@ -1,0 +1,73 @@
+{
+  "id": 807278971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.2948,36.226519,-83.2948,36.226519",
+    "geom:latitude":36.226519,
+    "geom:longitude":-83.2948,
+    "iso:country":"US",
+    "sg:address":"1155 Buffalo Trl",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 2085",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7T1mvu9crtlFPs4b4tPbqr_36.226519_-83.294800@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605635,
+    "wof:geomhash":"1f4f59e527c8b3077bdbe07ba190774a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807278971
+        }
+    ],
+    "wof:id":807278971,
+    "wof:lastmodified":1462605635,
+    "wof:name":"Auto-Medic",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.2948,
+    36.226519,
+    -83.2948,
+    36.226519
+],
+  "geometry": {"coordinates":[-83.2948,36.226519],"type":"Point"}
+}

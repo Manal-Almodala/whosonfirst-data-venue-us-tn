@@ -1,0 +1,73 @@
+{
+  "id": 806440207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.794421,35.162316,-89.794421,35.162316",
+    "geom:latitude":35.162316,
+    "geom:longitude":-89.794421,
+    "iso:country":"US",
+    "sg:address":"8035 Club Pkwy",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 759 0854",
+    "sg:postcode":"38016",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85812297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fxeCcXNzetYCfowStcqyR_35.162316_-89.794421@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598170,
+    "wof:geomhash":"665ba39ab6fd47a023921aa575ff8c05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85812297,
+            "region_id":85688701,
+            "venue_id":806440207
+        }
+    ],
+    "wof:id":806440207,
+    "wof:lastmodified":1462598170,
+    "wof:name":"Behavioral Pediatrics",
+    "wof:parent_id":85812297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.794421,
+    35.162316,
+    -89.794421,
+    35.162316
+],
+  "geometry": {"coordinates":[-89.794421,35.162316],"type":"Point"}
+}

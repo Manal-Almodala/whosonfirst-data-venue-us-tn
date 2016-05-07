@@ -1,0 +1,75 @@
+{
+  "id": 823259665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.392642,36.17857,-83.392642,36.17857",
+    "geom:latitude":36.17857,
+    "geom:longitude":-83.392642,
+    "iso:country":"US",
+    "sg:address":"5995 W Andrew Johnson Hwy",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/alpha/203596-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722571,
+        102086447,
+        420541593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fgkPcNzRYzTRVejdOE3Lf_36.178519_-83.393043@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609546,
+    "wof:geomhash":"3cab5f11f64e4d19d71837ae4ae0cea9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":420541593,
+            "region_id":85688701,
+            "venue_id":823259665
+        }
+    ],
+    "wof:id":823259665,
+    "wof:lastmodified":1462609546,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420541593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.392642,
+    36.17857,
+    -83.392642,
+    36.17857
+],
+  "geometry": {"coordinates":[-83.392642,36.17857],"type":"Point"}
+}

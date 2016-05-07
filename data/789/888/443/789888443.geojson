@@ -1,0 +1,73 @@
+{
+  "id": 789888443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.11054,35.184218,-86.11054,35.184218",
+    "geom:latitude":35.184218,
+    "geom:longitude":-86.11054,
+    "iso:country":"US",
+    "sg:address":"300 S Jefferson St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 2979",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "advisory",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P5Zu0iuhi40gq9pfhzVws_35.184218_-86.110540@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591356,
+    "wof:geomhash":"096f10b7ce78b970fa0438ed56c95de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":789888443
+        }
+    ],
+    "wof:id":789888443,
+    "wof:lastmodified":1462591356,
+    "wof:name":"Securities Service Network",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "security"
+    ]
+},
+  "bbox": [
+    -86.11054,
+    35.184218,
+    -86.11054,
+    35.184218
+],
+  "geometry": {"coordinates":[-86.11054,35.184218],"type":"Point"}
+}

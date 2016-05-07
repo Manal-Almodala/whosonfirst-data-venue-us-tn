@@ -1,0 +1,71 @@
+{
+  "id": 789950785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.841892,35.482011,-89.841892,35.482011",
+    "geom:latitude":35.482011,
+    "geom:longitude":-89.841892,
+    "iso:country":"US",
+    "sg:address":"146 Antioch Church Rd",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 9635",
+    "sg:postcode":"38004",
+    "sg:province":"TN",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P8Cyjx84tdtJCoNIQsiTg_35.482011_-89.841892@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591920,
+    "wof:geomhash":"bb6be4d59d4a0c0f1b9a6c44af65583a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789950785
+        }
+    ],
+    "wof:id":789950785,
+    "wof:lastmodified":1462591920,
+    "wof:name":"Antioch Baptist Church",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.841892,
+    35.482011,
+    -89.841892,
+    35.482011
+],
+  "geometry": {"coordinates":[-89.841892,35.482011],"type":"Point"}
+}

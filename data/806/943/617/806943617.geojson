@@ -1,0 +1,73 @@
+{
+  "id": 806943617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.134138,35.173773,-86.134138,35.173773",
+    "geom:latitude":35.173773,
+    "geom:longitude":-86.134138,
+    "iso:country":"US",
+    "sg:address":"420 Wilton Cir",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 962 0123",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department",
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19BueBCLHrPUt5CigXCqMr_35.173773_-86.134138@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602389,
+    "wof:geomhash":"9c79d9504e336ec89a42b39dfff37edb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":806943617
+        }
+    ],
+    "wof:id":806943617,
+    "wof:lastmodified":1462602389,
+    "wof:name":"Sheriffs Department",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -86.134138,
+    35.173773,
+    -86.134138,
+    35.173773
+],
+  "geometry": {"coordinates":[-86.13413799999999,35.173773],"type":"Point"}
+}

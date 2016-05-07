@@ -1,0 +1,73 @@
+{
+  "id": 773529853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.245839,36.131298,-86.245839,36.131298",
+    "geom:latitude":36.131298,
+    "geom:longitude":-86.245839,
+    "iso:country":"US",
+    "sg:address":"175 Greenwood Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 8059",
+    "sg:postcode":"37090",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mdSvWSA7jiZ56Y4AWBGyo_36.131298_-86.245839@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586410,
+    "wof:geomhash":"5c7d1a9eaf9e94d81e2e96777e630c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":773529853
+        }
+    ],
+    "wof:id":773529853,
+    "wof:lastmodified":1462586410,
+    "wof:name":"Jasun Fleet Service",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -86.245839,
+    36.131298,
+    -86.245839,
+    36.131298
+],
+  "geometry": {"coordinates":[-86.245839,36.131298],"type":"Point"}
+}

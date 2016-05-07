@@ -1,0 +1,71 @@
+{
+  "id": 790459339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.017931,35.488945,-85.017931,35.488945",
+    "geom:latitude":35.488945,
+    "geom:longitude":-85.017931,
+    "iso:country":"US",
+    "sg:address":"944 Market St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 2626",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Tkj2O5J9IQXbybVn7PCM6_35.488945_-85.017931@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596007,
+    "wof:geomhash":"e52d478857583b16ade2075a70a0c45e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":790459339
+        }
+    ],
+    "wof:id":790459339,
+    "wof:lastmodified":1462596007,
+    "wof:name":"L & M Car Wash",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -85.017931,
+    35.488945,
+    -85.017931,
+    35.488945
+],
+  "geometry": {"coordinates":[-85.017931,35.488945],"type":"Point"}
+}

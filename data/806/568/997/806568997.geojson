@@ -1,0 +1,73 @@
+{
+  "id": 806568997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.751249,36.151937,-86.751249,36.151937",
+    "geom:latitude":36.151937,
+    "geom:longitude":-86.751249,
+    "iso:country":"US",
+    "sg:address":"12 Keith St",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 833 8332",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85871389
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KeWkY00PDBomEeWxt5VMv_36.151937_-86.751249@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599197,
+    "wof:geomhash":"66d10ff1c0cbf7df43bcadc59f220dce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85871389,
+            "region_id":85688701,
+            "venue_id":806568997
+        }
+    ],
+    "wof:id":806568997,
+    "wof:lastmodified":1462599197,
+    "wof:name":"Guaranteed Transmission & Auto",
+    "wof:parent_id":85871389,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.751249,
+    36.151937,
+    -86.751249,
+    36.151937
+],
+  "geometry": {"coordinates":[-86.751249,36.151937],"type":"Point"}
+}

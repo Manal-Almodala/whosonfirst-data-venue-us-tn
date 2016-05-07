@@ -1,0 +1,83 @@
+{
+  "id": 773641779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.029022,35.588532,-87.029022,35.588532",
+    "geom:latitude":35.588532,
+    "geom:longitude":-87.029022,
+    "iso:country":"US",
+    "sg:address":"304 E James Campbell Blvd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 380 5873",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85812797,
+        102087107,
+        102191575,
+        101723081,
+        420541939
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A0EWb4TiQO3F2roewiTg8_35.588532_-87.029022@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587260,
+    "wof:geomhash":"a5f37eb21898c8041dd684a1fffafc23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "neighbourhood_id":85812797,
+            "region_id":85688701,
+            "venue_id":773641779
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":420541939,
+            "region_id":85688701,
+            "venue_id":773641779
+        }
+    ],
+    "wof:id":773641779,
+    "wof:lastmodified":1462587260,
+    "wof:name":"Tim's Detailing",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -87.029022,
+    35.588532,
+    -87.029022,
+    35.588532
+],
+  "geometry": {"coordinates":[-87.029022,35.588532],"type":"Point"}
+}

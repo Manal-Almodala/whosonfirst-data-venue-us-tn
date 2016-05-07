@@ -1,0 +1,71 @@
+{
+  "id": 789944519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.513675,36.190594,-86.513675,36.190594",
+    "geom:latitude":36.190594,
+    "geom:longitude":-86.513675,
+    "iso:country":"US",
+    "sg:address":"1355 N Mount Juliet Rd",
+    "sg:city":"Mount Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 758 4633",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NvGOjkLmFXxP2avfiuma3_36.190594_-86.513675@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591831,
+    "wof:geomhash":"8fe34ccb6a1e685a6392dfb18945862b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":789944519
+        }
+    ],
+    "wof:id":789944519,
+    "wof:lastmodified":1462591831,
+    "wof:name":"Auto Pro Inc",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.513675,
+    36.190594,
+    -86.513675,
+    36.190594
+],
+  "geometry": {"coordinates":[-86.51367500000001,36.190594],"type":"Point"}
+}

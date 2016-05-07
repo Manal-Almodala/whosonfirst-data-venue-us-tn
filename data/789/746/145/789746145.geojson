@@ -1,0 +1,71 @@
+{
+  "id": 789746145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.712857,36.522285,-82.712857,36.522285",
+    "geom:latitude":36.522285,
+    "geom:longitude":-82.712857,
+    "iso:country":"US",
+    "sg:address":"108 S Central Ave",
+    "sg:city":"Church Hill",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 357 7111",
+    "sg:postcode":"37642",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722787,
+        102087101,
+        85802727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UbPLTSxxuYFIjER8Xn4z2_36.522285_-82.712857@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590225,
+    "wof:geomhash":"1916942149f03acd4d6f7daf00b85627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087101,
+            "locality_id":101722787,
+            "neighbourhood_id":85802727,
+            "region_id":85688701,
+            "venue_id":789746145
+        }
+    ],
+    "wof:id":789746145,
+    "wof:lastmodified":1462590225,
+    "wof:name":"Randy Thomas DDS",
+    "wof:parent_id":85802727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.712857,
+    36.522285,
+    -82.712857,
+    36.522285
+],
+  "geometry": {"coordinates":[-82.712857,36.522285],"type":"Point"}
+}

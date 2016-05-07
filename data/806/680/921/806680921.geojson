@@ -1,0 +1,75 @@
+{
+  "id": 806680921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.291065,36.463671,-82.291065,36.463671",
+    "geom:latitude":36.463671,
+    "geom:longitude":-82.291065,
+    "iso:country":"US",
+    "sg:address":"555 Weaver Branch Rd",
+    "sg:city":"Bluff City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 538 0085",
+    "sg:postcode":"37618",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722907,
+        102086471,
+        85825439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QrxKIbZBnCIIIz9eFiMkw_36.463671_-82.291065@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600178,
+    "wof:geomhash":"dcac6dbe780102fee90f4280735d96ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722907,
+            "neighbourhood_id":85825439,
+            "region_id":85688701,
+            "venue_id":806680921
+        }
+    ],
+    "wof:id":806680921,
+    "wof:lastmodified":1462600178,
+    "wof:name":"Bristol Collision Ctr",
+    "wof:parent_id":85825439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -82.291065,
+    36.463671,
+    -82.291065,
+    36.463671
+],
+  "geometry": {"coordinates":[-82.291065,36.463671],"type":"Point"}
+}

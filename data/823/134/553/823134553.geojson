@@ -1,0 +1,73 @@
+{
+  "id": 823134553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.55851,35.897409,-86.55851,35.897409",
+    "geom:latitude":35.897409,
+    "geom:longitude":-86.55851,
+    "iso:country":"US",
+    "sg:address":"430 W North Creek Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 382 1068",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xM0YPOYDKlsFJz6aSsBtf_35.897409_-86.558510@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607409,
+    "wof:geomhash":"e372f47fe8d71a915d468b28e6c892f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":823134553
+        }
+    ],
+    "wof:id":823134553,
+    "wof:lastmodified":1462607409,
+    "wof:name":"Randy Florendo MD",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.55851,
+    35.897409,
+    -86.55851,
+    35.897409
+],
+  "geometry": {"coordinates":[-86.55851,35.897409],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773034013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.677462,35.534104,-89.677462,35.534104",
+    "geom:latitude":35.534104,
+    "geom:longitude":-89.677462,
+    "iso:country":"US",
+    "sg:address":"1995 US Hwy 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 7070",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BKtG1dOugDz2TTdzfnhDy_35.534104_-89.677462@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462582613,
+    "wof:geomhash":"17fc4d1485c1987548c45ba383855cd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":773034013
+        }
+    ],
+    "wof:id":773034013,
+    "wof:lastmodified":1462582613,
+    "wof:name":"John Larkin MD",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.677462,
+    35.534104,
+    -89.677462,
+    35.534104
+],
+  "geometry": {"coordinates":[-89.67746200000001,35.534104],"type":"Point"}
+}

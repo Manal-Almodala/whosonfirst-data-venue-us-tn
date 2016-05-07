@@ -1,0 +1,88 @@
+{
+  "id": 823282639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.966203,35.134487,-89.966203,35.134487",
+    "geom:latitude":35.134487,
+    "geom:longitude":-89.966203,
+    "iso:country":"US",
+    "sg:address":"2842 Poplar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 458 7366",
+    "sg:postcode":"38111",
+    "sg:province":"TN",
+    "sg:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ],
+    "sg:website":"http://www.dermon-warnerproperties.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85803961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IsjoNylfmOqdxyGPI7v0Y_35.134487_-89.966203@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610423,
+    "wof:geomhash":"f587dc0f0de1432988e1abb274c02fb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85803961,
+            "region_id":85688701,
+            "venue_id":823282639
+        }
+    ],
+    "wof:id":823282639,
+    "wof:lastmodified":1462610423,
+    "wof:name":"Dermon-Warner Properties",
+    "wof:parent_id":85803961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ]
+},
+  "bbox": [
+    -89.966203,
+    35.134487,
+    -89.966203,
+    35.134487
+],
+  "geometry": {"coordinates":[-89.96620299999999,35.134487],"type":"Point"}
+}

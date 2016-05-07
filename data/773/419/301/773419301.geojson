@@ -1,0 +1,71 @@
+{
+  "id": 773419301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.444115,36.388787,-86.444115,36.388787",
+    "geom:latitude":36.388787,
+    "geom:longitude":-86.444115,
+    "iso:country":"US",
+    "sg:address":"225 E Main St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 4332",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q3fkcn4QfV8N4UllrULQI_36.388787_-86.444115@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585569,
+    "wof:geomhash":"cc61ee99ca10c5f3200ffb68e922780e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773419301
+        }
+    ],
+    "wof:id":773419301,
+    "wof:lastmodified":1462585569,
+    "wof:name":"Sumner County Juvenile Court",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -86.444115,
+    36.388787,
+    -86.444115,
+    36.388787
+],
+  "geometry": {"coordinates":[-86.444115,36.388787],"type":"Point"}
+}

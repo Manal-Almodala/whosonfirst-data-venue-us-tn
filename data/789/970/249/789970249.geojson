@@ -1,0 +1,75 @@
+{
+  "id": 789970249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.530989,35.229187,-89.530989,35.229187",
+    "geom:latitude":35.229187,
+    "geom:longitude":-89.530989,
+    "iso:country":"US",
+    "sg:address":"6302 US Hwy 64",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 466 1599",
+    "sg:postcode":"38060",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722831,
+        102086439,
+        420541553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3le30xhNUzoqo2XnlutYZz_35.229187_-89.530989@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592083,
+    "wof:geomhash":"7edf5c6bde2eeaecaadcd2e59a46625e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086439,
+            "locality_id":101722831,
+            "neighbourhood_id":420541553,
+            "region_id":85688701,
+            "venue_id":789970249
+        }
+    ],
+    "wof:id":789970249,
+    "wof:lastmodified":1462592083,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":420541553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.530989,
+    35.229187,
+    -89.530989,
+    35.229187
+],
+  "geometry": {"coordinates":[-89.53098900000001,35.229187],"type":"Point"}
+}

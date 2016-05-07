@@ -1,0 +1,80 @@
+{
+  "id": 823283067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.00115,35.149395,-90.00115,35.149395",
+    "geom:latitude":35.149395,
+    "geom:longitude":-90.00115,
+    "iso:country":"US",
+    "sg:address":"1722 Autumn Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 278 2222",
+    "sg:postcode":"38112",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ticket",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85851159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iUAK3qYDYr0mazbMpM2fW_35.149395_-90.001150@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610438,
+    "wof:geomhash":"e67aa8b98f21013914f1e2400dcddec4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85851159,
+            "region_id":85688701,
+            "venue_id":823283067
+        }
+    ],
+    "wof:id":823283067,
+    "wof:lastmodified":1462610438,
+    "wof:name":"Stress Relief Vacations",
+    "wof:parent_id":85851159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency"
+    ]
+},
+  "bbox": [
+    -90.00115,
+    35.149395,
+    -90.00115,
+    35.149395
+],
+  "geometry": {"coordinates":[-90.00115,35.149395],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823289753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.925233,35.228988,-89.925233,35.228988",
+    "geom:latitude":35.228988,
+    "geom:longitude":-89.925233,
+    "iso:country":"US",
+    "sg:address":"3774 Raleigh Millington Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 937 8000",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "amusement",
+        "arcade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g29CDvIdrMsLrUGlHA8SN_35.228988_-89.925233@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610686,
+    "wof:geomhash":"1dd455fe5e9d95e33abc62f1d2a46b62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823289753
+        }
+    ],
+    "wof:id":823289753,
+    "wof:lastmodified":1462610686,
+    "wof:name":"Memphis, Yes",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "amusement",
+        "arcade"
+    ]
+},
+  "bbox": [
+    -89.925233,
+    35.228988,
+    -89.925233,
+    35.228988
+],
+  "geometry": {"coordinates":[-89.92523300000001,35.228988],"type":"Point"}
+}

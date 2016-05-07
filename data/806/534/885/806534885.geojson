@@ -1,0 +1,71 @@
+{
+  "id": 806534885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.304339,36.214406,-83.304339,36.214406",
+    "geom:latitude":36.214406,
+    "geom:longitude":-83.304339,
+    "iso:country":"US",
+    "sg:address":"701 McFarland St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 2596",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yo6iziphY1MUkL68ewTTd_36.214406_-83.304339@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598913,
+    "wof:geomhash":"3133ecf321b74a972550ccf1d8669c8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":806534885
+        }
+    ],
+    "wof:id":806534885,
+    "wof:lastmodified":1462598913,
+    "wof:name":"Westin Clinic",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.304339,
+    36.214406,
+    -83.304339,
+    36.214406
+],
+  "geometry": {"coordinates":[-83.304339,36.214406],"type":"Point"}
+}

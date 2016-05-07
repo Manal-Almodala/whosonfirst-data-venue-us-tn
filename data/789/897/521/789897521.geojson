@@ -1,0 +1,73 @@
+{
+  "id": 789897521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.578221,35.145117,-89.578221,35.145117",
+    "geom:latitude":35.145117,
+    "geom:longitude":-89.578221,
+    "iso:country":"US",
+    "sg:address":"565 Hayslett Rd",
+    "sg:city":"Collierville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 854 0466",
+    "sg:postcode":"38017",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85846193,
+        102086439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HJC5gmqfKeQPIiZ19DKZK_35.145117_-89.578221@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591423,
+    "wof:geomhash":"3c1d85fb75bb1969d9220ffad0e37deb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086439,
+            "neighbourhood_id":85846193,
+            "region_id":85688701,
+            "venue_id":789897521
+        }
+    ],
+    "wof:id":789897521,
+    "wof:lastmodified":1462591423,
+    "wof:name":"Rouse Trucking",
+    "wof:parent_id":85846193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.578221,
+    35.145117,
+    -89.578221,
+    35.145117
+],
+  "geometry": {"coordinates":[-89.578221,35.145117],"type":"Point"}
+}

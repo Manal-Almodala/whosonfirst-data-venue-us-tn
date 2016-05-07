@@ -1,0 +1,73 @@
+{
+  "id": 806665841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.245852,36.109195,-86.245852,36.109195",
+    "geom:latitude":36.109195,
+    "geom:longitude":-86.245852,
+    "iso:country":"US",
+    "sg:address":"5185 Chicken Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 286 2697",
+    "sg:postcode":"37090",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mFLEo8pFamwEFkD4mKaLG_36.109195_-86.245852@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600046,
+    "wof:geomhash":"fdaebdf17f6ac9b700359746ef0ddad8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":806665841
+        }
+    ],
+    "wof:id":806665841,
+    "wof:lastmodified":1462600046,
+    "wof:name":"Rob Day Electric",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.245852,
+    36.109195,
+    -86.245852,
+    36.109195
+],
+  "geometry": {"coordinates":[-86.245852,36.109195],"type":"Point"}
+}

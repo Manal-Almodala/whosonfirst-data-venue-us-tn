@@ -1,0 +1,73 @@
+{
+  "id": 823252085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.02155,36.006839,-84.02155,36.006839",
+    "geom:latitude":36.006839,
+    "geom:longitude":-84.02155,
+    "iso:country":"US",
+    "sg:address":"6777 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/203628-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qf7i7sEPMzTbj6WOgmQTN_36.006839_-84.021550@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609386,
+    "wof:geomhash":"3957720f14b7672e104bde615dd46479",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":823252085
+        }
+    ],
+    "wof:id":823252085,
+    "wof:lastmodified":1462609386,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.02155,
+    36.006839,
+    -84.02155,
+    36.006839
+],
+  "geometry": {"coordinates":[-84.02155,36.006839],"type":"Point"}
+}

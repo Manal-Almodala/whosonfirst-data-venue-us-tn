@@ -1,0 +1,73 @@
+{
+  "id": 806789147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.794179,35.611894,-88.794179,35.611894",
+    "geom:latitude":35.611894,
+    "geom:longitude":-88.794179,
+    "iso:country":"US",
+    "sg:address":"1421 E Chester St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 423 3968",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JHJUKbhco4rDSAMLyNt4A_35.611894_-88.794179@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601098,
+    "wof:geomhash":"1f79b82e14adb5584832337612110c92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":806789147
+        }
+    ],
+    "wof:id":806789147,
+    "wof:lastmodified":1462601098,
+    "wof:name":"Northern Auto Svc",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.794179,
+    35.611894,
+    -88.794179,
+    35.611894
+],
+  "geometry": {"coordinates":[-88.794179,35.611894],"type":"Point"}
+}

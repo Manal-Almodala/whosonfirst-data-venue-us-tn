@@ -1,0 +1,79 @@
+{
+  "id": 789734879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.213358,36.04124,-84.213358,36.04124",
+    "geom:latitude":36.04124,
+    "geom:longitude":-84.213358,
+    "iso:country":"US",
+    "sg:address":"230 Warehouse Rd",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 576 3012",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065,
+        85818003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UrhkLGoteSZ6xRphRoiAm_36.041240_-84.213358@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590138,
+    "wof:geomhash":"e21e49a9d2ec546ed26f5f66e74d125a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":789734879
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "neighbourhood_id":85818003,
+            "region_id":85688701,
+            "venue_id":789734879
+        }
+    ],
+    "wof:id":789734879,
+    "wof:lastmodified":1462590138,
+    "wof:name":"Oak Ridge Facilities Mgmt",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.213358,
+    36.04124,
+    -84.213358,
+    36.04124
+],
+  "geometry": {"coordinates":[-84.213358,36.04124],"type":"Point"}
+}

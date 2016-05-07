@@ -1,0 +1,75 @@
+{
+  "id": 807143879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.8895,35.111343,-89.8895,35.111343",
+    "geom:latitude":35.111343,
+    "geom:longitude":-89.8895,
+    "iso:country":"US",
+    "sg:address":"744 E Brookhaven Cir",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 761 2703",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32sHPZxWiNAmD2Fb6krxvC_35.111343_-89.889500@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604202,
+    "wof:geomhash":"86167d4535a55275d9055fcb53f35082",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":807143879
+        }
+    ],
+    "wof:id":807143879,
+    "wof:lastmodified":1462604202,
+    "wof:name":"John W Landrigan Jr MD",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.8895,
+    35.111343,
+    -89.8895,
+    35.111343
+],
+  "geometry": {"coordinates":[-89.8895,35.111343],"type":"Point"}
+}

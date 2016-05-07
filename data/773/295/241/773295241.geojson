@@ -1,0 +1,73 @@
+{
+  "id": 773295241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.834547,35.178699,-89.834547,35.178699",
+    "geom:latitude":35.178699,
+    "geom:longitude":-89.834547,
+    "iso:country":"US",
+    "sg:address":"6850 Whitten Bend Cove",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 373 3883",
+    "sg:postcode":"38133",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xwJzWYFivEX2UVzv7O1Oh_35.178699_-89.834547@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584639,
+    "wof:geomhash":"e0c5c380702dadf8ec6602a81053d8fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":773295241
+        }
+    ],
+    "wof:id":773295241,
+    "wof:lastmodified":1462584639,
+    "wof:name":"Memphis Police Dept",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.834547,
+    35.178699,
+    -89.834547,
+    35.178699
+],
+  "geometry": {"coordinates":[-89.834547,35.178699],"type":"Point"}
+}

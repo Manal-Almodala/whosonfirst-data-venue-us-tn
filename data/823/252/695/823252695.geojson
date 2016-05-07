@@ -1,0 +1,76 @@
+{
+  "id": 823252695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.002666,35.933054,-84.002666,35.933054",
+    "geom:latitude":35.933054,
+    "geom:longitude":-84.002666,
+    "iso:country":"US",
+    "sg:address":"127 Northshore Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/214904-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 584 2881",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85805071
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PyoCXgmnPxHlV6v4zvczZ_35.933054_-84.002666@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609397,
+    "wof:geomhash":"6ee11389596af55e691aa1ea733843ff",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85805071,
+            "region_id":85688701,
+            "venue_id":823252695
+        }
+    ],
+    "wof:id":823252695,
+    "wof:lastmodified":1462609397,
+    "wof:name":"Burger King",
+    "wof:parent_id":85805071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.002666,
+    35.933054,
+    -84.002666,
+    35.933054
+],
+  "geometry": {"coordinates":[-84.002666,35.933054],"type":"Point"}
+}

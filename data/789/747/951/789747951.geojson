@@ -1,0 +1,73 @@
+{
+  "id": 789747951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.035473,35.604192,-87.035473,35.604192",
+    "geom:latitude":35.604192,
+    "geom:longitude":-87.035473,
+    "iso:country":"US",
+    "sg:address":"1407 Carmack Blvd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 381 9620",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ywTOUv2NU7YRJio09fCVg_35.604192_-87.035473@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590238,
+    "wof:geomhash":"7c1d447d816389855d6b684f9d34caee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":789747951
+        }
+    ],
+    "wof:id":789747951,
+    "wof:lastmodified":1462590238,
+    "wof:name":"Columbia Check Advance",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -87.035473,
+    35.604192,
+    -87.035473,
+    35.604192
+],
+  "geometry": {"coordinates":[-87.035473,35.604192],"type":"Point"}
+}

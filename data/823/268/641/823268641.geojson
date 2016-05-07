@@ -1,0 +1,71 @@
+{
+  "id": 823268641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.01477,35.491401,-85.01477,35.491401",
+    "geom:latitude":35.491401,
+    "geom:longitude":-85.01477,
+    "iso:country":"US",
+    "sg:address":"175 Alabama Ave",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 6191",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "plumber"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ChxvYww1JrzBTglirECrt_35.491401_-85.014770@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609859,
+    "wof:geomhash":"0a111ceda85b0add429056f9dcaad156",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":823268641
+        }
+    ],
+    "wof:id":823268641,
+    "wof:lastmodified":1462609859,
+    "wof:name":"Rhea County Plumbing",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber"
+    ]
+},
+  "bbox": [
+    -85.01477,
+    35.491401,
+    -85.01477,
+    35.491401
+],
+  "geometry": {"coordinates":[-85.01477,35.491401],"type":"Point"}
+}

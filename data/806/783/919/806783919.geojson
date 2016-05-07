@@ -1,0 +1,71 @@
+{
+  "id": 806783919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.757527,35.571109,-89.757527,35.571109",
+    "geom:latitude":35.571109,
+    "geom:longitude":-89.757527,
+    "iso:country":"US",
+    "sg:address":"1195 Garland Dr",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 8430",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WBQipT0vgMrzluAT6WHNQ_35.571109_-89.757527@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601051,
+    "wof:geomhash":"9d1eab09806eacfb511335f601f19440",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806783919
+        }
+    ],
+    "wof:id":806783919,
+    "wof:lastmodified":1462601051,
+    "wof:name":"Garland Fire Dept",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.757527,
+    35.571109,
+    -89.757527,
+    35.571109
+],
+  "geometry": {"coordinates":[-89.757527,35.571109],"type":"Point"}
+}

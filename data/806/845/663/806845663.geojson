@@ -1,0 +1,76 @@
+{
+  "id": 806845663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.21824,36.31336,-84.21824,36.31336",
+    "geom:latitude":36.31336,
+    "geom:longitude":-84.21824,
+    "iso:country":"US",
+    "sg:address":"425 Park Rd",
+    "sg:city":"Caryville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 992 1050",
+    "sg:postcode":"37714",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85848109,
+        102086391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06t0ivLLKW8ArN6OuZLNY3_36.313360_-84.218240@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601569,
+    "wof:geomhash":"f2cb37c24276650f1f7dd53e7f217a03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086391,
+            "neighbourhood_id":85848109,
+            "region_id":85688701,
+            "venue_id":806845663
+        }
+    ],
+    "wof:id":806845663,
+    "wof:lastmodified":1462601569,
+    "wof:name":"T Bones Mobile Maintenance",
+    "wof:parent_id":85848109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -84.21824,
+    36.31336,
+    -84.21824,
+    36.31336
+],
+  "geometry": {"coordinates":[-84.21823999999999,36.31336],"type":"Point"}
+}

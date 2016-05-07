@@ -1,0 +1,71 @@
+{
+  "id": 789977063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.035013,35.960474,-85.035013,35.960474",
+    "geom:latitude":35.960474,
+    "geom:longitude":-85.035013,
+    "iso:country":"US",
+    "sg:address":"1067 N Main St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 6101",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e0jPYeeswQ6vR4PFHjckS_35.960474_-85.035013@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592144,
+    "wof:geomhash":"5a026e1d95c82818c1b42ee4468b12cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":789977063
+        }
+    ],
+    "wof:id":789977063,
+    "wof:lastmodified":1462592144,
+    "wof:name":"Flowers Foods Specialty Group",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.035013,
+    35.960474,
+    -85.035013,
+    35.960474
+],
+  "geometry": {"coordinates":[-85.03501300000001,35.960474],"type":"Point"}
+}

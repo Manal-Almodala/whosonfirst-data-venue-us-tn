@@ -1,0 +1,83 @@
+{
+  "id": 823290729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.771887,35.228763,-89.771887,35.228763",
+    "geom:latitude":35.228763,
+    "geom:longitude":-89.771887,
+    "iso:country":"US",
+    "sg:address":"3773 Brunswick Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 385 3440",
+    "sg:postcode":"38133",
+    "sg:province":"TN",
+    "sg:tags":[
+        "consultant",
+        "line",
+        "public"
+    ],
+    "sg:website":"http://www.memphislibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uvNE60vYo7fWxeMtTdxGI_35.228763_-89.771887@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610728,
+    "wof:geomhash":"ee181149f76689db59a67821b64730e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":823290729
+        }
+    ],
+    "wof:id":823290729,
+    "wof:lastmodified":1462610728,
+    "wof:name":"Memphis Light Gas & Water",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "line",
+        "public"
+    ]
+},
+  "bbox": [
+    -89.771887,
+    35.228763,
+    -89.771887,
+    35.228763
+],
+  "geometry": {"coordinates":[-89.77188700000001,35.228763],"type":"Point"}
+}

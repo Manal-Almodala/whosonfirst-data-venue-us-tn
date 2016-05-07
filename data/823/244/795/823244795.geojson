@@ -1,0 +1,74 @@
+{
+  "id": 823244795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.44529,35.86299,-86.44529,35.86299",
+    "geom:latitude":35.86299,
+    "geom:longitude":-86.44529,
+    "iso:country":"US",
+    "sg:address":"2821 Medical Center Pkwy ",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/281293-longhorn-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 4187",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Abm1eXo1DHL8m5EfOqD8e_35.862990_-86.445290@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609232,
+    "wof:geomhash":"b5691edd17883e01a6ba77e9b2bce396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823244795
+        }
+    ],
+    "wof:id":823244795,
+    "wof:lastmodified":1462609232,
+    "wof:name":"Longhorn Steakhouse",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -86.44529,
+    35.86299,
+    -86.44529,
+    35.86299
+],
+  "geometry": {"coordinates":[-86.44529,35.86299],"type":"Point"}
+}

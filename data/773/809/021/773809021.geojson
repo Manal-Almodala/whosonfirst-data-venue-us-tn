@@ -1,0 +1,71 @@
+{
+  "id": 773809021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.29128,36.306776,-82.29128,36.306776",
+    "geom:latitude":36.306776,
+    "geom:longitude":-82.29128,
+    "iso:country":"US",
+    "sg:address":"123 Reeser Rd",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 282 0792",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723215,
+        102087053,
+        85851527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nwej1dhl7goveeBmB6cMG_36.306776_-82.291280@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588544,
+    "wof:geomhash":"4011d949a9fa47e33935f57db499ec57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101723215,
+            "neighbourhood_id":85851527,
+            "region_id":85688701,
+            "venue_id":773809021
+        }
+    ],
+    "wof:id":773809021,
+    "wof:lastmodified":1462588544,
+    "wof:name":"Michael's Medical Currier",
+    "wof:parent_id":85851527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -82.29128,
+    36.306776,
+    -82.29128,
+    36.306776
+],
+  "geometry": {"coordinates":[-82.29128,36.306776],"type":"Point"}
+}

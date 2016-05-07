@@ -1,0 +1,83 @@
+{
+  "id": 823287345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.804646,35.062938,-89.804646,35.062938",
+    "geom:latitude":35.062938,
+    "geom:longitude":-89.804646,
+    "iso:country":"US",
+    "sg:address":"7751 Antigua Cv",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 246 5657",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "bus",
+        "line",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kmyNHxux8MZHbp65VCZX6_35.062938_-89.804646@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610601,
+    "wof:geomhash":"a1b864c9ff17fcaec72290be3a610a44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823287345
+        }
+    ],
+    "wof:id":823287345,
+    "wof:lastmodified":1462610601,
+    "wof:name":"Abc Transportation",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.804646,
+    35.062938,
+    -89.804646,
+    35.062938
+],
+  "geometry": {"coordinates":[-89.80464600000001,35.062938],"type":"Point"}
+}

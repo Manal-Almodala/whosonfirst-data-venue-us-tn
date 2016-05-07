@@ -1,0 +1,73 @@
+{
+  "id": 789972379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.895414,35.193846,-89.895414,35.193846",
+    "geom:latitude":35.193846,
+    "geom:longitude":-89.895414,
+    "iso:country":"US",
+    "sg:address":"2510 Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 379 9708",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63Sk0uHSCUuGmoihEk7Nv2_35.193846_-89.895414@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592103,
+    "wof:geomhash":"ae84124b642a47339a7c0c96c28b68a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789972379
+        }
+    ],
+    "wof:id":789972379,
+    "wof:lastmodified":1462592103,
+    "wof:name":"Adam Market",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.895414,
+    35.193846,
+    -89.895414,
+    35.193846
+],
+  "geometry": {"coordinates":[-89.895414,35.193846],"type":"Point"}
+}

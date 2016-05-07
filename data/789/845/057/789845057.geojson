@@ -1,0 +1,71 @@
+{
+  "id": 789845057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.694524,35.635036,-86.694524,35.635036",
+    "geom:latitude":35.635036,
+    "geom:longitude":-86.694524,
+    "iso:country":"US",
+    "sg:address":"206 High St",
+    "sg:city":"Chapel Hill",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 364 3959",
+    "sg:postcode":"37034",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85854287,
+        102087115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OE5M7FXs22C9ZmcNORg3p_35.635036_-86.694524@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590992,
+    "wof:geomhash":"5590339a595db2cc34bb05e14761ab58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "neighbourhood_id":85854287,
+            "region_id":85688701,
+            "venue_id":789845057
+        }
+    ],
+    "wof:id":789845057,
+    "wof:lastmodified":1462590992,
+    "wof:name":"Chapel Hill Filter Plant",
+    "wof:parent_id":85854287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -86.694524,
+    35.635036,
+    -86.694524,
+    35.635036
+],
+  "geometry": {"coordinates":[-86.694524,35.635036],"type":"Point"}
+}

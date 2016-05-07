@@ -1,0 +1,87 @@
+{
+  "id": 823268001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.795236,36.191381,-86.795236,36.191381",
+    "geom:latitude":36.191381,
+    "geom:longitude":-86.795236,
+    "iso:country":"US",
+    "sg:address":"50 Vantage Way Ste 102",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 345 0952",
+    "sg:postcode":"37228",
+    "sg:province":"TN",
+    "sg:tags":[
+        "control",
+        "information",
+        "planning",
+        "birth",
+        "family"
+    ],
+    "sg:website":"http://www.plannedparenthood.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85813213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d2Dl4mCZz4eT0c0p7jZ9q_36.191381_-86.795236@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609824,
+    "wof:geomhash":"16b02f91c46bd9d3d353d6c300340cf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85813213,
+            "region_id":85688701,
+            "venue_id":823268001
+        }
+    ],
+    "wof:id":823268001,
+    "wof:lastmodified":1462609824,
+    "wof:name":"Planned Parenthood Of Middle And East Tennessee Inc",
+    "wof:parent_id":85813213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "information",
+        "planning",
+        "birth",
+        "family"
+    ]
+},
+  "bbox": [
+    -86.795236,
+    36.191381,
+    -86.795236,
+    36.191381
+],
+  "geometry": {"coordinates":[-86.795236,36.191381],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 806978069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.903959,35.932817,-83.903959,35.932817",
+    "geom:latitude":35.932817,
+    "geom:longitude":-83.903959,
+    "iso:country":"US",
+    "sg:address":"4400 Chapman Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 577 5499",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85853689
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QMANeXWPTGqNAEBQmnmTE_35.932817_-83.903959@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602674,
+    "wof:geomhash":"372a1604e70da2c0113e930122ef00b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85853689,
+            "region_id":85688701,
+            "venue_id":806978069
+        }
+    ],
+    "wof:id":806978069,
+    "wof:lastmodified":1462602674,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85853689,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -83.903959,
+    35.932817,
+    -83.903959,
+    35.932817
+],
+  "geometry": {"coordinates":[-83.903959,35.932817],"type":"Point"}
+}

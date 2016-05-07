@@ -1,0 +1,77 @@
+{
+  "id": 823196059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.044912,35.08299,-90.044912,35.08299",
+    "geom:latitude":35.08299,
+    "geom:longitude":-90.044912,
+    "iso:country":"US",
+    "sg:address":"555 Compress Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 463 3339",
+    "sg:postcode":"38106",
+    "sg:province":"TN",
+    "sg:tags":[
+        "terminal",
+        "delivery",
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85836747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rWfV59l67jd4iP0WdtBX8_35.082990_-90.044912@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608277,
+    "wof:geomhash":"85ca083d1b2c75e460be06c6d7fad971",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85836747,
+            "region_id":85688701,
+            "venue_id":823196059
+        }
+    ],
+    "wof:id":823196059,
+    "wof:lastmodified":1462608277,
+    "wof:name":"Fedex",
+    "wof:parent_id":85836747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "delivery",
+        "package"
+    ]
+},
+  "bbox": [
+    -90.044912,
+    35.08299,
+    -90.044912,
+    35.08299
+],
+  "geometry": {"coordinates":[-90.044912,35.08299],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789797065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.011988,35.49146,-85.011988,35.49146",
+    "geom:latitude":35.49146,
+    "geom:longitude":-85.011988,
+    "iso:country":"US",
+    "sg:address":"225 Main Ave",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 1444",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fv0SI9tX9NEHhcb2FGois_35.491460_-85.011988@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590620,
+    "wof:geomhash":"5491d8581ad9a26e28adf545664f30a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":789797065
+        }
+    ],
+    "wof:id":789797065,
+    "wof:lastmodified":1462590620,
+    "wof:name":"Southeastern Dental Assoc",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.011988,
+    35.49146,
+    -85.011988,
+    35.49146
+],
+  "geometry": {"coordinates":[-85.011988,35.49146],"type":"Point"}
+}

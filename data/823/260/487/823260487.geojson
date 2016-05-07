@@ -1,0 +1,86 @@
+{
+  "id": 823260487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.884167,35.050506,-89.884167,35.050506",
+    "geom:latitude":35.050506,
+    "geom:longitude":-89.884167,
+    "iso:country":"US",
+    "sg:address":"5370 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/29949-cks-coffee-shop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 363 1238",
+    "sg:postcode":"38115",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jnK4yJRnVlWoS7U1zic54_35.050583_-89.884602@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609561,
+    "wof:geomhash":"2a9197fc5803fb986a44c1cebab912ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":823260487
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":823260487
+        }
+    ],
+    "wof:id":823260487,
+    "wof:lastmodified":1462609561,
+    "wof:name":"CK's Coffee Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -89.884167,
+    35.050506,
+    -89.884167,
+    35.050506
+],
+  "geometry": {"coordinates":[-89.88416700000001,35.050506],"type":"Point"}
+}

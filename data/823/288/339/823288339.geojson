@@ -1,0 +1,86 @@
+{
+  "id": 823288339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.794327,35.048248,-89.794327,35.048248",
+    "geom:latitude":35.048248,
+    "geom:longitude":-89.794327,
+    "iso:country":"US",
+    "sg:address":"8071 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 759 2030",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "medical",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2slA8ukqFuCM31dJTM72om_35.048248_-89.794327@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610635,
+    "wof:geomhash":"6019d24e68114c0d9631fa8e557a95f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823288339
+        }
+    ],
+    "wof:id":823288339,
+    "wof:lastmodified":1462610635,
+    "wof:name":"Le Bonheur Urgent Care Centers",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "medical",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.794327,
+    35.048248,
+    -89.794327,
+    35.048248
+],
+  "geometry": {"coordinates":[-89.794327,35.048248],"type":"Point"}
+}

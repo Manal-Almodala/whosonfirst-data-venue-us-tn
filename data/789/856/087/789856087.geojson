@@ -1,0 +1,75 @@
+{
+  "id": 789856087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.508599,36.168499,-85.508599,36.168499",
+    "geom:latitude":36.168499,
+    "geom:longitude":-85.508599,
+    "iso:country":"US",
+    "sg:address":"145 W 4th St",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 528 5633",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722459,
+        102086339,
+        85835737
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O5BF4qSghC3cMui63WTwK_36.168499_-85.508599@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591075,
+    "wof:geomhash":"05d564a362e97a0a1d559044ee7c6b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85835737,
+            "region_id":85688701,
+            "venue_id":789856087
+        }
+    ],
+    "wof:id":789856087,
+    "wof:lastmodified":1462591075,
+    "wof:name":"Cookeville Neurology",
+    "wof:parent_id":85835737,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.508599,
+    36.168499,
+    -85.508599,
+    36.168499
+],
+  "geometry": {"coordinates":[-85.508599,36.168499],"type":"Point"}
+}

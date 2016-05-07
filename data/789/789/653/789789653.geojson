@@ -1,0 +1,75 @@
+{
+  "id": 789789653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.335912,36.338951,-82.335912,36.338951",
+    "geom:latitude":36.338951,
+    "geom:longitude":-82.335912,
+    "iso:country":"US",
+    "sg:address":"1801 E Myrtle Ave",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 434 9454",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance",
+        "household",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85809563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PA1UKCtLY7V6X9SJDHaAV_36.338951_-82.335912@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590563,
+    "wof:geomhash":"0c02e70f9ce702df28a3b77c99a0072b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85809563,
+            "region_id":85688701,
+            "venue_id":789789653
+        }
+    ],
+    "wof:id":789789653,
+    "wof:lastmodified":1462590563,
+    "wof:name":"Appliance Repair & Sales",
+    "wof:parent_id":85809563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "household",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -82.335912,
+    36.338951,
+    -82.335912,
+    36.338951
+],
+  "geometry": {"coordinates":[-82.33591199999999,36.338951],"type":"Point"}
+}

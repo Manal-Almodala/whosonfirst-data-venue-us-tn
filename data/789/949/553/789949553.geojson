@@ -1,0 +1,71 @@
+{
+  "id": 789949553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.465333,36.15058,-85.465333,36.15058",
+    "geom:latitude":36.15058,
+    "geom:longitude":-85.465333,
+    "iso:country":"US",
+    "sg:address":"1654 Springboro Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 252 1236",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49SOAfWxAmnN4GsO8bGIJp_36.150580_-85.465333@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591910,
+    "wof:geomhash":"cf1dd315f8d28ea3ce07b2f102f4c566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":789949553
+        }
+    ],
+    "wof:id":789949553,
+    "wof:lastmodified":1462591910,
+    "wof:name":"Midstate Cleaning",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.465333,
+    36.15058,
+    -85.465333,
+    36.15058
+],
+  "geometry": {"coordinates":[-85.465333,36.15058],"type":"Point"}
+}

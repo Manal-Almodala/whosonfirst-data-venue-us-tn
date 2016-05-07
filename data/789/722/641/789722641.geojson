@@ -1,0 +1,73 @@
+{
+  "id": 789722641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.78288,35.461514,-86.78288,35.461514",
+    "geom:latitude":35.461514,
+    "geom:longitude":-86.78288,
+    "iso:country":"US",
+    "sg:address":"870 N Ellington Pkwy",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 359 9777",
+    "sg:postcode":"37091",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospital",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722897,
+        102087115,
+        85811699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z65d4SJkFN9K2ArjlzOkp_35.461514_-86.782880@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590043,
+    "wof:geomhash":"06c2e80eb82add24eae8d1d90b900e39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "locality_id":101722897,
+            "neighbourhood_id":85811699,
+            "region_id":85688701,
+            "venue_id":789722641
+        }
+    ],
+    "wof:id":789722641,
+    "wof:lastmodified":1462590043,
+    "wof:name":"Medi-Quip / Option Care",
+    "wof:parent_id":85811699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.78288,
+    35.461514,
+    -86.78288,
+    35.461514
+],
+  "geometry": {"coordinates":[-86.78288000000001,35.461514],"type":"Point"}
+}

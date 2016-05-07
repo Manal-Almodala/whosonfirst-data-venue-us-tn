@@ -1,0 +1,71 @@
+{
+  "id": 773724755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.035021,35.94976,-85.035021,35.94976",
+    "geom:latitude":35.94976,
+    "geom:longitude":-85.035021,
+    "iso:country":"US",
+    "sg:address":"409 10th St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 9143",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29pjdzpYMRSr9JruFiGn6d_35.949760_-85.035021@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587905,
+    "wof:geomhash":"991de11f3718cfa7ef9180594b16630f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":773724755
+        }
+    ],
+    "wof:id":773724755,
+    "wof:lastmodified":1462587905,
+    "wof:name":"Cumberland County Rescue Squad",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.035021,
+    35.94976,
+    -85.035021,
+    35.94976
+],
+  "geometry": {"coordinates":[-85.035021,35.94976],"type":"Point"}
+}

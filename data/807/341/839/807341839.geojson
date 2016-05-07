@@ -1,0 +1,71 @@
+{
+  "id": 807341839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.723247,35.484652,-89.723247,35.484652",
+    "geom:latitude":35.484652,
+    "geom:longitude":-89.723247,
+    "iso:country":"US",
+    "sg:address":"139 N Main St",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 8661",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ww1AA62txBLKitq08t1yH_35.484652_-89.723247@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606374,
+    "wof:geomhash":"1085a001f1b16fcd27fc63b02056fee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":807341839
+        }
+    ],
+    "wof:id":807341839,
+    "wof:lastmodified":1462606374,
+    "wof:name":"Brighton City Hall",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -89.723247,
+    35.484652,
+    -89.723247,
+    35.484652
+],
+  "geometry": {"coordinates":[-89.723247,35.484652],"type":"Point"}
+}

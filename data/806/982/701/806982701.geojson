@@ -1,0 +1,80 @@
+{
+  "id": 806982701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.860643,35.646219,-88.860643,35.646219",
+    "geom:latitude":35.646219,
+    "geom:longitude":-88.860643,
+    "iso:country":"US",
+    "sg:address":"1889 Hollywood Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 664 9541",
+    "sg:postcode":"38305",
+    "sg:province":"TN",
+    "sg:tags":[
+        "piano",
+        "organs"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722769,
+        102087221,
+        85821577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IP7UJ4X2h9f8neLy5dYn4_35.646219_-88.860643@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602716,
+    "wof:geomhash":"730caeba376ace902f7ec198db9c890a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85821577,
+            "region_id":85688701,
+            "venue_id":806982701
+        }
+    ],
+    "wof:id":806982701,
+    "wof:lastmodified":1462602716,
+    "wof:name":"Jackson Piano",
+    "wof:parent_id":85821577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano",
+        "organs"
+    ]
+},
+  "bbox": [
+    -88.860643,
+    35.646219,
+    -88.860643,
+    35.646219
+],
+  "geometry": {"coordinates":[-88.860643,35.646219],"type":"Point"}
+}

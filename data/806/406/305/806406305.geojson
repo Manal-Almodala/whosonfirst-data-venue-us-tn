@@ -1,0 +1,75 @@
+{
+  "id": 806406305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.931072,35.087915,-89.931072,35.087915",
+    "geom:latitude":35.087915,
+    "geom:longitude":-89.931072,
+    "iso:country":"US",
+    "sg:address":"1636 Getwell Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 743 1410",
+    "sg:postcode":"38111",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85839073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cGCJDf3KDmOQMRaTGEmqq_35.087915_-89.931072@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597884,
+    "wof:geomhash":"06ebc71a34c22eb1150c7b7d2fb1c29c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85839073,
+            "region_id":85688701,
+            "venue_id":806406305
+        }
+    ],
+    "wof:id":806406305,
+    "wof:lastmodified":1462597884,
+    "wof:name":"Getwell Motors",
+    "wof:parent_id":85839073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.931072,
+    35.087915,
+    -89.931072,
+    35.087915
+],
+  "geometry": {"coordinates":[-89.931072,35.087915],"type":"Point"}
+}

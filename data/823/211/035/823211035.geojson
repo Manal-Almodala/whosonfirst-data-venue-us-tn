@@ -1,0 +1,73 @@
+{
+  "id": 823211035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.075036,35.916547,-84.075036,35.916547",
+    "geom:latitude":35.916547,
+    "geom:longitude":-84.075036,
+    "iso:country":"US",
+    "sg:address":"8839 Kingston Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 690 5421",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JIh2TRZuvUddwnAjIocaa_35.916547_-84.075036@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608552,
+    "wof:geomhash":"2efd2f86a469fcc1d8a94dddef69fced",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":823211035
+        }
+    ],
+    "wof:id":823211035,
+    "wof:lastmodified":1462608552,
+    "wof:name":"Jarek's Car Svc Inc",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.075036,
+    35.916547,
+    -84.075036,
+    35.916547
+],
+  "geometry": {"coordinates":[-84.075036,35.916547],"type":"Point"}
+}

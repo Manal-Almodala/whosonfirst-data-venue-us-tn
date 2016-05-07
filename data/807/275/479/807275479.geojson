@@ -1,0 +1,76 @@
+{
+  "id": 807275479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.121274,35.907413,-84.121274,35.907413",
+    "geom:latitude":35.907413,
+    "geom:longitude":-84.121274,
+    "iso:country":"US",
+    "sg:address":"207 Center Park Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 966 0585",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "warehouse",
+        "cigarette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qIRWj8Q4v2ju2DPdDFiaD_35.907413_-84.121274@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605598,
+    "wof:geomhash":"2d22f9b2966379e916a0da27d11aa298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":807275479
+        }
+    ],
+    "wof:id":807275479,
+    "wof:lastmodified":1462605598,
+    "wof:name":"Lorillard Tobacco Co",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "cigarette"
+    ]
+},
+  "bbox": [
+    -84.121274,
+    35.907413,
+    -84.121274,
+    35.907413
+],
+  "geometry": {"coordinates":[-84.121274,35.907413],"type":"Point"}
+}

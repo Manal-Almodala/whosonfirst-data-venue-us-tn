@@ -1,0 +1,71 @@
+{
+  "id": 807102529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.00092,35.506429,-85.00092,35.506429",
+    "geom:latitude":35.506429,
+    "geom:longitude":-85.00092,
+    "iso:country":"US",
+    "sg:address":"7200 Rhea County Hwy",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 570 0077",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CWvRAZGrjbaVq3h05WOv4_35.506429_-85.000920@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603759,
+    "wof:geomhash":"c7141a52d796add384c86a42949539f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":807102529
+        }
+    ],
+    "wof:id":807102529,
+    "wof:lastmodified":1462603759,
+    "wof:name":"Rhea County Mental Health Ctr",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -85.00092,
+    35.506429,
+    -85.00092,
+    35.506429
+],
+  "geometry": {"coordinates":[-85.00091999999999,35.506429],"type":"Point"}
+}

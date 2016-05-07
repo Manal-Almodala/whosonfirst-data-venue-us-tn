@@ -1,0 +1,71 @@
+{
+  "id": 789684209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.445351,36.385766,-86.445351,36.385766",
+    "geom:latitude":36.385766,
+    "geom:longitude":-86.445351,
+    "iso:country":"US",
+    "sg:address":"315 S Water Ave",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 2484",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L4UwxbqVSdWozNYtEEPQx_36.385766_-86.445351@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589732,
+    "wof:geomhash":"f78b9423126010b7762f9d08fa0ac517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":789684209
+        }
+    ],
+    "wof:id":789684209,
+    "wof:lastmodified":1462589732,
+    "wof:name":"Sunshine Cleaners",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -86.445351,
+    36.385766,
+    -86.445351,
+    36.385766
+],
+  "geometry": {"coordinates":[-86.445351,36.385766],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806472415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.674567,35.050979,-85.674567,35.050979",
+    "geom:latitude":35.050979,
+    "geom:longitude":-85.674567,
+    "iso:country":"US",
+    "sg:address":"100 Kimball Cove Rd",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 837 7167",
+    "sg:postcode":"37347",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sOJg9SDc4YK3seBs0sZ6Q_35.050979_-85.674567@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598405,
+    "wof:geomhash":"5cbd074d158bf4a04525dd0c87462d72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":806472415
+        }
+    ],
+    "wof:id":806472415,
+    "wof:lastmodified":1462598405,
+    "wof:name":"KFC",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.674567,
+    35.050979,
+    -85.674567,
+    35.050979
+],
+  "geometry": {"coordinates":[-85.674567,35.050979],"type":"Point"}
+}

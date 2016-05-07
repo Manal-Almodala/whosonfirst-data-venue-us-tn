@@ -1,0 +1,73 @@
+{
+  "id": 789842327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.706365,34.997806,-85.706365,34.997806",
+    "geom:latitude":34.997806,
+    "geom:longitude":-85.706365,
+    "iso:country":"US",
+    "sg:address":"520 E 12th St",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 7144",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722495,
+        102086347,
+        85823635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yq1ELK7GBupUJWOW314Wn_34.997806_-85.706365@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590965,
+    "wof:geomhash":"8c83db638d73c79535c9fed7c6380b9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":85823635,
+            "region_id":85688701,
+            "venue_id":789842327
+        }
+    ],
+    "wof:id":789842327,
+    "wof:lastmodified":1462590965,
+    "wof:name":"Christian F Cooper MD",
+    "wof:parent_id":85823635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.706365,
+    34.997806,
+    -85.706365,
+    34.997806
+],
+  "geometry": {"coordinates":[-85.70636500000001,34.997806],"type":"Point"}
+}

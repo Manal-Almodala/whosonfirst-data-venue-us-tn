@@ -1,0 +1,85 @@
+{
+  "id": 806928671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.013347,35.193312,-87.013347,35.193312",
+    "geom:latitude":35.193312,
+    "geom:longitude":-87.013347,
+    "iso:country":"US",
+    "sg:address":"1109 E College St",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 363 8823",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34976K2KVCHz0skgRvvbTl_35.193312_-87.013347@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602262,
+    "wof:geomhash":"e778fe25c46266f14390f75e150d1f75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":806928671
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":806928671
+        }
+    ],
+    "wof:id":806928671,
+    "wof:lastmodified":1462602262,
+    "wof:name":"Balatico & Balatico",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.013347,
+    35.193312,
+    -87.013347,
+    35.193312
+],
+  "geometry": {"coordinates":[-87.013347,35.193312],"type":"Point"}
+}

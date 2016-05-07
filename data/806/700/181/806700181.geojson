@@ -1,0 +1,81 @@
+{
+  "id": 806700181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.522009,35.983139,-85.522009,35.983139",
+    "geom:latitude":35.983139,
+    "geom:longitude":-85.522009,
+    "iso:country":"US",
+    "sg:address":"330 Arville Green Rd",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 761 2502",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "general",
+        "r",
+        "operator",
+        "trucking",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DVWky14CR3HBGrNVO2VF6_35.983139_-85.522009@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600341,
+    "wof:geomhash":"a7808deea31cb4b2aa5bec6ef60c0de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":806700181
+        }
+    ],
+    "wof:id":806700181,
+    "wof:lastmodified":1462600341,
+    "wof:name":"Greene Enterprises",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "general",
+        "r",
+        "operator",
+        "trucking",
+        "local"
+    ]
+},
+  "bbox": [
+    -85.522009,
+    35.983139,
+    -85.522009,
+    35.983139
+],
+  "geometry": {"coordinates":[-85.522009,35.983139],"type":"Point"}
+}

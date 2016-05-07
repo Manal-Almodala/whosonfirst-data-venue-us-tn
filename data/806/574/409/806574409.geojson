@@ -1,0 +1,76 @@
+{
+  "id": 806574409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.274621,36.142913,-85.274621,36.142913",
+    "geom:latitude":36.142913,
+    "geom:longitude":-85.274621,
+    "iso:country":"US",
+    "sg:address":"804 S Holly St",
+    "sg:city":"Monterey",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 839 3880",
+    "sg:postcode":"38574",
+    "sg:province":"TN",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GjosirvZvckg2NoQOn1oS_36.142913_-85.274621@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599267,
+    "wof:geomhash":"bf0f40faff6c690cba5a450ac4828c4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":806574409
+        }
+    ],
+    "wof:id":806574409,
+    "wof:lastmodified":1462599267,
+    "wof:name":"Convenience Mart",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.274621,
+    36.142913,
+    -85.274621,
+    36.142913
+],
+  "geometry": {"coordinates":[-85.274621,36.142913],"type":"Point"}
+}

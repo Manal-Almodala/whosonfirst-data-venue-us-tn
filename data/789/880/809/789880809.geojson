@@ -1,0 +1,77 @@
+{
+  "id": 789880809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.920806,35.988282,-83.920806,35.988282",
+    "geom:latitude":35.988282,
+    "geom:longitude":-83.920806,
+    "iso:country":"US",
+    "sg:address":"1704 N Broadway St",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 971 6900",
+    "sg:postcode":"37917",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85878559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dL80sHoZUvzSElRJbjQn8_35.988282_-83.920806@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591296,
+    "wof:geomhash":"17b3eb2080e00a82520b5fb611709850",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85878559,
+            "region_id":85688701,
+            "venue_id":789880809
+        }
+    ],
+    "wof:id":789880809,
+    "wof:lastmodified":1462591296,
+    "wof:name":"BP",
+    "wof:parent_id":85878559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -83.920806,
+    35.988282,
+    -83.920806,
+    35.988282
+],
+  "geometry": {"coordinates":[-83.920806,35.988282],"type":"Point"}
+}

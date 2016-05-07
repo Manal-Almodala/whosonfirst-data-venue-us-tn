@@ -1,0 +1,74 @@
+{
+  "id": 823247101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.032082,35.474427,-85.032082,35.474427",
+    "geom:latitude":35.474427,
+    "geom:longitude":-85.032082,
+    "iso:country":"US",
+    "sg:address":"4331 Rhea County Hwy",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/dayton/166276-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 570 8073",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lpo5L4fUOYq8VZZDFB4G8_35.474427_-85.032082@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609279,
+    "wof:geomhash":"75035d223d011ccc4d20c6138c8f44cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":823247101
+        }
+    ],
+    "wof:id":823247101,
+    "wof:lastmodified":1462609279,
+    "wof:name":"Arby's",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.032082,
+    35.474427,
+    -85.032082,
+    35.474427
+],
+  "geometry": {"coordinates":[-85.032082,35.474427],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773706029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446659,36.390207,-86.446659,36.390207",
+    "geom:latitude":36.390207,
+    "geom:longitude":-86.446659,
+    "iso:country":"US",
+    "sg:address":"123 Prince St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 5390",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NuEtFbxYAtrw5OapmpQLw_36.390207_-86.446659@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587766,
+    "wof:geomhash":"513b1b86d3a44e4ababbccd80fdc80f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773706029
+        }
+    ],
+    "wof:id":773706029,
+    "wof:lastmodified":1462587766,
+    "wof:name":"Steve's Cleaners",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -86.446659,
+    36.390207,
+    -86.446659,
+    36.390207
+],
+  "geometry": {"coordinates":[-86.446659,36.390207],"type":"Point"}
+}

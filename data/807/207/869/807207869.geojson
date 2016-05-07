@@ -1,0 +1,71 @@
+{
+  "id": 807207869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.622356,36.340976,-86.622356,36.340976",
+    "geom:latitude":36.340976,
+    "geom:longitude":-86.622356,
+    "iso:country":"US",
+    "sg:address":"1288 Goshentown Rd",
+    "sg:city":"Hendersonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 824 6352",
+    "sg:postcode":"37075",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723169,
+        102086357,
+        85825691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lQaMQgHpqo8StM7RhvKWq_36.340976_-86.622356@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604876,
+    "wof:geomhash":"7c9b620905688cb0c3258487d0ce232d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85825691,
+            "region_id":85688701,
+            "venue_id":807207869
+        }
+    ],
+    "wof:id":807207869,
+    "wof:lastmodified":1462604876,
+    "wof:name":"Tom Transmission & Repair",
+    "wof:parent_id":85825691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.622356,
+    36.340976,
+    -86.622356,
+    36.340976
+],
+  "geometry": {"coordinates":[-86.622356,36.340976],"type":"Point"}
+}

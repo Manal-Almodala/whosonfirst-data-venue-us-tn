@@ -1,0 +1,75 @@
+{
+  "id": 789803183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.220261,34.990494,-85.220261,34.990494",
+    "geom:latitude":34.990494,
+    "geom:longitude":-85.220261,
+    "iso:country":"US",
+    "sg:address":"5811 Ringgold Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 892 2185",
+    "sg:postcode":"37412",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723039,
+        102087185,
+        85805687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nQjlrYPOCSPRRwWqXiMVx_34.990494_-85.220261@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590662,
+    "wof:geomhash":"9121dfe8708f0e012a366ea262f598e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723039,
+            "neighbourhood_id":85805687,
+            "region_id":85688701,
+            "venue_id":789803183
+        }
+    ],
+    "wof:id":789803183,
+    "wof:lastmodified":1462590662,
+    "wof:name":"Chris Auto Body Shop",
+    "wof:parent_id":85805687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.220261,
+    34.990494,
+    -85.220261,
+    34.990494
+],
+  "geometry": {"coordinates":[-85.22026099999999,34.990494],"type":"Point"}
+}

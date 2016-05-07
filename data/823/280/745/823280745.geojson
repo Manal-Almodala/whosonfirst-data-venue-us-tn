@@ -1,0 +1,86 @@
+{
+  "id": 823280745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.034102,35.107581,-90.034102,35.107581",
+    "geom:latitude":35.107581,
+    "geom:longitude":-90.034102,
+    "iso:country":"US",
+    "sg:address":"1437 Mississippi Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 774 8157",
+    "sg:postcode":"38106",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "new",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85808431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35Ph2P4DpSESqdo2hZItPI_35.107581_-90.034102@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610342,
+    "wof:geomhash":"682a1029671bf5b8c98a2dfe13d0195c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85808431,
+            "region_id":85688701,
+            "venue_id":823280745
+        }
+    ],
+    "wof:id":823280745,
+    "wof:lastmodified":1462610342,
+    "wof:name":"Mzs Auto",
+    "wof:parent_id":85808431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -90.034102,
+    35.107581,
+    -90.034102,
+    35.107581
+],
+  "geometry": {"coordinates":[-90.034102,35.107581],"type":"Point"}
+}

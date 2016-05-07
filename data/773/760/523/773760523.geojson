@@ -1,0 +1,71 @@
+{
+  "id": 773760523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.216888,36.041112,-84.216888,36.041112",
+    "geom:latitude":36.041112,
+    "geom:longitude":-84.216888,
+    "iso:country":"US",
+    "sg:address":"12 Arkansas Ave",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 482 7293",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78IdDdwCQAVh0vooo1aR7s_36.041112_-84.216888@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588175,
+    "wof:geomhash":"7cee61c6938f280df28e36674fc99546",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":773760523
+        }
+    ],
+    "wof:id":773760523,
+    "wof:lastmodified":1462588175,
+    "wof:name":"Paula's Market",
+    "wof:parent_id":85818065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.216888,
+    36.041112,
+    -84.216888,
+    36.041112
+],
+  "geometry": {"coordinates":[-84.216888,36.041112],"type":"Point"}
+}

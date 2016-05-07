@@ -1,0 +1,73 @@
+{
+  "id": 773467909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.396911,35.85252,-86.396911,35.85252",
+    "geom:latitude":35.85252,
+    "geom:longitude":-86.396911,
+    "iso:country":"US",
+    "sg:address":"1616 Memorial Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 893 0825",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85835585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z5x7sEK20bSh70X97dD8u_35.852520_-86.396911@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585970,
+    "wof:geomhash":"5c0ebcb1c13f326d00169ecaa8f00335",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85835585,
+            "region_id":85688701,
+            "venue_id":773467909
+        }
+    ],
+    "wof:id":773467909,
+    "wof:lastmodified":1462585970,
+    "wof:name":"Murfreesboro Animal Clinic",
+    "wof:parent_id":85835585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -86.396911,
+    35.85252,
+    -86.396911,
+    35.85252
+],
+  "geometry": {"coordinates":[-86.396911,35.85252],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790015659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.523438,35.498981,-89.523438,35.498981",
+    "geom:latitude":35.498981,
+    "geom:longitude":-89.523438,
+    "iso:country":"US",
+    "sg:address":"1845 Davis Rd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 4300",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fIEFR8hdcofIoQC2jLhqk_35.498981_-89.523438@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592455,
+    "wof:geomhash":"c90feb6f590b417d00a05f06ccf1f288",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790015659
+        }
+    ],
+    "wof:id":790015659,
+    "wof:lastmodified":1462592455,
+    "wof:name":"Charleston Fire Department",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.523438,
+    35.498981,
+    -89.523438,
+    35.498981
+],
+  "geometry": {"coordinates":[-89.523438,35.498981],"type":"Point"}
+}

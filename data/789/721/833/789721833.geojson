@@ -1,0 +1,71 @@
+{
+  "id": 789721833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.559214,35.861757,-83.559214,35.861757",
+    "geom:latitude":35.861757,
+    "geom:longitude":-83.559214,
+    "iso:country":"US",
+    "sg:address":"545 High St",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 6551",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29gvrUW6nA8APuZyw9xziZ_35.861757_-83.559214@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590038,
+    "wof:geomhash":"4c94007bfbd311fcb9f064ba50b676fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":789721833
+        }
+    ],
+    "wof:id":789721833,
+    "wof:lastmodified":1462590038,
+    "wof:name":"Donald Newman Taxi",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -83.559214,
+    35.861757,
+    -83.559214,
+    35.861757
+],
+  "geometry": {"coordinates":[-83.559214,35.861757],"type":"Point"}
+}

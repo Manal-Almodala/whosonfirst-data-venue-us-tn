@@ -1,0 +1,75 @@
+{
+  "id": 789830807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.57832,35.876507,-83.57832,35.876507",
+    "geom:latitude":35.876507,
+    "geom:longitude":-83.57832,
+    "iso:country":"US",
+    "sg:address":"608 Old Knoxville Hwy",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 429 3389",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85809817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kh27Go134fMYeibcdUTAu_35.876507_-83.578320@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590877,
+    "wof:geomhash":"7e4da7e11cfaaa54bc8838a64069d5ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85809817,
+            "region_id":85688701,
+            "venue_id":789830807
+        }
+    ],
+    "wof:id":789830807,
+    "wof:lastmodified":1462590877,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85809817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -83.57832,
+    35.876507,
+    -83.57832,
+    35.876507
+],
+  "geometry": {"coordinates":[-83.57832000000001,35.876507],"type":"Point"}
+}

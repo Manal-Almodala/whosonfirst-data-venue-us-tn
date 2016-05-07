@@ -1,0 +1,83 @@
+{
+  "id": 806885791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.024869,35.958319,-84.024869,35.958319",
+    "geom:latitude":35.958319,
+    "geom:longitude":-84.024869,
+    "iso:country":"US",
+    "sg:address":"1801 Amherst Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 909 0123",
+    "sg:postcode":"37909",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor",
+        "piping",
+        "mechanical"
+    ],
+    "sg:website":"www.ultraweld.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        420541855
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kS1Q2nLts6mUk8Ali2Lpf_35.958319_-84.024869@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601898,
+    "wof:geomhash":"76f6b10a58f3335965bb6ff049d93fc3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":420541855,
+            "region_id":85688701,
+            "venue_id":806885791
+        }
+    ],
+    "wof:id":806885791,
+    "wof:lastmodified":1462601898,
+    "wof:name":"Ultraweld Co",
+    "wof:parent_id":420541855,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "piping",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -84.024869,
+    35.958319,
+    -84.024869,
+    35.958319
+],
+  "geometry": {"coordinates":[-84.024869,35.958319],"type":"Point"}
+}

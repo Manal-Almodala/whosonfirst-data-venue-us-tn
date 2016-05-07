@@ -1,0 +1,73 @@
+{
+  "id": 823251741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.553521,35.784359,-83.553521,35.784359",
+    "geom:latitude":35.784359,
+    "geom:longitude":-83.553521,
+    "iso:country":"US",
+    "sg:address":"3570 Parkway",
+    "sg:city":"Pigeon Forge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/sevierville/203610-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37863",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722583,
+        102086245,
+        85812089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4q8a6hg48urRSE0JbCZVyf_35.784359_-83.553521@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609378,
+    "wof:geomhash":"e0e907f651aa08f52b230ea71203d7ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722583,
+            "neighbourhood_id":85812089,
+            "region_id":85688701,
+            "venue_id":823251741
+        }
+    ],
+    "wof:id":823251741,
+    "wof:lastmodified":1462609378,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85812089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.553521,
+    35.784359,
+    -83.553521,
+    35.784359
+],
+  "geometry": {"coordinates":[-83.553521,35.784359],"type":"Point"}
+}

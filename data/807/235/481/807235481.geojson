@@ -1,0 +1,71 @@
+{
+  "id": 807235481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.37657,35.936243,-85.37657,35.936243",
+    "geom:latitude":35.936243,
+    "geom:longitude":-85.37657,
+    "iso:country":"US",
+    "sg:address":"226 Mesa Trl",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 738 2853",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qvDVGIbV2oTuFxWU2Fw3a_35.936243_-85.376570@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605168,
+    "wof:geomhash":"b0b57a05787e312245598fe326dfdbaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":807235481
+        }
+    ],
+    "wof:id":807235481,
+    "wof:lastmodified":1462605168,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -85.37657,
+    35.936243,
+    -85.37657,
+    35.936243
+],
+  "geometry": {"coordinates":[-85.37657,35.936243],"type":"Point"}
+}

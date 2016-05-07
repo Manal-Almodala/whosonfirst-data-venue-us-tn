@@ -1,0 +1,73 @@
+{
+  "id": 806819921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.58654,35.074625,-85.58654,35.074625",
+    "geom:latitude":35.074625,
+    "geom:longitude":-85.58654,
+    "iso:country":"US",
+    "sg:address":"330 Gold Rd",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 942 2220",
+    "sg:postcode":"37347",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZH0U7hApJkjweGywbgdjo_35.074625_-85.586540@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601344,
+    "wof:geomhash":"41d15b9f08c575d42ccf16b60402cdc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":806819921
+        }
+    ],
+    "wof:id":806819921,
+    "wof:lastmodified":1462601344,
+    "wof:name":"Payne's Garage & Towing",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.58654,
+    35.074625,
+    -85.58654,
+    35.074625
+],
+  "geometry": {"coordinates":[-85.58654,35.074625],"type":"Point"}
+}

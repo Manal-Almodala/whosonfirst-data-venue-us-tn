@@ -1,0 +1,73 @@
+{
+  "id": 823165045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.035624,35.953453,-85.035624,35.953453",
+    "geom:latitude":35.953453,
+    "geom:longitude":-85.035624,
+    "iso:country":"US",
+    "sg:address":"159 Central Ave",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 4451",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2E3VfV2AIaE41wqc70heWg_35.953453_-85.035624@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607870,
+    "wof:geomhash":"f7265fc5b747de38f713f37aff8ef5e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":823165045
+        }
+    ],
+    "wof:id":823165045,
+    "wof:lastmodified":1462607870,
+    "wof:name":"Crossville Radiator Auto Repr",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.035624,
+    35.953453,
+    -85.035624,
+    35.953453
+],
+  "geometry": {"coordinates":[-85.035624,35.953453],"type":"Point"}
+}

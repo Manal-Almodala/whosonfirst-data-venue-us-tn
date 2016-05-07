@@ -1,0 +1,83 @@
+{
+  "id": 823276211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.728188,35.0504,-89.728188,35.0504",
+    "geom:latitude":35.0504,
+    "geom:longitude":-89.728188,
+    "iso:country":"US",
+    "sg:address":"1990 W Poplar Ave Ste 106",
+    "sg:city":"Collierville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 853 9505",
+    "sg:postcode":"38017",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=5617&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722651,
+        102087213,
+        85804201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rV8ZKJCCV4SaaSFJ06IN4_35.050400_-89.728188@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610160,
+    "wof:geomhash":"9cc291b6765bed2abbdc90e808231be9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722651,
+            "neighbourhood_id":85804201,
+            "region_id":85688701,
+            "venue_id":823276211
+        }
+    ],
+    "wof:id":823276211,
+    "wof:lastmodified":1462610160,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85804201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -89.728188,
+    35.0504,
+    -89.728188,
+    35.0504
+],
+  "geometry": {"coordinates":[-89.728188,35.0504],"type":"Point"}
+}

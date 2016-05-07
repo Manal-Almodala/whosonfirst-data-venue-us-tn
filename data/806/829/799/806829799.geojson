@@ -1,0 +1,73 @@
+{
+  "id": 806829799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.303024,35.048973,-85.303024,35.048973",
+    "geom:latitude":35.048973,
+    "geom:longitude":-85.303024,
+    "iso:country":"US",
+    "sg:address":"501 Houston St",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 425 4200",
+    "sg:postcode":"37403",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        420541693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5r2sXB2zSPVA7eisWIrJG6_35.048973_-85.303024@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601423,
+    "wof:geomhash":"42134fdd046ec42e286c4d7dd97c508a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":420541693,
+            "region_id":85688701,
+            "venue_id":806829799
+        }
+    ],
+    "wof:id":806829799,
+    "wof:lastmodified":1462601423,
+    "wof:name":"UTC Student Health Services",
+    "wof:parent_id":420541693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.303024,
+    35.048973,
+    -85.303024,
+    35.048973
+],
+  "geometry": {"coordinates":[-85.30302399999999,35.048973],"type":"Point"}
+}

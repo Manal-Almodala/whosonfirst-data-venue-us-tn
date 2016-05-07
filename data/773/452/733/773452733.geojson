@@ -1,0 +1,71 @@
+{
+  "id": 773452733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.116668,35.929909,-84.116668,35.929909",
+    "geom:latitude":35.929909,
+    "geom:longitude":-84.116668,
+    "iso:country":"US",
+    "sg:address":"829 Bob Kirby Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 690 3710",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68jBelXFYPY8UKEaraxwBe_35.929909_-84.116668@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585859,
+    "wof:geomhash":"d2ed949225d7bb4484fd69b7ada65dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":773452733
+        }
+    ],
+    "wof:id":773452733,
+    "wof:lastmodified":1462585859,
+    "wof:name":"Halcomb Electric",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.116668,
+    35.929909,
+    -84.116668,
+    35.929909
+],
+  "geometry": {"coordinates":[-84.116668,35.929909],"type":"Point"}
+}

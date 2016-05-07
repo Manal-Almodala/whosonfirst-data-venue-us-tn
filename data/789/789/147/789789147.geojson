@@ -1,0 +1,71 @@
+{
+  "id": 789789147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.433301,36.558339,-87.433301,36.558339",
+    "geom:latitude":36.558339,
+    "geom:longitude":-87.433301,
+    "iso:country":"US",
+    "sg:address":"715 Inver Ln",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 552 8015",
+    "sg:postcode":"37042",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85805437,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yEoKVPkbPbEsJvdBHvpvc_36.558339_-87.433301@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590559,
+    "wof:geomhash":"88498f41c0456da71fa7212b74b35403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85805437,
+            "region_id":85688701,
+            "venue_id":789789147
+        }
+    ],
+    "wof:id":789789147,
+    "wof:lastmodified":1462590559,
+    "wof:name":"Lee Disposal Svc",
+    "wof:parent_id":85805437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -87.433301,
+    36.558339,
+    -87.433301,
+    36.558339
+],
+  "geometry": {"coordinates":[-87.433301,36.558339],"type":"Point"}
+}

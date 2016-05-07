@@ -1,0 +1,86 @@
+{
+  "id": 823243819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.562616,36.016609,-86.562616,36.016609",
+    "geom:latitude":36.016609,
+    "geom:longitude":-86.562616,
+    "iso:country":"US",
+    "sg:address":"Murfreesboro Rd",
+    "sg:city":"La Vergne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/smyrna/210202-e-millanos-pizzeria/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 627 5900",
+    "sg:postcode":"37086",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723113,
+        102086355,
+        420542085,
+        420541483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NAmIz7B0FkXYcfIGJVZEa_36.016609_-86.562616@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609216,
+    "wof:geomhash":"c5986b49fae0ef8c81cb72a4731aaf2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723113,
+            "neighbourhood_id":420542085,
+            "region_id":85688701,
+            "venue_id":823243819
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723113,
+            "neighbourhood_id":420541483,
+            "region_id":85688701,
+            "venue_id":823243819
+        }
+    ],
+    "wof:id":823243819,
+    "wof:lastmodified":1462609216,
+    "wof:name":"E. Millano's Pizzeria",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.562616,
+    36.016609,
+    -86.562616,
+    36.016609
+],
+  "geometry": {"coordinates":[-86.56261600000001,36.016609],"type":"Point"}
+}

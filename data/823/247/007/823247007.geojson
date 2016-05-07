@@ -1,0 +1,74 @@
+{
+  "id": 823247007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.843276,35.198833,-84.843276,35.198833",
+    "geom:latitude":35.198833,
+    "geom:longitude":-84.843276,
+    "iso:country":"US",
+    "sg:address":"165 Stuart Rd NE",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/charleston/73103-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 339 0111",
+    "sg:postcode":"37312",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85808527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UXRYTVXRvqAwKQSeVRa3R_35.198833_-84.843276@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609277,
+    "wof:geomhash":"f0d2cf9a842b354ef378ddfb24ecca50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85808527,
+            "region_id":85688701,
+            "venue_id":823247007
+        }
+    ],
+    "wof:id":823247007,
+    "wof:lastmodified":1462609277,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85808527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.843276,
+    35.198833,
+    -84.843276,
+    35.198833
+],
+  "geometry": {"coordinates":[-84.843276,35.198833],"type":"Point"}
+}

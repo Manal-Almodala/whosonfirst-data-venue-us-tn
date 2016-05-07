@@ -1,0 +1,71 @@
+{
+  "id": 807333631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.072156,36.415257,-89.072156,36.415257",
+    "geom:latitude":36.415257,
+    "geom:longitude":-89.072156,
+    "iso:country":"US",
+    "sg:address":"1220 W Reelfoot Ave",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 1199",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54m9NABP7wQnS5A0MhQ3qr_36.415257_-89.072156@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606245,
+    "wof:geomhash":"70367832060d65befe626f01314add50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":807333631
+        }
+    ],
+    "wof:id":807333631,
+    "wof:lastmodified":1462606245,
+    "wof:name":"National Car Wash",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -89.072156,
+    36.415257,
+    -89.072156,
+    36.415257
+],
+  "geometry": {"coordinates":[-89.07215600000001,36.415257],"type":"Point"}
+}

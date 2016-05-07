@@ -1,0 +1,71 @@
+{
+  "id": 789713825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.044026,35.61183,-87.044026,35.61183",
+    "geom:latitude":35.61183,
+    "geom:longitude":-87.044026,
+    "iso:country":"US",
+    "sg:address":"1010 Beckett St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 5385",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30T3zQ5FWUKsrmlgG2CIXE_35.611830_-87.044026@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589966,
+    "wof:geomhash":"783a60cea85894ed55d1fafd07d003d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":789713825
+        }
+    ],
+    "wof:id":789713825,
+    "wof:lastmodified":1462589966,
+    "wof:name":"Danny Owens Diesel Svc Repair",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -87.044026,
+    35.61183,
+    -87.044026,
+    35.61183
+],
+  "geometry": {"coordinates":[-87.044026,35.61183],"type":"Point"}
+}

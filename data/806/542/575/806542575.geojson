@@ -1,0 +1,88 @@
+{
+  "id": 806542575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.895338,35.041139,-89.895338,35.041139",
+    "geom:latitude":35.041139,
+    "geom:longitude":-89.895338,
+    "iso:country":"US",
+    "sg:address":"4900 Outland Center Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 362 3522",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "sg:website":"www.concentra.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PEypyH8t8mg00w5wrtjzP_35.041139_-89.895338@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598980,
+    "wof:geomhash":"bb13e357c7940f1fc9493231e9fb3f02",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":806542575
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":806542575
+        }
+    ],
+    "wof:id":806542575,
+    "wof:lastmodified":1462598980,
+    "wof:name":"Concentra Medical Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -89.895338,
+    35.041139,
+    -89.895338,
+    35.041139
+],
+  "geometry": {"coordinates":[-89.895338,35.041139],"type":"Point"}
+}

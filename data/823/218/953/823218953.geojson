@@ -1,0 +1,75 @@
+{
+  "id": 823218953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.149844,35.886987,-84.149844,35.886987",
+    "geom:latitude":35.886987,
+    "geom:longitude":-84.149844,
+    "iso:country":"US",
+    "sg:address":"11160 Kingston Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 675 9000",
+    "sg:postcode":"37934",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85852201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Aa6djMWkZdGviDjE5qeQL_35.886987_-84.149844@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608694,
+    "wof:geomhash":"f1e16137e215a9ca1e13659f107a7aae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85852201,
+            "region_id":85688701,
+            "venue_id":823218953
+        }
+    ],
+    "wof:id":823218953,
+    "wof:lastmodified":1462608694,
+    "wof:name":"University Medical Plaza",
+    "wof:parent_id":85852201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.149844,
+    35.886987,
+    -84.149844,
+    35.886987
+],
+  "geometry": {"coordinates":[-84.149844,35.886987],"type":"Point"}
+}

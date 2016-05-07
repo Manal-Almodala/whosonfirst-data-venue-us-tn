@@ -1,0 +1,86 @@
+{
+  "id": 823284509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.020767,35.032372,-90.020767,35.032372",
+    "geom:latitude":35.032372,
+    "geom:longitude":-90.020767,
+    "iso:country":"US",
+    "sg:address":"1300 Wesley Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 516 3700",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical",
+        "surgery"
+    ],
+    "sg:website":"http://www.methodisthealth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33WtvyXlau3kTIQkSJm6mP_35.032372_-90.020767@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610491,
+    "wof:geomhash":"d8a26f3dc8122c3e7cbcedef42e026cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867187,
+            "region_id":85688701,
+            "venue_id":823284509
+        }
+    ],
+    "wof:id":823284509,
+    "wof:lastmodified":1462610491,
+    "wof:name":"Methodist South Hospital",
+    "wof:parent_id":85867187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "surgery"
+    ]
+},
+  "bbox": [
+    -90.020767,
+    35.032372,
+    -90.020767,
+    35.032372
+],
+  "geometry": {"coordinates":[-90.02076700000001,35.032372],"type":"Point"}
+}

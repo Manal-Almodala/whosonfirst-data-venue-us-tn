@@ -1,0 +1,76 @@
+{
+  "id": 823252309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.901833,35.992742,-83.901833,35.992742",
+    "geom:latitude":35.992742,
+    "geom:longitude":-83.901833,
+    "iso:country":"US",
+    "sg:address":"1325 N Cherry St",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/139965-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 523 9292",
+    "sg:postcode":"37917",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        420541841
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67mKcQLf12QW3NMeSq24TF_35.992742_-83.901833@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609390,
+    "wof:geomhash":"375533f867dafd6ee0e9ae11adda6635",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":420541841,
+            "region_id":85688701,
+            "venue_id":823252309
+        }
+    ],
+    "wof:id":823252309,
+    "wof:lastmodified":1462609390,
+    "wof:name":"Subway",
+    "wof:parent_id":420541841,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -83.901833,
+    35.992742,
+    -83.901833,
+    35.992742
+],
+  "geometry": {"coordinates":[-83.901833,35.992742],"type":"Point"}
+}

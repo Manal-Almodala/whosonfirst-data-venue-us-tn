@@ -1,0 +1,73 @@
+{
+  "id": 806504011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.461502,35.805372,-83.461502,35.805372",
+    "geom:latitude":35.805372,
+    "geom:longitude":-83.461502,
+    "iso:country":"US",
+    "sg:address":"2605 Upper Middle Creek Rd",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 428 0128",
+    "sg:postcode":"37876",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722585,
+        102086245,
+        85821619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rbM16oDeW0h1iwpvwWUJx_35.805372_-83.461502@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598665,
+    "wof:geomhash":"e2647b9b83b749b96e3097db8aee742c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722585,
+            "neighbourhood_id":85821619,
+            "region_id":85688701,
+            "venue_id":806504011
+        }
+    ],
+    "wof:id":806504011,
+    "wof:lastmodified":1462598665,
+    "wof:name":"Rick's Locksmithing Svc",
+    "wof:parent_id":85821619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -83.461502,
+    35.805372,
+    -83.461502,
+    35.805372
+],
+  "geometry": {"coordinates":[-83.461502,35.805372],"type":"Point"}
+}

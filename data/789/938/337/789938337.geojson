@@ -1,0 +1,71 @@
+{
+  "id": 789938337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.704092,35.013431,-85.704092,35.013431",
+    "geom:latitude":35.013431,
+    "geom:longitude":-85.704092,
+    "iso:country":"US",
+    "sg:address":"213 S Cedar Ave",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 6585",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722495,
+        102086347,
+        85823635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EvwrNsCQtmoJPX77A9hdE_35.013431_-85.704092@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591775,
+    "wof:geomhash":"607e08917bf2eed0cac30cca0f654e26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":85823635,
+            "region_id":85688701,
+            "venue_id":789938337
+        }
+    ],
+    "wof:id":789938337,
+    "wof:lastmodified":1462591775,
+    "wof:name":"Valley Janitorial Svc",
+    "wof:parent_id":85823635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.704092,
+    35.013431,
+    -85.704092,
+    35.013431
+],
+  "geometry": {"coordinates":[-85.704092,35.013431],"type":"Point"}
+}

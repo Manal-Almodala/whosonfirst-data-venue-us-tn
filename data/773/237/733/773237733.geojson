@@ -1,0 +1,71 @@
+{
+  "id": 773237733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.598116,36.126616,-85.598116,36.126616",
+    "geom:latitude":36.126616,
+    "geom:longitude":-85.598116,
+    "iso:country":"US",
+    "sg:address":"4715 Bob Gentry Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 528 7388",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eWaEjYUjmizh8ZAlfIjA9_36.126616_-85.598116@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584200,
+    "wof:geomhash":"0a957739f38a9747f85a9e10f35b5f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":773237733
+        }
+    ],
+    "wof:id":773237733,
+    "wof:lastmodified":1462584200,
+    "wof:name":"Quality Cleaning Svc",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.598116,
+    36.126616,
+    -85.598116,
+    36.126616
+],
+  "geometry": {"coordinates":[-85.598116,36.126616],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789605601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.769519,36.138592,-86.769519,36.138592",
+    "geom:latitude":36.138592,
+    "geom:longitude":-86.769519,
+    "iso:country":"US",
+    "sg:address":"539 Hamilton Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 351 8778",
+    "sg:postcode":"37203",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85866801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Th0XCr3RvmvRwbB2D2vsH_36.138592_-86.769519@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589108,
+    "wof:geomhash":"507ecdb215b3893b9912624c4653d196",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85866801,
+            "region_id":85688701,
+            "venue_id":789605601
+        }
+    ],
+    "wof:id":789605601,
+    "wof:lastmodified":1462589108,
+    "wof:name":"Towbiz",
+    "wof:parent_id":85866801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -86.769519,
+    36.138592,
+    -86.769519,
+    36.138592
+],
+  "geometry": {"coordinates":[-86.769519,36.138592],"type":"Point"}
+}

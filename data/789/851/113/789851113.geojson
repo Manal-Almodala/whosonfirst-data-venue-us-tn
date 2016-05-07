@@ -1,0 +1,75 @@
+{
+  "id": 789851113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.651691,36.459734,-83.651691,36.459734",
+    "geom:latitude":36.459734,
+    "geom:longitude":-83.651691,
+    "iso:country":"US",
+    "sg:address":"2968 Clouds Rd",
+    "sg:city":"New Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 8582",
+    "sg:postcode":"37825",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SjC5fclUycdTeis3uoEqG_36.459734_-83.651691@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591036,
+    "wof:geomhash":"6709f8bc387020c2be304d2ce16b225d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":789851113
+        }
+    ],
+    "wof:id":789851113,
+    "wof:lastmodified":1462591036,
+    "wof:name":"Chris's Garage",
+    "wof:parent_id":85810917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.651691,
+    36.459734,
+    -83.651691,
+    36.459734
+],
+  "geometry": {"coordinates":[-83.651691,36.459734],"type":"Point"}
+}

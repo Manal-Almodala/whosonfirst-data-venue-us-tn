@@ -1,0 +1,73 @@
+{
+  "id": 773513995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.643787,36.303333,-86.643787,36.303333",
+    "geom:latitude":36.303333,
+    "geom:longitude":-86.643787,
+    "iso:country":"US",
+    "sg:address":"777 W Main St",
+    "sg:city":"Hendersonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 822 3696",
+    "sg:postcode":"37075",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723169,
+        102086357,
+        85825073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OvahNpg8A96PYo0C34cZR_36.303333_-86.643787@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586301,
+    "wof:geomhash":"f7c7f78da92e0f4798ae1aa849e7f819",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85825073,
+            "region_id":85688701,
+            "venue_id":773513995
+        }
+    ],
+    "wof:id":773513995,
+    "wof:lastmodified":1462586301,
+    "wof:name":"Hall-Mead Transmissions Svc",
+    "wof:parent_id":85825073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.643787,
+    36.303333,
+    -86.643787,
+    36.303333
+],
+  "geometry": {"coordinates":[-86.643787,36.303333],"type":"Point"}
+}

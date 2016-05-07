@@ -1,0 +1,75 @@
+{
+  "id": 773503325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.251598,35.280843,-89.251598,35.280843",
+    "geom:latitude":35.280843,
+    "geom:longitude":-89.251598,
+    "iso:country":"US",
+    "sg:address":"22345 US Hwy 64",
+    "sg:city":"Somerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 466 1003",
+    "sg:postcode":"38068",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722831,
+        102086439,
+        420541553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RsXOaPkFHwrQeedIovl8L_35.280843_-89.251598@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586227,
+    "wof:geomhash":"579a8f621acb3ec157e991d225445e4e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086439,
+            "locality_id":101722831,
+            "neighbourhood_id":420541553,
+            "region_id":85688701,
+            "venue_id":773503325
+        }
+    ],
+    "wof:id":773503325,
+    "wof:lastmodified":1462586227,
+    "wof:name":"Barker's Automobile",
+    "wof:parent_id":420541553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.251598,
+    35.280843,
+    -89.251598,
+    35.280843
+],
+  "geometry": {"coordinates":[-89.251598,35.280843],"type":"Point"}
+}

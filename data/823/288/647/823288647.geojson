@@ -1,0 +1,76 @@
+{
+  "id": 823288647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.788292,35.030361,-89.788292,35.030361",
+    "geom:latitude":35.030361,
+    "geom:longitude":-89.788292,
+    "iso:country":"US",
+    "sg:address":"8267 Whispering View Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 624 3888",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "herb",
+        "spice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X0VeMdW780KVzwAd1lSYS_35.030361_-89.788292@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610647,
+    "wof:geomhash":"bc568d72c0ebec511f456680e21f86ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823288647
+        }
+    ],
+    "wof:id":823288647,
+    "wof:lastmodified":1462610647,
+    "wof:name":"Botanica Universal",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "herb",
+        "spice"
+    ]
+},
+  "bbox": [
+    -89.788292,
+    35.030361,
+    -89.788292,
+    35.030361
+],
+  "geometry": {"coordinates":[-89.788292,35.030361],"type":"Point"}
+}

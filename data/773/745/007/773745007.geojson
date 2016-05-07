@@ -1,0 +1,73 @@
+{
+  "id": 773745007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.671328,35.961903,-86.671328,35.961903",
+    "geom:latitude":35.961903,
+    "geom:longitude":-86.671328,
+    "iso:country":"US",
+    "sg:address":"940 Oldham Dr",
+    "sg:city":"Nolensville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 776 8088",
+    "sg:postcode":"37135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723091,
+        102086337,
+        85859149
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BaYG2zY63rybutmp890Or_35.961903_-86.671328@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588062,
+    "wof:geomhash":"7884b9bc35a8ad69485ba934000db187",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723091,
+            "neighbourhood_id":85859149,
+            "region_id":85688701,
+            "venue_id":773745007
+        }
+    ],
+    "wof:id":773745007,
+    "wof:lastmodified":1462588062,
+    "wof:name":"Nolensville Family Medicine",
+    "wof:parent_id":85859149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.671328,
+    35.961903,
+    -86.671328,
+    35.961903
+],
+  "geometry": {"coordinates":[-86.671328,35.961903],"type":"Point"}
+}

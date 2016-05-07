@@ -1,0 +1,71 @@
+{
+  "id": 807291213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.680142,35.532098,-89.680142,35.532098",
+    "geom:latitude":35.532098,
+    "geom:longitude":-89.680142,
+    "iso:country":"US",
+    "sg:address":"2057 US Hwy 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 1940",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MdfW9Mzev7naGwG2DNE6m_35.532098_-89.680142@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605757,
+    "wof:geomhash":"3ef3205ab113479baa048878ebde1078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":807291213
+        }
+    ],
+    "wof:id":807291213,
+    "wof:lastmodified":1462605757,
+    "wof:name":"Tipton County Transmission",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -89.680142,
+    35.532098,
+    -89.680142,
+    35.532098
+],
+  "geometry": {"coordinates":[-89.680142,35.532098],"type":"Point"}
+}

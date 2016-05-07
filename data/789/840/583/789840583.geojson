@@ -1,0 +1,71 @@
+{
+  "id": 789840583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.5429,36.109141,-85.5429,36.109141",
+    "geom:latitude":36.109141,
+    "geom:longitude":-85.5429,
+    "iso:country":"US",
+    "sg:address":"3118 Joe Rawlings Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 432 6357",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NYSDa9ZsfkqWdN68ak9pj_36.109141_-85.542900@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590951,
+    "wof:geomhash":"d64233f5378f93743e29b4650a0ee8d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":789840583
+        }
+    ],
+    "wof:id":789840583,
+    "wof:lastmodified":1462590951,
+    "wof:name":"Marks Garage",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.5429,
+    36.109141,
+    -85.5429,
+    36.109141
+],
+  "geometry": {"coordinates":[-85.5429,36.109141],"type":"Point"}
+}

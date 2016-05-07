@@ -1,0 +1,82 @@
+{
+  "id": 807232969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.781545,35.616935,-88.781545,35.616935",
+    "geom:latitude":35.616935,
+    "geom:longitude":-88.781545,
+    "iso:country":"US",
+    "sg:address":"200 Birch St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 422 5641",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "intermediate",
+        "medical",
+        "convalescent",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28FdFvdrKvfXV1Nr10CtnW_35.616935_-88.781545@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605147,
+    "wof:geomhash":"8b90de69fc05b5e84c204ef5bb10e6d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":807232969
+        }
+    ],
+    "wof:id":807232969,
+    "wof:lastmodified":1462605147,
+    "wof:name":"Laurelwood Health Care Center",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "intermediate",
+        "medical",
+        "convalescent",
+        "home"
+    ]
+},
+  "bbox": [
+    -88.781545,
+    35.616935,
+    -88.781545,
+    35.616935
+],
+  "geometry": {"coordinates":[-88.78154499999999,35.616935],"type":"Point"}
+}

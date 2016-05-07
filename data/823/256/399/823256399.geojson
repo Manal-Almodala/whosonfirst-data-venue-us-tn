@@ -1,0 +1,74 @@
+{
+  "id": 823256399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.814444,35.578147,-88.814444,35.578147",
+    "geom:latitude":35.578147,
+    "geom:longitude":-88.814444,
+    "iso:country":"US",
+    "sg:address":"1324 S Highland Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/jackson/139964-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 935 0038",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dza6JNzIT5IXy9rD6lIvK_35.578147_-88.814444@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609466,
+    "wof:geomhash":"10bc7cd4c6aec4e3d698bb391f24cfc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":823256399
+        }
+    ],
+    "wof:id":823256399,
+    "wof:lastmodified":1462609466,
+    "wof:name":"Subway",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -88.814444,
+    35.578147,
+    -88.814444,
+    35.578147
+],
+  "geometry": {"coordinates":[-88.81444399999999,35.578147],"type":"Point"}
+}

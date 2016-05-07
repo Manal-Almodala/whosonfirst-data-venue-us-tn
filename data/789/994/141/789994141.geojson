@@ -1,0 +1,73 @@
+{
+  "id": 789994141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.57649,35.955106,-85.57649,35.955106",
+    "geom:latitude":35.955106,
+    "geom:longitude":-85.57649,
+    "iso:country":"US",
+    "sg:address":"6070 Smithville Hwy",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 761 9986",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09ib8dNLWYp6VksexpCiR0_35.955106_-85.576490@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592281,
+    "wof:geomhash":"44437cefb7d60227f53cf9406515155b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":789994141
+        }
+    ],
+    "wof:id":789994141,
+    "wof:lastmodified":1462592281,
+    "wof:name":"WIL-Mar Market",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.57649,
+    35.955106,
+    -85.57649,
+    35.955106
+],
+  "geometry": {"coordinates":[-85.57649000000001,35.955106],"type":"Point"}
+}

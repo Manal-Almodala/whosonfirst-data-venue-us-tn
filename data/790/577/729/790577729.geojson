@@ -1,0 +1,73 @@
+{
+  "id": 790577729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.036329,35.610138,-87.036329,35.610138",
+    "geom:latitude":35.610138,
+    "geom:longitude":-87.036329,
+    "iso:country":"US",
+    "sg:address":"1117 S Garden St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 2250",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QAIS1uzWluvZybsKafPG2_35.610138_-87.036329@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597020,
+    "wof:geomhash":"92c171d870e49594a40769ad14720c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":790577729
+        }
+    ],
+    "wof:id":790577729,
+    "wof:lastmodified":1462597020,
+    "wof:name":"Downtown Storage",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -87.036329,
+    35.610138,
+    -87.036329,
+    35.610138
+],
+  "geometry": {"coordinates":[-87.03632899999999,35.610138],"type":"Point"}
+}

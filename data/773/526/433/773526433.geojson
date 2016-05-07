@@ -1,0 +1,71 @@
+{
+  "id": 773526433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.322159,36.243168,-83.322159,36.243168",
+    "geom:latitude":36.243168,
+    "geom:longitude":-83.322159,
+    "iso:country":"US",
+    "sg:address":"2878 Portrum Dr",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 0226",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wmwyw2HbAdy21XJGIgU4j_36.243168_-83.322159@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586387,
+    "wof:geomhash":"f86646178d1ce65a563f64effdb50a87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773526433
+        }
+    ],
+    "wof:id":773526433,
+    "wof:lastmodified":1462586387,
+    "wof:name":"Total Quality Maintenance",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.322159,
+    36.243168,
+    -83.322159,
+    36.243168
+],
+  "geometry": {"coordinates":[-83.322159,36.243168],"type":"Point"}
+}

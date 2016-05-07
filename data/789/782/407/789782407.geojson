@@ -1,0 +1,79 @@
+{
+  "id": 789782407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.21109,36.044324,-84.21109,36.044324",
+    "geom:latitude":36.044324,
+    "geom:longitude":-84.21109,
+    "iso:country":"US",
+    "sg:address":"178 Oak Ridge Tpke",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 481 3360",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065,
+        85818003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n1Z0DY7LkvkNKYvhkFsTg_36.044324_-84.211090@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590509,
+    "wof:geomhash":"a57c1616ab43f4d58ded7891dd890ce4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":789782407
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "neighbourhood_id":85818003,
+            "region_id":85688701,
+            "venue_id":789782407
+        }
+    ],
+    "wof:id":789782407,
+    "wof:lastmodified":1462590509,
+    "wof:name":"Mr Transmission",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.21109,
+    36.044324,
+    -84.21109,
+    36.044324
+],
+  "geometry": {"coordinates":[-84.21109,36.044324],"type":"Point"}
+}

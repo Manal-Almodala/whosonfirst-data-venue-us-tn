@@ -1,0 +1,71 @@
+{
+  "id": 790250585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.895999,35.221402,-89.895999,35.221402",
+    "geom:latitude":35.221402,
+    "geom:longitude":-89.895999,
+    "iso:country":"US",
+    "sg:address":"5022 Yale Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 383 4330",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iqGzz3eMP7fVqn86EpftL_35.221402_-89.895999@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594343,
+    "wof:geomhash":"62c07c224538218a60c880ec2695724c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":790250585
+        }
+    ],
+    "wof:id":790250585,
+    "wof:lastmodified":1462594343,
+    "wof:name":"Winfreys Trucking",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.895999,
+    35.221402,
+    -89.895999,
+    35.221402
+],
+  "geometry": {"coordinates":[-89.895999,35.221402],"type":"Point"}
+}

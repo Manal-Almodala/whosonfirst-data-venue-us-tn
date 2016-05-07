@@ -1,0 +1,73 @@
+{
+  "id": 773555829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.476546,35.931507,-85.476546,35.931507",
+    "geom:latitude":35.931507,
+    "geom:longitude":-85.476546,
+    "iso:country":"US",
+    "sg:address":"58 Mayberry St",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 836 3824",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M9XafgXbtlo7vSJjAKrlN_35.931507_-85.476546@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586614,
+    "wof:geomhash":"1c86fe07829fe90da8f2a77b0366d6d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":773555829
+        }
+    ],
+    "wof:id":773555829,
+    "wof:lastmodified":1462586614,
+    "wof:name":"Mayberry Auto Repair",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.476546,
+    35.931507,
+    -85.476546,
+    35.931507
+],
+  "geometry": {"coordinates":[-85.476546,35.931507],"type":"Point"}
+}

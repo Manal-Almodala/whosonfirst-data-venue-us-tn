@@ -1,0 +1,71 @@
+{
+  "id": 773418239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.645329,35.572458,-89.645329,35.572458",
+    "geom:latitude":35.572458,
+    "geom:longitude":-89.645329,
+    "iso:country":"US",
+    "sg:address":"726 US Hwy 51 N",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 0661",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xme6H1Uc2POG24H9LnXB8_35.572458_-89.645329@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585560,
+    "wof:geomhash":"9c20db9b6cd4a26f1c790e963b11858f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":773418239
+        }
+    ],
+    "wof:id":773418239,
+    "wof:lastmodified":1462585560,
+    "wof:name":"Covington Dental Care",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.645329,
+    35.572458,
+    -89.645329,
+    35.572458
+],
+  "geometry": {"coordinates":[-89.645329,35.572458],"type":"Point"}
+}

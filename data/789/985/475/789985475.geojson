@@ -1,0 +1,71 @@
+{
+  "id": 789985475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.477338,36.241682,-86.477338,36.241682",
+    "geom:latitude":36.241682,
+    "geom:longitude":-86.477338,
+    "iso:country":"US",
+    "sg:address":"115 Karen Dr",
+    "sg:city":"Mount Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 351 9153",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mb2Zmrw3S5mS1K5wytprS_36.241682_-86.477338@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592212,
+    "wof:geomhash":"ef3682b64072f0c70bac914371813c8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":789985475
+        }
+    ],
+    "wof:id":789985475,
+    "wof:lastmodified":1462592212,
+    "wof:name":"Jo Be Express",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -86.477338,
+    36.241682,
+    -86.477338,
+    36.241682
+],
+  "geometry": {"coordinates":[-86.477338,36.241682],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789587041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.037401,35.620095,-87.037401,35.620095",
+    "geom:latitude":35.620095,
+    "geom:longitude":-87.037401,
+    "iso:country":"US",
+    "sg:address":"406 Church St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 0096",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vq1mi0mHmguTYACwMnWNW_35.620095_-87.037401@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588963,
+    "wof:geomhash":"1dd92b94c22e4c3576198ef96e872964",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":789587041
+        }
+    ],
+    "wof:id":789587041,
+    "wof:lastmodified":1462588963,
+    "wof:name":"St Paul AME Church Learning",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -87.037401,
+    35.620095,
+    -87.037401,
+    35.620095
+],
+  "geometry": {"coordinates":[-87.037401,35.620095],"type":"Point"}
+}

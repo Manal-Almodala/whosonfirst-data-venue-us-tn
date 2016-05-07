@@ -1,0 +1,75 @@
+{
+  "id": 823258579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.743079,36.142389,-86.743079,36.142389",
+    "geom:latitude":36.142389,
+    "geom:longitude":-86.743079,
+    "iso:country":"US",
+    "sg:address":"524 Murfreesboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/203498-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85866801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01czWPO90EuHd0OtPptOun_36.142300_-86.742831@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609519,
+    "wof:geomhash":"02be98285b759c892c72e937caf53b8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85866801,
+            "region_id":85688701,
+            "venue_id":823258579
+        }
+    ],
+    "wof:id":823258579,
+    "wof:lastmodified":1462609519,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85866801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.743079,
+    36.142389,
+    -86.743079,
+    36.142389
+],
+  "geometry": {"coordinates":[-86.74307899999999,36.142389],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807209103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.501739,35.883441,-86.501739,35.883441",
+    "geom:latitude":35.883441,
+    "geom:longitude":-86.501739,
+    "iso:country":"US",
+    "sg:address":"5909 Foothills Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 4334",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "refrigeration",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d065rqkUHVvsWnW7lUbGa_35.883441_-86.501739@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604892,
+    "wof:geomhash":"eff9fb57b7bbe2c17c46a7c369846848",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":807209103
+        }
+    ],
+    "wof:id":807209103,
+    "wof:lastmodified":1462604892,
+    "wof:name":"Murfreesboro Appliance Repair",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -86.501739,
+    35.883441,
+    -86.501739,
+    35.883441
+],
+  "geometry": {"coordinates":[-86.501739,35.883441],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789772791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.467488,36.172311,-86.467488,36.172311",
+    "geom:latitude":36.172311,
+    "geom:longitude":-86.467488,
+    "iso:country":"US",
+    "sg:address":"479 Belinda Pkwy",
+    "sg:city":"Mount Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 758 7347",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CB5ws5I17m8FbaRjIRn3h_36.172311_-86.467488@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590420,
+    "wof:geomhash":"18211b1c1ed333c178b2163dea928836",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":789772791
+        }
+    ],
+    "wof:id":789772791,
+    "wof:lastmodified":1462590420,
+    "wof:name":"Hamilton Siding",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.467488,
+    36.172311,
+    -86.467488,
+    36.172311
+],
+  "geometry": {"coordinates":[-86.467488,36.172311],"type":"Point"}
+}

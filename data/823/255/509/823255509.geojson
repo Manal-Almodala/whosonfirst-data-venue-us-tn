@@ -1,0 +1,72 @@
+{
+  "id": 823255509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795952,35.045137,-89.795952,35.045137",
+    "geom:latitude":35.045137,
+    "geom:longitude":-89.795952,
+    "iso:country":"US",
+    "sg:address":"3810 Hacks Cross Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/29183-johnny-bruscos-new-york-style-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 753 3900",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h9onpWt1pCv4kAVxLyO6c_35.045137_-89.795952@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609451,
+    "wof:geomhash":"a4eaff3145b1370d3bb6db0e2c56b998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823255509
+        }
+    ],
+    "wof:id":823255509,
+    "wof:lastmodified":1462609451,
+    "wof:name":"Johnny Brusco's New York Style Pizza",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.795952,
+    35.045137,
+    -89.795952,
+    35.045137
+],
+  "geometry": {"coordinates":[-89.795952,35.045137],"type":"Point"}
+}

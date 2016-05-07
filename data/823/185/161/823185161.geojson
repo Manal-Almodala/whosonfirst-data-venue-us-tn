@@ -1,0 +1,73 @@
+{
+  "id": 823185161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.461155,36.372349,-86.461155,36.372349",
+    "geom:latitude":36.372349,
+    "geom:longitude":-86.461155,
+    "iso:country":"US",
+    "sg:address":"854 Lone Oak Dr",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 1602",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eqeUMmoFUdHBfR1lWTTJU_36.372349_-86.461155@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608133,
+    "wof:geomhash":"54461892565021f101bb0601f1399218",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":823185161
+        }
+    ],
+    "wof:id":823185161,
+    "wof:lastmodified":1462608133,
+    "wof:name":"Green Eye Ctr",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.461155,
+    36.372349,
+    -86.461155,
+    36.372349
+],
+  "geometry": {"coordinates":[-86.46115500000001,36.372349],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 773584689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.740728,36.139782,-86.740728,36.139782",
+    "geom:latitude":36.139782,
+    "geom:longitude":-86.740728,
+    "iso:country":"US",
+    "sg:address":"1010 Foster Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 726 2953",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "axle",
+        "mfg"
+    ],
+    "sg:website":"www.southernaxle.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85835935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z57mkVFo19XpsQHnHiJ2p_36.139782_-86.740728@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586835,
+    "wof:geomhash":"6050fff897479d5b09ea155a29986810",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":773584689
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85835935,
+            "region_id":85688701,
+            "venue_id":773584689
+        }
+    ],
+    "wof:id":773584689,
+    "wof:lastmodified":1462586835,
+    "wof:name":"Southern Axle Exchange Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "axle",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -86.740728,
+    36.139782,
+    -86.740728,
+    36.139782
+],
+  "geometry": {"coordinates":[-86.740728,36.139782],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773813299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.330694,36.219765,-86.330694,36.219765",
+    "geom:latitude":36.219765,
+    "geom:longitude":-86.330694,
+    "iso:country":"US",
+    "sg:address":"1417 W Baddour Pkwy",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 453 1252",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OK4kziTfDRfk1fn2u7S0M_36.219765_-86.330694@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588578,
+    "wof:geomhash":"8d0d3e69b459d32e769be32ba6b28163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":773813299
+        }
+    ],
+    "wof:id":773813299,
+    "wof:lastmodified":1462588578,
+    "wof:name":"Andrew C Jordan MD",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.330694,
+    36.219765,
+    -86.330694,
+    36.219765
+],
+  "geometry": {"coordinates":[-86.33069399999999,36.219765],"type":"Point"}
+}

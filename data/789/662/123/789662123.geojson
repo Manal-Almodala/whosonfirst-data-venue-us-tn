@@ -1,0 +1,73 @@
+{
+  "id": 789662123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.198385,35.96751,-83.198385,35.96751",
+    "geom:latitude":35.96751,
+    "geom:longitude":-83.198385,
+    "iso:country":"US",
+    "sg:address":"219 W Broadway St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 9459",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zr4CJfGGsvXrfvm8aob03_35.967510_-83.198385@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589560,
+    "wof:geomhash":"435bbe4f69cddaf7caa3060e2997d00a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":789662123
+        }
+    ],
+    "wof:id":789662123,
+    "wof:lastmodified":1462589560,
+    "wof:name":"Newport Machine Co",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.198385,
+    35.96751,
+    -83.198385,
+    35.96751
+],
+  "geometry": {"coordinates":[-83.198385,35.96751],"type":"Point"}
+}

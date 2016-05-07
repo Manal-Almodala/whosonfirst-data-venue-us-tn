@@ -1,0 +1,73 @@
+{
+  "id": 773378551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.248849,35.224935,-88.248849,35.224935",
+    "geom:latitude":35.224935,
+    "geom:longitude":-88.248849,
+    "iso:country":"US",
+    "sg:address":"816 Main St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 9909",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36gkn3qrvZsSr0FO8XOWwD_35.224935_-88.248849@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585241,
+    "wof:geomhash":"847d6f6717d09f26bbaae91cb70e4f72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":773378551
+        }
+    ],
+    "wof:id":773378551,
+    "wof:lastmodified":1462585241,
+    "wof:name":"Savannah Bone & Joint Spec",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.248849,
+    35.224935,
+    -88.248849,
+    35.224935
+],
+  "geometry": {"coordinates":[-88.24884900000001,35.224935],"type":"Point"}
+}

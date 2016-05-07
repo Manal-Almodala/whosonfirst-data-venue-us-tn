@@ -1,0 +1,87 @@
+{
+  "id": 823281011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.050445,35.115933,-90.050445,35.115933",
+    "geom:latitude":35.115933,
+    "geom:longitude":-90.050445,
+    "iso:country":"US",
+    "sg:address":"359 E Mclemore Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 947 3003",
+    "sg:postcode":"38106",
+    "sg:province":"TN",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.northerninc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85847887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52jgq1N5dZRKx6TJSZcQoG_35.115933_-90.050445@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610352,
+    "wof:geomhash":"7b932e3670585577a3e2de82a8b5ff95",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85847887,
+            "region_id":85688701,
+            "venue_id":823281011
+        }
+    ],
+    "wof:id":823281011,
+    "wof:lastmodified":1462610352,
+    "wof:name":"Alexmire Apartments",
+    "wof:parent_id":85847887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -90.050445,
+    35.115933,
+    -90.050445,
+    35.115933
+],
+  "geometry": {"coordinates":[-90.050445,35.115933],"type":"Point"}
+}

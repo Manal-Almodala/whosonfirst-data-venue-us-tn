@@ -1,0 +1,73 @@
+{
+  "id": 807296937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.093016,35.176726,-86.093016,35.176726",
+    "geom:latitude":35.176726,
+    "geom:longitude":-86.093016,
+    "iso:country":"US",
+    "sg:address":"83 Memorial Dr",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 3966",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lZOR1f5QldnytGl2snVnu_35.176726_-86.093016@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605821,
+    "wof:geomhash":"45721c8332eae52c95dddc2f9072786a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":807296937
+        }
+    ],
+    "wof:id":807296937,
+    "wof:lastmodified":1462605821,
+    "wof:name":"Cumberland Healthcare Group",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.093016,
+    35.176726,
+    -86.093016,
+    35.176726
+],
+  "geometry": {"coordinates":[-86.09301600000001,35.176726],"type":"Point"}
+}

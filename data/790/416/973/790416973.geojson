@@ -1,0 +1,73 @@
+{
+  "id": 790416973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.7433,35.475728,-89.7433,35.475728",
+    "geom:latitude":35.475728,
+    "geom:longitude":-89.7433,
+    "iso:country":"US",
+    "sg:address":"1600 Old Hwy 51 S",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 7677",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LOiNXYEiRQcrepWTcV03n_35.475728_-89.743300@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595660,
+    "wof:geomhash":"0595677de9e6536c3f6298c5b4fd08fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790416973
+        }
+    ],
+    "wof:id":790416973,
+    "wof:lastmodified":1462595660,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -89.7433,
+    35.475728,
+    -89.7433,
+    35.475728
+],
+  "geometry": {"coordinates":[-89.7433,35.475728],"type":"Point"}
+}

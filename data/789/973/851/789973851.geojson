@@ -1,0 +1,71 @@
+{
+  "id": 789973851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.643127,36.15353,-85.643127,36.15353",
+    "geom:latitude":36.15353,
+    "geom:longitude":-85.643127,
+    "iso:country":"US",
+    "sg:address":"101 1st Ave S",
+    "sg:city":"Baxter",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 2502",
+    "sg:postcode":"38544",
+    "sg:province":"TN",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dXQdvjnnMQ8caNSB6Bu4t_36.153530_-85.643127@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592115,
+    "wof:geomhash":"f5cc0846046f8c94346e2c4d9d50e164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":789973851
+        }
+    ],
+    "wof:id":789973851,
+    "wof:lastmodified":1462592115,
+    "wof:name":"Baxter Auto Parts",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -85.643127,
+    36.15353,
+    -85.643127,
+    36.15353
+],
+  "geometry": {"coordinates":[-85.64312700000001,36.15353],"type":"Point"}
+}

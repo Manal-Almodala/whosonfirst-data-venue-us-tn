@@ -1,0 +1,78 @@
+{
+  "id": 790143465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.284568,36.217166,-83.284568,36.217166",
+    "geom:latitude":36.217166,
+    "geom:longitude":-83.284568,
+    "iso:country":"US",
+    "sg:address":"725 E Main St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 6200",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash",
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sT8N5Cyiawj0ew2vAzl40_36.217166_-83.284568@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593456,
+    "wof:geomhash":"a889cdaef2cebc611408ed86bb2ef8ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":790143465
+        }
+    ],
+    "wof:id":790143465,
+    "wof:lastmodified":1462593456,
+    "wof:name":"Checker Cab Co",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -83.284568,
+    36.217166,
+    -83.284568,
+    36.217166
+],
+  "geometry": {"coordinates":[-83.28456799999999,36.217166],"type":"Point"}
+}

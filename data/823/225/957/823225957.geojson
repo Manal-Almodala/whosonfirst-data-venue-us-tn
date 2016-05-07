@@ -1,0 +1,76 @@
+{
+  "id": 823225957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.892669,35.191056,-89.892669,35.191056",
+    "geom:latitude":35.191056,
+    "geom:longitude":-89.892669,
+    "iso:country":"US",
+    "sg:address":"2406 Chiswood St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 382 7000",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"http://www.memphiscollision.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rNNIZXySGYI1GpcUujXVZ_35.191141_-89.892431@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462608870,
+    "wof:geomhash":"d3a1bbc2ff717dcb4e7b1b8dfbd80d5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823225957
+        }
+    ],
+    "wof:id":823225957,
+    "wof:lastmodified":1462608870,
+    "wof:name":"Memphis Collision Repair",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.892669,
+    35.191056,
+    -89.892669,
+    35.191056
+],
+  "geometry": {"coordinates":[-89.892669,35.191056],"type":"Point"}
+}

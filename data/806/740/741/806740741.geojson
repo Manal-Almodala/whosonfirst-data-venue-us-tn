@@ -1,0 +1,71 @@
+{
+  "id": 806740741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.960594,36.033633,-83.960594,36.033633",
+    "geom:latitude":36.033633,
+    "geom:longitude":-83.960594,
+    "iso:country":"US",
+    "sg:address":"1220 Snowdon Dr NE",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 5600",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shuttle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DIrQulpsuJ7h4R68C4Tdr_36.033633_-83.960594@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600685,
+    "wof:geomhash":"46273f1781ffed40c3fbdc6ee98d96b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":806740741
+        }
+    ],
+    "wof:id":806740741,
+    "wof:lastmodified":1462600685,
+    "wof:name":"K-Town Shuttle Inc",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle"
+    ]
+},
+  "bbox": [
+    -83.960594,
+    36.033633,
+    -83.960594,
+    36.033633
+],
+  "geometry": {"coordinates":[-83.960594,36.033633],"type":"Point"}
+}

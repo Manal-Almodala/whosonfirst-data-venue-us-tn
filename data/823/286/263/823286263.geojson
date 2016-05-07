@@ -1,0 +1,86 @@
+{
+  "id": 823286263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.941909,35.036848,-89.941909,35.036848",
+    "geom:latitude":35.036848,
+    "geom:longitude":-89.941909,
+    "iso:country":"US",
+    "sg:address":"3630 E Raines Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 541 3310",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "major",
+        "clothing"
+    ],
+    "sg:website":"http://www.sears.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85839073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Quy0ukJZKiDcqDI4P8tW1_35.036848_-89.941909@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610559,
+    "wof:geomhash":"288ac737d6db9e2b2843c525f65e8b8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85839073,
+            "region_id":85688701,
+            "venue_id":823286263
+        }
+    ],
+    "wof:id":823286263,
+    "wof:lastmodified":1462610559,
+    "wof:name":"Sears",
+    "wof:parent_id":85839073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -89.941909,
+    35.036848,
+    -89.941909,
+    35.036848
+],
+  "geometry": {"coordinates":[-89.941909,35.036848],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789892971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.278305,36.188824,-83.278305,36.188824",
+    "geom:latitude":36.188824,
+    "geom:longitude":-83.278305,
+    "iso:country":"US",
+    "sg:address":"2495 Audrey Ln",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 7569",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85852009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fiIsdn4sjIDrRziXhUU7c_36.188824_-83.278305@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591392,
+    "wof:geomhash":"56671b23fcb5436f990eecd34e545c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85852009,
+            "region_id":85688701,
+            "venue_id":789892971
+        }
+    ],
+    "wof:id":789892971,
+    "wof:lastmodified":1462591392,
+    "wof:name":"Daniels Shell",
+    "wof:parent_id":85852009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -83.278305,
+    36.188824,
+    -83.278305,
+    36.188824
+],
+  "geometry": {"coordinates":[-83.278305,36.188824],"type":"Point"}
+}

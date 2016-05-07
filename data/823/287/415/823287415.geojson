@@ -1,0 +1,82 @@
+{
+  "id": 823287415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.833309,35.067233,-89.833309,35.067233",
+    "geom:latitude":35.067233,
+    "geom:longitude":-89.833309,
+    "iso:country":"US",
+    "sg:address":"2970 Lakerun Cir",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 737 7593",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722649,
+        102087213,
+        85870787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UebzPsqr4s8pkfAWjj8Og_35.067233_-89.833309@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610603,
+    "wof:geomhash":"763df575c60259a0e406558b07524a59",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722649,
+            "neighbourhood_id":85870787,
+            "region_id":85688701,
+            "venue_id":823287415
+        }
+    ],
+    "wof:id":823287415,
+    "wof:lastmodified":1462610603,
+    "wof:name":"Fg Standard Trucking",
+    "wof:parent_id":85870787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.833309,
+    35.067233,
+    -89.833309,
+    35.067233
+],
+  "geometry": {"coordinates":[-89.833309,35.067233],"type":"Point"}
+}

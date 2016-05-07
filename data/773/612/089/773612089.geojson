@@ -1,0 +1,71 @@
+{
+  "id": 773612089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.898283,35.23214,-89.898283,35.23214",
+    "geom:latitude":35.23214,
+    "geom:longitude":-89.898283,
+    "iso:country":"US",
+    "sg:address":"3890 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 373 3894",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37an1XwVRiejDb0hOmiQI9_35.232140_-89.898283@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587027,
+    "wof:geomhash":"6858da39c6bd064fe0b2775effbcbe48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":773612089
+        }
+    ],
+    "wof:id":773612089,
+    "wof:lastmodified":1462587027,
+    "wof:name":"Dental Works",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.898283,
+    35.23214,
+    -89.898283,
+    35.23214
+],
+  "geometry": {"coordinates":[-89.89828300000001,35.23214],"type":"Point"}
+}

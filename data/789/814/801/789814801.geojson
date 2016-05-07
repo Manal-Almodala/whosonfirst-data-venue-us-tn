@@ -1,0 +1,71 @@
+{
+  "id": 789814801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.931113,35.413888,-89.931113,35.413888",
+    "geom:latitude":35.413888,
+    "geom:longitude":-89.931113,
+    "iso:country":"US",
+    "sg:address":"13 Quito Rd",
+    "sg:city":"Millington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 835 2264",
+    "sg:postcode":"38053",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LpxCXBlv7faKo7MTUk4iO_35.413888_-89.931113@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590751,
+    "wof:geomhash":"e70ed9de2eeb2ee8dbdbfb82459c9f56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789814801
+        }
+    ],
+    "wof:id":789814801,
+    "wof:lastmodified":1462590751,
+    "wof:name":"Pouncey's Store",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.931113,
+    35.413888,
+    -89.931113,
+    35.413888
+],
+  "geometry": {"coordinates":[-89.931113,35.413888],"type":"Point"}
+}

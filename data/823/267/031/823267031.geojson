@@ -1,0 +1,103 @@
+{
+  "id": 823267031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.817735,36.101893,-86.817735,36.101893",
+    "geom:latitude":36.101893,
+    "geom:longitude":-86.817735,
+    "iso:country":"US",
+    "sg:address":"4106 Hillsboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Internet Cafe",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 463 9411",
+    "sg:postcode":"37215",
+    "sg:province":"TN",
+    "sg:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "paging",
+        "signaling",
+        "cellular",
+        "provider"
+    ],
+    "sg:website":"http://www.att.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85893463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nzdfxlY4hkgv52quneBQy_36.101893_-86.817735@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609791,
+    "wof:geomhash":"2eb9b950c1e48bdd773052978cf3155e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893463,
+            "region_id":85688701,
+            "venue_id":823267031
+        }
+    ],
+    "wof:id":823267031,
+    "wof:lastmodified":1462609791,
+    "wof:name":"AT&T",
+    "wof:parent_id":85893463,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "telephone",
+        "wireless",
+        "equipment",
+        "paging",
+        "signaling",
+        "cellular",
+        "provider"
+    ]
+},
+  "bbox": [
+    -86.817735,
+    36.101893,
+    -86.817735,
+    36.101893
+],
+  "geometry": {"coordinates":[-86.817735,36.101893],"type":"Point"}
+}

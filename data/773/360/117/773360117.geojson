@@ -1,0 +1,71 @@
+{
+  "id": 773360117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.492738,35.431171,-84.492738,35.431171",
+    "geom:latitude":35.431171,
+    "geom:longitude":-84.492738,
+    "iso:country":"US",
+    "sg:address":"208 Highland Dr",
+    "sg:city":"Dunlap",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 949 3683",
+    "sg:postcode":"37329",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722749,
+        102086293,
+        85839313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cKAENuBdnTe13sKTOYpCb_35.431171_-84.492738@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585116,
+    "wof:geomhash":"71a6c4ff75ec0e4e29da8540af44ffa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722749,
+            "neighbourhood_id":85839313,
+            "region_id":85688701,
+            "venue_id":773360117
+        }
+    ],
+    "wof:id":773360117,
+    "wof:lastmodified":1462585116,
+    "wof:name":"Lambert Trucking",
+    "wof:parent_id":85839313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.492738,
+    35.431171,
+    -84.492738,
+    35.431171
+],
+  "geometry": {"coordinates":[-84.492738,35.431171],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789918553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.354184,35.901246,-86.354184,35.901246",
+    "geom:latitude":35.901246,
+    "geom:longitude":-86.354184,
+    "iso:country":"US",
+    "sg:address":"3002 Penny Ln",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 217 9599",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85843385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CFutzzdtOSP3rtXuBEYsH_35.901246_-86.354184@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591613,
+    "wof:geomhash":"a15f0947f0880556490a71916aa268a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85843385,
+            "region_id":85688701,
+            "venue_id":789918553
+        }
+    ],
+    "wof:id":789918553,
+    "wof:lastmodified":1462591613,
+    "wof:name":"KAT & Dog Housecalls",
+    "wof:parent_id":85843385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.354184,
+    35.901246,
+    -86.354184,
+    35.901246
+],
+  "geometry": {"coordinates":[-86.354184,35.901246],"type":"Point"}
+}

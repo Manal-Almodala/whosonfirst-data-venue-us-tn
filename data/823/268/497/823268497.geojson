@@ -1,0 +1,89 @@
+{
+  "id": 823268497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.871755,35.185179,-84.871755,35.185179",
+    "geom:latitude":35.185179,
+    "geom:longitude":-84.871755,
+    "iso:country":"US",
+    "sg:address":"2725 Keith St NW",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 476 3330",
+    "sg:postcode":"37312",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "sg:website":"http://www.physiciansfirst.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723129,
+        102087043,
+        85837507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CG1RPs2SU38xRSuvYmfWb_35.185179_-84.871755@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609850,
+    "wof:geomhash":"bad71b1c12381488333702801dc1263b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85837507,
+            "region_id":85688701,
+            "venue_id":823268497
+        }
+    ],
+    "wof:id":823268497,
+    "wof:lastmodified":1462609850,
+    "wof:name":"Physician First PC",
+    "wof:parent_id":85837507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.871755,
+    35.185179,
+    -84.871755,
+    35.185179
+],
+  "geometry": {"coordinates":[-84.87175499999999,35.185179],"type":"Point"}
+}

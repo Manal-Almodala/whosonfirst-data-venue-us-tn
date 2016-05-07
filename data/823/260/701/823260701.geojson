@@ -1,0 +1,76 @@
+{
+  "id": 823260701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.920323,35.148644,-89.920323,35.148644",
+    "geom:latitude":35.148644,
+    "geom:longitude":-89.920323,
+    "iso:country":"US",
+    "sg:address":"4213 Summer Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/84357-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 327 3600",
+    "sg:postcode":"38122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j5OBeAv7cK7jCC7WWJcVS_35.148905_-89.920905@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609564,
+    "wof:geomhash":"9d07d577437875308a3b695067ffefc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":823260701
+        }
+    ],
+    "wof:id":823260701,
+    "wof:lastmodified":1462609564,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.920323,
+    35.148644,
+    -89.920323,
+    35.148644
+],
+  "geometry": {"coordinates":[-89.920323,35.148644],"type":"Point"}
+}

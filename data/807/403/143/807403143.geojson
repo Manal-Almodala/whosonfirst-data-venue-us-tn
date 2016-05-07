@@ -1,0 +1,71 @@
+{
+  "id": 807403143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.186543,35.126647,-86.186543,35.126647",
+    "geom:latitude":35.126647,
+    "geom:longitude":-86.186543,
+    "iso:country":"US",
+    "sg:address":"6045 David Crockett Hwy",
+    "sg:city":"Belvidere",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 962 0629",
+    "sg:postcode":"37306",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cfgSnPD9VwKyJ53YN8dti_35.126647_-86.186543@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607356,
+    "wof:geomhash":"26c3d58a25966b91bbbf2d731b36c6de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":807403143
+        }
+    ],
+    "wof:id":807403143,
+    "wof:lastmodified":1462607356,
+    "wof:name":"Belvidere Fire Dept",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.186543,
+    35.126647,
+    -86.186543,
+    35.126647
+],
+  "geometry": {"coordinates":[-86.186543,35.126647],"type":"Point"}
+}

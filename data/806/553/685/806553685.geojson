@@ -1,0 +1,80 @@
+{
+  "id": 806553685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.069838,35.141142,-86.069838,35.141142",
+    "geom:latitude":35.141142,
+    "geom:longitude":-86.069838,
+    "iso:country":"US",
+    "sg:address":"17 Centennial Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 1360",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2weeGGOpF5EMj0hPn133BI_35.141142_-86.069838@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599061,
+    "wof:geomhash":"1746619bb9250f356a5faf57974dee24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":806553685
+        }
+    ],
+    "wof:id":806553685,
+    "wof:lastmodified":1462599061,
+    "wof:name":"Centennial Grocery Store",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -86.069838,
+    35.141142,
+    -86.069838,
+    35.141142
+],
+  "geometry": {"coordinates":[-86.069838,35.141142],"type":"Point"}
+}

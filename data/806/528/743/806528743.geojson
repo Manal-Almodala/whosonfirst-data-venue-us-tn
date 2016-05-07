@@ -1,0 +1,73 @@
+{
+  "id": 806528743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.329078,36.215891,-86.329078,36.215891",
+    "geom:latitude":36.215891,
+    "geom:longitude":-86.329078,
+    "iso:country":"US",
+    "sg:address":"1411 W Main St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 2525",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "household",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7590YXy1sCP67i29YYYtRC_36.215891_-86.329078@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598859,
+    "wof:geomhash":"9b4049859ab4a20ba74d2351ace3a594",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":806528743
+        }
+    ],
+    "wof:id":806528743,
+    "wof:lastmodified":1462598859,
+    "wof:name":"Lebanon Appliance Service",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -86.329078,
+    36.215891,
+    -86.329078,
+    36.215891
+],
+  "geometry": {"coordinates":[-86.329078,36.215891],"type":"Point"}
+}

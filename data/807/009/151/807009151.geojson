@@ -1,0 +1,80 @@
+{
+  "id": 807009151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.375222,36.07673,-87.375222,36.07673",
+    "geom:latitude":36.07673,
+    "geom:longitude":-87.375222,
+    "iso:country":"US",
+    "sg:address":"1 Mathis Dr",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 446 3061",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H9K0t62FfgWt14qHL7nLE_36.076730_-87.375222@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602936,
+    "wof:geomhash":"173e4b98babbc4c0d6b19ea718b8e23d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":807009151
+        }
+    ],
+    "wof:id":807009151,
+    "wof:lastmodified":1462602936,
+    "wof:name":"Mental Health Co Op",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -87.375222,
+    36.07673,
+    -87.375222,
+    36.07673
+],
+  "geometry": {"coordinates":[-87.37522199999999,36.07673],"type":"Point"}
+}

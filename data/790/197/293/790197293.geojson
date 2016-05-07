@@ -1,0 +1,71 @@
+{
+  "id": 790197293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.553739,35.859615,-83.553739,35.859615",
+    "geom:latitude":35.859615,
+    "geom:longitude":-83.553739,
+    "iso:country":"US",
+    "sg:address":"614 Eastgate Rd",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 6709",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kA0mAZ8tUu3x5BDZhsL7o_35.859615_-83.553739@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593930,
+    "wof:geomhash":"53c81295b24d166d8a8acf197e3a81db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":790197293
+        }
+    ],
+    "wof:id":790197293,
+    "wof:lastmodified":1462593930,
+    "wof:name":"Lemmco Transmissions",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.553739,
+    35.859615,
+    -83.553739,
+    35.859615
+],
+  "geometry": {"coordinates":[-83.55373899999999,35.859615],"type":"Point"}
+}

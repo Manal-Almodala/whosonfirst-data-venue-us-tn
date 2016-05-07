@@ -1,0 +1,71 @@
+{
+  "id": 807288373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.552655,35.933722,-84.552655,35.933722",
+    "geom:latitude":35.933722,
+    "geom:longitude":-84.552655,
+    "iso:country":"US",
+    "sg:address":"718 Morgan Ave NW",
+    "sg:city":"Harriman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 590 0718",
+    "sg:postcode":"37748",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722695,
+        102087051,
+        85841801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45B77J65vlb8ndzqoFIQIG_35.933722_-84.552655@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605732,
+    "wof:geomhash":"4acd029b87a8c3339293e29ceb926470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101722695,
+            "neighbourhood_id":85841801,
+            "region_id":85688701,
+            "venue_id":807288373
+        }
+    ],
+    "wof:id":807288373,
+    "wof:lastmodified":1462605732,
+    "wof:name":"Dynacare",
+    "wof:parent_id":85841801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.552655,
+    35.933722,
+    -84.552655,
+    35.933722
+],
+  "geometry": {"coordinates":[-84.552655,35.933722],"type":"Point"}
+}

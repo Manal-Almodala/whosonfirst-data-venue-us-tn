@@ -1,0 +1,73 @@
+{
+  "id": 773526401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.014589,35.492079,-85.014589,35.492079",
+    "geom:latitude":35.492079,
+    "geom:longitude":-85.014589,
+    "iso:country":"US",
+    "sg:address":"1268 Market St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 570 1926",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62LFjfZycgkIWnytp8zy9l_35.492079_-85.014589@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586387,
+    "wof:geomhash":"e33a399022908d5f89b8c9d662a380c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":773526401
+        }
+    ],
+    "wof:id":773526401,
+    "wof:lastmodified":1462586387,
+    "wof:name":"Fether Automotive",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.014589,
+    35.492079,
+    -85.014589,
+    35.492079
+],
+  "geometry": {"coordinates":[-85.014589,35.492079],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790527289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.821113,36.017139,-83.821113,36.017139",
+    "geom:latitude":36.017139,
+    "geom:longitude":-83.821113,
+    "iso:country":"US",
+    "sg:address":"6400 Asheville Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 637 7000",
+    "sg:postcode":"37924",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j0FtRUMKar0bb7d2RBXNN_36.017139_-83.821113@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596600,
+    "wof:geomhash":"46243b018d2090e67dc9b0dc60d333c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":790527289
+        }
+    ],
+    "wof:id":790527289,
+    "wof:lastmodified":1462596600,
+    "wof:name":"East River Animal Clinic",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.821113,
+    36.017139,
+    -83.821113,
+    36.017139
+],
+  "geometry": {"coordinates":[-83.821113,36.017139],"type":"Point"}
+}

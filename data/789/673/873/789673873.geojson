@@ -1,0 +1,82 @@
+{
+  "id": 789673873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.395425,36.5509,-87.395425,36.5509",
+    "geom:latitude":36.5509,
+    "geom:longitude":-87.395425,
+    "iso:country":"US",
+    "sg:address":"244 Dover Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 648 3534",
+    "sg:postcode":"37042",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners",
+        "electrical",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        420541975
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rRHAFsgXd07xNzZMlke0A_36.550900_-87.395425@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589655,
+    "wof:geomhash":"471087adff501630810ab7d9ae0d0b5c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":420541975,
+            "region_id":85688701,
+            "venue_id":789673873
+        }
+    ],
+    "wof:id":789673873,
+    "wof:lastmodified":1462589655,
+    "wof:name":"C-Ron's Vacuum & Appliance",
+    "wof:parent_id":420541975,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "electrical",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -87.395425,
+    36.5509,
+    -87.395425,
+    36.5509
+],
+  "geometry": {"coordinates":[-87.395425,36.5509],"type":"Point"}
+}

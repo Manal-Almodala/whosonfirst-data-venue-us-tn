@@ -1,0 +1,73 @@
+{
+  "id": 806608965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.589853,35.437454,-84.589853,35.437454",
+    "geom:latitude":35.437454,
+    "geom:longitude":-84.589853,
+    "iso:country":"US",
+    "sg:address":"430 S White St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 5482",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FC0cIALUGuUlVOIyHgpW0_35.437454_-84.589853@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599558,
+    "wof:geomhash":"99219214a0d086214ee68a130d039191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":806608965
+        }
+    ],
+    "wof:id":806608965,
+    "wof:lastmodified":1462599558,
+    "wof:name":"BP",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -84.589853,
+    35.437454,
+    -84.589853,
+    35.437454
+],
+  "geometry": {"coordinates":[-84.58985300000001,35.437454],"type":"Point"}
+}

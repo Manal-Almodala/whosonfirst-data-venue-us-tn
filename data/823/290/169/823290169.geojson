@@ -1,0 +1,90 @@
+{
+  "id": 823290169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.986415,35.07234,-89.986415,35.07234",
+    "geom:latitude":35.07234,
+    "geom:longitude":-89.986415,
+    "iso:country":"US",
+    "sg:address":"2600 Airways Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 346 3161",
+    "sg:postcode":"38132",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck",
+        "moving-self",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.dollar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c8uJ7F1vB1vBLsDnFlZAC_35.072340_-89.986415@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610700,
+    "wof:geomhash":"737a123ec2cb38282e2151e10f429a7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805535,
+            "region_id":85688701,
+            "venue_id":823290169
+        }
+    ],
+    "wof:id":823290169,
+    "wof:lastmodified":1462610700,
+    "wof:name":"Dollar Rent A Car",
+    "wof:parent_id":85805535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "moving-self",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -89.986415,
+    35.07234,
+    -89.986415,
+    35.07234
+],
+  "geometry": {"coordinates":[-89.98641499999999,35.07234],"type":"Point"}
+}

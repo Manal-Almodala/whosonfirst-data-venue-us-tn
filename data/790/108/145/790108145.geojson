@@ -1,0 +1,73 @@
+{
+  "id": 790108145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.406448,35.881084,-86.406448,35.881084",
+    "geom:latitude":35.881084,
+    "geom:longitude":-86.406448,
+    "iso:country":"US",
+    "sg:address":"2430 Hillmont Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 4774",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RvlTIyLmZ6d4LsGBADUAq_35.881084_-86.406448@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593207,
+    "wof:geomhash":"390f2a8f4280664d9ae9ce783706e279",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821325,
+            "region_id":85688701,
+            "venue_id":790108145
+        }
+    ],
+    "wof:id":790108145,
+    "wof:lastmodified":1462593207,
+    "wof:name":"Bill Arnold Electric",
+    "wof:parent_id":85821325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.406448,
+    35.881084,
+    -86.406448,
+    35.881084
+],
+  "geometry": {"coordinates":[-86.406448,35.881084],"type":"Point"}
+}

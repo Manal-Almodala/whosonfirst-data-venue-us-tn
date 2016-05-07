@@ -1,0 +1,102 @@
+{
+  "id": 823263055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418044,35.846336,-86.418044,35.846336",
+    "geom:latitude":35.846336,
+    "geom:longitude":-86.418044,
+    "iso:country":"US",
+    "sg:address":"1734 Old Fort Pkwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Dog Park",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"Aquarium",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 4344",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "training",
+        "food",
+        "tropical",
+        "grooming",
+        "bird",
+        "store"
+    ],
+    "sg:website":"http://www.petsmart.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xKoBOlCqsmoKe2vnNNCKD_35.846336_-86.418044@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609643,
+    "wof:geomhash":"8ac0b01f6b81ebeae40d35223b4ff59b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823263055
+        }
+    ],
+    "wof:id":823263055,
+    "wof:lastmodified":1462609643,
+    "wof:name":"PetSmart",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "food",
+        "tropical",
+        "grooming",
+        "bird",
+        "store"
+    ]
+},
+  "bbox": [
+    -86.418044,
+    35.846336,
+    -86.418044,
+    35.846336
+],
+  "geometry": {"coordinates":[-86.41804399999999,35.846336],"type":"Point"}
+}

@@ -1,0 +1,103 @@
+{
+  "id": 823271469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.185272,35.08902,-85.185272,35.08902",
+    "geom:latitude":35.08902,
+    "geom:longitude":-85.185272,
+    "iso:country":"US",
+    "sg:address":"4411 Oakwood Dr",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 892 4289",
+    "sg:postcode":"37416",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "management",
+        "pain",
+        "nurses-home",
+        "alzheimer's",
+        "surgeons",
+        "nurse",
+        "surgeon"
+    ],
+    "sg:website":"http://www.hospiceofchattanooga.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85854017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SAGHRLvwrgOnumJoU5bVu_35.089020_-85.185272@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609965,
+    "wof:geomhash":"ec73dcbdd11b64ec4b7f2725f54860db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85854017,
+            "region_id":85688701,
+            "venue_id":823271469
+        }
+    ],
+    "wof:id":823271469,
+    "wof:lastmodified":1462609965,
+    "wof:name":"Hospice of Chattanooga",
+    "wof:parent_id":85854017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "management",
+        "pain",
+        "nurses-home",
+        "alzheimer's",
+        "surgeons",
+        "nurse",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.185272,
+    35.08902,
+    -85.185272,
+    35.08902
+],
+  "geometry": {"coordinates":[-85.185272,35.08902],"type":"Point"}
+}

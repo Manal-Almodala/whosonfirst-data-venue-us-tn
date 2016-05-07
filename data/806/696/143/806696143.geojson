@@ -1,0 +1,73 @@
+{
+  "id": 806696143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.210507,35.527635,-87.210507,35.527635",
+    "geom:latitude":35.527635,
+    "geom:longitude":-87.210507,
+    "iso:country":"US",
+    "sg:address":"723 S Main St",
+    "sg:city":"Mt Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 7300",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IXHCrK89iPRSZMZ4L1BBd_35.527635_-87.210507@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600305,
+    "wof:geomhash":"9c8484a8935a6b89477e4420a2877c13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":806696143
+        }
+    ],
+    "wof:id":806696143,
+    "wof:lastmodified":1462600305,
+    "wof:name":"Sunshine Automotive",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.210507,
+    35.527635,
+    -87.210507,
+    35.527635
+],
+  "geometry": {"coordinates":[-87.21050700000001,35.527635],"type":"Point"}
+}

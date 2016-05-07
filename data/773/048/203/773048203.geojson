@@ -1,0 +1,83 @@
+{
+  "id": 773048203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.752045,36.124658,-86.752045,36.124658",
+    "geom:latitude":36.124658,
+    "geom:longitude":-86.752045,
+    "iso:country":"US",
+    "sg:address":"2219 Nolensville Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 207 0140",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85893481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jSuFQ7hH2C0DgvQH80bVA_36.124658_-86.752045@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462582726,
+    "wof:geomhash":"f014c4abe01366bad15a7fa6c0f8d92a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":773048203
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893481,
+            "region_id":85688701,
+            "venue_id":773048203
+        }
+    ],
+    "wof:id":773048203,
+    "wof:lastmodified":1462582726,
+    "wof:name":"Music City Movers",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -86.752045,
+    36.124658,
+    -86.752045,
+    36.124658
+],
+  "geometry": {"coordinates":[-86.752045,36.124658],"type":"Point"}
+}

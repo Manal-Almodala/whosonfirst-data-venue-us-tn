@@ -1,0 +1,73 @@
+{
+  "id": 807022403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.091057,35.175996,-86.091057,35.175996",
+    "geom:latitude":35.175996,
+    "geom:longitude":-86.091057,
+    "iso:country":"US",
+    "sg:address":"185 Hospital Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 968 1232",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CDSawkFkE4RdvkedmuySj_35.175996_-86.091057@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603057,
+    "wof:geomhash":"d7afd189e1044c723b2e8b4f9622231b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":807022403
+        }
+    ],
+    "wof:id":807022403,
+    "wof:lastmodified":1462603057,
+    "wof:name":"Cumberland Healthcare Group",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.091057,
+    35.175996,
+    -86.091057,
+    35.175996
+],
+  "geometry": {"coordinates":[-86.09105700000001,35.175996],"type":"Point"}
+}

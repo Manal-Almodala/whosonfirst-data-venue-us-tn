@@ -1,0 +1,73 @@
+{
+  "id": 790507337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.489512,36.289322,-82.489512,36.289322",
+    "geom:latitude":36.289322,
+    "geom:longitude":-82.489512,
+    "iso:country":"US",
+    "sg:address":"1311 Persimmon Ridge Rd",
+    "sg:city":"Jonesborough",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 753 4032",
+    "sg:postcode":"37659",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722753,
+        102086335,
+        85822827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ll0zC3pcSOBeIt3aXXoE0_36.289322_-82.489512@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596429,
+    "wof:geomhash":"eda4c059b91b8d386303334e4d04824c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722753,
+            "neighbourhood_id":85822827,
+            "region_id":85688701,
+            "venue_id":790507337
+        }
+    ],
+    "wof:id":790507337,
+    "wof:lastmodified":1462596429,
+    "wof:name":"Lynch Clinic",
+    "wof:parent_id":85822827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.489512,
+    36.289322,
+    -82.489512,
+    36.289322
+],
+  "geometry": {"coordinates":[-82.489512,36.289322],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773445099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.317269,36.271575,-86.317269,36.271575",
+    "geom:latitude":36.271575,
+    "geom:longitude":-86.317269,
+    "iso:country":"US",
+    "sg:address":"1127 Cedar Grove Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 4516",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fBThS6c6cuFT65D38Xopg_36.271575_-86.317269@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585802,
+    "wof:geomhash":"a881408223d3a6901cbb93008a010cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":773445099
+        }
+    ],
+    "wof:id":773445099,
+    "wof:lastmodified":1462585802,
+    "wof:name":"Titan Electric",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.317269,
+    36.271575,
+    -86.317269,
+    36.271575
+],
+  "geometry": {"coordinates":[-86.317269,36.271575],"type":"Point"}
+}

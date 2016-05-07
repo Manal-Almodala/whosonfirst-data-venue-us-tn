@@ -1,0 +1,75 @@
+{
+  "id": 806964619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.507527,36.166276,-85.507527,36.166276",
+    "geom:latitude":36.166276,
+    "geom:longitude":-85.507527,
+    "iso:country":"US",
+    "sg:address":"203 N Cedar Ave",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 528 1992",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722459,
+        102086339,
+        85852063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21JYWF9pKtMiaNMKowj7iy_36.166276_-85.507527@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602560,
+    "wof:geomhash":"8d66a418f2c3f34a2ad7693126567cb9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85852063,
+            "region_id":85688701,
+            "venue_id":806964619
+        }
+    ],
+    "wof:id":806964619,
+    "wof:lastmodified":1462602560,
+    "wof:name":"Middle Tennessee Surgical Spec",
+    "wof:parent_id":85852063,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.507527,
+    36.166276,
+    -85.507527,
+    36.166276
+],
+  "geometry": {"coordinates":[-85.507527,36.166276],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 823283467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.987662,35.114682,-89.987662,35.114682",
+    "geom:latitude":35.114682,
+    "geom:longitude":-89.987662,
+    "iso:country":"US",
+    "sg:address":"2270 S Parkway E",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 278 5052",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V9nhDmt6N7r74LDPhUtUA_35.114682_-89.987662@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610451,
+    "wof:geomhash":"3bf38443a8cedfef40325a62b0e2cacb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867181,
+            "region_id":85688701,
+            "venue_id":823283467
+        }
+    ],
+    "wof:id":823283467,
+    "wof:lastmodified":1462610451,
+    "wof:name":"Salem Manor Apartments",
+    "wof:parent_id":85867181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -89.987662,
+    35.114682,
+    -89.987662,
+    35.114682
+],
+  "geometry": {"coordinates":[-89.987662,35.114682],"type":"Point"}
+}

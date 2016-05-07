@@ -1,0 +1,74 @@
+{
+  "id": 823250563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.511872,35.87788,-84.511872,35.87788",
+    "geom:latitude":35.87788,
+    "geom:longitude":-84.511872,
+    "iso:country":"US",
+    "sg:address":"104 Martin St",
+    "sg:city":"Kingston",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/kingston/73107-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 376 2300",
+    "sg:postcode":"37763",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723087,
+        102087051,
+        85838767
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bhUEbh3RTGeC54w530tgf_35.877880_-84.511872@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609347,
+    "wof:geomhash":"e887989f27f1302c735794157152c43d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101723087,
+            "neighbourhood_id":85838767,
+            "region_id":85688701,
+            "venue_id":823250563
+        }
+    ],
+    "wof:id":823250563,
+    "wof:lastmodified":1462609347,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85838767,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.511872,
+    35.87788,
+    -84.511872,
+    35.87788
+],
+  "geometry": {"coordinates":[-84.511872,35.87788],"type":"Point"}
+}

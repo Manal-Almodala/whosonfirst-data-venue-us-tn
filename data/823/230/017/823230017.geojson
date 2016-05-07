@@ -1,0 +1,73 @@
+{
+  "id": 823230017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.022639,35.035511,-90.022639,35.035511",
+    "geom:latitude":35.035511,
+    "geom:longitude":-90.022639,
+    "iso:country":"US",
+    "sg:address":"1241 E Raines Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 332 4011",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mCVh8QbSVlRUuszNc24RS_35.035441_-90.022558@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462608951,
+    "wof:geomhash":"ece4e9e01723ab8b0113067bb8607b2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867187,
+            "region_id":85688701,
+            "venue_id":823230017
+        }
+    ],
+    "wof:id":823230017,
+    "wof:lastmodified":1462608951,
+    "wof:name":"Sam's Discount",
+    "wof:parent_id":85867187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.022639,
+    35.035511,
+    -90.022639,
+    35.035511
+],
+  "geometry": {"coordinates":[-90.022639,35.035511],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 806403651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.830205,35.215375,-84.830205,35.215375",
+    "geom:latitude":35.215375,
+    "geom:longitude":-84.830205,
+    "iso:country":"US",
+    "sg:address":"4955 N Lee Hwy",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 339 1178",
+    "sg:postcode":"37312",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723129,
+        102087043,
+        85818697,
+        85847789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3U9vLeSV4TH8w50iFQvsCN_35.215375_-84.830205@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597865,
+    "wof:geomhash":"8c045664040a53ff63954c14c1a39d8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85818697,
+            "region_id":85688701,
+            "venue_id":806403651
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85847789,
+            "region_id":85688701,
+            "venue_id":806403651
+        }
+    ],
+    "wof:id":806403651,
+    "wof:lastmodified":1462597865,
+    "wof:name":"Dollar General",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.830205,
+    35.215375,
+    -84.830205,
+    35.215375
+],
+  "geometry": {"coordinates":[-84.83020500000001,35.215375],"type":"Point"}
+}

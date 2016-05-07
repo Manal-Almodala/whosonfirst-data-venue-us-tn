@@ -1,0 +1,71 @@
+{
+  "id": 790060993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.207366,35.534561,-87.207366,35.534561",
+    "geom:latitude":35.534561,
+    "geom:longitude":-87.207366,
+    "iso:country":"US",
+    "sg:address":"100 Public Sq",
+    "sg:city":"Mt Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 3201",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vwL5XpeT3muyxZNdMohCH_35.534561_-87.207366@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592828,
+    "wof:geomhash":"1d7c55f88e64fdd5bad835f9b2bc6378",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":790060993
+        }
+    ],
+    "wof:id":790060993,
+    "wof:lastmodified":1462592828,
+    "wof:name":"Mt Pleasant Police Dept",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.207366,
+    35.534561,
+    -87.207366,
+    35.534561
+],
+  "geometry": {"coordinates":[-87.20736599999999,35.534561],"type":"Point"}
+}

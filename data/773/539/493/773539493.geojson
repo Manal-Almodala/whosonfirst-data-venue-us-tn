@@ -1,0 +1,71 @@
+{
+  "id": 773539493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.148446,35.564127,-86.148446,35.564127",
+    "geom:latitude":35.564127,
+    "geom:longitude":-86.148446,
+    "iso:country":"US",
+    "sg:address":"269 N Fork Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 7800",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RBM3htl6TqJjyr6Y9UZF6_35.564127_-86.148446@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586474,
+    "wof:geomhash":"09f0c91df157ca5d2e97812c6cf672c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":773539493
+        }
+    ],
+    "wof:id":773539493,
+    "wof:lastmodified":1462586474,
+    "wof:name":"Southern Auto Machine Shop",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.148446,
+    35.564127,
+    -86.148446,
+    35.564127
+],
+  "geometry": {"coordinates":[-86.14844600000001,35.564127],"type":"Point"}
+}

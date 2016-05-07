@@ -1,0 +1,74 @@
+{
+  "id": 790091707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.12173,35.902832,-84.12173,35.902832",
+    "geom:latitude":35.902832,
+    "geom:longitude":-84.12173,
+    "iso:country":"US",
+    "sg:address":"111 Center Park Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 692 4061",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "exhibitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fAoDgyA60tCPRZuLtuQHa_35.902832_-84.121730@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593067,
+    "wof:geomhash":"7d121cfa75a4035329a9f516e5f5e4d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":790091707
+        }
+    ],
+    "wof:id":790091707,
+    "wof:lastmodified":1462593067,
+    "wof:name":"Phoenix Theaters",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhibitor"
+    ]
+},
+  "bbox": [
+    -84.12173,
+    35.902832,
+    -84.12173,
+    35.902832
+],
+  "geometry": {"coordinates":[-84.12173,35.902832],"type":"Point"}
+}

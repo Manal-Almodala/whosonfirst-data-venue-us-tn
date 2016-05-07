@@ -1,0 +1,74 @@
+{
+  "id": 823246127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.727878,36.084667,-86.727878,36.084667",
+    "geom:latitude":36.084667,
+    "geom:longitude":-86.727878,
+    "iso:country":"US",
+    "sg:address":"4000 Nolensville Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/215231-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 834 2279",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85840471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UI0kISyfw8IoM5CjEs9Dt_36.084667_-86.727878@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609262,
+    "wof:geomhash":"ee74f64b0b6d2e61ec4af67ec1949a8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85840471,
+            "region_id":85688701,
+            "venue_id":823246127
+        }
+    ],
+    "wof:id":823246127,
+    "wof:lastmodified":1462609262,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85840471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.727878,
+    36.084667,
+    -86.727878,
+    36.084667
+],
+  "geometry": {"coordinates":[-86.727878,36.084667],"type":"Point"}
+}

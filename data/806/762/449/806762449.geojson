@@ -1,0 +1,73 @@
+{
+  "id": 806762449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.038123,35.603136,-87.038123,35.603136",
+    "geom:latitude":35.603136,
+    "geom:longitude":-87.038123,
+    "iso:country":"US",
+    "sg:address":"1600 S Main St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 5713",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YSlqfMcUuo0YDA7kkJDUS_35.603136_-87.038123@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600867,
+    "wof:geomhash":"5376e9f36b1511c4201ec362ba2a12c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":806762449
+        }
+    ],
+    "wof:id":806762449,
+    "wof:lastmodified":1462600867,
+    "wof:name":"Haywoods Auto Repair",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -87.038123,
+    35.603136,
+    -87.038123,
+    35.603136
+],
+  "geometry": {"coordinates":[-87.038123,35.603136],"type":"Point"}
+}

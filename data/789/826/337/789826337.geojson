@@ -1,0 +1,75 @@
+{
+  "id": 789826337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.592864,36.279434,-86.592864,36.279434",
+    "geom:latitude":36.279434,
+    "geom:longitude":-86.592864,
+    "iso:country":"US",
+    "sg:address":"233 Island Dr",
+    "sg:city":"Hendersonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 822 4556",
+    "sg:postcode":"37075",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723169,
+        102086357,
+        85826807
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0O31PmkmrRoaR727S6bBpb_36.279434_-86.592864@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590841,
+    "wof:geomhash":"6be3d732208d2f4a91b6359df5082a26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85826807,
+            "region_id":85688701,
+            "venue_id":789826337
+        }
+    ],
+    "wof:id":789826337,
+    "wof:lastmodified":1462590841,
+    "wof:name":"Custom Lock Svc",
+    "wof:parent_id":85826807,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.592864,
+    36.279434,
+    -86.592864,
+    36.279434
+],
+  "geometry": {"coordinates":[-86.59286400000001,36.279434],"type":"Point"}
+}

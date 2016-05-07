@@ -1,0 +1,73 @@
+{
+  "id": 790150123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.788749,36.165139,-86.788749,36.165139",
+    "geom:latitude":36.165139,
+    "geom:longitude":-86.788749,
+    "iso:country":"US",
+    "sg:address":"525 10th Cir N",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 260 4571",
+    "sg:postcode":"37203",
+    "sg:province":"TN",
+    "sg:tags":[
+        "attendant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85893445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W0sWWPu0V4NGQP7W1NHw5_36.165139_-86.788749@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593506,
+    "wof:geomhash":"291bd6f884fe3f2ff1df5f4f5c616637",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893445,
+            "region_id":85688701,
+            "venue_id":790150123
+        }
+    ],
+    "wof:id":790150123,
+    "wof:lastmodified":1462593506,
+    "wof:name":"Bob's Parking",
+    "wof:parent_id":85893445,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attendant"
+    ]
+},
+  "bbox": [
+    -86.788749,
+    36.165139,
+    -86.788749,
+    36.165139
+],
+  "geometry": {"coordinates":[-86.788749,36.165139],"type":"Point"}
+}

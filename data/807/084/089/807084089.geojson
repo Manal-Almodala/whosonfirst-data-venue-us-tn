@@ -1,0 +1,75 @@
+{
+  "id": 807084089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.774502,36.195361,-86.774502,36.195361",
+    "geom:latitude":36.195361,
+    "geom:longitude":-86.774502,
+    "iso:country":"US",
+    "sg:address":"44 Fern Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 586 1197",
+    "sg:postcode":"37207",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85813213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nCVWxRLhM5QUWZyOevHex_36.195361_-86.774502@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603567,
+    "wof:geomhash":"8bffe51ad6bf26892a538fbbcb8d8947",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85813213,
+            "region_id":85688701,
+            "venue_id":807084089
+        }
+    ],
+    "wof:id":807084089,
+    "wof:lastmodified":1462603567,
+    "wof:name":"RCM",
+    "wof:parent_id":85813213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.774502,
+    36.195361,
+    -86.774502,
+    36.195361
+],
+  "geometry": {"coordinates":[-86.774502,36.195361],"type":"Point"}
+}

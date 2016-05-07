@@ -1,0 +1,71 @@
+{
+  "id": 807223765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.287345,36.213797,-83.287345,36.213797",
+    "geom:latitude":36.213797,
+    "geom:longitude":-83.287345,
+    "iso:country":"US",
+    "sg:address":"324 S James St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 0280",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cI6jN32BlyqeMtv05j23K_36.213797_-83.287345@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605050,
+    "wof:geomhash":"e82397c4daf9846f2d6e0c85e9c4fb4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807223765
+        }
+    ],
+    "wof:id":807223765,
+    "wof:lastmodified":1462605050,
+    "wof:name":"Recreation Building",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -83.287345,
+    36.213797,
+    -83.287345,
+    36.213797
+],
+  "geometry": {"coordinates":[-83.287345,36.213797],"type":"Point"}
+}

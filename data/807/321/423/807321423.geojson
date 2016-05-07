@@ -1,0 +1,75 @@
+{
+  "id": 807321423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.340255,35.249786,-87.340255,35.249786",
+    "geom:latitude":35.249786,
+    "geom:longitude":-87.340255,
+    "iso:country":"US",
+    "sg:address":"721 Buffalo Rd",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 3572",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L42OtfVm2iA2IJabMgtgj_35.249786_-87.340255@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606080,
+    "wof:geomhash":"e22de09be4d08f1b79d6360f48f1a444",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":807321423
+        }
+    ],
+    "wof:id":807321423,
+    "wof:lastmodified":1462606080,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -87.340255,
+    35.249786,
+    -87.340255,
+    35.249786
+],
+  "geometry": {"coordinates":[-87.340255,35.249786],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 773293551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.857284,35.128288,-89.857284,35.128288",
+    "geom:latitude":35.128288,
+    "geom:longitude":-89.857284,
+    "iso:country":"US",
+    "sg:address":"80 Humphreys Center",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 226 5454",
+    "sg:postcode":"38120",
+    "sg:province":"TN",
+    "sg:tags":[
+        "fitness",
+        "wellness",
+        "program",
+        "physical",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85844747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mcyk2Mx9qicDmiqKkwCCg_35.128288_-89.857284@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584627,
+    "wof:geomhash":"9b2384f7f529b5fb51721b62d59094d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85844747,
+            "region_id":85688701,
+            "venue_id":773293551
+        }
+    ],
+    "wof:id":773293551,
+    "wof:lastmodified":1462584627,
+    "wof:name":"Baptist Wellness Ctr Complex",
+    "wof:parent_id":85844747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "wellness",
+        "program",
+        "physical",
+        "facility"
+    ]
+},
+  "bbox": [
+    -89.857284,
+    35.128288,
+    -89.857284,
+    35.128288
+],
+  "geometry": {"coordinates":[-89.85728400000001,35.128288],"type":"Point"}
+}

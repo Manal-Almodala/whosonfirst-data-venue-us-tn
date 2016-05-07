@@ -1,0 +1,84 @@
+{
+  "id": 823246169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.754318,36.129576,-86.754318,36.129576",
+    "geom:latitude":36.129576,
+    "geom:longitude":-86.754318,
+    "iso:country":"US",
+    "sg:address":"2110 Carson St",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/210241-calypso-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 256 3663",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85866801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4quM6y9O5A1IsObng4rtwg_36.129576_-86.754318@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609263,
+    "wof:geomhash":"3628692c44c6eb1de09386dafa56dae7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":823246169
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85866801,
+            "region_id":85688701,
+            "venue_id":823246169
+        }
+    ],
+    "wof:id":823246169,
+    "wof:lastmodified":1462609263,
+    "wof:name":"Calypso Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -86.754318,
+    36.129576,
+    -86.754318,
+    36.129576
+],
+  "geometry": {"coordinates":[-86.754318,36.129576],"type":"Point"}
+}

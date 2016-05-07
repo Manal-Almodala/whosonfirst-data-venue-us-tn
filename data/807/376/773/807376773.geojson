@@ -1,0 +1,73 @@
+{
+  "id": 807376773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.411935,35.871597,-86.411935,35.871597",
+    "geom:latitude":35.871597,
+    "geom:longitude":-86.411935,
+    "iso:country":"US",
+    "sg:address":"1794 W Northfield Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 494 1653",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eCdbW65teTwoDLVocrz57_35.871597_-86.411935@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606881,
+    "wof:geomhash":"1bebb15f7a09341632d5b246ce791e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":807376773
+        }
+    ],
+    "wof:id":807376773,
+    "wof:lastmodified":1462606881,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.411935,
+    35.871597,
+    -86.411935,
+    35.871597
+],
+  "geometry": {"coordinates":[-86.411935,35.871597],"type":"Point"}
+}

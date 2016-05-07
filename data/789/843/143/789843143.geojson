@@ -1,0 +1,74 @@
+{
+  "id": 789843143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.053203,36.020993,-84.053203,36.020993",
+    "geom:latitude":36.020993,
+    "geom:longitude":-84.053203,
+    "iso:country":"US",
+    "sg:address":"7500 Old Clinton Pike",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 938 3213",
+    "sg:postcode":"37849",
+    "sg:province":"TN",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "sg:website":"www.tnstatebank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z14yzFcGxs4EhbOEaDZN1_36.020993_-84.053203@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590973,
+    "wof:geomhash":"1d4c3734fb4c0b8741778d4994f9bbc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":789843143
+        }
+    ],
+    "wof:id":789843143,
+    "wof:lastmodified":1462590973,
+    "wof:name":"Tennessee State Bank",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -84.053203,
+    36.020993,
+    -84.053203,
+    36.020993
+],
+  "geometry": {"coordinates":[-84.053203,36.020993],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 823270871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.254075,35.027256,-85.254075,35.027256",
+    "geom:latitude":35.027256,
+    "geom:longitude":-85.254075,
+    "iso:country":"US",
+    "sg:address":"3213 Brainerd Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 622 6800",
+    "sg:postcode":"37411",
+    "sg:province":"TN",
+    "sg:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876739
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ueHcBszmljTTW3oGLhqUc_35.027256_-85.254075@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609944,
+    "wof:geomhash":"f6ec8d1c33ec7f58918c885f0c6cf964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876739,
+            "region_id":85688701,
+            "venue_id":823270871
+        }
+    ],
+    "wof:id":823270871,
+    "wof:lastmodified":1462609944,
+    "wof:name":"Olde Towne Books",
+    "wof:parent_id":85876739,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "books-wholesale",
+        "store",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -85.254075,
+    35.027256,
+    -85.254075,
+    35.027256
+],
+  "geometry": {"coordinates":[-85.254075,35.027256],"type":"Point"}
+}

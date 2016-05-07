@@ -1,0 +1,78 @@
+{
+  "id": 773731481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.512206,35.854603,-85.512206,35.854603",
+    "geom:latitude":35.854603,
+    "geom:longitude":-85.512206,
+    "iso:country":"US",
+    "sg:address":"5370 McMinnville Hwy",
+    "sg:city":"Doyle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 657 2031",
+    "sg:postcode":"38559",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5m8XBCJHqafdW811uHQNdL_35.854603_-85.512206@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587958,
+    "wof:geomhash":"282d22b9940f8d0f1545dd3d2a5890db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":773731481
+        }
+    ],
+    "wof:id":773731481,
+    "wof:lastmodified":1462587958,
+    "wof:name":"Cayce's Garage & Clean-Up Shop",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.512206,
+    35.854603,
+    -85.512206,
+    35.854603
+],
+  "geometry": {"coordinates":[-85.51220600000001,35.854603],"type":"Point"}
+}

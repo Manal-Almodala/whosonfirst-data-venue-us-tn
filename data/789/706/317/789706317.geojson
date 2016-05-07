@@ -1,0 +1,66 @@
+{
+  "id": 789706317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.013287,36.204594,-89.013287,36.204594",
+    "geom:latitude":36.204594,
+    "geom:longitude":-89.013287,
+    "iso:country":"US",
+    "sg:address":"301 N Poplar St",
+    "sg:city":"Kenton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 749 5810",
+    "sg:postcode":"38233",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mXPzE5h7Cwhlw6MO4UUnF_36.204594_-89.013287@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589901,
+    "wof:geomhash":"fe6a5201e01cfc2a6694b585243db66e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":789706317
+        }
+    ],
+    "wof:id":789706317,
+    "wof:lastmodified":1462589901,
+    "wof:name":"Kenton Food Plaza",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.013287,
+    36.204594,
+    -89.013287,
+    36.204594
+],
+  "geometry": {"coordinates":[-89.01328700000001,36.204594],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789814289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.786514,35.12071,-84.786514,35.12071",
+    "geom:latitude":35.12071,
+    "geom:longitude":-84.786514,
+    "iso:country":"US",
+    "sg:address":"5180 Bates Pike SE",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 339 0955",
+    "sg:postcode":"37323",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723343,
+        102087043,
+        85849565
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LDDT898BSPynKBIlcObY5_35.120710_-84.786514@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590747,
+    "wof:geomhash":"300e3f43363e354d57c7262780023126",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723343,
+            "neighbourhood_id":85849565,
+            "region_id":85688701,
+            "venue_id":789814289
+        }
+    ],
+    "wof:id":789814289,
+    "wof:lastmodified":1462590747,
+    "wof:name":"A & I Repair",
+    "wof:parent_id":85849565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.786514,
+    35.12071,
+    -84.786514,
+    35.12071
+],
+  "geometry": {"coordinates":[-84.786514,35.12071],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 806634497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.987726,35.889818,-83.987726,35.889818",
+    "geom:latitude":35.889818,
+    "geom:longitude":-83.987726,
+    "iso:country":"US",
+    "sg:address":"2329 Duncan Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 212 9949",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dock",
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85831819,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JafLG3kBDINfRTlczddsh_35.889818_-83.987726@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599772,
+    "wof:geomhash":"0f342d571a9726643d52c9d4fa068ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85831819,
+            "region_id":85688701,
+            "venue_id":806634497
+        }
+    ],
+    "wof:id":806634497,
+    "wof:lastmodified":1462599772,
+    "wof:name":"Duncans Boat Dock",
+    "wof:parent_id":85831819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dock",
+        "operation"
+    ]
+},
+  "bbox": [
+    -83.987726,
+    35.889818,
+    -83.987726,
+    35.889818
+],
+  "geometry": {"coordinates":[-83.98772599999999,35.889818],"type":"Point"}
+}

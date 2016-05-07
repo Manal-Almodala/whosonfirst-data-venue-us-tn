@@ -1,0 +1,73 @@
+{
+  "id": 790429795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.853082,35.100818,-89.853082,35.100818",
+    "geom:latitude":35.100818,
+    "geom:longitude":-89.853082,
+    "iso:country":"US",
+    "sg:address":"6264 Poplar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 682 7118",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EAvfi6TyzqxDeOSUT7NIG_35.100818_-89.853082@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595768,
+    "wof:geomhash":"0fb7a4cb5d525a107712ddf44017e6fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870789,
+            "region_id":85688701,
+            "venue_id":790429795
+        }
+    ],
+    "wof:id":790429795,
+    "wof:lastmodified":1462595768,
+    "wof:name":"East Memphis Dental Assoc",
+    "wof:parent_id":85870789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.853082,
+    35.100818,
+    -89.853082,
+    35.100818
+],
+  "geometry": {"coordinates":[-89.853082,35.100818],"type":"Point"}
+}

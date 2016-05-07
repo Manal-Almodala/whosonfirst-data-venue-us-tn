@@ -1,0 +1,85 @@
+{
+  "id": 807186337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.884815,35.035472,-89.884815,35.035472",
+    "geom:latitude":35.035472,
+    "geom:longitude":-89.884815,
+    "iso:country":"US",
+    "sg:address":"4005 S Mendenhall Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 794 2111",
+    "sg:postcode":"38115",
+    "sg:province":"TN",
+    "sg:tags":[
+        "instrument",
+        "aircraft"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S6v3kqKjqTiQm9kt0p500_35.035472_-89.884815@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604654,
+    "wof:geomhash":"7d5d75be389b7cffe0640c88cbebdaf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":807186337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":807186337
+        }
+    ],
+    "wof:id":807186337,
+    "wof:lastmodified":1462604654,
+    "wof:name":"Ipi",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "aircraft"
+    ]
+},
+  "bbox": [
+    -89.884815,
+    35.035472,
+    -89.884815,
+    35.035472
+],
+  "geometry": {"coordinates":[-89.884815,35.035472],"type":"Point"}
+}

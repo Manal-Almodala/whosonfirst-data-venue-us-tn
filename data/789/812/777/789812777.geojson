@@ -1,0 +1,79 @@
+{
+  "id": 789812777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.787914,35.672125,-83.787914,35.672125",
+    "geom:latitude":35.672125,
+    "geom:longitude":-83.787914,
+    "iso:country":"US",
+    "sg:address":"528 Lawson Rd",
+    "sg:city":"Townsend",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Campground",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 448 0935",
+    "sg:postcode":"37882",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operation",
+        "camp"
+    ],
+    "sg:website":"www.tiptoncabins.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722697,
+        102087017,
+        85828507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TaunLN1iXRNfUdLHqDnfO_35.672125_-83.787914@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590736,
+    "wof:geomhash":"dcf273d300e69692c5a0cf420f35b199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722697,
+            "neighbourhood_id":85828507,
+            "region_id":85688701,
+            "venue_id":789812777
+        }
+    ],
+    "wof:id":789812777,
+    "wof:lastmodified":1462590736,
+    "wof:name":"Tipton's Cabin Rentals",
+    "wof:parent_id":85828507,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "camp"
+    ]
+},
+  "bbox": [
+    -83.787914,
+    35.672125,
+    -83.787914,
+    35.672125
+],
+  "geometry": {"coordinates":[-83.787914,35.672125],"type":"Point"}
+}

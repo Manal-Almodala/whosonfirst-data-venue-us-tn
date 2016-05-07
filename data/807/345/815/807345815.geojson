@@ -1,0 +1,71 @@
+{
+  "id": 807345815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.201682,36.163351,-86.201682,36.163351",
+    "geom:latitude":36.163351,
+    "geom:longitude":-86.201682,
+    "iso:country":"US",
+    "sg:address":"2910 Poplar Hill Rd",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 453 3002",
+    "sg:postcode":"37184",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OE1qPnyH31KQAGOcjjLkt_36.163351_-86.201682@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606444,
+    "wof:geomhash":"1a36d2f087238bd92b575470f6e42177",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":807345815
+        }
+    ],
+    "wof:id":807345815,
+    "wof:lastmodified":1462606444,
+    "wof:name":"Blast From The Past",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.201682,
+    36.163351,
+    -86.201682,
+    36.163351
+],
+  "geometry": {"coordinates":[-86.20168200000001,36.163351],"type":"Point"}
+}

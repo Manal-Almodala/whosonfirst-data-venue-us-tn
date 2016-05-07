@@ -1,0 +1,83 @@
+{
+  "id": 789879535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.598413,36.443343,-83.598413,36.443343",
+    "geom:latitude":36.443343,
+    "geom:longitude":-83.598413,
+    "iso:country":"US",
+    "sg:address":"101 N Broad St",
+    "sg:city":"New Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 1875",
+    "sg:postcode":"37825",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722889,
+        102086965,
+        85811469,
+        101722885,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58h87LmOL5ACSGQ5mA4Wra_36.443343_-83.598413@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591286,
+    "wof:geomhash":"f2acb86c5c3d5ccd7c04734147103f30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722889,
+            "neighbourhood_id":85811469,
+            "region_id":85688701,
+            "venue_id":789879535
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":789879535
+        }
+    ],
+    "wof:id":789879535,
+    "wof:lastmodified":1462591286,
+    "wof:name":"Big Four Pawn",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -83.598413,
+    36.443343,
+    -83.598413,
+    36.443343
+],
+  "geometry": {"coordinates":[-83.59841299999999,36.443343],"type":"Point"}
+}

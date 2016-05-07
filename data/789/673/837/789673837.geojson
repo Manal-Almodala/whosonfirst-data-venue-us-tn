@@ -1,0 +1,73 @@
+{
+  "id": 789673837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.807501,36.060752,-83.807501,36.060752",
+    "geom:latitude":36.060752,
+    "geom:longitude":-83.807501,
+    "iso:country":"US",
+    "sg:address":"2703 Ellistown Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 673 3330",
+    "sg:postcode":"37924",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pathologist",
+        "speech"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50GmAJ7UaNwL3V0vqZBapL_36.060752_-83.807501@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589654,
+    "wof:geomhash":"ed20aa5502d65213d04824aac38e543c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":789673837
+        }
+    ],
+    "wof:id":789673837,
+    "wof:lastmodified":1462589654,
+    "wof:name":"Clearly Speaking Speech Path",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pathologist",
+        "speech"
+    ]
+},
+  "bbox": [
+    -83.807501,
+    36.060752,
+    -83.807501,
+    36.060752
+],
+  "geometry": {"coordinates":[-83.807501,36.060752],"type":"Point"}
+}

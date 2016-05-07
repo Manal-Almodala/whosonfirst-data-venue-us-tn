@@ -1,0 +1,73 @@
+{
+  "id": 789770779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.035717,35.603029,-87.035717,35.603029",
+    "geom:latitude":35.603029,
+    "geom:longitude":-87.035717,
+    "iso:country":"US",
+    "sg:address":"1511 Carmack Blvd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 381 6001",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K4kF996USgW1Y0TR5RtdO_35.603029_-87.035717@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590407,
+    "wof:geomhash":"a7381cf91c7a4ea55f760668fa3411cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":789770779
+        }
+    ],
+    "wof:id":789770779,
+    "wof:lastmodified":1462590407,
+    "wof:name":"U-Save Auto Rental",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -87.035717,
+    35.603029,
+    -87.035717,
+    35.603029
+],
+  "geometry": {"coordinates":[-87.03571700000001,35.603029],"type":"Point"}
+}

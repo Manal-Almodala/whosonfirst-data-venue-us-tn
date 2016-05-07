@@ -1,0 +1,75 @@
+{
+  "id": 789986523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.066342,36.415363,-89.066342,36.415363",
+    "geom:latitude":36.415363,
+    "geom:longitude":-89.066342,
+    "iso:country":"US",
+    "sg:address":"402 W Reelfoot Ave",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 1943",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hL4ETY0CZmPvK28QAll2U_36.415363_-89.066342@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592221,
+    "wof:geomhash":"85c1df7d8050cb9370c01e95f979bcc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":789986523
+        }
+    ],
+    "wof:id":789986523,
+    "wof:lastmodified":1462592221,
+    "wof:name":"Reelfoot Animal Hospital",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -89.066342,
+    36.415363,
+    -89.066342,
+    36.415363
+],
+  "geometry": {"coordinates":[-89.06634200000001,36.415363],"type":"Point"}
+}

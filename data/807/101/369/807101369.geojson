@@ -1,0 +1,73 @@
+{
+  "id": 807101369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.811689,35.447398,-89.811689,35.447398",
+    "geom:latitude":35.447398,
+    "geom:longitude":-89.811689,
+    "iso:country":"US",
+    "sg:address":"1315 Munford-Atoka Ave",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 6252",
+    "sg:postcode":"38058",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FtkZarhhIQa1r0nzNNEJS_35.447398_-89.811689@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603747,
+    "wof:geomhash":"183e82243621e32ca159ba9803583a8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":807101369
+        }
+    ],
+    "wof:id":807101369,
+    "wof:lastmodified":1462603747,
+    "wof:name":"Amoco",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.811689,
+    35.447398,
+    -89.811689,
+    35.447398
+],
+  "geometry": {"coordinates":[-89.811689,35.447398],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789671533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.146181,35.985906,-83.146181,35.985906",
+    "geom:latitude":35.985906,
+    "geom:longitude":-83.146181,
+    "iso:country":"US",
+    "sg:address":"1013 Old Greeneville Hwy",
+    "sg:city":"Parrottsville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 5358",
+    "sg:postcode":"37843",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85838303,
+        102086241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NSdBcowL1l7l54k1El5Ex_35.985906_-83.146181@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589637,
+    "wof:geomhash":"cf87ecb94933f24f93021df2275224d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "neighbourhood_id":85838303,
+            "region_id":85688701,
+            "venue_id":789671533
+        }
+    ],
+    "wof:id":789671533,
+    "wof:lastmodified":1462589637,
+    "wof:name":"ASAP",
+    "wof:parent_id":85838303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.146181,
+    35.985906,
+    -83.146181,
+    35.985906
+],
+  "geometry": {"coordinates":[-83.146181,35.985906],"type":"Point"}
+}

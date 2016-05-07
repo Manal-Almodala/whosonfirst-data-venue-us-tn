@@ -1,0 +1,73 @@
+{
+  "id": 806622251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.889409,35.224273,-89.889409,35.224273",
+    "geom:latitude":35.224273,
+    "geom:longitude":-89.889409,
+    "iso:country":"US",
+    "sg:address":"5197 Gloucester Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 382 9814",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10IH17Vac9YNtB2i2xK3uv_35.224273_-89.889409@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599670,
+    "wof:geomhash":"357ba8784dd0299caa2a2e9f2d2b2973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":806622251
+        }
+    ],
+    "wof:id":806622251,
+    "wof:lastmodified":1462599670,
+    "wof:name":"Field Electric",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.889409,
+    35.224273,
+    -89.889409,
+    35.224273
+],
+  "geometry": {"coordinates":[-89.889409,35.224273],"type":"Point"}
+}

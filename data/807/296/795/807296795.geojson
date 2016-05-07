@@ -1,0 +1,73 @@
+{
+  "id": 807296795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.35012,35.803496,-86.35012,35.803496",
+    "geom:latitude":35.803496,
+    "geom:longitude":-86.35012,
+    "iso:country":"US",
+    "sg:address":"2321 N Brunswick Ct",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 0443",
+    "sg:postcode":"37127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fESEY9njOL0qAHHx8UliV_35.803496_-86.350120@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605820,
+    "wof:geomhash":"88ac516502fc32af640e24f6ae1fe949",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":807296795
+        }
+    ],
+    "wof:id":807296795,
+    "wof:lastmodified":1462605820,
+    "wof:name":"Superior Maintenance",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.35012,
+    35.803496,
+    -86.35012,
+    35.803496
+],
+  "geometry": {"coordinates":[-86.35012,35.803496],"type":"Point"}
+}

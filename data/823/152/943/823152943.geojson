@@ -1,0 +1,87 @@
+{
+  "id": 823152943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.771551,36.006624,-83.771551,36.006624",
+    "geom:latitude":36.006624,
+    "geom:longitude":-83.771551,
+    "iso:country":"US",
+    "sg:address":"7501 Strawberry Plains Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 5953",
+    "sg:postcode":"37924",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "engine",
+        "mfg",
+        "automobile",
+        "equipment",
+        "electrical"
+    ],
+    "sg:website":"www.powermastermotorsports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jpVrbifIx6fB0I39hWLF8_36.006624_-83.771551@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607707,
+    "wof:geomhash":"c13379cb54b2fb4ce5b2f3c3f9f7cac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":823152943
+        }
+    ],
+    "wof:id":823152943,
+    "wof:lastmodified":1462607707,
+    "wof:name":"Powermaster",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine",
+        "mfg",
+        "automobile",
+        "equipment",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -83.771551,
+    36.006624,
+    -83.771551,
+    36.006624
+],
+  "geometry": {"coordinates":[-83.771551,36.006624],"type":"Point"}
+}

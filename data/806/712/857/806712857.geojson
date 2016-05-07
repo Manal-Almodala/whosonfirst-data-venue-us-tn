@@ -1,0 +1,85 @@
+{
+  "id": 806712857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.197474,35.05334,-85.197474,35.05334",
+    "geom:latitude":35.05334,
+    "geom:longitude":-85.197474,
+    "iso:country":"US",
+    "sg:address":"5911 Quintis Loop",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 894 5806",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85851775,
+        420541685
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58XM0PiXGPoXj3mCcgfdPo_35.053340_-85.197474@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600440,
+    "wof:geomhash":"a0e501022b86b4aa6d4815dca2dcb5c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85851775,
+            "region_id":85688701,
+            "venue_id":806712857
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":420541685,
+            "region_id":85688701,
+            "venue_id":806712857
+        }
+    ],
+    "wof:id":806712857,
+    "wof:lastmodified":1462600440,
+    "wof:name":"Sentinel Transportation",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.197474,
+    35.05334,
+    -85.197474,
+    35.05334
+],
+  "geometry": {"coordinates":[-85.197474,35.05334],"type":"Point"}
+}

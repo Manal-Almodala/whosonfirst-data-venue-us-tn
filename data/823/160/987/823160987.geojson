@@ -1,0 +1,73 @@
+{
+  "id": 823160987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.940394,36.010987,-83.940394,36.010987",
+    "geom:latitude":36.010987,
+    "geom:longitude":-83.940394,
+    "iso:country":"US",
+    "sg:address":"1400 Dutch Valley Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 1122",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DyAS1OzSGC4kN0SdFeTHp_36.010987_-83.940394@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607811,
+    "wof:geomhash":"27965729967c5e4aa9fff91dbe025fa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":823160987
+        }
+    ],
+    "wof:id":823160987,
+    "wof:lastmodified":1462607811,
+    "wof:name":"Children's Primary Care Ctr",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.940394,
+    36.010987,
+    -83.940394,
+    36.010987
+],
+  "geometry": {"coordinates":[-83.940394,36.010987],"type":"Point"}
+}

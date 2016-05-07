@@ -1,0 +1,73 @@
+{
+  "id": 807134771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.303641,36.209059,-83.303641,36.209059",
+    "geom:latitude":36.209059,
+    "geom:longitude":-83.303641,
+    "iso:country":"US",
+    "sg:address":"110 N High St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 9030",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jMijv2mxHzTC44U3wYrps_36.209059_-83.303641@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604105,
+    "wof:geomhash":"0fd19c9f3ed64ecbaa03653ebce45968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807134771
+        }
+    ],
+    "wof:id":807134771,
+    "wof:lastmodified":1462604105,
+    "wof:name":"Patrick J Evans DO",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.303641,
+    36.209059,
+    -83.303641,
+    36.209059
+],
+  "geometry": {"coordinates":[-83.303641,36.209059],"type":"Point"}
+}

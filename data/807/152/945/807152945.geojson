@@ -1,0 +1,71 @@
+{
+  "id": 807152945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.426314,35.793899,-86.426314,35.793899",
+    "geom:latitude":35.793899,
+    "geom:longitude":-86.426314,
+    "iso:country":"US",
+    "sg:address":"2811 Barfield Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 9282",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wJYQx4FiG5xuZr8uHoVnH_35.793899_-86.426314@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604301,
+    "wof:geomhash":"5ce8a085414ef04fbcbb1b47d4d395a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":807152945
+        }
+    ],
+    "wof:id":807152945,
+    "wof:lastmodified":1462604301,
+    "wof:name":"Dubbs Automotive",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.426314,
+    35.793899,
+    -86.426314,
+    35.793899
+],
+  "geometry": {"coordinates":[-86.426314,35.793899],"type":"Point"}
+}

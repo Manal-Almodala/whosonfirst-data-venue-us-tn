@@ -1,0 +1,71 @@
+{
+  "id": 807130991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029002,35.479628,-85.029002,35.479628",
+    "geom:latitude":35.479628,
+    "geom:longitude":-85.029002,
+    "iso:country":"US",
+    "sg:address":"116 Railroad St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 570 8749",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56exMYviry9DdUeNuXMqcF_35.479628_-85.029002@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604057,
+    "wof:geomhash":"379bddb8e20c3dca4d945ba9642eb2d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":807130991
+        }
+    ],
+    "wof:id":807130991,
+    "wof:lastmodified":1462604057,
+    "wof:name":"S & R Bakery",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -85.029002,
+    35.479628,
+    -85.029002,
+    35.479628
+],
+  "geometry": {"coordinates":[-85.02900200000001,35.479628],"type":"Point"}
+}

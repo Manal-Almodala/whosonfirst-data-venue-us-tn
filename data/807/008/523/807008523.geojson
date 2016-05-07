@@ -1,0 +1,73 @@
+{
+  "id": 807008523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.32993,36.035327,-84.32993,36.035327",
+    "geom:latitude":36.035327,
+    "geom:longitude":-84.32993,
+    "iso:country":"US",
+    "sg:address":"490 E Tri County Blvd",
+    "sg:city":"Oliver Springs",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 435 2044",
+    "sg:postcode":"37840",
+    "sg:province":"TN",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722691,
+        102086483,
+        85852815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36TuWuKAgvsEJ2BpQoffNn_36.035327_-84.329930@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602931,
+    "wof:geomhash":"ac047da927990a1403491408ce6a0ea5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722691,
+            "neighbourhood_id":85852815,
+            "region_id":85688701,
+            "venue_id":807008523
+        }
+    ],
+    "wof:id":807008523,
+    "wof:lastmodified":1462602931,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85852815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -84.32993,
+    36.035327,
+    -84.32993,
+    36.035327
+],
+  "geometry": {"coordinates":[-84.32993,36.035327],"type":"Point"}
+}

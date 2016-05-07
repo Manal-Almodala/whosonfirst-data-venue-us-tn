@@ -1,0 +1,73 @@
+{
+  "id": 806408187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.767176,35.561576,-89.767176,35.561576",
+    "geom:latitude":35.561576,
+    "geom:longitude":-89.767176,
+    "iso:country":"US",
+    "sg:address":"6958 Hwy 59 W",
+    "sg:city":"Burlison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 4730",
+    "sg:postcode":"38015",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oYJLV9ug4qwoEVRDt9p4P_35.561576_-89.767176@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597899,
+    "wof:geomhash":"e0fd3957fb83ebb1d993dde7f8298186",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806408187
+        }
+    ],
+    "wof:id":806408187,
+    "wof:lastmodified":1462597899,
+    "wof:name":"ABC Locksmith Svc",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -89.767176,
+    35.561576,
+    -89.767176,
+    35.561576
+],
+  "geometry": {"coordinates":[-89.76717600000001,35.561576],"type":"Point"}
+}

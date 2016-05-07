@@ -1,0 +1,73 @@
+{
+  "id": 789685991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.406876,36.376403,-82.406876,36.376403",
+    "geom:latitude":36.376403,
+    "geom:longitude":-82.406876,
+    "iso:country":"US",
+    "sg:address":"4108 N Roan St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 282 5515",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85806709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1trByg5uL6KtFVBxy6roT6_36.376403_-82.406876@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589750,
+    "wof:geomhash":"164a21c6c78a00ed2dcc47b72bd15bae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85806709,
+            "region_id":85688701,
+            "venue_id":789685991
+        }
+    ],
+    "wof:id":789685991,
+    "wof:lastmodified":1462589750,
+    "wof:name":"Buchanan's Auto Sales",
+    "wof:parent_id":85806709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -82.406876,
+    36.376403,
+    -82.406876,
+    36.376403
+],
+  "geometry": {"coordinates":[-82.406876,36.376403],"type":"Point"}
+}

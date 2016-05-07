@@ -1,0 +1,75 @@
+{
+  "id": 806570149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.495464,36.006758,-86.495464,36.006758",
+    "geom:latitude":36.006758,
+    "geom:longitude":-86.495464,
+    "iso:country":"US",
+    "sg:address":"271 Weakley Ln",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 355 4310",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85823525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q9Jh30z2R0sqbLlUKtJle_36.006758_-86.495464@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599211,
+    "wof:geomhash":"6345aef3554f3ed8502250d9e845e3fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85823525,
+            "region_id":85688701,
+            "venue_id":806570149
+        }
+    ],
+    "wof:id":806570149,
+    "wof:lastmodified":1462599211,
+    "wof:name":"Envirotest Systems",
+    "wof:parent_id":85823525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "testing",
+        "emission"
+    ]
+},
+  "bbox": [
+    -86.495464,
+    36.006758,
+    -86.495464,
+    36.006758
+],
+  "geometry": {"coordinates":[-86.495464,36.006758],"type":"Point"}
+}

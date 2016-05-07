@@ -1,0 +1,73 @@
+{
+  "id": 823195079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.03882,35.031775,-90.03882,35.031775",
+    "geom:latitude":35.031775,
+    "geom:longitude":-90.03882,
+    "iso:country":"US",
+    "sg:address":"701 Parkdale Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 523 9511",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NqJJHaL7U4IIWeUYEEiDO_35.031775_-90.038820@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608265,
+    "wof:geomhash":"fd8b7ecd710d01e0d25900dea882d6c0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542123,
+            "region_id":85688701,
+            "venue_id":823195079
+        }
+    ],
+    "wof:id":823195079,
+    "wof:lastmodified":1462608265,
+    "wof:name":"Dumas 24 Hour Wrecker Svc",
+    "wof:parent_id":420542123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.03882,
+    35.031775,
+    -90.03882,
+    35.031775
+],
+  "geometry": {"coordinates":[-90.03882,35.031775],"type":"Point"}
+}

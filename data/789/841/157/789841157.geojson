@@ -1,0 +1,80 @@
+{
+  "id": 789841157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.813524,36.486384,-81.813524,36.486384",
+    "geom:latitude":36.486384,
+    "geom:longitude":-81.813524,
+    "iso:country":"US",
+    "sg:address":"919 Medical Park Dr",
+    "sg:city":"Mountain City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 727 7800",
+    "sg:postcode":"37683",
+    "sg:province":"TN",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Uatd0gwgvYcNOrmMoseEb_36.486384_-81.813524@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590955,
+    "wof:geomhash":"a0cf485590f17b848ba11d8eea2536a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":789841157
+        }
+    ],
+    "wof:id":789841157,
+    "wof:lastmodified":1462590955,
+    "wof:name":"Mountain City Care Center",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -81.813524,
+    36.486384,
+    -81.813524,
+    36.486384
+],
+  "geometry": {"coordinates":[-81.813524,36.486384],"type":"Point"}
+}

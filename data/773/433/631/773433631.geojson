@@ -1,0 +1,71 @@
+{
+  "id": 773433631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.564523,35.864366,-83.564523,35.864366",
+    "geom:latitude":35.864366,
+    "geom:longitude":-83.564523,
+    "iso:country":"US",
+    "sg:address":"122 Prince St",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 9276",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03EVXkd1nte5O8s5ULk4YC_35.864366_-83.564523@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585697,
+    "wof:geomhash":"2ef61c5dad36554b548ceba523d3b5a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":773433631
+        }
+    ],
+    "wof:id":773433631,
+    "wof:lastmodified":1462585697,
+    "wof:name":"Sevierville Fire Department",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.564523,
+    35.864366,
+    -83.564523,
+    35.864366
+],
+  "geometry": {"coordinates":[-83.56452299999999,35.864366],"type":"Point"}
+}

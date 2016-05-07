@@ -1,0 +1,75 @@
+{
+  "id": 790337635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.040337,35.626753,-87.040337,35.626753",
+    "geom:latitude":35.626753,
+    "geom:longitude":-87.040337,
+    "iso:country":"US",
+    "sg:address":"105 N James Campbell Blvd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 9406",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospital",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KbZHPhOKJ43hIGXmkebvY_35.626753_-87.040337@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595044,
+    "wof:geomhash":"691e2deebb3e9e790ad1944009bc12f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":790337635
+        }
+    ],
+    "wof:id":790337635,
+    "wof:lastmodified":1462595044,
+    "wof:name":"Place Of Hope",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -87.040337,
+    35.626753,
+    -87.040337,
+    35.626753
+],
+  "geometry": {"coordinates":[-87.04033699999999,35.626753],"type":"Point"}
+}

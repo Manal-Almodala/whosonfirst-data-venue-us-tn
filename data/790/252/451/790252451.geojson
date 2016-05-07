@@ -1,0 +1,71 @@
+{
+  "id": 790252451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.820629,36.180092,-82.820629,36.180092",
+    "geom:latitude":36.180092,
+    "geom:longitude":-82.820629,
+    "iso:country":"US",
+    "sg:address":"145 Kingsport Hwy",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 639 7211",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XGJO2FP4tZuPyHiMCp8gA_36.180092_-82.820629@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594356,
+    "wof:geomhash":"1c5096e3dd915abf7c6e8b28dd3b10a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":790252451
+        }
+    ],
+    "wof:id":790252451,
+    "wof:lastmodified":1462594356,
+    "wof:name":"By-Pass Wrekcer Svc",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.820629,
+    36.180092,
+    -82.820629,
+    36.180092
+],
+  "geometry": {"coordinates":[-82.820629,36.180092],"type":"Point"}
+}

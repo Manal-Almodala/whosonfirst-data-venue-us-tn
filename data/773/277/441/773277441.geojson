@@ -1,0 +1,73 @@
+{
+  "id": 773277441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.186626,36.329156,-84.186626,36.329156",
+    "geom:latitude":36.329156,
+    "geom:longitude":-84.186626,
+    "iso:country":"US",
+    "sg:address":"812 Main St",
+    "sg:city":"Jacksboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 562 7341",
+    "sg:postcode":"37757",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722415,
+        102086391,
+        85841731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1txrXneMww3zf7AEpnqiyM_36.329156_-84.186626@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584496,
+    "wof:geomhash":"aab463bc45f2d35cafbbed0b83c50b5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086391,
+            "locality_id":101722415,
+            "neighbourhood_id":85841731,
+            "region_id":85688701,
+            "venue_id":773277441
+        }
+    ],
+    "wof:id":773277441,
+    "wof:lastmodified":1462584496,
+    "wof:name":"Quality Auto Repair",
+    "wof:parent_id":85841731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.186626,
+    36.329156,
+    -84.186626,
+    36.329156
+],
+  "geometry": {"coordinates":[-84.186626,36.329156],"type":"Point"}
+}

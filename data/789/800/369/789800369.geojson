@@ -1,0 +1,73 @@
+{
+  "id": 789800369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.315378,35.827985,-86.315378,35.827985",
+    "geom:latitude":35.827985,
+    "geom:longitude":-86.315378,
+    "iso:country":"US",
+    "sg:address":"315 Murfreesboro St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 907 7501",
+    "sg:postcode":"37127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PpE39IMqTQkEjRPEUaClH_35.827985_-86.315378@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590644,
+    "wof:geomhash":"b1cb643f712bce57a0a2ac453251687a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":789800369
+        }
+    ],
+    "wof:id":789800369,
+    "wof:lastmodified":1462590644,
+    "wof:name":"Emerson Electric Co",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -86.315378,
+    35.827985,
+    -86.315378,
+    35.827985
+],
+  "geometry": {"coordinates":[-86.315378,35.827985],"type":"Point"}
+}

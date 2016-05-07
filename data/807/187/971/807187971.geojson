@@ -1,0 +1,71 @@
+{
+  "id": 807187971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.269918,35.053855,-86.269918,35.053855",
+    "geom:latitude":35.053855,
+    "geom:longitude":-86.269918,
+    "iso:country":"US",
+    "sg:address":"507 Main St",
+    "sg:city":"Huntland",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 469 4640",
+    "sg:postcode":"37345",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N9Er0WbrD3JrSShkitCFo_35.053855_-86.269918@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604670,
+    "wof:geomhash":"5edf6b32687ba4db94d73bfc4ee80f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":807187971
+        }
+    ],
+    "wof:id":807187971,
+    "wof:lastmodified":1462604670,
+    "wof:name":"Quest Diagnotics",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -86.269918,
+    35.053855,
+    -86.269918,
+    35.053855
+],
+  "geometry": {"coordinates":[-86.269918,35.053855],"type":"Point"}
+}

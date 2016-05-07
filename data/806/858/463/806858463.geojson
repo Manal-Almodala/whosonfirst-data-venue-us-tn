@@ -1,0 +1,73 @@
+{
+  "id": 806858463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.457038,35.872586,-86.457038,35.872586",
+    "geom:latitude":35.872586,
+    "geom:longitude":-86.457038,
+    "iso:country":"US",
+    "sg:address":"2821 Grange Pl",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 5844",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UxIcclkcekI2xPjboGYYL_35.872586_-86.457038@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601678,
+    "wof:geomhash":"d8909e43f0396e4162fc6b66e86043cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":806858463
+        }
+    ],
+    "wof:id":806858463,
+    "wof:lastmodified":1462601678,
+    "wof:name":"White's Towing & Recovery",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -86.457038,
+    35.872586,
+    -86.457038,
+    35.872586
+],
+  "geometry": {"coordinates":[-86.457038,35.872586],"type":"Point"}
+}

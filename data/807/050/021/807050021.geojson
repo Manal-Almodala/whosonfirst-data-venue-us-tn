@@ -1,0 +1,71 @@
+{
+  "id": 807050021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.805422,36.473759,-81.805422,36.473759",
+    "geom:latitude":36.473759,
+    "geom:longitude":-81.805422,
+    "iso:country":"US",
+    "sg:address":"114 Donnelly St",
+    "sg:city":"Mountain City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 727 6754",
+    "sg:postcode":"37683",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62mQE9HjnZuH2Ptv8cpQCe_36.473759_-81.805422@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603288,
+    "wof:geomhash":"0d9c0be5409f9b594063275a93edfa7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":807050021
+        }
+    ],
+    "wof:id":807050021,
+    "wof:lastmodified":1462603288,
+    "wof:name":"Mountain City Fire Dept",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -81.805422,
+    36.473759,
+    -81.805422,
+    36.473759
+],
+  "geometry": {"coordinates":[-81.80542199999999,36.473759],"type":"Point"}
+}

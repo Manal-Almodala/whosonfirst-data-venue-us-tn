@@ -1,0 +1,71 @@
+{
+  "id": 773506433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.303084,36.211395,-83.303084,36.211395",
+    "geom:latitude":36.211395,
+    "geom:longitude":-83.303084,
+    "iso:country":"US",
+    "sg:address":"850 W 3rd North St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 8071",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OxNVO2WvgdJ6MGpe5h63L_36.211395_-83.303084@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586249,
+    "wof:geomhash":"d1f114c365950c38987790df3c05e845",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773506433
+        }
+    ],
+    "wof:id":773506433,
+    "wof:lastmodified":1462586249,
+    "wof:name":"Physicians Medical Laboratory",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -83.303084,
+    36.211395,
+    -83.303084,
+    36.211395
+],
+  "geometry": {"coordinates":[-83.303084,36.211395],"type":"Point"}
+}

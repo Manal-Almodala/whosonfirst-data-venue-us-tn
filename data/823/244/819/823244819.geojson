@@ -1,0 +1,74 @@
+{
+  "id": 823244819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.367216,35.811835,-86.367216,35.811835",
+    "geom:latitude":35.811835,
+    "geom:longitude":-86.367216,
+    "iso:country":"US",
+    "sg:address":"1722 S Rutherford Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/140000-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 8090",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OQOrlw2pVqYHv0cPCvhSg_35.811835_-86.367216@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609233,
+    "wof:geomhash":"1ed3faeb62b25e0f6e8fc4046ef8a17c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":823244819
+        }
+    ],
+    "wof:id":823244819,
+    "wof:lastmodified":1462609233,
+    "wof:name":"Subway",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.367216,
+    35.811835,
+    -86.367216,
+    35.811835
+],
+  "geometry": {"coordinates":[-86.367216,35.811835],"type":"Point"}
+}

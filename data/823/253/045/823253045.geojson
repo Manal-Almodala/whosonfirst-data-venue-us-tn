@@ -1,0 +1,74 @@
+{
+  "id": 823253045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.090087,35.915008,-84.090087,35.915008",
+    "geom:latitude":35.915008,
+    "geom:longitude":-84.090087,
+    "iso:country":"US",
+    "sg:address":"330 N Peters Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/97763-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 539 2540",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LOJMIyBNT0puc3AkaTuUJ_35.915008_-84.090087@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609404,
+    "wof:geomhash":"3ecdfdcb19b54029b27cec492100dee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":823253045
+        }
+    ],
+    "wof:id":823253045,
+    "wof:lastmodified":1462609404,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -84.090087,
+    35.915008,
+    -84.090087,
+    35.915008
+],
+  "geometry": {"coordinates":[-84.090087,35.915008],"type":"Point"}
+}

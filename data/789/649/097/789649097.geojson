@@ -1,0 +1,71 @@
+{
+  "id": 789649097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.376839,36.074196,-87.376839,36.074196",
+    "geom:latitude":36.074196,
+    "geom:longitude":-87.376839,
+    "iso:country":"US",
+    "sg:address":"91 Mathis Dr",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 446 4880",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PGP1INEd0PPNDMwBtQkaP_36.074196_-87.376839@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589448,
+    "wof:geomhash":"ee1cb5fe9a87a0ae1684269a70be6b59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":789649097
+        }
+    ],
+    "wof:id":789649097,
+    "wof:lastmodified":1462589448,
+    "wof:name":"Independent Courier",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier"
+    ]
+},
+  "bbox": [
+    -87.376839,
+    36.074196,
+    -87.376839,
+    36.074196
+],
+  "geometry": {"coordinates":[-87.376839,36.074196],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806682225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.302907,36.335613,-89.302907,36.335613",
+    "geom:latitude":36.335613,
+    "geom:longitude":-89.302907,
+    "iso:country":"US",
+    "sg:address":"253 W Main St",
+    "sg:city":"Hornbeak",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 538 9902",
+    "sg:postcode":"38232",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5heHTGvSfJUVyZo58NYJ2L_36.335613_-89.302907@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600188,
+    "wof:geomhash":"db4705e99140642d222ac698c4d71c70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":806682225
+        }
+    ],
+    "wof:id":806682225,
+    "wof:lastmodified":1462600188,
+    "wof:name":"Accurate Auto Repair",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.302907,
+    36.335613,
+    -89.302907,
+    36.335613
+],
+  "geometry": {"coordinates":[-89.302907,36.335613],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773580567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.011153,35.153881,-90.011153,35.153881",
+    "geom:latitude":35.153881,
+    "geom:longitude":-90.011153,
+    "iso:country":"US",
+    "sg:address":"1428 Somerset Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 722 2743",
+    "sg:postcode":"38104",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85851159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A14aoocmBvrCgpiKqSsNb_35.153881_-90.011153@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586808,
+    "wof:geomhash":"715c4acb5732586ab8352de1537165ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85851159,
+            "region_id":85688701,
+            "venue_id":773580567
+        }
+    ],
+    "wof:id":773580567,
+    "wof:lastmodified":1462586808,
+    "wof:name":"Pet Cab",
+    "wof:parent_id":85851159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -90.011153,
+    35.153881,
+    -90.011153,
+    35.153881
+],
+  "geometry": {"coordinates":[-90.01115299999999,35.153881],"type":"Point"}
+}

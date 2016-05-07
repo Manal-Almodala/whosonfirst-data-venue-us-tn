@@ -1,0 +1,75 @@
+{
+  "id": 789984935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.924329,35.034615,-89.924329,35.034615",
+    "geom:latitude":35.034615,
+    "geom:longitude":-89.924329,
+    "iso:country":"US",
+    "sg:address":"4201 Delp St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 542 0720",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "warehouse",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QwkhIWnapjDhIbLMCfJIo_35.034615_-89.924329@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592208,
+    "wof:geomhash":"920301636a36a99a450ebada67e2c2ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":789984935
+        }
+    ],
+    "wof:id":789984935,
+    "wof:lastmodified":1462592208,
+    "wof:name":"Memphis Distribution Svc",
+    "wof:parent_id":85870785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -89.924329,
+    35.034615,
+    -89.924329,
+    35.034615
+],
+  "geometry": {"coordinates":[-89.924329,35.034615],"type":"Point"}
+}

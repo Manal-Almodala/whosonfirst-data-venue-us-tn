@@ -1,0 +1,78 @@
+{
+  "id": 806443383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.542339,35.777557,-83.542339,35.777557",
+    "geom:latitude":35.777557,
+    "geom:longitude":-83.542339,
+    "iso:country":"US",
+    "sg:address":"4001 S River Rd",
+    "sg:city":"Pigeon Forge",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 908 6708",
+    "sg:postcode":"37863",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722583,
+        102086245,
+        85812089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_531iz1Tzik60RxYxRdkEMt_35.777557_-83.542339@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598192,
+    "wof:geomhash":"f58213daafbeb031a2bbbd766866cf92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722583,
+            "neighbourhood_id":85812089,
+            "region_id":85688701,
+            "venue_id":806443383
+        }
+    ],
+    "wof:id":806443383,
+    "wof:lastmodified":1462598192,
+    "wof:name":"T M Properties",
+    "wof:parent_id":85812089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -83.542339,
+    35.777557,
+    -83.542339,
+    35.777557
+],
+  "geometry": {"coordinates":[-83.542339,35.777557],"type":"Point"}
+}

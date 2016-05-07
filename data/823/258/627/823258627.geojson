@@ -1,0 +1,86 @@
+{
+  "id": 823258627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.751894,36.124497,-86.751894,36.124497",
+    "geom:latitude":36.124497,
+    "geom:longitude":-86.751894,
+    "iso:country":"US",
+    "sg:address":"2212 Nolensville Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/203499-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 259 3912",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85893481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37vMm6BuruLZdnewHDY5Uc_36.124994_-86.752198@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609520,
+    "wof:geomhash":"1c8670a2fa118d53769b0d7a3179d2fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":823258627
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893481,
+            "region_id":85688701,
+            "venue_id":823258627
+        }
+    ],
+    "wof:id":823258627,
+    "wof:lastmodified":1462609520,
+    "wof:name":"McDonald's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.751894,
+    36.124497,
+    -86.751894,
+    36.124497
+],
+  "geometry": {"coordinates":[-86.75189399999999,36.124497],"type":"Point"}
+}

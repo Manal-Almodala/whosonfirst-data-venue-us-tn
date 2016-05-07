@@ -1,0 +1,71 @@
+{
+  "id": 789875683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.240609,36.201066,-83.240609,36.201066",
+    "geom:latitude":36.201066,
+    "geom:longitude":-83.240609,
+    "iso:country":"US",
+    "sg:address":"2030 Eagle Trl",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 7707",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oFvrkS5wx0EAk0ZlHzVoL_36.201066_-83.240609@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591233,
+    "wof:geomhash":"d7be8fc9ead4efbc758c59957f2b60c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789875683
+        }
+    ],
+    "wof:id":789875683,
+    "wof:lastmodified":1462591233,
+    "wof:name":"Boyd Trucking",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.240609,
+    36.201066,
+    -83.240609,
+    36.201066
+],
+  "geometry": {"coordinates":[-83.24060900000001,36.201066],"type":"Point"}
+}

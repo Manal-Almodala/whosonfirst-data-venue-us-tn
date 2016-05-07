@@ -1,0 +1,71 @@
+{
+  "id": 773800593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.472169,35.824006,-86.472169,35.824006",
+    "geom:latitude":35.824006,
+    "geom:longitude":-86.472169,
+    "iso:country":"US",
+    "sg:address":"4115 Faithway Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 907 8765",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Lum0mMBYrJGTCDNVRO3xB_35.824006_-86.472169@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588470,
+    "wof:geomhash":"536961c9e1a9425eb1d0898d9ff9e699",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":773800593
+        }
+    ],
+    "wof:id":773800593,
+    "wof:lastmodified":1462588470,
+    "wof:name":"Lambert Autoworks",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.472169,
+    35.824006,
+    -86.472169,
+    35.824006
+],
+  "geometry": {"coordinates":[-86.47216899999999,35.824006],"type":"Point"}
+}

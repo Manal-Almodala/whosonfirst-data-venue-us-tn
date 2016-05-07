@@ -1,0 +1,75 @@
+{
+  "id": 789913985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.411888,36.636346,-87.411888,36.636346",
+    "geom:latitude":36.636346,
+    "geom:longitude":-87.411888,
+    "iso:country":"US",
+    "sg:address":"3389 Mallard Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 431 5977",
+    "sg:postcode":"37042",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85851205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QpOz7As6bGNd4b0ebBT3v_36.636346_-87.411888@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591573,
+    "wof:geomhash":"f173a907018c0104f557f37d61248e75",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85851205,
+            "region_id":85688701,
+            "venue_id":789913985
+        }
+    ],
+    "wof:id":789913985,
+    "wof:lastmodified":1462591573,
+    "wof:name":"Dave's Lock & Key",
+    "wof:parent_id":85851205,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -87.411888,
+    36.636346,
+    -87.411888,
+    36.636346
+],
+  "geometry": {"coordinates":[-87.411888,36.636346],"type":"Point"}
+}

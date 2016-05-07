@@ -1,0 +1,71 @@
+{
+  "id": 789690119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.211248,35.971623,-83.211248,35.971623",
+    "geom:latitude":35.971623,
+    "geom:longitude":-83.211248,
+    "iso:country":"US",
+    "sg:address":"587 W Broadway St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 613 8888",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BOb6OyHvxoakfqy2QLIqQ_35.971623_-83.211248@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589778,
+    "wof:geomhash":"81fa3786f1d87790bd78feb2e8cba401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":789690119
+        }
+    ],
+    "wof:id":789690119,
+    "wof:lastmodified":1462589778,
+    "wof:name":"Leong Restaurant",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.211248,
+    35.971623,
+    -83.211248,
+    35.971623
+],
+  "geometry": {"coordinates":[-83.211248,35.971623],"type":"Point"}
+}

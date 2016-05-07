@@ -1,0 +1,73 @@
+{
+  "id": 773700745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.057433,36.442041,-89.057433,36.442041",
+    "geom:latitude":36.442041,
+    "geom:longitude":-89.057433,
+    "iso:country":"US",
+    "sg:address":"1419 N 5th St",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 0092",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "terminal",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UgHnn1dzdmIsmQd1EvrfM_36.442041_-89.057433@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587731,
+    "wof:geomhash":"78b891ec0c9c667faef4a0050e0caaf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":773700745
+        }
+    ],
+    "wof:id":773700745,
+    "wof:lastmodified":1462587731,
+    "wof:name":"Taylor Express",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.057433,
+    36.442041,
+    -89.057433,
+    36.442041
+],
+  "geometry": {"coordinates":[-89.057433,36.442041],"type":"Point"}
+}

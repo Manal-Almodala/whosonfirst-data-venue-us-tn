@@ -1,0 +1,73 @@
+{
+  "id": 789895677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.100266,35.610692,-87.100266,35.610692",
+    "geom:latitude":35.610692,
+    "geom:longitude":-87.100266,
+    "iso:country":"US",
+    "sg:address":"1628 Lindsey Dr",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 540 8076",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85819243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QnbQz1YgPneeiOj3ujHcM_35.610692_-87.100266@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591410,
+    "wof:geomhash":"6f8092ef315fb1e3022c3c37edae03c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85819243,
+            "region_id":85688701,
+            "venue_id":789895677
+        }
+    ],
+    "wof:id":789895677,
+    "wof:lastmodified":1462591410,
+    "wof:name":"Locke Concrete Co",
+    "wof:parent_id":85819243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.100266,
+    35.610692,
+    -87.100266,
+    35.610692
+],
+  "geometry": {"coordinates":[-87.100266,35.610692],"type":"Point"}
+}

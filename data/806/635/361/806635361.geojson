@@ -1,0 +1,71 @@
+{
+  "id": 806635361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.816268,36.046313,-83.816268,36.046313",
+    "geom:latitude":36.046313,
+    "geom:longitude":-83.816268,
+    "iso:country":"US",
+    "sg:address":"7240 Rutledge Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 525 3213",
+    "sg:postcode":"37924",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nD4EztU7kJAWe8fW6kzqP_36.046313_-83.816268@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599778,
+    "wof:geomhash":"57c9985b01457b52b8804bbd02df4f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":806635361
+        }
+    ],
+    "wof:id":806635361,
+    "wof:lastmodified":1462599778,
+    "wof:name":"Knoxville Diesel",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.816268,
+    36.046313,
+    -83.816268,
+    36.046313
+],
+  "geometry": {"coordinates":[-83.81626799999999,36.046313],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789645391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.35842,36.526482,-87.35842,36.526482",
+    "geom:latitude":36.526482,
+    "geom:longitude":-87.35842,
+    "iso:country":"US",
+    "sg:address":"112 S 2nd St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 648 5538",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "state",
+        "counsel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S6srq3rJMfM4SQc9WPTHW_36.526482_-87.358420@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589412,
+    "wof:geomhash":"8cceb4e46200360adc85c2c649d4d550",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":789645391
+        }
+    ],
+    "wof:id":789645391,
+    "wof:lastmodified":1462589412,
+    "wof:name":"Public Defender",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel"
+    ]
+},
+  "bbox": [
+    -87.35842,
+    36.526482,
+    -87.35842,
+    36.526482
+],
+  "geometry": {"coordinates":[-87.35842,36.526482],"type":"Point"}
+}

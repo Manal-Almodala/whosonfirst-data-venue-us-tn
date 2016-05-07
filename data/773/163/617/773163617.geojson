@@ -1,0 +1,77 @@
+{
+  "id": 773163617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.111426,35.911151,-84.111426,35.911151",
+    "geom:latitude":35.911151,
+    "geom:longitude":-84.111426,
+    "iso:country":"US",
+    "sg:address":"9745 Parkside Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 531 8221",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "military",
+        "entrance",
+        "processing",
+        "personnel",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ox86bp0g6g1ovE9Yx0vQu_35.911151_-84.111426@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583620,
+    "wof:geomhash":"e9578578966666ee6dbf12849d1acae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":773163617
+        }
+    ],
+    "wof:id":773163617,
+    "wof:lastmodified":1462583620,
+    "wof:name":"Military Entrance Proc Stn",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military",
+        "entrance",
+        "processing",
+        "personnel",
+        "station"
+    ]
+},
+  "bbox": [
+    -84.111426,
+    35.911151,
+    -84.111426,
+    35.911151
+],
+  "geometry": {"coordinates":[-84.11142599999999,35.911151],"type":"Point"}
+}

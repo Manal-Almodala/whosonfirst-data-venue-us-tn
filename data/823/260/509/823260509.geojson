@@ -1,0 +1,88 @@
+{
+  "id": 823260509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.830225,35.047215,-89.830225,35.047215",
+    "geom:latitude":35.047215,
+    "geom:longitude":-89.830225,
+    "iso:country":"US",
+    "sg:address":"3710 Riverdale Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/29924-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 737 3902",
+    "sg:postcode":"38115",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich",
+        "diner",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722649,
+        102087213,
+        85870787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RlgITaHirUx9eEYXXzvBw_35.047368_-89.830118@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609561,
+    "wof:geomhash":"d63417d86e36dda449f458edab0230ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722649,
+            "neighbourhood_id":85870787,
+            "region_id":85688701,
+            "venue_id":823260509
+        }
+    ],
+    "wof:id":823260509,
+    "wof:lastmodified":1462609561,
+    "wof:name":"IHOP",
+    "wof:parent_id":85870787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "diner",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -89.830225,
+    35.047215,
+    -89.830225,
+    35.047215
+],
+  "geometry": {"coordinates":[-89.830225,35.047215],"type":"Point"}
+}

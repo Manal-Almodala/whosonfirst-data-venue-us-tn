@@ -1,0 +1,71 @@
+{
+  "id": 773733333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.925797,36.085741,-83.925797,36.085741",
+    "geom:latitude":36.085741,
+    "geom:longitude":-83.925797,
+    "iso:country":"US",
+    "sg:address":"7301 Maynardville Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 922 7111",
+    "sg:postcode":"37938",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AUhNerjIgGC0vXv5YgjwY_36.085741_-83.925797@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587975,
+    "wof:geomhash":"dfb1064cc14500eb607fbe912b638fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":773733333
+        }
+    ],
+    "wof:id":773733333,
+    "wof:lastmodified":1462587975,
+    "wof:name":"B & M Automotive",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.925797,
+    36.085741,
+    -83.925797,
+    36.085741
+],
+  "geometry": {"coordinates":[-83.925797,36.085741],"type":"Point"}
+}

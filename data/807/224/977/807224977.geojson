@@ -1,0 +1,78 @@
+{
+  "id": 807224977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.986379,35.358349,-85.986379,35.358349",
+    "geom:latitude":35.358349,
+    "geom:longitude":-85.986379,
+    "iso:country":"US",
+    "sg:address":"2957 Miller Crossroads Rd",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 596 1000",
+    "sg:postcode":"37342",
+    "sg:province":"TN",
+    "sg:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JbZmE9WMuiTkvYjG8HrzB_35.358349_-85.986379@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605062,
+    "wof:geomhash":"991c0c33717b76e8c00810d1b28c0274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":807224977
+        }
+    ],
+    "wof:id":807224977,
+    "wof:lastmodified":1462605062,
+    "wof:name":"Finney Machine Co",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automotive",
+        "shop"
+    ]
+},
+  "bbox": [
+    -85.986379,
+    35.358349,
+    -85.986379,
+    35.358349
+],
+  "geometry": {"coordinates":[-85.986379,35.358349],"type":"Point"}
+}

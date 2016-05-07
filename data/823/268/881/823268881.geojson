@@ -1,0 +1,77 @@
+{
+  "id": 823268881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.97066,35.411814,-85.97066,35.411814",
+    "geom:latitude":35.411814,
+    "geom:longitude":-85.97066,
+    "iso:country":"US",
+    "sg:address":"7746 Hillsboro Hwy",
+    "sg:city":"Hillsboro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"37342",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fkFIjAH6aYvVaNCIcvtjT_35.411814_-85.970660@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609870,
+    "wof:geomhash":"3f19df975c21f36ffa13713f217a92bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":823268881
+        }
+    ],
+    "wof:id":823268881,
+    "wof:lastmodified":1462609870,
+    "wof:name":"USPS - United States Post Office - Hillsboro Post Office",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -85.97066,
+    35.411814,
+    -85.97066,
+    35.411814
+],
+  "geometry": {"coordinates":[-85.97066,35.411814],"type":"Point"}
+}

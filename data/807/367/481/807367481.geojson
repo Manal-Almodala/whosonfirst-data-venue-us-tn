@@ -1,0 +1,71 @@
+{
+  "id": 807367481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.417558,35.730316,-86.417558,35.730316",
+    "geom:latitude":35.730316,
+    "geom:longitude":-86.417558,
+    "iso:country":"US",
+    "sg:address":"278 Stones River Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 3939",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3trI9PEDpcvIqpLicFB5sF_35.730316_-86.417558@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606758,
+    "wof:geomhash":"3e38b0e47232eb6a227b383698e33b91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":807367481
+        }
+    ],
+    "wof:id":807367481,
+    "wof:lastmodified":1462606758,
+    "wof:name":"AAA Transmission Technology",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.417558,
+    35.730316,
+    -86.417558,
+    35.730316
+],
+  "geometry": {"coordinates":[-86.417558,35.730316],"type":"Point"}
+}

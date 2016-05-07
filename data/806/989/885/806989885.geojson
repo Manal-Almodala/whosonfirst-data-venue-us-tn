@@ -1,0 +1,71 @@
+{
+  "id": 806989885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.93934,35.993286,-84.93934,35.993286",
+    "geom:latitude":35.993286,
+    "geom:longitude":-84.93934,
+    "iso:country":"US",
+    "sg:address":"3825 Peavine Rd",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 1593",
+    "sg:postcode":"38571",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WU9bVfhlOmJ78Qrr29sfY_35.993286_-84.939340@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602773,
+    "wof:geomhash":"bb40972df053dd57622f6f2c68b76eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":806989885
+        }
+    ],
+    "wof:id":806989885,
+    "wof:lastmodified":1462602773,
+    "wof:name":"Companion Animal Clinic",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -84.93934,
+    35.993286,
+    -84.93934,
+    35.993286
+],
+  "geometry": {"coordinates":[-84.93934,35.993286],"type":"Point"}
+}

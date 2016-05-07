@@ -1,0 +1,71 @@
+{
+  "id": 806373527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.707483,34.998293,-85.707483,34.998293",
+    "geom:latitude":34.998293,
+    "geom:longitude":-85.707483,
+    "iso:country":"US",
+    "sg:address":"625 E 12th St",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 648 4460",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722495,
+        102086347,
+        85823635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dLIEslG9qiyWlYDVbtqid_34.998293_-85.707483@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597626,
+    "wof:geomhash":"555bb2f677c01b56e5224ff66b52b684",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":85823635,
+            "region_id":85688701,
+            "venue_id":806373527
+        }
+    ],
+    "wof:id":806373527,
+    "wof:lastmodified":1462597626,
+    "wof:name":"Physicians Care",
+    "wof:parent_id":85823635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.707483,
+    34.998293,
+    -85.707483,
+    34.998293
+],
+  "geometry": {"coordinates":[-85.707483,34.998293],"type":"Point"}
+}

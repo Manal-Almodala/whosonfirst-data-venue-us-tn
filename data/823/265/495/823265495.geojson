@@ -1,0 +1,88 @@
+{
+  "id": 823265495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.74296,36.11332,-86.74296,36.11332",
+    "geom:latitude":36.11332,
+    "geom:longitude":-86.74296,
+    "iso:country":"US",
+    "sg:address":"2803B Foster Ave Ste 200",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 831 2358",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "home",
+        "eldercare-home",
+        "citizen"
+    ],
+    "sg:website":"http://homeinsteadsouthnashville.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85843601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pQjfB0t2I2M36esOBp27D_36.113320_-86.742960@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609731,
+    "wof:geomhash":"492eeac87da889ecf1cccdbca13114d9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85843601,
+            "region_id":85688701,
+            "venue_id":823265495
+        }
+    ],
+    "wof:id":823265495,
+    "wof:lastmodified":1462609731,
+    "wof:name":"Home Instead Senior Care",
+    "wof:parent_id":85843601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "eldercare-home",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -86.74296,
+    36.11332,
+    -86.74296,
+    36.11332
+],
+  "geometry": {"coordinates":[-86.74296,36.11332],"type":"Point"}
+}

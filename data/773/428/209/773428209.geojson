@@ -1,0 +1,71 @@
+{
+  "id": 773428209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.447488,36.389184,-86.447488,36.389184",
+    "geom:latitude":36.389184,
+    "geom:longitude":-86.447488,
+    "iso:country":"US",
+    "sg:address":"130 W Franklin St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 1313",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wbGZieYQ5tqw9BtgfvlSn_36.389184_-86.447488@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585648,
+    "wof:geomhash":"88ee5239b465acbe8e54325313f96655",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773428209
+        }
+    ],
+    "wof:id":773428209,
+    "wof:lastmodified":1462585648,
+    "wof:name":"Gallatin Police Dept",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.447488,
+    36.389184,
+    -86.447488,
+    36.389184
+],
+  "geometry": {"coordinates":[-86.44748800000001,36.389184],"type":"Point"}
+}

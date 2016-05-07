@@ -1,0 +1,73 @@
+{
+  "id": 806381393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.032554,35.453637,-85.032554,35.453637",
+    "geom:latitude":35.453637,
+    "geom:longitude":-85.032554,
+    "iso:country":"US",
+    "sg:address":"147 Old Black Oak Ridge Rd",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 570 2395",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65f6x0RXcyIqyp0GlyGsg9_35.453637_-85.032554@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597682,
+    "wof:geomhash":"5850ca026b987ed8c430450ec0142e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":806381393
+        }
+    ],
+    "wof:id":806381393,
+    "wof:lastmodified":1462597682,
+    "wof:name":"Eagle Electric",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.032554,
+    35.453637,
+    -85.032554,
+    35.453637
+],
+  "geometry": {"coordinates":[-85.032554,35.453637],"type":"Point"}
+}

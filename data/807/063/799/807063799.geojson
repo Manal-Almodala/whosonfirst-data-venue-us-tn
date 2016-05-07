@@ -1,0 +1,75 @@
+{
+  "id": 807063799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.18937,36.571852,-82.18937,36.571852",
+    "geom:latitude":36.571852,
+    "geom:longitude":-82.18937,
+    "iso:country":"US",
+    "sg:address":"211 Bluff City Hwy",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 989 5704",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        85807313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ioZMBONayAuQBSYR32Ym4_36.571852_-82.189370@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603399,
+    "wof:geomhash":"080f6cdecb677eb8d110f6e9ab17b55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":85807313,
+            "region_id":85688701,
+            "venue_id":807063799
+        }
+    ],
+    "wof:id":807063799,
+    "wof:lastmodified":1462603399,
+    "wof:name":"Bristol Fire Department",
+    "wof:parent_id":85807313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -82.18937,
+    36.571852,
+    -82.18937,
+    36.571852
+],
+  "geometry": {"coordinates":[-82.18937,36.571852],"type":"Point"}
+}

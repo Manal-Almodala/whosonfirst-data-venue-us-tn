@@ -1,0 +1,71 @@
+{
+  "id": 807148085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.248915,35.225168,-88.248915,35.225168",
+    "geom:latitude":35.225168,
+    "geom:longitude":-88.248915,
+    "iso:country":"US",
+    "sg:address":"150 N Guinn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 926 3965",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08DYusXwwPoAYoe5GKRAOQ_35.225168_-88.248915@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604256,
+    "wof:geomhash":"1ad378f5981365847c1d3bbfe4f14d19",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":807148085
+        }
+    ],
+    "wof:id":807148085,
+    "wof:lastmodified":1462604256,
+    "wof:name":"Hardin County Regional Health",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -88.248915,
+    35.225168,
+    -88.248915,
+    35.225168
+],
+  "geometry": {"coordinates":[-88.248915,35.225168],"type":"Point"}
+}

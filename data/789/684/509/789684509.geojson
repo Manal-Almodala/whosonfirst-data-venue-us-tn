@@ -1,0 +1,72 @@
+{
+  "id": 789684509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.929447,36.082299,-83.929447,36.082299",
+    "geom:latitude":36.082299,
+    "geom:longitude":-83.929447,
+    "iso:country":"US",
+    "sg:address":"7220 Norris Fwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 922 1672",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "sg:website":"www.ingles-markets.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dR3Uq42G2rsDlQvKdba5g_36.082299_-83.929447@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589735,
+    "wof:geomhash":"7e842811af63f5b2272bee606ef7e4cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":789684509
+        }
+    ],
+    "wof:id":789684509,
+    "wof:lastmodified":1462589735,
+    "wof:name":"Ingles Market",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -83.929447,
+    36.082299,
+    -83.929447,
+    36.082299
+],
+  "geometry": {"coordinates":[-83.929447,36.082299],"type":"Point"}
+}

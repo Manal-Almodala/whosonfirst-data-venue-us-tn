@@ -1,0 +1,71 @@
+{
+  "id": 806366021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.197536,35.955183,-83.197536,35.955183",
+    "geom:latitude":35.955183,
+    "geom:longitude":-83.197536,
+    "iso:country":"US",
+    "sg:address":"664 Cosby Hwy",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 3130",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NETN0ABeu8wKR5rVKgqKu_35.955183_-83.197536@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597549,
+    "wof:geomhash":"80c438649c8ea09f91209e40f2033ea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":806366021
+        }
+    ],
+    "wof:id":806366021,
+    "wof:lastmodified":1462597549,
+    "wof:name":"Quick Car Wash",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -83.197536,
+    35.955183,
+    -83.197536,
+    35.955183
+],
+  "geometry": {"coordinates":[-83.197536,35.955183],"type":"Point"}
+}

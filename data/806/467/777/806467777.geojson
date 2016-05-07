@@ -1,0 +1,71 @@
+{
+  "id": 806467777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.535927,36.176196,-85.535927,36.176196",
+    "geom:latitude":36.176196,
+    "geom:longitude":-85.535927,
+    "iso:country":"US",
+    "sg:address":"1325 Crescent Dr",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 528 5885",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mSP8v9KxkPdZeC2cuvtMA_36.176196_-85.535927@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598374,
+    "wof:geomhash":"35f5c47569be8142bee7078d8f8dd09e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":806467777
+        }
+    ],
+    "wof:id":806467777,
+    "wof:lastmodified":1462598374,
+    "wof:name":"Animal Medical Clinic PC",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -85.535927,
+    36.176196,
+    -85.535927,
+    36.176196
+],
+  "geometry": {"coordinates":[-85.535927,36.176196],"type":"Point"}
+}

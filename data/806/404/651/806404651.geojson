@@ -1,0 +1,71 @@
+{
+  "id": 806404651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.04944,35.434019,-85.04944,35.434019",
+    "geom:latitude":35.434019,
+    "geom:longitude":-85.04944,
+    "iso:country":"US",
+    "sg:address":"1645 Pierce Hill Rd",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 1392",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AFC32x8dSTCdK0n6A2iix_35.434019_-85.049440@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597872,
+    "wof:geomhash":"d58035185a7fd88559b9a13d4666968a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":806404651
+        }
+    ],
+    "wof:id":806404651,
+    "wof:lastmodified":1462597872,
+    "wof:name":"Rice Trucking",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.04944,
+    35.434019,
+    -85.04944,
+    35.434019
+],
+  "geometry": {"coordinates":[-85.04944,35.434019],"type":"Point"}
+}

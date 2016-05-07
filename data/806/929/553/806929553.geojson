@@ -1,0 +1,71 @@
+{
+  "id": 806929553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.253821,36.589329,-82.253821,36.589329",
+    "geom:latitude":36.589329,
+    "geom:longitude":-82.253821,
+    "iso:country":"US",
+    "sg:address":"1 Medical Park Blvd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 989 0024",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85825325,
+        102086471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IcIFm2zrZ1aLELOTKS7DR_36.589329_-82.253821@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602272,
+    "wof:geomhash":"1d9fa3da021dcc9087dfda2abcc620ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "neighbourhood_id":85825325,
+            "region_id":85688701,
+            "venue_id":806929553
+        }
+    ],
+    "wof:id":806929553,
+    "wof:lastmodified":1462602272,
+    "wof:name":"Jeffrey P Ginther MD",
+    "wof:parent_id":85825325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.253821,
+    36.589329,
+    -82.253821,
+    36.589329
+],
+  "geometry": {"coordinates":[-82.253821,36.589329],"type":"Point"}
+}

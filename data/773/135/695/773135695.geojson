@@ -1,0 +1,73 @@
+{
+  "id": 773135695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.809249,36.16961,-82.809249,36.16961",
+    "geom:latitude":36.16961,
+    "geom:longitude":-82.809249,
+    "iso:country":"US",
+    "sg:address":"151 Mason St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 638 2994",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "correctional",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EA1AXcnfuhiKA2YRyUsl2_36.169610_-82.809249@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583406,
+    "wof:geomhash":"6185fea4ab00c0db23dc4aec4f7ce624",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":773135695
+        }
+    ],
+    "wof:id":773135695,
+    "wof:lastmodified":1462583406,
+    "wof:name":"Correction Tennessee Dept",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correctional",
+        "institution"
+    ]
+},
+  "bbox": [
+    -82.809249,
+    36.16961,
+    -82.809249,
+    36.16961
+],
+  "geometry": {"coordinates":[-82.80924899999999,36.16961],"type":"Point"}
+}

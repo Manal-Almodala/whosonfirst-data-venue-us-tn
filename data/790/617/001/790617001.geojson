@@ -1,0 +1,73 @@
+{
+  "id": 790617001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.506866,36.063158,-85.506866,36.063158",
+    "geom:latitude":36.063158,
+    "geom:longitude":-85.506866,
+    "iso:country":"US",
+    "sg:address":"6950 Roberts Matthews Hwy",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 738 9426",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73nlmSvasN1iX7Rf31yPXW_36.063158_-85.506866@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597382,
+    "wof:geomhash":"44fcd25ab4f7c9d036fa67a3c459a3d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":790617001
+        }
+    ],
+    "wof:id":790617001,
+    "wof:lastmodified":1462597382,
+    "wof:name":"Chevron",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.506866,
+    36.063158,
+    -85.506866,
+    36.063158
+],
+  "geometry": {"coordinates":[-85.506866,36.063158],"type":"Point"}
+}

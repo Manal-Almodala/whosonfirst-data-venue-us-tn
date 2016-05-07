@@ -1,0 +1,71 @@
+{
+  "id": 823162539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.2492,35.224395,-88.2492,35.224395",
+    "geom:latitude":35.224395,
+    "geom:longitude":-88.2492,
+    "iso:country":"US",
+    "sg:address":"117 S Guinn St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 0055",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AgpaQ03z0yt0Ebfjhq1Jy_35.224395_-88.249200@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607836,
+    "wof:geomhash":"17f0611732cca37576ff0eaf86e2e73a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":823162539
+        }
+    ],
+    "wof:id":823162539,
+    "wof:lastmodified":1462607836,
+    "wof:name":"Bob Thomas DDS",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.2492,
+    35.224395,
+    -88.2492,
+    35.224395
+],
+  "geometry": {"coordinates":[-88.2492,35.224395],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 807232773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.653077,35.5591,-89.653077,35.5591",
+    "geom:latitude":35.5591,
+    "geom:longitude":-89.653077,
+    "iso:country":"US",
+    "sg:address":"650 US Hwy 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 7911",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xfuG8feU0M05BivSbbV1H_35.559100_-89.653077@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605145,
+    "wof:geomhash":"3b045347621a70884a7d92d185ee2d4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":807232773
+        }
+    ],
+    "wof:id":807232773,
+    "wof:lastmodified":1462605145,
+    "wof:name":"DNS Cycles",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -89.653077,
+    35.5591,
+    -89.653077,
+    35.5591
+],
+  "geometry": {"coordinates":[-89.653077,35.5591],"type":"Point"}
+}

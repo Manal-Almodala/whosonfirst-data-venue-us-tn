@@ -1,0 +1,87 @@
+{
+  "id": 773343725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.309843,35.018465,-85.309843,35.018465",
+    "geom:latitude":35.018465,
+    "geom:longitude":-85.309843,
+    "iso:country":"US",
+    "sg:address":"2900 Home Dr",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 267 0097",
+    "sg:postcode":"37410",
+    "sg:province":"TN",
+    "sg:tags":[
+        "recycling",
+        "waste",
+        "paper",
+        "center",
+        "recycles"
+    ],
+    "sg:website":"www.rockteen.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22AeX2IrsQmdyrBDeiNLFq_35.018465_-85.309843@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585005,
+    "wof:geomhash":"2d87f076cf9c9c4054c1c182f9bc9e9a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876745,
+            "region_id":85688701,
+            "venue_id":773343725
+        }
+    ],
+    "wof:id":773343725,
+    "wof:lastmodified":1462585005,
+    "wof:name":"Chattanooga Recycled Fiber",
+    "wof:parent_id":85876745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "waste",
+        "paper",
+        "center",
+        "recycles"
+    ]
+},
+  "bbox": [
+    -85.309843,
+    35.018465,
+    -85.309843,
+    35.018465
+],
+  "geometry": {"coordinates":[-85.309843,35.018465],"type":"Point"}
+}

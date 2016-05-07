@@ -1,0 +1,77 @@
+{
+  "id": 806425475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.342447,35.242515,-89.342447,35.242515",
+    "geom:latitude":35.242515,
+    "geom:longitude":-89.342447,
+    "iso:country":"US",
+    "sg:address":"16885 US Hwy 64",
+    "sg:city":"Somerville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 465 5247",
+    "sg:postcode":"38068",
+    "sg:province":"TN",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722831,
+        102086439,
+        420541553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0shhm6iy9U1KfST5F66Oci_35.242515_-89.342447@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598045,
+    "wof:geomhash":"3e5acf3ae6ca872177d060e5a461d53b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086439,
+            "locality_id":101722831,
+            "neighbourhood_id":420541553,
+            "region_id":85688701,
+            "venue_id":806425475
+        }
+    ],
+    "wof:id":806425475,
+    "wof:lastmodified":1462598045,
+    "wof:name":"Fayette County Jail",
+    "wof:parent_id":420541553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -89.342447,
+    35.242515,
+    -89.342447,
+    35.242515
+],
+  "geometry": {"coordinates":[-89.34244700000001,35.242515],"type":"Point"}
+}

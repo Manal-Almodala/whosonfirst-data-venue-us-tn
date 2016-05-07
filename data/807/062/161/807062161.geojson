@@ -1,0 +1,71 @@
+{
+  "id": 807062161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446916,36.393596,-86.446916,36.393596",
+    "geom:latitude":36.393596,
+    "geom:longitude":-86.446916,
+    "iso:country":"US",
+    "sg:address":"364 N Water Ave",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 0008",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18BjgCcglzID9vFACpp5xx_36.393596_-86.446916@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603387,
+    "wof:geomhash":"96711f12c3f485440a3a02f95c5d925f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":807062161
+        }
+    ],
+    "wof:id":807062161,
+    "wof:lastmodified":1462603387,
+    "wof:name":"Medlock Diesel",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -86.446916,
+    36.393596,
+    -86.446916,
+    36.393596
+],
+  "geometry": {"coordinates":[-86.446916,36.393596],"type":"Point"}
+}

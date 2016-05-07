@@ -1,0 +1,74 @@
+{
+  "id": 823251549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.573899,35.827585,-83.573899,35.827585",
+    "geom:latitude":35.827585,
+    "geom:longitude":-83.573899,
+    "iso:country":"US",
+    "sg:address":"1831 Parkway",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/sevierville/203607-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 908 6222",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1S3G0ae84wntv0W8Bjn4U7_35.827585_-83.573899@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609363,
+    "wof:geomhash":"e754ca8b8134f52fe71ed8c02ac77260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":823251549
+        }
+    ],
+    "wof:id":823251549,
+    "wof:lastmodified":1462609363,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.573899,
+    35.827585,
+    -83.573899,
+    35.827585
+],
+  "geometry": {"coordinates":[-83.573899,35.827585],"type":"Point"}
+}

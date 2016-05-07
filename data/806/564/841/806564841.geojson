@@ -1,0 +1,71 @@
+{
+  "id": 806564841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.644682,35.567325,-89.644682,35.567325",
+    "geom:latitude":35.567325,
+    "geom:longitude":-89.644682,
+    "iso:country":"US",
+    "sg:address":"437 N Maple St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 4439",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z5VFgMkRZn0BsVF1zUkah_35.567325_-89.644682@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599165,
+    "wof:geomhash":"e143f6330f407f641dd79e34a79bf604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806564841
+        }
+    ],
+    "wof:id":806564841,
+    "wof:lastmodified":1462599165,
+    "wof:name":"Personal Defense Repair",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.644682,
+    35.567325,
+    -89.644682,
+    35.567325
+],
+  "geometry": {"coordinates":[-89.644682,35.567325],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823250659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.158727,36.230938,-84.158727,36.230938",
+    "geom:latitude":36.230938,
+    "geom:longitude":-84.158727,
+    "iso:country":"US",
+    "sg:address":"623a N Main St",
+    "sg:city":"Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/lake-city-east/85688-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 426 8811",
+    "sg:postcode":"37769",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722561,
+        102086483,
+        85825681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GhDdyQvpd624mTWuBa26j_36.230938_-84.158727@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609348,
+    "wof:geomhash":"1e62126594778c6c557e99e032b5b188",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722561,
+            "neighbourhood_id":85825681,
+            "region_id":85688701,
+            "venue_id":823250659
+        }
+    ],
+    "wof:id":823250659,
+    "wof:lastmodified":1462609348,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85825681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.158727,
+    36.230938,
+    -84.158727,
+    36.230938
+],
+  "geometry": {"coordinates":[-84.158727,36.230938],"type":"Point"}
+}

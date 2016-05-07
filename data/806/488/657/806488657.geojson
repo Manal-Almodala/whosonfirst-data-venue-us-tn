@@ -1,0 +1,71 @@
+{
+  "id": 806488657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.887989,35.193819,-89.887989,35.193819",
+    "geom:latitude":35.193819,
+    "geom:longitude":-89.887989,
+    "iso:country":"US",
+    "sg:address":"2523 Richwood St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 266 4024",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ybVcn2qa6XFkegxvbf9ci_35.193819_-89.887989@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598533,
+    "wof:geomhash":"85afea86fca23e09ad6a891dfb629f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":806488657
+        }
+    ],
+    "wof:id":806488657,
+    "wof:lastmodified":1462598533,
+    "wof:name":"Techmen Transportation Repair",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.887989,
+    35.193819,
+    -89.887989,
+    35.193819
+],
+  "geometry": {"coordinates":[-89.887989,35.193819],"type":"Point"}
+}

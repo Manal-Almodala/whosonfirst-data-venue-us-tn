@@ -1,0 +1,73 @@
+{
+  "id": 773215701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.83829,35.874641,-86.83829,35.874641",
+    "geom:latitude":35.874641,
+    "geom:longitude":-86.83829,
+    "iso:country":"US",
+    "sg:address":"303 Ellington Dr",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 790 3650",
+    "sg:postcode":"37064",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85830149,
+        102086337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0apikqqFSvdYnk6hQjdTI9_35.874641_-86.838290@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584044,
+    "wof:geomhash":"6504eb884ef8bb95ff0fde581e1538eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "neighbourhood_id":85830149,
+            "region_id":85688701,
+            "venue_id":773215701
+        }
+    ],
+    "wof:id":773215701,
+    "wof:lastmodified":1462584044,
+    "wof:name":"Williamson County Disposal Svc",
+    "wof:parent_id":85830149,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -86.83829,
+    35.874641,
+    -86.83829,
+    35.874641
+],
+  "geometry": {"coordinates":[-86.83829,35.874641],"type":"Point"}
+}

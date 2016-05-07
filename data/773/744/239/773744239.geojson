@@ -1,0 +1,69 @@
+{
+  "id": 773744239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.135797,35.956675,-84.135797,35.956675",
+    "geom:latitude":35.956675,
+    "geom:longitude":-84.135797,
+    "iso:country":"US",
+    "sg:address":"10017 Hardin Valley Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 539 6811",
+    "sg:postcode":"37932",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a2PD0yJwO9u9xtMw6aQ1m_35.956675_-84.135797@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588057,
+    "wof:geomhash":"b0ccc845113ec258266ddaaacb857199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":773744239
+        }
+    ],
+    "wof:id":773744239,
+    "wof:lastmodified":1462588057,
+    "wof:name":"Hardin Valley Animal Hospital",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.135797,
+    35.956675,
+    -84.135797,
+    35.956675
+],
+  "geometry": {"coordinates":[-84.135797,35.956675],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823269165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.630527,35.073679,-85.630527,35.073679",
+    "geom:latitude":35.073679,
+    "geom:longitude":-85.630527,
+    "iso:country":"US",
+    "sg:address":"925 Main St",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 0111",
+    "sg:postcode":"37347",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mLbtwVZF6tGFo4yiDNXyg_35.073679_-85.630527@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609882,
+    "wof:geomhash":"60bdd2fe170b041b869d7778ac904e76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":823269165
+        }
+    ],
+    "wof:id":823269165,
+    "wof:lastmodified":1462609882,
+    "wof:name":"Kimball Volunteer Fire Department",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.630527,
+    35.073679,
+    -85.630527,
+    35.073679
+],
+  "geometry": {"coordinates":[-85.630527,35.073679],"type":"Point"}
+}

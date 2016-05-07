@@ -1,0 +1,71 @@
+{
+  "id": 773266323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.4381,35.763329,-83.4381,35.763329",
+    "geom:latitude":35.763329,
+    "geom:longitude":-83.4381,
+    "iso:country":"US",
+    "sg:address":"2235 Grassy Branch Rd",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 436 5893",
+    "sg:postcode":"37876",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722579,
+        102086245,
+        85842013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lQxwjX8Y45qi8yjbgP1Sw_35.763329_-83.438100@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584410,
+    "wof:geomhash":"6013372ce64c3aa0fab08909ef684528",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722579,
+            "neighbourhood_id":85842013,
+            "region_id":85688701,
+            "venue_id":773266323
+        }
+    ],
+    "wof:id":773266323,
+    "wof:lastmodified":1462584410,
+    "wof:name":"C & O Taxi Svc",
+    "wof:parent_id":85842013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -83.4381,
+    35.763329,
+    -83.4381,
+    35.763329
+],
+  "geometry": {"coordinates":[-83.43810000000001,35.763329],"type":"Point"}
+}

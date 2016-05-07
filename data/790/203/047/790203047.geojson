@@ -1,0 +1,73 @@
+{
+  "id": 790203047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.1083,35.498576,-86.1083,35.498576",
+    "geom:latitude":35.498576,
+    "geom:longitude":-86.1083,
+    "iso:country":"US",
+    "sg:address":"2230 Murfreesboro Hwy",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 723 2333",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LyLfKIQdpVqKpdSuk77Ws_35.498576_-86.108300@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593980,
+    "wof:geomhash":"b890cf7dc10c90b63ecb6a1bf3f089b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":790203047
+        }
+    ],
+    "wof:id":790203047,
+    "wof:lastmodified":1462593980,
+    "wof:name":"Major Auto Repair",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.1083,
+    35.498576,
+    -86.1083,
+    35.498576
+],
+  "geometry": {"coordinates":[-86.1083,35.498576],"type":"Point"}
+}

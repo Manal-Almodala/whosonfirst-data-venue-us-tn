@@ -1,0 +1,73 @@
+{
+  "id": 773481095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.2593,35.018648,-85.2593,35.018648",
+    "geom:latitude":35.018648,
+    "geom:longitude":-85.2593,
+    "iso:country":"US",
+    "sg:address":"3 Ellis Ave",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 624 8842",
+    "sg:postcode":"37412",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723039,
+        102087185,
+        85842505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iPZRq0B6jXGBC3llPqtIN_35.018648_-85.259300@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586079,
+    "wof:geomhash":"60dfd09a84d87a7c797590aa0b55de0a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723039,
+            "neighbourhood_id":85842505,
+            "region_id":85688701,
+            "venue_id":773481095
+        }
+    ],
+    "wof:id":773481095,
+    "wof:lastmodified":1462586079,
+    "wof:name":"Southern Cleaning Co",
+    "wof:parent_id":85842505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.2593,
+    35.018648,
+    -85.2593,
+    35.018648
+],
+  "geometry": {"coordinates":[-85.2593,35.018648],"type":"Point"}
+}

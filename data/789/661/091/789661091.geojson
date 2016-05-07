@@ -1,0 +1,83 @@
+{
+  "id": 789661091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.171612,36.593859,-82.171612,36.593859",
+    "geom:latitude":36.593859,
+    "geom:longitude":-82.171612,
+    "iso:country":"US",
+    "sg:address":"509 E State St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 426 323 8617",
+    "sg:postcode":"37625",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        420547849,
+        420542207
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2T5tHBxdGrmhobYCh2EbdX_36.593859_-82.171612@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589542,
+    "wof:geomhash":"b0f1b2fd8a1d56bdcae6f2ea24cd0542",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":420547849,
+            "region_id":85688701,
+            "venue_id":789661091
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":420542207,
+            "region_id":85688701,
+            "venue_id":789661091
+        }
+    ],
+    "wof:id":789661091,
+    "wof:lastmodified":1462589542,
+    "wof:name":"Street Ja & Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.171612,
+    36.593859,
+    -82.171612,
+    36.593859
+],
+  "geometry": {"coordinates":[-82.171612,36.593859],"type":"Point"}
+}

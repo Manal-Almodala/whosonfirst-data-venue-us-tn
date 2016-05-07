@@ -1,0 +1,73 @@
+{
+  "id": 790535693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.260906,36.239903,-86.260906,36.239903",
+    "geom:latitude":36.239903,
+    "geom:longitude":-86.260906,
+    "iso:country":"US",
+    "sg:address":"2364 Hartsville Pike",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 6345",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ofEZ020kWYHVUPb9Nl6F3_36.239903_-86.260906@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596667,
+    "wof:geomhash":"c9273fae8134ae4fccf2871a3321326f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":790535693
+        }
+    ],
+    "wof:id":790535693,
+    "wof:lastmodified":1462596667,
+    "wof:name":"John's Locksmith Svc",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.260906,
+    36.239903,
+    -86.260906,
+    36.239903
+],
+  "geometry": {"coordinates":[-86.26090600000001,36.239903],"type":"Point"}
+}

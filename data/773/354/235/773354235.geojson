@@ -1,0 +1,73 @@
+{
+  "id": 773354235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.27705,36.202862,-86.27705,36.202862",
+    "geom:latitude":36.202862,
+    "geom:longitude":-86.27705,
+    "iso:country":"US",
+    "sg:address":"711 Tennessee Blvd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 3111",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sjtpngFyxAnkZQHOJ242V_36.202862_-86.277050@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585080,
+    "wof:geomhash":"7fb3dedac09e12324e88730f0b15de20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":773354235
+        }
+    ],
+    "wof:id":773354235,
+    "wof:lastmodified":1462585080,
+    "wof:name":"Shell",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -86.27705,
+    36.202862,
+    -86.27705,
+    36.202862
+],
+  "geometry": {"coordinates":[-86.27705,36.202862],"type":"Point"}
+}

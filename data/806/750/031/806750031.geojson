@@ -1,0 +1,71 @@
+{
+  "id": 806750031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.436446,36.391126,-86.436446,36.391126",
+    "geom:latitude":36.391126,
+    "geom:longitude":-86.436446,
+    "iso:country":"US",
+    "sg:address":"512 E Main St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 451 6690",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospice"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mSPiTIlL4f6qvZ4ipqP8a_36.391126_-86.436446@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600763,
+    "wof:geomhash":"202f03fa048e84e1acc9e77e75226a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":806750031
+        }
+    ],
+    "wof:id":806750031,
+    "wof:lastmodified":1462600763,
+    "wof:name":"Sumner Hospice",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospice"
+    ]
+},
+  "bbox": [
+    -86.436446,
+    36.391126,
+    -86.436446,
+    36.391126
+],
+  "geometry": {"coordinates":[-86.436446,36.391126],"type":"Point"}
+}

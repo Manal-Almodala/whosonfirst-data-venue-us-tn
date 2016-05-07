@@ -1,0 +1,73 @@
+{
+  "id": 789981475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.669339,36.1046,-86.669339,36.1046",
+    "geom:latitude":36.1046,
+    "geom:longitude":-86.669339,
+    "iso:country":"US",
+    "sg:address":"1671 Murfreesboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 367 6179",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85804275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UTTZtAogLUb1HYUDYdO35_36.104600_-86.669339@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592178,
+    "wof:geomhash":"7410a84e28eeb015fd9d33c1c1e042dd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85804275,
+            "region_id":85688701,
+            "venue_id":789981475
+        }
+    ],
+    "wof:id":789981475,
+    "wof:lastmodified":1462592178,
+    "wof:name":"Airport Transportation Svc",
+    "wof:parent_id":85804275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -86.669339,
+    36.1046,
+    -86.669339,
+    36.1046
+],
+  "geometry": {"coordinates":[-86.66933899999999,36.1046],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789728461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.35541,36.317107,-82.35541,36.317107",
+    "geom:latitude":36.317107,
+    "geom:longitude":-82.35541,
+    "iso:country":"US",
+    "sg:address":"137 W Market St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 926 6181",
+    "sg:postcode":"37604",
+    "sg:province":"TN",
+    "sg:tags":[
+        "bus",
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722757,
+        102086335,
+        85822495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Cn2RjJC2x1Ijj3FMw9uC7_36.317107_-82.355410@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590092,
+    "wof:geomhash":"853d2ff38f75c7f826f0e0ebc25e3da3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85822495,
+            "region_id":85688701,
+            "venue_id":789728461
+        }
+    ],
+    "wof:id":789728461,
+    "wof:lastmodified":1462590092,
+    "wof:name":"Greyhound Bus Lines",
+    "wof:parent_id":85822495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line"
+    ]
+},
+  "bbox": [
+    -82.35541,
+    36.317107,
+    -82.35541,
+    36.317107
+],
+  "geometry": {"coordinates":[-82.35541000000001,36.317107],"type":"Point"}
+}

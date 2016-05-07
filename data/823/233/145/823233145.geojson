@@ -1,0 +1,75 @@
+{
+  "id": 823233145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.979208,35.157928,-89.979208,35.157928",
+    "geom:latitude":35.157928,
+    "geom:longitude":-89.979208,
+    "iso:country":"US",
+    "sg:address":"2358 Jackson Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 327 8700",
+    "sg:postcode":"38108",
+    "sg:province":"TN",
+    "sg:tags":[
+        "salon",
+        "beauty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85806143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ww9x1ISSul7X3cTCP0MK3_35.157964_-89.979275@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609018,
+    "wof:geomhash":"1ee394c17738d2cb0641fb174cad6368",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85806143,
+            "region_id":85688701,
+            "venue_id":823233145
+        }
+    ],
+    "wof:id":823233145,
+    "wof:lastmodified":1462609018,
+    "wof:name":"Jackson Avenue Barber & Beauty Shop",
+    "wof:parent_id":85806143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon",
+        "beauty"
+    ]
+},
+  "bbox": [
+    -89.979208,
+    35.157928,
+    -89.979208,
+    35.157928
+],
+  "geometry": {"coordinates":[-89.979208,35.157928],"type":"Point"}
+}

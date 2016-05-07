@@ -1,0 +1,85 @@
+{
+  "id": 789781685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.547057,36.058024,-86.547057,36.058024",
+    "geom:latitude":36.058024,
+    "geom:longitude":-86.547057,
+    "iso:country":"US",
+    "sg:address":"130 Tulip Poplar Dr",
+    "sg:city":"La Vergne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 793 7405",
+    "sg:postcode":"37086",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723113,
+        102086355,
+        420542085,
+        420541483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ULLx2LKi4AKWeVCWSbE0U_36.058024_-86.547057@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590498,
+    "wof:geomhash":"772b2663df9f0ca2ce05e327f2cd07b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723113,
+            "neighbourhood_id":420542085,
+            "region_id":85688701,
+            "venue_id":789781685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723113,
+            "neighbourhood_id":420541483,
+            "region_id":85688701,
+            "venue_id":789781685
+        }
+    ],
+    "wof:id":789781685,
+    "wof:lastmodified":1462590498,
+    "wof:name":"Dyle Electric",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.547057,
+    36.058024,
+    -86.547057,
+    36.058024
+],
+  "geometry": {"coordinates":[-86.547057,36.058024],"type":"Point"}
+}

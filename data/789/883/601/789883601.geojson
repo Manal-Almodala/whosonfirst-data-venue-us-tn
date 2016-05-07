@@ -1,0 +1,73 @@
+{
+  "id": 789883601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.027246,35.950325,-85.027246,35.950325",
+    "geom:latitude":35.950325,
+    "geom:longitude":-85.027246,
+    "iso:country":"US",
+    "sg:address":"29 Taylor Ave",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 787 1122",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JCIGTvDBhkJVNyeup2dcu_35.950325_-85.027246@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591321,
+    "wof:geomhash":"61943ddfb52ec719c645a358cdabe548",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":789883601
+        }
+    ],
+    "wof:id":789883601,
+    "wof:lastmodified":1462591321,
+    "wof:name":"Northwestern Mutual Financial",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -85.027246,
+    35.950325,
+    -85.027246,
+    35.950325
+],
+  "geometry": {"coordinates":[-85.02724600000001,35.950325],"type":"Point"}
+}

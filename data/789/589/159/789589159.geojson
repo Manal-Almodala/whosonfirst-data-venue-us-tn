@@ -1,0 +1,73 @@
+{
+  "id": 789589159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.334224,36.325553,-82.334224,36.325553",
+    "geom:latitude":36.325553,
+    "geom:longitude":-82.334224,
+    "iso:country":"US",
+    "sg:address":"1705 E Main St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 926 8375",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "city",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85809563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tSDmHo1WvX1kWzocA2jQG_36.325553_-82.334224@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588979,
+    "wof:geomhash":"e40c5ae022e176aed18755211be3a768",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85809563,
+            "region_id":85688701,
+            "venue_id":789589159
+        }
+    ],
+    "wof:id":789589159,
+    "wof:lastmodified":1462588979,
+    "wof:name":"Johnson City Sanitary Landfill",
+    "wof:parent_id":85809563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "program"
+    ]
+},
+  "bbox": [
+    -82.334224,
+    36.325553,
+    -82.334224,
+    36.325553
+],
+  "geometry": {"coordinates":[-82.33422400000001,36.325553],"type":"Point"}
+}

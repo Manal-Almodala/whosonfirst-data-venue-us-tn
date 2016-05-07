@@ -1,0 +1,78 @@
+{
+  "id": 823260067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.086927,35.915751,-84.086927,35.915751",
+    "geom:latitude":35.915751,
+    "geom:longitude":-84.086927,
+    "iso:country":"US",
+    "sg:address":"261 N Peters Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/88837-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 436 5999",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LkHWtt6t4j13LFGFWkSqV_35.915510_-84.087419@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609553,
+    "wof:geomhash":"f8aa7d339c73844c70e40af209d4daa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":823260067
+        }
+    ],
+    "wof:id":823260067,
+    "wof:lastmodified":1462609553,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -84.086927,
+    35.915751,
+    -84.086927,
+    35.915751
+],
+  "geometry": {"coordinates":[-84.086927,35.915751],"type":"Point"}
+}

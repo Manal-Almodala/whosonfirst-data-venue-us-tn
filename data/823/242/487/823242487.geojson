@@ -1,0 +1,73 @@
+{
+  "id": 823242487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.225936,36.523495,-87.225936,36.523495",
+    "geom:latitude":36.523495,
+    "geom:longitude":-87.225936,
+    "iso:country":"US",
+    "sg:address":"724 Sango Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/clarksville/203425-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bNUZ9XM0paXiWHZobxJJl_36.523495_-87.225936@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609193,
+    "wof:geomhash":"72daca1a49ce8b0741680d87741a28e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846417,
+            "region_id":85688701,
+            "venue_id":823242487
+        }
+    ],
+    "wof:id":823242487,
+    "wof:lastmodified":1462609193,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85846417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.225936,
+    36.523495,
+    -87.225936,
+    36.523495
+],
+  "geometry": {"coordinates":[-87.225936,36.523495],"type":"Point"}
+}

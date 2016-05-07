@@ -1,0 +1,75 @@
+{
+  "id": 789807165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.674412,35.046518,-85.674412,35.046518",
+    "geom:latitude":35.046518,
+    "geom:longitude":-85.674412,
+    "iso:country":"US",
+    "sg:address":"1682 Main St",
+    "sg:city":"Palmer",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 779 4734",
+    "sg:postcode":"37347",
+    "sg:province":"TN",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BFNMndI63o6NWayX3S85P_35.046518_-85.674412@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590693,
+    "wof:geomhash":"06caed570948b74468707feb6fbf52d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":789807165
+        }
+    ],
+    "wof:id":789807165,
+    "wof:lastmodified":1462590693,
+    "wof:name":"Greg's Muffler Shop",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -85.674412,
+    35.046518,
+    -85.674412,
+    35.046518
+],
+  "geometry": {"coordinates":[-85.674412,35.046518],"type":"Point"}
+}

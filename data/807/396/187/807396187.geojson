@@ -1,0 +1,71 @@
+{
+  "id": 807396187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.080101,35.535645,-86.080101,35.535645",
+    "geom:latitude":35.535645,
+    "geom:longitude":-86.080101,
+    "iso:country":"US",
+    "sg:address":"19 Brandon Rd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 723 8210",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XtW5lndlYNa2cFB8EnIkZ_35.535645_-86.080101@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607189,
+    "wof:geomhash":"e4adc7fdf17dee6019d1ac1b6a8f8b57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":807396187
+        }
+    ],
+    "wof:id":807396187,
+    "wof:lastmodified":1462607189,
+    "wof:name":"New Union Fire Dept Fire Hall",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.080101,
+    35.535645,
+    -86.080101,
+    35.535645
+],
+  "geometry": {"coordinates":[-86.080101,35.535645],"type":"Point"}
+}

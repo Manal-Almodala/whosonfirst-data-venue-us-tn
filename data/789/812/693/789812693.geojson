@@ -1,0 +1,71 @@
+{
+  "id": 789812693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.588833,35.14641,-86.588833,35.14641",
+    "geom:latitude":35.14641,
+    "geom:longitude":-86.588833,
+    "iso:country":"US",
+    "sg:address":"804 William D Jones Blvd",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 438 1435",
+    "sg:postcode":"37334",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rgUTcMxAecl4kJB4vHDmj_35.146410_-86.588833@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590736,
+    "wof:geomhash":"f1975fd0d4588a99da7e95ec72445210",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":789812693
+        }
+    ],
+    "wof:id":789812693,
+    "wof:lastmodified":1462590736,
+    "wof:name":"Samuel M Ashby MD",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.588833,
+    35.14641,
+    -86.588833,
+    35.14641
+],
+  "geometry": {"coordinates":[-86.58883299999999,35.14641],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789955851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.510787,36.154381,-85.510787,36.154381",
+    "geom:latitude":36.154381,
+    "geom:longitude":-85.510787,
+    "iso:country":"US",
+    "sg:address":"105 W Jackson St",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 520 0123",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722459,
+        102086339,
+        85822779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OtR5Obv2rzKAfFTh1RFur_36.154381_-85.510787@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591965,
+    "wof:geomhash":"92109a7b3e43e3c6bf35958a99341ba0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85822779,
+            "region_id":85688701,
+            "venue_id":789955851
+        }
+    ],
+    "wof:id":789955851,
+    "wof:lastmodified":1462591965,
+    "wof:name":"Texaco Xpress Lube",
+    "wof:parent_id":85822779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -85.510787,
+    36.154381,
+    -85.510787,
+    36.154381
+],
+  "geometry": {"coordinates":[-85.51078699999999,36.154381],"type":"Point"}
+}

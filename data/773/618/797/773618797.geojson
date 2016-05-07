@@ -1,0 +1,73 @@
+{
+  "id": 773618797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.584715,35.850858,-86.584715,35.850858",
+    "geom:latitude":35.850858,
+    "geom:longitude":-86.584715,
+    "iso:country":"US",
+    "sg:address":"10702 Franklin Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 3761",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85845521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Y9QzMlP0Cwms2V17iKJk1_35.850858_-86.584715@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587090,
+    "wof:geomhash":"3ba30508f6f6a69876bb8a6cc05fc321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85845521,
+            "region_id":85688701,
+            "venue_id":773618797
+        }
+    ],
+    "wof:id":773618797,
+    "wof:lastmodified":1462587090,
+    "wof:name":"Master Electrical Service",
+    "wof:parent_id":85845521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.584715,
+    35.850858,
+    -86.584715,
+    35.850858
+],
+  "geometry": {"coordinates":[-86.584715,35.850858],"type":"Point"}
+}

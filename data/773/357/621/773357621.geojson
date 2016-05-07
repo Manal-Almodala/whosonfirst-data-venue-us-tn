@@ -1,0 +1,86 @@
+{
+  "id": 773357621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.750726,36.125772,-86.750726,36.125772",
+    "geom:latitude":36.125772,
+    "geom:longitude":-86.750726,
+    "iso:country":"US",
+    "sg:address":"375 Glenrose Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 834 6464",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.importspecialty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85893481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6z0p3dCin4tqNSwtiFvRA2_36.125772_-86.750726@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585101,
+    "wof:geomhash":"986de7f0bb27813f08d3a429cf0b4e4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":773357621
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893481,
+            "region_id":85688701,
+            "venue_id":773357621
+        }
+    ],
+    "wof:id":773357621,
+    "wof:lastmodified":1462585101,
+    "wof:name":"Import Specialty Svc LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.750726,
+    36.125772,
+    -86.750726,
+    36.125772
+],
+  "geometry": {"coordinates":[-86.750726,36.125772],"type":"Point"}
+}

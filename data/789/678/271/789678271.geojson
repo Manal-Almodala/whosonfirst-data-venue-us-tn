@@ -1,0 +1,71 @@
+{
+  "id": 789678271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.481838,35.961113,-85.481838,35.961113",
+    "geom:latitude":35.961113,
+    "geom:longitude":-85.481838,
+    "iso:country":"US",
+    "sg:address":"600 N Spring St",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 836 8000",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vkh604AXex3hwtBHvt4fw_35.961113_-85.481838@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589687,
+    "wof:geomhash":"b300cffa6425ad66d254fdd4e770108d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":789678271
+        }
+    ],
+    "wof:id":789678271,
+    "wof:lastmodified":1462589687,
+    "wof:name":"Highway Patrol",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "safety"
+    ]
+},
+  "bbox": [
+    -85.481838,
+    35.961113,
+    -85.481838,
+    35.961113
+],
+  "geometry": {"coordinates":[-85.481838,35.961113],"type":"Point"}
+}

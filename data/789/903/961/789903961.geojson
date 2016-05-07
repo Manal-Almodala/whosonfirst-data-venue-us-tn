@@ -1,0 +1,73 @@
+{
+  "id": 789903961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.179497,35.949269,-84.179497,35.949269",
+    "geom:latitude":35.949269,
+    "geom:longitude":-84.179497,
+    "iso:country":"US",
+    "sg:address":"11104 Sam Lee Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 690 9369",
+    "sg:postcode":"37932",
+    "sg:province":"TN",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722867,
+        102086455,
+        85853837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ioodRsVvcVTvzIvoQf1PV_35.949269_-84.179497@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591476,
+    "wof:geomhash":"372c20e95c1e49601ca9eedb91abfdda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722867,
+            "neighbourhood_id":85853837,
+            "region_id":85688701,
+            "venue_id":789903961
+        }
+    ],
+    "wof:id":789903961,
+    "wof:lastmodified":1462591476,
+    "wof:name":"Ellison Excavating",
+    "wof:parent_id":85853837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.179497,
+    35.949269,
+    -84.179497,
+    35.949269
+],
+  "geometry": {"coordinates":[-84.179497,35.949269],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789666015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.069392,35.919571,-84.069392,35.919571",
+    "geom:latitude":35.919571,
+    "geom:longitude":-84.069392,
+    "iso:country":"US",
+    "sg:address":"8609 Kingston Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 560 5506",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IPf2FEIUXAb6w2pLyXGfD_35.919571_-84.069392@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589600,
+    "wof:geomhash":"a582919b952b4c0ef793f8263d1e9add",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":789666015
+        }
+    ],
+    "wof:id":789666015,
+    "wof:lastmodified":1462589600,
+    "wof:name":"Joiner Dental Technology",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -84.069392,
+    35.919571,
+    -84.069392,
+    35.919571
+],
+  "geometry": {"coordinates":[-84.06939199999999,35.919571],"type":"Point"}
+}

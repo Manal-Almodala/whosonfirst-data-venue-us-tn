@@ -1,0 +1,73 @@
+{
+  "id": 773433681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.012798,35.494145,-85.012798,35.494145",
+    "geom:latitude":35.494145,
+    "geom:longitude":-85.012798,
+    "iso:country":"US",
+    "sg:address":"1402 Market St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 6670",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fd9brwWAlvuMQ7NVJMerO_35.494145_-85.012798@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585698,
+    "wof:geomhash":"ea47c07552122ecd0f6917d2b431ae2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":773433681
+        }
+    ],
+    "wof:id":773433681,
+    "wof:lastmodified":1462585698,
+    "wof:name":"Morgan Mini Storage",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -85.012798,
+    35.494145,
+    -85.012798,
+    35.494145
+],
+  "geometry": {"coordinates":[-85.012798,35.494145],"type":"Point"}
+}

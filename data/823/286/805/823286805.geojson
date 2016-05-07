@@ -1,0 +1,85 @@
+{
+  "id": 823286805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.935407,35.047236,-89.935407,35.047236",
+    "geom:latitude":35.047236,
+    "geom:longitude":-89.935407,
+    "iso:country":"US",
+    "sg:address":"3801 Watman Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 365 8767",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pneumatic",
+        "component",
+        "hydraulic",
+        "supply"
+    ],
+    "sg:website":"http://www.bluestarindustries.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85839073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iyqP5sS9KReDWqqZNb1Ru_35.047236_-89.935407@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610577,
+    "wof:geomhash":"947fa4a7c245d393154b430cbbff7fe5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85839073,
+            "region_id":85688701,
+            "venue_id":823286805
+        }
+    ],
+    "wof:id":823286805,
+    "wof:lastmodified":1462610577,
+    "wof:name":"Bluestar Industries",
+    "wof:parent_id":85839073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pneumatic",
+        "component",
+        "hydraulic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.935407,
+    35.047236,
+    -89.935407,
+    35.047236
+],
+  "geometry": {"coordinates":[-89.935407,35.047236],"type":"Point"}
+}

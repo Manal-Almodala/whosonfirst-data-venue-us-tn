@@ -1,0 +1,73 @@
+{
+  "id": 789758601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.730483,36.078095,-86.730483,36.078095",
+    "geom:latitude":36.078095,
+    "geom:longitude":-86.730483,
+    "iso:country":"US",
+    "sg:address":"441 Harding Pl",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 977 4477",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        420541539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TASSaDFiQT0SbMMXFe9u4_36.078095_-86.730483@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590319,
+    "wof:geomhash":"0990c153ec9f210f1269bff1e0eed969",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420541539,
+            "region_id":85688701,
+            "venue_id":789758601
+        }
+    ],
+    "wof:id":789758601,
+    "wof:lastmodified":1462590319,
+    "wof:name":"Household Cleaning",
+    "wof:parent_id":420541539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.730483,
+    36.078095,
+    -86.730483,
+    36.078095
+],
+  "geometry": {"coordinates":[-86.73048300000001,36.078095],"type":"Point"}
+}

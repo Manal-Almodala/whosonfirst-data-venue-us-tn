@@ -1,0 +1,71 @@
+{
+  "id": 789741609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.483723,36.547467,-87.483723,36.547467",
+    "geom:latitude":36.547467,
+    "geom:longitude":-87.483723,
+    "iso:country":"US",
+    "sg:address":"1900 Dover Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 647 2222",
+    "sg:postcode":"37042",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85805437,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DRRUgy0aQeKQqFPSqFBfI_36.547467_-87.483723@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590189,
+    "wof:geomhash":"7de52dff279616eca6347edc0ee4c962",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85805437,
+            "region_id":85688701,
+            "venue_id":789741609
+        }
+    ],
+    "wof:id":789741609,
+    "wof:lastmodified":1462590189,
+    "wof:name":"Woodlawn Automotive",
+    "wof:parent_id":85805437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.483723,
+    36.547467,
+    -87.483723,
+    36.547467
+],
+  "geometry": {"coordinates":[-87.483723,36.547467],"type":"Point"}
+}

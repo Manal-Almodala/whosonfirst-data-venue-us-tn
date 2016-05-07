@@ -1,0 +1,73 @@
+{
+  "id": 790024109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.890873,35.230852,-89.890873,35.230852",
+    "geom:latitude":35.230852,
+    "geom:longitude":-89.890873,
+    "iso:country":"US",
+    "sg:address":"3950 Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 843 0960",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SHjQHCNd0oyAPiyRj8sDo_35.230852_-89.890873@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592523,
+    "wof:geomhash":"d739cec0462548ef81d9748605d61480",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":790024109
+        }
+    ],
+    "wof:id":790024109,
+    "wof:lastmodified":1462592523,
+    "wof:name":"Ob/Gyn Physicians Grp-Memphis",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.890873,
+    35.230852,
+    -89.890873,
+    35.230852
+],
+  "geometry": {"coordinates":[-89.890873,35.230852],"type":"Point"}
+}

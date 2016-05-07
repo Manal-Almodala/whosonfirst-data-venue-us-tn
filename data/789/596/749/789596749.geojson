@@ -1,0 +1,71 @@
+{
+  "id": 789596749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.150526,36.469325,-87.150526,36.469325",
+    "geom:latitude":36.469325,
+    "geom:longitude":-87.150526,
+    "iso:country":"US",
+    "sg:address":"236 Mount Carmel Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 358 9946",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dkv6c4IDdARZYKZ2KhaYC_36.469325_-87.150526@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589034,
+    "wof:geomhash":"c4ac97481a76ff70c2712eb53d737f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846211,
+            "region_id":85688701,
+            "venue_id":789596749
+        }
+    ],
+    "wof:id":789596749,
+    "wof:lastmodified":1462589034,
+    "wof:name":"Network Communications",
+    "wof:parent_id":85846211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -87.150526,
+    36.469325,
+    -87.150526,
+    36.469325
+],
+  "geometry": {"coordinates":[-87.150526,36.469325],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789750167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.096871,35.180279,-86.096871,35.180279",
+    "geom:latitude":35.180279,
+    "geom:longitude":-86.096871,
+    "iso:country":"US",
+    "sg:address":"1021 S College St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 968 9811",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UxfTZKsDRihHuQK1BCEbX_35.180279_-86.096871@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590254,
+    "wof:geomhash":"a035daf311a4c11ae679186beb91ab3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":789750167
+        }
+    ],
+    "wof:id":789750167,
+    "wof:lastmodified":1462590254,
+    "wof:name":"West Used Appliance",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -86.096871,
+    35.180279,
+    -86.096871,
+    35.180279
+],
+  "geometry": {"coordinates":[-86.09687099999999,35.180279],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823252093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.018081,36.006911,-84.018081,36.006911",
+    "geom:latitude":36.006911,
+    "geom:longitude":-84.018081,
+    "iso:country":"US",
+    "sg:address":"6706 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/214898-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 938 2703",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tcyr44RpXLBm7NzDhQrFL_36.006911_-84.018081@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609386,
+    "wof:geomhash":"a23308bc03a216ef334c6794e14ac1d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":823252093
+        }
+    ],
+    "wof:id":823252093,
+    "wof:lastmodified":1462609386,
+    "wof:name":"Burger King",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.018081,
+    36.006911,
+    -84.018081,
+    36.006911
+],
+  "geometry": {"coordinates":[-84.018081,36.006911],"type":"Point"}
+}

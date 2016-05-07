@@ -1,0 +1,71 @@
+{
+  "id": 789977335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.814798,35.449524,-89.814798,35.449524",
+    "geom:latitude":35.449524,
+    "geom:longitude":-89.814798,
+    "iso:country":"US",
+    "sg:address":"9 Bass St",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 1661",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X1lqHQIE6ZuDAm4zhy4Qk_35.449524_-89.814798@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592146,
+    "wof:geomhash":"7a5d59233a90380d404da6f99fe69bb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789977335
+        }
+    ],
+    "wof:id":789977335,
+    "wof:lastmodified":1462592146,
+    "wof:name":"BBC Restaurant",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -89.814798,
+    35.449524,
+    -89.814798,
+    35.449524
+],
+  "geometry": {"coordinates":[-89.814798,35.449524],"type":"Point"}
+}

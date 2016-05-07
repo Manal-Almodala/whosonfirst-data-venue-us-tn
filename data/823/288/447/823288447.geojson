@@ -1,0 +1,81 @@
+{
+  "id": 823288447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795194,35.04993,-89.795194,35.04993",
+    "geom:latitude":35.04993,
+    "geom:longitude":-89.795194,
+    "iso:country":"US",
+    "sg:address":"3611 Hacks Cross Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 537 1180",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wellsfargo.com/wfonline/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mXtig6v6TSDzTvKl9BR6j_35.049930_-89.795194@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610639,
+    "wof:geomhash":"a695cdfe43e5dac0b70d2f26a9538eb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823288447
+        }
+    ],
+    "wof:id":823288447,
+    "wof:lastmodified":1462610639,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -89.795194,
+    35.04993,
+    -89.795194,
+    35.04993
+],
+  "geometry": {"coordinates":[-89.795194,35.04993],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 807109801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.239507,36.235694,-83.239507,36.235694",
+    "geom:latitude":36.235694,
+    "geom:longitude":-83.239507,
+    "iso:country":"US",
+    "sg:address":"4346 E Andrew Johnson Hwy",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 3167",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aXRwCEKWFoDryIRDSvveP_36.235694_-83.239507@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603832,
+    "wof:geomhash":"b8ac24f142176f159a5569312196a4a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807109801
+        }
+    ],
+    "wof:id":807109801,
+    "wof:lastmodified":1462603832,
+    "wof:name":"Tennessee Collision",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.239507,
+    36.235694,
+    -83.239507,
+    36.235694
+],
+  "geometry": {"coordinates":[-83.239507,36.235694],"type":"Point"}
+}

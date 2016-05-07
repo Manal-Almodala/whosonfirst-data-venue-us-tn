@@ -1,0 +1,73 @@
+{
+  "id": 789665783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.020833,35.944825,-85.020833,35.944825",
+    "geom:latitude":35.944825,
+    "geom:longitude":-85.020833,
+    "iso:country":"US",
+    "sg:address":"194 Cleveland St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 8822",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vDKNyIUmUogyEODEzrD7p_35.944825_-85.020833@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589598,
+    "wof:geomhash":"9555612d8381c33f36aea2aa4a434240",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":789665783
+        }
+    ],
+    "wof:id":789665783,
+    "wof:lastmodified":1462589598,
+    "wof:name":"Campbell David E MD Facs",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.020833,
+    35.944825,
+    -85.020833,
+    35.944825
+],
+  "geometry": {"coordinates":[-85.020833,35.944825],"type":"Point"}
+}

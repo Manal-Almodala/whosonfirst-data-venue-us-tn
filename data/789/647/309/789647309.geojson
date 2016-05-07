@@ -1,0 +1,80 @@
+{
+  "id": 789647309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.581356,35.881918,-83.581356,35.881918",
+    "geom:latitude":35.881918,
+    "geom:longitude":-83.581356,
+    "iso:country":"US",
+    "sg:address":"1014 Old Knoxville Hwy",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 908 4248",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "fabricator",
+        "fabrication",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85809817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iewlZpSzE1L0W7pOklVef_35.881918_-83.581356@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589430,
+    "wof:geomhash":"daab15f118204a0e94ca877bfe99c692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85809817,
+            "region_id":85688701,
+            "venue_id":789647309
+        }
+    ],
+    "wof:id":789647309,
+    "wof:lastmodified":1462589430,
+    "wof:name":"Smoky Metal Works",
+    "wof:parent_id":85809817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "fabrication",
+        "structural"
+    ]
+},
+  "bbox": [
+    -83.581356,
+    35.881918,
+    -83.581356,
+    35.881918
+],
+  "geometry": {"coordinates":[-83.581356,35.881918],"type":"Point"}
+}

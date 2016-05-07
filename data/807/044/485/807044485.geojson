@@ -1,0 +1,71 @@
+{
+  "id": 807044485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.945772,35.881884,-83.945772,35.881884",
+    "geom:latitude":35.881884,
+    "geom:longitude":-83.945772,
+    "iso:country":"US",
+    "sg:address":"3104 Topside Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 573 5823",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85828443,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IjOkGLCVEULh2Y25FJkjP_35.881884_-83.945772@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603246,
+    "wof:geomhash":"806e62f71079d7b446855a647f1da23b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85828443,
+            "region_id":85688701,
+            "venue_id":807044485
+        }
+    ],
+    "wof:id":807044485,
+    "wof:lastmodified":1462603246,
+    "wof:name":"Patrick's Service Ctr",
+    "wof:parent_id":85828443,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -83.945772,
+    35.881884,
+    -83.945772,
+    35.881884
+],
+  "geometry": {"coordinates":[-83.94577200000001,35.881884],"type":"Point"}
+}

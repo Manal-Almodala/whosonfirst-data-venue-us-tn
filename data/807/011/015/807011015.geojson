@@ -1,0 +1,71 @@
+{
+  "id": 807011015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.238549,35.891101,-85.238549,35.891101",
+    "geom:latitude":35.891101,
+    "geom:longitude":-85.238549,
+    "iso:country":"US",
+    "sg:address":"221 Eastland Cemetery Rd",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 935 8200",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nRmaj9Q8GAfuWnjOeUFPS_35.891101_-85.238549@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602951,
+    "wof:geomhash":"79060476225fce1c7b3f37d0e5aa962f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":807011015
+        }
+    ],
+    "wof:id":807011015,
+    "wof:lastmodified":1462602951,
+    "wof:name":"Eastland Fire Department",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -85.238549,
+    35.891101,
+    -85.238549,
+    35.891101
+],
+  "geometry": {"coordinates":[-85.23854900000001,35.891101],"type":"Point"}
+}

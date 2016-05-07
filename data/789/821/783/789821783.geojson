@@ -1,0 +1,71 @@
+{
+  "id": 789821783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.449819,35.858799,-86.449819,35.858799",
+    "geom:latitude":35.858799,
+    "geom:longitude":-86.449819,
+    "iso:country":"US",
+    "sg:address":"237 Gresham Ln",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 220 3080",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VxnzyEjfiem4uLOgId1eq_35.858799_-86.449819@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590806,
+    "wof:geomhash":"11d8722bf447ca47a249df7a8af2044f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":789821783
+        }
+    ],
+    "wof:id":789821783,
+    "wof:lastmodified":1462590806,
+    "wof:name":"Clean-All Restoration",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.449819,
+    35.858799,
+    -86.449819,
+    35.858799
+],
+  "geometry": {"coordinates":[-86.44981900000001,35.858799],"type":"Point"}
+}

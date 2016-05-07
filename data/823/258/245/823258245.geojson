@@ -1,0 +1,83 @@
+{
+  "id": 823258245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.370246,35.855459,-86.370246,35.855459",
+    "geom:latitude":35.855459,
+    "geom:longitude":-86.370246,
+    "iso:country":"US",
+    "sg:address":"2818 Middle Tennessee Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/136779-smoothie-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 1336",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85847403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HVtmC5tvmqrLvLVOBXc1h_35.855804_-86.370184@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609513,
+    "wof:geomhash":"edc159434f2cf382f5b99eba0ad693d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85847403,
+            "region_id":85688701,
+            "venue_id":823258245
+        }
+    ],
+    "wof:id":823258245,
+    "wof:lastmodified":1462609513,
+    "wof:name":"Smoothie King",
+    "wof:parent_id":85847403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.370246,
+    35.855459,
+    -86.370246,
+    35.855459
+],
+  "geometry": {"coordinates":[-86.37024599999999,35.855459],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807076109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.832228,35.999851,-83.832228,35.999851",
+    "geom:latitude":35.999851,
+    "geom:longitude":-83.832228,
+    "iso:country":"US",
+    "sg:address":"5420 Crestwood Dr SE",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 546 1412",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V9woUBGS2nLV4ZUpgjFAc_35.999851_-83.832228@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603503,
+    "wof:geomhash":"5de95049220beea2d15932c0af661abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":807076109
+        }
+    ],
+    "wof:id":807076109,
+    "wof:lastmodified":1462603503,
+    "wof:name":"Thomas F Stevens MD",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.832228,
+    35.999851,
+    -83.832228,
+    35.999851
+],
+  "geometry": {"coordinates":[-83.832228,35.999851],"type":"Point"}
+}

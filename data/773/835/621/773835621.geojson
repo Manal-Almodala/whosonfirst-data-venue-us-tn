@@ -1,0 +1,75 @@
+{
+  "id": 773835621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.724108,36.072614,-86.724108,36.072614",
+    "geom:latitude":36.072614,
+    "geom:longitude":-86.724108,
+    "iso:country":"US",
+    "sg:address":"4317 Nolensville Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 333 7778",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        420541539
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F5Cgdzl8Z1SsIylJgg66v_36.072614_-86.724108@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588769,
+    "wof:geomhash":"dc8e117a8bb46071423529b0f2fcfe94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420541539,
+            "region_id":85688701,
+            "venue_id":773835621
+        }
+    ],
+    "wof:id":773835621,
+    "wof:lastmodified":1462588769,
+    "wof:name":"NAPA Auto Care Center",
+    "wof:parent_id":420541539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.724108,
+    36.072614,
+    -86.724108,
+    36.072614
+],
+  "geometry": {"coordinates":[-86.724108,36.072614],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823288683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.817203,35.038821,-89.817203,35.038821",
+    "geom:latitude":35.038821,
+    "geom:longitude":-89.817203,
+    "iso:country":"US",
+    "sg:address":"4005 Moonstone Cv",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 309 6972",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24RfDgytoPoW0xhc1TNf2S_35.038821_-89.817203@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610649,
+    "wof:geomhash":"0c0ee0264ac36666a314e65391f854d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823288683
+        }
+    ],
+    "wof:id":823288683,
+    "wof:lastmodified":1462610649,
+    "wof:name":"Tipton Trucking Co Inc",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.817203,
+    35.038821,
+    -89.817203,
+    35.038821
+],
+  "geometry": {"coordinates":[-89.81720300000001,35.038821],"type":"Point"}
+}

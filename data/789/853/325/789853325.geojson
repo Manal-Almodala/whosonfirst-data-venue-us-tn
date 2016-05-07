@@ -1,0 +1,73 @@
+{
+  "id": 789853325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.270376,35.020806,-85.270376,35.020806",
+    "geom:latitude":35.020806,
+    "geom:longitude":-85.270376,
+    "iso:country":"US",
+    "sg:address":"1506 Dodds Ave",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 698 7142",
+    "sg:postcode":"37404",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85838687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1j4eMzyBLpgsZY2GSUC6GE_35.020806_-85.270376@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591054,
+    "wof:geomhash":"14bfbe0c0962eb98b568fc15069faf20",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85838687,
+            "region_id":85688701,
+            "venue_id":789853325
+        }
+    ],
+    "wof:id":789853325,
+    "wof:lastmodified":1462591054,
+    "wof:name":"City Maintenance",
+    "wof:parent_id":85838687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -85.270376,
+    35.020806,
+    -85.270376,
+    35.020806
+],
+  "geometry": {"coordinates":[-85.270376,35.020806],"type":"Point"}
+}

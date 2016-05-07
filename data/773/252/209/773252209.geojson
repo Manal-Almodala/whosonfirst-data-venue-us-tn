@@ -1,0 +1,68 @@
+{
+  "id": 773252209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.875845,35.100625,-89.875845,35.100625",
+    "geom:latitude":35.100625,
+    "geom:longitude":-89.875845,
+    "iso:country":"US",
+    "sg:address":"5659 Park Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 765 1255",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85807811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tyd68MVfrPeCY1SBj71iP_35.100625_-89.875845@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584309,
+    "wof:geomhash":"b6d140d65ba9b86303db20d2149a9ebc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85807811,
+            "region_id":85688701,
+            "venue_id":773252209
+        }
+    ],
+    "wof:id":773252209,
+    "wof:lastmodified":1462584309,
+    "wof:name":"Pharmerica Inc",
+    "wof:parent_id":85807811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.875845,
+    35.100625,
+    -89.875845,
+    35.100625
+],
+  "geometry": {"coordinates":[-89.875845,35.100625],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823252083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.01845,36.006767,-84.01845,36.006767",
+    "geom:latitude":36.006767,
+    "geom:longitude":-84.01845,
+    "iso:country":"US",
+    "sg:address":"6715 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/203616-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 938 9500",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fAGHhw2nFJH9L1gL5XiCu_36.006767_-84.018450@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609385,
+    "wof:geomhash":"c2c3ee9120611619fab13c8e62764810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":823252083
+        }
+    ],
+    "wof:id":823252083,
+    "wof:lastmodified":1462609385,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.01845,
+    36.006767,
+    -84.01845,
+    36.006767
+],
+  "geometry": {"coordinates":[-84.01845,36.006767],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 789951601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.046522,35.96545,-84.046522,35.96545",
+    "geom:latitude":35.96545,
+    "geom:longitude":-84.046522,
+    "iso:country":"US",
+    "sg:address":"5647 Crooked Pine Ln",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 558 4220",
+    "sg:postcode":"37921",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85856659,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZibCmvuH6Q6GqbTOgVLE0_35.965450_-84.046522@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591927,
+    "wof:geomhash":"4f9db3000c5f3cbecff3f46f7f872315",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85856659,
+            "region_id":85688701,
+            "venue_id":789951601
+        }
+    ],
+    "wof:id":789951601,
+    "wof:lastmodified":1462591927,
+    "wof:name":"East Tennessee Janitorial",
+    "wof:parent_id":85856659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -84.046522,
+    35.96545,
+    -84.046522,
+    35.96545
+],
+  "geometry": {"coordinates":[-84.046522,35.96545],"type":"Point"}
+}

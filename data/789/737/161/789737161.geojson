@@ -1,0 +1,75 @@
+{
+  "id": 789737161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.452983,35.779228,-86.452983,35.779228",
+    "geom:latitude":35.779228,
+    "geom:longitude":-86.452983,
+    "iso:country":"US",
+    "sg:address":"4012 Ashley Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 9552",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CLFNjBWqgSWf6n5RhHK1G_35.779228_-86.452983@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590153,
+    "wof:geomhash":"6b59e7ca92f06a2eaf2054fe1ee4f874",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":789737161
+        }
+    ],
+    "wof:id":789737161,
+    "wof:lastmodified":1462590153,
+    "wof:name":"Keith Trucking Inc",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.452983,
+    35.779228,
+    -86.452983,
+    35.779228
+],
+  "geometry": {"coordinates":[-86.452983,35.779228],"type":"Point"}
+}

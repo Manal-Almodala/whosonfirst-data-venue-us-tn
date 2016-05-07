@@ -1,0 +1,72 @@
+{
+  "id": 823242247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.36314,36.519047,-87.36314,36.519047",
+    "geom:latitude":36.519047,
+    "geom:longitude":-87.36314,
+    "iso:country":"US",
+    "sg:address":"703 S Riverside Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/clarksville/73080-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 552 4111",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V0iIOCmYO6FpnQ20RG70X_36.519047_-87.363140@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609189,
+    "wof:geomhash":"8b644797713f3222c8ca5d5ddf3d793f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":823242247
+        }
+    ],
+    "wof:id":823242247,
+    "wof:lastmodified":1462609189,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -87.36314,
+    36.519047,
+    -87.36314,
+    36.519047
+],
+  "geometry": {"coordinates":[-87.36314,36.519047],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789966967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.92578,35.045148,-89.92578,35.045148",
+    "geom:latitude":35.045148,
+    "geom:longitude":-89.92578,
+    "iso:country":"US",
+    "sg:address":"3904 Homewood Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 367 1887",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gCZfqiFZHs6Sbt6uX26Xz_35.045148_-89.925780@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592057,
+    "wof:geomhash":"980440bab491c067ae8284aa3466d7bf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":789966967
+        }
+    ],
+    "wof:id":789966967,
+    "wof:lastmodified":1462592057,
+    "wof:name":"Stinnett Dental Lab",
+    "wof:parent_id":85870785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -89.92578,
+    35.045148,
+    -89.92578,
+    35.045148
+],
+  "geometry": {"coordinates":[-89.92578,35.045148],"type":"Point"}
+}

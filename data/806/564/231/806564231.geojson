@@ -1,0 +1,73 @@
+{
+  "id": 806564231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.011823,35.944188,-84.011823,35.944188",
+    "geom:latitude":35.944188,
+    "geom:longitude":-84.011823,
+    "iso:country":"US",
+    "sg:address":"1114 E Weisgarber Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 584 0570",
+    "sg:postcode":"37909",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85855769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vSP6L9XzgMRwo9f2KGFkd_35.944188_-84.011823@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599160,
+    "wof:geomhash":"dab9401fe5b9da63c8ed0e5fdd6b5c12",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85855769,
+            "region_id":85688701,
+            "venue_id":806564231
+        }
+    ],
+    "wof:id":806564231,
+    "wof:lastmodified":1462599160,
+    "wof:name":"Extract Lab",
+    "wof:parent_id":85855769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -84.011823,
+    35.944188,
+    -84.011823,
+    35.944188
+],
+  "geometry": {"coordinates":[-84.01182300000001,35.944188],"type":"Point"}
+}

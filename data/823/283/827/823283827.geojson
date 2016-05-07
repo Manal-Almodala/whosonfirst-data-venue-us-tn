@@ -1,0 +1,83 @@
+{
+  "id": 823283827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.885965,35.046828,-89.885965,35.046828",
+    "geom:latitude":35.046828,
+    "geom:longitude":-89.885965,
+    "iso:country":"US",
+    "sg:address":"3736 S Mendenhall Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 794 9600",
+    "sg:postcode":"38115",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tCioF7P6k0Xguk2NhU4OA_35.046828_-89.885965@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610464,
+    "wof:geomhash":"92a5c13f0094d515d477595c8eb2093d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":823283827
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":823283827
+        }
+    ],
+    "wof:id":823283827,
+    "wof:lastmodified":1462610464,
+    "wof:name":"East Memphis Pizza & Subs Factory",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.885965,
+    35.046828,
+    -89.885965,
+    35.046828
+],
+  "geometry": {"coordinates":[-89.885965,35.046828],"type":"Point"}
+}

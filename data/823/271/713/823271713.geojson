@@ -1,0 +1,82 @@
+{
+  "id": 823271713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.14906,35.003807,-85.14906,35.003807",
+    "geom:latitude":35.003807,
+    "geom:longitude":-85.14906,
+    "iso:country":"US",
+    "sg:address":"8115 E Brainerd Rd B",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 899 8570",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "dental",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85818115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aiuAA3Gmvnk1Rp7gOChW0_35.003807_-85.149060@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609973,
+    "wof:geomhash":"e478257b813955ba6b61b3de1c123f67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85818115,
+            "region_id":85688701,
+            "venue_id":823271713
+        }
+    ],
+    "wof:id":823271713,
+    "wof:lastmodified":1462609973,
+    "wof:name":"Dental Design Studio",
+    "wof:parent_id":85818115,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.14906,
+    35.003807,
+    -85.14906,
+    35.003807
+],
+  "geometry": {"coordinates":[-85.14906000000001,35.003807],"type":"Point"}
+}

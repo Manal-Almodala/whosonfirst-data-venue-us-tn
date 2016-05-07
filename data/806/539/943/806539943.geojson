@@ -1,0 +1,73 @@
+{
+  "id": 806539943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.358521,36.526221,-87.358521,36.526221",
+    "geom:latitude":36.526221,
+    "geom:longitude":-87.358521,
+    "iso:country":"US",
+    "sg:address":"116 Commerce St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 648 0615",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "county",
+        "govt",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zkkJR4naGLBBkVla91CrF_36.526221_-87.358521@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598953,
+    "wof:geomhash":"00b0dac6715eb6dcbea139b46bfa5d0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":806539943
+        }
+    ],
+    "wof:id":806539943,
+    "wof:lastmodified":1462598953,
+    "wof:name":"Montgomery County Jail",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "govt",
+        "institution"
+    ]
+},
+  "bbox": [
+    -87.358521,
+    36.526221,
+    -87.358521,
+    36.526221
+],
+  "geometry": {"coordinates":[-87.358521,36.526221],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 773300101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.331297,36.325569,-82.331297,36.325569",
+    "geom:latitude":36.325569,
+    "geom:longitude":-82.331297,
+    "iso:country":"US",
+    "sg:address":"1411 E Main St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 928 3184",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85809563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00PZ9E72qKuk5RNoJ9tyWN_36.325569_-82.331297@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584681,
+    "wof:geomhash":"31d756964559d92ab4f18ba6dcac4351",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85809563,
+            "region_id":85688701,
+            "venue_id":773300101
+        }
+    ],
+    "wof:id":773300101,
+    "wof:lastmodified":1462584681,
+    "wof:name":"Bob's Check Cashing",
+    "wof:parent_id":85809563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking",
+        "check",
+        "cashing"
+    ]
+},
+  "bbox": [
+    -82.331297,
+    36.325569,
+    -82.331297,
+    36.325569
+],
+  "geometry": {"coordinates":[-82.33129700000001,36.325569],"type":"Point"}
+}

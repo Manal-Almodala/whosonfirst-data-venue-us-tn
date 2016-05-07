@@ -1,0 +1,83 @@
+{
+  "id": 823259971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.98361,35.941333,-83.98361,35.941333",
+    "geom:latitude":35.941333,
+    "geom:longitude":-83.98361,
+    "iso:country":"US",
+    "sg:address":"4849 Kingston Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Dairy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/230117-marble-slab-creamery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 766 0290",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85819883
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KD0xeIWECBITixg3JQvBO_35.941316_-83.983040@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609552,
+    "wof:geomhash":"fa39f0e85c94f344cd60338eb09bdd16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85819883,
+            "region_id":85688701,
+            "venue_id":823259971
+        }
+    ],
+    "wof:id":823259971,
+    "wof:lastmodified":1462609552,
+    "wof:name":"Marble Slab Creamery",
+    "wof:parent_id":85819883,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -83.98361,
+    35.941333,
+    -83.98361,
+    35.941333
+],
+  "geometry": {"coordinates":[-83.98361,35.941333],"type":"Point"}
+}

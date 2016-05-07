@@ -1,0 +1,87 @@
+{
+  "id": 806497243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.341968,36.500449,-87.341968,36.500449",
+    "geom:latitude":36.500449,
+    "geom:longitude":-87.341968,
+    "iso:country":"US",
+    "sg:address":"1521 Ashland City Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 551 4070",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85857915,
+        85809463
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OD8wrCKu9pnzf44KVrK0R_36.500449_-87.341968@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598602,
+    "wof:geomhash":"9408ce47ace6a510885d0d265d2f1e63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85857915,
+            "region_id":85688701,
+            "venue_id":806497243
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85809463,
+            "region_id":85688701,
+            "venue_id":806497243
+        }
+    ],
+    "wof:id":806497243,
+    "wof:lastmodified":1462598602,
+    "wof:name":"Penske Truck Rental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -87.341968,
+    36.500449,
+    -87.341968,
+    36.500449
+],
+  "geometry": {"coordinates":[-87.34196799999999,36.500449],"type":"Point"}
+}

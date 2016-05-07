@@ -1,0 +1,76 @@
+{
+  "id": 823259275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.209018,36.562434,-82.209018,36.562434",
+    "geom:latitude":36.562434,
+    "geom:longitude":-82.209018,
+    "iso:country":"US",
+    "sg:address":"1312 Volunteer Pkwy",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/bristol/139962-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 989 3093",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        85815249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78LTO5ctot8t1HLOwqmB7s_36.562994_-82.208476@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609538,
+    "wof:geomhash":"77967caf6ad1cbf7fd8ab9b7cc5b004a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":85815249,
+            "region_id":85688701,
+            "venue_id":823259275
+        }
+    ],
+    "wof:id":823259275,
+    "wof:lastmodified":1462609538,
+    "wof:name":"Subway",
+    "wof:parent_id":85815249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -82.209018,
+    36.562434,
+    -82.209018,
+    36.562434
+],
+  "geometry": {"coordinates":[-82.209018,36.562434],"type":"Point"}
+}

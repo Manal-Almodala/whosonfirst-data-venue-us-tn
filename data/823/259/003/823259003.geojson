@@ -1,0 +1,86 @@
+{
+  "id": 823259003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.21362,35.01222,-85.21362,35.01222",
+    "geom:latitude":35.01222,
+    "geom:longitude":-85.21362,
+    "iso:country":"US",
+    "sg:address":"5707 Brainerd Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/chattanooga/95101-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 490 0559",
+    "sg:postcode":"37411",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ul2mv936iCqBPqc0RHpDn_35.011728_-85.214105@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609530,
+    "wof:geomhash":"f86291606e9c47e8f0c92fdbc6fef621",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876729,
+            "region_id":85688701,
+            "venue_id":823259003
+        }
+    ],
+    "wof:id":823259003,
+    "wof:lastmodified":1462609530,
+    "wof:name":"IHOP",
+    "wof:parent_id":85876729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -85.21362,
+    35.01222,
+    -85.21362,
+    35.01222
+],
+  "geometry": {"coordinates":[-85.21362000000001,35.01222],"type":"Point"}
+}

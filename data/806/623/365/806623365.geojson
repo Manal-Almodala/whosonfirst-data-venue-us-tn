@@ -1,0 +1,71 @@
+{
+  "id": 806623365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.856613,35.240649,-89.856613,35.240649",
+    "geom:latitude":35.240649,
+    "geom:longitude":-89.856613,
+    "iso:country":"US",
+    "sg:address":"6220 Dana Cheryl Ln",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 388 1983",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_053OpFn2aBzKYYXe8LCIBB_35.240649_-89.856613@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599679,
+    "wof:geomhash":"194d77d6c52defd03d133c4ea9305fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":806623365
+        }
+    ],
+    "wof:id":806623365,
+    "wof:lastmodified":1462599679,
+    "wof:name":"Express Ambulance Inc",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -89.856613,
+    35.240649,
+    -89.856613,
+    35.240649
+],
+  "geometry": {"coordinates":[-89.856613,35.240649],"type":"Point"}
+}

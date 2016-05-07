@@ -1,0 +1,73 @@
+{
+  "id": 773464351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.515562,36.526628,-86.515562,36.526628",
+    "geom:latitude":36.526628,
+    "geom:longitude":-86.515562,
+    "iso:country":"US",
+    "sg:address":"399 N Centerpoint Rd",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 323 0054",
+    "sg:postcode":"37148",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21ImKSLg8SfHlG75Pt0G0V_36.526628_-86.515562@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585948,
+    "wof:geomhash":"9372fdea8b55573b4a0097692d2b9464",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773464351
+        }
+    ],
+    "wof:id":773464351,
+    "wof:lastmodified":1462585948,
+    "wof:name":"D & D Lock Svc",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.515562,
+    36.526628,
+    -86.515562,
+    36.526628
+],
+  "geometry": {"coordinates":[-86.515562,36.526628],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789711411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.296497,36.212881,-83.296497,36.212881",
+    "geom:latitude":36.212881,
+    "geom:longitude":-83.296497,
+    "iso:country":"US",
+    "sg:address":"412 W 1st North St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 318 9991",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kK2TWXOjoiEp9ETl2LwcE_36.212881_-83.296497@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589943,
+    "wof:geomhash":"925a14a1be6d4518e2dd3c03355e8650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789711411
+        }
+    ],
+    "wof:id":789711411,
+    "wof:lastmodified":1462589943,
+    "wof:name":"Sun Loan Co",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -83.296497,
+    36.212881,
+    -83.296497,
+    36.212881
+],
+  "geometry": {"coordinates":[-83.296497,36.212881],"type":"Point"}
+}

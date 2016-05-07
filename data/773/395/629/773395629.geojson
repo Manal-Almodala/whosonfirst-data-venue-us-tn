@@ -1,0 +1,71 @@
+{
+  "id": 773395629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.811358,35.060203,-89.811358,35.060203",
+    "geom:latitude":35.060203,
+    "geom:longitude":-89.811358,
+    "iso:country":"US",
+    "sg:address":"7542 Legacy Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 755 8480",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BegMWr6Nf8ZWFpCTNtE3H_35.060203_-89.811358@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585368,
+    "wof:geomhash":"af2d7052ecc652e618833cc13faaefa9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":773395629
+        }
+    ],
+    "wof:id":773395629,
+    "wof:lastmodified":1462585368,
+    "wof:name":"Wyndham Apartments",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -89.811358,
+    35.060203,
+    -89.811358,
+    35.060203
+],
+  "geometry": {"coordinates":[-89.811358,35.060203],"type":"Point"}
+}

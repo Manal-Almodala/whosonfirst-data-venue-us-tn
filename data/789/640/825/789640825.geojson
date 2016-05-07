@@ -1,0 +1,73 @@
+{
+  "id": 789640825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.185679,35.879819,-83.185679,35.879819",
+    "geom:latitude":35.879819,
+    "geom:longitude":-83.185679,
+    "iso:country":"US",
+    "sg:address":"1895 Hwy 73",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 8735",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53q71ET0DjkNjkkvvrvpgn_35.879819_-83.185679@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589380,
+    "wof:geomhash":"aaa4a4ecd7f27ef21d7599768a3c8f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":789640825
+        }
+    ],
+    "wof:id":789640825,
+    "wof:lastmodified":1462589380,
+    "wof:name":"Mountain View Restaurant",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -83.185679,
+    35.879819,
+    -83.185679,
+    35.879819
+],
+  "geometry": {"coordinates":[-83.18567899999999,35.879819],"type":"Point"}
+}

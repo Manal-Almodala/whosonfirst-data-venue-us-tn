@@ -1,0 +1,84 @@
+{
+  "id": 806944065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.924836,36.048606,-86.924836,36.048606",
+    "geom:latitude":36.048606,
+    "geom:longitude":-86.924836,
+    "iso:country":"US",
+    "sg:address":"907 N Meadow Ln",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 377 7730",
+    "sg:postcode":"37221",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85854361,
+        85853533
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pqXzSLcxv13vSVarVl5f1_36.048606_-86.924836@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602393,
+    "wof:geomhash":"d6d0ee6da365a5b29fc4892c83c1d2a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85854361,
+            "region_id":85688701,
+            "venue_id":806944065
+        },
+        {
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85853533,
+            "region_id":85688701,
+            "venue_id":806944065
+        }
+    ],
+    "wof:id":806944065,
+    "wof:lastmodified":1462602393,
+    "wof:name":"Post Square Shopping Cent",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -86.924836,
+    36.048606,
+    -86.924836,
+    36.048606
+],
+  "geometry": {"coordinates":[-86.924836,36.048606],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789901599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.555144,36.55195,-82.555144,36.55195",
+    "geom:latitude":36.55195,
+    "geom:longitude":-82.555144,
+    "iso:country":"US",
+    "sg:address":"117 W Sevier Ave",
+    "sg:city":"Kingsport",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 224 3300",
+    "sg:postcode":"37660",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722787,
+        102086471,
+        420560139
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SluzpWjkaHlhDsT3X9JqC_36.551950_-82.555144@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591458,
+    "wof:geomhash":"adef68afc81d628291cde153165e159b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722787,
+            "neighbourhood_id":420560139,
+            "region_id":85688701,
+            "venue_id":789901599
+        }
+    ],
+    "wof:id":789901599,
+    "wof:lastmodified":1462591458,
+    "wof:name":"Mountain Region Family Med",
+    "wof:parent_id":420560139,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.555144,
+    36.55195,
+    -82.555144,
+    36.55195
+],
+  "geometry": {"coordinates":[-82.555144,36.55195],"type":"Point"}
+}

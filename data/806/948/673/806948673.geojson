@@ -1,0 +1,75 @@
+{
+  "id": 806948673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.814277,35.18842,-84.814277,35.18842",
+    "geom:latitude":35.18842,
+    "geom:longitude":-84.814277,
+    "iso:country":"US",
+    "sg:address":"3917 Michigan Ave Rd NE",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 473 2550",
+    "sg:postcode":"37323",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85808527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nZSQG2Z4D0WJsBx28Z6Pw_35.188420_-84.814277@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602427,
+    "wof:geomhash":"d71200e09a455c45e6cbc21221eb0abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85808527,
+            "region_id":85688701,
+            "venue_id":806948673
+        }
+    ],
+    "wof:id":806948673,
+    "wof:lastmodified":1462602427,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85808527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.814277,
+    35.18842,
+    -84.814277,
+    35.18842
+],
+  "geometry": {"coordinates":[-84.814277,35.18842],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789926887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.736413,35.001253,-85.736413,35.001253",
+    "geom:latitude":35.001253,
+    "geom:longitude":-85.736413,
+    "iso:country":"US",
+    "sg:address":"225 Chance Rd",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 3822",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722495,
+        102086347,
+        420541913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hjhba2O34czp9IacoG0OH_35.001253_-85.736413@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591686,
+    "wof:geomhash":"acb1a02627d309e3c76acd485be1c7fc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":420541913,
+            "region_id":85688701,
+            "venue_id":789926887
+        }
+    ],
+    "wof:id":789926887,
+    "wof:lastmodified":1462591686,
+    "wof:name":"Irondale Volunteer Fire Dept",
+    "wof:parent_id":420541913,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -85.736413,
+    35.001253,
+    -85.736413,
+    35.001253
+],
+  "geometry": {"coordinates":[-85.736413,35.001253],"type":"Point"}
+}

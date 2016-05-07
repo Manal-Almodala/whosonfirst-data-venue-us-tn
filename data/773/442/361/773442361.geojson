@@ -1,0 +1,71 @@
+{
+  "id": 773442361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.105057,35.634581,-87.105057,35.634581",
+    "geom:latitude":35.634581,
+    "geom:longitude":-87.105057,
+    "iso:country":"US",
+    "sg:address":"1732 Monsanto Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 2039",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85819243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PQJRL0pL7Qz425EyOBOXw_35.634581_-87.105057@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585776,
+    "wof:geomhash":"79d21bfa9bf676f104fa515bac1c5326",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85819243,
+            "region_id":85688701,
+            "venue_id":773442361
+        }
+    ],
+    "wof:id":773442361,
+    "wof:lastmodified":1462585776,
+    "wof:name":"Mc Canless Trucking Co",
+    "wof:parent_id":85819243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.105057,
+    35.634581,
+    -87.105057,
+    35.634581
+],
+  "geometry": {"coordinates":[-87.105057,35.634581],"type":"Point"}
+}

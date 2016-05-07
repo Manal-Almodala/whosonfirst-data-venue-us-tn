@@ -1,0 +1,73 @@
+{
+  "id": 823243909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.33167,36.216264,-86.33167,36.216264",
+    "geom:latitude":36.216264,
+    "geom:longitude":-86.33167,
+    "iso:country":"US",
+    "sg:address":"1420 W Main St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/lebanon/203455-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19Q9U11XFKwE04vCSCmkNB_36.216264_-86.331670@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609218,
+    "wof:geomhash":"0fef163286f89bd73a6dde6067f0e606",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":823243909
+        }
+    ],
+    "wof:id":823243909,
+    "wof:lastmodified":1462609218,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.33167,
+    36.216264,
+    -86.33167,
+    36.216264
+],
+  "geometry": {"coordinates":[-86.33167,36.216264],"type":"Point"}
+}

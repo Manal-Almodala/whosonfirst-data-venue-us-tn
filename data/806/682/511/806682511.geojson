@@ -1,0 +1,73 @@
+{
+  "id": 806682511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.923838,36.023897,-83.923838,36.023897",
+    "geom:latitude":36.023897,
+    "geom:longitude":-83.923838,
+    "iso:country":"US",
+    "sg:address":"2910 Tazewell Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 687 1880",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z23gfFSivu8h7DetDsdTL_36.023897_-83.923838@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600190,
+    "wof:geomhash":"3c8a72762def94a2935718f19e13f5dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":806682511
+        }
+    ],
+    "wof:id":806682511,
+    "wof:lastmodified":1462600190,
+    "wof:name":"James E Fox MD",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.923838,
+    36.023897,
+    -83.923838,
+    36.023897
+],
+  "geometry": {"coordinates":[-83.923838,36.023897],"type":"Point"}
+}

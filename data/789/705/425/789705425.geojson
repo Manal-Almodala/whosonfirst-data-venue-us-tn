@@ -1,0 +1,73 @@
+{
+  "id": 789705425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.835026,35.615843,-88.835026,35.615843",
+    "geom:latitude":35.615843,
+    "geom:longitude":-88.835026,
+    "iso:country":"US",
+    "sg:address":"110 State St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 423 6640",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gKm6gMJvyqCqBqOSYpYMv_35.615843_-88.835026@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589895,
+    "wof:geomhash":"7fc6cad2cf95fd2bfa229b807c8d0a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":789705425
+        }
+    ],
+    "wof:id":789705425,
+    "wof:lastmodified":1462589895,
+    "wof:name":"Transportation Dept",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -88.835026,
+    35.615843,
+    -88.835026,
+    35.615843
+],
+  "geometry": {"coordinates":[-88.835026,35.615843],"type":"Point"}
+}

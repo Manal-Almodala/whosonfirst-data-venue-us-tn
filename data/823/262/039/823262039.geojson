@@ -1,0 +1,88 @@
+{
+  "id": 823262039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.32091,36.503837,-87.32091,36.503837",
+    "geom:latitude":36.503837,
+    "geom:longitude":-87.32091,
+    "iso:country":"US",
+    "sg:address":"1520 Vista Ln",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 546 9988",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrician",
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85811909
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e2lZfauCPwJFeEaoGISn2_36.503837_-87.320910@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609598,
+    "wof:geomhash":"4fcce4271757c8e61fc538f8b82f5d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85811909,
+            "region_id":85688701,
+            "venue_id":823262039
+        }
+    ],
+    "wof:id":823262039,
+    "wof:lastmodified":1462609598,
+    "wof:name":"Knight Electric",
+    "wof:parent_id":85811909,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "system",
+        "specialty",
+        "heating",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -87.32091,
+    36.503837,
+    -87.32091,
+    36.503837
+],
+  "geometry": {"coordinates":[-87.32091,36.503837],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806547813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.52823,35.899113,-86.52823,35.899113",
+    "geom:latitude":35.899113,
+    "geom:longitude":-86.52823,
+    "iso:country":"US",
+    "sg:address":"5544 Browns Chapel Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 907 2467",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11tlWdAZU4xtnE0m5gS56v_35.899113_-86.528230@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599017,
+    "wof:geomhash":"f819cd64d275ba694812f1d4eceacf0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":806547813
+        }
+    ],
+    "wof:id":806547813,
+    "wof:lastmodified":1462599017,
+    "wof:name":"Miller Rental",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -86.52823,
+    35.899113,
+    -86.52823,
+    35.899113
+],
+  "geometry": {"coordinates":[-86.52822999999999,35.899113],"type":"Point"}
+}

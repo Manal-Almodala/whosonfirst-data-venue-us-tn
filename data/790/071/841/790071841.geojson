@@ -1,0 +1,75 @@
+{
+  "id": 790071841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.062591,35.524562,-85.062591,35.524562",
+    "geom:latitude":35.524562,
+    "geom:longitude":-85.062591,
+    "iso:country":"US",
+    "sg:address":"865 Ogden Rd",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 6756",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26YLpmMJuc8ydHBSQDwrdz_35.524562_-85.062591@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592907,
+    "wof:geomhash":"56e613df6f8c998c316c92b312f3a386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":790071841
+        }
+    ],
+    "wof:id":790071841,
+    "wof:lastmodified":1462592907,
+    "wof:name":"Frank's Garage",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.062591,
+    35.524562,
+    -85.062591,
+    35.524562
+],
+  "geometry": {"coordinates":[-85.062591,35.524562],"type":"Point"}
+}

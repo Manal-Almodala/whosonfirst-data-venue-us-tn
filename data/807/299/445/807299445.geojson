@@ -1,0 +1,83 @@
+{
+  "id": 807299445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.20977,36.045176,-84.20977,36.045176",
+    "geom:latitude":36.045176,
+    "geom:longitude":-84.20977,
+    "iso:country":"US",
+    "sg:address":"101 Arcadia Ln",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 483 5609",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "residential",
+        "contract",
+        "on"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065,
+        85818003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y9YYe14rzgMn7IKmEQhgQ_36.045176_-84.209770@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605844,
+    "wof:geomhash":"69bbf8e91d5a13b26d9aec3673d9c5f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":807299445
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "neighbourhood_id":85818003,
+            "region_id":85688701,
+            "venue_id":807299445
+        }
+    ],
+    "wof:id":807299445,
+    "wof:lastmodified":1462605844,
+    "wof:name":"Seward B Norris Cnstr Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "contract",
+        "on"
+    ]
+},
+  "bbox": [
+    -84.20977,
+    36.045176,
+    -84.20977,
+    36.045176
+],
+  "geometry": {"coordinates":[-84.20977000000001,36.045176],"type":"Point"}
+}

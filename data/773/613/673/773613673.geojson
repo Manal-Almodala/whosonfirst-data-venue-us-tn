@@ -1,0 +1,73 @@
+{
+  "id": 773613673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.336408,35.223215,-87.336408,35.223215",
+    "geom:latitude":35.223215,
+    "geom:longitude":-87.336408,
+    "iso:country":"US",
+    "sg:address":"1331 S Locust Ave",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 766 0088",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pnKU6f2zCv469zK6JWwvS_35.223215_-87.336408@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587041,
+    "wof:geomhash":"ef7b700533ef4118e5b5c330dd29a4b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":773613673
+        }
+    ],
+    "wof:id":773613673,
+    "wof:lastmodified":1462587041,
+    "wof:name":"Tennessee Oncology",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.336408,
+    35.223215,
+    -87.336408,
+    35.223215
+],
+  "geometry": {"coordinates":[-87.33640800000001,35.223215],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 807007487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.005347,35.009125,-90.005347,35.009125",
+    "geom:latitude":35.009125,
+    "geom:longitude":-90.005347,
+    "iso:country":"US",
+    "sg:address":"1784 Keyes Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 344 8456",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85847303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TfpeZDmpHIljze86aAdKB_35.009125_-90.005347@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602923,
+    "wof:geomhash":"d6026a8706cd6378aeb9b68549bf4807",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85847303,
+            "region_id":85688701,
+            "venue_id":807007487
+        }
+    ],
+    "wof:id":807007487,
+    "wof:lastmodified":1462602923,
+    "wof:name":"Orr Trucking",
+    "wof:parent_id":85847303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.005347,
+    35.009125,
+    -90.005347,
+    35.009125
+],
+  "geometry": {"coordinates":[-90.005347,35.009125],"type":"Point"}
+}

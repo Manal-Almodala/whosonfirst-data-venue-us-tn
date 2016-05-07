@@ -1,0 +1,71 @@
+{
+  "id": 806871849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.99461,36.004524,-83.99461,36.004524",
+    "geom:latitude":36.004524,
+    "geom:longitude":-83.99461,
+    "iso:country":"US",
+    "sg:address":"1707 Nandina Dr NW",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 686 3386",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7S3Tex5wx6X4lVpcYaTBNj_36.004524_-83.994610@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601785,
+    "wof:geomhash":"e05830c1e28910cf97a33521187b0d29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":806871849
+        }
+    ],
+    "wof:id":806871849,
+    "wof:lastmodified":1462601785,
+    "wof:name":"Bubbas Wrecker",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.99461,
+    36.004524,
+    -83.99461,
+    36.004524
+],
+  "geometry": {"coordinates":[-83.99460999999999,36.004524],"type":"Point"}
+}

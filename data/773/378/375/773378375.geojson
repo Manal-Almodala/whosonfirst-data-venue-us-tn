@@ -1,0 +1,73 @@
+{
+  "id": 773378375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.766475,35.06328,-89.766475,35.06328",
+    "geom:latitude":35.06328,
+    "geom:longitude":-89.766475,
+    "iso:country":"US",
+    "sg:address":"8884 Cd Smith Rd",
+    "sg:city":"Germantown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 755 0213",
+    "sg:postcode":"38138",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2moGZNZZLf8Iu45MOd3UEa_35.063280_-89.766475@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585239,
+    "wof:geomhash":"f818990bee9d670393dab025783663a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":773378375
+        }
+    ],
+    "wof:id":773378375,
+    "wof:lastmodified":1462585239,
+    "wof:name":"Davis Delivery Service",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.766475,
+    35.06328,
+    -89.766475,
+    35.06328
+],
+  "geometry": {"coordinates":[-89.766475,35.06328],"type":"Point"}
+}

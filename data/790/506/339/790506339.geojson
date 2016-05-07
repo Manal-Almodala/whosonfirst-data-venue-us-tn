@@ -1,0 +1,76 @@
+{
+  "id": 790506339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.679226,36.180711,-82.679226,36.180711",
+    "geom:latitude":36.180711,
+    "geom:longitude":-82.679226,
+    "iso:country":"US",
+    "sg:address":"495 Mitchel Rd",
+    "sg:city":"Chuckey",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 257 5917",
+    "sg:postcode":"37641",
+    "sg:province":"TN",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722677,
+        102086377,
+        85842363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qcInHr9UJ8QBxTGpVCpa1_36.180711_-82.679226@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596421,
+    "wof:geomhash":"f4c5cb76d9d333d94344e9e3ca14a984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722677,
+            "neighbourhood_id":85842363,
+            "region_id":85688701,
+            "venue_id":790506339
+        }
+    ],
+    "wof:id":790506339,
+    "wof:lastmodified":1462596421,
+    "wof:name":"Mountain View Bakery",
+    "wof:parent_id":85842363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -82.679226,
+    36.180711,
+    -82.679226,
+    36.180711
+],
+  "geometry": {"coordinates":[-82.679226,36.180711],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823260785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.896678,35.236409,-89.896678,35.236409",
+    "geom:latitude":35.236409,
+    "geom:longitude":-89.896678,
+    "iso:country":"US",
+    "sg:address":"4030 Wk Singleton Pky",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/29940-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 362 3333",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wCqv7oIiUzhzovZbDghOn_35.235944_-89.896427@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609566,
+    "wof:geomhash":"fca521746f74a11606b01db805ec83f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823260785
+        }
+    ],
+    "wof:id":823260785,
+    "wof:lastmodified":1462609566,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.896678,
+    35.236409,
+    -89.896678,
+    35.236409
+],
+  "geometry": {"coordinates":[-89.89667799999999,35.236409],"type":"Point"}
+}

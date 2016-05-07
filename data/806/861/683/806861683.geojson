@@ -1,0 +1,82 @@
+{
+  "id": 806861683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.012575,35.952104,-85.012575,35.952104",
+    "geom:latitude":35.952104,
+    "geom:longitude":-85.012575,
+    "iso:country":"US",
+    "sg:address":"805 E 1st St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 707 5559",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809,
+        102191575,
+        85824095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_505OUuCdKR1tTXV1Je2Ou6_35.952104_-85.012575@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601703,
+    "wof:geomhash":"4f46905fba32e6c90e36fe1b615cc1a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":806861683
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85824095,
+            "region_id":85688701,
+            "venue_id":806861683
+        }
+    ],
+    "wof:id":806861683,
+    "wof:lastmodified":1462601703,
+    "wof:name":"Coopers Used Cars",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -85.012575,
+    35.952104,
+    -85.012575,
+    35.952104
+],
+  "geometry": {"coordinates":[-85.012575,35.952104],"type":"Point"}
+}

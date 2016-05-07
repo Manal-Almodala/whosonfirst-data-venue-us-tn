@@ -1,0 +1,76 @@
+{
+  "id": 823244629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.426082,35.846842,-86.426082,35.846842",
+    "geom:latitude":35.846842,
+    "geom:longitude":-86.426082,
+    "iso:country":"US",
+    "sg:address":"1970 Old Fort Pkwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/102910-panera-bread/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 217 2757",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kOVOMfFgnEMcD79j5NOBw_35.846842_-86.426082@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609230,
+    "wof:geomhash":"6e0ec13f7cb69d847c74b46c97becde7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823244629
+        }
+    ],
+    "wof:id":823244629,
+    "wof:lastmodified":1462609230,
+    "wof:name":"Panera Bread",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -86.426082,
+    35.846842,
+    -86.426082,
+    35.846842
+],
+  "geometry": {"coordinates":[-86.42608199999999,35.846842],"type":"Point"}
+}

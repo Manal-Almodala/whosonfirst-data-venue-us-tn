@@ -1,0 +1,71 @@
+{
+  "id": 789636207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.818816,36.170159,-82.818816,36.170159",
+    "geom:latitude":36.170159,
+    "geom:longitude":-82.818816,
+    "iso:country":"US",
+    "sg:address":"538 Tusculum Blvd",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 638 5791",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6T5yXaS3Lb1E8rNfF6ikxx_36.170159_-82.818816@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589347,
+    "wof:geomhash":"ac6efdac81712009b6a25cafd2831bfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":789636207
+        }
+    ],
+    "wof:id":789636207,
+    "wof:lastmodified":1462589347,
+    "wof:name":"Brian D Smith DDS",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.818816,
+    36.170159,
+    -82.818816,
+    36.170159
+],
+  "geometry": {"coordinates":[-82.818816,36.170159],"type":"Point"}
+}

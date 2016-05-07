@@ -1,0 +1,75 @@
+{
+  "id": 789789671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.221143,36.35219,-82.221143,36.35219",
+    "geom:latitude":36.35219,
+    "geom:longitude":-82.221143,
+    "iso:country":"US",
+    "sg:address":"314 Merry Dr",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 547 9000",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85816779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bE7OU4Ho0iRcyxe3ObB0S_36.352190_-82.221143@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590563,
+    "wof:geomhash":"a1ffb9f8517f7dfa0be99fdcbc18f42b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85816779,
+            "region_id":85688701,
+            "venue_id":789789671
+        }
+    ],
+    "wof:id":789789671,
+    "wof:lastmodified":1462590563,
+    "wof:name":"Doe River Telephone",
+    "wof:parent_id":85816779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -82.221143,
+    36.35219,
+    -82.221143,
+    36.35219
+],
+  "geometry": {"coordinates":[-82.221143,36.35219],"type":"Point"}
+}

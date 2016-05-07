@@ -1,0 +1,73 @@
+{
+  "id": 806689265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.806676,35.031733,-89.806676,35.031733",
+    "geom:latitude":35.031733,
+    "geom:longitude":-89.806676,
+    "iso:country":"US",
+    "sg:address":"4274 Willow Pond Cove",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 737 3748",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KQPN2SceCqXDj8RvuMm8B_35.031733_-89.806676@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600247,
+    "wof:geomhash":"6bf14ae5538c2be27c65c7e8fb0c7710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":806689265
+        }
+    ],
+    "wof:id":806689265,
+    "wof:lastmodified":1462600247,
+    "wof:name":"W Woods Trucking",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.806676,
+    35.031733,
+    -89.806676,
+    35.031733
+],
+  "geometry": {"coordinates":[-89.806676,35.031733],"type":"Point"}
+}

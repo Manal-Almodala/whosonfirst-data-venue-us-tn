@@ -1,0 +1,74 @@
+{
+  "id": 806679287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.903189,36.129572,-86.903189,36.129572",
+    "geom:latitude":36.129572,
+    "geom:longitude":-86.903189,
+    "iso:country":"US",
+    "sg:address":"6950 Charlotte Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 352 9798",
+    "sg:postcode":"37209",
+    "sg:province":"TN",
+    "sg:tags":[
+        "handicapped"
+    ],
+    "sg:website":"www.prisonertransportation.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85855925
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r5jmzhtKrkBewFVDu0xlG_36.129572_-86.903189@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600165,
+    "wof:geomhash":"6db6234757811e1d7265d046ba861238",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85855925,
+            "region_id":85688701,
+            "venue_id":806679287
+        }
+    ],
+    "wof:id":806679287,
+    "wof:lastmodified":1462600165,
+    "wof:name":"Prisoner Transportation Svc",
+    "wof:parent_id":85855925,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handicapped"
+    ]
+},
+  "bbox": [
+    -86.903189,
+    36.129572,
+    -86.903189,
+    36.129572
+],
+  "geometry": {"coordinates":[-86.903189,36.129572],"type":"Point"}
+}

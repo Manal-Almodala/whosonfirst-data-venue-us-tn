@@ -1,0 +1,73 @@
+{
+  "id": 806723501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.313091,36.237829,-83.313091,36.237829",
+    "geom:latitude":36.237829,
+    "geom:longitude":-83.313091,
+    "iso:country":"US",
+    "sg:address":"500 Noes Chapel Rd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 585 5769",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38tzTQU1KmaG38EXywanUU_36.237829_-83.313091@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600532,
+    "wof:geomhash":"129d49f1caeb82978c5c3ee2f86ea1c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":806723501
+        }
+    ],
+    "wof:id":806723501,
+    "wof:lastmodified":1462600532,
+    "wof:name":"WCRK Radio Station",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -83.313091,
+    36.237829,
+    -83.313091,
+    36.237829
+],
+  "geometry": {"coordinates":[-83.313091,36.237829],"type":"Point"}
+}

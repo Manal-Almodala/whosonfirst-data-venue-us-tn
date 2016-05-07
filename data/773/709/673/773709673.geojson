@@ -1,0 +1,74 @@
+{
+  "id": 773709673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.627646,35.960672,-85.627646,35.960672",
+    "geom:latitude":35.960672,
+    "geom:longitude":-85.627646,
+    "iso:country":"US",
+    "sg:address":"207 Doan Rd",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 738 9191",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer",
+        "supermarket"
+    ],
+    "sg:website":"www.kroger.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lQPCNKNghgU015CdShVQg_35.960672_-85.627646@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587801,
+    "wof:geomhash":"acbd4681ae5fbef2e3704c0f50b9ffb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":773709673
+        }
+    ],
+    "wof:id":773709673,
+    "wof:lastmodified":1462587801,
+    "wof:name":"Kroger",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -85.627646,
+    35.960672,
+    -85.627646,
+    35.960672
+],
+  "geometry": {"coordinates":[-85.627646,35.960672],"type":"Point"}
+}

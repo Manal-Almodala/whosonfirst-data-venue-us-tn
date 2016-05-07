@@ -1,0 +1,87 @@
+{
+  "id": 773569669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.951847,35.753593,-83.951847,35.753593",
+    "geom:latitude":35.753593,
+    "geom:longitude":-83.951847,
+    "iso:country":"US",
+    "sg:address":"616 Smithview Dr",
+    "sg:city":"Maryville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 379 2277",
+    "sg:postcode":"37803",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722701,
+        102087017,
+        85838943,
+        85825587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Q7S5s2wWcCX7OMsh67hQA_35.753593_-83.951847@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586717,
+    "wof:geomhash":"67f6c122d9201c752399413b125c18be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85838943,
+            "region_id":85688701,
+            "venue_id":773569669
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85825587,
+            "region_id":85688701,
+            "venue_id":773569669
+        }
+    ],
+    "wof:id":773569669,
+    "wof:lastmodified":1462586717,
+    "wof:name":"Cedar Creek Pediatric Med",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.951847,
+    35.753593,
+    -83.951847,
+    35.753593
+],
+  "geometry": {"coordinates":[-83.951847,35.753593],"type":"Point"}
+}

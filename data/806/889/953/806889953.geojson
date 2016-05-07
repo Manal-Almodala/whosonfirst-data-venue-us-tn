@@ -1,0 +1,73 @@
+{
+  "id": 806889953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.091039,35.176023,-86.091039,35.176023",
+    "geom:latitude":35.176023,
+    "geom:longitude":-86.091039,
+    "iso:country":"US",
+    "sg:address":"183 Hospital Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 8656",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EYJ97VbzZLsdWMAj34j5Y_35.176023_-86.091039@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601932,
+    "wof:geomhash":"5e3ed9eb29eb04a2cbcbbb27d244d7e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":806889953
+        }
+    ],
+    "wof:id":806889953,
+    "wof:lastmodified":1462601932,
+    "wof:name":"Associated Pathologists",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.091039,
+    35.176023,
+    -86.091039,
+    35.176023
+],
+  "geometry": {"coordinates":[-86.09103899999999,35.176023],"type":"Point"}
+}

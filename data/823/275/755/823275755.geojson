@@ -1,0 +1,79 @@
+{
+  "id": 823275755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.791404,35.168373,-89.791404,35.168373",
+    "geom:latitude":35.168373,
+    "geom:longitude":-89.791404,
+    "iso:country":"US",
+    "sg:address":"1660 Bonnie Ln",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 888 1000",
+    "sg:postcode":"38016",
+    "sg:province":"TN",
+    "sg:tags":[
+        "control",
+        "weight"
+    ],
+    "sg:website":"http://www.cordovamedical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85812297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_309NORYAzHrpAzvdvVJwsU_35.168373_-89.791404@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610139,
+    "wof:geomhash":"b4f05107fa8f811db530c41d49d2c59c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85812297,
+            "region_id":85688701,
+            "venue_id":823275755
+        }
+    ],
+    "wof:id":823275755,
+    "wof:lastmodified":1462610139,
+    "wof:name":"Cordova Medical Clinic",
+    "wof:parent_id":85812297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "weight"
+    ]
+},
+  "bbox": [
+    -89.791404,
+    35.168373,
+    -89.791404,
+    35.168373
+],
+  "geometry": {"coordinates":[-89.791404,35.168373],"type":"Point"}
+}

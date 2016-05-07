@@ -1,0 +1,71 @@
+{
+  "id": 789743117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.092663,35.172819,-86.092663,35.172819",
+    "geom:latitude":35.172819,
+    "geom:longitude":-86.092663,
+    "iso:country":"US",
+    "sg:address":"912 Country Club Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 1827",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CefCtXEk80fjMFxKGKYt0_35.172819_-86.092663@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590200,
+    "wof:geomhash":"5fec522b5cdfd8838d2f360031d9561b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":789743117
+        }
+    ],
+    "wof:id":789743117,
+    "wof:lastmodified":1462590200,
+    "wof:name":"Franklin County Country Club",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -86.092663,
+    35.172819,
+    -86.092663,
+    35.172819
+],
+  "geometry": {"coordinates":[-86.092663,35.172819],"type":"Point"}
+}

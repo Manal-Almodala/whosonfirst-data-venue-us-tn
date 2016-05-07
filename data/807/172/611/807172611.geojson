@@ -1,0 +1,80 @@
+{
+  "id": 807172611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.896525,35.178907,-89.896525,35.178907",
+    "geom:latitude":35.178907,
+    "geom:longitude":-89.896525,
+    "iso:country":"US",
+    "sg:address":"1969 Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 385 8588",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YWMFHBvbV3g43Vg7xEmP8_35.178907_-89.896525@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604513,
+    "wof:geomhash":"7700a119e34ce8e8b8dc77f948f739b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":807172611
+        }
+    ],
+    "wof:id":807172611,
+    "wof:lastmodified":1462604513,
+    "wof:name":"Enterprise Rent A Car",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -89.896525,
+    35.178907,
+    -89.896525,
+    35.178907
+],
+  "geometry": {"coordinates":[-89.896525,35.178907],"type":"Point"}
+}

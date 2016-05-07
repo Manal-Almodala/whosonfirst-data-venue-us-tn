@@ -1,0 +1,71 @@
+{
+  "id": 807343161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.29017,36.210505,-83.29017,36.210505",
+    "geom:latitude":36.210505,
+    "geom:longitude":-83.29017,
+    "iso:country":"US",
+    "sg:address":"440 S Cumberland St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 1410",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_461RO0tYUVUW2fOYKULZf9_36.210505_-83.290170@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606391,
+    "wof:geomhash":"03776cc4afdb0cd757fc4661e62b9623",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807343161
+        }
+    ],
+    "wof:id":807343161,
+    "wof:lastmodified":1462606391,
+    "wof:name":"Village Cleaners",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -83.29017,
+    36.210505,
+    -83.29017,
+    36.210505
+],
+  "geometry": {"coordinates":[-83.29017,36.210505],"type":"Point"}
+}

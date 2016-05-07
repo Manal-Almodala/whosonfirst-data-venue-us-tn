@@ -1,0 +1,71 @@
+{
+  "id": 789659229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.20721,35.828706,-83.20721,35.828706",
+    "geom:latitude":35.828706,
+    "geom:longitude":-83.20721,
+    "iso:country":"US",
+    "sg:address":"331 Baum Way",
+    "sg:city":"Cosby",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 487 2673",
+    "sg:postcode":"37722",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BFBS5jisSYOxkgXM0gERs_35.828706_-83.207210@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589523,
+    "wof:geomhash":"79105143840eb512653a3b574fcb390f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":789659229
+        }
+    ],
+    "wof:id":789659229,
+    "wof:lastmodified":1462589523,
+    "wof:name":"Baums Smokey Mountain Log Cab",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -83.20721,
+    35.828706,
+    -83.20721,
+    35.828706
+],
+  "geometry": {"coordinates":[-83.20721,35.828706],"type":"Point"}
+}

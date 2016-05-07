@@ -1,0 +1,71 @@
+{
+  "id": 806916841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.472014,35.929455,-85.472014,35.929455",
+    "geom:latitude":35.929455,
+    "geom:longitude":-85.472014,
+    "iso:country":"US",
+    "sg:address":"323 W Bockman Way",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 836 3734",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40930ricXz69wHoN0YG08a_35.929455_-85.472014@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602149,
+    "wof:geomhash":"6adfc71805f3cc700f9ec354d63efe2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":806916841
+        }
+    ],
+    "wof:id":806916841,
+    "wof:lastmodified":1462602149,
+    "wof:name":"Sparta Police Dept",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.472014,
+    35.929455,
+    -85.472014,
+    35.929455
+],
+  "geometry": {"coordinates":[-85.472014,35.929455],"type":"Point"}
+}

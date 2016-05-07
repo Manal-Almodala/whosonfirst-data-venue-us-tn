@@ -1,0 +1,83 @@
+{
+  "id": 806405541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.881467,35.05053,-89.881467,35.05053",
+    "geom:latitude":35.05053,
+    "geom:longitude":-89.881467,
+    "iso:country":"US",
+    "sg:address":"5458 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 363 7391",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u1diIrWsmpoizlPnKJQWn_35.050530_-89.881467@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597878,
+    "wof:geomhash":"bcb558e2232fde9ff41fcb1bbf3e100a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":806405541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":806405541
+        }
+    ],
+    "wof:id":806405541,
+    "wof:lastmodified":1462597878,
+    "wof:name":"Winchester White Swan Cleaners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -89.881467,
+    35.05053,
+    -89.881467,
+    35.05053
+],
+  "geometry": {"coordinates":[-89.881467,35.05053],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789741917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.258151,35.055526,-86.258151,35.055526",
+    "geom:latitude":35.055526,
+    "geom:longitude":-86.258151,
+    "iso:country":"US",
+    "sg:address":"710 Cumberland Blvd",
+    "sg:city":"Huntland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 469 7544",
+    "sg:postcode":"37345",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jrdXojZeavl0zS1xrypoW_35.055526_-86.258151@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590191,
+    "wof:geomhash":"7601d3fc42c7f291efa51e038546b32a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":789741917
+        }
+    ],
+    "wof:id":789741917,
+    "wof:lastmodified":1462590191,
+    "wof:name":"Dacco Inc",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.258151,
+    35.055526,
+    -86.258151,
+    35.055526
+],
+  "geometry": {"coordinates":[-86.258151,35.055526],"type":"Point"}
+}

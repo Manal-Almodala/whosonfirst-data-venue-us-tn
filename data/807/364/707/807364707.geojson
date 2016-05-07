@@ -1,0 +1,71 @@
+{
+  "id": 807364707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.96339,35.935313,-86.96339,35.935313",
+    "geom:latitude":35.935313,
+    "geom:longitude":-86.96339,
+    "iso:country":"US",
+    "sg:address":"1996 Old Hillsboro Rd",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 794 2660",
+    "sg:postcode":"37064",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723093,
+        102086337,
+        85845729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PfTf3OEWr3EXyLUmd3SlT_35.935313_-86.963390@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606716,
+    "wof:geomhash":"dc82e599a005e8ac3d48aa4e7ce5243c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85845729,
+            "region_id":85688701,
+            "venue_id":807364707
+        }
+    ],
+    "wof:id":807364707,
+    "wof:lastmodified":1462606716,
+    "wof:name":"House Kennel Farm Call Clinic",
+    "wof:parent_id":85845729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.96339,
+    35.935313,
+    -86.96339,
+    35.935313
+],
+  "geometry": {"coordinates":[-86.96339,35.935313],"type":"Point"}
+}

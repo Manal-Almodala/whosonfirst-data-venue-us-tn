@@ -1,0 +1,71 @@
+{
+  "id": 790073833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.113201,35.185738,-86.113201,35.185738",
+    "geom:latitude":35.185738,
+    "geom:longitude":-86.113201,
+    "iso:country":"US",
+    "sg:address":"7 S High St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 5120",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lZjLuqPkWb1e9sCxbi2mN_35.185738_-86.113201@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592922,
+    "wof:geomhash":"3d8a6a7dcb2df1a1d9aae5ee37b2f191",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":790073833
+        }
+    ],
+    "wof:id":790073833,
+    "wof:lastmodified":1462592922,
+    "wof:name":"Decherd City Police Dept",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.113201,
+    35.185738,
+    -86.113201,
+    35.185738
+],
+  "geometry": {"coordinates":[-86.113201,35.185738],"type":"Point"}
+}

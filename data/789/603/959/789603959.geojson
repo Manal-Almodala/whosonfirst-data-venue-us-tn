@@ -1,0 +1,73 @@
+{
+  "id": 789603959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.111232,35.185009,-86.111232,35.185009",
+    "geom:latitude":35.185009,
+    "geom:longitude":-86.111232,
+    "iso:country":"US",
+    "sg:address":"200 S Jefferson St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 2521",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "farm",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PVP7KYBlzhDUuowApxc8i_35.185009_-86.111232@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589096,
+    "wof:geomhash":"b174b7e06e9cd7c80fac983bf8f7f59a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":789603959
+        }
+    ],
+    "wof:id":789603959,
+    "wof:lastmodified":1462589096,
+    "wof:name":"Farm Service Agency",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "agency"
+    ]
+},
+  "bbox": [
+    -86.111232,
+    35.185009,
+    -86.111232,
+    35.185009
+],
+  "geometry": {"coordinates":[-86.111232,35.185009],"type":"Point"}
+}

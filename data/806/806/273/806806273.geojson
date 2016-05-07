@@ -1,0 +1,73 @@
+{
+  "id": 806806273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.925238,36.039684,-83.925238,36.039684",
+    "geom:latitude":36.039684,
+    "geom:longitude":-83.925238,
+    "iso:country":"US",
+    "sg:address":"5300 Marion Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 3151",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XqmiVbmc9u94RAK1yg1JI_36.039684_-83.925238@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601236,
+    "wof:geomhash":"87b662ec959b30b19d7336674ac8c7de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":806806273
+        }
+    ],
+    "wof:id":806806273,
+    "wof:lastmodified":1462601236,
+    "wof:name":"Dyer Dental Laboratory",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -83.925238,
+    36.039684,
+    -83.925238,
+    36.039684
+],
+  "geometry": {"coordinates":[-83.92523799999999,36.039684],"type":"Point"}
+}

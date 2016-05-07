@@ -1,0 +1,92 @@
+{
+  "id": 823291773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.846186,35.227191,-89.846186,35.227191",
+    "geom:latitude":35.227191,
+    "geom:longitude":-89.846186,
+    "iso:country":"US",
+    "sg:address":"6520 Memphis Arlington Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 386 6297",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "control",
+        "monitoring",
+        "supply",
+        "system",
+        "equipment",
+        "location"
+    ],
+    "sg:website":"http://www.diebold.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27nRy18DBDsSjL3xGStDpJ_35.227191_-89.846186@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1462610772,
+    "wof:geomhash":"10f93b18632f57304a3a2937066bc940",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823291773
+        }
+    ],
+    "wof:id":823291773,
+    "wof:lastmodified":1462610772,
+    "wof:name":"Diebold",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "monitoring",
+        "supply",
+        "system",
+        "equipment",
+        "location"
+    ]
+},
+  "bbox": [
+    -89.846186,
+    35.227191,
+    -89.846186,
+    35.227191
+],
+  "geometry": {"coordinates":[-89.846186,35.227191],"type":"Point"}
+}

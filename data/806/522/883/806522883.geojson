@@ -1,0 +1,71 @@
+{
+  "id": 806522883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.787115,35.449035,-86.787115,35.449035",
+    "geom:latitude":35.449035,
+    "geom:longitude":-86.787115,
+    "iso:country":"US",
+    "sg:address":"122 E Commerce St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 270 7888",
+    "sg:postcode":"37091",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722897,
+        102087115,
+        85811699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nsPNlcdAV4cauT4QXD2h0_35.449035_-86.787115@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598808,
+    "wof:geomhash":"0daab6369492946dd8f38cab59de2194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "locality_id":101722897,
+            "neighbourhood_id":85811699,
+            "region_id":85688701,
+            "venue_id":806522883
+        }
+    ],
+    "wof:id":806522883,
+    "wof:lastmodified":1462598808,
+    "wof:name":"Lewisburg Medical Clinic Inc",
+    "wof:parent_id":85811699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.787115,
+    35.449035,
+    -86.787115,
+    35.449035
+],
+  "geometry": {"coordinates":[-86.787115,35.449035],"type":"Point"}
+}

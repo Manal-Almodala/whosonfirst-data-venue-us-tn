@@ -1,0 +1,78 @@
+{
+  "id": 823261399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.512643,36.137334,-85.512643,36.137334",
+    "geom:latitude":36.137334,
+    "geom:longitude":-85.512643,
+    "iso:country":"US",
+    "sg:address":"1420 Interstate Dr",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/cookeville/88825-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 553 9203",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bacEHhHFDCXxVwNSGqLHq_36.137671_-85.512221@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609577,
+    "wof:geomhash":"e0f569a479ed4f690b5373d95f0212f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":823261399
+        }
+    ],
+    "wof:id":823261399,
+    "wof:lastmodified":1462609577,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.512643,
+    36.137334,
+    -85.512643,
+    36.137334
+],
+  "geometry": {"coordinates":[-85.512643,36.137334],"type":"Point"}
+}

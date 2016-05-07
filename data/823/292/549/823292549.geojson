@@ -1,0 +1,73 @@
+{
+  "id": 823292549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.85264,35.016448,-89.85264,35.016448",
+    "geom:latitude":35.016448,
+    "geom:longitude":-89.85264,
+    "iso:country":"US",
+    "sg:address":"4905 Southridge Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 360 0292",
+    "sg:postcode":"38141",
+    "sg:province":"TN",
+    "sg:tags":[
+        "forwarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BvLfF05rHTAG2h6iFHhfD_35.016448_-89.852640@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1462610811,
+    "wof:geomhash":"f6f5e0451ddc0d42ed9e99966cc596c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870781,
+            "region_id":85688701,
+            "venue_id":823292549
+        }
+    ],
+    "wof:id":823292549,
+    "wof:lastmodified":1462610811,
+    "wof:name":"Forward Logistics Group",
+    "wof:parent_id":85870781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -89.85264,
+    35.016448,
+    -89.85264,
+    35.016448
+],
+  "geometry": {"coordinates":[-89.85263999999999,35.016448],"type":"Point"}
+}

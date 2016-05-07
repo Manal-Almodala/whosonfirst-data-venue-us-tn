@@ -1,0 +1,71 @@
+{
+  "id": 807001421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.254832,36.4456,-82.254832,36.4456",
+    "geom:latitude":36.4456,
+    "geom:longitude":-82.254832,
+    "iso:country":"US",
+    "sg:address":"346 Pine Ridge Rd",
+    "sg:city":"Bluff City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 538 5824",
+    "sg:postcode":"37618",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722907,
+        102086471,
+        85825439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rVOht6JEpsjqIuCAyLDTD_36.445600_-82.254832@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602871,
+    "wof:geomhash":"cb86a4cededfe8fc4d27a2f93ecbc35c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722907,
+            "neighbourhood_id":85825439,
+            "region_id":85688701,
+            "venue_id":807001421
+        }
+    ],
+    "wof:id":807001421,
+    "wof:lastmodified":1462602871,
+    "wof:name":"Motor Master",
+    "wof:parent_id":85825439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -82.254832,
+    36.4456,
+    -82.254832,
+    36.4456
+],
+  "geometry": {"coordinates":[-82.25483199999999,36.4456],"type":"Point"}
+}

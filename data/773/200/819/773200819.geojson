@@ -1,0 +1,85 @@
+{
+  "id": 773200819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.697838,36.386527,-86.697838,36.386527",
+    "geom:latitude":36.386527,
+    "geom:longitude":-86.697838,
+    "iso:country":"US",
+    "sg:address":"1290 Louisville Hwy",
+    "sg:city":"Goodlettsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 545 8891",
+    "sg:postcode":"37072",
+    "sg:province":"TN",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722997,
+        102086357,
+        420542223,
+        420541507
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_082fSZn4LxkK8di8pIzHmP_36.386527_-86.697838@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583937,
+    "wof:geomhash":"a8af6b1f12476972bcc0b1e71867eb6c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420542223,
+            "region_id":85688701,
+            "venue_id":773200819
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420541507,
+            "region_id":85688701,
+            "venue_id":773200819
+        }
+    ],
+    "wof:id":773200819,
+    "wof:lastmodified":1462583937,
+    "wof:name":"AAA Auto Glass",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -86.697838,
+    36.386527,
+    -86.697838,
+    36.386527
+],
+  "geometry": {"coordinates":[-86.697838,36.386527],"type":"Point"}
+}

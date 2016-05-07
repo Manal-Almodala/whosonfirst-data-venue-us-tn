@@ -1,0 +1,73 @@
+{
+  "id": 773766267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.008049,35.243121,-90.008049,35.243121",
+    "geom:latitude":35.243121,
+    "geom:longitude":-90.008049,
+    "iso:country":"US",
+    "sg:address":"4296 US Hwy 51 N",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 358 6333",
+    "sg:postcode":"38127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85820619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aN5zwtWKlsYqp3C9yPijl_35.243121_-90.008049@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588215,
+    "wof:geomhash":"2cc0dfcfb2a257a4bd876472506cf641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85820619,
+            "region_id":85688701,
+            "venue_id":773766267
+        }
+    ],
+    "wof:id":773766267,
+    "wof:lastmodified":1462588215,
+    "wof:name":"Boyd's Wrecker Svc",
+    "wof:parent_id":85820619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -90.008049,
+    35.243121,
+    -90.008049,
+    35.243121
+],
+  "geometry": {"coordinates":[-90.008049,35.243121],"type":"Point"}
+}

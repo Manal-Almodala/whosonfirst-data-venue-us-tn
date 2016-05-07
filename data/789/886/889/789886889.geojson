@@ -1,0 +1,82 @@
+{
+  "id": 789886889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.91531,35.215017,-89.91531,35.215017",
+    "geom:latitude":35.215017,
+    "geom:longitude":-89.91531,
+    "iso:country":"US",
+    "sg:address":"3271 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 388 8370",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dNa0uZNvMiPdM1sogIyt4_35.215017_-89.915310@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591345,
+    "wof:geomhash":"4e860e0aa08bed6594198cf7cc6b1cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789886889
+        }
+    ],
+    "wof:id":789886889,
+    "wof:lastmodified":1462591345,
+    "wof:name":"Video Magic Raleigh",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "disc",
+        "tape",
+        "cassette"
+    ]
+},
+  "bbox": [
+    -89.91531,
+    35.215017,
+    -89.91531,
+    35.215017
+],
+  "geometry": {"coordinates":[-89.91531000000001,35.215017],"type":"Point"}
+}

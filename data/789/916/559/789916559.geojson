@@ -1,0 +1,73 @@
+{
+  "id": 789916559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.989226,35.108945,-89.989226,35.108945",
+    "geom:latitude":35.108945,
+    "geom:longitude":-89.989226,
+    "iso:country":"US",
+    "sg:address":"2203 Lamar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 320 5350",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542111
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yfxy9sfOiEX8dHGFa5Xlc_35.108945_-89.989226@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591595,
+    "wof:geomhash":"eb7a8575796c0ae7c1ba3fbcbac29529",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542111,
+            "region_id":85688701,
+            "venue_id":789916559
+        }
+    ],
+    "wof:id":789916559,
+    "wof:lastmodified":1462591595,
+    "wof:name":"Memphis Fire Div-Air Mask Svc",
+    "wof:parent_id":420542111,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.989226,
+    35.108945,
+    -89.989226,
+    35.108945
+],
+  "geometry": {"coordinates":[-89.989226,35.108945],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823132183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.827673,36.041898,-83.827673,36.041898",
+    "geom:latitude":36.041898,
+    "geom:longitude":-83.827673,
+    "iso:country":"US",
+    "sg:address":"1903 Rosewood Rd NE",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 524 4800",
+    "sg:postcode":"37924",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission",
+        "tractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tePwSwqQd2T3qkHQoFMrO_36.041898_-83.827673@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607368,
+    "wof:geomhash":"84422c04b248e47ef4c3ca2ecb76acf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":823132183
+        }
+    ],
+    "wof:id":823132183,
+    "wof:lastmodified":1462607368,
+    "wof:name":"Mid South Gear Specialist",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "tractor"
+    ]
+},
+  "bbox": [
+    -83.827673,
+    36.041898,
+    -83.827673,
+    36.041898
+],
+  "geometry": {"coordinates":[-83.827673,36.041898],"type":"Point"}
+}

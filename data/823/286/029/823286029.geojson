@@ -1,0 +1,78 @@
+{
+  "id": 823286029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.936539,35.036305,-89.936539,35.036305",
+    "geom:latitude":35.036305,
+    "geom:longitude":-89.936539,
+    "iso:country":"US",
+    "sg:address":"4106 Getwell Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 362 6679",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "gasoline-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vecJUt9MjSJkEFofdoDOw_35.036305_-89.936539@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610550,
+    "wof:geomhash":"a76e56b7f55ba70b6143ea13e54a0dc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":823286029
+        }
+    ],
+    "wof:id":823286029,
+    "wof:lastmodified":1462610550,
+    "wof:name":"Getwell Express Gas Station",
+    "wof:parent_id":85870785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline-wholesale"
+    ]
+},
+  "bbox": [
+    -89.936539,
+    35.036305,
+    -89.936539,
+    35.036305
+],
+  "geometry": {"coordinates":[-89.936539,35.036305],"type":"Point"}
+}

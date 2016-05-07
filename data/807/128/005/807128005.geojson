@@ -1,0 +1,73 @@
+{
+  "id": 807128005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.606911,35.811257,-86.606911,35.811257",
+    "geom:latitude":35.811257,
+    "geom:longitude":-86.606911,
+    "iso:country":"US",
+    "sg:address":"12148 Pate Rd",
+    "sg:city":"Rockvale",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 395 7942",
+    "sg:postcode":"37153",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85845521
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kiyadlff5x1hcWHImObBc_35.811257_-86.606911@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604030,
+    "wof:geomhash":"b00ca024a88eab012f3fc76bd2468252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85845521,
+            "region_id":85688701,
+            "venue_id":807128005
+        }
+    ],
+    "wof:id":807128005,
+    "wof:lastmodified":1462604030,
+    "wof:name":"Jackson Dental Lab",
+    "wof:parent_id":85845521,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -86.606911,
+    35.811257,
+    -86.606911,
+    35.811257
+],
+  "geometry": {"coordinates":[-86.606911,35.811257],"type":"Point"}
+}

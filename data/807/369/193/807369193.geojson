@@ -1,0 +1,72 @@
+{
+  "id": 807369193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.911585,35.232185,-89.911585,35.232185",
+    "geom:latitude":35.232185,
+    "geom:longitude":-89.911585,
+    "iso:country":"US",
+    "sg:address":"4578 Lake Vista Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 377 6453",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "sg:website":"www.doctorsdentalservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KJMUMvBchqmYZkG4s8Tr8_35.232185_-89.911585@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606779,
+    "wof:geomhash":"4dea20dd09d0c77072522a7a56d81135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":807369193
+        }
+    ],
+    "wof:id":807369193,
+    "wof:lastmodified":1462606779,
+    "wof:name":"Doctors Dental Svc",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -89.911585,
+    35.232185,
+    -89.911585,
+    35.232185
+],
+  "geometry": {"coordinates":[-89.911585,35.232185],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823242665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.384487,36.064091,-87.384487,36.064091",
+    "geom:latitude":36.064091,
+    "geom:longitude":-87.384487,
+    "iso:country":"US",
+    "sg:address":"175 Beasley Dr",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/dickson/203429-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hEz1rqcdCbwYvmaw2JGey_36.064091_-87.384487@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609196,
+    "wof:geomhash":"335f733d8c90703078fec96cf4201bf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":823242665
+        }
+    ],
+    "wof:id":823242665,
+    "wof:lastmodified":1462609196,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.384487,
+    36.064091,
+    -87.384487,
+    36.064091
+],
+  "geometry": {"coordinates":[-87.38448699999999,36.064091],"type":"Point"}
+}

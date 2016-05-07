@@ -1,0 +1,71 @@
+{
+  "id": 789880471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.091486,35.920967,-84.091486,35.920967",
+    "geom:latitude":35.920967,
+    "geom:longitude":-84.091486,
+    "iso:country":"US",
+    "sg:address":"9111 Cross Park Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 521 9928",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kQppqp6xiHqQGsF5gjMpl_35.920967_-84.091486@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591294,
+    "wof:geomhash":"ae4407ee1ce68db527717b1c178d9a3d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":789880471
+        }
+    ],
+    "wof:id":789880471,
+    "wof:lastmodified":1462591294,
+    "wof:name":"Professional Medical Transport",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.091486,
+    35.920967,
+    -84.091486,
+    35.920967
+],
+  "geometry": {"coordinates":[-84.091486,35.920967],"type":"Point"}
+}

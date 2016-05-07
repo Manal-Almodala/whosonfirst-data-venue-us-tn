@@ -1,0 +1,71 @@
+{
+  "id": 789601587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.023915,35.093503,-85.023915,35.093503",
+    "geom:latitude":35.093503,
+    "geom:longitude":-85.023915,
+    "iso:country":"US",
+    "sg:address":"6301 White Oak Valley Cir",
+    "sg:city":"Mc Donald",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 238 8558",
+    "sg:postcode":"37353",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723043,
+        102087185,
+        85848781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Lrz4EqvKNNoNq4fNihlCA_35.093503_-85.023915@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589079,
+    "wof:geomhash":"e157eb2473ae6bcbf8e0873c4821fe79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85848781,
+            "region_id":85688701,
+            "venue_id":789601587
+        }
+    ],
+    "wof:id":789601587,
+    "wof:lastmodified":1462589079,
+    "wof:name":"Spectra Com Inc",
+    "wof:parent_id":85848781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -85.023915,
+    35.093503,
+    -85.023915,
+    35.093503
+],
+  "geometry": {"coordinates":[-85.023915,35.093503],"type":"Point"}
+}

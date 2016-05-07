@@ -1,0 +1,75 @@
+{
+  "id": 789789545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.826097,35.919087,-86.826097,35.919087",
+    "geom:latitude":35.919087,
+    "geom:longitude":-86.826097,
+    "iso:country":"US",
+    "sg:address":"1218 Lakeview Dr",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 790 0905",
+    "sg:postcode":"37067",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723093,
+        102086337,
+        85830431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eA9ocCWWNeCZ57RcI1T7V_35.919087_-86.826097@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590562,
+    "wof:geomhash":"ed8f28ec3ab81b875c63443a2a49a14a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85830431,
+            "region_id":85688701,
+            "venue_id":789789545
+        }
+    ],
+    "wof:id":789789545,
+    "wof:lastmodified":1462590562,
+    "wof:name":"Tennessee Car & Van Rental",
+    "wof:parent_id":85830431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -86.826097,
+    35.919087,
+    -86.826097,
+    35.919087
+],
+  "geometry": {"coordinates":[-86.826097,35.919087],"type":"Point"}
+}

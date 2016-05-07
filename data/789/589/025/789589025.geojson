@@ -1,0 +1,71 @@
+{
+  "id": 789589025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.496688,35.879235,-86.496688,35.879235",
+    "geom:latitude":35.879235,
+    "geom:longitude":-86.496688,
+    "iso:country":"US",
+    "sg:address":"2507 Blackman Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 849 1753",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LSsYVJ8mE0893IAPTiayF_35.879235_-86.496688@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588979,
+    "wof:geomhash":"5473c1aab1c42f944bdacf07036d5ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":789589025
+        }
+    ],
+    "wof:id":789589025,
+    "wof:lastmodified":1462588979,
+    "wof:name":"Blackman Grocery",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.496688,
+    35.879235,
+    -86.496688,
+    35.879235
+],
+  "geometry": {"coordinates":[-86.49668800000001,35.879235],"type":"Point"}
+}

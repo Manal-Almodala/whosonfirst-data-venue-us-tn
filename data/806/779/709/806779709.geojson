@@ -1,0 +1,73 @@
+{
+  "id": 806779709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.354606,35.837037,-86.354606,35.837037",
+    "geom:latitude":35.837037,
+    "geom:longitude":-86.354606,
+    "iso:country":"US",
+    "sg:address":"2115 Harrell Ct",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 1551",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66nLoxy3Qg8ecMOB83tWPE_35.837037_-86.354606@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601013,
+    "wof:geomhash":"f902b1ff931f38d24839d45b7b8da7f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":806779709
+        }
+    ],
+    "wof:id":806779709,
+    "wof:lastmodified":1462601013,
+    "wof:name":"Specialty Automotive",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.354606,
+    35.837037,
+    -86.354606,
+    35.837037
+],
+  "geometry": {"coordinates":[-86.354606,35.837037],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823244415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.39919,35.799551,-86.39919,35.799551",
+    "geom:latitude":35.799551,
+    "geom:longitude":-86.39919,
+    "iso:country":"US",
+    "sg:address":"2610 S Church St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/116205-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 893 5699",
+    "sg:postcode":"37127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jIUqqyEUuPtegKHGGuGNd_35.799551_-86.399190@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609226,
+    "wof:geomhash":"ee1efd68ed1737f1935e29ea7b8a029a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":823244415
+        }
+    ],
+    "wof:id":823244415,
+    "wof:lastmodified":1462609226,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.39919,
+    35.799551,
+    -86.39919,
+    35.799551
+],
+  "geometry": {"coordinates":[-86.39919,35.799551],"type":"Point"}
+}

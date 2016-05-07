@@ -1,0 +1,71 @@
+{
+  "id": 807163693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.598749,35.808107,-85.598749,35.808107",
+    "geom:latitude":35.808107,
+    "geom:longitude":-85.598749,
+    "iso:country":"US",
+    "sg:address":"11765 McMinnville Hwy",
+    "sg:city":"Walling",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 686 2096",
+    "sg:postcode":"38587",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2c6ftMyMYTjftKBZsRnT7X_35.808107_-85.598749@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604415,
+    "wof:geomhash":"d8b61541d3f01ec2b98bea168f7c9553",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":807163693
+        }
+    ],
+    "wof:id":807163693,
+    "wof:lastmodified":1462604415,
+    "wof:name":"Walling Dental Center",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.598749,
+    35.808107,
+    -85.598749,
+    35.808107
+],
+  "geometry": {"coordinates":[-85.598749,35.808107],"type":"Point"}
+}

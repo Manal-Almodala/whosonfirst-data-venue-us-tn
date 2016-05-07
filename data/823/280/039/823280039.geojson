@@ -1,0 +1,81 @@
+{
+  "id": 823280039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.010694,35.136257,-90.010694,35.136257",
+    "geom:latitude":35.136257,
+    "geom:longitude":-90.010694,
+    "iso:country":"US",
+    "sg:address":"1520 Union Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"38104",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76QFfLLPutyLlI0F2qWAoO_35.136257_-90.010694@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610312,
+    "wof:geomhash":"6ccc0450be47a1b7690deed872f8da0f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867189,
+            "region_id":85688701,
+            "venue_id":823280039
+        }
+    ],
+    "wof:id":823280039,
+    "wof:lastmodified":1462610312,
+    "wof:name":"USPS - United States Post Office - Crosstown Finance Station",
+    "wof:parent_id":85867189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -90.010694,
+    35.136257,
+    -90.010694,
+    35.136257
+],
+  "geometry": {"coordinates":[-90.010694,35.136257],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823247543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.07809,35.474553,-86.07809,35.474553",
+    "geom:latitude":35.474553,
+    "geom:longitude":-86.07809,
+    "iso:country":"US",
+    "sg:address":"913 Hillsboro Blvd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/manchester/154958-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 3052",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sgVgV5PC8CgL3dOXciJmM_35.474553_-86.078090@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609286,
+    "wof:geomhash":"a2fd6f728303a71d4e8cdb7a1ea8b804",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":823247543
+        }
+    ],
+    "wof:id":823247543,
+    "wof:lastmodified":1462609286,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.07809,
+    35.474553,
+    -86.07809,
+    35.474553
+],
+  "geometry": {"coordinates":[-86.07809,35.474553],"type":"Point"}
+}

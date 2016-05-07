@@ -1,0 +1,73 @@
+{
+  "id": 790099419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.395337,35.854931,-86.395337,35.854931",
+    "geom:latitude":35.854931,
+    "geom:longitude":-86.395337,
+    "iso:country":"US",
+    "sg:address":"2303 Memorial Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 907 3184",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85835585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ieFvlTlyhHF9ZB9jTH2vl_35.854931_-86.395337@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593118,
+    "wof:geomhash":"41259709a6d6cac8329e8ddfba2a6a25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85835585,
+            "region_id":85688701,
+            "venue_id":790099419
+        }
+    ],
+    "wof:id":790099419,
+    "wof:lastmodified":1462593118,
+    "wof:name":"Lighthouse Carwash",
+    "wof:parent_id":85835585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -86.395337,
+    35.854931,
+    -86.395337,
+    35.854931
+],
+  "geometry": {"coordinates":[-86.395337,35.854931],"type":"Point"}
+}

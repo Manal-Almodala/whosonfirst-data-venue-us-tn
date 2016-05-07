@@ -1,0 +1,73 @@
+{
+  "id": 807298161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.795088,35.61192,-88.795088,35.61192",
+    "geom:latitude":35.61192,
+    "geom:longitude":-88.795088,
+    "iso:country":"US",
+    "sg:address":"1321 E Chester St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 423 9623",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BhLaibO9UCzfpfgQfL5EP_35.611920_-88.795088@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605832,
+    "wof:geomhash":"a39572fd27faf732b16d878e2badd39a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":807298161
+        }
+    ],
+    "wof:id":807298161,
+    "wof:lastmodified":1462605832,
+    "wof:name":"Fuel City",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -88.795088,
+    35.61192,
+    -88.795088,
+    35.61192
+],
+  "geometry": {"coordinates":[-88.79508800000001,35.61192],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 806687491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.836159,35.209678,-84.836159,35.209678",
+    "geom:latitude":35.209678,
+    "geom:longitude":-84.836159,
+    "iso:country":"US",
+    "sg:address":"4681 N Lee Hwy",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 478 2211",
+    "sg:postcode":"37312",
+    "sg:province":"TN",
+    "sg:tags":[
+        "machine",
+        "bus",
+        "duplicating",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85847789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57ehN7M0lnMKZdR3gPbBWJ_35.209678_-84.836159@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600234,
+    "wof:geomhash":"68f974ba1d56b8633dc32137b21660c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85847789,
+            "region_id":85688701,
+            "venue_id":806687491
+        }
+    ],
+    "wof:id":806687491,
+    "wof:lastmodified":1462600234,
+    "wof:name":"Cleveland Business Machines",
+    "wof:parent_id":85847789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "bus",
+        "duplicating",
+        "copying"
+    ]
+},
+  "bbox": [
+    -84.836159,
+    35.209678,
+    -84.836159,
+    35.209678
+],
+  "geometry": {"coordinates":[-84.83615899999999,35.209678],"type":"Point"}
+}

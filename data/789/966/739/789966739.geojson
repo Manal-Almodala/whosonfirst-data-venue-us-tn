@@ -1,0 +1,85 @@
+{
+  "id": 789966739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.208134,36.046539,-84.208134,36.046539",
+    "geom:latitude":36.046539,
+    "geom:longitude":-84.208134,
+    "iso:country":"US",
+    "sg:address":"104 Oak Ridge Tpke",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 483 0005",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "federal",
+        "security",
+        "army",
+        "reserve"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065,
+        85818003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TzDvkaXMlcOoR1bMHVhe9_36.046539_-84.208134@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592053,
+    "wof:geomhash":"2226f52a211a64b3e4964f3b90c4412a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":789966739
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "neighbourhood_id":85818003,
+            "region_id":85688701,
+            "venue_id":789966739
+        }
+    ],
+    "wof:id":789966739,
+    "wof:lastmodified":1462592053,
+    "wof:name":"US Army Reserve",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security",
+        "army",
+        "reserve"
+    ]
+},
+  "bbox": [
+    -84.208134,
+    36.046539,
+    -84.208134,
+    36.046539
+],
+  "geometry": {"coordinates":[-84.208134,36.046539],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823242553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.274051,36.509537,-87.274051,36.509537",
+    "geom:latitude":36.509537,
+    "geom:longitude":-87.274051,
+    "iso:country":"US",
+    "sg:address":"2237 Madison St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/clarksville/166262-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 553 0808",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_418UrpHtMBxSNTT4s2XrcT_36.509537_-87.274051@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609194,
+    "wof:geomhash":"10fbe4ed4712fcb66a7ca8db15b8d983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846417,
+            "region_id":85688701,
+            "venue_id":823242553
+        }
+    ],
+    "wof:id":823242553,
+    "wof:lastmodified":1462609194,
+    "wof:name":"Arby's",
+    "wof:parent_id":85846417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.274051,
+    36.509537,
+    -87.274051,
+    36.509537
+],
+  "geometry": {"coordinates":[-87.274051,36.509537],"type":"Point"}
+}

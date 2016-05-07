@@ -1,0 +1,73 @@
+{
+  "id": 806969809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.516122,36.15675,-86.516122,36.15675",
+    "geom:latitude":36.15675,
+    "geom:longitude":-86.516122,
+    "iso:country":"US",
+    "sg:address":"1028 S Mount Juliet Rd",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 773 5991",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sMfMeCcxkUVV1P52KWVvK_36.156750_-86.516122@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602609,
+    "wof:geomhash":"54ff3c9546bcdac684ef51a37a4fd652",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":806969809
+        }
+    ],
+    "wof:id":806969809,
+    "wof:lastmodified":1462602609,
+    "wof:name":"Precision Locksmith Svc",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.516122,
+    36.15675,
+    -86.516122,
+    36.15675
+],
+  "geometry": {"coordinates":[-86.516122,36.15675],"type":"Point"}
+}

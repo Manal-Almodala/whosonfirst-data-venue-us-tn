@@ -1,0 +1,73 @@
+{
+  "id": 807301983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.893817,35.233884,-89.893817,35.233884",
+    "geom:latitude":35.233884,
+    "geom:longitude":-89.893817,
+    "iso:country":"US",
+    "sg:address":"3950 New Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 726 1056",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zZONiwOpf164bOQYr4sag_35.233884_-89.893817@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605873,
+    "wof:geomhash":"f96869d7de32fa545665abd71ff256b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":807301983
+        }
+    ],
+    "wof:id":807301983,
+    "wof:lastmodified":1462605873,
+    "wof:name":"Melvin P Payne MD",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.893817,
+    35.233884,
+    -89.893817,
+    35.233884
+],
+  "geometry": {"coordinates":[-89.893817,35.233884],"type":"Point"}
+}

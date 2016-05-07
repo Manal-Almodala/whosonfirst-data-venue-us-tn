@@ -1,0 +1,71 @@
+{
+  "id": 789760671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418539,35.882526,-86.418539,35.882526",
+    "geom:latitude":35.882526,
+    "geom:longitude":-86.418539,
+    "iso:country":"US",
+    "sg:address":"1802 Riverview Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 300 3333",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821325
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SkUMT6D6k8c29G1W2yWwh_35.882526_-86.418539@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590333,
+    "wof:geomhash":"4dfdfeba74c85c30b745ce580302486a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821325,
+            "region_id":85688701,
+            "venue_id":789760671
+        }
+    ],
+    "wof:id":789760671,
+    "wof:lastmodified":1462590333,
+    "wof:name":"Richardson Group LLC",
+    "wof:parent_id":85821325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -86.418539,
+    35.882526,
+    -86.418539,
+    35.882526
+],
+  "geometry": {"coordinates":[-86.418539,35.882526],"type":"Point"}
+}

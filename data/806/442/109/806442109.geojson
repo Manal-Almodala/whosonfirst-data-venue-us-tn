@@ -1,0 +1,83 @@
+{
+  "id": 806442109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.207351,36.045926,-84.207351,36.045926",
+    "geom:latitude":36.045926,
+    "geom:longitude":-84.207351,
+    "iso:country":"US",
+    "sg:address":"108 Melton Lake Dr",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 425 0502",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065,
+        85818003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZZu43VIWAPk6Vi6wF8erD_36.045926_-84.207351@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598183,
+    "wof:geomhash":"dedb8e13b9ef6c82a85cc16c150a130c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":806442109
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "neighbourhood_id":85818003,
+            "region_id":85688701,
+            "venue_id":806442109
+        }
+    ],
+    "wof:id":806442109,
+    "wof:lastmodified":1462598183,
+    "wof:name":"Wade's Cleanup Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -84.207351,
+    36.045926,
+    -84.207351,
+    36.045926
+],
+  "geometry": {"coordinates":[-84.207351,36.045926],"type":"Point"}
+}

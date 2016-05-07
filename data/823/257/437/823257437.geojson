@@ -1,0 +1,76 @@
+{
+  "id": 823257437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.034913,35.960483,-85.034913,35.960483",
+    "geom:latitude":35.960483,
+    "geom:longitude":-85.034913,
+    "iso:country":"US",
+    "sg:address":"1011 N Main St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/crossville/173178-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 4017",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NLcKwX2adBRLvPWDCrblG_35.960483_-85.034913@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609484,
+    "wof:geomhash":"25a9e806d5d2d0f5f2a979c85d1116c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":823257437
+        }
+    ],
+    "wof:id":823257437,
+    "wof:lastmodified":1462609484,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -85.034913,
+    35.960483,
+    -85.034913,
+    35.960483
+],
+  "geometry": {"coordinates":[-85.034913,35.960483],"type":"Point"}
+}

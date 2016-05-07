@@ -1,0 +1,73 @@
+{
+  "id": 823160805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.605925,36.094811,-86.605925,36.094811",
+    "geom:latitude":36.094811,
+    "geom:longitude":-86.605925,
+    "iso:country":"US",
+    "sg:address":"3737 Edgewater Dr",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 477 5949",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "line"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85849085
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4x08taULhSL8xbJHWwla3a_36.094811_-86.605925@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607809,
+    "wof:geomhash":"1c9ffb9985cd36be6652344af9da1208",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85849085,
+            "region_id":85688701,
+            "venue_id":823160805
+        }
+    ],
+    "wof:id":823160805,
+    "wof:lastmodified":1462607809,
+    "wof:name":"Rapid Transit",
+    "wof:parent_id":85849085,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "line"
+    ]
+},
+  "bbox": [
+    -86.605925,
+    36.094811,
+    -86.605925,
+    36.094811
+],
+  "geometry": {"coordinates":[-86.605925,36.094811],"type":"Point"}
+}

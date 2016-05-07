@@ -1,0 +1,73 @@
+{
+  "id": 823210339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.537168,36.169387,-85.537168,36.169387",
+    "geom:latitude":36.169387,
+    "geom:longitude":-85.537168,
+    "iso:country":"US",
+    "sg:address":"2221 W Jackson St",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 0398",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "courier",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xVnDP0FMA5wsISf1MD5TR_36.169387_-85.537168@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608539,
+    "wof:geomhash":"634dcb7ad3245f07f1aa8916a1f62475",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":823210339
+        }
+    ],
+    "wof:id":823210339,
+    "wof:lastmodified":1462608539,
+    "wof:name":"Fedex",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -85.537168,
+    36.169387,
+    -85.537168,
+    36.169387
+],
+  "geometry": {"coordinates":[-85.53716799999999,36.169387],"type":"Point"}
+}

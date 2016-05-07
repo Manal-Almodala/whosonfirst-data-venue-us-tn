@@ -1,0 +1,71 @@
+{
+  "id": 790505869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.978573,36.062129,-83.978573,36.062129",
+    "geom:latitude":36.062129,
+    "geom:longitude":-83.978573,
+    "iso:country":"US",
+    "sg:address":"1509 E Emory Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 2921",
+    "sg:postcode":"37938",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_255g59s8i4TYvmkcmxyIRU_36.062129_-83.978573@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596418,
+    "wof:geomhash":"0dc9be3b144ab33af6ba9fa406b040d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":790505869
+        }
+    ],
+    "wof:id":790505869,
+    "wof:lastmodified":1462596418,
+    "wof:name":"Animal Dental Svc",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.978573,
+    36.062129,
+    -83.978573,
+    36.062129
+],
+  "geometry": {"coordinates":[-83.978573,36.062129],"type":"Point"}
+}

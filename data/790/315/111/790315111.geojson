@@ -1,0 +1,78 @@
+{
+  "id": 790315111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.299294,36.579338,-87.299294,36.579338",
+    "geom:latitude":36.579338,
+    "geom:longitude":-87.299294,
+    "iso:country":"US",
+    "sg:address":"2503 Wilma Rudolph Blvd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 245 6979",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85819931
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NvRi1v06CdbkquceLm1zk_36.579338_-87.299294@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594883,
+    "wof:geomhash":"fc64ecd80d273a46d2097957ccd278ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85819931,
+            "region_id":85688701,
+            "venue_id":790315111
+        }
+    ],
+    "wof:id":790315111,
+    "wof:lastmodified":1462594883,
+    "wof:name":"Albertson's",
+    "wof:parent_id":85819931,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.299294,
+    36.579338,
+    -87.299294,
+    36.579338
+],
+  "geometry": {"coordinates":[-87.299294,36.579338],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 806484877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.6796,35.532576,-89.6796,35.532576",
+    "geom:latitude":35.532576,
+    "geom:longitude":-89.6796,
+    "iso:country":"US",
+    "sg:address":"2043 US Hwy 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 3350",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "federal",
+        "program"
+    ],
+    "sg:website":"www.usda.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Q3RHh62j8Jik8D6ITKub1_35.532576_-89.679600@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598505,
+    "wof:geomhash":"b89f102af560232035d382933ebbe46a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806484877
+        }
+    ],
+    "wof:id":806484877,
+    "wof:lastmodified":1462598505,
+    "wof:name":"US Agricultural Dept",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "program"
+    ]
+},
+  "bbox": [
+    -89.6796,
+    35.532576,
+    -89.6796,
+    35.532576
+],
+  "geometry": {"coordinates":[-89.67959999999999,35.532576],"type":"Point"}
+}

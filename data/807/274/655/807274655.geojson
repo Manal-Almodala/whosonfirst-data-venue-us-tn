@@ -1,0 +1,80 @@
+{
+  "id": 807274655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.058826,35.604182,-87.058826,35.604182",
+    "geom:latitude":35.604182,
+    "geom:longitude":-87.058826,
+    "iso:country":"US",
+    "sg:address":"1707 Alpine Dr",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 380 9099",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723081,
+        102087107,
+        420541937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05MAkTu9XnV0SXiutf0K7C_35.604182_-87.058826@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605590,
+    "wof:geomhash":"5c4a1af59849b6ca71b4abdc55b84279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":420541937,
+            "region_id":85688701,
+            "venue_id":807274655
+        }
+    ],
+    "wof:id":807274655,
+    "wof:lastmodified":1462605590,
+    "wof:name":"Dialysis Assoc of Columbia",
+    "wof:parent_id":420541937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -87.058826,
+    35.604182,
+    -87.058826,
+    35.604182
+],
+  "geometry": {"coordinates":[-87.058826,35.604182],"type":"Point"}
+}

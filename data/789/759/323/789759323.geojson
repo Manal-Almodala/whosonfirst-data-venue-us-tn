@@ -1,0 +1,71 @@
+{
+  "id": 789759323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.805955,35.031805,-89.805955,35.031805",
+    "geom:latitude":35.031805,
+    "geom:longitude":-89.805955,
+    "iso:country":"US",
+    "sg:address":"7730 Thunderstone Cir S",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 753 8834",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hauling",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rVwIziDGKhE7fE2o0td4W_35.031805_-89.805955@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590324,
+    "wof:geomhash":"41e61d7b0b31f77874ccf968b52a5df7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":789759323
+        }
+    ],
+    "wof:id":789759323,
+    "wof:lastmodified":1462590324,
+    "wof:name":"Allstar Trucking Of Memphis",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hauling",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.805955,
+    35.031805,
+    -89.805955,
+    35.031805
+],
+  "geometry": {"coordinates":[-89.805955,35.031805],"type":"Point"}
+}

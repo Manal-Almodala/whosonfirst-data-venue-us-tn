@@ -1,0 +1,73 @@
+{
+  "id": 823205897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.033779,35.95917,-85.033779,35.95917",
+    "geom:latitude":35.95917,
+    "geom:longitude":-85.033779,
+    "iso:country":"US",
+    "sg:address":"55 Dooley St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 0464",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cfMa5HMkoO6x2a9Ean1oR_35.959170_-85.033779@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608459,
+    "wof:geomhash":"3a7cf488a0fb92a92c7ae1dbfacaefda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":823205897
+        }
+    ],
+    "wof:id":823205897,
+    "wof:lastmodified":1462608459,
+    "wof:name":"Crossville Starter",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -85.033779,
+    35.95917,
+    -85.033779,
+    35.95917
+],
+  "geometry": {"coordinates":[-85.033779,35.95917],"type":"Point"}
+}

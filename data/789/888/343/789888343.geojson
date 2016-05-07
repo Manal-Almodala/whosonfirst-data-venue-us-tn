@@ -1,0 +1,71 @@
+{
+  "id": 789888343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.607033,36.337973,-86.607033,36.337973",
+    "geom:latitude":36.337973,
+    "geom:longitude":-86.607033,
+    "iso:country":"US",
+    "sg:address":"2216 Stop 30 Rd",
+    "sg:city":"Hendersonville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 826 7373",
+    "sg:postcode":"37075",
+    "sg:province":"TN",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723169,
+        102086357,
+        85825691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GyasPCID3r8upuVCtVavg_36.337973_-86.607033@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591355,
+    "wof:geomhash":"7cb35db4e9ab4e86f8e07281286932cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85825691,
+            "region_id":85688701,
+            "venue_id":789888343
+        }
+    ],
+    "wof:id":789888343,
+    "wof:lastmodified":1462591355,
+    "wof:name":"Southern Delights Catering",
+    "wof:parent_id":85825691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -86.607033,
+    36.337973,
+    -86.607033,
+    36.337973
+],
+  "geometry": {"coordinates":[-86.607033,36.337973],"type":"Point"}
+}

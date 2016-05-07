@@ -1,0 +1,76 @@
+{
+  "id": 823250191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.08445,36.165122,-84.08445,36.165122",
+    "geom:latitude":36.165122,
+    "geom:longitude":-84.08445,
+    "iso:country":"US",
+    "sg:address":"2303 Andersonville Hwy",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/norris/214883-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 463 0239",
+    "sg:postcode":"37716",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722561,
+        102086483,
+        85825681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Fp6C7Hj6IGEpVFPcyKeYI_36.165122_-84.084450@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609340,
+    "wof:geomhash":"33941091e5fc3e9e87c6f1707ead1648",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722561,
+            "neighbourhood_id":85825681,
+            "region_id":85688701,
+            "venue_id":823250191
+        }
+    ],
+    "wof:id":823250191,
+    "wof:lastmodified":1462609340,
+    "wof:name":"Burger King",
+    "wof:parent_id":85825681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.08445,
+    36.165122,
+    -84.08445,
+    36.165122
+],
+  "geometry": {"coordinates":[-84.08445,36.165122],"type":"Point"}
+}

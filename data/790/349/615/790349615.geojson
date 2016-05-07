@@ -1,0 +1,71 @@
+{
+  "id": 790349615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.884493,35.910418,-86.884493,35.910418",
+    "geom:latitude":35.910418,
+    "geom:longitude":-86.884493,
+    "iso:country":"US",
+    "sg:address":"503 Perkins Dr",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 377 1936",
+    "sg:postcode":"37064",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723093,
+        102086337,
+        85845729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45BlWb42RWHs5cIw8evhbI_35.910418_-86.884493@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595133,
+    "wof:geomhash":"bb93cff393752bbf2e143d7334e9a39d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85845729,
+            "region_id":85688701,
+            "venue_id":790349615
+        }
+    ],
+    "wof:id":790349615,
+    "wof:lastmodified":1462595133,
+    "wof:name":"Franklin Brentwood Wrecker Svc",
+    "wof:parent_id":85845729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -86.884493,
+    35.910418,
+    -86.884493,
+    35.910418
+],
+  "geometry": {"coordinates":[-86.88449300000001,35.910418],"type":"Point"}
+}

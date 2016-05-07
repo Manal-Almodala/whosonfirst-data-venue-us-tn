@@ -1,0 +1,73 @@
+{
+  "id": 789983543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.552501,35.935036,-84.552501,35.935036",
+    "geom:latitude":35.935036,
+    "geom:longitude":-84.552501,
+    "iso:country":"US",
+    "sg:address":"307 Devonia St",
+    "sg:city":"Harriman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 882 3337",
+    "sg:postcode":"37748",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722695,
+        102087051,
+        85841801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A3UYtYI4ZzZBICVtJhxno_35.935036_-84.552501@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592199,
+    "wof:geomhash":"f84b303a2acb35817d7eadefe37245e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101722695,
+            "neighbourhood_id":85841801,
+            "region_id":85688701,
+            "venue_id":789983543
+        }
+    ],
+    "wof:id":789983543,
+    "wof:lastmodified":1462592199,
+    "wof:name":"Fort Loudoun Women's Health",
+    "wof:parent_id":85841801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.552501,
+    35.935036,
+    -84.552501,
+    35.935036
+],
+  "geometry": {"coordinates":[-84.55250100000001,35.935036],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790533069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.285756,36.205407,-83.285756,36.205407",
+    "geom:latitude":36.205407,
+    "geom:longitude":-83.285756,
+    "iso:country":"US",
+    "sg:address":"120 Brown Ave",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 317 8881",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85852009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GrLDppxoLakSMQlZqLYAo_36.205407_-83.285756@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596646,
+    "wof:geomhash":"4b36efc1b29d259ebf80da718ec3d27b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85852009,
+            "region_id":85688701,
+            "venue_id":790533069
+        }
+    ],
+    "wof:id":790533069,
+    "wof:lastmodified":1462596646,
+    "wof:name":"Wood Body Shop",
+    "wof:parent_id":85852009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -83.285756,
+    36.205407,
+    -83.285756,
+    36.205407
+],
+  "geometry": {"coordinates":[-83.28575600000001,36.205407],"type":"Point"}
+}

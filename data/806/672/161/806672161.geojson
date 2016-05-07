@@ -1,0 +1,83 @@
+{
+  "id": 806672161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.344356,36.506793,-87.344356,36.506793",
+    "geom:latitude":36.506793,
+    "geom:longitude":-87.344356,
+    "iso:country":"US",
+    "sg:address":"976 Greenwood Ave",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 645 6812",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85809463,
+        85857915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_388j6Ix8TyO74VEi7QBkc6_36.506793_-87.344356@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600101,
+    "wof:geomhash":"99f9ace57d29c1bdddf8dfb3f3e01fd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85809463,
+            "region_id":85688701,
+            "venue_id":806672161
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85857915,
+            "region_id":85688701,
+            "venue_id":806672161
+        }
+    ],
+    "wof:id":806672161,
+    "wof:lastmodified":1462600101,
+    "wof:name":"Greenwood Cemetery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -87.344356,
+    36.506793,
+    -87.344356,
+    36.506793
+],
+  "geometry": {"coordinates":[-87.344356,36.506793],"type":"Point"}
+}

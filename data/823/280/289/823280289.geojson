@@ -1,0 +1,80 @@
+{
+  "id": 823280289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.024166,35.154776,-90.024166,35.154776",
+    "geom:latitude":35.154776,
+    "geom:longitude":-90.024166,
+    "iso:country":"US",
+    "sg:address":"1188 N Parkway",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 272 7050",
+    "sg:postcode":"38105",
+    "sg:province":"TN",
+    "sg:tags":[
+        "counseling",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85851159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oBDRMEQlR9TlyBAsmdsYH_35.154776_-90.024166@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610321,
+    "wof:geomhash":"f48cec47f5fd9a5e1c9ed68a696c3d8c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85851159,
+            "region_id":85688701,
+            "venue_id":823280289
+        }
+    ],
+    "wof:id":823280289,
+    "wof:lastmodified":1462610321,
+    "wof:name":"Memphis City Government",
+    "wof:parent_id":85851159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -90.024166,
+    35.154776,
+    -90.024166,
+    35.154776
+],
+  "geometry": {"coordinates":[-90.02416599999999,35.154776],"type":"Point"}
+}

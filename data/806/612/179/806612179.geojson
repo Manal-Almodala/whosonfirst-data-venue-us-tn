@@ -1,0 +1,75 @@
+{
+  "id": 806612179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.936921,35.033274,-89.936921,35.033274",
+    "geom:latitude":35.033274,
+    "geom:longitude":-89.936921,
+    "iso:country":"US",
+    "sg:address":"4112 Getwell Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 363 6616",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yHiQB4IMKzzpmTlF7NfBV_35.033274_-89.936921@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599584,
+    "wof:geomhash":"d4653124f99a94167584d29c0a980465",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":806612179
+        }
+    ],
+    "wof:id":806612179,
+    "wof:lastmodified":1462599584,
+    "wof:name":"Enterprise Rent A Car",
+    "wof:parent_id":85870785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.936921,
+    35.033274,
+    -89.936921,
+    35.033274
+],
+  "geometry": {"coordinates":[-89.936921,35.033274],"type":"Point"}
+}

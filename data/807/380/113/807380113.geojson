@@ -1,0 +1,71 @@
+{
+  "id": 807380113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.559908,35.897412,-86.559908,35.897412",
+    "geom:latitude":35.897412,
+    "geom:longitude":-86.559908,
+    "iso:country":"US",
+    "sg:address":"320 W North Creek Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 384 4060",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w68CYDwJ5oQoe4NRa8BqG_35.897412_-86.559908@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606921,
+    "wof:geomhash":"21dd82095d4dec57a09d4acd1b6c1f1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":807380113
+        }
+    ],
+    "wof:id":807380113,
+    "wof:lastmodified":1462606921,
+    "wof:name":"Thomas C Krueger MD",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.559908,
+    35.897412,
+    -86.559908,
+    35.897412
+],
+  "geometry": {"coordinates":[-86.55990799999999,35.897412],"type":"Point"}
+}

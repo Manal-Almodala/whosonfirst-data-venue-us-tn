@@ -1,0 +1,71 @@
+{
+  "id": 806723225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.853745,35.213542,-89.853745,35.213542",
+    "geom:latitude":35.213542,
+    "geom:longitude":-89.853745,
+    "iso:country":"US",
+    "sg:address":"6286 Star Valley Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 266 5883",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_064F0m81seQv7wIjHYa4dx_35.213542_-89.853745@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600530,
+    "wof:geomhash":"74a62f1c8f55a086dca7b928b14e333c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":806723225
+        }
+    ],
+    "wof:id":806723225,
+    "wof:lastmodified":1462600530,
+    "wof:name":"T N T Wrecker Service",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.853745,
+    35.213542,
+    -89.853745,
+    35.213542
+],
+  "geometry": {"coordinates":[-89.853745,35.213542],"type":"Point"}
+}

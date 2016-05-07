@@ -1,0 +1,75 @@
+{
+  "id": 806758679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.895375,35.109624,-89.895375,35.109624",
+    "geom:latitude":35.109624,
+    "geom:longitude":-89.895375,
+    "iso:country":"US",
+    "sg:address":"803 Mount Moriah Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 685 8718",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZQIU1AleWxgnnrDjBo77R_35.109624_-89.895375@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600835,
+    "wof:geomhash":"d0e6441c740be840f0f661bd691f3d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":806758679
+        }
+    ],
+    "wof:id":806758679,
+    "wof:lastmodified":1462600835,
+    "wof:name":"City Leasing Co",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -89.895375,
+    35.109624,
+    -89.895375,
+    35.109624
+],
+  "geometry": {"coordinates":[-89.895375,35.109624],"type":"Point"}
+}

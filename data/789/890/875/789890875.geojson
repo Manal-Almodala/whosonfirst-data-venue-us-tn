@@ -1,0 +1,72 @@
+{
+  "id": 789890875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.923266,36.025164,-83.923266,36.025164",
+    "geom:latitude":36.025164,
+    "geom:longitude":-83.923266,
+    "iso:country":"US",
+    "sg:address":"2930 Tazewell Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 2719",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "sg:website":"www.companimal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48fvzn4szd2wJTNCEtj2hB_36.025164_-83.923266@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591377,
+    "wof:geomhash":"21d9b188398669c4efbe1fca787dc2e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":789890875
+        }
+    ],
+    "wof:id":789890875,
+    "wof:lastmodified":1462591377,
+    "wof:name":"VCA Companion Animal Hospital",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.923266,
+    36.025164,
+    -83.923266,
+    36.025164
+],
+  "geometry": {"coordinates":[-83.923266,36.025164],"type":"Point"}
+}

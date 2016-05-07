@@ -1,0 +1,77 @@
+{
+  "id": 807243361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.01852,35.488312,-85.01852,35.488312",
+    "geom:latitude":35.488312,
+    "geom:longitude":-85.01852,
+    "iso:country":"US",
+    "sg:address":"916 Market St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 3386",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical",
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04BH2puMt1jUHKDGAkrX2T_35.488312_-85.018520@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605256,
+    "wof:geomhash":"cc3442c66e843ff10179eaf7804d47a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":807243361
+        }
+    ],
+    "wof:id":807243361,
+    "wof:lastmodified":1462605256,
+    "wof:name":"Dialysis Clinic Inc",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -85.01852,
+    35.488312,
+    -85.01852,
+    35.488312
+],
+  "geometry": {"coordinates":[-85.01852,35.488312],"type":"Point"}
+}

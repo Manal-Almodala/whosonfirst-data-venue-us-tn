@@ -1,0 +1,78 @@
+{
+  "id": 773067767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.92492,35.992045,-83.92492,35.992045",
+    "geom:latitude":35.992045,
+    "geom:longitude":-83.92492,
+    "iso:country":"US",
+    "sg:address":"1515 Saint Mary St",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 546 5075",
+    "sg:postcode":"37917",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85878559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EUoznSZYnyMPrdfcf81WZ_35.992045_-83.924920@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462582919,
+    "wof:geomhash":"42d162321df7de37482e7974e5d09995",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85878559,
+            "region_id":85688701,
+            "venue_id":773067767
+        }
+    ],
+    "wof:id":773067767,
+    "wof:lastmodified":1462582919,
+    "wof:name":"St Mary's Ambulatory Surgery",
+    "wof:parent_id":85878559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.92492,
+    35.992045,
+    -83.92492,
+    35.992045
+],
+  "geometry": {"coordinates":[-83.92492,35.992045],"type":"Point"}
+}

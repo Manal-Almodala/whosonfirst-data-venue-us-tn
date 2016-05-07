@@ -1,0 +1,73 @@
+{
+  "id": 773305171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.485316,35.907419,-85.485316,35.907419",
+    "geom:latitude":35.907419,
+    "geom:longitude":-85.485316,
+    "iso:country":"US",
+    "sg:address":"1099 McMinnville Hwy",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 738 3290",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0erlQJrafYoUuN0QDXgp1J_35.907419_-85.485316@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584723,
+    "wof:geomhash":"9aef1c05674d7cb250e97c2e0f3aab47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":773305171
+        }
+    ],
+    "wof:id":773305171,
+    "wof:lastmodified":1462584723,
+    "wof:name":"Sparta Sewage Disposal Plant",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -85.485316,
+    35.907419,
+    -85.485316,
+    35.907419
+],
+  "geometry": {"coordinates":[-85.485316,35.907419],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789992531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.518584,35.912542,-83.518584,35.912542",
+    "geom:latitude":35.912542,
+    "geom:longitude":-83.518584,
+    "iso:country":"US",
+    "sg:address":"1007 Barbara Lynn Way",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 774 7890",
+    "sg:postcode":"37876",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85806919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27XmuHjEltOVyNzbq4ic8I_35.912542_-83.518584@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592269,
+    "wof:geomhash":"6968c25a449a488d9fa0a3e9ad4376d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85806919,
+            "region_id":85688701,
+            "venue_id":789992531
+        }
+    ],
+    "wof:id":789992531,
+    "wof:lastmodified":1462592269,
+    "wof:name":"Dalton's Mobile Auto Repair",
+    "wof:parent_id":85806919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.518584,
+    35.912542,
+    -83.518584,
+    35.912542
+],
+  "geometry": {"coordinates":[-83.518584,35.912542],"type":"Point"}
+}

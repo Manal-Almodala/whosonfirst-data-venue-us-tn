@@ -1,0 +1,80 @@
+{
+  "id": 823271957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.155799,35.021676,-85.155799,35.021676",
+    "geom:latitude":35.021676,
+    "geom:longitude":-85.155799,
+    "iso:country":"US",
+    "sg:address":"7661 Magnolia Leaf Ln",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 954 2487",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85805409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12m5kvLtAedwxFxH1c4SMV_35.021676_-85.155799@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609981,
+    "wof:geomhash":"d3a648a16a340e9915dd49ad5ce21e98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85805409,
+            "region_id":85688701,
+            "venue_id":823271957
+        }
+    ],
+    "wof:id":823271957,
+    "wof:lastmodified":1462609981,
+    "wof:name":"United Healthcare Group",
+    "wof:parent_id":85805409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "group"
+    ]
+},
+  "bbox": [
+    -85.155799,
+    35.021676,
+    -85.155799,
+    35.021676
+],
+  "geometry": {"coordinates":[-85.155799,35.021676],"type":"Point"}
+}

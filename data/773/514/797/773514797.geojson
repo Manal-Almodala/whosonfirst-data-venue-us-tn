@@ -1,0 +1,71 @@
+{
+  "id": 773514797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.560425,35.858176,-83.560425,35.858176",
+    "geom:latitude":35.858176,
+    "geom:longitude":-83.560425,
+    "iso:country":"US",
+    "sg:address":"120 W Paine St",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 0560",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61n4x19kOotGJ0JM7WkiaA_35.858176_-83.560425@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586307,
+    "wof:geomhash":"f293c9434c49e52ad4c5b0086a579ac8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":773514797
+        }
+    ],
+    "wof:id":773514797,
+    "wof:lastmodified":1462586307,
+    "wof:name":"Sevierville Police Gateway",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.560425,
+    35.858176,
+    -83.560425,
+    35.858176
+],
+  "geometry": {"coordinates":[-83.560425,35.858176],"type":"Point"}
+}

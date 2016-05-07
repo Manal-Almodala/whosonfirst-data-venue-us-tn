@@ -1,0 +1,85 @@
+{
+  "id": 807142333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.941667,35.755494,-83.941667,35.755494",
+    "geom:latitude":35.755494,
+    "geom:longitude":-83.941667,
+    "iso:country":"US",
+    "sg:address":"1702 E Lamar Alexander Pkwy",
+    "sg:city":"Maryville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 977 0555",
+    "sg:postcode":"37804",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722701,
+        102087017,
+        85825587,
+        85838943
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GRAHVoJshTE6XUJ0nbmuO_35.755494_-83.941667@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604184,
+    "wof:geomhash":"d059f6f17684b8e33cecb637e910de08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85825587,
+            "region_id":85688701,
+            "venue_id":807142333
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85838943,
+            "region_id":85688701,
+            "venue_id":807142333
+        }
+    ],
+    "wof:id":807142333,
+    "wof:lastmodified":1462604184,
+    "wof:name":"Blount Dermatology",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.941667,
+    35.755494,
+    -83.941667,
+    35.755494
+],
+  "geometry": {"coordinates":[-83.941667,35.755494],"type":"Point"}
+}

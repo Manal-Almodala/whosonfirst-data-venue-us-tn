@@ -1,0 +1,71 @@
+{
+  "id": 790502251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.527146,35.993303,-86.527146,35.993303",
+    "geom:latitude":35.993303,
+    "geom:longitude":-86.527146,
+    "iso:country":"US",
+    "sg:address":"501 Nolan Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 355 0008",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85823525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S717FMCaNKoNotwLnrz7D_35.993303_-86.527146@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596386,
+    "wof:geomhash":"80675b74d6f60937eae7452dd0ee682f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85823525,
+            "region_id":85688701,
+            "venue_id":790502251
+        }
+    ],
+    "wof:id":790502251,
+    "wof:lastmodified":1462596386,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85823525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -86.527146,
+    35.993303,
+    -86.527146,
+    35.993303
+],
+  "geometry": {"coordinates":[-86.527146,35.993303],"type":"Point"}
+}

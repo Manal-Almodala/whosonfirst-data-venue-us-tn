@@ -1,0 +1,76 @@
+{
+  "id": 823251275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.255706,36.005297,-84.255706,36.005297",
+    "geom:latitude":36.005297,
+    "geom:longitude":-84.255706,
+    "iso:country":"US",
+    "sg:address":"324 S Illinois Ave",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/oak-ridge/84376-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 483 3232",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722567,
+        102086483,
+        85827263
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CEuEEtMG3nKlMYlBFXUvw_36.005297_-84.255706@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609358,
+    "wof:geomhash":"56d0c79627db41c5627ae14c03082b3f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85827263,
+            "region_id":85688701,
+            "venue_id":823251275
+        }
+    ],
+    "wof:id":823251275,
+    "wof:lastmodified":1462609358,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85827263,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.255706,
+    36.005297,
+    -84.255706,
+    36.005297
+],
+  "geometry": {"coordinates":[-84.255706,36.005297],"type":"Point"}
+}

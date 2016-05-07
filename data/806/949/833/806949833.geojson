@@ -1,0 +1,71 @@
+{
+  "id": 806949833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.980575,36.003702,-83.980575,36.003702",
+    "geom:latitude":36.003702,
+    "geom:longitude":-83.980575,
+    "iso:country":"US",
+    "sg:address":"5317 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 4113",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22HYjF0XCcBcElul17r2B9_36.003702_-83.980575@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602436,
+    "wof:geomhash":"051325b7bbee3e7bcdc78f02d9778f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":806949833
+        }
+    ],
+    "wof:id":806949833,
+    "wof:lastmodified":1462602436,
+    "wof:name":"Care Center-Family Dentistry",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.980575,
+    36.003702,
+    -83.980575,
+    36.003702
+],
+  "geometry": {"coordinates":[-83.980575,36.003702],"type":"Point"}
+}

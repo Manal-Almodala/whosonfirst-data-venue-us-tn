@@ -1,0 +1,73 @@
+{
+  "id": 789773111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.535392,35.933461,-84.535392,35.933461",
+    "geom:latitude":35.933461,
+    "geom:longitude":-84.535392,
+    "iso:country":"US",
+    "sg:address":"123 Scarbrough Ln",
+    "sg:city":"Harriman",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 882 2399",
+    "sg:postcode":"37748",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722695,
+        102087051,
+        85841801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ALWFgDGDA1hrSFglFi0p4_35.933461_-84.535392@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590423,
+    "wof:geomhash":"8b879e8942e36e3af4cb96588fd56cdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101722695,
+            "neighbourhood_id":85841801,
+            "region_id":85688701,
+            "venue_id":789773111
+        }
+    ],
+    "wof:id":789773111,
+    "wof:lastmodified":1462590423,
+    "wof:name":"Roane County Transmission",
+    "wof:parent_id":85841801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.535392,
+    35.933461,
+    -84.535392,
+    35.933461
+],
+  "geometry": {"coordinates":[-84.535392,35.933461],"type":"Point"}
+}

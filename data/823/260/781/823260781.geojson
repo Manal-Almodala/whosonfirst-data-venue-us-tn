@@ -1,0 +1,76 @@
+{
+  "id": 823260781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.917813,35.212217,-89.917813,35.212217",
+    "geom:latitude":35.212217,
+    "geom:longitude":-89.917813,
+    "iso:country":"US",
+    "sg:address":"3196 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/173213-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 382 4800",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kV4YVKT2p4j5u4mqbHcFq_35.212416_-89.917729@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609566,
+    "wof:geomhash":"f84a9e0299460a8d99e1d0d29b2ef5a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823260781
+        }
+    ],
+    "wof:id":823260781,
+    "wof:lastmodified":1462609566,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -89.917813,
+    35.212217,
+    -89.917813,
+    35.212217
+],
+  "geometry": {"coordinates":[-89.917813,35.212217],"type":"Point"}
+}

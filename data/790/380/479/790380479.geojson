@@ -1,0 +1,71 @@
+{
+  "id": 790380479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.173496,35.928493,-83.173496,35.928493",
+    "geom:latitude":35.928493,
+    "geom:longitude":-83.173496,
+    "iso:country":"US",
+    "sg:address":"555 Fish Farm Way",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 625 1220",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shipper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XCLBAj9ITEh7o9VMnaVNp_35.928493_-83.173496@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595384,
+    "wof:geomhash":"7beb3baaf745c327d953ee0679b830d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":790380479
+        }
+    ],
+    "wof:id":790380479,
+    "wof:lastmodified":1462595384,
+    "wof:name":"Fish Farms",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipper"
+    ]
+},
+  "bbox": [
+    -83.173496,
+    35.928493,
+    -83.173496,
+    35.928493
+],
+  "geometry": {"coordinates":[-83.173496,35.928493],"type":"Point"}
+}

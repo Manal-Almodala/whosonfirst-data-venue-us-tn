@@ -1,0 +1,75 @@
+{
+  "id": 807315555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.298039,36.588573,-87.298039,36.588573",
+    "geom:latitude":36.588573,
+    "geom:longitude":-87.298039,
+    "iso:country":"US",
+    "sg:address":"201 Terminal Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 800 2727",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85804513
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4enBL71cLuhIT5r4r1gecC_36.588573_-87.298039@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606014,
+    "wof:geomhash":"b747dbb78d30cd8749713a329afd43bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85804513,
+            "region_id":85688701,
+            "venue_id":807315555
+        }
+    ],
+    "wof:id":807315555,
+    "wof:lastmodified":1462606014,
+    "wof:name":"Safelite Autoglass",
+    "wof:parent_id":85804513,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -87.298039,
+    36.588573,
+    -87.298039,
+    36.588573
+],
+  "geometry": {"coordinates":[-87.298039,36.588573],"type":"Point"}
+}

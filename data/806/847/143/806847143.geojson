@@ -1,0 +1,71 @@
+{
+  "id": 806847143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.365692,35.827862,-86.365692,35.827862",
+    "geom:latitude":35.827862,
+    "geom:longitude":-86.365692,
+    "iso:country":"US",
+    "sg:address":"1610 Fowler St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 594 7258",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tYUZb3m1qeCTsdTjkdu8U_35.827862_-86.365692@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601580,
+    "wof:geomhash":"0d5e6600fd88071475224d5bd04ef614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":806847143
+        }
+    ],
+    "wof:id":806847143,
+    "wof:lastmodified":1462601580,
+    "wof:name":"En Route Transporting Svc",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.365692,
+    35.827862,
+    -86.365692,
+    35.827862
+],
+  "geometry": {"coordinates":[-86.365692,35.827862],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806369313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.034835,35.952446,-85.034835,35.952446",
+    "geom:latitude":35.952446,
+    "geom:longitude":-85.034835,
+    "iso:country":"US",
+    "sg:address":"761 West Ave",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 6569",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4THdjpeUfbidGLQpSf8kuP_35.952446_-85.034835@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597593,
+    "wof:geomhash":"1cbb3b20cf2809907d4edd8b33fb7b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":806369313
+        }
+    ],
+    "wof:id":806369313,
+    "wof:lastmodified":1462597593,
+    "wof:name":"J & R Svc",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.034835,
+    35.952446,
+    -85.034835,
+    35.952446
+],
+  "geometry": {"coordinates":[-85.034835,35.952446],"type":"Point"}
+}

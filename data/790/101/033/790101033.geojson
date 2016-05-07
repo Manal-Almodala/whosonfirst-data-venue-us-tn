@@ -1,0 +1,71 @@
+{
+  "id": 790101033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.559871,35.897411,-86.559871,35.897411",
+    "geom:latitude":35.897411,
+    "geom:longitude":-86.559871,
+    "iso:country":"US",
+    "sg:address":"324 W North Creek Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 384 2484",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RPJq1QgJkubodTwRQiPMZ_35.897411_-86.559871@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593136,
+    "wof:geomhash":"71ef863acf96956a0e939cc64066fcf4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":790101033
+        }
+    ],
+    "wof:id":790101033,
+    "wof:lastmodified":1462593136,
+    "wof:name":"Springfield Orthodontics",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.559871,
+    35.897411,
+    -86.559871,
+    35.897411
+],
+  "geometry": {"coordinates":[-86.559871,35.897411],"type":"Point"}
+}

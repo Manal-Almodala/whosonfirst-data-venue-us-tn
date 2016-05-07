@@ -1,0 +1,83 @@
+{
+  "id": 807362215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.037803,35.196206,-87.037803,35.196206",
+    "geom:latitude":35.196206,
+    "geom:longitude":-87.037803,
+    "iso:country":"US",
+    "sg:address":"500 S 5th St",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 363 7662",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tDK2JrUKNy5Usyop835On_35.196206_-87.037803@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606686,
+    "wof:geomhash":"e71b4ed1f5502b869ba607bf1555d14c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":807362215
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":807362215
+        }
+    ],
+    "wof:id":807362215,
+    "wof:lastmodified":1462606686,
+    "wof:name":"Five Points Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.037803,
+    35.196206,
+    -87.037803,
+    35.196206
+],
+  "geometry": {"coordinates":[-87.037803,35.196206],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823289947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.896535,35.177581,-89.896535,35.177581",
+    "geom:latitude":35.177581,
+    "geom:longitude":-89.896535,
+    "iso:country":"US",
+    "sg:address":"1919 Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 388 2338",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"http://www.hertz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4O8MNy3qpKXhSRV0ZY7e9K_35.177581_-89.896535@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610693,
+    "wof:geomhash":"2ad8608fa02bf6ed324394d689fa70c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":823289947
+        }
+    ],
+    "wof:id":823289947,
+    "wof:lastmodified":1462610693,
+    "wof:name":"Hertz Local Edition",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -89.896535,
+    35.177581,
+    -89.896535,
+    35.177581
+],
+  "geometry": {"coordinates":[-89.896535,35.177581],"type":"Point"}
+}

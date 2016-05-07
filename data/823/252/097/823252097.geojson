@@ -1,0 +1,72 @@
+{
+  "id": 823252097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.969972,36.011575,-83.969972,36.011575",
+    "geom:latitude":36.011575,
+    "geom:longitude":-83.969972,
+    "iso:country":"US",
+    "sg:address":"119 Cedar Ln",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/131251-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 6385",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42DcAKFtZ1SPaSXTzmtKNP_36.011575_-83.969972@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609386,
+    "wof:geomhash":"6e79d2959ce694919c1e68ee39465433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":823252097
+        }
+    ],
+    "wof:id":823252097,
+    "wof:lastmodified":1462609386,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -83.969972,
+    36.011575,
+    -83.969972,
+    36.011575
+],
+  "geometry": {"coordinates":[-83.969972,36.011575],"type":"Point"}
+}

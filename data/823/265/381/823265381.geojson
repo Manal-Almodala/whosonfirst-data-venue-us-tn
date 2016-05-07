@@ -1,0 +1,87 @@
+{
+  "id": 823265381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.701556,36.145692,-86.701556,36.145692",
+    "geom:latitude":36.145692,
+    "geom:longitude":-86.701556,
+    "iso:country":"US",
+    "sg:address":"1865 Air Lane Dr Ste 5",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 872 0111",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery",
+        "messenger",
+        "courier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85835935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ujMdmXLFbSreJ7wl52l0Q_36.145692_-86.701556@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609727,
+    "wof:geomhash":"ea50d8fc6d6f4a926cfd227379c75c42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85835935,
+            "region_id":85688701,
+            "venue_id":823265381
+        }
+    ],
+    "wof:id":823265381,
+    "wof:lastmodified":1462609727,
+    "wof:name":"Courier Systems Corporation",
+    "wof:parent_id":85835935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "messenger",
+        "courier"
+    ]
+},
+  "bbox": [
+    -86.701556,
+    36.145692,
+    -86.701556,
+    36.145692
+],
+  "geometry": {"coordinates":[-86.701556,36.145692],"type":"Point"}
+}

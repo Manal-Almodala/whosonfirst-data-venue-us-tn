@@ -1,0 +1,71 @@
+{
+  "id": 806969843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.820459,36.159306,-82.820459,36.159306",
+    "geom:latitude":36.159306,
+    "geom:longitude":-82.820459,
+    "iso:country":"US",
+    "sg:address":"724 Crum St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 639 4401",
+    "sg:postcode":"37743",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V8esBq28phtgsptfIUlGm_36.159306_-82.820459@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602610,
+    "wof:geomhash":"6310feac4184d88edd7e17009270e1f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":806969843
+        }
+    ],
+    "wof:id":806969843,
+    "wof:lastmodified":1462602610,
+    "wof:name":"Custom Body Shop",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -82.820459,
+    36.159306,
+    -82.820459,
+    36.159306
+],
+  "geometry": {"coordinates":[-82.820459,36.159306],"type":"Point"}
+}

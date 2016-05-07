@@ -1,0 +1,71 @@
+{
+  "id": 789735331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.811232,35.450126,-89.811232,35.450126",
+    "geom:latitude":35.450126,
+    "geom:longitude":-89.811232,
+    "iso:country":"US",
+    "sg:address":"10 Beaver Rd",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 3430",
+    "sg:postcode":"38058",
+    "sg:province":"TN",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kmbOQkoR5CKd2ahHPy8LI_35.450126_-89.811232@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590141,
+    "wof:geomhash":"59bfc90c2cb5b210219546e9195943da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789735331
+        }
+    ],
+    "wof:id":789735331,
+    "wof:lastmodified":1462590141,
+    "wof:name":"Corner Discount Tobacco",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -89.811232,
+    35.450126,
+    -89.811232,
+    35.450126
+],
+  "geometry": {"coordinates":[-89.811232,35.450126],"type":"Point"}
+}

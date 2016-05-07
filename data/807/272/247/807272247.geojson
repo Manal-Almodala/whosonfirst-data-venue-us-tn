@@ -1,0 +1,73 @@
+{
+  "id": 807272247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.740691,35.514284,-89.740691,35.514284",
+    "geom:latitude":35.514284,
+    "geom:longitude":-89.740691,
+    "iso:country":"US",
+    "sg:address":"1920 Indian Creek Rd",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 9361",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01Ed9aE3XjrKnnrT8xI93b_35.514284_-89.740691@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605567,
+    "wof:geomhash":"bcb7fc02f0544a8f18cf6cac1f2473dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":807272247
+        }
+    ],
+    "wof:id":807272247,
+    "wof:lastmodified":1462605567,
+    "wof:name":"McClain & Sons",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.740691,
+    35.514284,
+    -89.740691,
+    35.514284
+],
+  "geometry": {"coordinates":[-89.740691,35.514284],"type":"Point"}
+}

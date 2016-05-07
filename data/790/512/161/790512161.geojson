@@ -1,0 +1,71 @@
+{
+  "id": 790512161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.336321,35.22344,-87.336321,35.22344",
+    "geom:latitude":35.22344,
+    "geom:longitude":-87.336321,
+    "iso:country":"US",
+    "sg:address":"1323 S Locust Ave",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 8850",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YyMe4CCCAkLOJSKFRSCPR_35.223440_-87.336321@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596468,
+    "wof:geomhash":"4b373228dbbb6efed539448923476b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":790512161
+        }
+    ],
+    "wof:id":790512161,
+    "wof:lastmodified":1462596468,
+    "wof:name":"Ear Nose Throat Allergy Clinic",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -87.336321,
+    35.22344,
+    -87.336321,
+    35.22344
+],
+  "geometry": {"coordinates":[-87.336321,35.22344],"type":"Point"}
+}

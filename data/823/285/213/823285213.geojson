@@ -1,0 +1,69 @@
+{
+  "id": 823285213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.022352,35.029736,-90.022352,35.029736",
+    "geom:latitude":35.029736,
+    "geom:longitude":-90.022352,
+    "iso:country":"US",
+    "sg:address":"1234 Finley Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 344 3505",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:website":"http://www.jcpenney.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cY234ds2N4rZSBGuMe27s_35.029736_-90.022352@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610521,
+    "wof:geomhash":"48c322f272e58b8aac7058630ff1ee8e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867187,
+            "region_id":85688701,
+            "venue_id":823285213
+        }
+    ],
+    "wof:id":823285213,
+    "wof:lastmodified":1462610521,
+    "wof:name":"Ctlg Sales Merchant",
+    "wof:parent_id":85867187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.022352,
+    35.029736,
+    -90.022352,
+    35.029736
+],
+  "geometry": {"coordinates":[-90.022352,35.029736],"type":"Point"}
+}

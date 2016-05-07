@@ -1,0 +1,71 @@
+{
+  "id": 807158265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.164751,36.341509,-89.164751,36.341509",
+    "geom:latitude":36.341509,
+    "geom:longitude":-89.164751,
+    "iso:country":"US",
+    "sg:address":"201 Morris Dr",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 8754",
+    "sg:postcode":"38260",
+    "sg:province":"TN",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LjvQQMt80oRztlKJLn66B_36.341509_-89.164751@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604355,
+    "wof:geomhash":"cba532c3ddfd6ccd45e2393831becb75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":807158265
+        }
+    ],
+    "wof:id":807158265,
+    "wof:lastmodified":1462604355,
+    "wof:name":"City Hall",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -89.164751,
+    36.341509,
+    -89.164751,
+    36.341509
+],
+  "geometry": {"coordinates":[-89.164751,36.341509],"type":"Point"}
+}

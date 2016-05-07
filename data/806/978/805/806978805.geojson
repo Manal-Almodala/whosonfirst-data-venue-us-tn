@@ -1,0 +1,78 @@
+{
+  "id": 806978805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.558931,35.897407,-86.558931,35.897407",
+    "geom:latitude":35.897407,
+    "geom:longitude":-86.558931,
+    "iso:country":"US",
+    "sg:address":"400 W North Creek Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 384 2955",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "county",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sByHmCX0wDB99fDuIrjZM_35.897407_-86.558931@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602680,
+    "wof:geomhash":"d3b2f0083e736b7b7f728b1d62a4ec7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":806978805
+        }
+    ],
+    "wof:id":806978805,
+    "wof:lastmodified":1462602680,
+    "wof:name":"Robertson County Medical Group",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.558931,
+    35.897407,
+    -86.558931,
+    35.897407
+],
+  "geometry": {"coordinates":[-86.558931,35.897407],"type":"Point"}
+}

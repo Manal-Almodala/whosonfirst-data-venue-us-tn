@@ -1,0 +1,73 @@
+{
+  "id": 806447029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.340285,35.256414,-87.340285,35.256414",
+    "geom:latitude":35.256414,
+    "geom:longitude":-87.340285,
+    "iso:country":"US",
+    "sg:address":"1109 Buffalo Rd",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 1270",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iAxsGKvqHnhbFD9fV6yFb_35.256414_-87.340285@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598224,
+    "wof:geomhash":"d9d308bc39ebcd0f149cae7394864a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":806447029
+        }
+    ],
+    "wof:id":806447029,
+    "wof:lastmodified":1462598224,
+    "wof:name":"Don Vandiver's Garage",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.340285,
+    35.256414,
+    -87.340285,
+    35.256414
+],
+  "geometry": {"coordinates":[-87.34028499999999,35.256414],"type":"Point"}
+}

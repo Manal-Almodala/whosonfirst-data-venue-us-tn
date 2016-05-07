@@ -1,0 +1,73 @@
+{
+  "id": 823244477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.444171,35.844696,-86.444171,35.844696",
+    "geom:latitude":35.844696,
+    "geom:longitude":-86.444171,
+    "iso:country":"US",
+    "sg:address":"2595 Old Fort Pkwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/203471-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mOcWjXyXPAxyeAnuYKskN_35.844696_-86.444171@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609227,
+    "wof:geomhash":"c0bb4e63d3d84ca301182542e4ad4399",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823244477
+        }
+    ],
+    "wof:id":823244477,
+    "wof:lastmodified":1462609227,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.444171,
+    35.844696,
+    -86.444171,
+    35.844696
+],
+  "geometry": {"coordinates":[-86.444171,35.844696],"type":"Point"}
+}

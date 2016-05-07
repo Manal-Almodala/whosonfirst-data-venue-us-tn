@@ -1,0 +1,71 @@
+{
+  "id": 806645985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.210798,35.534378,-87.210798,35.534378",
+    "geom:latitude":35.534378,
+    "geom:longitude":-87.210798,
+    "iso:country":"US",
+    "sg:address":"203 Pleasant St",
+    "sg:city":"Mt Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 3240",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4avAh2CWNzsmMo8VsToGRm_35.534378_-87.210798@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599868,
+    "wof:geomhash":"b4af442d37546659f3e88b722379a8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":806645985
+        }
+    ],
+    "wof:id":806645985,
+    "wof:lastmodified":1462599868,
+    "wof:name":"Mt Pleasant Gas System",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -87.210798,
+    35.534378,
+    -87.210798,
+    35.534378
+],
+  "geometry": {"coordinates":[-87.210798,35.534378],"type":"Point"}
+}

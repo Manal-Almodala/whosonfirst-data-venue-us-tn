@@ -1,0 +1,73 @@
+{
+  "id": 789839273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.722228,35.482063,-89.722228,35.482063",
+    "geom:latitude":35.482063,
+    "geom:longitude":-89.722228,
+    "iso:country":"US",
+    "sg:address":"62 School St",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 4472",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4thApjMN6WIBLLzZeIcxdD_35.482063_-89.722228@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590941,
+    "wof:geomhash":"77e0cae92ef024e5c510722d6bc51cf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789839273
+        }
+    ],
+    "wof:id":789839273,
+    "wof:lastmodified":1462590941,
+    "wof:name":"Brighton Gym",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -89.722228,
+    35.482063,
+    -89.722228,
+    35.482063
+],
+  "geometry": {"coordinates":[-89.722228,35.482063],"type":"Point"}
+}

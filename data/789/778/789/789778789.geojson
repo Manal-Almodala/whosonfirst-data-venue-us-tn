@@ -1,0 +1,71 @@
+{
+  "id": 789778789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.241813,36.066188,-84.241813,36.066188",
+    "geom:latitude":36.066188,
+    "geom:longitude":-84.241813,
+    "iso:country":"US",
+    "sg:address":"266 Taylor Ln",
+    "sg:city":"Clinton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 435 9528",
+    "sg:postcode":"37716",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yEck9vEl6zwtOeCLxjLva_36.066188_-84.241813@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590471,
+    "wof:geomhash":"705e033107df56c59ea6072b77253312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":789778789
+        }
+    ],
+    "wof:id":789778789,
+    "wof:lastmodified":1462590471,
+    "wof:name":"Bailey Movers Inc",
+    "wof:parent_id":85818065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -84.241813,
+    36.066188,
+    -84.241813,
+    36.066188
+],
+  "geometry": {"coordinates":[-84.24181299999999,36.066188],"type":"Point"}
+}

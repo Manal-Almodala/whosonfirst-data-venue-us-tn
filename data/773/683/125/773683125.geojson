@@ -1,0 +1,85 @@
+{
+  "id": 773683125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.950344,35.760343,-83.950344,35.760343",
+    "geom:latitude":35.760343,
+    "geom:longitude":-83.950344,
+    "iso:country":"US",
+    "sg:address":"1813 Sevierville Rd",
+    "sg:city":"Maryville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 983 9441",
+    "sg:postcode":"37804",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722701,
+        102087017,
+        85838943,
+        85825587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_056KxF4UGxoZkJpkueBwZQ_35.760343_-83.950344@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587564,
+    "wof:geomhash":"c0a32b5ad83ebf3883dfea7025c985c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85838943,
+            "region_id":85688701,
+            "venue_id":773683125
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85825587,
+            "region_id":85688701,
+            "venue_id":773683125
+        }
+    ],
+    "wof:id":773683125,
+    "wof:lastmodified":1462587564,
+    "wof:name":"Kenjo Market Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "station"
+    ]
+},
+  "bbox": [
+    -83.950344,
+    35.760343,
+    -83.950344,
+    35.760343
+],
+  "geometry": {"coordinates":[-83.950344,35.760343],"type":"Point"}
+}

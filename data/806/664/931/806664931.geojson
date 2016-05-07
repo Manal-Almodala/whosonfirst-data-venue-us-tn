@@ -1,0 +1,73 @@
+{
+  "id": 806664931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.35143,35.242718,-87.35143,35.242718",
+    "geom:latitude":35.242718,
+    "geom:longitude":-87.35143,
+    "iso:country":"US",
+    "sg:address":"1000 W Gaines St",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 7211",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85820929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DT2qXMArNsCC2uZ7y7XIk_35.242718_-87.351430@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600039,
+    "wof:geomhash":"330f4dd8468eeca8547237bcbb97d366",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85820929,
+            "region_id":85688701,
+            "venue_id":806664931
+        }
+    ],
+    "wof:id":806664931,
+    "wof:lastmodified":1462600039,
+    "wof:name":"King's Transmission Svc",
+    "wof:parent_id":85820929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.35143,
+    35.242718,
+    -87.35143,
+    35.242718
+],
+  "geometry": {"coordinates":[-87.35142999999999,35.242718],"type":"Point"}
+}

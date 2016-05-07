@@ -1,0 +1,78 @@
+{
+  "id": 823287475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.884423,35.10867,-89.884423,35.10867",
+    "geom:latitude":35.10867,
+    "geom:longitude":-89.884423,
+    "iso:country":"US",
+    "sg:address":"806 Estate Pl",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 681 4000",
+    "sg:postcode":"38120",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870777
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38MXvnEzOZtBtoVyrgqjw0_35.108670_-89.884423@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610605,
+    "wof:geomhash":"3b403b4425c0d6df29d1238ab252243f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870777,
+            "region_id":85688701,
+            "venue_id":823287475
+        }
+    ],
+    "wof:id":823287475,
+    "wof:lastmodified":1462610605,
+    "wof:name":"Le Bonheur East",
+    "wof:parent_id":85870777,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.884423,
+    35.10867,
+    -89.884423,
+    35.10867
+],
+  "geometry": {"coordinates":[-89.884423,35.10867],"type":"Point"}
+}

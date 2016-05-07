@@ -1,0 +1,79 @@
+{
+  "id": 789678291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.779285,35.693744,-85.779285,35.693744",
+    "geom:latitude":35.693744,
+    "geom:longitude":-85.779285,
+    "iso:country":"US",
+    "sg:address":"723 N Chancery St",
+    "sg:city":"Mc Minnville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 506 5275",
+    "sg:postcode":"37110",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723105,
+        102086399,
+        420542243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BgNtrZF2u70SB9jile6tK_35.693744_-85.779285@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589687,
+    "wof:geomhash":"ef706bb6e7ebda4c664a8bfdad9a6659",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086399,
+            "locality_id":101723105,
+            "neighbourhood_id":420542243,
+            "region_id":85688701,
+            "venue_id":789678291
+        }
+    ],
+    "wof:id":789678291,
+    "wof:lastmodified":1462589687,
+    "wof:name":"Enterprise Rent A Car",
+    "wof:parent_id":420542243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -85.779285,
+    35.693744,
+    -85.779285,
+    35.693744
+],
+  "geometry": {"coordinates":[-85.779285,35.693744],"type":"Point"}
+}

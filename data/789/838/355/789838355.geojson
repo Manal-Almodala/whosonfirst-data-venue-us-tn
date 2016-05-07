@@ -1,0 +1,71 @@
+{
+  "id": 789838355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.303386,36.554514,-82.303386,36.554514",
+    "geom:latitude":36.554514,
+    "geom:longitude":-82.303386,
+    "iso:country":"US",
+    "sg:address":"994 Cross Community Rd",
+    "sg:city":"Blountville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 323 9339",
+    "sg:postcode":"37617",
+    "sg:province":"TN",
+    "sg:tags":[
+        "residential",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85825325,
+        102086471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1c3J9OY168uNZC4HqIkt6b_36.554514_-82.303386@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590934,
+    "wof:geomhash":"f590c1337ffcc0ae75ea25f584927f6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "neighbourhood_id":85825325,
+            "region_id":85688701,
+            "venue_id":789838355
+        }
+    ],
+    "wof:id":789838355,
+    "wof:lastmodified":1462590934,
+    "wof:name":"Sulliven House Residential",
+    "wof:parent_id":85825325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.303386,
+    36.554514,
+    -82.303386,
+    36.554514
+],
+  "geometry": {"coordinates":[-82.303386,36.554514],"type":"Point"}
+}

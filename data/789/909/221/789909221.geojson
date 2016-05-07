@@ -1,0 +1,75 @@
+{
+  "id": 789909221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.266782,36.226383,-83.266782,36.226383",
+    "geom:latitude":36.226383,
+    "geom:longitude":-83.266782,
+    "iso:country":"US",
+    "sg:address":"2102 E Andrew Johnson Hwy",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 4631",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance",
+        "household",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74haz9GEEglFzc3Ywsaun6_36.226383_-83.266782@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591531,
+    "wof:geomhash":"62444bb178cddb664f1de34b3064b0a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789909221
+        }
+    ],
+    "wof:id":789909221,
+    "wof:lastmodified":1462591531,
+    "wof:name":"Vacuum Cleaner Shop",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "household",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -83.266782,
+    36.226383,
+    -83.266782,
+    36.226383
+],
+  "geometry": {"coordinates":[-83.26678200000001,36.226383],"type":"Point"}
+}

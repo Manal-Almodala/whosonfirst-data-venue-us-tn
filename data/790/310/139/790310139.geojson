@@ -1,0 +1,73 @@
+{
+  "id": 790310139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.908797,35.221595,-89.908797,35.221595",
+    "geom:latitude":35.221595,
+    "geom:longitude":-89.908797,
+    "iso:country":"US",
+    "sg:address":"3515 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 377 0384",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YUi7y7VG14TPxgG1lM7Zf_35.221595_-89.908797@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594847,
+    "wof:geomhash":"daaaa1057ae7ea089568cd152756a966",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":790310139
+        }
+    ],
+    "wof:id":790310139,
+    "wof:lastmodified":1462594847,
+    "wof:name":"Exxon",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.908797,
+    35.221595,
+    -89.908797,
+    35.221595
+],
+  "geometry": {"coordinates":[-89.90879700000001,35.221595],"type":"Point"}
+}

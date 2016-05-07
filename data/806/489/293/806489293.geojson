@@ -1,0 +1,71 @@
+{
+  "id": 806489293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.825424,36.172641,-82.825424,36.172641",
+    "geom:latitude":36.172641,
+    "geom:longitude":-82.825424,
+    "iso:country":"US",
+    "sg:address":"521 N Main St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 638 9600",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZcfrXdtqAdOVYwafX3woH_36.172641_-82.825424@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598538,
+    "wof:geomhash":"e9057e4740361bf9cd9cece28a908762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":806489293
+        }
+    ],
+    "wof:id":806489293,
+    "wof:lastmodified":1462598538,
+    "wof:name":"East Tennesse Vet Hosp",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -82.825424,
+    36.172641,
+    -82.825424,
+    36.172641
+],
+  "geometry": {"coordinates":[-82.825424,36.172641],"type":"Point"}
+}

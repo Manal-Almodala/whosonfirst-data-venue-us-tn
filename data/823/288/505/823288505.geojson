@@ -1,0 +1,74 @@
+{
+  "id": 823288505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.81623,35.050613,-89.81623,35.050613",
+    "geom:latitude":35.050613,
+    "geom:longitude":-89.81623,
+    "iso:country":"US",
+    "sg:address":"7420 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 624 7225",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "car"
+    ],
+    "sg:website":"http://www.hertz.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722649,
+        102087213,
+        85870787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qcqHnhofUHJQfnWsrvjGZ_35.050613_-89.816230@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610642,
+    "wof:geomhash":"30c93e91dbb0d4eda1b40a7bda430676",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722649,
+            "neighbourhood_id":85870787,
+            "region_id":85688701,
+            "venue_id":823288505
+        }
+    ],
+    "wof:id":823288505,
+    "wof:lastmodified":1462610642,
+    "wof:name":"Hertz Local Edition",
+    "wof:parent_id":85870787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -89.81623,
+    35.050613,
+    -89.81623,
+    35.050613
+],
+  "geometry": {"coordinates":[-89.81623,35.050613],"type":"Point"}
+}

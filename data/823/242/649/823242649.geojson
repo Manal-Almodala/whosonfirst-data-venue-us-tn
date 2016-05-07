@@ -1,0 +1,72 @@
+{
+  "id": 823242649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.374783,36.076272,-87.374783,36.076272",
+    "geom:latitude":36.076272,
+    "geom:longitude":-87.374783,
+    "iso:country":"US",
+    "sg:address":"114 Mathis Dr",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/dickson/215204-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 446 3713",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DPX0qsQWIC1e6yIVpNl5V_36.076272_-87.374783@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609196,
+    "wof:geomhash":"4d204cfdb26c1f6019beccf7e51abab5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":823242649
+        }
+    ],
+    "wof:id":823242649,
+    "wof:lastmodified":1462609196,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -87.374783,
+    36.076272,
+    -87.374783,
+    36.076272
+],
+  "geometry": {"coordinates":[-87.37478299999999,36.076272],"type":"Point"}
+}

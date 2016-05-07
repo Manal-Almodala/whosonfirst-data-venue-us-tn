@@ -1,0 +1,69 @@
+{
+  "id": 789999123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.386929,36.506523,-87.386929,36.506523",
+    "geom:latitude":36.506523,
+    "geom:longitude":-87.386929,
+    "iso:country":"US",
+    "sg:address":"925 Briarwood Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 648 2365",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77XwzFQTULTYagep7fx3Ej_36.506523_-87.386929@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592323,
+    "wof:geomhash":"5d2aabe835b3ac32bbc436e40a75232c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":789999123
+        }
+    ],
+    "wof:id":789999123,
+    "wof:lastmodified":1462592323,
+    "wof:name":"Cumberland Heights Utility",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply"
+    ]
+},
+  "bbox": [
+    -87.386929,
+    36.506523,
+    -87.386929,
+    36.506523
+],
+  "geometry": {"coordinates":[-87.38692899999999,36.506523],"type":"Point"}
+}

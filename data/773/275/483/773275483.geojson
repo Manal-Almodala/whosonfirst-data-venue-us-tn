@@ -1,0 +1,71 @@
+{
+  "id": 773275483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.125172,35.941946,-84.125172,35.941946",
+    "geom:latitude":35.941946,
+    "geom:longitude":-84.125172,
+    "iso:country":"US",
+    "sg:address":"1432 Hickey Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 539 4000",
+    "sg:postcode":"37932",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14i0uN9LOaNoPshqB52psV_35.941946_-84.125172@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584482,
+    "wof:geomhash":"407b8a8ed7aad6fa1abaf44707ba3fc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":773275483
+        }
+    ],
+    "wof:id":773275483,
+    "wof:lastmodified":1462584482,
+    "wof:name":"William M Hogan MD",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.125172,
+    35.941946,
+    -84.125172,
+    35.941946
+],
+  "geometry": {"coordinates":[-84.12517200000001,35.941946],"type":"Point"}
+}

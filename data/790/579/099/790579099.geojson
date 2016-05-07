@@ -1,0 +1,77 @@
+{
+  "id": 790579099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.328713,36.219383,-86.328713,36.219383",
+    "geom:latitude":36.219383,
+    "geom:longitude":-86.328713,
+    "iso:country":"US",
+    "sg:address":"1411 W Baddour Pkwy",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 6070",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.universitymedicalcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09JP89PI5M2HutNt5iMK7n_36.219383_-86.328713@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597030,
+    "wof:geomhash":"84b2f74cf690426c54f0bc2a8b1c43db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":790579099
+        }
+    ],
+    "wof:id":790579099,
+    "wof:lastmodified":1462597030,
+    "wof:name":"University Medical Center",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.328713,
+    36.219383,
+    -86.328713,
+    36.219383
+],
+  "geometry": {"coordinates":[-86.32871299999999,36.219383],"type":"Point"}
+}

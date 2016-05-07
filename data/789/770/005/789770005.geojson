@@ -1,0 +1,73 @@
+{
+  "id": 789770005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.052964,35.031866,-90.052964,35.031866",
+    "geom:latitude":35.031866,
+    "geom:longitude":-90.052964,
+    "iso:country":"US",
+    "sg:address":"294 Shofner Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 332 1030",
+    "sg:postcode":"38109",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OsQrAi1CcnjdHj1UFJaks_35.031866_-90.052964@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590401,
+    "wof:geomhash":"c381a78cf3246ea3cde98a8d1758835a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542123,
+            "region_id":85688701,
+            "venue_id":789770005
+        }
+    ],
+    "wof:id":789770005,
+    "wof:lastmodified":1462590401,
+    "wof:name":"Mac Trucking",
+    "wof:parent_id":420542123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.052964,
+    35.031866,
+    -90.052964,
+    35.031866
+],
+  "geometry": {"coordinates":[-90.052964,35.031866],"type":"Point"}
+}

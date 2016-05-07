@@ -1,0 +1,71 @@
+{
+  "id": 773443797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.236997,35.234414,-88.236997,35.234414",
+    "geom:latitude":35.234414,
+    "geom:longitude":-88.236997,
+    "iso:country":"US",
+    "sg:address":"980 King St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 4989",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CwNfZS4YkeTwDFxJK1Z6l_35.234414_-88.236997@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585792,
+    "wof:geomhash":"f292a5ec52e6939f638931cc2da96b2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":773443797
+        }
+    ],
+    "wof:id":773443797,
+    "wof:lastmodified":1462585792,
+    "wof:name":"Savannah Police Dept",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.236997,
+    35.234414,
+    -88.236997,
+    35.234414
+],
+  "geometry": {"coordinates":[-88.236997,35.234414],"type":"Point"}
+}

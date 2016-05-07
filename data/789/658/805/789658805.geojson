@@ -1,0 +1,73 @@
+{
+  "id": 789658805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.327703,35.097023,-85.327703,35.097023",
+    "geom:latitude":35.097023,
+    "geom:longitude":-85.327703,
+    "iso:country":"US",
+    "sg:address":"623 Signal Mountain Blvd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 266 8812",
+    "sg:postcode":"37405",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        420541615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VLAK0ZMoOc9Yn0Mkk8W5C_35.097023_-85.327703@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589520,
+    "wof:geomhash":"6779f231ec2efcaafc00ba2fc87970ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":420541615,
+            "region_id":85688701,
+            "venue_id":789658805
+        }
+    ],
+    "wof:id":789658805,
+    "wof:lastmodified":1462589520,
+    "wof:name":"Car Shine Car Wash",
+    "wof:parent_id":420541615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -85.327703,
+    35.097023,
+    -85.327703,
+    35.097023
+],
+  "geometry": {"coordinates":[-85.327703,35.097023],"type":"Point"}
+}

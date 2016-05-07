@@ -1,0 +1,80 @@
+{
+  "id": 807170177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.456824,36.37985,-86.456824,36.37985",
+    "geom:latitude":36.37985,
+    "geom:longitude":-86.456824,
+    "iso:country":"US",
+    "sg:address":"239 Hancock St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 451 5922",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "govt",
+        "city",
+        "combination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57OMkiCZ9zGB473talvtDy_36.379850_-86.456824@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604486,
+    "wof:geomhash":"422f9d14d34971229360b710014dfcbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":807170177
+        }
+    ],
+    "wof:id":807170177,
+    "wof:lastmodified":1462604486,
+    "wof:name":"Gassatin Public Utilities",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city",
+        "combination"
+    ]
+},
+  "bbox": [
+    -86.456824,
+    36.37985,
+    -86.456824,
+    36.37985
+],
+  "geometry": {"coordinates":[-86.456824,36.37985],"type":"Point"}
+}

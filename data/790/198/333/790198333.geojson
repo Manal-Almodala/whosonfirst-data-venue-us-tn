@@ -1,0 +1,71 @@
+{
+  "id": 790198333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.095614,35.449722,-86.095614,35.449722",
+    "geom:latitude":35.449722,
+    "geom:longitude":-86.095614,
+    "iso:country":"US",
+    "sg:address":"810 Lincoln St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 0044",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7g95RHdeufM6VJYM0j5peQ_35.449722_-86.095614@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593945,
+    "wof:geomhash":"19fd5c517ece43d9cb7ae001b3e1a22e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":790198333
+        }
+    ],
+    "wof:id":790198333,
+    "wof:lastmodified":1462593945,
+    "wof:name":"ADC Taxi",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.095614,
+    35.449722,
+    -86.095614,
+    35.449722
+],
+  "geometry": {"coordinates":[-86.095614,35.449722],"type":"Point"}
+}

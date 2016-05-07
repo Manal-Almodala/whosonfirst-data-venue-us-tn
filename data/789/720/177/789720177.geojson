@@ -1,0 +1,78 @@
+{
+  "id": 789720177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.518834,36.091264,-87.518834,36.091264",
+    "geom:latitude":36.091264,
+    "geom:longitude":-87.518834,
+    "iso:country":"US",
+    "sg:address":"4605 US Hwy 70 W",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 446 0639",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_525Q1yfDLvcB3Esg7DXXh2_36.091264_-87.518834@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590017,
+    "wof:geomhash":"041ea13eb2a264e429eec82e56780f35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":789720177
+        }
+    ],
+    "wof:id":789720177,
+    "wof:lastmodified":1462590017,
+    "wof:name":"Tennessee City Vlntr Fire Dept",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -87.518834,
+    36.091264,
+    -87.518834,
+    36.091264
+],
+  "geometry": {"coordinates":[-87.518834,36.091264],"type":"Point"}
+}

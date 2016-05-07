@@ -1,0 +1,71 @@
+{
+  "id": 807403017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.594349,35.476704,-84.594349,35.476704",
+    "geom:latitude":35.476704,
+    "geom:longitude":-84.594349,
+    "iso:country":"US",
+    "sg:address":"2000 Lawn Dr",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 000 1111",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85811277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cJ2lCbekY7Jor94tQ9vi6_35.476704_-84.594349@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607353,
+    "wof:geomhash":"49d5f7085d3883f6b4dd23f3fc322e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85811277,
+            "region_id":85688701,
+            "venue_id":807403017
+        }
+    ],
+    "wof:id":807403017,
+    "wof:lastmodified":1462607353,
+    "wof:name":"Mc Minn County Ambulance Svc",
+    "wof:parent_id":85811277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.594349,
+    35.476704,
+    -84.594349,
+    35.476704
+],
+  "geometry": {"coordinates":[-84.59434899999999,35.476704],"type":"Point"}
+}

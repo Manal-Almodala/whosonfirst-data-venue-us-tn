@@ -1,0 +1,71 @@
+{
+  "id": 789677751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.906968,35.215749,-89.906968,35.215749",
+    "geom:latitude":35.215749,
+    "geom:longitude":-89.906968,
+    "iso:country":"US",
+    "sg:address":"3314 Scheibler Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 373 9358",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q3rlo8y45F45f6PUGBHHN_35.215749_-89.906968@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589683,
+    "wof:geomhash":"9341ee32226d149a857fb2c19433e0d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789677751
+        }
+    ],
+    "wof:id":789677751,
+    "wof:lastmodified":1462589683,
+    "wof:name":"Tri-State Delivery Inc",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.906968,
+    35.215749,
+    -89.906968,
+    35.215749
+],
+  "geometry": {"coordinates":[-89.90696800000001,35.215749],"type":"Point"}
+}

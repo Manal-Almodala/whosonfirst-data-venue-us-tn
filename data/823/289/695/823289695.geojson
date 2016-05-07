@@ -1,0 +1,71 @@
+{
+  "id": 823289695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.91743,35.214333,-89.91743,35.214333",
+    "geom:latitude":35.214333,
+    "geom:longitude":-89.91743,
+    "iso:country":"US",
+    "sg:address":"3262 Coleman Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 372 3779",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50STRbYueL07xxRl3XBI3G_35.214333_-89.917430@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610684,
+    "wof:geomhash":"e2da19fbbafdc410180575d971873caa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823289695
+        }
+    ],
+    "wof:id":823289695,
+    "wof:lastmodified":1462610684,
+    "wof:name":"Best Nails",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.91743,
+    35.214333,
+    -89.91743,
+    35.214333
+],
+  "geometry": {"coordinates":[-89.91743,35.214333],"type":"Point"}
+}

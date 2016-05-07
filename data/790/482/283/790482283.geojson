@@ -1,0 +1,71 @@
+{
+  "id": 790482283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.00803,35.510923,-85.00803,35.510923",
+    "geom:latitude":35.510923,
+    "geom:longitude":-85.00803,
+    "iso:country":"US",
+    "sg:address":"1140 Broadway St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 1210",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11qUMbMdbYWiHqRMdmaI0h_35.510923_-85.008030@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596212,
+    "wof:geomhash":"391169d063a253db26dbba951d08574a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":790482283
+        }
+    ],
+    "wof:id":790482283,
+    "wof:lastmodified":1462596212,
+    "wof:name":"Nike",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -85.00803,
+    35.510923,
+    -85.00803,
+    35.510923
+],
+  "geometry": {"coordinates":[-85.00803000000001,35.510923],"type":"Point"}
+}

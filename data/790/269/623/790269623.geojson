@@ -1,0 +1,73 @@
+{
+  "id": 790269623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.595165,35.477212,-84.595165,35.477212",
+    "geom:latitude":35.477212,
+    "geom:longitude":-84.595165,
+    "iso:country":"US",
+    "sg:address":"2205 Lawn Dr",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 9385",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery",
+        "parcel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85811277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2d0KbO9zdO7iUUlD8LFN7s_35.477212_-84.595165@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594497,
+    "wof:geomhash":"983f022d0b21a2ba12983a6cb20a0802",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85811277,
+            "region_id":85688701,
+            "venue_id":790269623
+        }
+    ],
+    "wof:id":790269623,
+    "wof:lastmodified":1462594497,
+    "wof:name":"UPS",
+    "wof:parent_id":85811277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "parcel"
+    ]
+},
+  "bbox": [
+    -84.595165,
+    35.477212,
+    -84.595165,
+    35.477212
+],
+  "geometry": {"coordinates":[-84.59516499999999,35.477212],"type":"Point"}
+}

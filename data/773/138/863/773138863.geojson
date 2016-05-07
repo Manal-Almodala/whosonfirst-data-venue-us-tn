@@ -1,0 +1,71 @@
+{
+  "id": 773138863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.336634,35.242672,-87.336634,35.242672",
+    "geom:latitude":35.242672,
+    "geom:longitude":-87.336634,
+    "iso:country":"US",
+    "sg:address":"232 W Gaines St",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 2276",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sgIBYpYZqVtfvAyU8DV8o_35.242672_-87.336634@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583428,
+    "wof:geomhash":"677dca24d011a8564787e5527572d8da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":773138863
+        }
+    ],
+    "wof:id":773138863,
+    "wof:lastmodified":1462583428,
+    "wof:name":"Lawrenceburg Police Dept",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.336634,
+    35.242672,
+    -87.336634,
+    35.242672
+],
+  "geometry": {"coordinates":[-87.336634,35.242672],"type":"Point"}
+}

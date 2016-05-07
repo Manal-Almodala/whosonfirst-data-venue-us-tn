@@ -1,0 +1,73 @@
+{
+  "id": 773148549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.67753,35.533845,-89.67753,35.533845",
+    "geom:latitude":35.533845,
+    "geom:longitude":-89.67753,
+    "iso:country":"US",
+    "sg:address":"1998 US Hwy 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 1155",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gQiMh8FwFOTzoXm37Xfv5_35.533845_-89.677530@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583493,
+    "wof:geomhash":"f43c9f93918bee9fd8f752ecd6091fb5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":773148549
+        }
+    ],
+    "wof:id":773148549,
+    "wof:lastmodified":1462583493,
+    "wof:name":"Covington Pediatrics",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.67753,
+    35.533845,
+    -89.67753,
+    35.533845
+],
+  "geometry": {"coordinates":[-89.67753,35.533845],"type":"Point"}
+}

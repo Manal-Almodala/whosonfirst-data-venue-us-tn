@@ -1,0 +1,73 @@
+{
+  "id": 790333619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.11295,35.796313,-85.11295,35.796313",
+    "geom:latitude":35.796313,
+    "geom:longitude":-85.11295,
+    "iso:country":"US",
+    "sg:address":"1353 Brewer Rd",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 788 2629",
+    "sg:postcode":"38572",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YCgqdikqlTJz9xpxgOTWK_35.796313_-85.112950@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595017,
+    "wof:geomhash":"fa2e19025ebe665bb35c1d84094794aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":790333619
+        }
+    ],
+    "wof:id":790333619,
+    "wof:lastmodified":1462595017,
+    "wof:name":"Plateau Dental Lab",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -85.11295,
+    35.796313,
+    -85.11295,
+    35.796313
+],
+  "geometry": {"coordinates":[-85.11295,35.796313],"type":"Point"}
+}

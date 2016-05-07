@@ -1,0 +1,73 @@
+{
+  "id": 823247471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.686069,35.04285,-85.686069,35.04285",
+    "geom:latitude":35.04285,
+    "geom:longitude":-85.686069,
+    "iso:country":"US",
+    "sg:address":"160 Main St",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/monteagle-south-pittsburg/203526-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37347",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AY11xaRMcNx58wZlgxzRt_35.042850_-85.686069@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609285,
+    "wof:geomhash":"0319dbd517161ce59852258e1cad1c8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":823247471
+        }
+    ],
+    "wof:id":823247471,
+    "wof:lastmodified":1462609285,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.686069,
+    35.04285,
+    -85.686069,
+    35.04285
+],
+  "geometry": {"coordinates":[-85.686069,35.04285],"type":"Point"}
+}

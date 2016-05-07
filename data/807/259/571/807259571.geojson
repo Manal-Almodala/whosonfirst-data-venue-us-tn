@@ -1,0 +1,73 @@
+{
+  "id": 807259571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.586868,36.148103,-85.586868,36.148103",
+    "geom:latitude":36.148103,
+    "geom:longitude":-85.586868,
+    "iso:country":"US",
+    "sg:address":"1919 Birch Cir",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 432 2788",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R2h100fzcIDxmrm550SrP_36.148103_-85.586868@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605427,
+    "wof:geomhash":"b94c5b2382b188802251ef6f91d2de78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":807259571
+        }
+    ],
+    "wof:id":807259571,
+    "wof:lastmodified":1462605427,
+    "wof:name":"Herbold & Herbold Locksmith",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -85.586868,
+    36.148103,
+    -85.586868,
+    36.148103
+],
+  "geometry": {"coordinates":[-85.586868,36.148103],"type":"Point"}
+}

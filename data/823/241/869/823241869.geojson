@@ -1,0 +1,86 @@
+{
+  "id": 823241869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.659477,36.04385,-86.659477,36.04385",
+    "geom:latitude":36.04385,
+    "geom:longitude":-86.659477,
+    "iso:country":"US",
+    "sg:address":"5420 Target Dr",
+    "sg:city":"Antioch",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/95100-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 731 5287",
+    "sg:postcode":"37013",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85846409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t5PurP5hZ3joV1vzC0TkM_36.043850_-86.659477@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609182,
+    "wof:geomhash":"11ea21f8c00eb2d91ab64a57c58fea1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85846409,
+            "region_id":85688701,
+            "venue_id":823241869
+        }
+    ],
+    "wof:id":823241869,
+    "wof:lastmodified":1462609182,
+    "wof:name":"IHOP",
+    "wof:parent_id":85846409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -86.659477,
+    36.04385,
+    -86.659477,
+    36.04385
+],
+  "geometry": {"coordinates":[-86.659477,36.04385],"type":"Point"}
+}

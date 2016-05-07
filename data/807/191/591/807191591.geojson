@@ -1,0 +1,73 @@
+{
+  "id": 807191591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.829098,36.166483,-82.829098,36.166483",
+    "geom:latitude":36.166483,
+    "geom:longitude":-82.829098,
+    "iso:country":"US",
+    "sg:address":"221 N Main St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 787 6050",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PRsjKmw1YSVvuS6XhdJZj_36.166483_-82.829098@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604705,
+    "wof:geomhash":"acf645883a5fd94e3a251e6e558aa1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":807191591
+        }
+    ],
+    "wof:id":807191591,
+    "wof:lastmodified":1462604705,
+    "wof:name":"Greenville Pediatric Clinic PC",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.829098,
+    36.166483,
+    -82.829098,
+    36.166483
+],
+  "geometry": {"coordinates":[-82.829098,36.166483],"type":"Point"}
+}

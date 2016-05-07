@@ -1,0 +1,73 @@
+{
+  "id": 789862565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.448962,36.39024,-86.448962,36.39024",
+    "geom:latitude":36.39024,
+    "geom:longitude":-86.448962,
+    "iso:country":"US",
+    "sg:address":"150 W Broadway",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 0987",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52kWWR7tNwWO0FY8JEsAO3_36.390240_-86.448962@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591127,
+    "wof:geomhash":"e795e1bc1a8ad93136f8de02c62059a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":789862565
+        }
+    ],
+    "wof:id":789862565,
+    "wof:lastmodified":1462591127,
+    "wof:name":"American Tire Co",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.448962,
+    36.39024,
+    -86.448962,
+    36.39024
+],
+  "geometry": {"coordinates":[-86.44896199999999,36.39024],"type":"Point"}
+}

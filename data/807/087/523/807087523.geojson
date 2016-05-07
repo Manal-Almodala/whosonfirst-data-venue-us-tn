@@ -1,0 +1,82 @@
+{
+  "id": 807087523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.713961,36.257506,-86.713961,36.257506",
+    "geom:latitude":36.257506,
+    "geom:longitude":-86.713961,
+    "iso:country":"US",
+    "sg:address":"519 Gallatin Pike S",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 860 3566",
+    "sg:postcode":"37115",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners",
+        "electrical",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85834867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41vikCI4RnWSAyWZhanvNY_36.257506_-86.713961@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603591,
+    "wof:geomhash":"91c6c2054cd04bb097334f85b39cd1c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85834867,
+            "region_id":85688701,
+            "venue_id":807087523
+        }
+    ],
+    "wof:id":807087523,
+    "wof:lastmodified":1462603591,
+    "wof:name":"Mid State Vacuum",
+    "wof:parent_id":85834867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "electrical",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -86.713961,
+    36.257506,
+    -86.713961,
+    36.257506
+],
+  "geometry": {"coordinates":[-86.713961,36.257506],"type":"Point"}
+}

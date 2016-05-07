@@ -1,0 +1,73 @@
+{
+  "id": 789967337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.217197,36.616957,-87.217197,36.616957",
+    "geom:latitude":36.616957,
+    "geom:longitude":-87.217197,
+    "iso:country":"US",
+    "sg:address":"650 Webb Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 648 4534",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85805425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iPwVuIipLaPgulC4oh66f_36.616957_-87.217197@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592062,
+    "wof:geomhash":"499f721c1de932bbe134857b1d433f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85805425,
+            "region_id":85688701,
+            "venue_id":789967337
+        }
+    ],
+    "wof:id":789967337,
+    "wof:lastmodified":1462592062,
+    "wof:name":"Watkins Maintenance",
+    "wof:parent_id":85805425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.217197,
+    36.616957,
+    -87.217197,
+    36.616957
+],
+  "geometry": {"coordinates":[-87.217197,36.616957],"type":"Point"}
+}

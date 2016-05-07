@@ -1,0 +1,71 @@
+{
+  "id": 789803931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.339062,36.33285,-82.339062,36.33285",
+    "geom:latitude":36.33285,
+    "geom:longitude":-82.339062,
+    "iso:country":"US",
+    "sg:address":"204 Crown St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 928 4776",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85809563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GJHbwEQqAoA3Pm3Caz6Mr_36.332850_-82.339062@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590667,
+    "wof:geomhash":"11c7b3de1025a7fbc67f95979356c0ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85809563,
+            "region_id":85688701,
+            "venue_id":789803931
+        }
+    ],
+    "wof:id":789803931,
+    "wof:lastmodified":1462590667,
+    "wof:name":"Whaley's Wrecker Svc",
+    "wof:parent_id":85809563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.339062,
+    36.33285,
+    -82.339062,
+    36.33285
+],
+  "geometry": {"coordinates":[-82.339062,36.33285],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773226761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.800349,35.446674,-89.800349,35.446674",
+    "geom:latitude":35.446674,
+    "geom:longitude":-89.800349,
+    "iso:country":"US",
+    "sg:address":"516 Munford-Atoka Ave",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 9632",
+    "sg:postcode":"38058",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66NSfq201XOyYEsYesnpm0_35.446674_-89.800349@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584120,
+    "wof:geomhash":"2271b2050c22dc83667635af23b884e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":773226761
+        }
+    ],
+    "wof:id":773226761,
+    "wof:lastmodified":1462584120,
+    "wof:name":"Munford Tire & Brake",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.800349,
+    35.446674,
+    -89.800349,
+    35.446674
+],
+  "geometry": {"coordinates":[-89.800349,35.446674],"type":"Point"}
+}

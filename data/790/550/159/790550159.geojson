@@ -1,0 +1,71 @@
+{
+  "id": 790550159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.732856,35.482496,-89.732856,35.482496",
+    "geom:latitude":35.482496,
+    "geom:longitude":-89.732856,
+    "iso:country":"US",
+    "sg:address":"83 Thomas St",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 2760",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50NCDRLquO6TEy8tWrWlpR_35.482496_-89.732856@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596797,
+    "wof:geomhash":"95e78dea4efe2146c943a2ce0a15c79e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790550159
+        }
+    ],
+    "wof:id":790550159,
+    "wof:lastmodified":1462596797,
+    "wof:name":"Bennett Heating & AC",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.732856,
+    35.482496,
+    -89.732856,
+    35.482496
+],
+  "geometry": {"coordinates":[-89.732856,35.482496],"type":"Point"}
+}

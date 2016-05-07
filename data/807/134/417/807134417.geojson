@@ -1,0 +1,83 @@
+{
+  "id": 807134417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.800491,36.158621,-86.800491,36.158621",
+    "geom:latitude":36.158621,
+    "geom:longitude":-86.800491,
+    "iso:country":"US",
+    "sg:address":"412 Dr Db Todd Jr Blvd",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 321 7216",
+    "sg:postcode":"37203",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ],
+    "sg:website":"www.plannedparenthood.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85893465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6i4j5KSNveXLrpXROPhI7r_36.158621_-86.800491@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604102,
+    "wof:geomhash":"733f8d3a862264a41707fa4ed0a3fd0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893465,
+            "region_id":85688701,
+            "venue_id":807134417
+        }
+    ],
+    "wof:id":807134417,
+    "wof:lastmodified":1462604102,
+    "wof:name":"Planned Parenthood of TN",
+    "wof:parent_id":85893465,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -86.800491,
+    36.158621,
+    -86.800491,
+    36.158621
+],
+  "geometry": {"coordinates":[-86.80049099999999,36.158621],"type":"Point"}
+}

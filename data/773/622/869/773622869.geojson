@@ -1,0 +1,71 @@
+{
+  "id": 773622869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.426517,36.404727,-86.426517,36.404727",
+    "geom:latitude":36.404727,
+    "geom:longitude":-86.426517,
+    "iso:country":"US",
+    "sg:address":"1386 Scottsville Pike",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 4678",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fqF0ahO96ChbuubVhAcUj_36.404727_-86.426517@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587116,
+    "wof:geomhash":"d66503071c93a182fbc4171d6d8d578d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773622869
+        }
+    ],
+    "wof:id":773622869,
+    "wof:lastmodified":1462587116,
+    "wof:name":"Countryside Veterinary Hosp",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.426517,
+    36.404727,
+    -86.426517,
+    36.404727
+],
+  "geometry": {"coordinates":[-86.426517,36.404727],"type":"Point"}
+}

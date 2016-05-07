@@ -1,0 +1,71 @@
+{
+  "id": 806982895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.133779,36.09971,-86.133779,36.09971",
+    "geom:latitude":36.09971,
+    "geom:longitude":-86.133779,
+    "iso:country":"US",
+    "sg:address":"104 Public Sq",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 237 3734",
+    "sg:postcode":"37184",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lcibFHVhwabjuibXgr25M_36.099710_-86.133779@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602718,
+    "wof:geomhash":"01ff5d08b64eca53692e178326162a1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":806982895
+        }
+    ],
+    "wof:id":806982895,
+    "wof:lastmodified":1462602718,
+    "wof:name":"Watertown City Ambulance Sta",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -86.133779,
+    36.09971,
+    -86.133779,
+    36.09971
+],
+  "geometry": {"coordinates":[-86.133779,36.09971],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823210041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.313211,35.902981,-86.313211,35.902981",
+    "geom:latitude":35.902981,
+    "geom:longitude":-86.313211,
+    "iso:country":"US",
+    "sg:address":"1560 Compton Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 2500",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85843385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61KkyCgDKfZ36uMxrGXEm5_35.902981_-86.313211@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608532,
+    "wof:geomhash":"fd59bbf23632b5ac49f9dd0005bfc396",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85843385,
+            "region_id":85688701,
+            "venue_id":823210041
+        }
+    ],
+    "wof:id":823210041,
+    "wof:lastmodified":1462608532,
+    "wof:name":"Murfreesboro Electric Dept",
+    "wof:parent_id":85843385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -86.313211,
+    35.902981,
+    -86.313211,
+    35.902981
+],
+  "geometry": {"coordinates":[-86.313211,35.902981],"type":"Point"}
+}

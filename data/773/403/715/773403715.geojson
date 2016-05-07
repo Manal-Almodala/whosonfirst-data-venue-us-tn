@@ -1,0 +1,71 @@
+{
+  "id": 773403715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.771392,35.3121,-87.771392,35.3121",
+    "geom:latitude":35.3121,
+    "geom:longitude":-87.771392,
+    "iso:country":"US",
+    "sg:address":"418 US Hwy 64 W",
+    "sg:city":"Waynesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 722 9101",
+    "sg:postcode":"38485",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85814781,
+        102087175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QHNj4pGJJzOGek4D3FSVm_35.312100_-87.771392@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585427,
+    "wof:geomhash":"ae6bf0bc456318a38aa8b1b838248431",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087175,
+            "neighbourhood_id":85814781,
+            "region_id":85688701,
+            "venue_id":773403715
+        }
+    ],
+    "wof:id":773403715,
+    "wof:lastmodified":1462585427,
+    "wof:name":"S & S Automotive Svc",
+    "wof:parent_id":85814781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -87.771392,
+    35.3121,
+    -87.771392,
+    35.3121
+],
+  "geometry": {"coordinates":[-87.77139200000001,35.3121],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823259769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.004123,36.046361,-84.004123,36.046361",
+    "geom:latitude":36.046361,
+    "geom:longitude":-84.004123,
+    "iso:country":"US",
+    "sg:address":"305 E Emory Rd",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/powell/154990-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 938 4888",
+    "sg:postcode":"37849",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hNJCeEiNRivpPabQsc8Jw_36.046873_-84.003547@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609548,
+    "wof:geomhash":"cba012c4e7683c5c8214258c2276ae5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":823259769
+        }
+    ],
+    "wof:id":823259769,
+    "wof:lastmodified":1462609548,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.004123,
+    36.046361,
+    -84.004123,
+    36.046361
+],
+  "geometry": {"coordinates":[-84.00412300000001,36.046361],"type":"Point"}
+}

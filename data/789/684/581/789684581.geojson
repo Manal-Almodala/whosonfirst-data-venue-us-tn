@@ -1,0 +1,71 @@
+{
+  "id": 789684581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.701625,35.017,-85.701625,35.017",
+    "geom:latitude":35.017,
+    "geom:longitude":-85.701625,
+    "iso:country":"US",
+    "sg:address":"118 N Cedar Ave",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 7634",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722495,
+        102086347,
+        85823635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jz82oX3lN4cnqNU6hUJWI_35.017000_-85.701625@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589735,
+    "wof:geomhash":"aa4332c1e9eeee4957410a0f411b6c5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":85823635,
+            "region_id":85688701,
+            "venue_id":789684581
+        }
+    ],
+    "wof:id":789684581,
+    "wof:lastmodified":1462589735,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85823635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.701625,
+    35.017,
+    -85.701625,
+    35.017
+],
+  "geometry": {"coordinates":[-85.70162500000001,35.017],"type":"Point"}
+}

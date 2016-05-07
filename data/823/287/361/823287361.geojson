@@ -1,0 +1,80 @@
+{
+  "id": 823287361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.876309,35.102611,-89.876309,35.102611",
+    "geom:latitude":35.102611,
+    "geom:longitude":-89.876309,
+    "iso:country":"US",
+    "sg:address":"1017 Oakhaven Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 761 3488",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://mycatdoctor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85807811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6iLaZ6WatNi5sRhL2m9fOD_35.102611_-89.876309@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610602,
+    "wof:geomhash":"e4cf82b773c571c4e352e1d979f7d4eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85807811,
+            "region_id":85688701,
+            "venue_id":823287361
+        }
+    ],
+    "wof:id":823287361,
+    "wof:lastmodified":1462610602,
+    "wof:name":"Cat Hospital Of Memphis",
+    "wof:parent_id":85807811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -89.876309,
+    35.102611,
+    -89.876309,
+    35.102611
+],
+  "geometry": {"coordinates":[-89.87630900000001,35.102611],"type":"Point"}
+}

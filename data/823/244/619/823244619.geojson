@@ -1,0 +1,72 @@
+{
+  "id": 823244619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.431373,35.848239,-86.431373,35.848239",
+    "geom:latitude":35.848239,
+    "geom:longitude":-86.431373,
+    "iso:country":"US",
+    "sg:address":"2210 Armory Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/131149-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 893 3057",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RHce4tgRu4GffVpGiF84k_35.848239_-86.431373@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609230,
+    "wof:geomhash":"4163f674e6800e68b80017dff7921ce1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823244619
+        }
+    ],
+    "wof:id":823244619,
+    "wof:lastmodified":1462609230,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -86.431373,
+    35.848239,
+    -86.431373,
+    35.848239
+],
+  "geometry": {"coordinates":[-86.43137299999999,35.848239],"type":"Point"}
+}

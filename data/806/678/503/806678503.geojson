@@ -1,0 +1,75 @@
+{
+  "id": 806678503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.456783,35.35023,-84.456783,35.35023",
+    "geom:latitude":35.35023,
+    "geom:longitude":-84.456783,
+    "iso:country":"US",
+    "sg:address":"1241 Co Rd 480",
+    "sg:city":"Englewood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 263 5587",
+    "sg:postcode":"37329",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722749,
+        102086293,
+        85839313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SsnMP1oCbU3Oi2FUKbclo_35.350230_-84.456783@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600159,
+    "wof:geomhash":"28a5aab552828c684a4b6cb54c8052b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722749,
+            "neighbourhood_id":85839313,
+            "region_id":85688701,
+            "venue_id":806678503
+        }
+    ],
+    "wof:id":806678503,
+    "wof:lastmodified":1462600159,
+    "wof:name":"Buddy's Auto Repair",
+    "wof:parent_id":85839313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.456783,
+    35.35023,
+    -84.456783,
+    35.35023
+],
+  "geometry": {"coordinates":[-84.456783,35.35023],"type":"Point"}
+}

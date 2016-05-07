@@ -1,0 +1,71 @@
+{
+  "id": 790298323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.249127,36.231086,-83.249127,36.231086",
+    "geom:latitude":36.231086,
+    "geom:longitude":-83.249127,
+    "iso:country":"US",
+    "sg:address":"3411 E Andrew Johnson Hwy",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 9101",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z5NZlkvv3ujjU5vw8lOcL_36.231086_-83.249127@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594755,
+    "wof:geomhash":"e28adb0edf91ed01be2d68600cc2cdaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":790298323
+        }
+    ],
+    "wof:id":790298323,
+    "wof:lastmodified":1462594755,
+    "wof:name":"Moyers Veterinary Clinic East",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.249127,
+    36.231086,
+    -83.249127,
+    36.231086
+],
+  "geometry": {"coordinates":[-83.249127,36.231086],"type":"Point"}
+}

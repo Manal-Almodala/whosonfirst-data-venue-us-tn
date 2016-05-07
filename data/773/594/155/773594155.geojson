@@ -1,0 +1,77 @@
+{
+  "id": 773594155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.046862,35.007497,-90.046862,35.007497",
+    "geom:latitude":35.007497,
+    "geom:longitude":-90.046862,
+    "iso:country":"US",
+    "sg:address":"5158 Berta Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 345 0430",
+    "sg:postcode":"38109",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85847303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PnvIkuDARrmVhkU28X6NV_35.007497_-90.046862@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586902,
+    "wof:geomhash":"6de57a14bf6ae0cd82d0a79aad32d91e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85847303,
+            "region_id":85688701,
+            "venue_id":773594155
+        }
+    ],
+    "wof:id":773594155,
+    "wof:lastmodified":1462586902,
+    "wof:name":"Johnson Trucking Co",
+    "wof:parent_id":85847303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.046862,
+    35.007497,
+    -90.046862,
+    35.007497
+],
+  "geometry": {"coordinates":[-90.046862,35.007497],"type":"Point"}
+}

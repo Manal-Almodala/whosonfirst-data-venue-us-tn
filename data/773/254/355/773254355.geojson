@@ -1,0 +1,73 @@
+{
+  "id": 773254355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.281551,36.168139,-85.281551,36.168139",
+    "geom:latitude":36.168139,
+    "geom:longitude":-85.281551,
+    "iso:country":"US",
+    "sg:address":"12898 Boswell Rd",
+    "sg:city":"Monterey",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 839 6130",
+    "sg:postcode":"38574",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2skcL6MUQtR6KSHiXsTv6J_36.168139_-85.281551@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584325,
+    "wof:geomhash":"bad93a40a513429ed890b7c433eb1ff4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":773254355
+        }
+    ],
+    "wof:id":773254355,
+    "wof:lastmodified":1462584325,
+    "wof:name":"Mark A Walker Dr",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.281551,
+    36.168139,
+    -85.281551,
+    36.168139
+],
+  "geometry": {"coordinates":[-85.28155099999999,36.168139],"type":"Point"}
+}

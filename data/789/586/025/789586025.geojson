@@ -1,0 +1,73 @@
+{
+  "id": 789586025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.580986,35.142148,-86.580986,35.142148",
+    "geom:latitude":35.142148,
+    "geom:longitude":-86.580986,
+    "iso:country":"US",
+    "sg:address":"1819 Wilson Pkwy",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 993 9446",
+    "sg:postcode":"37334",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XED3FboMRTi9JkKvGlDaS_35.142148_-86.580986@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588956,
+    "wof:geomhash":"f5b97970e93c454097b13cddd549b495",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":789586025
+        }
+    ],
+    "wof:id":789586025,
+    "wof:lastmodified":1462588956,
+    "wof:name":"Park View Storage",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.580986,
+    35.142148,
+    -86.580986,
+    35.142148
+],
+  "geometry": {"coordinates":[-86.580986,35.142148],"type":"Point"}
+}

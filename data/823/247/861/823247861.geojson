@@ -1,0 +1,74 @@
+{
+  "id": 823247861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.116383,35.182901,-86.116383,35.182901",
+    "geom:latitude":35.182901,
+    "geom:longitude":-86.116383,
+    "iso:country":"US",
+    "sg:address":"503 1st Ave NW",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/winchester/73063-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 0661",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XRWeywzCNT2QTETH5rGgz_35.182901_-86.116383@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609292,
+    "wof:geomhash":"0bc5826dd9dddd22aa1c296aa133f61c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":823247861
+        }
+    ],
+    "wof:id":823247861,
+    "wof:lastmodified":1462609292,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.116383,
+    35.182901,
+    -86.116383,
+    35.182901
+],
+  "geometry": {"coordinates":[-86.116383,35.182901],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789927947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.98589,35.127897,-89.98589,35.127897",
+    "geom:latitude":35.127897,
+    "geom:longitude":-89.98589,
+    "iso:country":"US",
+    "sg:address":"710 Philadelphia St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 728 4228",
+    "sg:postcode":"38104",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shelter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85830283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pg9MDiimFzO2fajGuOyq3_35.127897_-89.985890@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591695,
+    "wof:geomhash":"7aacc21dfdd8821f716b6a8f5489ef2e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85830283,
+            "region_id":85688701,
+            "venue_id":789927947
+        }
+    ],
+    "wof:id":789927947,
+    "wof:lastmodified":1462591695,
+    "wof:name":"Memphis Human Society Cat Hse",
+    "wof:parent_id":85830283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter"
+    ]
+},
+  "bbox": [
+    -89.98589,
+    35.127897,
+    -89.98589,
+    35.127897
+],
+  "geometry": {"coordinates":[-89.98589,35.127897],"type":"Point"}
+}

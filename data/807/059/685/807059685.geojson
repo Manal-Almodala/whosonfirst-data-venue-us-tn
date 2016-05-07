@@ -1,0 +1,87 @@
+{
+  "id": 807059685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.641261,36.060831,-86.641261,36.060831",
+    "geom:latitude":36.060831,
+    "geom:longitude":-86.641261,
+    "iso:country":"US",
+    "sg:address":"701 Hickory Highlands Dr",
+    "sg:city":"Antioch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 586 1957",
+    "sg:postcode":"37013",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85846409,
+        420541523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ZYDX6dMda9skfia71ckx_36.060831_-86.641261@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603368,
+    "wof:geomhash":"e062e08bf4197dd9fe236038218ded3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85846409,
+            "region_id":85688701,
+            "venue_id":807059685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420541523,
+            "region_id":85688701,
+            "venue_id":807059685
+        }
+    ],
+    "wof:id":807059685,
+    "wof:lastmodified":1462603368,
+    "wof:name":"Trotter's Collision",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.641261,
+    36.060831,
+    -86.641261,
+    36.060831
+],
+  "geometry": {"coordinates":[-86.641261,36.060831],"type":"Point"}
+}

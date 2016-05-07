@@ -1,0 +1,76 @@
+{
+  "id": 823249243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.378603,36.301285,-82.378603,36.301285",
+    "geom:latitude":36.301285,
+    "geom:longitude":-82.378603,
+    "iso:country":"US",
+    "sg:address":"1805 W State of Franklin Rd",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/johnson-city/228932-jersey-mikes/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 929 1221",
+    "sg:postcode":"37604",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722757,
+        102086335,
+        85859269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pmgHv2zS2qdemYRGNBuEP_36.301285_-82.378603@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609319,
+    "wof:geomhash":"864e8ee9d74fc354af6db02a52c2a3d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85859269,
+            "region_id":85688701,
+            "venue_id":823249243
+        }
+    ],
+    "wof:id":823249243,
+    "wof:lastmodified":1462609319,
+    "wof:name":"Jersey Mike's",
+    "wof:parent_id":85859269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -82.378603,
+    36.301285,
+    -82.378603,
+    36.301285
+],
+  "geometry": {"coordinates":[-82.378603,36.301285],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823277773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.815658,35.448911,-89.815658,35.448911",
+    "geom:latitude":35.448911,
+    "geom:longitude":-89.815658,
+    "iso:country":"US",
+    "sg:address":"1597 Munford Ave",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 0171",
+    "sg:postcode":"38058",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"http://www.munford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WlYyTIdSGuXIeM9IbNanu_35.448911_-89.815658@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610217,
+    "wof:geomhash":"386bd3854fb3d5d645cb58d8585b92a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823277773
+        }
+    ],
+    "wof:id":823277773,
+    "wof:lastmodified":1462610217,
+    "wof:name":"City Fire Department",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.815658,
+    35.448911,
+    -89.815658,
+    35.448911
+],
+  "geometry": {"coordinates":[-89.815658,35.448911],"type":"Point"}
+}

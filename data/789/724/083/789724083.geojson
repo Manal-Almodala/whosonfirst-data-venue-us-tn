@@ -1,0 +1,74 @@
+{
+  "id": 789724083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.051317,35.468543,-85.051317,35.468543",
+    "geom:latitude":35.468543,
+    "geom:longitude":-85.051317,
+    "iso:country":"US",
+    "sg:address":"120 Oxford Dr",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 6596",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "academic",
+        "school"
+    ],
+    "sg:website":"www.oxnet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Cf0xlfDXUDZgx42HN0fxI_35.468543_-85.051317@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590058,
+    "wof:geomhash":"25bc2555ea69bbca8ea0c057a352018b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":789724083
+        }
+    ],
+    "wof:id":789724083,
+    "wof:lastmodified":1462590058,
+    "wof:name":"Oxford Graduate School",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "school"
+    ]
+},
+  "bbox": [
+    -85.051317,
+    35.468543,
+    -85.051317,
+    35.468543
+],
+  "geometry": {"coordinates":[-85.051317,35.468543],"type":"Point"}
+}

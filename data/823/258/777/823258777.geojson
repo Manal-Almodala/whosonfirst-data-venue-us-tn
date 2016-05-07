@@ -1,0 +1,74 @@
+{
+  "id": 823258777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.593291,35.440999,-84.593291,35.440999",
+    "geom:latitude":35.440999,
+    "geom:longitude":-84.593291,
+    "iso:country":"US",
+    "sg:address":"104 S White St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/athens/154876-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 5927",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OIon5V6q3ubyPuGQOW6yY_35.440604_-84.592613@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609524,
+    "wof:geomhash":"d04e45edf15a61cda696795509b70502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":823258777
+        }
+    ],
+    "wof:id":823258777,
+    "wof:lastmodified":1462609524,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.593291,
+    35.440999,
+    -84.593291,
+    35.440999
+],
+  "geometry": {"coordinates":[-84.59329099999999,35.440999],"type":"Point"}
+}

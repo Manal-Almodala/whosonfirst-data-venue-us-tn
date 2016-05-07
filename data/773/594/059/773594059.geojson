@@ -1,0 +1,75 @@
+{
+  "id": 773594059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.7734,35.445724,-89.7734,35.445724",
+    "geom:latitude":35.445724,
+    "geom:longitude":-89.7734,
+    "iso:country":"US",
+    "sg:address":"670 N Main St",
+    "sg:city":"Atoka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 8168",
+    "sg:postcode":"38004",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cBTG19XrTQpKg16o3HJGc_35.445724_-89.773400@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586902,
+    "wof:geomhash":"9861d2cc98efe2454387d65606043535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":773594059
+        }
+    ],
+    "wof:id":773594059,
+    "wof:lastmodified":1462586902,
+    "wof:name":"Bill's Radiator Repair",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -89.7734,
+    35.445724,
+    -89.7734,
+    35.445724
+],
+  "geometry": {"coordinates":[-89.7734,35.445724],"type":"Point"}
+}

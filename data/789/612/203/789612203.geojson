@@ -1,0 +1,74 @@
+{
+  "id": 789612203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.895708,35.192197,-89.895708,35.192197",
+    "geom:latitude":35.192197,
+    "geom:longitude":-89.895708,
+    "iso:country":"US",
+    "sg:address":"2461 Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 365 8863",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.multituneandtire.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D4yCCc7KUI4reHGz6dTcI_35.192197_-89.895708@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589153,
+    "wof:geomhash":"7474e65807c2385c3a0bfa1191788671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789612203
+        }
+    ],
+    "wof:id":789612203,
+    "wof:lastmodified":1462589153,
+    "wof:name":"Multi Tune & Tire",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.895708,
+    35.192197,
+    -89.895708,
+    35.192197
+],
+  "geometry": {"coordinates":[-89.895708,35.192197],"type":"Point"}
+}

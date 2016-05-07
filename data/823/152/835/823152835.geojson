@@ -1,0 +1,76 @@
+{
+  "id": 823152835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.698162,35.619216,-86.698162,35.619216",
+    "geom:latitude":35.619216,
+    "geom:longitude":-86.698162,
+    "iso:country":"US",
+    "sg:address":"4474 Nashville Hwy",
+    "sg:city":"Chapel Hill",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 364 3830",
+    "sg:postcode":"37034",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85854287,
+        102087115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CYkR9wV8K9yYhzHvxKq0R_35.619216_-86.698162@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607702,
+    "wof:geomhash":"4e9f27b7b49b326b592251256a576ee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "neighbourhood_id":85854287,
+            "region_id":85688701,
+            "venue_id":823152835
+        }
+    ],
+    "wof:id":823152835,
+    "wof:lastmodified":1462607702,
+    "wof:name":"Chapel Hill B P",
+    "wof:parent_id":85854287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -86.698162,
+    35.619216,
+    -86.698162,
+    35.619216
+],
+  "geometry": {"coordinates":[-86.698162,35.619216],"type":"Point"}
+}

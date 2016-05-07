@@ -1,0 +1,71 @@
+{
+  "id": 790412883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.319878,36.028892,-84.319878,36.028892",
+    "geom:latitude":36.028892,
+    "geom:longitude":-84.319878,
+    "iso:country":"US",
+    "sg:address":"103 Midway Dr",
+    "sg:city":"Oliver Springs",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 435 0781",
+    "sg:postcode":"37840",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722691,
+        102086483,
+        85852815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VADDmvVUFnLYM58qkQNsh_36.028892_-84.319878@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595631,
+    "wof:geomhash":"176adcaec3105cf005d46510a14cf76e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722691,
+            "neighbourhood_id":85852815,
+            "region_id":85688701,
+            "venue_id":790412883
+        }
+    ],
+    "wof:id":790412883,
+    "wof:lastmodified":1462595631,
+    "wof:name":"Ambulance Service",
+    "wof:parent_id":85852815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -84.319878,
+    36.028892,
+    -84.319878,
+    36.028892
+],
+  "geometry": {"coordinates":[-84.319878,36.028892],"type":"Point"}
+}

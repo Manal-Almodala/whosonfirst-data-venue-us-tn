@@ -1,0 +1,71 @@
+{
+  "id": 806820805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.91909,35.204456,-89.91909,35.204456",
+    "geom:latitude":35.204456,
+    "geom:longitude":-89.91909,
+    "iso:country":"US",
+    "sg:address":"4321 Fayette Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 386 6399",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iPY71aq1l7lyDb2knmdMF_35.204456_-89.919090@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601350,
+    "wof:geomhash":"8f6b7bc9601e7e60472c4b3f0e3261bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":806820805
+        }
+    ],
+    "wof:id":806820805,
+    "wof:lastmodified":1462601350,
+    "wof:name":"Raleigh Medical Clinic",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -89.91909,
+    35.204456,
+    -89.91909,
+    35.204456
+],
+  "geometry": {"coordinates":[-89.91909,35.204456],"type":"Point"}
+}

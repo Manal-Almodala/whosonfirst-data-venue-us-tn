@@ -1,0 +1,71 @@
+{
+  "id": 773515101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.648877,35.562965,-89.648877,35.562965",
+    "geom:latitude":35.562965,
+    "geom:longitude":-89.648877,
+    "iso:country":"US",
+    "sg:address":"300 S College St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 9531",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZM7NVeUCQR0PXeSRS53eP_35.562965_-89.648877@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586310,
+    "wof:geomhash":"7e44320081e9746ada6515106c1c0463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":773515101
+        }
+    ],
+    "wof:id":773515101,
+    "wof:lastmodified":1462586310,
+    "wof:name":"Water Plant",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -89.648877,
+    35.562965,
+    -89.648877,
+    35.562965
+],
+  "geometry": {"coordinates":[-89.648877,35.562965],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823251001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.264086,36.222038,-83.264086,36.222038",
+    "geom:latitude":36.222038,
+    "geom:longitude":-83.264086,
+    "iso:country":"US",
+    "sg:address":"2345 E Morris Blvd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/morristown/154968-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 585 5003",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DKFJkIJZM6ilHILVeWxDn_36.222038_-83.264086@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609354,
+    "wof:geomhash":"672978cdf6b8cc176eea62cbbe805161",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":823251001
+        }
+    ],
+    "wof:id":823251001,
+    "wof:lastmodified":1462609354,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.264086,
+    36.222038,
+    -83.264086,
+    36.222038
+],
+  "geometry": {"coordinates":[-83.26408600000001,36.222038],"type":"Point"}
+}

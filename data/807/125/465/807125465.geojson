@@ -1,0 +1,71 @@
+{
+  "id": 807125465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.088406,35.4632,-86.088406,35.4632",
+    "geom:latitude":35.4632,
+    "geom:longitude":-86.088406,
+    "iso:country":"US",
+    "sg:address":"1300 McArthur St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 8153",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23gUmruYrt1hymfY2LzTLZ_35.463200_-86.088406@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604005,
+    "wof:geomhash":"b6f9c92eb712187e5fe419c3ad118796",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":807125465
+        }
+    ],
+    "wof:id":807125465,
+    "wof:lastmodified":1462604005,
+    "wof:name":"Physicians Medical Care",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.088406,
+    35.4632,
+    -86.088406,
+    35.4632
+],
+  "geometry": {"coordinates":[-86.08840600000001,35.4632],"type":"Point"}
+}

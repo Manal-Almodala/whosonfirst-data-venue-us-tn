@@ -1,0 +1,83 @@
+{
+  "id": 790221691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.641924,36.077426,-86.641924,36.077426",
+    "geom:latitude":36.077426,
+    "geom:longitude":-86.641924,
+    "iso:country":"US",
+    "sg:address":"2541 Murfreesboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 360 9710",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85846409,
+        85841041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xt3zVoNtU1hDCpwn1czk9_36.077426_-86.641924@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594113,
+    "wof:geomhash":"4b7a388fa4ead0d97b5ccdc7eb001add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85846409,
+            "region_id":85688701,
+            "venue_id":790221691
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85841041,
+            "region_id":85688701,
+            "venue_id":790221691
+        }
+    ],
+    "wof:id":790221691,
+    "wof:lastmodified":1462594113,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -86.641924,
+    36.077426,
+    -86.641924,
+    36.077426
+],
+  "geometry": {"coordinates":[-86.641924,36.077426],"type":"Point"}
+}

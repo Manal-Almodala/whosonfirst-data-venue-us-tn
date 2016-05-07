@@ -1,0 +1,71 @@
+{
+  "id": 823224189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.120157,35.900446,-84.120157,35.900446",
+    "geom:latitude":35.900446,
+    "geom:longitude":-84.120157,
+    "iso:country":"US",
+    "sg:address":"260 Fort Sanders West Blvd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 558 4491",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_465fqNWDd6HBWGL5SaiPAw_35.900446_-84.120157@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608822,
+    "wof:geomhash":"683373fc547f26b086ac93cf72ed295e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":823224189
+        }
+    ],
+    "wof:id":823224189,
+    "wof:lastmodified":1462608822,
+    "wof:name":"HealthSouth",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -84.120157,
+    35.900446,
+    -84.120157,
+    35.900446
+],
+  "geometry": {"coordinates":[-84.12015700000001,35.900446],"type":"Point"}
+}

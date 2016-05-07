@@ -1,0 +1,69 @@
+{
+  "id": 789624563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.212191,36.558982,-82.212191,36.558982",
+    "geom:latitude":36.558982,
+    "geom:longitude":-82.212191,
+    "iso:country":"US",
+    "sg:address":"1400 Volunteer Pkwy",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 968 5512",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:website":"www.wendys.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        85815249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53MMXGnSrbhC51LjZYgFyx_36.558982_-82.212191@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589254,
+    "wof:geomhash":"6d53eeea2ac37aa0c61e2b1360549477",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":85815249,
+            "region_id":85688701,
+            "venue_id":789624563
+        }
+    ],
+    "wof:id":789624563,
+    "wof:lastmodified":1462589254,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85815249,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.212191,
+    36.558982,
+    -82.212191,
+    36.558982
+],
+  "geometry": {"coordinates":[-82.212191,36.558982],"type":"Point"}
+}

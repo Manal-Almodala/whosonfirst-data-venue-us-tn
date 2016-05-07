@@ -1,0 +1,71 @@
+{
+  "id": 807065005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.847807,36.145178,-82.847807,36.145178",
+    "geom:latitude":36.145178,
+    "geom:longitude":-82.847807,
+    "iso:country":"US",
+    "sg:address":"633 Asheville Hwy",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 638 1368",
+    "sg:postcode":"37743",
+    "sg:province":"TN",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85851539,
+        102086377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eST4riv4eiJnzBD77AulJ_36.145178_-82.847807@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603408,
+    "wof:geomhash":"9a6e1a638a69789cf0a21a1359da1776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "neighbourhood_id":85851539,
+            "region_id":85688701,
+            "venue_id":807065005
+        }
+    ],
+    "wof:id":807065005,
+    "wof:lastmodified":1462603408,
+    "wof:name":"CVS",
+    "wof:parent_id":85851539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -82.847807,
+    36.145178,
+    -82.847807,
+    36.145178
+],
+  "geometry": {"coordinates":[-82.847807,36.145178],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 806638721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.899958,35.023779,-89.899958,35.023779",
+    "geom:latitude":35.023779,
+    "geom:longitude":-89.899958,
+    "iso:country":"US",
+    "sg:address":"4929 Miller Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 797 9239",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aVVZzUNfKmCpUF5Jv98Zp_35.023779_-89.899958@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599804,
+    "wof:geomhash":"bb89a646f78b37c91e113e2a2c31e35f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":806638721
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":806638721
+        }
+    ],
+    "wof:id":806638721,
+    "wof:lastmodified":1462599804,
+    "wof:name":"Crown Rentals LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -89.899958,
+    35.023779,
+    -89.899958,
+    35.023779
+],
+  "geometry": {"coordinates":[-89.899958,35.023779],"type":"Point"}
+}

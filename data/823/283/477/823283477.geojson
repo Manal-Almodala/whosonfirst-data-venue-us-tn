@@ -1,0 +1,86 @@
+{
+  "id": 823283477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.991281,35.115692,-89.991281,35.115692",
+    "geom:latitude":35.115692,
+    "geom:longitude":-89.991281,
+    "iso:country":"US",
+    "sg:address":"1103 S Cooper St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 272 7252",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PP4DOFZWWXcjqHIUhj1Df_35.115692_-89.991281@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610452,
+    "wof:geomhash":"2bef9d6a4fa0fcbb27bfd6a403b50a17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867181,
+            "region_id":85688701,
+            "venue_id":823283477
+        }
+    ],
+    "wof:id":823283477,
+    "wof:lastmodified":1462610452,
+    "wof:name":"Hermitage Apartments",
+    "wof:parent_id":85867181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -89.991281,
+    35.115692,
+    -89.991281,
+    35.115692
+],
+  "geometry": {"coordinates":[-89.991281,35.115692],"type":"Point"}
+}

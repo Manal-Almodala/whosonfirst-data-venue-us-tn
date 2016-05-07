@@ -1,0 +1,94 @@
+{
+  "id": 823270415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.25148,35.069768,-85.25148,35.069768",
+    "geom:latitude":35.069768,
+    "geom:longitude":-85.25148,
+    "iso:country":"US",
+    "sg:address":"2813 Dodson Ave",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 892 7445",
+    "sg:postcode":"37406",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "air",
+        "delivery"
+    ],
+    "sg:website":"http://www.southernairfreight.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85806903
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fCHjMsRFLGO1Q2N8YeP7E_35.069768_-85.251480@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609929,
+    "wof:geomhash":"73ea9539b7499961d15a3ca7fd13bf11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85806903,
+            "region_id":85688701,
+            "venue_id":823270415
+        }
+    ],
+    "wof:id":823270415,
+    "wof:lastmodified":1462609929,
+    "wof:name":"Chattanooga Air Freight",
+    "wof:parent_id":85806903,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "air",
+        "delivery"
+    ]
+},
+  "bbox": [
+    -85.25148,
+    35.069768,
+    -85.25148,
+    35.069768
+],
+  "geometry": {"coordinates":[-85.25148,35.069768],"type":"Point"}
+}

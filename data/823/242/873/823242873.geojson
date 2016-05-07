@@ -1,0 +1,74 @@
+{
+  "id": 823242873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.453157,36.386184,-86.453157,36.386184",
+    "geom:latitude":36.386184,
+    "geom:longitude":-86.453157,
+    "iso:country":"US",
+    "sg:address":"335 Nashville Pike",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/gallatin/86605-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 0606",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XywAAn9r9SZeXlUqAL60K_36.386184_-86.453157@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609200,
+    "wof:geomhash":"eb145572a02347f6be0f27f6b1b00628",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":823242873
+        }
+    ],
+    "wof:id":823242873,
+    "wof:lastmodified":1462609200,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.453157,
+    36.386184,
+    -86.453157,
+    36.386184
+],
+  "geometry": {"coordinates":[-86.453157,36.386184],"type":"Point"}
+}

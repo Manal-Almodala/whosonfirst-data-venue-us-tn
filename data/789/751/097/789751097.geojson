@@ -1,0 +1,73 @@
+{
+  "id": 789751097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.664385,35.538432,-89.664385,35.538432",
+    "geom:latitude":35.538432,
+    "geom:longitude":-89.664385,
+    "iso:country":"US",
+    "sg:address":"100 Fox Hollow Run",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 1818",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "residential",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W0uldFx5rLoC0D18RKf0W_35.538432_-89.664385@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590260,
+    "wof:geomhash":"aab312b9eb06ea9933824251a8152e68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789751097
+        }
+    ],
+    "wof:id":789751097,
+    "wof:lastmodified":1462590260,
+    "wof:name":"Fox Hollow Community",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "facility"
+    ]
+},
+  "bbox": [
+    -89.664385,
+    35.538432,
+    -89.664385,
+    35.538432
+],
+  "geometry": {"coordinates":[-89.664385,35.538432],"type":"Point"}
+}

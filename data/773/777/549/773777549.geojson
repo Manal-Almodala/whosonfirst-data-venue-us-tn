@@ -1,0 +1,71 @@
+{
+  "id": 773777549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.263399,36.138141,-85.263399,36.138141",
+    "geom:latitude":36.138141,
+    "geom:longitude":-85.263399,
+    "iso:country":"US",
+    "sg:address":"410 Crossville St",
+    "sg:city":"Monterey",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 839 8200",
+    "sg:postcode":"38574",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nEF7ye4P0t8DFYANuQv9b_36.138141_-85.263399@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588300,
+    "wof:geomhash":"363968f1c0aaa3789086497bf8a598e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":773777549
+        }
+    ],
+    "wof:id":773777549,
+    "wof:lastmodified":1462588300,
+    "wof:name":"Putnam County Sheriff's Dept",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -85.263399,
+    36.138141,
+    -85.263399,
+    36.138141
+],
+  "geometry": {"coordinates":[-85.26339900000001,36.138141],"type":"Point"}
+}

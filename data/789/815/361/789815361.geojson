@@ -1,0 +1,71 @@
+{
+  "id": 789815361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.817623,36.046091,-83.817623,36.046091",
+    "geom:latitude":36.046091,
+    "geom:longitude":-83.817623,
+    "iso:country":"US",
+    "sg:address":"7243 Rutledge Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 522 2333",
+    "sg:postcode":"37924",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jxBLzym2dsfVHWqrUxVYj_36.046091_-83.817623@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590754,
+    "wof:geomhash":"c22d0ade15eb5753b43b48adfe5aaa5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":789815361
+        }
+    ],
+    "wof:id":789815361,
+    "wof:lastmodified":1462590754,
+    "wof:name":"Diesel Dan",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.817623,
+    36.046091,
+    -83.817623,
+    36.046091
+],
+  "geometry": {"coordinates":[-83.817623,36.046091],"type":"Point"}
+}

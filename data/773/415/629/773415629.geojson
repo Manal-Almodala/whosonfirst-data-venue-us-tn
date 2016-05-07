@@ -1,0 +1,71 @@
+{
+  "id": 773415629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.643943,35.575739,-89.643943,35.575739",
+    "geom:latitude":35.575739,
+    "geom:longitude":-89.643943,
+    "iso:country":"US",
+    "sg:address":"862 US Hwy 51 N",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 7780",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xxzIAY13hX01lMrZYmpjM_35.575739_-89.643943@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585539,
+    "wof:geomhash":"39dea91b2edcd37bcfca6eeeda61a0a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":773415629
+        }
+    ],
+    "wof:id":773415629,
+    "wof:lastmodified":1462585539,
+    "wof:name":"H&H Towing & Automotive",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.643943,
+    35.575739,
+    -89.643943,
+    35.575739
+],
+  "geometry": {"coordinates":[-89.64394299999999,35.575739],"type":"Point"}
+}

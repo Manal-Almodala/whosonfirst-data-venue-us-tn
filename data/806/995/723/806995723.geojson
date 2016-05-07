@@ -1,0 +1,71 @@
+{
+  "id": 806995723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.440961,35.828446,-86.440961,35.828446",
+    "geom:latitude":35.828446,
+    "geom:longitude":-86.440961,
+    "iso:country":"US",
+    "sg:address":"1311 Amberwood Cir",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 403 0459",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b01Vzy3sMrTSxegbq3IEC_35.828446_-86.440961@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602818,
+    "wof:geomhash":"20b003613bf793a2e57bb110405d7745",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":806995723
+        }
+    ],
+    "wof:id":806995723,
+    "wof:lastmodified":1462602818,
+    "wof:name":"ABC Hvac",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.440961,
+    35.828446,
+    -86.440961,
+    35.828446
+],
+  "geometry": {"coordinates":[-86.440961,35.828446],"type":"Point"}
+}

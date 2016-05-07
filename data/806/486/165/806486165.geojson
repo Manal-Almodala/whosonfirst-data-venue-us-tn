@@ -1,0 +1,71 @@
+{
+  "id": 806486165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.978888,36.003176,-83.978888,36.003176",
+    "geom:latitude":36.003176,
+    "geom:longitude":-83.978888,
+    "iso:country":"US",
+    "sg:address":"5223 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 3400",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49cR3IWp8WuXoJa61iK4fm_36.003176_-83.978888@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598515,
+    "wof:geomhash":"c488bb1e0b4850aca7b36bec1fc74c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":806486165
+        }
+    ],
+    "wof:id":806486165,
+    "wof:lastmodified":1462598515,
+    "wof:name":"Discount Car Audio",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -83.978888,
+    36.003176,
+    -83.978888,
+    36.003176
+],
+  "geometry": {"coordinates":[-83.978888,36.003176],"type":"Point"}
+}

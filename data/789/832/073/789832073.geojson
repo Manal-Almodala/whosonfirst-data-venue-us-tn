@@ -1,0 +1,73 @@
+{
+  "id": 789832073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.315224,36.565757,-87.315224,36.565757",
+    "geom:latitude":36.565757,
+    "geom:longitude":-87.315224,
+    "iso:country":"US",
+    "sg:address":"6 Bond St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 920 4444",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85833385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41cFSm7qT9vKu0z4ALVZHy_36.565757_-87.315224@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590885,
+    "wof:geomhash":"648cde2fead56939cf6952795ca2f257",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85833385,
+            "region_id":85688701,
+            "venue_id":789832073
+        }
+    ],
+    "wof:id":789832073,
+    "wof:lastmodified":1462590885,
+    "wof:name":"A Plus Towing",
+    "wof:parent_id":85833385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -87.315224,
+    36.565757,
+    -87.315224,
+    36.565757
+],
+  "geometry": {"coordinates":[-87.315224,36.565757],"type":"Point"}
+}

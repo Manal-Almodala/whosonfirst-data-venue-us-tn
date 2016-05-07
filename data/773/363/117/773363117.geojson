@@ -1,0 +1,71 @@
+{
+  "id": 773363117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.282078,36.223211,-83.282078,36.223211",
+    "geom:latitude":36.223211,
+    "geom:longitude":-83.282078,
+    "iso:country":"US",
+    "sg:address":"624 King Ave",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 2097",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "road"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50KJEOvNnZ465e7IY1aTWO_36.223211_-83.282078@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585134,
+    "wof:geomhash":"e108ebbf1a82e5e21b5abd5f216efd9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773363117
+        }
+    ],
+    "wof:id":773363117,
+    "wof:lastmodified":1462585134,
+    "wof:name":"Jerry's Wrecker & Garage Svc",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "road"
+    ]
+},
+  "bbox": [
+    -83.282078,
+    36.223211,
+    -83.282078,
+    36.223211
+],
+  "geometry": {"coordinates":[-83.282078,36.223211],"type":"Point"}
+}

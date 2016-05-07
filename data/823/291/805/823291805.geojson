@@ -1,0 +1,71 @@
+{
+  "id": 823291805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.844727,35.22308,-89.844727,35.22308",
+    "geom:latitude":35.22308,
+    "geom:longitude":-89.844727,
+    "iso:country":"US",
+    "sg:address":"3585 Altruria Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 385 6425",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_229GCEFC4qIPdkdIwnpoIy_35.223080_-89.844727@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1462610773,
+    "wof:geomhash":"fec5b45fa4aaa9b3b2d75f8f3aecd3c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823291805
+        }
+    ],
+    "wof:id":823291805,
+    "wof:lastmodified":1462610773,
+    "wof:name":"Bartlett City Of",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.844727,
+    35.22308,
+    -89.844727,
+    35.22308
+],
+  "geometry": {"coordinates":[-89.84472700000001,35.22308],"type":"Point"}
+}

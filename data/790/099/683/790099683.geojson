@@ -1,0 +1,71 @@
+{
+  "id": 790099683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.984629,36.001872,-83.984629,36.001872",
+    "geom:latitude":36.001872,
+    "geom:longitude":-83.984629,
+    "iso:country":"US",
+    "sg:address":"1200 Merchants Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 5333",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iiuRnQXDCPhvjOv5yzzdq_36.001872_-83.984629@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593120,
+    "wof:geomhash":"69a191907987c2b3b09520736d389044",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":790099683
+        }
+    ],
+    "wof:id":790099683,
+    "wof:lastmodified":1462593120,
+    "wof:name":"Tennessee Valley Wellness Ctr",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -83.984629,
+    36.001872,
+    -83.984629,
+    36.001872
+],
+  "geometry": {"coordinates":[-83.984629,36.001872],"type":"Point"}
+}

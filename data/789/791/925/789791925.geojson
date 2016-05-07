@@ -1,0 +1,71 @@
+{
+  "id": 789791925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.295456,36.226117,-83.295456,36.226117",
+    "geom:latitude":36.226117,
+    "geom:longitude":-83.295456,
+    "iso:country":"US",
+    "sg:address":"1103 Buffalo Trl",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 9590",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yGSN33KqHvxRTV43Geei3_36.226117_-83.295456@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590579,
+    "wof:geomhash":"85f3e1cf374fb653ca172ecfacc7c6e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789791925
+        }
+    ],
+    "wof:id":789791925,
+    "wof:lastmodified":1462590579,
+    "wof:name":"Sunset Service Ctr",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.295456,
+    36.226117,
+    -83.295456,
+    36.226117
+],
+  "geometry": {"coordinates":[-83.295456,36.226117],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 773266609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.873549,35.976535,-83.873549,35.976535",
+    "geom:latitude":35.976535,
+    "geom:longitude":-83.873549,
+    "iso:country":"US",
+    "sg:address":"3003 Delrose Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 524 5926",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85833365,
+        102191575,
+        85840531
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hyrfb9VG2YSM5TEIJCuJj_35.976535_-83.873549@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584412,
+    "wof:geomhash":"68e3dc5aa3235818b9973156ef3ba4ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85833365,
+            "region_id":85688701,
+            "venue_id":773266609
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85840531,
+            "region_id":85688701,
+            "venue_id":773266609
+        }
+    ],
+    "wof:id":773266609,
+    "wof:lastmodified":1462584412,
+    "wof:name":"Full Service Delivery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -83.873549,
+    35.976535,
+    -83.873549,
+    35.976535
+],
+  "geometry": {"coordinates":[-83.873549,35.976535],"type":"Point"}
+}

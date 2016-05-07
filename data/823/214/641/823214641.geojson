@@ -1,0 +1,71 @@
+{
+  "id": 823214641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.365084,36.515927,-87.365084,36.515927",
+    "geom:latitude":36.515927,
+    "geom:longitude":-87.365084,
+    "iso:country":"US",
+    "sg:address":"939 S Riverside Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 645 6609",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KGHVVmROGv1t2Ts2RvwnB_36.515927_-87.365084@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608620,
+    "wof:geomhash":"b00e3375ecfdfac8c843cea85fa8864c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":823214641
+        }
+    ],
+    "wof:id":823214641,
+    "wof:lastmodified":1462608620,
+    "wof:name":"Riverside Apartments",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -87.365084,
+    36.515927,
+    -87.365084,
+    36.515927
+],
+  "geometry": {"coordinates":[-87.365084,36.515927],"type":"Point"}
+}

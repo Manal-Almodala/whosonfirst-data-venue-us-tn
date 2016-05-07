@@ -1,0 +1,75 @@
+{
+  "id": 790017439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.835622,35.186354,-89.835622,35.186354",
+    "geom:latitude":35.186354,
+    "geom:longitude":-89.835622,
+    "iso:country":"US",
+    "sg:address":"6890 Hillshire Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 381 4399",
+    "sg:postcode":"38133",
+    "sg:province":"TN",
+    "sg:tags":[
+        "broker",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EEXcbtbKVbnAlrWVjtyLn_35.186354_-89.835622@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592470,
+    "wof:geomhash":"545f67248107336d0d514ac37665ef9c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":790017439
+        }
+    ],
+    "wof:id":790017439,
+    "wof:lastmodified":1462592470,
+    "wof:name":"S & L Truck Brokerage Inc",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.835622,
+    35.186354,
+    -89.835622,
+    35.186354
+],
+  "geometry": {"coordinates":[-89.835622,35.186354],"type":"Point"}
+}

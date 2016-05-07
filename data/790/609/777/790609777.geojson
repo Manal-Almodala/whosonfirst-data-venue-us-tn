@@ -1,0 +1,88 @@
+{
+  "id": 790609777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.074381,35.496412,-86.074381,35.496412",
+    "geom:latitude":35.496412,
+    "geom:longitude":-86.074381,
+    "iso:country":"US",
+    "sg:address":"395 Interstate Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 723 8744",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "nursing",
+        "skilled",
+        "outpatient",
+        "specialty",
+        "citizen",
+        "senior",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SyWlBN0YyoJx5Utn9qw1R_35.496412_-86.074381@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597303,
+    "wof:geomhash":"f2cdb459b7091bfa8f20598ae00b92b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":790609777
+        }
+    ],
+    "wof:id":790609777,
+    "wof:lastmodified":1462597303,
+    "wof:name":"Manchester Health Care Center",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "skilled",
+        "outpatient",
+        "specialty",
+        "citizen",
+        "senior",
+        "care"
+    ]
+},
+  "bbox": [
+    -86.074381,
+    35.496412,
+    -86.074381,
+    35.496412
+],
+  "geometry": {"coordinates":[-86.074381,35.496412],"type":"Point"}
+}

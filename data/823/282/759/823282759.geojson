@@ -1,0 +1,80 @@
+{
+  "id": 823282759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.946351,35.08921,-89.946351,35.08921",
+    "geom:latitude":35.08921,
+    "geom:longitude":-89.946351,
+    "iso:country":"US",
+    "sg:address":"1546 S Highland St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 363 6450",
+    "sg:postcode":"38111",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85839073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65H2BXL2DU3i345qrryKMe_35.089210_-89.946351@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610427,
+    "wof:geomhash":"89763e1299e936fd220cd94468439707",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85839073,
+            "region_id":85688701,
+            "venue_id":823282759
+        }
+    ],
+    "wof:id":823282759,
+    "wof:lastmodified":1462610427,
+    "wof:name":"Delta Medical Cleaning",
+    "wof:parent_id":85839073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -89.946351,
+    35.08921,
+    -89.946351,
+    35.08921
+],
+  "geometry": {"coordinates":[-89.94635100000001,35.08921],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 789969977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.111629,35.960838,-87.111629,35.960838",
+    "geom:latitude":35.960838,
+    "geom:longitude":-87.111629,
+    "iso:country":"US",
+    "sg:address":"7491 Christopher St",
+    "sg:city":"Fairview",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 799 8857",
+    "sg:postcode":"37062",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85845697,
+        102086337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BrYIqBnaeKkpHPhESbcnk_35.960838_-87.111629@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592080,
+    "wof:geomhash":"3e2108610435d481e303a45f3939cbba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "neighbourhood_id":85845697,
+            "region_id":85688701,
+            "venue_id":789969977
+        }
+    ],
+    "wof:id":789969977,
+    "wof:lastmodified":1462592080,
+    "wof:name":"Allen Preston Jones Piano Svc",
+    "wof:parent_id":85845697,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "piano",
+        "refinishing"
+    ]
+},
+  "bbox": [
+    -87.111629,
+    35.960838,
+    -87.111629,
+    35.960838
+],
+  "geometry": {"coordinates":[-87.11162899999999,35.960838],"type":"Point"}
+}

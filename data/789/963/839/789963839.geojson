@@ -1,0 +1,83 @@
+{
+  "id": 789963839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.755591,36.13343,-86.755591,36.13343",
+    "geom:latitude":36.13343,
+    "geom:longitude":-86.755591,
+    "iso:country":"US",
+    "sg:address":"510 Interstate Blvd S",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 255 8119",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sweeper"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85866801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yMD7t3H4QCRhARFQagxQh_36.133430_-86.755591@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592028,
+    "wof:geomhash":"643d9c9d3c49cfb8bced7d7f50dc145f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":789963839
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85866801,
+            "region_id":85688701,
+            "venue_id":789963839
+        }
+    ],
+    "wof:id":789963839,
+    "wof:lastmodified":1462592028,
+    "wof:name":"Sansom Equipment Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweeper"
+    ]
+},
+  "bbox": [
+    -86.755591,
+    36.13343,
+    -86.755591,
+    36.13343
+],
+  "geometry": {"coordinates":[-86.755591,36.13343],"type":"Point"}
+}

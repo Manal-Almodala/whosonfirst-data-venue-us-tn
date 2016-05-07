@@ -1,0 +1,74 @@
+{
+  "id": 823247093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029583,35.475281,-85.029583,35.475281",
+    "geom:latitude":35.475281,
+    "geom:longitude":-85.029583,
+    "iso:country":"US",
+    "sg:address":"130 Able Dr",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/dayton/203518-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 2023",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fewq71D43FLDe2u39m4Cx_35.475281_-85.029583@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609279,
+    "wof:geomhash":"04a5cc1ae32b8727301d1cac101e88d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":823247093
+        }
+    ],
+    "wof:id":823247093,
+    "wof:lastmodified":1462609279,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.029583,
+    35.475281,
+    -85.029583,
+    35.475281
+],
+  "geometry": {"coordinates":[-85.029583,35.475281],"type":"Point"}
+}

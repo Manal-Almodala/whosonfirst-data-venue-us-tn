@@ -1,0 +1,71 @@
+{
+  "id": 773214569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.108211,35.012525,-85.108211,35.012525",
+    "geom:latitude":35.012525,
+    "geom:longitude":-85.108211,
+    "iso:country":"US",
+    "sg:address":"9237 Evening Shadow Dr",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 894 5851",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85826071,
+        102087185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XVx9Ar0NpoXP8EGDRQQ3z_35.012525_-85.108211@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584034,
+    "wof:geomhash":"8ce722623ee7710f9cc823f7d483de2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087185,
+            "neighbourhood_id":85826071,
+            "region_id":85688701,
+            "venue_id":773214569
+        }
+    ],
+    "wof:id":773214569,
+    "wof:lastmodified":1462584034,
+    "wof:name":"Stuart A Frank MD",
+    "wof:parent_id":85826071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.108211,
+    35.012525,
+    -85.108211,
+    35.012525
+],
+  "geometry": {"coordinates":[-85.108211,35.012525],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789858601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.928816,35.06213,-89.928816,35.06213",
+    "geom:latitude":35.06213,
+    "geom:longitude":-89.928816,
+    "iso:country":"US",
+    "sg:address":"4041 Camelot Ln",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 794 8728",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85839073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nLNq2H2z2InAUY5pamQ6a_35.062130_-89.928816@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591093,
+    "wof:geomhash":"ca8c2c7533a7cd050eff38c1a42e281b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85839073,
+            "region_id":85688701,
+            "venue_id":789858601
+        }
+    ],
+    "wof:id":789858601,
+    "wof:lastmodified":1462591093,
+    "wof:name":"Singleton Trucking",
+    "wof:parent_id":85839073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.928816,
+    35.06213,
+    -89.928816,
+    35.06213
+],
+  "geometry": {"coordinates":[-89.928816,35.06213],"type":"Point"}
+}

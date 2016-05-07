@@ -1,0 +1,68 @@
+{
+  "id": 823283553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.001442,35.123859,-90.001442,35.123859",
+    "geom:latitude":35.123859,
+    "geom:longitude":-90.001442,
+    "iso:country":"US",
+    "sg:address":"800 S Mclean Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 324 4202",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867181
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CReNEJqh17zfUdEttuNgz_35.123859_-90.001442@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610454,
+    "wof:geomhash":"300540c1c45a3049177418aef0aceeb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867181,
+            "region_id":85688701,
+            "venue_id":823283553
+        }
+    ],
+    "wof:id":823283553,
+    "wof:lastmodified":1462610454,
+    "wof:name":"City Wide Cab",
+    "wof:parent_id":85867181,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -90.001442,
+    35.123859,
+    -90.001442,
+    35.123859
+],
+  "geometry": {"coordinates":[-90.001442,35.123859],"type":"Point"}
+}

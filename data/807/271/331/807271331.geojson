@@ -1,0 +1,71 @@
+{
+  "id": 807271331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.399089,35.656897,-86.399089,35.656897",
+    "geom:latitude":35.656897,
+    "geom:longitude":-86.399089,
+    "iso:country":"US",
+    "sg:address":"1462 Fosterville Short Creek Rd",
+    "sg:city":"Bell Buckle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 233 5252",
+    "sg:postcode":"37020",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ktsg9Myar1SUyBOPC2uEn_35.656897_-86.399089@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605558,
+    "wof:geomhash":"8b1e1dd8804c5e88471de77ed4695e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":807271331
+        }
+    ],
+    "wof:id":807271331,
+    "wof:lastmodified":1462605558,
+    "wof:name":"Fosterville Volunteer Fire",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.399089,
+    35.656897,
+    -86.399089,
+    35.656897
+],
+  "geometry": {"coordinates":[-86.399089,35.656897],"type":"Point"}
+}

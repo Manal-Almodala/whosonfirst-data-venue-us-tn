@@ -1,0 +1,71 @@
+{
+  "id": 807122483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.747373,35.692713,-86.747373,35.692713",
+    "geom:latitude":35.692713,
+    "geom:longitude":-86.747373,
+    "iso:country":"US",
+    "sg:address":"5240 Harris Cemetery Rd",
+    "sg:city":"Chapel Hill",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 364 3666",
+    "sg:postcode":"37034",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85854287,
+        102087115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17I3Ek8ZTsCDLvQF3PYsqf_35.692713_-86.747373@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603966,
+    "wof:geomhash":"eca570067039521df06ca84f971cc919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "neighbourhood_id":85854287,
+            "region_id":85688701,
+            "venue_id":807122483
+        }
+    ],
+    "wof:id":807122483,
+    "wof:lastmodified":1462603966,
+    "wof:name":"H & H Auto Care",
+    "wof:parent_id":85854287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.747373,
+    35.692713,
+    -86.747373,
+    35.692713
+],
+  "geometry": {"coordinates":[-86.747373,35.692713],"type":"Point"}
+}

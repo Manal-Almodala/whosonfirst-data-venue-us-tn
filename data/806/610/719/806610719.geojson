@@ -1,0 +1,73 @@
+{
+  "id": 806610719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.575073,36.470013,-83.575073,36.470013",
+    "geom:latitude":36.470013,
+    "geom:longitude":-83.575073,
+    "iso:country":"US",
+    "sg:address":"2368 US Hwy 25E",
+    "sg:city":"Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 7321",
+    "sg:postcode":"37879",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uCzE1sawPOCb4Oj3B0FWs_36.470013_-83.575073@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599571,
+    "wof:geomhash":"39b076efe13d208ea64a7b0afa1c71ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":806610719
+        }
+    ],
+    "wof:id":806610719,
+    "wof:lastmodified":1462599571,
+    "wof:name":"Joe's Alignment",
+    "wof:parent_id":85810917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.575073,
+    36.470013,
+    -83.575073,
+    36.470013
+],
+  "geometry": {"coordinates":[-83.575073,36.470013],"type":"Point"}
+}

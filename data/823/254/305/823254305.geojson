@@ -1,0 +1,76 @@
+{
+  "id": 823254305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.984239,35.126306,-89.984239,35.126306",
+    "geom:latitude":35.126306,
+    "geom:longitude":-89.984239,
+    "iso:country":"US",
+    "sg:address":"707 E Parkway S",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/140275-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 276 4420",
+    "sg:postcode":"38104",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85830283
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FDXycJIHM3HcuMTMVFXoW_35.126306_-89.984239@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609427,
+    "wof:geomhash":"ffbaf1d0f9072dbecb847a0e2a471a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85830283,
+            "region_id":85688701,
+            "venue_id":823254305
+        }
+    ],
+    "wof:id":823254305,
+    "wof:lastmodified":1462609427,
+    "wof:name":"Subway",
+    "wof:parent_id":85830283,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.984239,
+    35.126306,
+    -89.984239,
+    35.126306
+],
+  "geometry": {"coordinates":[-89.984239,35.126306],"type":"Point"}
+}

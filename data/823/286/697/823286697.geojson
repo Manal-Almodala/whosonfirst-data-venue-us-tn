@@ -1,0 +1,90 @@
+{
+  "id": 823286697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.925821,35.041287,-89.925821,35.041287",
+    "geom:latitude":35.041287,
+    "geom:longitude":-89.925821,
+    "iso:country":"US",
+    "sg:address":"3934 Homewood Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 251 9711",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "consultant",
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "sg:website":"http://www.ozark.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QAb1J1z3GbkbmtbXuYLYk_35.041287_-89.925821@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610573,
+    "wof:geomhash":"ea04c60f33ae8aeb2b25a305a293081e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":823286697
+        }
+    ],
+    "wof:id":823286697,
+    "wof:lastmodified":1462610573,
+    "wof:name":"Ozark Motor Lines",
+    "wof:parent_id":85870785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.925821,
+    35.041287,
+    -89.925821,
+    35.041287
+],
+  "geometry": {"coordinates":[-89.925821,35.041287],"type":"Point"}
+}

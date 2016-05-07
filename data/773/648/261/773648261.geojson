@@ -1,0 +1,71 @@
+{
+  "id": 773648261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.512136,36.18913,-86.512136,36.18913",
+    "geom:latitude":36.18913,
+    "geom:longitude":-86.512136,
+    "iso:country":"US",
+    "sg:address":"1281 N Mount Juliet Rd",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 773 7410",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6apMNIV4aS1csV5K9cSyrO_36.189130_-86.512136@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587316,
+    "wof:geomhash":"91cb463ea3b813285e3b17038770ca59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":773648261
+        }
+    ],
+    "wof:id":773648261,
+    "wof:lastmodified":1462587316,
+    "wof:name":"Medical & Dental Innovations",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.512136,
+    36.18913,
+    -86.512136,
+    36.18913
+],
+  "geometry": {"coordinates":[-86.512136,36.18913],"type":"Point"}
+}

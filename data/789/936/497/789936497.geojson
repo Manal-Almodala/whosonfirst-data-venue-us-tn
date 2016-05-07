@@ -1,0 +1,71 @@
+{
+  "id": 789936497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.097031,35.180232,-86.097031,35.180232",
+    "geom:latitude":35.180232,
+    "geom:longitude":-86.097031,
+    "iso:country":"US",
+    "sg:address":"1014 S College St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 9018",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5irnOuF1TJMf32FR30OdaF_35.180232_-86.097031@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591763,
+    "wof:geomhash":"b6b6fac7820078e519a4d8d4a5d0fa9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":789936497
+        }
+    ],
+    "wof:id":789936497,
+    "wof:lastmodified":1462591763,
+    "wof:name":"Hills Dale Autom Trnsmsn Rep",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.097031,
+    35.180232,
+    -86.097031,
+    35.180232
+],
+  "geometry": {"coordinates":[-86.097031,35.180232],"type":"Point"}
+}

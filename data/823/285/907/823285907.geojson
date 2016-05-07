@@ -1,0 +1,83 @@
+{
+  "id": 823285907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.892642,35.111374,-89.892642,35.111374",
+    "geom:latitude":35.111374,
+    "geom:longitude":-89.892642,
+    "iso:country":"US",
+    "sg:address":"5094 Poplar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 682 1616",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "township",
+        "government-city",
+        "village"
+    ],
+    "sg:website":"http://www.memphislibrary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44py22BEmJ1gInqlNRSsQf_35.111374_-89.892642@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610546,
+    "wof:geomhash":"27c85417488e81914f36eeb37201fe3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":823285907
+        }
+    ],
+    "wof:id":823285907,
+    "wof:lastmodified":1462610546,
+    "wof:name":"Memphis/Shelby County Public Library And Information Center",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "township",
+        "government-city",
+        "village"
+    ]
+},
+  "bbox": [
+    -89.892642,
+    35.111374,
+    -89.892642,
+    35.111374
+],
+  "geometry": {"coordinates":[-89.892642,35.111374],"type":"Point"}
+}

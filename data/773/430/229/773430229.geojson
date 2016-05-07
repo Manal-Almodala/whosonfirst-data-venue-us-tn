@@ -1,0 +1,76 @@
+{
+  "id": 773430229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.632656,35.593551,-89.632656,35.593551",
+    "geom:latitude":35.593551,
+    "geom:longitude":-89.632656,
+    "iso:country":"US",
+    "sg:address":"1318 US Hwy 51 N",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 2552",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53rXJGh5Xn48PBBvzWdT3k_35.593551_-89.632656@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585671,
+    "wof:geomhash":"da47ed9df0a29d09899f551c39e35973",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":773430229
+        }
+    ],
+    "wof:id":773430229,
+    "wof:lastmodified":1462585671,
+    "wof:name":"Brotherly Cycles Small Engines",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine"
+    ]
+},
+  "bbox": [
+    -89.632656,
+    35.593551,
+    -89.632656,
+    35.593551
+],
+  "geometry": {"coordinates":[-89.632656,35.593551],"type":"Point"}
+}

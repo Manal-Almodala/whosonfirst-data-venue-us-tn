@@ -1,0 +1,73 @@
+{
+  "id": 773290939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.503629,35.165669,-89.503629,35.165669",
+    "geom:latitude":35.165669,
+    "geom:longitude":-89.503629,
+    "iso:country":"US",
+    "sg:address":"9885 State Hwy 194",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 465 7704",
+    "sg:postcode":"38060",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85846193,
+        102086439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YuxBMJ7QTvEMaf49v0wjI_35.165669_-89.503629@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584606,
+    "wof:geomhash":"e84ad30031b581450428f1dcab0e94e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086439,
+            "neighbourhood_id":85846193,
+            "region_id":85688701,
+            "venue_id":773290939
+        }
+    ],
+    "wof:id":773290939,
+    "wof:lastmodified":1462584606,
+    "wof:name":"Shupe Trucking LLC",
+    "wof:parent_id":85846193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.503629,
+    35.165669,
+    -89.503629,
+    35.165669
+],
+  "geometry": {"coordinates":[-89.503629,35.165669],"type":"Point"}
+}

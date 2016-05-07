@@ -1,0 +1,71 @@
+{
+  "id": 789655073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.556646,35.789265,-83.556646,35.789265",
+    "geom:latitude":35.789265,
+    "geom:longitude":-83.556646,
+    "iso:country":"US",
+    "sg:address":"3333 Parkway",
+    "sg:city":"Pigeon Forge",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 428 4040",
+    "sg:postcode":"37863",
+    "sg:province":"TN",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722583,
+        102086245,
+        85812089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63Mk7h4DJdFLFP9o0fRNVb_35.789265_-83.556646@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589494,
+    "wof:geomhash":"519b61ebfd677bc9d1e6cdbe153ae15a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722583,
+            "neighbourhood_id":85812089,
+            "region_id":85688701,
+            "venue_id":789655073
+        }
+    ],
+    "wof:id":789655073,
+    "wof:lastmodified":1462589494,
+    "wof:name":"Gold Chest",
+    "wof:parent_id":85812089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -83.556646,
+    35.789265,
+    -83.556646,
+    35.789265
+],
+  "geometry": {"coordinates":[-83.556646,35.789265],"type":"Point"}
+}

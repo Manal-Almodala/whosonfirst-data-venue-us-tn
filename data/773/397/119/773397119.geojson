@@ -1,0 +1,85 @@
+{
+  "id": 773397119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.031406,35.200215,-87.031406,35.200215",
+    "geom:latitude":35.200215,
+    "geom:longitude":-87.031406,
+    "iso:country":"US",
+    "sg:address":"114 N 2nd St",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 363 7181",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gh4vXGIHKSnw6YdbeMDTa_35.200215_-87.031406@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585379,
+    "wof:geomhash":"d9d28d27303ee30d17d02e08d6fb5a70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":773397119
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":773397119
+        }
+    ],
+    "wof:id":773397119,
+    "wof:lastmodified":1462585379,
+    "wof:name":"Pulaski Performing Arts Ctr",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -87.031406,
+    35.200215,
+    -87.031406,
+    35.200215
+],
+  "geometry": {"coordinates":[-87.031406,35.200215],"type":"Point"}
+}

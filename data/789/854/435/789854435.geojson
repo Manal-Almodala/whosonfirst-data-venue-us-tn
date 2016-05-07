@@ -1,0 +1,73 @@
+{
+  "id": 789854435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.59298,35.442869,-84.59298,35.442869",
+    "geom:latitude":35.442869,
+    "geom:longitude":-84.59298,
+    "iso:country":"US",
+    "sg:address":"19 E Washington Ave",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 3073",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00ewPAaXFb5TgNI9lJOdRF_35.442869_-84.592980@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591063,
+    "wof:geomhash":"846c62b3ffb5fef29cb6a6c216c1a5a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":789854435
+        }
+    ],
+    "wof:id":789854435,
+    "wof:lastmodified":1462591063,
+    "wof:name":"Athens Dry Cleaners Inc",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -84.59298,
+    35.442869,
+    -84.59298,
+    35.442869
+],
+  "geometry": {"coordinates":[-84.59298,35.442869],"type":"Point"}
+}

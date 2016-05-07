@@ -1,0 +1,73 @@
+{
+  "id": 789946199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.742675,36.184416,-82.742675,36.184416",
+    "geom:latitude":36.184416,
+    "geom:longitude":-82.742675,
+    "iso:country":"US",
+    "sg:address":"4765 E Andrew Johnson Hwy",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 787 7800",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722677,
+        102086377,
+        85842363
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56ubOKxz1ayxaMRYol0hFc_36.184416_-82.742675@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591855,
+    "wof:geomhash":"30498643630507532a7d14b7a3e33924",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722677,
+            "neighbourhood_id":85842363,
+            "region_id":85688701,
+            "venue_id":789946199
+        }
+    ],
+    "wof:id":789946199,
+    "wof:lastmodified":1462591855,
+    "wof:name":"B & B Autocare Ctr",
+    "wof:parent_id":85842363,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.742675,
+    36.184416,
+    -82.742675,
+    36.184416
+],
+  "geometry": {"coordinates":[-82.74267500000001,36.184416],"type":"Point"}
+}

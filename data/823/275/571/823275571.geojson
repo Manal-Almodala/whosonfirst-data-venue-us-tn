@@ -1,0 +1,71 @@
+{
+  "id": 823275571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.677307,35.401874,-89.677307,35.401874",
+    "geom:latitude":35.401874,
+    "geom:longitude":-89.677307,
+    "iso:country":"US",
+    "sg:address":"286 Stafford Rd",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 9506",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13j5JovUJLYTsQR21C2h9H_35.401874_-89.677307@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610132,
+    "wof:geomhash":"29762a3590520acc1d4febe2cbaac242",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823275571
+        }
+    ],
+    "wof:id":823275571,
+    "wof:lastmodified":1462610132,
+    "wof:name":"Twin Electric",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -89.677307,
+    35.401874,
+    -89.677307,
+    35.401874
+],
+  "geometry": {"coordinates":[-89.677307,35.401874],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789999195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.355325,35.840264,-86.355325,35.840264",
+    "geom:latitude":35.840264,
+    "geom:longitude":-86.355325,
+    "iso:country":"US",
+    "sg:address":"2225 E Main St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 0667",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wS2xHeNx1bHlma1cr7FYj_35.840264_-86.355325@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592323,
+    "wof:geomhash":"190f6a48a0ba824d0e43aaebb8e9d67f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":789999195
+        }
+    ],
+    "wof:id":789999195,
+    "wof:lastmodified":1462592323,
+    "wof:name":"Holly Park Apartments",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.355325,
+    35.840264,
+    -86.355325,
+    35.840264
+],
+  "geometry": {"coordinates":[-86.35532499999999,35.840264],"type":"Point"}
+}

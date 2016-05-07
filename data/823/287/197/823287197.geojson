@@ -1,0 +1,81 @@
+{
+  "id": 823287197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.855097,35.100066,-89.855097,35.100066",
+    "geom:latitude":35.100066,
+    "geom:longitude":-89.855097,
+    "iso:country":"US",
+    "sg:address":"6133 Poplar Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 761 9720",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"http://www.sheaclinic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85857485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iDBVhxYyubDYH6VSrOTIC_35.100066_-89.855097@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610596,
+    "wof:geomhash":"ad7550e2314e8f9a82a53f32c1db4355",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85857485,
+            "region_id":85688701,
+            "venue_id":823287197
+        }
+    ],
+    "wof:id":823287197,
+    "wof:lastmodified":1462610596,
+    "wof:name":"Shea Ear Clinic",
+    "wof:parent_id":85857485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.855097,
+    35.100066,
+    -89.855097,
+    35.100066
+],
+  "geometry": {"coordinates":[-89.855097,35.100066],"type":"Point"}
+}

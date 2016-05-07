@@ -1,0 +1,71 @@
+{
+  "id": 807318725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.258959,36.233789,-83.258959,36.233789",
+    "geom:latitude":36.233789,
+    "geom:longitude":-83.258959,
+    "iso:country":"US",
+    "sg:address":"2824 Combs Ln",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 5357",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gqff0sMjKDmS3OZI3FHg2_36.233789_-83.258959@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606048,
+    "wof:geomhash":"6e76f7d636c27623a8d4f9b9a05beeba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807318725
+        }
+    ],
+    "wof:id":807318725,
+    "wof:lastmodified":1462606048,
+    "wof:name":"Performance Transmission",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.258959,
+    36.233789,
+    -83.258959,
+    36.233789
+],
+  "geometry": {"coordinates":[-83.258959,36.233789],"type":"Point"}
+}

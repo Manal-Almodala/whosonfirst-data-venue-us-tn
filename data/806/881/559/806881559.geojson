@@ -1,0 +1,73 @@
+{
+  "id": 806881559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.65596,35.554331,-89.65596,35.554331",
+    "geom:latitude":35.554331,
+    "geom:longitude":-89.65596,
+    "iso:country":"US",
+    "sg:address":"899 US Hwy 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 5866",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LTMlYGexekfyOql6dJXG5_35.554331_-89.655960@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601867,
+    "wof:geomhash":"69b8212cf81a0317338a3aa78acf6124",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806881559
+        }
+    ],
+    "wof:id":806881559,
+    "wof:lastmodified":1462601867,
+    "wof:name":"Maxwell Family Medicine",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.65596,
+    35.554331,
+    -89.65596,
+    35.554331
+],
+  "geometry": {"coordinates":[-89.65595999999999,35.554331],"type":"Point"}
+}

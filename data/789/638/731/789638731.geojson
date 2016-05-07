@@ -1,0 +1,75 @@
+{
+  "id": 789638731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.648598,35.565531,-89.648598,35.565531",
+    "geom:latitude":35.565531,
+    "geom:longitude":-89.648598,
+    "iso:country":"US",
+    "sg:address":"101 US Hwy 51 N",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 7983",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77bP5qqLzqsWmmepPPbdax_35.565531_-89.648598@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589365,
+    "wof:geomhash":"ddd68bf7b991e49424bb0ab56ea09572",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789638731
+        }
+    ],
+    "wof:id":789638731,
+    "wof:lastmodified":1462589365,
+    "wof:name":"Regal Automated Teller Machine",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "teller",
+        "automated"
+    ]
+},
+  "bbox": [
+    -89.648598,
+    35.565531,
+    -89.648598,
+    35.565531
+],
+  "geometry": {"coordinates":[-89.64859800000001,35.565531],"type":"Point"}
+}

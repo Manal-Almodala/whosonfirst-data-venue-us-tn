@@ -1,0 +1,73 @@
+{
+  "id": 806985861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.561061,35.897467,-86.561061,35.897467",
+    "geom:latitude":35.897467,
+    "geom:longitude":-86.561061,
+    "iso:country":"US",
+    "sg:address":"220 W North Creek Rd",
+    "sg:city":"Springfield",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 384 7492",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63PWCtsgftePHXV1c4qEhm_35.897467_-86.561061@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602743,
+    "wof:geomhash":"dbfab207abc5ef671b015d423b75b023",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":806985861
+        }
+    ],
+    "wof:id":806985861,
+    "wof:lastmodified":1462602743,
+    "wof:name":"Northcrest Physicians Svc",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.561061,
+    35.897467,
+    -86.561061,
+    35.897467
+],
+  "geometry": {"coordinates":[-86.561061,35.897467],"type":"Point"}
+}

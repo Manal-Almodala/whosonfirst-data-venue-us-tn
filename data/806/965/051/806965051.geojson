@@ -1,0 +1,75 @@
+{
+  "id": 806965051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.656542,35.553473,-89.656542,35.553473",
+    "geom:latitude":35.553473,
+    "geom:longitude":-89.656542,
+    "iso:country":"US",
+    "sg:address":"947 US Hwy 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 6969",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mEgdityvz4pB5ALoqx7of_35.553473_-89.656542@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602564,
+    "wof:geomhash":"5e3cb7fd85f0a736ff2c96de52b6cda4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806965051
+        }
+    ],
+    "wof:id":806965051,
+    "wof:lastmodified":1462602564,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -89.656542,
+    35.553473,
+    -89.656542,
+    35.553473
+],
+  "geometry": {"coordinates":[-89.656542,35.553473],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790219325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.809514,36.018282,-83.809514,36.018282",
+    "geom:latitude":36.018282,
+    "geom:longitude":-83.809514,
+    "iso:country":"US",
+    "sg:address":"6616 Asheville Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 523 3900",
+    "sg:postcode":"37924",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gcyRayuNorD0K39krUGzu_36.018282_-83.809514@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594098,
+    "wof:geomhash":"29ea2219717ca47aabbfb07e9a13c588",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":790219325
+        }
+    ],
+    "wof:id":790219325,
+    "wof:lastmodified":1462594098,
+    "wof:name":"Knoxville Pain Clinic",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.809514,
+    36.018282,
+    -83.809514,
+    36.018282
+],
+  "geometry": {"coordinates":[-83.80951399999999,36.018282],"type":"Point"}
+}

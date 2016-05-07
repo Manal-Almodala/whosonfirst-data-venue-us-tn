@@ -1,0 +1,90 @@
+{
+  "id": 823268765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.83078,35.171558,-84.83078,35.171558",
+    "geom:latitude":35.171558,
+    "geom:longitude":-84.83078,
+    "iso:country":"US",
+    "sg:address":"3000 20th St NE",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Aerospace",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 478 0700",
+    "sg:postcode":"37323",
+    "sg:province":"TN",
+    "sg:tags":[
+        "control",
+        "industry",
+        "monitoring",
+        "thermostat",
+        "system"
+    ],
+    "sg:website":"http://www51.honeywell.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85808527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34v7Cdn4fpJVqiZVoJ5CzV_35.171558_-84.830780@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609865,
+    "wof:geomhash":"41920e10eaaa8a7d11de3d27fad9dba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85808527,
+            "region_id":85688701,
+            "venue_id":823268765
+        }
+    ],
+    "wof:id":823268765,
+    "wof:lastmodified":1462609865,
+    "wof:name":"Honeywell",
+    "wof:parent_id":85808527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "industry",
+        "monitoring",
+        "thermostat",
+        "system"
+    ]
+},
+  "bbox": [
+    -84.83078,
+    35.171558,
+    -84.83078,
+    35.171558
+],
+  "geometry": {"coordinates":[-84.83078,35.171558],"type":"Point"}
+}

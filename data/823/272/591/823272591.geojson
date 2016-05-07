@@ -1,0 +1,71 @@
+{
+  "id": 823272591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.253799,36.589329,-82.253799,36.589329",
+    "geom:latitude":36.589329,
+    "geom:longitude":-82.253799,
+    "iso:country":"US",
+    "sg:address":"1 Medical Park Blvd Ste 300E",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 844 6450",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85825325,
+        102086471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yuu2Jvn7LTkozY3TftmvT_36.589329_-82.253799@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610011,
+    "wof:geomhash":"aac5918eb6798c098b6ac365b2144012",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "neighbourhood_id":85825325,
+            "region_id":85688701,
+            "venue_id":823272591
+        }
+    ],
+    "wof:id":823272591,
+    "wof:lastmodified":1462610011,
+    "wof:name":"Chandler John M MD",
+    "wof:parent_id":85825325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.253799,
+    36.589329,
+    -82.253799,
+    36.589329
+],
+  "geometry": {"coordinates":[-82.253799,36.589329],"type":"Point"}
+}

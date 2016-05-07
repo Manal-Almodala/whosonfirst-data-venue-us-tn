@@ -1,0 +1,71 @@
+{
+  "id": 806591255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.601467,35.431433,-84.601467,35.431433",
+    "geom:latitude":35.431433,
+    "geom:longitude":-84.601467,
+    "iso:country":"US",
+    "sg:address":"717 Cedar Springs Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 1132",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ACwQIgJRA13Tun5qmb0qU_35.431433_-84.601467@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599408,
+    "wof:geomhash":"26112b8715861c7b30c56df60ee78880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":806591255
+        }
+    ],
+    "wof:id":806591255,
+    "wof:lastmodified":1462599408,
+    "wof:name":"Cooleys Wrecker Service",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.601467,
+    35.431433,
+    -84.601467,
+    35.431433
+],
+  "geometry": {"coordinates":[-84.601467,35.431433],"type":"Point"}
+}

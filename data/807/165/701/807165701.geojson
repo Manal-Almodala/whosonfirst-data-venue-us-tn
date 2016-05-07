@@ -1,0 +1,77 @@
+{
+  "id": 807165701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.96446,35.95374,-83.96446,35.95374",
+    "geom:latitude":35.95374,
+    "geom:longitude":-83.96446,
+    "iso:country":"US",
+    "sg:address":"3434 Reagan Ave",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 524 0101",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85832381
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gYjwcZxXfeWVrN8SOpvsT_35.953740_-83.964460@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604433,
+    "wof:geomhash":"bfd2b21a440fedf66ce6a26baf694098",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85832381,
+            "region_id":85688701,
+            "venue_id":807165701
+        }
+    ],
+    "wof:id":807165701,
+    "wof:lastmodified":1462604433,
+    "wof:name":"David's Auto Painting",
+    "wof:parent_id":85832381,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -83.96446,
+    35.95374,
+    -83.96446,
+    35.95374
+],
+  "geometry": {"coordinates":[-83.96446,35.95374],"type":"Point"}
+}

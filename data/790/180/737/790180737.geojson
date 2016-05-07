@@ -1,0 +1,73 @@
+{
+  "id": 790180737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.34354,35.901234,-86.34354,35.901234",
+    "geom:latitude":35.901234,
+    "geom:longitude":-86.34354,
+    "iso:country":"US",
+    "sg:address":"3381 Emery Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 876 8328",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85843385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0e30fX7gS4jQzI3bVUwfUx_35.901234_-86.343540@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593780,
+    "wof:geomhash":"e9f36c5b4cc589da5c3902ecb4125750",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85843385,
+            "region_id":85688701,
+            "venue_id":790180737
+        }
+    ],
+    "wof:id":790180737,
+    "wof:lastmodified":1462593780,
+    "wof:name":"American Waste Disposal & Svc",
+    "wof:parent_id":85843385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.34354,
+    35.901234,
+    -86.34354,
+    35.901234
+],
+  "geometry": {"coordinates":[-86.34354,35.901234],"type":"Point"}
+}

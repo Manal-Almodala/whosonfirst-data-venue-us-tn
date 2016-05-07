@@ -1,0 +1,75 @@
+{
+  "id": 789919377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.379819,36.291989,-82.379819,36.291989",
+    "geom:latitude":36.291989,
+    "geom:longitude":-82.379819,
+    "iso:country":"US",
+    "sg:address":"1506 Chickees St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 434 2343",
+    "sg:postcode":"37604",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722757,
+        102086335,
+        85859269
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00R8TKKQ2UaqvjNHWtHfNO_36.291989_-82.379819@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591623,
+    "wof:geomhash":"763c51a86b1aec6a3295c13a1795adc6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85859269,
+            "region_id":85688701,
+            "venue_id":789919377
+        }
+    ],
+    "wof:id":789919377,
+    "wof:lastmodified":1462591623,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85859269,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -82.379819,
+    36.291989,
+    -82.379819,
+    36.291989
+],
+  "geometry": {"coordinates":[-82.379819,36.291989],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 790483505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.035855,35.611816,-87.035855,35.611816",
+    "geom:latitude":35.611816,
+    "geom:longitude":-87.035855,
+    "iso:country":"US",
+    "sg:address":"1018 S Garden St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 381 8900",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "control",
+        "potable",
+        "reg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15VvuDC9P7rbEfgH0psB7L_35.611816_-87.035855@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596221,
+    "wof:geomhash":"c5069d9aa22ba2c0ae97144d898c2260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":790483505
+        }
+    ],
+    "wof:id":790483505,
+    "wof:lastmodified":1462596221,
+    "wof:name":"Maury County Water System",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "potable",
+        "reg"
+    ]
+},
+  "bbox": [
+    -87.035855,
+    35.611816,
+    -87.035855,
+    35.611816
+],
+  "geometry": {"coordinates":[-87.035855,35.611816],"type":"Point"}
+}

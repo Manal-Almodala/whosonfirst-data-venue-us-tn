@@ -1,0 +1,71 @@
+{
+  "id": 807165985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.074544,35.467524,-86.074544,35.467524",
+    "geom:latitude":35.467524,
+    "geom:longitude":-86.074544,
+    "iso:country":"US",
+    "sg:address":"1005 Clover Ln",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 7392",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_731QDfwDzIV7whVkgU8tzh_35.467524_-86.074544@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604437,
+    "wof:geomhash":"d30cc6d827fd4cec30f4f10250789524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":807165985
+        }
+    ],
+    "wof:id":807165985,
+    "wof:lastmodified":1462604437,
+    "wof:name":"Browns Taxi Cab Service",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.074544,
+    35.467524,
+    -86.074544,
+    35.467524
+],
+  "geometry": {"coordinates":[-86.074544,35.467524],"type":"Point"}
+}

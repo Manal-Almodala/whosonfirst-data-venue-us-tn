@@ -1,0 +1,71 @@
+{
+  "id": 773716579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.463435,36.370383,-86.463435,36.370383",
+    "geom:latitude":36.370383,
+    "geom:longitude":-86.463435,
+    "iso:country":"US",
+    "sg:address":"110 Jason Ct",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 642 5411",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OnVJnm551HtjNEswh40zj_36.370383_-86.463435@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587847,
+    "wof:geomhash":"286c28268dcc4365ec1f97fe2389d831",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773716579
+        }
+    ],
+    "wof:id":773716579,
+    "wof:lastmodified":1462587847,
+    "wof:name":"Checker Cab",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.463435,
+    36.370383,
+    -86.463435,
+    36.370383
+],
+  "geometry": {"coordinates":[-86.463435,36.370383],"type":"Point"}
+}

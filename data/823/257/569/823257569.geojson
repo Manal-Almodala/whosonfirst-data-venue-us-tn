@@ -1,0 +1,72 @@
+{
+  "id": 823257569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.982046,35.96337,-84.982046,35.96337",
+    "geom:latitude":35.96337,
+    "geom:longitude":-84.982046,
+    "iso:country":"US",
+    "sg:address":"561 Peavine Rd",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/crossville-north/154905-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 1473",
+    "sg:postcode":"38571",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nGW1dDXCib7vnqqRPTzJG_35.963370_-84.982046@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609486,
+    "wof:geomhash":"6019adc53b24dc8253100bbd40016fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":823257569
+        }
+    ],
+    "wof:id":823257569,
+    "wof:lastmodified":1462609486,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.982046,
+    35.96337,
+    -84.982046,
+    35.96337
+],
+  "geometry": {"coordinates":[-84.982046,35.96337],"type":"Point"}
+}

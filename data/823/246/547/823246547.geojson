@@ -1,0 +1,88 @@
+{
+  "id": 823246547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.63791,36.074452,-86.63791,36.074452",
+    "geom:latitude":36.074452,
+    "geom:longitude":-86.63791,
+    "iso:country":"US",
+    "sg:address":"2600 Murfreesboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/173235-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 367 9204",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85846409,
+        420541523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3e1Zda7BLzaZkbNp8y7wa3_36.074452_-86.637910@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609269,
+    "wof:geomhash":"d827e4184d64e0f2e313e4a2cc3a15e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85846409,
+            "region_id":85688701,
+            "venue_id":823246547
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420541523,
+            "region_id":85688701,
+            "venue_id":823246547
+        }
+    ],
+    "wof:id":823246547,
+    "wof:lastmodified":1462609269,
+    "wof:name":"Wendy's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.63791,
+    36.074452,
+    -86.63791,
+    36.074452
+],
+  "geometry": {"coordinates":[-86.63791000000001,36.074452],"type":"Point"}
+}

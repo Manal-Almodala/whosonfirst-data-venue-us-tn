@@ -1,0 +1,71 @@
+{
+  "id": 807383071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.829017,36.166601,-82.829017,36.166601",
+    "geom:latitude":36.166601,
+    "geom:longitude":-82.829017,
+    "iso:country":"US",
+    "sg:address":"217 N Main St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 639 4000",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26cuHDoPb8i6zkHMhCEoft_36.166601_-82.829017@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606965,
+    "wof:geomhash":"8710c4ae845694bd1dae719886fad98d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":807383071
+        }
+    ],
+    "wof:id":807383071,
+    "wof:lastmodified":1462606965,
+    "wof:name":"Smith & Smith",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -82.829017,
+    36.166601,
+    -82.829017,
+    36.166601
+],
+  "geometry": {"coordinates":[-82.82901699999999,36.166601],"type":"Point"}
+}

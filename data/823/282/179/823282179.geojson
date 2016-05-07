@@ -1,0 +1,84 @@
+{
+  "id": 823282179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.056169,35.092619,-90.056169,35.092619",
+    "geom:latitude":35.092619,
+    "geom:longitude":-90.056169,
+    "iso:country":"US",
+    "sg:address":"1977 S 3rd St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 947 3417",
+    "sg:postcode":"38109",
+    "sg:province":"TN",
+    "sg:tags":[
+        "super"
+    ],
+    "sg:website":"http://www.kroger.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Bqgw2q3e5RfmBQmXp9FxL_35.092619_-90.056169@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610399,
+    "wof:geomhash":"4693b3d949a0460490326e8840d2ddce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542137,
+            "region_id":85688701,
+            "venue_id":823282179
+        }
+    ],
+    "wof:id":823282179,
+    "wof:lastmodified":1462610399,
+    "wof:name":"Kroger",
+    "wof:parent_id":420542137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -90.056169,
+    35.092619,
+    -90.056169,
+    35.092619
+],
+  "geometry": {"coordinates":[-90.056169,35.092619],"type":"Point"}
+}

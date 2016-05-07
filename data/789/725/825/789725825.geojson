@@ -1,0 +1,69 @@
+{
+  "id": 789725825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.290335,36.558909,-82.290335,36.558909",
+    "geom:latitude":36.558909,
+    "geom:longitude":-82.290335,
+    "iso:country":"US",
+    "sg:address":"219 Tallman Private Dr",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 279 9295",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85825325,
+        102086471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GJUFbsmzPwC4K7ozbuYL5_36.558909_-82.290335@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590070,
+    "wof:geomhash":"d6b768293a1cee447fbb281d411467ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "neighbourhood_id":85825325,
+            "region_id":85688701,
+            "venue_id":789725825
+        }
+    ],
+    "wof:id":789725825,
+    "wof:lastmodified":1462590070,
+    "wof:name":"Tbl Heating & Cooling",
+    "wof:parent_id":85825325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.290335,
+    36.558909,
+    -82.290335,
+    36.558909
+],
+  "geometry": {"coordinates":[-82.290335,36.558909],"type":"Point"}
+}

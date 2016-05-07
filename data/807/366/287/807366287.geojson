@@ -1,0 +1,80 @@
+{
+  "id": 807366287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.913259,35.782542,-86.913259,35.782542",
+    "geom:latitude":35.782542,
+    "geom:longitude":-86.913259,
+    "iso:country":"US",
+    "sg:address":"4800 Columbia Pike",
+    "sg:city":"Thompsons Station",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 794 3826",
+    "sg:postcode":"37179",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723077,
+        102087107,
+        420541943,
+        101723089,
+        102086337,
+        420542331
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KGA1MfmBvpC97pTC31zhh_35.782542_-86.913259@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606743,
+    "wof:geomhash":"e10f4c6da01f58d19a7d0737e2b9b452",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723077,
+            "neighbourhood_id":420541943,
+            "region_id":85688701,
+            "venue_id":807366287
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723089,
+            "neighbourhood_id":420542331,
+            "region_id":85688701,
+            "venue_id":807366287
+        }
+    ],
+    "wof:id":807366287,
+    "wof:lastmodified":1462606743,
+    "wof:name":"Convenience",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -86.913259,
+    35.782542,
+    -86.913259,
+    35.782542
+],
+  "geometry": {"coordinates":[-86.913259,35.782542],"type":"Point"}
+}

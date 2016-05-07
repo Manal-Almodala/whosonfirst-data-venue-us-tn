@@ -1,0 +1,75 @@
+{
+  "id": 806684621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.411728,35.844151,-86.411728,35.844151",
+    "geom:latitude":35.844151,
+    "geom:longitude":-86.411728,
+    "iso:country":"US",
+    "sg:address":"1114 W Main St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 6800",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85835585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26UZ7NAVd1fHAugaZI14fN_35.844151_-86.411728@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600209,
+    "wof:geomhash":"c603f97daaa83a108022300653e8c853",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85835585,
+            "region_id":85688701,
+            "venue_id":806684621
+        }
+    ],
+    "wof:id":806684621,
+    "wof:lastmodified":1462600209,
+    "wof:name":"Tennessee Orthopaedic Alliance",
+    "wof:parent_id":85835585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.411728,
+    35.844151,
+    -86.411728,
+    35.844151
+],
+  "geometry": {"coordinates":[-86.411728,35.844151],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806923167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.213494,35.9159,-83.213494,35.9159",
+    "geom:latitude":35.9159,
+    "geom:longitude":-83.213494,
+    "iso:country":"US",
+    "sg:address":"1631 Mountain Ranch Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 625 1306",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kbiQj984DUnlZXd2sR1k4_35.915900_-83.213494@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602214,
+    "wof:geomhash":"3f2c572a35f7430f6b89404bf71ee95d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":806923167
+        }
+    ],
+    "wof:id":806923167,
+    "wof:lastmodified":1462602214,
+    "wof:name":"Vernon's Auto Repair",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.213494,
+    35.9159,
+    -83.213494,
+    35.9159
+],
+  "geometry": {"coordinates":[-83.213494,35.9159],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823270103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.329301,35.10724,-85.329301,35.10724",
+    "geom:latitude":35.10724,
+    "geom:longitude":-85.329301,
+    "iso:country":"US",
+    "sg:address":"311 Glendale Dr",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 870 7867",
+    "sg:postcode":"37405",
+    "sg:province":"TN",
+    "sg:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kJ4TR8Y9Db3GgwVzk4lkr_35.107240_-85.329301@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609919,
+    "wof:geomhash":"d215a3305151629f0f963052c15a290d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876741,
+            "region_id":85688701,
+            "venue_id":823270103
+        }
+    ],
+    "wof:id":823270103,
+    "wof:lastmodified":1462609919,
+    "wof:name":"Pro Storage",
+    "wof:parent_id":85876741,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ]
+},
+  "bbox": [
+    -85.329301,
+    35.10724,
+    -85.329301,
+    35.10724
+],
+  "geometry": {"coordinates":[-85.329301,35.10724],"type":"Point"}
+}

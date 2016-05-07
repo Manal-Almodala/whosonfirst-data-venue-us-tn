@@ -1,0 +1,71 @@
+{
+  "id": 806740005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.285961,36.222464,-86.285961,36.222464",
+    "geom:latitude":36.222464,
+    "geom:longitude":-86.285961,
+    "iso:country":"US",
+    "sg:address":"907 Stoneway Dr",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 3662",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zC9sxBIXTNUxOZZdO5L22_36.222464_-86.285961@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600680,
+    "wof:geomhash":"28d28369fb3ac4dc8f0a99e1706ad503",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":806740005
+        }
+    ],
+    "wof:id":806740005,
+    "wof:lastmodified":1462600680,
+    "wof:name":"Stoneway Acres",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -86.285961,
+    36.222464,
+    -86.285961,
+    36.222464
+],
+  "geometry": {"coordinates":[-86.285961,36.222464],"type":"Point"}
+}

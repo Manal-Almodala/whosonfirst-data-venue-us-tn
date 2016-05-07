@@ -1,0 +1,73 @@
+{
+  "id": 789850841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.107956,35.911452,-84.107956,35.911452",
+    "geom:latitude":35.911452,
+    "geom:longitude":-84.107956,
+    "iso:country":"US",
+    "sg:address":"201 Sherlake Ln NW",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 693 2131",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2G7Vs28CoNmc2bk7JnfRsz_35.911452_-84.107956@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591033,
+    "wof:geomhash":"5cfb376a9e55a99e3a767b14dde660e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":789850841
+        }
+    ],
+    "wof:id":789850841,
+    "wof:lastmodified":1462591033,
+    "wof:name":"Atlas Van Lines",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.107956,
+    35.911452,
+    -84.107956,
+    35.911452
+],
+  "geometry": {"coordinates":[-84.107956,35.911452],"type":"Point"}
+}

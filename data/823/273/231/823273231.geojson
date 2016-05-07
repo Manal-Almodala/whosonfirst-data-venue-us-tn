@@ -1,0 +1,84 @@
+{
+  "id": 823273231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.530056,36.531202,-82.530056,36.531202",
+    "geom:latitude":36.531202,
+    "geom:longitude":-82.530056,
+    "iso:country":"US",
+    "sg:address":"1205 N Eastman Rd",
+    "sg:city":"Kingsport",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 247 4148",
+    "sg:postcode":"37664",
+    "sg:province":"TN",
+    "sg:website":"http://www.foodcity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722787,
+        102086471,
+        85818419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zhVWCGLP1wGnFrsKcLdrT_36.531202_-82.530056@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610040,
+    "wof:geomhash":"3963249d26c2b80c9530ad59f912afb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722787,
+            "neighbourhood_id":85818419,
+            "region_id":85688701,
+            "venue_id":823273231
+        }
+    ],
+    "wof:id":823273231,
+    "wof:lastmodified":1462610040,
+    "wof:name":"Food City",
+    "wof:parent_id":85818419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -82.530056,
+    36.531202,
+    -82.530056,
+    36.531202
+],
+  "geometry": {"coordinates":[-82.530056,36.531202],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789976711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.572526,35.873165,-83.572526,35.873165",
+    "geom:latitude":35.873165,
+    "geom:longitude":-83.572526,
+    "iso:country":"US",
+    "sg:address":"126 Kilby St",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 429 3389",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85809817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VYEfiMAiM0TQjUZwSyDEM_35.873165_-83.572526@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592142,
+    "wof:geomhash":"16ce8b79021b5cc3bdc2ad81af5b7878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85809817,
+            "region_id":85688701,
+            "venue_id":789976711
+        }
+    ],
+    "wof:id":789976711,
+    "wof:lastmodified":1462592142,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85809817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -83.572526,
+    35.873165,
+    -83.572526,
+    35.873165
+],
+  "geometry": {"coordinates":[-83.572526,35.873165],"type":"Point"}
+}

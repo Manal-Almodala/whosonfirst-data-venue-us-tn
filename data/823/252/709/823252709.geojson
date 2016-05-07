@@ -1,0 +1,76 @@
+{
+  "id": 823252709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.015447,35.907313,-84.015447,35.907313",
+    "geom:latitude":35.907313,
+    "geom:longitude":-84.015447,
+    "iso:country":"US",
+    "sg:address":"7527 S Northshore Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/85680-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 690 9500",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85845593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IiTZKBU6beSY3RFaVivDg_35.907313_-84.015447@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609397,
+    "wof:geomhash":"0cd5858ce9d7c1a02c2e6a0620f22816",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85845593,
+            "region_id":85688701,
+            "venue_id":823252709
+        }
+    ],
+    "wof:id":823252709,
+    "wof:lastmodified":1462609397,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85845593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.015447,
+    35.907313,
+    -84.015447,
+    35.907313
+],
+  "geometry": {"coordinates":[-84.01544699999999,35.907313],"type":"Point"}
+}

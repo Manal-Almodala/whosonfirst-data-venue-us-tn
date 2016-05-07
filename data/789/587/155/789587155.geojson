@@ -1,0 +1,75 @@
+{
+  "id": 789587155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.251615,35.225158,-88.251615,35.225158",
+    "geom:latitude":35.225158,
+    "geom:longitude":-88.251615,
+    "iso:country":"US",
+    "sg:address":"350 Main St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 5621",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wNpzO13oRKPxdXo4g5AGb_35.225158_-88.251615@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588964,
+    "wof:geomhash":"1385f9a9edbfd14d71a84463f0d591f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":789587155
+        }
+    ],
+    "wof:id":789587155,
+    "wof:lastmodified":1462588964,
+    "wof:name":"Clean Machine",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -88.251615,
+    35.225158,
+    -88.251615,
+    35.225158
+],
+  "geometry": {"coordinates":[-88.251615,35.225158],"type":"Point"}
+}

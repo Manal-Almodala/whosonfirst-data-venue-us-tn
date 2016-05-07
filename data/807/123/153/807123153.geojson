@@ -1,0 +1,73 @@
+{
+  "id": 807123153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.015361,36.037282,-84.015361,36.037282",
+    "geom:latitude":36.037282,
+    "geom:longitude":-84.015361,
+    "iso:country":"US",
+    "sg:address":"500 W Emory Rd",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 938 1884",
+    "sg:postcode":"37849",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mKAF0K2Z9WJuvhuCwLPqU_36.037282_-84.015361@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603978,
+    "wof:geomhash":"c4d4f0328039292788007f61c48336b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":807123153
+        }
+    ],
+    "wof:id":807123153,
+    "wof:lastmodified":1462603978,
+    "wof:name":"Powell Animal Hospital Inc",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -84.015361,
+    36.037282,
+    -84.015361,
+    36.037282
+],
+  "geometry": {"coordinates":[-84.015361,36.037282],"type":"Point"}
+}

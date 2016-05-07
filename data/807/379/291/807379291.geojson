@@ -1,0 +1,73 @@
+{
+  "id": 807379291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.831372,35.659222,-88.831372,35.659222",
+    "geom:latitude":35.659222,
+    "geom:longitude":-88.831372,
+    "iso:country":"US",
+    "sg:address":"89 Central Ln",
+    "sg:city":"Parsons",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 847 9650",
+    "sg:postcode":"38305",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722769,
+        102087221,
+        85821577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YukbclYUd1BonbfeoAQBS_35.659222_-88.831372@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606911,
+    "wof:geomhash":"5c50905c07fef4dd10a8766458045fb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85821577,
+            "region_id":85688701,
+            "venue_id":807379291
+        }
+    ],
+    "wof:id":807379291,
+    "wof:lastmodified":1462606911,
+    "wof:name":"Animal Care Clinic",
+    "wof:parent_id":85821577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.831372,
+    35.659222,
+    -88.831372,
+    35.659222
+],
+  "geometry": {"coordinates":[-88.831372,35.659222],"type":"Point"}
+}

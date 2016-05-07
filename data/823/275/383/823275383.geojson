@@ -1,0 +1,86 @@
+{
+  "id": 823275383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.783161,35.448482,-89.783161,35.448482",
+    "geom:latitude":35.448482,
+    "geom:longitude":-89.783161,
+    "iso:country":"US",
+    "sg:address":"10992 Hwy 51 Suite 100",
+    "sg:city":"Atoka",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 1711",
+    "sg:postcode":"38004",
+    "sg:province":"TN",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "sg:website":"http://www.realpt.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LS4WkWnq893ZbxJGZ1m1Z_35.448482_-89.783161@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610125,
+    "wof:geomhash":"291442a9ac7fc4ebc85256fb678de28c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823275383
+        }
+    ],
+    "wof:id":823275383,
+    "wof:lastmodified":1462610125,
+    "wof:name":"Mid-South Physical Therapy",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -89.783161,
+    35.448482,
+    -89.783161,
+    35.448482
+],
+  "geometry": {"coordinates":[-89.78316100000001,35.448482],"type":"Point"}
+}

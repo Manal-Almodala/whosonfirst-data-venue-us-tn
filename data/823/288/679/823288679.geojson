@@ -1,0 +1,100 @@
+{
+  "id": 823288679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795256,35.049385,-89.795256,35.049385",
+    "geom:latitude":35.049385,
+    "geom:longitude":-89.795256,
+    "iso:country":"US",
+    "sg:address":"3639 Hacks Cross Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 434 7013",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V4ln29RzyDmwc6Tl04mUu_35.049385_-89.795256@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610648,
+    "wof:geomhash":"2f18286a9a445601d91d636aaa9808bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823288679
+        }
+    ],
+    "wof:id":823288679,
+    "wof:lastmodified":1462610648,
+    "wof:name":"Fedex",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -89.795256,
+    35.049385,
+    -89.795256,
+    35.049385
+],
+  "geometry": {"coordinates":[-89.79525599999999,35.049385],"type":"Point"}
+}

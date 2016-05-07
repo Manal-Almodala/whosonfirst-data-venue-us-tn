@@ -1,0 +1,71 @@
+{
+  "id": 790114189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.613666,35.460366,-84.613666,35.460366",
+    "geom:latitude":35.460366,
+    "geom:longitude":-84.613666,
+    "iso:country":"US",
+    "sg:address":"620 Congress Pkwy NW",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 0467",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85808247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4K79ZIXgWv7nSjkPCouTcy_35.460366_-84.613666@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593247,
+    "wof:geomhash":"da10ff15cfc7683a624a0c23780c8c02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85808247,
+            "region_id":85688701,
+            "venue_id":790114189
+        }
+    ],
+    "wof:id":790114189,
+    "wof:lastmodified":1462593247,
+    "wof:name":"Med Trans Ambulance",
+    "wof:parent_id":85808247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -84.613666,
+    35.460366,
+    -84.613666,
+    35.460366
+],
+  "geometry": {"coordinates":[-84.61366599999999,35.460366],"type":"Point"}
+}

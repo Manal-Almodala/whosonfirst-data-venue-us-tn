@@ -1,0 +1,73 @@
+{
+  "id": 789778831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.854213,35.70336,-88.854213,35.70336",
+    "geom:latitude":35.70336,
+    "geom:longitude":-88.854213,
+    "iso:country":"US",
+    "sg:address":"29 N Star Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 661 0051",
+    "sg:postcode":"38305",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722769,
+        102087221,
+        85821577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BHn1zJeokduMpancYsA3Z_35.703360_-88.854213@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590471,
+    "wof:geomhash":"3abf6359d99c7a87b328ec1dd1d4821c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85821577,
+            "region_id":85688701,
+            "venue_id":789778831
+        }
+    ],
+    "wof:id":789778831,
+    "wof:lastmodified":1462590471,
+    "wof:name":"Dental Care",
+    "wof:parent_id":85821577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.854213,
+    35.70336,
+    -88.854213,
+    35.70336
+],
+  "geometry": {"coordinates":[-88.854213,35.70336],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789926115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.317803,36.221268,-86.317803,36.221268",
+    "geom:latitude":36.221268,
+    "geom:longitude":-86.317803,
+    "iso:country":"US",
+    "sg:address":"1225 Canal St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 2755",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department",
+        "highway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jv1ZfKZbJ3eM7UUEIpal6_36.221268_-86.317803@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591675,
+    "wof:geomhash":"a48d42d2843f9ea09699527efe96e42d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":789926115
+        }
+    ],
+    "wof:id":789926115,
+    "wof:lastmodified":1462591675,
+    "wof:name":"Highway Dept",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "highway"
+    ]
+},
+  "bbox": [
+    -86.317803,
+    36.221268,
+    -86.317803,
+    36.221268
+],
+  "geometry": {"coordinates":[-86.317803,36.221268],"type":"Point"}
+}

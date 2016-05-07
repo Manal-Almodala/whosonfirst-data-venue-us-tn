@@ -1,0 +1,85 @@
+{
+  "id": 823265773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.726048,36.084495,-86.726048,36.084495",
+    "geom:latitude":36.084495,
+    "geom:longitude":-86.726048,
+    "iso:country":"US",
+    "sg:address":"4015 Travis Dr",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospice",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 333 9094",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "home",
+        "eldercare-home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85840471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dgdxa8hCeikB8DSsbrJBO_36.084495_-86.726048@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609740,
+    "wof:geomhash":"ee8794f87b2d413c0911ea2336ca3c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85840471,
+            "region_id":85688701,
+            "venue_id":823265773
+        }
+    ],
+    "wof:id":823265773,
+    "wof:lastmodified":1462609740,
+    "wof:name":"Care All Home Care",
+    "wof:parent_id":85840471,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "eldercare-home"
+    ]
+},
+  "bbox": [
+    -86.726048,
+    36.084495,
+    -86.726048,
+    36.084495
+],
+  "geometry": {"coordinates":[-86.72604800000001,36.084495],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773555201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.538182,36.503996,-83.538182,36.503996",
+    "geom:latitude":36.503996,
+    "geom:longitude":-83.538182,
+    "iso:country":"US",
+    "sg:address":"333 Campbell Dr",
+    "sg:city":"Sneedville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 733 2216",
+    "sg:postcode":"37879",
+    "sg:province":"TN",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5djgvx9E6yOK9eCeHlKvTw_36.503996_-83.538182@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586609,
+    "wof:geomhash":"606287027c52fec17467c92cca7fbdf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":773555201
+        }
+    ],
+    "wof:id":773555201,
+    "wof:lastmodified":1462586609,
+    "wof:name":"Hancock Cnty Mntal Hlth Clinic",
+    "wof:parent_id":85810917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -83.538182,
+    36.503996,
+    -83.538182,
+    36.503996
+],
+  "geometry": {"coordinates":[-83.53818200000001,36.503996],"type":"Point"}
+}

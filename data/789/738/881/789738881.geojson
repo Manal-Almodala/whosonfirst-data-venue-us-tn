@@ -1,0 +1,68 @@
+{
+  "id": 789738881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.888213,35.149544,-89.888213,35.149544",
+    "geom:latitude":35.149544,
+    "geom:longitude":-89.888213,
+    "iso:country":"US",
+    "sg:address":"749 N White Station Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 682 5681",
+    "sg:postcode":"38122",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NZLhbFvTcirBJpCBiFhnm_35.149544_-89.888213@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590165,
+    "wof:geomhash":"51953666c949e192069ad6763eaa417d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":789738881
+        }
+    ],
+    "wof:id":789738881,
+    "wof:lastmodified":1462590165,
+    "wof:name":"Cloverleaf Animal Clinic",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.888213,
+    35.149544,
+    -89.888213,
+    35.149544
+],
+  "geometry": {"coordinates":[-89.88821299999999,35.149544],"type":"Point"}
+}

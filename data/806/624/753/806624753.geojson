@@ -1,0 +1,85 @@
+{
+  "id": 806624753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.509812,36.015653,-86.509812,36.015653",
+    "geom:latitude":36.015653,
+    "geom:longitude":-86.509812,
+    "iso:country":"US",
+    "sg:address":"624 Fitzhugh Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 355 9970",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "instrument",
+        "aircraft",
+        "radio",
+        "electronics"
+    ],
+    "sg:website":"www.carpenteravionics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723109,
+        102086355,
+        420542079
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CRGDD0urQwzXH2xuc0QWq_36.015653_-86.509812@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599691,
+    "wof:geomhash":"4be28e705703a638c6c5a01ffa65d2f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":420542079,
+            "region_id":85688701,
+            "venue_id":806624753
+        }
+    ],
+    "wof:id":806624753,
+    "wof:lastmodified":1462599691,
+    "wof:name":"Carpenter Avionics Inc",
+    "wof:parent_id":420542079,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "aircraft",
+        "radio",
+        "electronics"
+    ]
+},
+  "bbox": [
+    -86.509812,
+    36.015653,
+    -86.509812,
+    36.015653
+],
+  "geometry": {"coordinates":[-86.509812,36.015653],"type":"Point"}
+}

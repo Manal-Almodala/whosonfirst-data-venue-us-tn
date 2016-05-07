@@ -1,0 +1,83 @@
+{
+  "id": 807004509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.222204,35.043002,-85.222204,35.043002",
+    "geom:latitude":35.043002,
+    "geom:longitude":-85.222204,
+    "iso:country":"US",
+    "sg:address":"4115 Shallowford Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 629 6911",
+    "sg:postcode":"37411",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85812811,
+        420558429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OEMCao5u5XvRCSBp4aXc7_35.043002_-85.222204@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602895,
+    "wof:geomhash":"ed46c4aebf39a29fa9d8c59b5a82bb18",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85812811,
+            "region_id":85688701,
+            "venue_id":807004509
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":420558429,
+            "region_id":85688701,
+            "venue_id":807004509
+        }
+    ],
+    "wof:id":807004509,
+    "wof:lastmodified":1462602895,
+    "wof:name":"Terrys Clean Up Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -85.222204,
+    35.043002,
+    -85.222204,
+    35.043002
+],
+  "geometry": {"coordinates":[-85.222204,35.043002],"type":"Point"}
+}

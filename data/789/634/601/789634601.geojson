@@ -1,0 +1,71 @@
+{
+  "id": 789634601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.250333,35.224685,-88.250333,35.224685",
+    "geom:latitude":35.224685,
+    "geom:longitude":-88.250333,
+    "iso:country":"US",
+    "sg:address":"605 Court St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 2069",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VAP7GayhxKD9ddR8tuHun_35.224685_-88.250333@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589334,
+    "wof:geomhash":"7eb001fc2f364b10f66b0fc312058797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":789634601
+        }
+    ],
+    "wof:id":789634601,
+    "wof:lastmodified":1462589334,
+    "wof:name":"David Cagle Engineering",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -88.250333,
+    35.224685,
+    -88.250333,
+    35.224685
+],
+  "geometry": {"coordinates":[-88.250333,35.224685],"type":"Point"}
+}

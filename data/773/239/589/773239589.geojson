@@ -1,0 +1,73 @@
+{
+  "id": 773239589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.564004,35.863591,-83.564004,35.863591",
+    "geom:latitude":35.863591,
+    "geom:longitude":-83.564004,
+    "iso:country":"US",
+    "sg:address":"400 Parkway",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 2915",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jO3PWe0sEKpoy4frFa0ER_35.863591_-83.564004@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584213,
+    "wof:geomhash":"b190664a2cb41a6894408a0399ced897",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":773239589
+        }
+    ],
+    "wof:id":773239589,
+    "wof:lastmodified":1462584213,
+    "wof:name":"Rick's Service Ctr",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.564004,
+    35.863591,
+    -83.564004,
+    35.863591
+],
+  "geometry": {"coordinates":[-83.564004,35.863591],"type":"Point"}
+}

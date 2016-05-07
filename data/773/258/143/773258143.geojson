@@ -1,0 +1,71 @@
+{
+  "id": 773258143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.797916,36.416377,-81.797916,36.416377",
+    "geom:latitude":36.416377,
+    "geom:longitude":-81.797916,
+    "iso:country":"US",
+    "sg:address":"2138 Lumpkin Branch Rd",
+    "sg:city":"Mountain City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 727 4566",
+    "sg:postcode":"37683",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y0w89t7GxJaszw92DycCv_36.416377_-81.797916@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584349,
+    "wof:geomhash":"c3420fa290b588e9e9f7fc7866f90346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":773258143
+        }
+    ],
+    "wof:id":773258143,
+    "wof:lastmodified":1462584349,
+    "wof:name":"Daves Transmission",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -81.797916,
+    36.416377,
+    -81.797916,
+    36.416377
+],
+  "geometry": {"coordinates":[-81.797916,36.416377],"type":"Point"}
+}

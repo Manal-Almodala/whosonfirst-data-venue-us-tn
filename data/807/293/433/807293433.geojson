@@ -1,0 +1,73 @@
+{
+  "id": 807293433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.00416,35.930929,-85.00416,35.930929",
+    "geom:latitude":35.930929,
+    "geom:longitude":-85.00416,
+    "iso:country":"US",
+    "sg:address":"308 Brookhaven Dr",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 9731",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7be4MtzB83JlyI8WnnjY59_35.930929_-85.004160@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605779,
+    "wof:geomhash":"b802da53115aa7a0cad67155cfa8f640",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":807293433
+        }
+    ],
+    "wof:id":807293433,
+    "wof:lastmodified":1462605779,
+    "wof:name":"Turner Electric",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.00416,
+    35.930929,
+    -85.00416,
+    35.930929
+],
+  "geometry": {"coordinates":[-85.00416,35.930929],"type":"Point"}
+}

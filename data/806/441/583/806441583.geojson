@@ -1,0 +1,73 @@
+{
+  "id": 806441583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.803169,35.966814,-86.803169,35.966814",
+    "geom:latitude":35.966814,
+    "geom:longitude":-86.803169,
+    "iso:country":"US",
+    "sg:address":"1600 Westgate Cir",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 250 9000",
+    "sg:postcode":"37027",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723093,
+        102086337,
+        85808771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iuBm8Blsx6VJD64Eanegy_35.966814_-86.803169@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598180,
+    "wof:geomhash":"c749603457d2ad81e9fb51501e6223b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85808771,
+            "region_id":85688701,
+            "venue_id":806441583
+        }
+    ],
+    "wof:id":806441583,
+    "wof:lastmodified":1462598180,
+    "wof:name":"Tennessee Christian Med Ctr",
+    "wof:parent_id":85808771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.803169,
+    35.966814,
+    -86.803169,
+    35.966814
+],
+  "geometry": {"coordinates":[-86.803169,35.966814],"type":"Point"}
+}

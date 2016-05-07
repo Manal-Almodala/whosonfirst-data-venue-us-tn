@@ -1,0 +1,73 @@
+{
+  "id": 773715287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.55633,35.789174,-83.55633,35.789174",
+    "geom:latitude":35.789174,
+    "geom:longitude":-83.55633,
+    "iso:country":"US",
+    "sg:address":"3346 Parkway",
+    "sg:city":"Pigeon Forge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 1924",
+    "sg:postcode":"37863",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722583,
+        102086245,
+        85812089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_209bbd2hinDI2zsEM916Mo_35.789174_-83.556330@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587839,
+    "wof:geomhash":"b762a3c3a53d1e6cca0943c46cade7b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722583,
+            "neighbourhood_id":85812089,
+            "region_id":85688701,
+            "venue_id":773715287
+        }
+    ],
+    "wof:id":773715287,
+    "wof:lastmodified":1462587839,
+    "wof:name":"Pigeon Forge Medical Clinic",
+    "wof:parent_id":85812089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.55633,
+    35.789174,
+    -83.55633,
+    35.789174
+],
+  "geometry": {"coordinates":[-83.55633,35.789174],"type":"Point"}
+}

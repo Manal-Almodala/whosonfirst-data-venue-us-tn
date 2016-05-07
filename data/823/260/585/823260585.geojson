@@ -1,0 +1,78 @@
+{
+  "id": 823260585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.908775,35.116594,-89.908775,35.116594",
+    "geom:latitude":35.116594,
+    "geom:longitude":-89.908775,
+    "iso:country":"US",
+    "sg:address":"4605 Poplar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/173210-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 761 0599",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bxbkX9cNBbzqYkXlYHQcx_35.116899_-89.908693@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609562,
+    "wof:geomhash":"976f777c448e302616df6da1872e65a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":823260585
+        }
+    ],
+    "wof:id":823260585,
+    "wof:lastmodified":1462609562,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -89.908775,
+    35.116594,
+    -89.908775,
+    35.116594
+],
+  "geometry": {"coordinates":[-89.90877500000001,35.116594],"type":"Point"}
+}

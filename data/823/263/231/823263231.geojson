@@ -1,0 +1,101 @@
+{
+  "id": 823263231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.511642,35.978039,-86.511642,35.978039",
+    "geom:latitude":35.978039,
+    "geom:longitude":-86.511642,
+    "iso:country":"US",
+    "sg:address":"111 Mayfield Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 459 0073",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "emergency",
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel",
+        "store"
+    ],
+    "sg:website":"http://www.southernvetcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723109,
+        102086355,
+        85838833
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PgGj7ISGlwTZ1XFKXVSZv_35.978039_-86.511642@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609649,
+    "wof:geomhash":"1834ebfa031148d0e57db198f416a6fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85838833,
+            "region_id":85688701,
+            "venue_id":823263231
+        }
+    ],
+    "wof:id":823263231,
+    "wof:lastmodified":1462609649,
+    "wof:name":"Southern Veterinary Center LLC",
+    "wof:parent_id":85838833,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emergency",
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel",
+        "store"
+    ]
+},
+  "bbox": [
+    -86.511642,
+    35.978039,
+    -86.511642,
+    35.978039
+],
+  "geometry": {"coordinates":[-86.51164199999999,35.978039],"type":"Point"}
+}

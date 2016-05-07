@@ -1,0 +1,77 @@
+{
+  "id": 789718847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.679777,36.169715,-86.679777,36.169715",
+    "geom:latitude":36.169715,
+    "geom:longitude":-86.679777,
+    "iso:country":"US",
+    "sg:address":"143 McGavock Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 883 0121",
+    "sg:postcode":"37214",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer",
+        "chain",
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85830675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lNxLrNBuZu7aEXYLgDWfc_36.169715_-86.679777@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590001,
+    "wof:geomhash":"6149c28812f83256f891b09ceb7fae17",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85830675,
+            "region_id":85688701,
+            "venue_id":789718847
+        }
+    ],
+    "wof:id":789718847,
+    "wof:lastmodified":1462590001,
+    "wof:name":"Kroger",
+    "wof:parent_id":85830675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "chain",
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -86.679777,
+    36.169715,
+    -86.679777,
+    36.169715
+],
+  "geometry": {"coordinates":[-86.679777,36.169715],"type":"Point"}
+}

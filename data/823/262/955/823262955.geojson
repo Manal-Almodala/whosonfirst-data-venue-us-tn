@@ -1,0 +1,95 @@
+{
+  "id": 823262955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.463894,35.809799,-86.463894,35.809799",
+    "geom:latitude":35.809799,
+    "geom:longitude":-86.463894,
+    "iso:country":"US",
+    "sg:address":"2750 New Salem Hwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 713 1685",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grooming",
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ],
+    "sg:website":"http://www.animalcarevet.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46d6fQwpgAJU9P10FiWoYu_35.809799_-86.463894@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609639,
+    "wof:geomhash":"a40ca7ed8fdbb3a3f6f28c745243c520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823262955
+        }
+    ],
+    "wof:id":823262955,
+    "wof:lastmodified":1462609639,
+    "wof:name":"Animal Care Veterinary Hospital Inc",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "hospital",
+        "veterinarian",
+        "clinic",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -86.463894,
+    35.809799,
+    -86.463894,
+    35.809799
+],
+  "geometry": {"coordinates":[-86.463894,35.809799],"type":"Point"}
+}

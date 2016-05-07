@@ -1,0 +1,75 @@
+{
+  "id": 789935879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.411623,35.866528,-86.411623,35.866528",
+    "geom:latitude":35.866528,
+    "geom:longitude":-86.411623,
+    "iso:country":"US",
+    "sg:address":"1414 NW Broad St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 3262",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aF8m1iwi4PlHuVDU2nqrB_35.866528_-86.411623@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591758,
+    "wof:geomhash":"7f1a9d18f4e24f84b8cb6faeb395d1a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":789935879
+        }
+    ],
+    "wof:id":789935879,
+    "wof:lastmodified":1462591758,
+    "wof:name":"Southern Imports",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.411623,
+    35.866528,
+    -86.411623,
+    35.866528
+],
+  "geometry": {"coordinates":[-86.41162300000001,35.866528],"type":"Point"}
+}

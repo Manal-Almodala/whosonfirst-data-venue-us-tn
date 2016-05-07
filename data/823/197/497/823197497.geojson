@@ -1,0 +1,73 @@
+{
+  "id": 823197497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.030492,35.950048,-85.030492,35.950048",
+    "geom:latitude":35.950048,
+    "geom:longitude":-85.030492,
+    "iso:country":"US",
+    "sg:address":"411 West Ave",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 9511",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18HjdHRezD3q6GqPuzAJ26_35.950048_-85.030492@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608300,
+    "wof:geomhash":"7fb0ff6142411aef6326e57f7c0c41a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":823197497
+        }
+    ],
+    "wof:id":823197497,
+    "wof:lastmodified":1462608300,
+    "wof:name":"Crossville Medical Group",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.030492,
+    35.950048,
+    -85.030492,
+    35.950048
+],
+  "geometry": {"coordinates":[-85.030492,35.950048],"type":"Point"}
+}

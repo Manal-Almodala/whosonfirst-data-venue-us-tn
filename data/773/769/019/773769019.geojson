@@ -1,0 +1,83 @@
+{
+  "id": 773769019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.511652,36.193654,-85.511652,36.193654",
+    "geom:latitude":36.193654,
+    "geom:longitude":-85.511652,
+    "iso:country":"US",
+    "sg:address":"2037 N Willow Ave",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 528 3531",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722459,
+        102086339,
+        85811771,
+        85852063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jUNVUxyXOkM3BBRm4anO1_36.193654_-85.511652@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588235,
+    "wof:geomhash":"fe9e2e2f84cde45bbd5b7613211ee71f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85811771,
+            "region_id":85688701,
+            "venue_id":773769019
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85852063,
+            "region_id":85688701,
+            "venue_id":773769019
+        }
+    ],
+    "wof:id":773769019,
+    "wof:lastmodified":1462588235,
+    "wof:name":"Gaw Brothers Produce",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -85.511652,
+    36.193654,
+    -85.511652,
+    36.193654
+],
+  "geometry": {"coordinates":[-85.511652,36.193654],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806464711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.190184,36.456431,-87.190184,36.456431",
+    "geom:latitude":36.456431,
+    "geom:longitude":-87.190184,
+    "iso:country":"US",
+    "sg:address":"1022 Shady Grove Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 362 3683",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BRIuJLJIKOVI0TI63Cdi7_36.456431_-87.190184@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598352,
+    "wof:geomhash":"cb2a5b41c1ceb57f525c799ef3728c61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846211,
+            "region_id":85688701,
+            "venue_id":806464711
+        }
+    ],
+    "wof:id":806464711,
+    "wof:lastmodified":1462598352,
+    "wof:name":"Nashville Radiator Servic",
+    "wof:parent_id":85846211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -87.190184,
+    36.456431,
+    -87.190184,
+    36.456431
+],
+  "geometry": {"coordinates":[-87.190184,36.456431],"type":"Point"}
+}

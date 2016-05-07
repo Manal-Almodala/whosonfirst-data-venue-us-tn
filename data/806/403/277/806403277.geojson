@@ -1,0 +1,72 @@
+{
+  "id": 806403277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.061665,36.428725,-89.061665,36.428725",
+    "geom:latitude":36.428725,
+    "geom:longitude":-89.061665,
+    "iso:country":"US",
+    "sg:address":"111 N 5th St",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 3911",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.ucfdtn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xZLEI6pMyfDueN5EXIlMS_36.428725_-89.061665@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597862,
+    "wof:geomhash":"13589a67ab20289da1e5cf2c152b7add",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":806403277
+        }
+    ],
+    "wof:id":806403277,
+    "wof:lastmodified":1462597862,
+    "wof:name":"Union City Fire Departments",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.061665,
+    36.428725,
+    -89.061665,
+    36.428725
+],
+  "geometry": {"coordinates":[-89.061665,36.428725],"type":"Point"}
+}

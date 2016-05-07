@@ -1,0 +1,71 @@
+{
+  "id": 790364409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.513161,36.173737,-86.513161,36.173737",
+    "geom:latitude":36.173737,
+    "geom:longitude":-86.513161,
+    "iso:country":"US",
+    "sg:address":"198 N Mount Juliet Rd",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 773 1596",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jTPPksbYqAxhwIsa1QOzq_36.173737_-86.513161@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595261,
+    "wof:geomhash":"e08b0603bc65d4e7826bf7be23d61a5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":790364409
+        }
+    ],
+    "wof:id":790364409,
+    "wof:lastmodified":1462595261,
+    "wof:name":"Manor Respiratory",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.513161,
+    36.173737,
+    -86.513161,
+    36.173737
+],
+  "geometry": {"coordinates":[-86.513161,36.173737],"type":"Point"}
+}

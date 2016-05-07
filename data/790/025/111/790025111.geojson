@@ -1,0 +1,71 @@
+{
+  "id": 790025111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.030787,35.639977,-87.030787,35.639977",
+    "geom:latitude":35.639977,
+    "geom:longitude":-87.030787,
+    "iso:country":"US",
+    "sg:address":"123 Jefferson Dr",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 4996",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85844993,
+        102087107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3optJivs7rlEl9YcguWybW_35.639977_-87.030787@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592532,
+    "wof:geomhash":"813718d77b425a72dc855cb260e52e92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "neighbourhood_id":85844993,
+            "region_id":85688701,
+            "venue_id":790025111
+        }
+    ],
+    "wof:id":790025111,
+    "wof:lastmodified":1462592532,
+    "wof:name":"Howells Lock & Key",
+    "wof:parent_id":85844993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -87.030787,
+    35.639977,
+    -87.030787,
+    35.639977
+],
+  "geometry": {"coordinates":[-87.030787,35.639977],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789603383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.544171,35.162983,-86.544171,35.162983",
+    "geom:latitude":35.162983,
+    "geom:longitude":-86.544171,
+    "iso:country":"US",
+    "sg:address":"1430 Winchester Hwy",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 438 8454",
+    "sg:postcode":"37334",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_157sFe3ehVeBehrDNgrMOF_35.162983_-86.544171@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589091,
+    "wof:geomhash":"bfbaaf3037d861a6a6f8a499aa47691c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":789603383
+        }
+    ],
+    "wof:id":789603383,
+    "wof:lastmodified":1462589091,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -86.544171,
+    35.162983,
+    -86.544171,
+    35.162983
+],
+  "geometry": {"coordinates":[-86.54417100000001,35.162983],"type":"Point"}
+}

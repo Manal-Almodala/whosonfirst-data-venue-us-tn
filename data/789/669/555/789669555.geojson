@@ -1,0 +1,73 @@
+{
+  "id": 789669555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.790748,35.62237,-88.790748,35.62237",
+    "geom:latitude":35.62237,
+    "geom:longitude":-88.790748,
+    "iso:country":"US",
+    "sg:address":"655 Lexington Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 425 7900",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lLYPGLRHVFB7HNNHexkDG_35.622370_-88.790748@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589624,
+    "wof:geomhash":"2c6ba1fac72c91ac04ab14faedd9d6d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":789669555
+        }
+    ],
+    "wof:id":789669555,
+    "wof:lastmodified":1462589624,
+    "wof:name":"East Jackson Family Med Ctr",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -88.790748,
+    35.62237,
+    -88.790748,
+    35.62237
+],
+  "geometry": {"coordinates":[-88.79074799999999,35.62237],"type":"Point"}
+}

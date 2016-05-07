@@ -1,0 +1,74 @@
+{
+  "id": 823260059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.09387,35.92476,-84.09387,35.92476",
+    "geom:latitude":35.92476,
+    "geom:longitude":-84.09387,
+    "iso:country":"US",
+    "sg:address":"442 N Cedar Bluff Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/86632-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 694 8999",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WgvqM9IuZpV9fNdUZhJ0s_35.924482_-84.093892@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609553,
+    "wof:geomhash":"96a82c32a395639f17e4eaf762d9dd0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":823260059
+        }
+    ],
+    "wof:id":823260059,
+    "wof:lastmodified":1462609553,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.09387,
+    35.92476,
+    -84.09387,
+    35.92476
+],
+  "geometry": {"coordinates":[-84.09387,35.92476],"type":"Point"}
+}

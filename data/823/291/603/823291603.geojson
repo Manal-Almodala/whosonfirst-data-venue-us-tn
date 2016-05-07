@@ -1,0 +1,80 @@
+{
+  "id": 823291603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.891234,35.206743,-89.891234,35.206743",
+    "geom:latitude":35.206743,
+    "geom:longitude":-89.891234,
+    "iso:country":"US",
+    "sg:address":"5158 Stage Rd Ste 110",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 767 0120",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "supplies-renting",
+        "wheelchairs-rental",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SyjaCqMEaZF5S4rUr5VzC_35.206743_-89.891234@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1462610764,
+    "wof:geomhash":"3aac9a386c92b6877b6ac8e02451e554",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823291603
+        }
+    ],
+    "wof:id":823291603,
+    "wof:lastmodified":1462610764,
+    "wof:name":"Parenteral Providers Inc",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supplies-renting",
+        "wheelchairs-rental",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.891234,
+    35.206743,
+    -89.891234,
+    35.206743
+],
+  "geometry": {"coordinates":[-89.891234,35.206743],"type":"Point"}
+}

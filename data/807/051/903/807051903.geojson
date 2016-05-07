@@ -1,0 +1,75 @@
+{
+  "id": 807051903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.439198,35.231166,-89.439198,35.231166",
+    "geom:latitude":35.231166,
+    "geom:longitude":-89.439198,
+    "iso:country":"US",
+    "sg:address":"420 Joann Rd",
+    "sg:city":"Somerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 465 3404",
+    "sg:postcode":"38068",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722831,
+        102086439,
+        420541553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QDO8T3kHKTbyY7xXjlKLe_35.231166_-89.439198@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603302,
+    "wof:geomhash":"cd93b26f4bb6f967dcf7482eed2a3f1e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086439,
+            "locality_id":101722831,
+            "neighbourhood_id":420541553,
+            "region_id":85688701,
+            "venue_id":807051903
+        }
+    ],
+    "wof:id":807051903,
+    "wof:lastmodified":1462603302,
+    "wof:name":"John's Appliance",
+    "wof:parent_id":420541553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -89.439198,
+    35.231166,
+    -89.439198,
+    35.231166
+],
+  "geometry": {"coordinates":[-89.439198,35.231166],"type":"Point"}
+}

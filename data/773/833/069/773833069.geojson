@@ -1,0 +1,71 @@
+{
+  "id": 773833069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.801461,36.408358,-81.801461,36.408358",
+    "geom:latitude":36.408358,
+    "geom:longitude":-81.801461,
+    "iso:country":"US",
+    "sg:address":"1105 Dug Hill Rd",
+    "sg:city":"Mountain City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 727 6203",
+    "sg:postcode":"37683",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1R6RUhj62J1AzpNGpvZgZd_36.408358_-81.801461@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588748,
+    "wof:geomhash":"4e1b8d0d45b898394122ce1676e530bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":773833069
+        }
+    ],
+    "wof:id":773833069,
+    "wof:lastmodified":1462588748,
+    "wof:name":"Taylor Animal Clinic",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -81.801461,
+    36.408358,
+    -81.801461,
+    36.408358
+],
+  "geometry": {"coordinates":[-81.801461,36.408358],"type":"Point"}
+}

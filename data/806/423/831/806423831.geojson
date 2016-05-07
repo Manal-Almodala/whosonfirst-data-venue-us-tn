@@ -1,0 +1,75 @@
+{
+  "id": 806423831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.37262,35.841834,-86.37262,35.841834",
+    "geom:latitude":35.841834,
+    "geom:longitude":-86.37262,
+    "iso:country":"US",
+    "sg:address":"250 S Tennessee Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 217 8444",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospital",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85822937
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ldwGrKqvihiR2zgonkfgA_35.841834_-86.372620@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598033,
+    "wof:geomhash":"c1a0565e51bcb21ea6a41545501559b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85822937,
+            "region_id":85688701,
+            "venue_id":806423831
+        }
+    ],
+    "wof:id":806423831,
+    "wof:lastmodified":1462598033,
+    "wof:name":"Kinard Animal Hospital",
+    "wof:parent_id":85822937,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "animal"
+    ]
+},
+  "bbox": [
+    -86.37262,
+    35.841834,
+    -86.37262,
+    35.841834
+],
+  "geometry": {"coordinates":[-86.37262,35.841834],"type":"Point"}
+}

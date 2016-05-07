@@ -1,0 +1,71 @@
+{
+  "id": 806688617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.28108,36.454278,-82.28108,36.454278",
+    "geom:latitude":36.454278,
+    "geom:longitude":-82.28108,
+    "iso:country":"US",
+    "sg:address":"231 US Hwy 19E",
+    "sg:city":"Bluff City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 391 0303",
+    "sg:postcode":"37618",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722907,
+        102086471,
+        85825439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NMEwiTL58zuzNNncn6cQg_36.454278_-82.281080@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600242,
+    "wof:geomhash":"2f199868cedac05e8b3d91eb49210441",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722907,
+            "neighbourhood_id":85825439,
+            "region_id":85688701,
+            "venue_id":806688617
+        }
+    ],
+    "wof:id":806688617,
+    "wof:lastmodified":1462600242,
+    "wof:name":"Tri County Veterinary Hospital",
+    "wof:parent_id":85825439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -82.28108,
+    36.454278,
+    -82.28108,
+    36.454278
+],
+  "geometry": {"coordinates":[-82.28108,36.454278],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789774773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.912886,35.924313,-86.912886,35.924313",
+    "geom:latitude":35.924313,
+    "geom:longitude":-86.912886,
+    "iso:country":"US",
+    "sg:address":"3258 Nolen Ln",
+    "sg:city":"Franklin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 599 2385",
+    "sg:postcode":"37064",
+    "sg:province":"TN",
+    "sg:tags":[
+        "calibration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723093,
+        102086337,
+        85845729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O6TPSl8a4KjGkUI4o2jxI_35.924313_-86.912886@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590438,
+    "wof:geomhash":"9301cd52d102de38e1564477f3a116df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85845729,
+            "region_id":85688701,
+            "venue_id":789774773
+        }
+    ],
+    "wof:id":789774773,
+    "wof:lastmodified":1462590438,
+    "wof:name":"Procal",
+    "wof:parent_id":85845729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calibration"
+    ]
+},
+  "bbox": [
+    -86.912886,
+    35.924313,
+    -86.912886,
+    35.924313
+],
+  "geometry": {"coordinates":[-86.912886,35.924313],"type":"Point"}
+}

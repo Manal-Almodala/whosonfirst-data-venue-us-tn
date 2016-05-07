@@ -1,0 +1,96 @@
+{
+  "id": 823283155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.973631,35.13456,-89.973631,35.13456",
+    "geom:latitude":35.13456,
+    "geom:longitude":-89.973631,
+    "iso:country":"US",
+    "sg:address":"2699 Union Avenue Ext",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 323 1511",
+    "sg:postcode":"38112",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ],
+    "sg:website":"http://www.budgettruck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85803961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BUMpqn3lhl3AuMmQzhPpr_35.134560_-89.973631@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610441,
+    "wof:geomhash":"43924634cedb8a68da3f37f4abebfc53",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85803961,
+            "region_id":85688701,
+            "venue_id":823283155
+        }
+    ],
+    "wof:id":823283155,
+    "wof:lastmodified":1462610441,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85803961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -89.973631,
+    35.13456,
+    -89.973631,
+    35.13456
+],
+  "geometry": {"coordinates":[-89.973631,35.13456],"type":"Point"}
+}

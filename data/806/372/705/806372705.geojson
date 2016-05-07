@@ -1,0 +1,83 @@
+{
+  "id": 806372705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.021926,35.203483,-87.021926,35.203483",
+    "geom:latitude":35.203483,
+    "geom:longitude":-87.021926,
+    "iso:country":"US",
+    "sg:address":"521 Marietta St",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 363 0752",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CLxMTakuZu6uxfUuHmyCn_35.203483_-87.021926@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597619,
+    "wof:geomhash":"841bc2b0323fe149e48acdada505fc24",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":806372705
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":806372705
+        }
+    ],
+    "wof:id":806372705,
+    "wof:lastmodified":1462597619,
+    "wof:name":"Jones Fabric Drapery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -87.021926,
+    35.203483,
+    -87.021926,
+    35.203483
+],
+  "geometry": {"coordinates":[-87.02192599999999,35.203483],"type":"Point"}
+}

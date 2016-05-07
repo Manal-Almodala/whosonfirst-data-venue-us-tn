@@ -1,0 +1,73 @@
+{
+  "id": 789580633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.028503,35.951426,-85.028503,35.951426",
+    "geom:latitude":35.951426,
+    "geom:longitude":-85.028503,
+    "iso:country":"US",
+    "sg:address":"227 N Main St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 1234",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7P8CrdpXpel99cWksFxMiT_35.951426_-85.028503@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588908,
+    "wof:geomhash":"f4ef81b46ab382ec7f36bb9fcfc1fc38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":789580633
+        }
+    ],
+    "wof:id":789580633,
+    "wof:lastmodified":1462588908,
+    "wof:name":"Best One Tire & Svc",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.028503,
+    35.951426,
+    -85.028503,
+    35.951426
+],
+  "geometry": {"coordinates":[-85.028503,35.951426],"type":"Point"}
+}

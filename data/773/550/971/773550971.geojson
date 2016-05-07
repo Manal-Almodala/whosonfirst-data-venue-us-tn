@@ -1,0 +1,71 @@
+{
+  "id": 773550971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.110916,35.979331,-84.110916,35.979331",
+    "geom:latitude":35.979331,
+    "geom:longitude":-84.110916,
+    "iso:country":"US",
+    "sg:address":"7715 Oak Ridge Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 694 0376",
+    "sg:postcode":"37931",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85856659,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_391yWPyRnhZxfLdNBWiTpH_35.979331_-84.110916@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586573,
+    "wof:geomhash":"ffd582da7c74a4a6d053b4ca084690c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85856659,
+            "region_id":85688701,
+            "venue_id":773550971
+        }
+    ],
+    "wof:id":773550971,
+    "wof:lastmodified":1462586573,
+    "wof:name":"Summit Medical Ctr",
+    "wof:parent_id":85856659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.110916,
+    35.979331,
+    -84.110916,
+    35.979331
+],
+  "geometry": {"coordinates":[-84.110916,35.979331],"type":"Point"}
+}

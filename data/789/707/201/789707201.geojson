@@ -1,0 +1,73 @@
+{
+  "id": 789707201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.202596,35.955118,-83.202596,35.955118",
+    "geom:latitude":35.955118,
+    "geom:longitude":-83.202596,
+    "iso:country":"US",
+    "sg:address":"644 Ratcliff St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 0229",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i9ZZO5fwokC4xCz9jSx5W_35.955118_-83.202596@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589909,
+    "wof:geomhash":"6f1b96d12ec0dac8d662e9a00ade5e73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":789707201
+        }
+    ],
+    "wof:id":789707201,
+    "wof:lastmodified":1462589909,
+    "wof:name":"Exxon",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -83.202596,
+    35.955118,
+    -83.202596,
+    35.955118
+],
+  "geometry": {"coordinates":[-83.202596,35.955118],"type":"Point"}
+}

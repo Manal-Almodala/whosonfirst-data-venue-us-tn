@@ -1,0 +1,75 @@
+{
+  "id": 807149019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.815469,35.623514,-88.815469,35.623514",
+    "geom:latitude":35.623514,
+    "geom:longitude":-88.815469,
+    "iso:country":"US",
+    "sg:address":"125 Preston St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 422 1671",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "city",
+        "planning",
+        "dev"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NlywILCcKUADuf2oTx4E7_35.623514_-88.815469@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604265,
+    "wof:geomhash":"bdd3a5eb787ee57afd34f3e0732bbfea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":807149019
+        }
+    ],
+    "wof:id":807149019,
+    "wof:lastmodified":1462604265,
+    "wof:name":"Jackson City Community Dev",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city",
+        "planning",
+        "dev"
+    ]
+},
+  "bbox": [
+    -88.815469,
+    35.623514,
+    -88.815469,
+    35.623514
+],
+  "geometry": {"coordinates":[-88.81546899999999,35.623514],"type":"Point"}
+}

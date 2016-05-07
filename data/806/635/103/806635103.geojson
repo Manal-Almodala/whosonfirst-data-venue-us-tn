@@ -1,0 +1,71 @@
+{
+  "id": 806635103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.323357,36.2932,-82.323357,36.2932",
+    "geom:latitude":36.2932,
+    "geom:longitude":-82.323357,
+    "iso:country":"US",
+    "sg:address":"8 Gouge Ln",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 926 2928",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723215,
+        102087053,
+        85851527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30z6xBNSuiSZkM2oxstA7o_36.293200_-82.323357@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599776,
+    "wof:geomhash":"142b76e4047c8d9943ff5544a4dbe428",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101723215,
+            "neighbourhood_id":85851527,
+            "region_id":85688701,
+            "venue_id":806635103
+        }
+    ],
+    "wof:id":806635103,
+    "wof:lastmodified":1462599776,
+    "wof:name":"Gouge Logging Co",
+    "wof:parent_id":85851527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logging"
+    ]
+},
+  "bbox": [
+    -82.323357,
+    36.2932,
+    -82.323357,
+    36.2932
+],
+  "geometry": {"coordinates":[-82.323357,36.2932],"type":"Point"}
+}

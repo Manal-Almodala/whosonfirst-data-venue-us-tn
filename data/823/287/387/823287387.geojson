@@ -1,0 +1,87 @@
+{
+  "id": 823287387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.842457,35.072259,-89.842457,35.072259",
+    "geom:latitude":35.072259,
+    "geom:longitude":-89.842457,
+    "iso:country":"US",
+    "sg:address":"2801 Kirby Rd Ste 101",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 753 8450",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "wi-fi"
+    ],
+    "sg:website":"http://www.starbuckscoffee.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722649,
+        102087213,
+        85870787
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tUHl2lOFkotXalAM5Zunu_35.072259_-89.842457@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610603,
+    "wof:geomhash":"ceaad095acf71dd79ec2f9d0083ca027",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722649,
+            "neighbourhood_id":85870787,
+            "region_id":85688701,
+            "venue_id":823287387
+        }
+    ],
+    "wof:id":823287387,
+    "wof:lastmodified":1462610603,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85870787,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "restaurant",
+        "espresso",
+        "hotspot",
+        "wi-fi"
+    ]
+},
+  "bbox": [
+    -89.842457,
+    35.072259,
+    -89.842457,
+    35.072259
+],
+  "geometry": {"coordinates":[-89.842457,35.072259],"type":"Point"}
+}

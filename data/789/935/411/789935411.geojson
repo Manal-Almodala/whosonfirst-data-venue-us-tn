@@ -1,0 +1,73 @@
+{
+  "id": 789935411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.451483,35.345805,-84.451483,35.345805",
+    "geom:latitude":35.345805,
+    "geom:longitude":-84.451483,
+    "iso:country":"US",
+    "sg:address":"1223 State Hwy 310",
+    "sg:city":"Englewood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 744 9691",
+    "sg:postcode":"37329",
+    "sg:province":"TN",
+    "sg:tags":[
+        "water",
+        "heater"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722741,
+        102086293,
+        85837601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mnLku29CCtFBUO1lQdrFP_35.345805_-84.451483@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591755,
+    "wof:geomhash":"f3b798ab3baf5e0be2234e537f913f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722741,
+            "neighbourhood_id":85837601,
+            "region_id":85688701,
+            "venue_id":789935411
+        }
+    ],
+    "wof:id":789935411,
+    "wof:lastmodified":1462591755,
+    "wof:name":"Affordable Plumbing",
+    "wof:parent_id":85837601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater"
+    ]
+},
+  "bbox": [
+    -84.451483,
+    35.345805,
+    -84.451483,
+    35.345805
+],
+  "geometry": {"coordinates":[-84.451483,35.345805],"type":"Point"}
+}

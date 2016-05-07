@@ -1,0 +1,73 @@
+{
+  "id": 807333691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.303918,36.21353,-83.303918,36.21353",
+    "geom:latitude":36.21353,
+    "geom:longitude":-83.303918,
+    "iso:country":"US",
+    "sg:address":"815 W 5th North St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 5032",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZCjJS0t2vpupxouAzhl7q_36.213530_-83.303918@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606245,
+    "wof:geomhash":"aa05be66e6882e3f93dd472d8fd38520",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807333691
+        }
+    ],
+    "wof:id":807333691,
+    "wof:lastmodified":1462606245,
+    "wof:name":"Cherokee Health Systems",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -83.303918,
+    36.21353,
+    -83.303918,
+    36.21353
+],
+  "geometry": {"coordinates":[-83.303918,36.21353],"type":"Point"}
+}

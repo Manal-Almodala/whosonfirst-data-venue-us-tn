@@ -1,0 +1,71 @@
+{
+  "id": 789988399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.601559,35.448561,-84.601559,35.448561",
+    "geom:latitude":35.448561,
+    "geom:longitude":-84.601559,
+    "iso:country":"US",
+    "sg:address":"319 Decatur Pike",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 744 0234",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85811277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O3oKv4OfgoS7uPzpksOIG_35.448561_-84.601559@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592234,
+    "wof:geomhash":"9c94f6fdc41191f0e2443ee1562a1cbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85811277,
+            "region_id":85688701,
+            "venue_id":789988399
+        }
+    ],
+    "wof:id":789988399,
+    "wof:lastmodified":1462592234,
+    "wof:name":"Etowah Dry Cleaners",
+    "wof:parent_id":85811277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -84.601559,
+    35.448561,
+    -84.601559,
+    35.448561
+],
+  "geometry": {"coordinates":[-84.60155899999999,35.448561],"type":"Point"}
+}

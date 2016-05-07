@@ -1,0 +1,82 @@
+{
+  "id": 789908857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.904167,35.112102,-89.904167,35.112102",
+    "geom:latitude":35.112102,
+    "geom:longitude":-89.904167,
+    "iso:country":"US",
+    "sg:address":"4728 Spottswood Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 763 3141",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "picture",
+        "frame",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19n67gUHadA1EpCHiH4gip_35.112102_-89.904167@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591527,
+    "wof:geomhash":"ada410f5e08cf03ac002f93d34102d72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":789908857
+        }
+    ],
+    "wof:id":789908857,
+    "wof:lastmodified":1462591527,
+    "wof:name":"Tribble's Frame Shop",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "frame",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -89.904167,
+    35.112102,
+    -89.904167,
+    35.112102
+],
+  "geometry": {"coordinates":[-89.904167,35.112102],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823253097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.084298,35.916329,-84.084298,35.916329",
+    "geom:latitude":35.916329,
+    "geom:longitude":-84.084298,
+    "iso:country":"US",
+    "sg:address":"8901 Town and Country Cir",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/92919-fuddruckers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 531 9494",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RyK0J3p2IHSTCX3MSQp5S_35.916329_-84.084298@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609405,
+    "wof:geomhash":"797ded4400054deeee867057a8875fa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":823253097
+        }
+    ],
+    "wof:id":823253097,
+    "wof:lastmodified":1462609405,
+    "wof:name":"Fuddruckers",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.084298,
+    35.916329,
+    -84.084298,
+    35.916329
+],
+  "geometry": {"coordinates":[-84.084298,35.916329],"type":"Point"}
+}

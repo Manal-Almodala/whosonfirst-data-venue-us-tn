@@ -1,0 +1,83 @@
+{
+  "id": 807296141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.201246,36.052588,-84.201246,36.052588",
+    "geom:latitude":36.052588,
+    "geom:longitude":-84.201246,
+    "iso:country":"US",
+    "sg:address":"532 Elza Dr",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 481 0939",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065,
+        85818003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QZOxKW1TLiOPejT4lNyHQ_36.052588_-84.201246@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605814,
+    "wof:geomhash":"67fb0f458dd0bb60c2af6ee7e4bc0414",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":807296141
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "neighbourhood_id":85818003,
+            "region_id":85688701,
+            "venue_id":807296141
+        }
+    ],
+    "wof:id":807296141,
+    "wof:lastmodified":1462605814,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.201246,
+    36.052588,
+    -84.201246,
+    36.052588
+],
+  "geometry": {"coordinates":[-84.201246,36.052588],"type":"Point"}
+}

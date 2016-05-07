@@ -1,0 +1,83 @@
+{
+  "id": 789756631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.20667,36.556039,-82.20667,36.556039",
+    "geom:latitude":36.556039,
+    "geom:longitude":-82.20667,
+    "iso:country":"US",
+    "sg:address":"309 Hale St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 652 1202",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        85815249,
+        85807313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M0HUP6I69vsh28Qo84tEu_36.556039_-82.206670@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590306,
+    "wof:geomhash":"3fb161202b1022ce702e6cc29b3353c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":85815249,
+            "region_id":85688701,
+            "venue_id":789756631
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":85807313,
+            "region_id":85688701,
+            "venue_id":789756631
+        }
+    ],
+    "wof:id":789756631,
+    "wof:lastmodified":1462590306,
+    "wof:name":"Dealer Alternative",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -82.20667,
+    36.556039,
+    -82.20667,
+    36.556039
+],
+  "geometry": {"coordinates":[-82.20667,36.556039],"type":"Point"}
+}

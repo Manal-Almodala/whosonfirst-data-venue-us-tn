@@ -1,0 +1,76 @@
+{
+  "id": 823259401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.520783,36.525337,-82.520783,36.525337",
+    "geom:latitude":36.525337,
+    "geom:longitude":-82.520783,
+    "iso:country":"US",
+    "sg:address":"2330 Fort Henry Dr",
+    "sg:city":"Kingsport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/kingsport/203571-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 246 6661",
+    "sg:postcode":"37664",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722787,
+        102086471,
+        85820455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ugH4SwETss5HRLlWxzJMU_36.525173_-82.520167@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609541,
+    "wof:geomhash":"b6b8d019ab7a2e8b718f3dfed333a7d7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722787,
+            "neighbourhood_id":85820455,
+            "region_id":85688701,
+            "venue_id":823259401
+        }
+    ],
+    "wof:id":823259401,
+    "wof:lastmodified":1462609541,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85820455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.520783,
+    36.525337,
+    -82.520783,
+    36.525337
+],
+  "geometry": {"coordinates":[-82.52078299999999,36.525337],"type":"Point"}
+}

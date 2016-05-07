@@ -1,0 +1,84 @@
+{
+  "id": 789585733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.901284,35.148646,-89.901284,35.148646",
+    "geom:latitude":35.148646,
+    "geom:longitude":-89.901284,
+    "iso:country":"US",
+    "sg:address":"4862 Summer Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 683 7388",
+    "sg:postcode":"38122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "fresh",
+        "grocer",
+        "produce",
+        "flower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZsZ8qYSSHWUejV7ETbpDC_35.148646_-89.901284@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588954,
+    "wof:geomhash":"60e2a02dbb13588d1cbd3d4b59da62d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":789585733
+        }
+    ],
+    "wof:id":789585733,
+    "wof:lastmodified":1462588954,
+    "wof:name":"Market Basket Inc",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fresh",
+        "grocer",
+        "produce",
+        "flower"
+    ]
+},
+  "bbox": [
+    -89.901284,
+    35.148646,
+    -89.901284,
+    35.148646
+],
+  "geometry": {"coordinates":[-89.901284,35.148646],"type":"Point"}
+}

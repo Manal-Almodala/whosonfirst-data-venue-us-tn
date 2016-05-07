@@ -1,0 +1,83 @@
+{
+  "id": 807321833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.940876,35.757592,-83.940876,35.757592",
+    "geom:latitude":35.757592,
+    "geom:longitude":-83.940876,
+    "iso:country":"US",
+    "sg:address":"134 Rankin Dr",
+    "sg:city":"Maryville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 379 7555",
+    "sg:postcode":"37804",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722701,
+        102087017,
+        85838943,
+        85825587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fJJoSZfihpGs5ecgp0I8A_35.757592_-83.940876@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606085,
+    "wof:geomhash":"17163ab17b44bacd04d6fe507d2db33f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85838943,
+            "region_id":85688701,
+            "venue_id":807321833
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85825587,
+            "region_id":85688701,
+            "venue_id":807321833
+        }
+    ],
+    "wof:id":807321833,
+    "wof:lastmodified":1462606085,
+    "wof:name":"Appalachian Dental",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.940876,
+    35.757592,
+    -83.940876,
+    35.757592
+],
+  "geometry": {"coordinates":[-83.940876,35.757592],"type":"Point"}
+}

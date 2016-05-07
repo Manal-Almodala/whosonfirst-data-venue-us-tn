@@ -1,0 +1,85 @@
+{
+  "id": 823222151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.901012,35.024075,-89.901012,35.024075",
+    "geom:latitude":35.024075,
+    "geom:longitude":-89.901012,
+    "iso:country":"US",
+    "sg:address":"4874 Lamar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 365 1666",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tmYjAN7SsV5TBU2bySjQL_35.024075_-89.901012@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608769,
+    "wof:geomhash":"751ed05e1babe4a9670e6809a413ae42",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":823222151
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":823222151
+        }
+    ],
+    "wof:id":823222151,
+    "wof:lastmodified":1462608769,
+    "wof:name":"Ryder",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.901012,
+    35.024075,
+    -89.901012,
+    35.024075
+],
+  "geometry": {"coordinates":[-89.90101199999999,35.024075],"type":"Point"}
+}

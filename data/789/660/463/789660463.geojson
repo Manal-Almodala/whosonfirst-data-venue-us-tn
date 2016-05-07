@@ -1,0 +1,71 @@
+{
+  "id": 789660463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.121624,35.952553,-84.121624,35.952553",
+    "geom:latitude":35.952553,
+    "geom:longitude":-84.121624,
+    "iso:country":"US",
+    "sg:address":"9729 Middlebrook Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 690 4100",
+    "sg:postcode":"37931",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qJfbnBXnPx1okDsp78Ty3_35.952553_-84.121624@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589534,
+    "wof:geomhash":"d7c13aeb911cc098c9dd10a8b8839912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":789660463
+        }
+    ],
+    "wof:id":789660463,
+    "wof:lastmodified":1462589534,
+    "wof:name":"Reasonable Auto",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.121624,
+    35.952553,
+    -84.121624,
+    35.952553
+],
+  "geometry": {"coordinates":[-84.121624,35.952553],"type":"Point"}
+}

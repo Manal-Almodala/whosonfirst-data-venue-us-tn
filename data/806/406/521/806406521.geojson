@@ -1,0 +1,73 @@
+{
+  "id": 806406521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.997245,35.058053,-89.997245,35.058053",
+    "geom:latitude":35.058053,
+    "geom:longitude":-89.997245,
+    "iso:country":"US",
+    "sg:address":"3328 Winbrook Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 332 3993",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ag3lgXmh840gXlENDqmi8_35.058053_-89.997245@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597886,
+    "wof:geomhash":"841e204136d2600f170241e69f9b87f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":806406521
+        }
+    ],
+    "wof:id":806406521,
+    "wof:lastmodified":1462597886,
+    "wof:name":"Go Trans",
+    "wof:parent_id":85870785,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.997245,
+    35.058053,
+    -89.997245,
+    35.058053
+],
+  "geometry": {"coordinates":[-89.99724500000001,35.058053],"type":"Point"}
+}

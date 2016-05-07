@@ -1,0 +1,76 @@
+{
+  "id": 773792839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.340486,35.243784,-87.340486,35.243784",
+    "geom:latitude":35.243784,
+    "geom:longitude":-87.340486,
+    "iso:country":"US",
+    "sg:address":"416 W Gaines St",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 3566",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s61xLba0iQC6otsjxAPOB_35.243784_-87.340486@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588410,
+    "wof:geomhash":"6b4f072db1ae303f6e0f9940cccb1f6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":773792839
+        }
+    ],
+    "wof:id":773792839,
+    "wof:lastmodified":1462588410,
+    "wof:name":"Lawrence County Ambulance Svc",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -87.340486,
+    35.243784,
+    -87.340486,
+    35.243784
+],
+  "geometry": {"coordinates":[-87.340486,35.243784],"type":"Point"}
+}

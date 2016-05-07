@@ -1,0 +1,71 @@
+{
+  "id": 790258805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.002024,35.517716,-85.002024,35.517716",
+    "geom:latitude":35.517716,
+    "geom:longitude":-85.002024,
+    "iso:country":"US",
+    "sg:address":"1641 Broadway St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 570 1381",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18YcfMjF3ccFbCIJlDDX00_35.517716_-85.002024@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594412,
+    "wof:geomhash":"7d87097f6f39a355fc3fc9c00ee42935",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":790258805
+        }
+    ],
+    "wof:id":790258805,
+    "wof:lastmodified":1462594412,
+    "wof:name":"Hunters Taxi",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -85.002024,
+    35.517716,
+    -85.002024,
+    35.517716
+],
+  "geometry": {"coordinates":[-85.00202400000001,35.517716],"type":"Point"}
+}

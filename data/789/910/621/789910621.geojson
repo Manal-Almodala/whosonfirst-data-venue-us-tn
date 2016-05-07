@@ -1,0 +1,73 @@
+{
+  "id": 789910621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.521548,35.707744,-83.521548,35.707744",
+    "geom:latitude":35.707744,
+    "geom:longitude":-83.521548,
+    "iso:country":"US",
+    "sg:address":"1110 Parkway",
+    "sg:city":"Gatlinburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 436 0422",
+    "sg:postcode":"37738",
+    "sg:province":"TN",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722585,
+        102086245,
+        85823215
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Tg3Nn8s9FEJRGSskMO10b_35.707744_-83.521548@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591545,
+    "wof:geomhash":"ec9c88bca7e719655ce099887f9a86cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722585,
+            "neighbourhood_id":85823215,
+            "region_id":85688701,
+            "venue_id":789910621
+        }
+    ],
+    "wof:id":789910621,
+    "wof:lastmodified":1462591545,
+    "wof:name":"Park Bakery",
+    "wof:parent_id":85823215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -83.521548,
+    35.707744,
+    -83.521548,
+    35.707744
+],
+  "geometry": {"coordinates":[-83.521548,35.707744],"type":"Point"}
+}

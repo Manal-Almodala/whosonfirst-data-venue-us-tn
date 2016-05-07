@@ -1,0 +1,73 @@
+{
+  "id": 806865863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.085987,35.99593,-86.085987,35.99593",
+    "geom:latitude":35.99593,
+    "geom:longitude":-86.085987,
+    "iso:country":"US",
+    "sg:address":"9290 Statesville Rd",
+    "sg:city":"Auburntown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 464 4711",
+    "sg:postcode":"37184",
+    "sg:province":"TN",
+    "sg:tags":[
+        "waste",
+        "container"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29oPaRvCZ0V7nmOKKpvPC7_35.995930_-86.085987@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601740,
+    "wof:geomhash":"9aa68b7c37924a398e6f02515252b272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":806865863
+        }
+    ],
+    "wof:id":806865863,
+    "wof:lastmodified":1462601740,
+    "wof:name":"Wilson County Solid Waste",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "waste",
+        "container"
+    ]
+},
+  "bbox": [
+    -86.085987,
+    35.99593,
+    -86.085987,
+    35.99593
+],
+  "geometry": {"coordinates":[-86.085987,35.99593],"type":"Point"}
+}

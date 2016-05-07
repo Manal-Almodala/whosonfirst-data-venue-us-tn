@@ -1,0 +1,75 @@
+{
+  "id": 790123255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.248809,34.991893,-85.248809,34.991893",
+    "geom:latitude":34.991893,
+    "geom:longitude":-85.248809,
+    "iso:country":"US",
+    "sg:address":"2003 Pioneer Ridge Trl",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 894 3020",
+    "sg:postcode":"37412",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723039,
+        102087185,
+        85805687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79JZesTxgXewcy0fyHjzek_34.991893_-85.248809@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593315,
+    "wof:geomhash":"470b12a6cb53d157a73178536aff6658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723039,
+            "neighbourhood_id":85805687,
+            "region_id":85688701,
+            "venue_id":790123255
+        }
+    ],
+    "wof:id":790123255,
+    "wof:lastmodified":1462593315,
+    "wof:name":"W&G Electric",
+    "wof:parent_id":85805687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.248809,
+    34.991893,
+    -85.248809,
+    34.991893
+],
+  "geometry": {"coordinates":[-85.24880899999999,34.991893],"type":"Point"}
+}

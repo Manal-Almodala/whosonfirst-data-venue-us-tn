@@ -1,0 +1,75 @@
+{
+  "id": 807369295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.1334,36.107712,-86.1334,36.107712",
+    "geom:latitude":36.107712,
+    "geom:longitude":-86.1334,
+    "iso:country":"US",
+    "sg:address":"235 S Commerce Rd",
+    "sg:city":"Watertown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 237 3185",
+    "sg:postcode":"37184",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MN1ZsT4rYpIDdMLDkO3x7_36.107712_-86.133400@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606781,
+    "wof:geomhash":"19b94fc124dc0aea4c726595517418eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":807369295
+        }
+    ],
+    "wof:id":807369295,
+    "wof:lastmodified":1462606781,
+    "wof:name":"Watertown Comm Disposal Svc",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection",
+        "system"
+    ]
+},
+  "bbox": [
+    -86.1334,
+    36.107712,
+    -86.1334,
+    36.107712
+],
+  "geometry": {"coordinates":[-86.13339999999999,36.107712],"type":"Point"}
+}

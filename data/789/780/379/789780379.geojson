@@ -1,0 +1,76 @@
+{
+  "id": 789780379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.551914,36.274021,-86.551914,36.274021",
+    "geom:latitude":36.274021,
+    "geom:longitude":-86.551914,
+    "iso:country":"US",
+    "sg:address":"399 Beth Dr",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 758 2840",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "supply",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85826879,
+        102087205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74miTUjk2qrUVtjwNqKnZJ_36.274021_-86.551914@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590482,
+    "wof:geomhash":"a4d95118d88bd87a0ebc48d3853de794",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "neighbourhood_id":85826879,
+            "region_id":85688701,
+            "venue_id":789780379
+        }
+    ],
+    "wof:id":789780379,
+    "wof:lastmodified":1462590482,
+    "wof:name":"West Wilson Utility Dist",
+    "wof:parent_id":85826879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.551914,
+    36.274021,
+    -86.551914,
+    36.274021
+],
+  "geometry": {"coordinates":[-86.551914,36.274021],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773563873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.923829,36.079395,-83.923829,36.079395",
+    "geom:latitude":36.079395,
+    "geom:longitude":-83.923829,
+    "iso:country":"US",
+    "sg:address":"7115 Commercial Park Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 922 1705",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ikf8rXdhz9wWCFVijKKyP_36.079395_-83.923829@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586680,
+    "wof:geomhash":"6af0efbeae8a365a4461c67f4e032167",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":773563873
+        }
+    ],
+    "wof:id":773563873,
+    "wof:lastmodified":1462586680,
+    "wof:name":"Steve Barron MD",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.923829,
+    36.079395,
+    -83.923829,
+    36.079395
+],
+  "geometry": {"coordinates":[-83.923829,36.079395],"type":"Point"}
+}

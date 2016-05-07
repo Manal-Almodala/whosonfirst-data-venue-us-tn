@@ -1,0 +1,73 @@
+{
+  "id": 806634023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.833623,35.239886,-85.833623,35.239886",
+    "geom:latitude":35.239886,
+    "geom:longitude":-85.833623,
+    "iso:country":"US",
+    "sg:address":"25 Spring St",
+    "sg:city":"Monteagle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 924 7000",
+    "sg:postcode":"37356",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NNKHtGLxRcIzeKsl5htlx_35.239886_-85.833623@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599768,
+    "wof:geomhash":"adc21bb3c3377c45fb536011d245d984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":806634023
+        }
+    ],
+    "wof:id":806634023,
+    "wof:lastmodified":1462599768,
+    "wof:name":"Monteagle Pediatrics",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.833623,
+    35.239886,
+    -85.833623,
+    35.239886
+],
+  "geometry": {"coordinates":[-85.833623,35.239886],"type":"Point"}
+}

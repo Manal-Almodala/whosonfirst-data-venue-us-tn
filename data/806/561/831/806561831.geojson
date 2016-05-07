@@ -1,0 +1,71 @@
+{
+  "id": 806561831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.408647,36.147953,-82.408647,36.147953",
+    "geom:latitude":36.147953,
+    "geom:longitude":-82.408647,
+    "iso:country":"US",
+    "sg:address":"305 Broad St",
+    "sg:city":"Erwin",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 743 3131",
+    "sg:postcode":"37650",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723259,
+        102086427,
+        85804403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WU30Q3KJvPsCgFHDLF5ue_36.147953_-82.408647@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599141,
+    "wof:geomhash":"e2509378f48beae7b736fb3770912576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086427,
+            "locality_id":101723259,
+            "neighbourhood_id":85804403,
+            "region_id":85688701,
+            "venue_id":806561831
+        }
+    ],
+    "wof:id":806561831,
+    "wof:lastmodified":1462599141,
+    "wof:name":"Erwin Fire Alarm",
+    "wof:parent_id":85804403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.408647,
+    36.147953,
+    -82.408647,
+    36.147953
+],
+  "geometry": {"coordinates":[-82.408647,36.147953],"type":"Point"}
+}

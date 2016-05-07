@@ -1,0 +1,91 @@
+{
+  "id": 823292099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.754835,35.065942,-89.754835,35.065942",
+    "geom:latitude":35.065942,
+    "geom:longitude":-89.754835,
+    "iso:country":"US",
+    "sg:address":"9235 Poplar Ave",
+    "sg:city":"Germantown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 756 6011",
+    "sg:postcode":"38138",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clothing",
+        "merchandise"
+    ],
+    "sg:website":"http://www.target.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722649,
+        102087213,
+        85819859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vSsWS39krN9pdL0y7o67J_35.065942_-89.754835@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1462610787,
+    "wof:geomhash":"5170e40e291ef258af0f1ff647077636",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722649,
+            "neighbourhood_id":85819859,
+            "region_id":85688701,
+            "venue_id":823292099
+        }
+    ],
+    "wof:id":823292099,
+    "wof:lastmodified":1462610787,
+    "wof:name":"Target",
+    "wof:parent_id":85819859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clothing",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -89.754835,
+    35.065942,
+    -89.754835,
+    35.065942
+],
+  "geometry": {"coordinates":[-89.754835,35.065942],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 823151269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.033091,35.199468,-87.033091,35.199468",
+    "geom:latitude":35.199468,
+    "geom:longitude":-87.033091,
+    "iso:country":"US",
+    "sg:address":"117 S 3rd St",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 363 1544",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pdBOVIsz14pT2vwwQ17cV_35.199468_-87.033091@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607683,
+    "wof:geomhash":"87fd3ba2f66773c52d070a9e64f2722b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":823151269
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":823151269
+        }
+    ],
+    "wof:id":823151269,
+    "wof:lastmodified":1462607683,
+    "wof:name":"Bellsouth Memory Call",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company"
+    ]
+},
+  "bbox": [
+    -87.033091,
+    35.199468,
+    -87.033091,
+    35.199468
+],
+  "geometry": {"coordinates":[-87.033091,35.199468],"type":"Point"}
+}

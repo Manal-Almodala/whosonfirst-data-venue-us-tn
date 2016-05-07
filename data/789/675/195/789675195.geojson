@@ -1,0 +1,71 @@
+{
+  "id": 789675195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.329645,36.035259,-84.329645,36.035259",
+    "geom:latitude":36.035259,
+    "geom:longitude":-84.329645,
+    "iso:country":"US",
+    "sg:address":"508 E Tri County Blvd",
+    "sg:city":"Oliver Springs",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 435 5353",
+    "sg:postcode":"37840",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722691,
+        102086483,
+        85852815
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XjhSA0u0x1Xeyn2TcV84t_36.035259_-84.329645@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589663,
+    "wof:geomhash":"577339698777a3e89d09f8ebed14ce87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722691,
+            "neighbourhood_id":85852815,
+            "region_id":85688701,
+            "venue_id":789675195
+        }
+    ],
+    "wof:id":789675195,
+    "wof:lastmodified":1462589663,
+    "wof:name":"Food City",
+    "wof:parent_id":85852815,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -84.329645,
+    36.035259,
+    -84.329645,
+    36.035259
+],
+  "geometry": {"coordinates":[-84.329645,36.035259],"type":"Point"}
+}

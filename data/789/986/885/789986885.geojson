@@ -1,0 +1,71 @@
+{
+  "id": 789986885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.910354,35.23388,-89.910354,35.23388",
+    "geom:latitude":35.23388,
+    "geom:longitude":-89.910354,
+    "iso:country":"US",
+    "sg:address":"4006 Otter Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 357 1555",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YZWJfDHz8toVWWvFgmWVv_35.233880_-89.910354@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592224,
+    "wof:geomhash":"1a8379cd210ca341dc74022fbfd906bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789986885
+        }
+    ],
+    "wof:id":789986885,
+    "wof:lastmodified":1462592224,
+    "wof:name":"Premiere Automotive LLC",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.910354,
+    35.23388,
+    -89.910354,
+    35.23388
+],
+  "geometry": {"coordinates":[-89.910354,35.23388],"type":"Point"}
+}

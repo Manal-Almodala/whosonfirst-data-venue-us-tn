@@ -1,0 +1,71 @@
+{
+  "id": 790620769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.810816,35.427758,-89.810816,35.427758",
+    "geom:latitude":35.427758,
+    "geom:longitude":-89.810816,
+    "iso:country":"US",
+    "sg:address":"13109 Hwy 51 S",
+    "sg:city":"Atoka",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 840 3355",
+    "sg:postcode":"38004",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bP0mm7cRjNuCCyiLy609l_35.427758_-89.810816@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597420,
+    "wof:geomhash":"e7a1ce14f64c74a54b152ac52b4974b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790620769
+        }
+    ],
+    "wof:id":790620769,
+    "wof:lastmodified":1462597420,
+    "wof:name":"ASAP Towing",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -89.810816,
+    35.427758,
+    -89.810816,
+    35.427758
+],
+  "geometry": {"coordinates":[-89.810816,35.427758],"type":"Point"}
+}

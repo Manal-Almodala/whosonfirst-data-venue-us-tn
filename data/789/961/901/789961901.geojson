@@ -1,0 +1,73 @@
+{
+  "id": 789961901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.932317,36.035261,-83.932317,36.035261",
+    "geom:latitude":36.035261,
+    "geom:longitude":-83.932317,
+    "iso:country":"US",
+    "sg:address":"5301 N Broadway St",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 2200",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "boutique",
+        "jewelry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X4ZmOEkhA8dk223t4scCF_36.035261_-83.932317@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592014,
+    "wof:geomhash":"766f09fec727e53216f64a0625949902",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":789961901
+        }
+    ],
+    "wof:id":789961901,
+    "wof:lastmodified":1462592014,
+    "wof:name":"Standing Ovation",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boutique",
+        "jewelry"
+    ]
+},
+  "bbox": [
+    -83.932317,
+    36.035261,
+    -83.932317,
+    36.035261
+],
+  "geometry": {"coordinates":[-83.932317,36.035261],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773767649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.023977,35.947452,-85.023977,35.947452",
+    "geom:latitude":35.947452,
+    "geom:longitude":-85.023977,
+    "iso:country":"US",
+    "sg:address":"112 E 1st St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 8439",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zM8RerhaCxylX5VJJ5pLA_35.947452_-85.023977@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588225,
+    "wof:geomhash":"5ff3e00e48078ed262bd66f48c6ea50e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":773767649
+        }
+    ],
+    "wof:id":773767649,
+    "wof:lastmodified":1462588225,
+    "wof:name":"John Stites DDS PC",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -85.023977,
+    35.947452,
+    -85.023977,
+    35.947452
+],
+  "geometry": {"coordinates":[-85.023977,35.947452],"type":"Point"}
+}

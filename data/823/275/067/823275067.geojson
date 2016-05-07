@@ -1,0 +1,83 @@
+{
+  "id": 823275067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.158994,35.899828,-84.158994,35.899828",
+    "geom:latitude":35.899828,
+    "geom:longitude":-84.158994,
+    "iso:country":"US",
+    "sg:address":"11348 Parkside Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 675 8800",
+    "sg:postcode":"37934",
+    "sg:province":"TN",
+    "sg:tags":[
+        "tavern",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722867,
+        102086455,
+        85853837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23N7gC39ygOf4MIW3pvCqk_35.899828_-84.158994@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610109,
+    "wof:geomhash":"3aecbff8e2e4f5c47eaa6a678a162199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722867,
+            "neighbourhood_id":85853837,
+            "region_id":85688701,
+            "venue_id":823275067
+        }
+    ],
+    "wof:id":823275067,
+    "wof:lastmodified":1462610109,
+    "wof:name":"Irish Times Pub",
+    "wof:parent_id":85853837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -84.158994,
+    35.899828,
+    -84.158994,
+    35.899828
+],
+  "geometry": {"coordinates":[-84.15899400000001,35.899828],"type":"Point"}
+}

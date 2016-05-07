@@ -1,0 +1,71 @@
+{
+  "id": 790350493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.648933,35.551001,-89.648933,35.551001",
+    "geom:latitude":35.551001,
+    "geom:longitude":-89.648933,
+    "iso:country":"US",
+    "sg:address":"1426 S College St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 4242",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xZQ0WqAhLGEsS5n6MuhQC_35.551001_-89.648933@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595141,
+    "wof:geomhash":"ff8799b44aee53a92798f640cd0dd579",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790350493
+        }
+    ],
+    "wof:id":790350493,
+    "wof:lastmodified":1462595141,
+    "wof:name":"College Market",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -89.648933,
+    35.551001,
+    -89.648933,
+    35.551001
+],
+  "geometry": {"coordinates":[-89.648933,35.551001],"type":"Point"}
+}

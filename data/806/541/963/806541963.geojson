@@ -1,0 +1,73 @@
+{
+  "id": 806541963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.949917,35.204235,-89.949917,35.204235",
+    "geom:latitude":35.204235,
+    "geom:longitude":-89.949917,
+    "iso:country":"US",
+    "sg:address":"3423 Scenic Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 527 1400",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5csogRWgy7BeO7lGMY0LgR_35.204235_-89.949917@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598976,
+    "wof:geomhash":"6b42a464b9b5b315a95c0a1fdc3fa2de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870771,
+            "region_id":85688701,
+            "venue_id":806541963
+        }
+    ],
+    "wof:id":806541963,
+    "wof:lastmodified":1462598976,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85870771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -89.949917,
+    35.204235,
+    -89.949917,
+    35.204235
+],
+  "geometry": {"coordinates":[-89.949917,35.204235],"type":"Point"}
+}

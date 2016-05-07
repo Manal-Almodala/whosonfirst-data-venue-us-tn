@@ -1,0 +1,71 @@
+{
+  "id": 807003199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.186671,35.553895,-87.186671,35.553895",
+    "geom:latitude":35.553895,
+    "geom:longitude":-87.186671,
+    "iso:country":"US",
+    "sg:address":"1137 N Main St",
+    "sg:city":"Mt Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 0880",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zFQFgyooOu0YCyABA2Emi_35.553895_-87.186671@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602884,
+    "wof:geomhash":"84758ac9b66175c4658f95e914e48ac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":807003199
+        }
+    ],
+    "wof:id":807003199,
+    "wof:lastmodified":1462602884,
+    "wof:name":"Snappy's Pizza",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -87.186671,
+    35.553895,
+    -87.186671,
+    35.553895
+],
+  "geometry": {"coordinates":[-87.186671,35.553895],"type":"Point"}
+}

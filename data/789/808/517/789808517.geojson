@@ -1,0 +1,74 @@
+{
+  "id": 789808517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.307451,36.432501,-82.307451,36.432501",
+    "geom:latitude":36.432501,
+    "geom:longitude":-82.307451,
+    "iso:country":"US",
+    "sg:address":"257 Jonesboro Rd",
+    "sg:city":"Piney Flats",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 538 6672",
+    "sg:postcode":"37686",
+    "sg:province":"TN",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722907,
+        102086471,
+        85825439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14mF77aMdnuFDaOLAIi6kk_36.432501_-82.307451@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590703,
+    "wof:geomhash":"523a24ba42a8a05c6f16a2cb15642472",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722907,
+            "neighbourhood_id":85825439,
+            "region_id":85688701,
+            "venue_id":789808517
+        }
+    ],
+    "wof:id":789808517,
+    "wof:lastmodified":1462590703,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85825439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -82.307451,
+    36.432501,
+    -82.307451,
+    36.432501
+],
+  "geometry": {"coordinates":[-82.307451,36.432501],"type":"Point"}
+}

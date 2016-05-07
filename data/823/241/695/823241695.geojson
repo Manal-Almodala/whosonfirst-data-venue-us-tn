@@ -1,0 +1,78 @@
+{
+  "id": 823241695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.89977,35.14852,-89.89977,35.14852",
+    "geom:latitude":35.14852,
+    "geom:longitude":-89.89977,
+    "iso:country":"US",
+    "sg:address":"4805 Summer Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 767 6656",
+    "sg:postcode":"38122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"http://www.budgettruck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WRiGT5YVTAQQZOdIkJP3E_35.148452_-89.899271@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609179,
+    "wof:geomhash":"36acc1267ca299d7c25a2550affb43fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":823241695
+        }
+    ],
+    "wof:id":823241695,
+    "wof:lastmodified":1462609179,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -89.89977,
+    35.14852,
+    -89.89977,
+    35.14852
+],
+  "geometry": {"coordinates":[-89.89977,35.14852],"type":"Point"}
+}

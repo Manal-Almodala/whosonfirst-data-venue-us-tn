@@ -1,0 +1,71 @@
+{
+  "id": 807155315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.505915,36.001708,-86.505915,36.001708",
+    "geom:latitude":36.001708,
+    "geom:longitude":-86.505915,
+    "iso:country":"US",
+    "sg:address":"801 Swan Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 223 0986",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85823525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Aitbm6zoSpAl7ya0JABmR_36.001708_-86.505915@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604324,
+    "wof:geomhash":"a7204485ee31b2828c15d9ed7c69f189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85823525,
+            "region_id":85688701,
+            "venue_id":807155315
+        }
+    ],
+    "wof:id":807155315,
+    "wof:lastmodified":1462604324,
+    "wof:name":"Emerson Electric Co",
+    "wof:parent_id":85823525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -86.505915,
+    36.001708,
+    -86.505915,
+    36.001708
+],
+  "geometry": {"coordinates":[-86.505915,36.001708],"type":"Point"}
+}

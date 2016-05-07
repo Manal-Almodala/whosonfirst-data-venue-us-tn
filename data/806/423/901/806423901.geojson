@@ -1,0 +1,71 @@
+{
+  "id": 806423901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.92664,36.066907,-83.92664,36.066907",
+    "geom:latitude":36.066907,
+    "geom:longitude":-83.92664,
+    "iso:country":"US",
+    "sg:address":"6621 Maynardville Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 8979",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bwjwfBeW6UqYjYCYq58QS_36.066907_-83.926640@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598034,
+    "wof:geomhash":"5b3bab1298f502c752dcd656e592f4c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":806423901
+        }
+    ],
+    "wof:id":806423901,
+    "wof:lastmodified":1462598034,
+    "wof:name":"Tranco Transmissions",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.92664,
+    36.066907,
+    -83.92664,
+    36.066907
+],
+  "geometry": {"coordinates":[-83.92664000000001,36.066907],"type":"Point"}
+}

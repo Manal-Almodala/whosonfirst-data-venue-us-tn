@@ -1,0 +1,71 @@
+{
+  "id": 806583593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.12312,35.030198,-85.12312,35.030198",
+    "geom:latitude":35.030198,
+    "geom:longitude":-85.12312,
+    "iso:country":"US",
+    "sg:address":"2200 Morris Hill Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 648 9290",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85826071,
+        102087185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PRKehyXAfMj7kFWhhctbj_35.030198_-85.123120@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599341,
+    "wof:geomhash":"b991132b484bc4dcb9619e46fa3a9a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087185,
+            "neighbourhood_id":85826071,
+            "region_id":85688701,
+            "venue_id":806583593
+        }
+    ],
+    "wof:id":806583593,
+    "wof:lastmodified":1462599341,
+    "wof:name":"Kevin R Ferguson DO",
+    "wof:parent_id":85826071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.12312,
+    35.030198,
+    -85.12312,
+    35.030198
+],
+  "geometry": {"coordinates":[-85.12312,35.030198],"type":"Point"}
+}

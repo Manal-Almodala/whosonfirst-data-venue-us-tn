@@ -1,0 +1,71 @@
+{
+  "id": 790349991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.210949,35.525945,-87.210949,35.525945",
+    "geom:latitude":35.525945,
+    "geom:longitude":-87.210949,
+    "iso:country":"US",
+    "sg:address":"813 S Main St",
+    "sg:city":"Mount Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 0800",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XAzTPF3msED71WfNyL30e_35.525945_-87.210949@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595137,
+    "wof:geomhash":"19d6c26737f12a1902ef0c038118b43e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":790349991
+        }
+    ],
+    "wof:id":790349991,
+    "wof:lastmodified":1462595137,
+    "wof:name":"Southern Drive In",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -87.210949,
+    35.525945,
+    -87.210949,
+    35.525945
+],
+  "geometry": {"coordinates":[-87.210949,35.525945],"type":"Point"}
+}

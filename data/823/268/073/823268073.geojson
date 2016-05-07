@@ -1,0 +1,79 @@
+{
+  "id": 823268073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.191679,35.124879,-86.191679,35.124879",
+    "geom:latitude":35.124879,
+    "geom:longitude":-86.191679,
+    "iso:country":"US",
+    "sg:address":"704 Belvidere Rd",
+    "sg:city":"Belvidere",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"37306",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20AiWJuX3JXATwHUGUtE3Q_35.124879_-86.191679@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609826,
+    "wof:geomhash":"1c30639d9aa98b11e18889095e3e37f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":823268073
+        }
+    ],
+    "wof:id":823268073,
+    "wof:lastmodified":1462609826,
+    "wof:name":"USPS - United States Post Office - Belvidere Post Office",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -86.191679,
+    35.124879,
+    -86.191679,
+    35.124879
+],
+  "geometry": {"coordinates":[-86.19167899999999,35.124879],"type":"Point"}
+}

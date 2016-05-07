@@ -1,0 +1,83 @@
+{
+  "id": 823284985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.025011,35.053954,-90.025011,35.053954",
+    "geom:latitude":35.053954,
+    "geom:longitude":-90.025011,
+    "iso:country":"US",
+    "sg:address":"3471 Elvis Presley Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 734 4667",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ],
+    "sg:website":"http://www.regionsbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867187
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lHtBxjhwsT51JD8BJyObP_35.053954_-90.025011@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610513,
+    "wof:geomhash":"7749eb5c45cf91dcd34b0706d8d84715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867187,
+            "region_id":85688701,
+            "venue_id":823284985
+        }
+    ],
+    "wof:id":823284985,
+    "wof:lastmodified":1462610513,
+    "wof:name":"Regions Bank",
+    "wof:parent_id":85867187,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [
+    -90.025011,
+    35.053954,
+    -90.025011,
+    35.053954
+],
+  "geometry": {"coordinates":[-90.02501100000001,35.053954],"type":"Point"}
+}

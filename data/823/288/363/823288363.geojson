@@ -1,0 +1,80 @@
+{
+  "id": 823288363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.79546,35.002617,-89.79546,35.002617",
+    "geom:latitude":35.002617,
+    "geom:longitude":-89.79546,
+    "iso:country":"US",
+    "sg:address":"5323 Hacks Cross Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 755 9551",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "kindergarten",
+        "school",
+        "nursery",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CinnTQbnaRKpyfqhORf8o_35.002617_-89.795460@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610636,
+    "wof:geomhash":"717260846835f02b4cd61a5bcc769741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823288363
+        }
+    ],
+    "wof:id":823288363,
+    "wof:lastmodified":1462610636,
+    "wof:name":"Country Home Daycare Center",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "school",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -89.79546,
+    35.002617,
+    -89.79546,
+    35.002617
+],
+  "geometry": {"coordinates":[-89.79546000000001,35.002617],"type":"Point"}
+}

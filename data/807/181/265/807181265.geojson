@@ -1,0 +1,67 @@
+{
+  "id": 807181265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.318545,36.206798,-83.318545,36.206798",
+    "geom:latitude":36.206798,
+    "geom:longitude":-83.318545,
+    "iso:country":"US",
+    "sg:address":"1959 W Andrew Johnson Hwy",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 317 7233",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rs4G15dRUztvuS0bpkpRq_36.206798_-83.318545@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604598,
+    "wof:geomhash":"65cb93a1e8b01798031a41e1a0d52f4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807181265
+        }
+    ],
+    "wof:id":807181265,
+    "wof:lastmodified":1462604598,
+    "wof:name":"Walgreens",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -83.318545,
+    36.206798,
+    -83.318545,
+    36.206798
+],
+  "geometry": {"coordinates":[-83.318545,36.206798],"type":"Point"}
+}

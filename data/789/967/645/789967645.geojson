@@ -1,0 +1,73 @@
+{
+  "id": 789967645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.384918,36.188677,-85.384918,36.188677",
+    "geom:latitude":36.188677,
+    "geom:longitude":-85.384918,
+    "iso:country":"US",
+    "sg:address":"7200 Brotherton Mountain Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 537 3811",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "disposal",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mefjriwetaaYYtlNqEdMt_36.188677_-85.384918@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592064,
+    "wof:geomhash":"459e36a10bfb2149a94b897250074ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":789967645
+        }
+    ],
+    "wof:id":789967645,
+    "wof:lastmodified":1462592064,
+    "wof:name":"Brotherton Waste Collection",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "disposal",
+        "waste"
+    ]
+},
+  "bbox": [
+    -85.384918,
+    36.188677,
+    -85.384918,
+    36.188677
+],
+  "geometry": {"coordinates":[-85.384918,36.188677],"type":"Point"}
+}

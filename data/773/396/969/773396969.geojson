@@ -1,0 +1,74 @@
+{
+  "id": 773396969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.054096,35.209916,-90.054096,35.209916",
+    "geom:latitude":35.209916,
+    "geom:longitude":-90.054096,
+    "iso:country":"US",
+    "sg:address":"475 Klinke Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 353 8211",
+    "sg:postcode":"38127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.cityofmemphis.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85820619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gwjVBcA8huRIJ0Knvgv7e_35.209916_-90.054096@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585378,
+    "wof:geomhash":"7e9282027a3f351efba78bad48ad1c72",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85820619,
+            "region_id":85688701,
+            "venue_id":773396969
+        }
+    ],
+    "wof:id":773396969,
+    "wof:lastmodified":1462585378,
+    "wof:name":"Memphis Police Crime Scene",
+    "wof:parent_id":85820619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -90.054096,
+    35.209916,
+    -90.054096,
+    35.209916
+],
+  "geometry": {"coordinates":[-90.054096,35.209916],"type":"Point"}
+}

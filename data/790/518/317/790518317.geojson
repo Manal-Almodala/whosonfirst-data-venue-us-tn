@@ -1,0 +1,71 @@
+{
+  "id": 790518317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.539409,35.229079,-89.539409,35.229079",
+    "geom:latitude":35.229079,
+    "geom:longitude":-89.539409,
+    "iso:country":"US",
+    "sg:address":"130 Pierce Rd",
+    "sg:city":"Oakland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 465 7322",
+    "sg:postcode":"38060",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85846193,
+        102086439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VamqCm7CAN5SniZMK7rx3_35.229079_-89.539409@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596530,
+    "wof:geomhash":"95e27f8d4b3a14645172d1192193064b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086439,
+            "neighbourhood_id":85846193,
+            "region_id":85688701,
+            "venue_id":790518317
+        }
+    ],
+    "wof:id":790518317,
+    "wof:lastmodified":1462596530,
+    "wof:name":"Oakland Automotive",
+    "wof:parent_id":85846193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.539409,
+    35.229079,
+    -89.539409,
+    35.229079
+],
+  "geometry": {"coordinates":[-89.53940900000001,35.229079],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 807289541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.501857,36.184295,-85.501857,36.184295",
+    "geom:latitude":36.184295,
+    "geom:longitude":-85.501857,
+    "iso:country":"US",
+    "sg:address":"221 E 18th St",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 525 6292",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722459,
+        102086339,
+        85811771,
+        85852063
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o0agS1BMQtuzdrryCdyq2_36.184295_-85.501857@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605742,
+    "wof:geomhash":"058bb1645569788f812a8d2e4c55a733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85811771,
+            "region_id":85688701,
+            "venue_id":807289541
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85852063,
+            "region_id":85688701,
+            "venue_id":807289541
+        }
+    ],
+    "wof:id":807289541,
+    "wof:lastmodified":1462605742,
+    "wof:name":"Two Beans Murals",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mural"
+    ]
+},
+  "bbox": [
+    -85.501857,
+    36.184295,
+    -85.501857,
+    36.184295
+],
+  "geometry": {"coordinates":[-85.501857,36.184295],"type":"Point"}
+}

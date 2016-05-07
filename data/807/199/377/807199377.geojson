@@ -1,0 +1,75 @@
+{
+  "id": 807199377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.246054,35.227144,-88.246054,35.227144",
+    "geom:latitude":35.227144,
+    "geom:longitude":-88.246054,
+    "iso:country":"US",
+    "sg:address":"121 Pickwick St N",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 926 3188",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03ezgjouccj616lYD6kzAh_35.227144_-88.246054@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604791,
+    "wof:geomhash":"a74d25b4d08c2b03a23c6839bb7c78cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":807199377
+        }
+    ],
+    "wof:id":807199377,
+    "wof:lastmodified":1462604791,
+    "wof:name":"Savannah Kidney Clinic",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -88.246054,
+    35.227144,
+    -88.246054,
+    35.227144
+],
+  "geometry": {"coordinates":[-88.246054,35.227144],"type":"Point"}
+}

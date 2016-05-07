@@ -1,0 +1,75 @@
+{
+  "id": 789724547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.286078,36.207559,-86.286078,36.207559",
+    "geom:latitude":36.207559,
+    "geom:longitude":-86.286078,
+    "iso:country":"US",
+    "sg:address":"315 E Main St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 5034",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v5ESW5e8b7oK1uqd3US8c_36.207559_-86.286078@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590062,
+    "wof:geomhash":"83008d66098e65832bd8dd090bb886eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":789724547
+        }
+    ],
+    "wof:id":789724547,
+    "wof:lastmodified":1462590062,
+    "wof:name":"Square Deal Paint & Body Shop",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.286078,
+    36.207559,
+    -86.286078,
+    36.207559
+],
+  "geometry": {"coordinates":[-86.286078,36.207559],"type":"Point"}
+}

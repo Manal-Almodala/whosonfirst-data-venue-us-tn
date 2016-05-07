@@ -1,0 +1,80 @@
+{
+  "id": 773748327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.82592,35.947225,-83.82592,35.947225",
+    "geom:latitude":35.947225,
+    "geom:longitude":-83.82592,
+    "iso:country":"US",
+    "sg:address":"5300 S National Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 525 7733",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "steel",
+        "processing",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85833365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JF8sMj3fY87nXl4q7ly7N_35.947225_-83.825920@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588086,
+    "wof:geomhash":"6b7a390cb114722396e71b9964edf8a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85833365,
+            "region_id":85688701,
+            "venue_id":773748327
+        }
+    ],
+    "wof:id":773748327,
+    "wof:lastmodified":1462588086,
+    "wof:name":"Tennessee Steel Processors Co",
+    "wof:parent_id":85833365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "processing",
+        "center"
+    ]
+},
+  "bbox": [
+    -83.82592,
+    35.947225,
+    -83.82592,
+    35.947225
+],
+  "geometry": {"coordinates":[-83.82592,35.947225],"type":"Point"}
+}

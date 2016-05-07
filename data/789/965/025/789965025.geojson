@@ -1,0 +1,75 @@
+{
+  "id": 789965025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.666557,36.044888,-86.666557,36.044888",
+    "geom:latitude":36.044888,
+    "geom:longitude":-86.666557,
+    "iso:country":"US",
+    "sg:address":"1112 Bell Rd",
+    "sg:city":"Antioch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 731 8980",
+    "sg:postcode":"37013",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85846409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VmR94zJ4RuSjqDiNyroiZ_36.044888_-86.666557@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592038,
+    "wof:geomhash":"d2821eaf09380ae0441a057dac1f49a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85846409,
+            "region_id":85688701,
+            "venue_id":789965025
+        }
+    ],
+    "wof:id":789965025,
+    "wof:lastmodified":1462592038,
+    "wof:name":"Texaco Xpress Lube",
+    "wof:parent_id":85846409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -86.666557,
+    36.044888,
+    -86.666557,
+    36.044888
+],
+  "geometry": {"coordinates":[-86.666557,36.044888],"type":"Point"}
+}

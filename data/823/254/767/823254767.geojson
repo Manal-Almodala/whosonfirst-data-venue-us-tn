@@ -1,0 +1,76 @@
+{
+  "id": 823254767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.007967,35.019972,-90.007967,35.019972",
+    "geom:latitude":35.019972,
+    "geom:longitude":-90.007967,
+    "iso:country":"US",
+    "sg:address":"4711 Millbranch Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/190978-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 396 9490",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542123
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60U0vVdhcDdoJfZ6TooJHa_35.019972_-90.007967@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609435,
+    "wof:geomhash":"b2632a3e2c88047ee224d8e2792e1977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542123,
+            "region_id":85688701,
+            "venue_id":823254767
+        }
+    ],
+    "wof:id":823254767,
+    "wof:lastmodified":1462609435,
+    "wof:name":"Burger King",
+    "wof:parent_id":420542123,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.007967,
+    35.019972,
+    -90.007967,
+    35.019972
+],
+  "geometry": {"coordinates":[-90.00796699999999,35.019972],"type":"Point"}
+}

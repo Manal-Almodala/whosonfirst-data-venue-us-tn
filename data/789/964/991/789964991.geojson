@@ -1,0 +1,73 @@
+{
+  "id": 789964991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.272435,36.508503,-87.272435,36.508503",
+    "geom:latitude":36.508503,
+    "geom:longitude":-87.272435,
+    "iso:country":"US",
+    "sg:address":"2305 Madison St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 647 4984",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F2QzTS34UKoYhwuE40TBR_36.508503_-87.272435@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592038,
+    "wof:geomhash":"e7bca64b86c7ebfbaa4aae83ef7911a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846417,
+            "region_id":85688701,
+            "venue_id":789964991
+        }
+    ],
+    "wof:id":789964991,
+    "wof:lastmodified":1462592038,
+    "wof:name":"National Car Wash",
+    "wof:parent_id":85846417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -87.272435,
+    36.508503,
+    -87.272435,
+    36.508503
+],
+  "geometry": {"coordinates":[-87.272435,36.508503],"type":"Point"}
+}

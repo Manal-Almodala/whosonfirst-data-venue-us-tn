@@ -1,0 +1,74 @@
+{
+  "id": 773275537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.027148,35.94359,-85.027148,35.94359",
+    "geom:latitude":35.94359,
+    "geom:longitude":-85.027148,
+    "iso:country":"US",
+    "sg:address":"208 Lantana Rd",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 5141",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.cmgmd.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FmiuohJBAIJdIEyEnAswK_35.943590_-85.027148@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584483,
+    "wof:geomhash":"c0bdc606d11337ad200bc3fe08e99df2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":773275537
+        }
+    ],
+    "wof:id":773275537,
+    "wof:lastmodified":1462584483,
+    "wof:name":"Crossville Medical Group",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.027148,
+    35.94359,
+    -85.027148,
+    35.94359
+],
+  "geometry": {"coordinates":[-85.027148,35.94359],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806979999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827593,35.581609,-88.827593,35.581609",
+    "geom:latitude":35.581609,
+    "geom:longitude":-88.827593,
+    "iso:country":"US",
+    "sg:address":"28 Central Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 424 9665",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62sxdX0C1VzU7jMzQANHSy_35.581609_-88.827593@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602689,
+    "wof:geomhash":"6b8027904802fdc94f3ba5459e10681e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":806979999
+        }
+    ],
+    "wof:id":806979999,
+    "wof:lastmodified":1462602689,
+    "wof:name":"Safe Shuttle",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -88.827593,
+    35.581609,
+    -88.827593,
+    35.581609
+],
+  "geometry": {"coordinates":[-88.82759299999999,35.581609],"type":"Point"}
+}

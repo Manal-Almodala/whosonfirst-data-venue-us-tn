@@ -1,0 +1,66 @@
+{
+  "id": 789878831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.155251,35.939669,-87.155251,35.939669",
+    "geom:latitude":35.939669,
+    "geom:longitude":-87.155251,
+    "iso:country":"US",
+    "sg:address":"2021 Fairview Blvd",
+    "sg:city":"Fairview",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 799 1020",
+    "sg:postcode":"37062",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723095,
+        102086337,
+        85822897
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47IPaUbdVFQQEIhygqSJXt_35.939669_-87.155251@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591279,
+    "wof:geomhash":"6d95f6af98bedb8e13a77639faab3ffb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723095,
+            "neighbourhood_id":85822897,
+            "region_id":85688701,
+            "venue_id":789878831
+        }
+    ],
+    "wof:id":789878831,
+    "wof:lastmodified":1462591279,
+    "wof:name":"Fairview Market",
+    "wof:parent_id":85822897,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.155251,
+    35.939669,
+    -87.155251,
+    35.939669
+],
+  "geometry": {"coordinates":[-87.15525100000001,35.939669],"type":"Point"}
+}

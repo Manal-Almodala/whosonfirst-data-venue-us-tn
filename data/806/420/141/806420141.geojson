@@ -1,0 +1,73 @@
+{
+  "id": 806420141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.835995,35.17119,-84.835995,35.17119",
+    "geom:latitude":35.17119,
+    "geom:longitude":-84.835995,
+    "iso:country":"US",
+    "sg:address":"3305 Old Tasso Rd NE",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 559 1120",
+    "sg:postcode":"37312",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85808527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05HXHclHvZZMAs0zwv9Rse_35.171190_-84.835995@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598009,
+    "wof:geomhash":"b1a15bf8239c3abf0501fd58345b1833",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85808527,
+            "region_id":85688701,
+            "venue_id":806420141
+        }
+    ],
+    "wof:id":806420141,
+    "wof:lastmodified":1462598009,
+    "wof:name":"Rhodes Storage",
+    "wof:parent_id":85808527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -84.835995,
+    35.17119,
+    -84.835995,
+    35.17119
+],
+  "geometry": {"coordinates":[-84.835995,35.17119],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 806957417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.336474,36.536476,-87.336474,36.536476",
+    "geom:latitude":36.536476,
+    "geom:longitude":-87.336474,
+    "iso:country":"US",
+    "sg:address":"50 Reynolds St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 552 3010",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85857915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OR2n5dpilzEbgM49prL7l_36.536476_-87.336474@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602506,
+    "wof:geomhash":"a295943c7e76c22d6f51d24443c5e124",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85857915,
+            "region_id":85688701,
+            "venue_id":806957417
+        }
+    ],
+    "wof:id":806957417,
+    "wof:lastmodified":1462602506,
+    "wof:name":"Clarksville Disposal LLC",
+    "wof:parent_id":85857915,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -87.336474,
+    36.536476,
+    -87.336474,
+    36.536476
+],
+  "geometry": {"coordinates":[-87.336474,36.536476],"type":"Point"}
+}

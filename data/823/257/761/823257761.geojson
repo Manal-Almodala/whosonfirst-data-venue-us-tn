@@ -1,0 +1,74 @@
+{
+  "id": 823257761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.27531,36.509726,-87.27531,36.509726",
+    "geom:latitude":36.509726,
+    "geom:longitude":-87.27531,
+    "iso:country":"US",
+    "sg:address":"2227 Madison St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/clarksville/215008-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 647 4097",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_143cwOtuciQyLaqmZ501cR_36.509208_-87.275517@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609495,
+    "wof:geomhash":"4d385394b9b0b2de06c42a9479b73909",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846417,
+            "region_id":85688701,
+            "venue_id":823257761
+        }
+    ],
+    "wof:id":823257761,
+    "wof:lastmodified":1462609495,
+    "wof:name":"Burger King",
+    "wof:parent_id":85846417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.27531,
+    36.509726,
+    -87.27531,
+    36.509726
+],
+  "geometry": {"coordinates":[-87.27531,36.509726],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789933567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.570561,36.489933,-82.570561,36.489933",
+    "geom:latitude":36.489933,
+    "geom:longitude":-82.570561,
+    "iso:country":"US",
+    "sg:address":"2915 Sullivan Gardens Pkwy",
+    "sg:city":"Kingsport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 349 2742",
+    "sg:postcode":"37660",
+    "sg:province":"TN",
+    "sg:tags":[
+        "tank",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850717,
+        102086471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tvQRHDgcdloGwZAkUe29M_36.489933_-82.570561@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591738,
+    "wof:geomhash":"2484b230ba2f01e513d44a6552091798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "neighbourhood_id":85850717,
+            "region_id":85688701,
+            "venue_id":789933567
+        }
+    ],
+    "wof:id":789933567,
+    "wof:lastmodified":1462591738,
+    "wof:name":"Mt Clean",
+    "wof:parent_id":85850717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -82.570561,
+    36.489933,
+    -82.570561,
+    36.489933
+],
+  "geometry": {"coordinates":[-82.570561,36.489933],"type":"Point"}
+}

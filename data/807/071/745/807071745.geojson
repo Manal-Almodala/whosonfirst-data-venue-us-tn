@@ -1,0 +1,78 @@
+{
+  "id": 807071745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.442193,35.917646,-85.442193,35.917646",
+    "geom:latitude":35.917646,
+    "geom:longitude":-85.442193,
+    "iso:country":"US",
+    "sg:address":"1023 Country Club Rd",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 738 3787",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vbPEncvI9ACDg3GSXeb8L_35.917646_-85.442193@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603459,
+    "wof:geomhash":"39c23f66f27ccbf5a2d4fba7d0565ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":807071745
+        }
+    ],
+    "wof:id":807071745,
+    "wof:lastmodified":1462603459,
+    "wof:name":"McCormick Plumbing & Elc Svc",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.442193,
+    35.917646,
+    -85.442193,
+    35.917646
+],
+  "geometry": {"coordinates":[-85.442193,35.917646],"type":"Point"}
+}

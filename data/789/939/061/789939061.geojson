@@ -1,0 +1,77 @@
+{
+  "id": 789939061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.153977,36.217169,-84.153977,36.217169",
+    "geom:latitude":36.217169,
+    "geom:longitude":-84.153977,
+    "iso:country":"US",
+    "sg:address":"601 S Main St",
+    "sg:city":"Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 426 2626",
+    "sg:postcode":"37769",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722561,
+        102086483,
+        85825681
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WzfOnlOtP0qVDHDGdKW9m_36.217169_-84.153977@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591780,
+    "wof:geomhash":"7ce161432ae36cbf764e1f6c2af8b3b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722561,
+            "neighbourhood_id":85825681,
+            "region_id":85688701,
+            "venue_id":789939061
+        }
+    ],
+    "wof:id":789939061,
+    "wof:lastmodified":1462591780,
+    "wof:name":"King's Way Automotive",
+    "wof:parent_id":85825681,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -84.153977,
+    36.217169,
+    -84.153977,
+    36.217169
+],
+  "geometry": {"coordinates":[-84.153977,36.217169],"type":"Point"}
+}

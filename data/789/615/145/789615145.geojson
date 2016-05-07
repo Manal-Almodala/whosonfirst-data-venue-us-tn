@@ -1,0 +1,73 @@
+{
+  "id": 789615145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.518629,36.202293,-86.518629,36.202293",
+    "geom:latitude":36.202293,
+    "geom:longitude":-86.518629,
+    "iso:country":"US",
+    "sg:address":"2330 N Mount Juliet Rd",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 459 2133",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723073,
+        102087205,
+        85851335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51R9JG2M249E8fksRsLqk0_36.202293_-86.518629@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589177,
+    "wof:geomhash":"b1e5bc33808aa431dd9ac50bb5cbacd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85851335,
+            "region_id":85688701,
+            "venue_id":789615145
+        }
+    ],
+    "wof:id":789615145,
+    "wof:lastmodified":1462589177,
+    "wof:name":"White's Market",
+    "wof:parent_id":85851335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.518629,
+    36.202293,
+    -86.518629,
+    36.202293
+],
+  "geometry": {"coordinates":[-86.518629,36.202293],"type":"Point"}
+}

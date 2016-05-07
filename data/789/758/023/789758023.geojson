@@ -1,0 +1,73 @@
+{
+  "id": 789758023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.799164,36.456355,-81.799164,36.456355",
+    "geom:latitude":36.456355,
+    "geom:longitude":-81.799164,
+    "iso:country":"US",
+    "sg:address":"1641 S Shady St",
+    "sg:city":"Mountain City",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 727 0038",
+    "sg:postcode":"37683",
+    "sg:province":"TN",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rFbBLagtHRin4jbyvj6fx_36.456355_-81.799164@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590315,
+    "wof:geomhash":"e4e989d8b2d2e592bef842af157f908d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":789758023
+        }
+    ],
+    "wof:id":789758023,
+    "wof:lastmodified":1462590315,
+    "wof:name":"Boone Drugs Inc",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -81.799164,
+    36.456355,
+    -81.799164,
+    36.456355
+],
+  "geometry": {"coordinates":[-81.799164,36.456355],"type":"Point"}
+}

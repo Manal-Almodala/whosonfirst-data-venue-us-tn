@@ -1,0 +1,73 @@
+{
+  "id": 789599567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.094705,35.918895,-84.094705,35.918895",
+    "geom:latitude":35.918895,
+    "geom:longitude":-84.094705,
+    "iso:country":"US",
+    "sg:address":"320 Park 40 North Blvd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 691 4393",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mCLeMgkr03EMphfZZ8zoy_35.918895_-84.094705@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589064,
+    "wof:geomhash":"3dbfde61096f24be7fb83afc981e517e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":789599567
+        }
+    ],
+    "wof:id":789599567,
+    "wof:lastmodified":1462589064,
+    "wof:name":"Cedar Bluff Physician Ctr",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.094705,
+    35.918895,
+    -84.094705,
+    35.918895
+],
+  "geometry": {"coordinates":[-84.094705,35.918895],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 789839851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.288437,35.814572,-86.288437,35.814572",
+    "geom:latitude":35.814572,
+    "geom:longitude":-86.288437,
+    "iso:country":"US",
+    "sg:address":"1216 Coleman Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 0292",
+    "sg:postcode":"37127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "rebuilds",
+        "electric",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5amxSPYltgn5UrJplYAX0d_35.814572_-86.288437@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590945,
+    "wof:geomhash":"b2abc9b14d85cdd5099527a8fd67f393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":789839851
+        }
+    ],
+    "wof:id":789839851,
+    "wof:lastmodified":1462590945,
+    "wof:name":"Youngs Electric Motor Co Inc",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rebuilds",
+        "electric",
+        "motor"
+    ]
+},
+  "bbox": [
+    -86.288437,
+    35.814572,
+    -86.288437,
+    35.814572
+],
+  "geometry": {"coordinates":[-86.288437,35.814572],"type":"Point"}
+}

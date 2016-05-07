@@ -1,0 +1,84 @@
+{
+  "id": 789716035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.019133,35.95001,-85.019133,35.95001",
+    "geom:latitude":35.95001,
+    "geom:longitude":-85.019133,
+    "iso:country":"US",
+    "sg:address":"161 Harrison Ave",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 6862",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "home",
+        "group"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809,
+        102191575,
+        85824095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RkYzZe09YgvfKfRraBlFG_35.950010_-85.019133@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589982,
+    "wof:geomhash":"60a81ed4e412e97ed4b72811bd6a081c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":789716035
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85824095,
+            "region_id":85688701,
+            "venue_id":789716035
+        }
+    ],
+    "wof:id":789716035,
+    "wof:lastmodified":1462589982,
+    "wof:name":"Hilltoppers Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "group"
+    ]
+},
+  "bbox": [
+    -85.019133,
+    35.95001,
+    -85.019133,
+    35.95001
+],
+  "geometry": {"coordinates":[-85.019133,35.95001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789812305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.814143,36.165333,-82.814143,36.165333",
+    "geom:latitude":36.165333,
+    "geom:longitude":-82.814143,
+    "iso:country":"US",
+    "sg:address":"701 Professional Plaza Dr",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 639 7141",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0r3CISUMJlrZuS3xkbvqK9_36.165333_-82.814143@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590732,
+    "wof:geomhash":"991c13d85cad886757ec83b8509d9c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":789812305
+        }
+    ],
+    "wof:id":789812305,
+    "wof:lastmodified":1462590732,
+    "wof:name":"Ernest B Strange MD",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.814143,
+    36.165333,
+    -82.814143,
+    36.165333
+],
+  "geometry": {"coordinates":[-82.814143,36.165333],"type":"Point"}
+}

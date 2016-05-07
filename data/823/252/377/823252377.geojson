@@ -1,0 +1,76 @@
+{
+  "id": 823252377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.929317,36.030795,-83.929317,36.030795",
+    "geom:latitude":36.030795,
+    "geom:longitude":-83.929317,
+    "iso:country":"US",
+    "sg:address":"5055 N Broadway St",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/203620-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 9000",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        420541843
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5skJnTgHqWbJiyYIoPyUcP_36.030795_-83.929317@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609391,
+    "wof:geomhash":"9a0421a13f240fff65b7e2daab3f6b7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":420541843,
+            "region_id":85688701,
+            "venue_id":823252377
+        }
+    ],
+    "wof:id":823252377,
+    "wof:lastmodified":1462609391,
+    "wof:name":"McDonald's",
+    "wof:parent_id":420541843,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.929317,
+    36.030795,
+    -83.929317,
+    36.030795
+],
+  "geometry": {"coordinates":[-83.929317,36.030795],"type":"Point"}
+}

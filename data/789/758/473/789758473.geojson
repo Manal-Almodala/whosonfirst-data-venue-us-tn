@@ -1,0 +1,71 @@
+{
+  "id": 789758473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.988238,35.902603,-83.988238,35.902603",
+    "geom:latitude":35.902603,
+    "geom:longitude":-83.988238,
+    "iso:country":"US",
+    "sg:address":"1648 Wheaton Pl",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 558 3535",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85831819,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mjCXwdSjBeEFDzTixTwUf_35.902603_-83.988238@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590319,
+    "wof:geomhash":"688cb1e1689796a716e90c763eacdb36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85831819,
+            "region_id":85688701,
+            "venue_id":789758473
+        }
+    ],
+    "wof:id":789758473,
+    "wof:lastmodified":1462590319,
+    "wof:name":"Pump It Up",
+    "wof:parent_id":85831819,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -83.988238,
+    35.902603,
+    -83.988238,
+    35.902603
+],
+  "geometry": {"coordinates":[-83.988238,35.902603],"type":"Point"}
+}

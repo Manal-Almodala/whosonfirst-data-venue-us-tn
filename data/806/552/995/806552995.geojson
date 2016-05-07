@@ -1,0 +1,73 @@
+{
+  "id": 806552995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.628509,36.150847,-86.628509,36.150847",
+    "geom:latitude":36.150847,
+    "geom:longitude":-86.628509,
+    "iso:country":"US",
+    "sg:address":"3252 Blackwood Dr",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 883 8280",
+    "sg:postcode":"37214",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85811505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KEE6z9b7n0HPy1R68GGgP_36.150847_-86.628509@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599056,
+    "wof:geomhash":"f651aee5df8968df53082de459c5fabc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85811505,
+            "region_id":85688701,
+            "venue_id":806552995
+        }
+    ],
+    "wof:id":806552995,
+    "wof:lastmodified":1462599056,
+    "wof:name":"Mc Cormick Animal Clinic",
+    "wof:parent_id":85811505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.628509,
+    36.150847,
+    -86.628509,
+    36.150847
+],
+  "geometry": {"coordinates":[-86.62850899999999,36.150847],"type":"Point"}
+}

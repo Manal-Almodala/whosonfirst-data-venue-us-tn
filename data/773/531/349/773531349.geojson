@@ -1,0 +1,73 @@
+{
+  "id": 773531349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.499527,36.580189,-86.499527,36.580189",
+    "geom:latitude":36.580189,
+    "geom:longitude":-86.499527,
+    "iso:country":"US",
+    "sg:address":"101 Portland Courtyard Dr",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 325 0106",
+    "sg:postcode":"37148",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nTAtxpZHoaJwfiQyhQnJ4_36.580189_-86.499527@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586424,
+    "wof:geomhash":"123fd7dea7778c9a171b6c8320af5c6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773531349
+        }
+    ],
+    "wof:id":773531349,
+    "wof:lastmodified":1462586424,
+    "wof:name":"Portland Court Yard",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -86.499527,
+    36.580189,
+    -86.499527,
+    36.580189
+],
+  "geometry": {"coordinates":[-86.499527,36.580189],"type":"Point"}
+}

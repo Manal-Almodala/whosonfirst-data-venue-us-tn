@@ -1,0 +1,72 @@
+{
+  "id": 823253285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.111179,35.979428,-84.111179,35.979428",
+    "geom:latitude":35.979428,
+    "geom:longitude":-84.111179,
+    "iso:country":"US",
+    "sg:address":"7801 Oak Ridge Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/karns/140297-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 539 5233",
+    "sg:postcode":"37931",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85856659,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Kb6nkyRCEVm1RDruQHw1w_35.979428_-84.111179@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609408,
+    "wof:geomhash":"ac4c2bd22f4fea0dbb97fc86ef50f643",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85856659,
+            "region_id":85688701,
+            "venue_id":823253285
+        }
+    ],
+    "wof:id":823253285,
+    "wof:lastmodified":1462609408,
+    "wof:name":"Subway",
+    "wof:parent_id":85856659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.111179,
+    35.979428,
+    -84.111179,
+    35.979428
+],
+  "geometry": {"coordinates":[-84.11117900000001,35.979428],"type":"Point"}
+}

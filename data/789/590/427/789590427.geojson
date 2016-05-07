@@ -1,0 +1,73 @@
+{
+  "id": 789590427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.310927,35.425011,-87.310927,35.425011",
+    "geom:latitude":35.425011,
+    "geom:longitude":-87.310927,
+    "iso:country":"US",
+    "sg:address":"347 Corbin St",
+    "sg:city":"Summertown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 964 3411",
+    "sg:postcode":"38483",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85833563,
+        102086349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZKGWDV9JGDOYCzmbCub6N_35.425011_-87.310927@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588989,
+    "wof:geomhash":"104ca70c481fc12ddcdf01fe53ade7dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "neighbourhood_id":85833563,
+            "region_id":85688701,
+            "venue_id":789590427
+        }
+    ],
+    "wof:id":789590427,
+    "wof:lastmodified":1462588989,
+    "wof:name":"Perry's Automotive",
+    "wof:parent_id":85833563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -87.310927,
+    35.425011,
+    -87.310927,
+    35.425011
+],
+  "geometry": {"coordinates":[-87.31092700000001,35.425011],"type":"Point"}
+}

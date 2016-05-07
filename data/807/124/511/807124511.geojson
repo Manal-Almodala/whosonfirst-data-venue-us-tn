@@ -1,0 +1,71 @@
+{
+  "id": 807124511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.525631,35.322982,-84.525631,35.322982",
+    "geom:latitude":35.322982,
+    "geom:longitude":-84.525631,
+    "iso:country":"US",
+    "sg:address":"815 Tennessee Ave",
+    "sg:city":"Etowah",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 000 1111",
+    "sg:postcode":"37331",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722741,
+        102086293,
+        85837601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TqgF05gWLbBv7E4Aj5tZG_35.322982_-84.525631@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603996,
+    "wof:geomhash":"01f68f17b6e2b20a4d04f459f7cf3c45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722741,
+            "neighbourhood_id":85837601,
+            "region_id":85688701,
+            "venue_id":807124511
+        }
+    ],
+    "wof:id":807124511,
+    "wof:lastmodified":1462603996,
+    "wof:name":"Athens Police Dept",
+    "wof:parent_id":85837601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.525631,
+    35.322982,
+    -84.525631,
+    35.322982
+],
+  "geometry": {"coordinates":[-84.525631,35.322982],"type":"Point"}
+}

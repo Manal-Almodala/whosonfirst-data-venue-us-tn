@@ -1,0 +1,73 @@
+{
+  "id": 789740527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.616321,35.627929,-89.616321,35.627929",
+    "geom:latitude":35.627929,
+    "geom:longitude":-89.616321,
+    "iso:country":"US",
+    "sg:address":"4621 US Hwy 51 N",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 3463",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50rpSWAnqAtFzuSmyRtehz_35.627929_-89.616321@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590181,
+    "wof:geomhash":"38c8d4e70754f969bf172b3f850c9951",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789740527
+        }
+    ],
+    "wof:id":789740527,
+    "wof:lastmodified":1462590181,
+    "wof:name":"County Line Express",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.616321,
+    35.627929,
+    -89.616321,
+    35.627929
+],
+  "geometry": {"coordinates":[-89.616321,35.627929],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790605825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.200813,35.544694,-87.200813,35.544694",
+    "geom:latitude":35.544694,
+    "geom:longitude":-87.200813,
+    "iso:country":"US",
+    "sg:address":"705 N Main St",
+    "sg:city":"Mt Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 7989",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v7CBPJozFlX4mJS47ePQj_35.544694_-87.200813@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597270,
+    "wof:geomhash":"9c07f902c6a0bfce0d984ac54fe14d3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":790605825
+        }
+    ],
+    "wof:id":790605825,
+    "wof:lastmodified":1462597270,
+    "wof:name":"Custom Service Dental Lab",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -87.200813,
+    35.544694,
+    -87.200813,
+    35.544694
+],
+  "geometry": {"coordinates":[-87.200813,35.544694],"type":"Point"}
+}

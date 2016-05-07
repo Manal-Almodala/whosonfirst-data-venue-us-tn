@@ -1,0 +1,77 @@
+{
+  "id": 789693785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.661186,36.089997,-86.661186,36.089997",
+    "geom:latitude":36.089997,
+    "geom:longitude":-86.661186,
+    "iso:country":"US",
+    "sg:address":"607 Franklin Limestone Rd",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 361 0804",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85804275
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15QFbXOp8gnYqYiTrlIPeg_36.089997_-86.661186@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589808,
+    "wof:geomhash":"0f50de2c87e2ddb1c72dd43bb6e380be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85804275,
+            "region_id":85688701,
+            "venue_id":789693785
+        }
+    ],
+    "wof:id":789693785,
+    "wof:lastmodified":1462589808,
+    "wof:name":"Little Trucking Company",
+    "wof:parent_id":85804275,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.661186,
+    36.089997,
+    -86.661186,
+    36.089997
+],
+  "geometry": {"coordinates":[-86.661186,36.089997],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823246979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.842473,35.204112,-84.842473,35.204112",
+    "geom:latitude":35.204112,
+    "geom:longitude":-84.842473,
+    "iso:country":"US",
+    "sg:address":"4643 N Lee Hwy",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/charleston/140185-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 473 0079",
+    "sg:postcode":"37312",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85847789
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zQR2TRYOKx5vycl02W6QZ_35.204112_-84.842473@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609277,
+    "wof:geomhash":"da21b6e0c5411e80b04eb3228c2e5f39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85847789,
+            "region_id":85688701,
+            "venue_id":823246979
+        }
+    ],
+    "wof:id":823246979,
+    "wof:lastmodified":1462609277,
+    "wof:name":"Subway",
+    "wof:parent_id":85847789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.842473,
+    35.204112,
+    -84.842473,
+    35.204112
+],
+  "geometry": {"coordinates":[-84.842473,35.204112],"type":"Point"}
+}

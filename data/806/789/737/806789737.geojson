@@ -1,0 +1,71 @@
+{
+  "id": 806789737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.639844,36.154845,-85.639844,36.154845",
+    "geom:latitude":36.154845,
+    "geom:longitude":-85.639844,
+    "iso:country":"US",
+    "sg:address":"319 Broad St",
+    "sg:city":"Baxter",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 3790",
+    "sg:postcode":"38544",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A81aOe63PK8dLBFNmrJMI_36.154845_-85.639844@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601102,
+    "wof:geomhash":"5772283fcff236ac9f240b0552f158e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":806789737
+        }
+    ],
+    "wof:id":806789737,
+    "wof:lastmodified":1462601102,
+    "wof:name":"Putnam County Rural Health",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -85.639844,
+    36.154845,
+    -85.639844,
+    36.154845
+],
+  "geometry": {"coordinates":[-85.639844,36.154845],"type":"Point"}
+}

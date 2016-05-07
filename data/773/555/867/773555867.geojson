@@ -1,0 +1,73 @@
+{
+  "id": 773555867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.432617,36.390888,-86.432617,36.390888",
+    "geom:latitude":36.390888,
+    "geom:longitude":-86.432617,
+    "iso:country":"US",
+    "sg:address":"300 Steam Plant Rd",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 451 4240",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dcQ1yzvxIpNsBpDD2DuM1_36.390888_-86.432617@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586614,
+    "wof:geomhash":"8762db0e62e74fe48a526356a9915172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":773555867
+        }
+    ],
+    "wof:id":773555867,
+    "wof:lastmodified":1462586614,
+    "wof:name":"Vanderbilt Medical Group",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.432617,
+    36.390888,
+    -86.432617,
+    36.390888
+],
+  "geometry": {"coordinates":[-86.43261699999999,36.390888],"type":"Point"}
+}

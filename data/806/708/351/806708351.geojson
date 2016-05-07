@@ -1,0 +1,85 @@
+{
+  "id": 806708351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.742013,36.125363,-86.742013,36.125363",
+    "geom:latitude":36.125363,
+    "geom:longitude":-86.742013,
+    "iso:country":"US",
+    "sg:address":"112 Glenrose Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 242 7171",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85893481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44sm7kQ4m3H7mUuhFVys6C_36.125363_-86.742013@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600405,
+    "wof:geomhash":"11499c8327cca36326afb6cad66c966b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":806708351
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893481,
+            "region_id":85688701,
+            "venue_id":806708351
+        }
+    ],
+    "wof:id":806708351,
+    "wof:lastmodified":1462600405,
+    "wof:name":"Complete Auto Repair & Tire",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.742013,
+    36.125363,
+    -86.742013,
+    36.125363
+],
+  "geometry": {"coordinates":[-86.742013,36.125363],"type":"Point"}
+}

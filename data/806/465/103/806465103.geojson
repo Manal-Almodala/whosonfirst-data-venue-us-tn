@@ -1,0 +1,73 @@
+{
+  "id": 806465103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.101986,35.560574,-85.101986,35.560574",
+    "geom:latitude":35.560574,
+    "geom:longitude":-85.101986,
+    "iso:country":"US",
+    "sg:address":"462 Walker Rd",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 1360",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VMeaZqKFwQiEKxoluDPY7_35.560574_-85.101986@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598355,
+    "wof:geomhash":"030bda5d566474d4653e0d724fef1bbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":806465103
+        }
+    ],
+    "wof:id":806465103,
+    "wof:lastmodified":1462598355,
+    "wof:name":"B King Electrical",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.101986,
+    35.560574,
+    -85.101986,
+    35.560574
+],
+  "geometry": {"coordinates":[-85.101986,35.560574],"type":"Point"}
+}

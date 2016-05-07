@@ -1,0 +1,71 @@
+{
+  "id": 789954713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.543134,35.798802,-83.543134,35.798802",
+    "geom:latitude":35.798802,
+    "geom:longitude":-83.543134,
+    "iso:country":"US",
+    "sg:address":"2428 Middle Creek Rd",
+    "sg:city":"Pigeon Forge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 8238",
+    "sg:postcode":"37863",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722583,
+        102086245,
+        85812089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wMxXe7mpinuCA1x6mhSQW_35.798802_-83.543134@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591956,
+    "wof:geomhash":"986945edf1a6bef20cf3a7bc0275cd3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722583,
+            "neighbourhood_id":85812089,
+            "region_id":85688701,
+            "venue_id":789954713
+        }
+    ],
+    "wof:id":789954713,
+    "wof:lastmodified":1462591956,
+    "wof:name":"Mc Carter's Garage & Wrecker",
+    "wof:parent_id":85812089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -83.543134,
+    35.798802,
+    -83.543134,
+    35.798802
+],
+  "geometry": {"coordinates":[-83.54313399999999,35.798802],"type":"Point"}
+}

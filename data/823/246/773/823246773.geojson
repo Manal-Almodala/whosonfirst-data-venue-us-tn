@@ -1,0 +1,74 @@
+{
+  "id": 823246773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.619517,35.449559,-84.619517,35.449559",
+    "geom:latitude":35.449559,
+    "geom:longitude":-84.619517,
+    "iso:country":"US",
+    "sg:address":"1419 Decatur Pike",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/athens/166253-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 8966",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85808247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16w7veQfOCLf2Etjstqjy7_35.449559_-84.619517@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609273,
+    "wof:geomhash":"b8fbad49a642b9ef5d4b1f819c156f62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85808247,
+            "region_id":85688701,
+            "venue_id":823246773
+        }
+    ],
+    "wof:id":823246773,
+    "wof:lastmodified":1462609273,
+    "wof:name":"Arby's",
+    "wof:parent_id":85808247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.619517,
+    35.449559,
+    -84.619517,
+    35.449559
+],
+  "geometry": {"coordinates":[-84.619517,35.449559],"type":"Point"}
+}

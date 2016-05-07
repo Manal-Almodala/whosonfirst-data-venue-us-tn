@@ -1,0 +1,83 @@
+{
+  "id": 789687817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.549493,36.040103,-86.549493,36.040103",
+    "geom:latitude":36.040103,
+    "geom:longitude":-86.549493,
+    "iso:country":"US",
+    "sg:address":"888 Lavergne Ln",
+    "sg:city":"La Vergne",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 213 0633",
+    "sg:postcode":"37086",
+    "sg:province":"TN",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723113,
+        102086355,
+        420542085,
+        420541483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kcIvudedKHqW1Nc0M6YfD_36.040103_-86.549493@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589761,
+    "wof:geomhash":"1b7a07bc2d4ea6180c5943be2e52ec73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723113,
+            "neighbourhood_id":420542085,
+            "region_id":85688701,
+            "venue_id":789687817
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723113,
+            "neighbourhood_id":420541483,
+            "region_id":85688701,
+            "venue_id":789687817
+        }
+    ],
+    "wof:id":789687817,
+    "wof:lastmodified":1462589761,
+    "wof:name":"Custom Renovations",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -86.549493,
+    36.040103,
+    -86.549493,
+    36.040103
+],
+  "geometry": {"coordinates":[-86.549493,36.040103],"type":"Point"}
+}

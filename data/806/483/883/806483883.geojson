@@ -1,0 +1,71 @@
+{
+  "id": 806483883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.067384,36.193388,-83.067384,36.193388",
+    "geom:latitude":36.193388,
+    "geom:longitude":-83.067384,
+    "iso:country":"US",
+    "sg:address":"120 Kesterson Way",
+    "sg:city":"Mohawk",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 235 4954",
+    "sg:postcode":"37810",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department",
+        "volunteer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85851539,
+        102086377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YswHa1I9cHhvHxPxk4w9Y_36.193388_-83.067384@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598499,
+    "wof:geomhash":"88a86b41a1afafcbb24432e81a562da1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "neighbourhood_id":85851539,
+            "region_id":85688701,
+            "venue_id":806483883
+        }
+    ],
+    "wof:id":806483883,
+    "wof:lastmodified":1462598499,
+    "wof:name":"McDonald Volunteer Fire Dept",
+    "wof:parent_id":85851539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "volunteer"
+    ]
+},
+  "bbox": [
+    -83.067384,
+    36.193388,
+    -83.067384,
+    36.193388
+],
+  "geometry": {"coordinates":[-83.067384,36.193388],"type":"Point"}
+}

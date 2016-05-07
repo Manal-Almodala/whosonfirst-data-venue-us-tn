@@ -1,0 +1,102 @@
+{
+  "id": 823265835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.75302,36.121243,-86.75302,36.121243",
+    "geom:latitude":36.121243,
+    "geom:longitude":-86.75302,
+    "iso:country":"US",
+    "sg:address":"2320 Kline Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 255 0110",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "system",
+        "major",
+        "refinishing",
+        "appliance",
+        "heating",
+        "specialty",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85893481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JxcYXfJP4cnkoTRTuqp71_36.121243_-86.753020@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609747,
+    "wof:geomhash":"d7ee96a5acb2395b4d41fd5b36231b22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":823265835
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893481,
+            "region_id":85688701,
+            "venue_id":823265835
+        }
+    ],
+    "wof:id":823265835,
+    "wof:lastmodified":1462609747,
+    "wof:name":"Wauford Air Conditioning Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "major",
+        "refinishing",
+        "appliance",
+        "heating",
+        "specialty",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -86.75302,
+    36.121243,
+    -86.75302,
+    36.121243
+],
+  "geometry": {"coordinates":[-86.75302000000001,36.121243],"type":"Point"}
+}

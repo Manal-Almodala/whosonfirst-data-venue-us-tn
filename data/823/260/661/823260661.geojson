@@ -1,0 +1,81 @@
+{
+  "id": 823260661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.87961,35.106323,-89.87961,35.106323",
+    "geom:latitude":35.106323,
+    "geom:longitude":-89.87961,
+    "iso:country":"US",
+    "sg:address":"5469 Poplar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/29119-blue-plate-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 761 9696",
+    "sg:postcode":"38119",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85807811
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38ptJPiDnrzx8jQ7e0aliw_35.106068_-89.878853@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609564,
+    "wof:geomhash":"6b26dd597c51eb49a1f3f9d136ad1cae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85807811,
+            "region_id":85688701,
+            "venue_id":823260661
+        }
+    ],
+    "wof:id":823260661,
+    "wof:lastmodified":1462609564,
+    "wof:name":"Blue Plate Cafe",
+    "wof:parent_id":85807811,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -89.87961,
+    35.106323,
+    -89.87961,
+    35.106323
+],
+  "geometry": {"coordinates":[-89.87961,35.106323],"type":"Point"}
+}

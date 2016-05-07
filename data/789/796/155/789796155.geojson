@@ -1,0 +1,83 @@
+{
+  "id": 789796155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.883166,35.988392,-83.883166,35.988392",
+    "geom:latitude":35.988392,
+    "geom:longitude":-83.883166,
+    "iso:country":"US",
+    "sg:address":"2945 Wilson Ave",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 637 8066",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85840531,
+        85808509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hMYFxpRteVynRaTcHfx3p_35.988392_-83.883166@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590613,
+    "wof:geomhash":"cc66ceffa6df591e5041078ccc24bc16",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85840531,
+            "region_id":85688701,
+            "venue_id":789796155
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85808509,
+            "region_id":85688701,
+            "venue_id":789796155
+        }
+    ],
+    "wof:id":789796155,
+    "wof:lastmodified":1462590613,
+    "wof:name":"Claude Walker Baseball Field",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -83.883166,
+    35.988392,
+    -83.883166,
+    35.988392
+],
+  "geometry": {"coordinates":[-83.883166,35.988392],"type":"Point"}
+}

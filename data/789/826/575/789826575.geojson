@@ -1,0 +1,73 @@
+{
+  "id": 789826575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.064601,35.523683,-85.064601,35.523683",
+    "geom:latitude":35.523683,
+    "geom:longitude":-85.064601,
+    "iso:country":"US",
+    "sg:address":"1863 Ogden Rd",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 570 7285",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4N45CdgsBbs5QlFvpMpbUZ_35.523683_-85.064601@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590842,
+    "wof:geomhash":"21f48b8472a182078d05e79bc651be49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":789826575
+        }
+    ],
+    "wof:id":789826575,
+    "wof:lastmodified":1462590842,
+    "wof:name":"H&H Trucking Inc",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.064601,
+    35.523683,
+    -85.064601,
+    35.523683
+],
+  "geometry": {"coordinates":[-85.064601,35.523683],"type":"Point"}
+}

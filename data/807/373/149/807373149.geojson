@@ -1,0 +1,73 @@
+{
+  "id": 807373149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.81468,35.578513,-88.81468,35.578513",
+    "geom:latitude":35.578513,
+    "geom:longitude":-88.81468,
+    "iso:country":"US",
+    "sg:address":"1353 S Highland Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 423 4533",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UqAb8SlY6YIt7P7FD2ENv_35.578513_-88.814680@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606831,
+    "wof:geomhash":"dd31ffe5f1a4b939a0d07de5b810479b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":807373149
+        }
+    ],
+    "wof:id":807373149,
+    "wof:lastmodified":1462606831,
+    "wof:name":"Amoco",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -88.81468,
+    35.578513,
+    -88.81468,
+    35.578513
+],
+  "geometry": {"coordinates":[-88.81468,35.578513],"type":"Point"}
+}

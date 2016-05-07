@@ -1,0 +1,73 @@
+{
+  "id": 807181811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.203272,35.966243,-83.203272,35.966243",
+    "geom:latitude":35.966243,
+    "geom:longitude":-83.203272,
+    "iso:country":"US",
+    "sg:address":"375 Alex St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 1575",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "housing",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_633WPHnW3WdDey81Exb6yK_35.966243_-83.203272@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604604,
+    "wof:geomhash":"841841a4650ff2a055a76b32766fbed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":807181811
+        }
+    ],
+    "wof:id":807181811,
+    "wof:lastmodified":1462604604,
+    "wof:name":"Newport Housing Authority",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "program"
+    ]
+},
+  "bbox": [
+    -83.203272,
+    35.966243,
+    -83.203272,
+    35.966243
+],
+  "geometry": {"coordinates":[-83.203272,35.966243],"type":"Point"}
+}

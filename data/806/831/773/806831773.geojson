@@ -1,0 +1,73 @@
+{
+  "id": 806831773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.365607,36.533401,-87.365607,36.533401",
+    "geom:latitude":36.533401,
+    "geom:longitude":-87.365607,
+    "iso:country":"US",
+    "sg:address":"11 McClure St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 647 1696",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85836715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iLKgskYaNEkpqyFOF5IkL_36.533401_-87.365607@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601439,
+    "wof:geomhash":"6b25670c2e60cc02065f8d0a9a25cba1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85836715,
+            "region_id":85688701,
+            "venue_id":806831773
+        }
+    ],
+    "wof:id":806831773,
+    "wof:lastmodified":1462601439,
+    "wof:name":"Animal Hospital",
+    "wof:parent_id":85836715,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -87.365607,
+    36.533401,
+    -87.365607,
+    36.533401
+],
+  "geometry": {"coordinates":[-87.365607,36.533401],"type":"Point"}
+}

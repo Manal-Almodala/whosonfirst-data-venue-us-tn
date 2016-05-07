@@ -1,0 +1,75 @@
+{
+  "id": 789733325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.990305,35.759145,-83.990305,35.759145",
+    "geom:latitude":35.759145,
+    "geom:longitude":-83.990305,
+    "iso:country":"US",
+    "sg:address":"101 Roosevelt Dr",
+    "sg:city":"Maryville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 984 1499",
+    "sg:postcode":"37801",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722701,
+        102087017,
+        85851593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ShhDt9cmNLj7AfGjiUNH8_35.759145_-83.990305@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590127,
+    "wof:geomhash":"8f3857138a1948be6796beeed4aa2c87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85851593,
+            "region_id":85688701,
+            "venue_id":789733325
+        }
+    ],
+    "wof:id":789733325,
+    "wof:lastmodified":1462590127,
+    "wof:name":"Foothills Storage Center",
+    "wof:parent_id":85851593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.990305,
+    35.759145,
+    -83.990305,
+    35.759145
+],
+  "geometry": {"coordinates":[-83.99030500000001,35.759145],"type":"Point"}
+}

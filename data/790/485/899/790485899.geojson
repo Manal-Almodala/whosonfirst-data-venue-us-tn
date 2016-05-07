@@ -1,0 +1,74 @@
+{
+  "id": 790485899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.859282,35.103984,-89.859282,35.103984",
+    "geom:latitude":35.103984,
+    "geom:longitude":-89.859282,
+    "iso:country":"US",
+    "sg:address":"942 S Shady Grove Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 818 7500",
+    "sg:postcode":"38120",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.fedex.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85857485
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43cFkUGrbGN5UG70LnFgjI_35.103984_-89.859282@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596243,
+    "wof:geomhash":"623fb698c4b5e333df53d0d444405b74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85857485,
+            "region_id":85688701,
+            "venue_id":790485899
+        }
+    ],
+    "wof:id":790485899,
+    "wof:lastmodified":1462596243,
+    "wof:name":"Fed Ex Corp",
+    "wof:parent_id":85857485,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -89.859282,
+    35.103984,
+    -89.859282,
+    35.103984
+],
+  "geometry": {"coordinates":[-89.85928199999999,35.103984],"type":"Point"}
+}

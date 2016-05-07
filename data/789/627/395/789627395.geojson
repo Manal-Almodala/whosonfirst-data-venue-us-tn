@@ -1,0 +1,73 @@
+{
+  "id": 789627395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.853925,35.674356,-88.853925,35.674356",
+    "geom:latitude":35.674356,
+    "geom:longitude":-88.853925,
+    "iso:country":"US",
+    "sg:address":"35 Stonebridge Blvd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 664 0080",
+    "sg:postcode":"38305",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722769,
+        102087221,
+        85821577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A2G4mryqqpp9E3YJcIPsi_35.674356_-88.853925@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589273,
+    "wof:geomhash":"c486f5e757b418189739bea9371a25ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85821577,
+            "region_id":85688701,
+            "venue_id":789627395
+        }
+    ],
+    "wof:id":789627395,
+    "wof:lastmodified":1462589273,
+    "wof:name":"West Tennessee Pediatric Dntl",
+    "wof:parent_id":85821577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -88.853925,
+    35.674356,
+    -88.853925,
+    35.674356
+],
+  "geometry": {"coordinates":[-88.853925,35.674356],"type":"Point"}
+}

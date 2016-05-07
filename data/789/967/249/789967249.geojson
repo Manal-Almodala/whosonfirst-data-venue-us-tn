@@ -1,0 +1,75 @@
+{
+  "id": 789967249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.58463,35.524353,-89.58463,35.524353",
+    "geom:latitude":35.524353,
+    "geom:longitude":-89.58463,
+    "iso:country":"US",
+    "sg:address":"135 Brantley Dr",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 9068",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "natural",
+        "gas",
+        "meter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50tIxChq4Xui4ER7GPPmtH_35.524353_-89.584630@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592061,
+    "wof:geomhash":"f1ced44ed855ba8264407c7b70fceb22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789967249
+        }
+    ],
+    "wof:id":789967249,
+    "wof:lastmodified":1462592061,
+    "wof:name":"Sullivan Ntral Gas Measurement",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "natural",
+        "gas",
+        "meter"
+    ]
+},
+  "bbox": [
+    -89.58463,
+    35.524353,
+    -89.58463,
+    35.524353
+],
+  "geometry": {"coordinates":[-89.58463,35.524353],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789824681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.039789,36.204591,-83.039789,36.204591",
+    "geom:latitude":36.204591,
+    "geom:longitude":-83.039789,
+    "iso:country":"US",
+    "sg:address":"125 Jim Kirk Rd",
+    "sg:city":"Midway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 235 9653",
+    "sg:postcode":"37809",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85851539,
+        102086377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Za1hn2Lmw0Jgkej7gDZW_36.204591_-83.039789@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590830,
+    "wof:geomhash":"b684921c8247ffc48362bd351f652226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "neighbourhood_id":85851539,
+            "region_id":85688701,
+            "venue_id":789824681
+        }
+    ],
+    "wof:id":789824681,
+    "wof:lastmodified":1462590830,
+    "wof:name":"Bill's Repair Shop",
+    "wof:parent_id":85851539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.039789,
+    36.204591,
+    -83.039789,
+    36.204591
+],
+  "geometry": {"coordinates":[-83.039789,36.204591],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807025099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.66831,36.117948,-86.66831,36.117948",
+    "geom:latitude":36.117948,
+    "geom:longitude":-86.66831,
+    "iso:country":"US",
+    "sg:address":"921 Airport Svc Rd",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 275 1705",
+    "sg:postcode":"37214",
+    "sg:province":"TN",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85853015
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ZdpIpybdEX63sX8faItL_36.117948_-86.668310@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603078,
+    "wof:geomhash":"73408e3b03f7cd87eee5f2e3115ec663",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85853015,
+            "region_id":85688701,
+            "venue_id":807025099
+        }
+    ],
+    "wof:id":807025099,
+    "wof:lastmodified":1462603078,
+    "wof:name":"Nashville Airport Police",
+    "wof:parent_id":85853015,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -86.66831,
+    36.117948,
+    -86.66831,
+    36.117948
+],
+  "geometry": {"coordinates":[-86.66831000000001,36.117948],"type":"Point"}
+}

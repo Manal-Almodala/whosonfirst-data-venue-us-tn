@@ -1,0 +1,73 @@
+{
+  "id": 773214269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.651614,36.150679,-86.651614,36.150679",
+    "geom:latitude":36.150679,
+    "geom:longitude":-86.651614,
+    "iso:country":"US",
+    "sg:address":"3100 Jonesboro Dr",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 297 5004",
+    "sg:postcode":"37214",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85811505
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z0N561IR133TPJUNOmZj2_36.150679_-86.651614@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584026,
+    "wof:geomhash":"ce631da06281f21771ae200b4391b805",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85811505,
+            "region_id":85688701,
+            "venue_id":773214269
+        }
+    ],
+    "wof:id":773214269,
+    "wof:lastmodified":1462584026,
+    "wof:name":"A-Tech Appliance Svc",
+    "wof:parent_id":85811505,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -86.651614,
+    36.150679,
+    -86.651614,
+    36.150679
+],
+  "geometry": {"coordinates":[-86.651614,36.150679],"type":"Point"}
+}

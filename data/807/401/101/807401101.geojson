@@ -1,0 +1,71 @@
+{
+  "id": 807401101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.321873,35.230038,-87.321873,35.230038",
+    "geom:latitude":35.230038,
+    "geom:longitude":-87.321873,
+    "iso:country":"US",
+    "sg:address":"702 Fall River Rd",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 1157",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RVofcJSB5PLC11BJOabGV_35.230038_-87.321873@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607304,
+    "wof:geomhash":"c3dd29f8d3e3482a052c190ef983eb61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":807401101
+        }
+    ],
+    "wof:id":807401101,
+    "wof:lastmodified":1462607304,
+    "wof:name":"Kerrys Body Shop Auto Sales",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -87.321873,
+    35.230038,
+    -87.321873,
+    35.230038
+],
+  "geometry": {"coordinates":[-87.321873,35.230038],"type":"Point"}
+}

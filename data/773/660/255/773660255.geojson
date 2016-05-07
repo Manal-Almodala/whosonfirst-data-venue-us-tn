@@ -1,0 +1,73 @@
+{
+  "id": 773660255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.705378,35.013951,-85.705378,35.013951",
+    "geom:latitude":35.013951,
+    "geom:longitude":-85.705378,
+    "iso:country":"US",
+    "sg:address":"214 Elm Ave",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 6600",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722495,
+        102086347,
+        85823635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01gAM7bSrvKRlmmPBR679q_35.013951_-85.705378@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587398,
+    "wof:geomhash":"c28a118fc9aea2701a955205bef79277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":85823635,
+            "region_id":85688701,
+            "venue_id":773660255
+        }
+    ],
+    "wof:id":773660255,
+    "wof:lastmodified":1462587398,
+    "wof:name":"South Pittsburg Housing Auth",
+    "wof:parent_id":85823635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -85.705378,
+    35.013951,
+    -85.705378,
+    35.013951
+],
+  "geometry": {"coordinates":[-85.705378,35.013951],"type":"Point"}
+}

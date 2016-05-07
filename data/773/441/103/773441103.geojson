@@ -1,0 +1,76 @@
+{
+  "id": 773441103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.217044,36.237079,-83.217044,36.237079",
+    "geom:latitude":36.237079,
+    "geom:longitude":-83.217044,
+    "iso:country":"US",
+    "sg:address":"444 Jones-Franklin Rd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 4848",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.penske.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vgE0vX6JqENlGSN6js7gw_36.237079_-83.217044@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585767,
+    "wof:geomhash":"af8c1b61efc06f4fb2156c5b64d7bb70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773441103
+        }
+    ],
+    "wof:id":773441103,
+    "wof:lastmodified":1462585767,
+    "wof:name":"Penske Truck Leasing",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -83.217044,
+    36.237079,
+    -83.217044,
+    36.237079
+],
+  "geometry": {"coordinates":[-83.217044,36.237079],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 823288577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.797501,35.048393,-89.797501,35.048393",
+    "geom:latitude":35.048393,
+    "geom:longitude":-89.797501,
+    "iso:country":"US",
+    "sg:address":"7941 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 881 1521",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ],
+    "sg:website":"http://www.banfield.net/ypoffer/?source=yp",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CDpOUMTtV9vAoOIiLQRje_35.048393_-89.797501@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610644,
+    "wof:geomhash":"69dd7ae205f560450098e2e556e053fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823288577
+        }
+    ],
+    "wof:id":823288577,
+    "wof:lastmodified":1462610644,
+    "wof:name":"Banfield the Pet Hospital",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "hospital",
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -89.797501,
+    35.048393,
+    -89.797501,
+    35.048393
+],
+  "geometry": {"coordinates":[-89.797501,35.048393],"type":"Point"}
+}

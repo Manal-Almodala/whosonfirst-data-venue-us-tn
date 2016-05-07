@@ -1,0 +1,73 @@
+{
+  "id": 789662323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.971775,35.083522,-89.971775,35.083522",
+    "geom:latitude":35.083522,
+    "geom:longitude":-89.971775,
+    "iso:country":"US",
+    "sg:address":"2236 Pendleton St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 745 9046",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WhLQWBKcL6i5G1lPRZ55J_35.083522_-89.971775@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589562,
+    "wof:geomhash":"162e3038fcbeb1e461155e6eaddf2c99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805535,
+            "region_id":85688701,
+            "venue_id":789662323
+        }
+    ],
+    "wof:id":789662323,
+    "wof:lastmodified":1462589562,
+    "wof:name":"Alton Barber Shop",
+    "wof:parent_id":85805535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.971775,
+    35.083522,
+    -89.971775,
+    35.083522
+],
+  "geometry": {"coordinates":[-89.97177499999999,35.083522],"type":"Point"}
+}

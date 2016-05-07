@@ -1,0 +1,73 @@
+{
+  "id": 789901871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.02925,35.218193,-90.02925,35.218193",
+    "geom:latitude":35.218193,
+    "geom:longitude":-90.02925,
+    "iso:country":"US",
+    "sg:address":"3350 Thomas St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 353 4303",
+    "sg:postcode":"38127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85820619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67zJEdqBSRorgLbP2pwH5D_35.218193_-90.029250@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591460,
+    "wof:geomhash":"2efa51b1380696a377cee85a4498ff7a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85820619,
+            "region_id":85688701,
+            "venue_id":789901871
+        }
+    ],
+    "wof:id":789901871,
+    "wof:lastmodified":1462591460,
+    "wof:name":"Northside Auto Sales",
+    "wof:parent_id":85820619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -90.02925,
+    35.218193,
+    -90.02925,
+    35.218193
+],
+  "geometry": {"coordinates":[-90.02925,35.218193],"type":"Point"}
+}

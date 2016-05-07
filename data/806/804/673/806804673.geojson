@@ -1,0 +1,71 @@
+{
+  "id": 806804673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.672045,35.478307,-89.672045,35.478307",
+    "geom:latitude":35.478307,
+    "geom:longitude":-89.672045,
+    "iso:country":"US",
+    "sg:address":"195 Sunnyside Dr",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 0614",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A8y71zl0ZGxJoslGgGjWM_35.478307_-89.672045@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601225,
+    "wof:geomhash":"d685660abf922c2b9c2339f213d9b823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806804673
+        }
+    ],
+    "wof:id":806804673,
+    "wof:lastmodified":1462601225,
+    "wof:name":"Cap Plumbing",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.672045,
+    35.478307,
+    -89.672045,
+    35.478307
+],
+  "geometry": {"coordinates":[-89.672045,35.478307],"type":"Point"}
+}

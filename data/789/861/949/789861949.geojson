@@ -1,0 +1,69 @@
+{
+  "id": 789861949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.913681,36.004531,-84.913681,36.004531",
+    "geom:latitude":36.004531,
+    "geom:longitude":-84.913681,
+    "iso:country":"US",
+    "sg:address":"5357 Peavine Rd",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 6162",
+    "sg:postcode":"38571",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CMSgEWMSBhepjDsIquQ0I_36.004531_-84.913681@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591122,
+    "wof:geomhash":"9e007b2bcc0d7ef9c7fac0be8c45b4b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":789861949
+        }
+    ],
+    "wof:id":789861949,
+    "wof:lastmodified":1462591122,
+    "wof:name":"Express Automotive",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -84.913681,
+    36.004531,
+    -84.913681,
+    36.004531
+],
+  "geometry": {"coordinates":[-84.913681,36.004531],"type":"Point"}
+}

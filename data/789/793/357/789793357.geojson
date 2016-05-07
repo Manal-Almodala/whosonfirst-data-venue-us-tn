@@ -1,0 +1,73 @@
+{
+  "id": 789793357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.119678,35.908234,-84.119678,35.908234",
+    "geom:latitude":35.908234,
+    "geom:longitude":-84.119678,
+    "iso:country":"US",
+    "sg:address":"230 Mabry Hood Rd",
+    "sg:city":"Concord Farragut",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 966 0019",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D97NPwszoppDgIawR1FiL_35.908234_-84.119678@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590589,
+    "wof:geomhash":"fedc62ac9adff912c17f922589506130",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":789793357
+        }
+    ],
+    "wof:id":789793357,
+    "wof:lastmodified":1462590589,
+    "wof:name":"Dixie Truck Terminal",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "truck",
+        "facility"
+    ]
+},
+  "bbox": [
+    -84.119678,
+    35.908234,
+    -84.119678,
+    35.908234
+],
+  "geometry": {"coordinates":[-84.11967799999999,35.908234],"type":"Point"}
+}

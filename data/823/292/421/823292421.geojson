@@ -1,0 +1,91 @@
+{
+  "id": 823292421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.832008,35.031058,-89.832008,35.031058",
+    "geom:latitude":35.031058,
+    "geom:longitude":-89.832008,
+    "iso:country":"US",
+    "sg:address":"4290 Gray Fox Cv",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 794 2554",
+    "sg:postcode":"38141",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "transporter",
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xGRJya6iwKWXfHbVZPI79_35.031058_-89.832008@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1462610801,
+    "wof:geomhash":"86aae41ea4f279bf89d162d0a57e4309",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870781,
+            "region_id":85688701,
+            "venue_id":823292421
+        }
+    ],
+    "wof:id":823292421,
+    "wof:lastmodified":1462610801,
+    "wof:name":"Jones Transporter",
+    "wof:parent_id":85870781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "transporter",
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.832008,
+    35.031058,
+    -89.832008,
+    35.031058
+],
+  "geometry": {"coordinates":[-89.832008,35.031058],"type":"Point"}
+}

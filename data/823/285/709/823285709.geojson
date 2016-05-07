@@ -1,0 +1,83 @@
+{
+  "id": 823285709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.903021,35.1148,-89.903021,35.1148",
+    "geom:latitude":35.1148,
+    "geom:longitude":-89.903021,
+    "iso:country":"US",
+    "sg:address":"4759 Poplar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 761 6979",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=5668&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I6vB0hmNWJx22h5V6e85Y_35.114800_-89.903021@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610539,
+    "wof:geomhash":"1e02512da06a49e185fde68b022917de",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":823285709
+        }
+    ],
+    "wof:id":823285709,
+    "wof:lastmodified":1462610539,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "leasing",
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.903021,
+    35.1148,
+    -89.903021,
+    35.1148
+],
+  "geometry": {"coordinates":[-89.903021,35.1148],"type":"Point"}
+}

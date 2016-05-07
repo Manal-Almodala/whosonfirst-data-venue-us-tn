@@ -1,0 +1,71 @@
+{
+  "id": 790558991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.019358,35.939881,-85.019358,35.939881",
+    "geom:latitude":35.939881,
+    "geom:longitude":-85.019358,
+    "iso:country":"US",
+    "sg:address":"645 S Main St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 8861",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LP7TNx5227Wd61egLFEjE_35.939881_-85.019358@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596869,
+    "wof:geomhash":"776f649b6d2bf7917c3750ef1ab9755d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":790558991
+        }
+    ],
+    "wof:id":790558991,
+    "wof:lastmodified":1462596869,
+    "wof:name":"Simpson Jon MD",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -85.019358,
+    35.939881,
+    -85.019358,
+    35.939881
+],
+  "geometry": {"coordinates":[-85.019358,35.939881],"type":"Point"}
+}

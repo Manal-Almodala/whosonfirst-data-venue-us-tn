@@ -1,0 +1,73 @@
+{
+  "id": 789578225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.908357,35.615348,-88.908357,35.615348",
+    "geom:latitude":35.615348,
+    "geom:longitude":-88.908357,
+    "iso:country":"US",
+    "sg:address":"226 Anglin Ln",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 424 3449",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722769,
+        102087221,
+        85821577
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6daFhC65RgzMRzTDz5mebS_35.615348_-88.908357@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588890,
+    "wof:geomhash":"f827367456139e31093967c571a5a1ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85821577,
+            "region_id":85688701,
+            "venue_id":789578225
+        }
+    ],
+    "wof:id":789578225,
+    "wof:lastmodified":1462588890,
+    "wof:name":"Max Trans",
+    "wof:parent_id":85821577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -88.908357,
+    35.615348,
+    -88.908357,
+    35.615348
+],
+  "geometry": {"coordinates":[-88.908357,35.615348],"type":"Point"}
+}

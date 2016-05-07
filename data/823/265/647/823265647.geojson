@@ -1,0 +1,91 @@
+{
+  "id": 823265647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.738503,36.097752,-86.738503,36.097752",
+    "geom:latitude":36.097752,
+    "geom:longitude":-86.738503,
+    "iso:country":"US",
+    "sg:address":"3600 Nolensville Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 333 0055",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "engines-rebuild",
+        "tire",
+        "exchange",
+        "automobile",
+        "part",
+        "truck",
+        "brake"
+    ],
+    "sg:website":"http://larrysauto.mechanicnet.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85843601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fAv4H1tHmacmYZtjk5kkA_36.097752_-86.738503@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609736,
+    "wof:geomhash":"ccb6deefb79cc2520ede7b41100c3c22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85843601,
+            "region_id":85688701,
+            "venue_id":823265647
+        }
+    ],
+    "wof:id":823265647,
+    "wof:lastmodified":1462609736,
+    "wof:name":"Larry's Auto & TIre",
+    "wof:parent_id":85843601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engines-rebuild",
+        "tire",
+        "exchange",
+        "automobile",
+        "part",
+        "truck",
+        "brake"
+    ]
+},
+  "bbox": [
+    -86.738503,
+    36.097752,
+    -86.738503,
+    36.097752
+],
+  "geometry": {"coordinates":[-86.73850299999999,36.097752],"type":"Point"}
+}

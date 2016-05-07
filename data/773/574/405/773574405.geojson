@@ -1,0 +1,71 @@
+{
+  "id": 773574405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.206266,36.028079,-84.206266,36.028079",
+    "geom:latitude":36.028079,
+    "geom:longitude":-84.206266,
+    "iso:country":"US",
+    "sg:address":"107 Berwick Dr",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 482 1372",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fbJ76eKv1OwhrdDRsGRn9_36.028079_-84.206266@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586763,
+    "wof:geomhash":"b52623d5cb5e14687c625f98f06a6714",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":773574405
+        }
+    ],
+    "wof:id":773574405,
+    "wof:lastmodified":1462586763,
+    "wof:name":"Francis A Goswitz",
+    "wof:parent_id":85818065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.206266,
+    36.028079,
+    -84.206266,
+    36.028079
+],
+  "geometry": {"coordinates":[-84.206266,36.028079],"type":"Point"}
+}

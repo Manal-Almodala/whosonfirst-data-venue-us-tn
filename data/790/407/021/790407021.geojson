@@ -1,0 +1,71 @@
+{
+  "id": 790407021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.291516,36.211805,-83.291516,36.211805",
+    "geom:latitude":36.211805,
+    "geom:longitude":-83.291516,
+    "iso:country":"US",
+    "sg:address":"139 W Morris Blvd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 4545",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ItSd7gkULYBZm9wIH5ktb_36.211805_-83.291516@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595586,
+    "wof:geomhash":"037f637993b22ef0e480556c8c53a50a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":790407021
+        }
+    ],
+    "wof:id":790407021,
+    "wof:lastmodified":1462595586,
+    "wof:name":"Joe E Gibson Jr DDS",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.291516,
+    36.211805,
+    -83.291516,
+    36.211805
+],
+  "geometry": {"coordinates":[-83.291516,36.211805],"type":"Point"}
+}

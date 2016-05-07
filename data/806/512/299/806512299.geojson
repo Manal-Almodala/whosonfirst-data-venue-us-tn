@@ -1,0 +1,71 @@
+{
+  "id": 806512299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.555634,35.15201,-86.555634,35.15201",
+    "geom:latitude":35.15201,
+    "geom:longitude":-86.555634,
+    "iso:country":"US",
+    "sg:address":"2330 Thornton Taylor Pkwy",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 433 9900",
+    "sg:postcode":"37334",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DZNlCwapss4flmUeKDpSK_35.152010_-86.555634@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598733,
+    "wof:geomhash":"6584faa55814a66e92449ebcc9229e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":806512299
+        }
+    ],
+    "wof:id":806512299,
+    "wof:lastmodified":1462598733,
+    "wof:name":"Norris Creek Family Practice",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.555634,
+    35.15201,
+    -86.555634,
+    35.15201
+],
+  "geometry": {"coordinates":[-86.555634,35.15201],"type":"Point"}
+}

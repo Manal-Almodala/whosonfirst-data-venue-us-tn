@@ -1,0 +1,73 @@
+{
+  "id": 806816015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.928561,35.22994,-89.928561,35.22994",
+    "geom:latitude":35.22994,
+    "geom:longitude":-89.928561,
+    "iso:country":"US",
+    "sg:address":"4065 Stillwood Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 380 8508",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hPUOVXbfxvnUjdZUWyrOG_35.229940_-89.928561@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601311,
+    "wof:geomhash":"ff5823e84583bb8997585d34a34a70a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":806816015
+        }
+    ],
+    "wof:id":806816015,
+    "wof:lastmodified":1462601311,
+    "wof:name":"Quantum Electric Inc",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.928561,
+    35.22994,
+    -89.928561,
+    35.22994
+],
+  "geometry": {"coordinates":[-89.928561,35.22994],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 823257601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.484868,35.944453,-85.484868,35.944453",
+    "geom:latitude":35.944453,
+    "geom:longitude":-85.484868,
+    "iso:country":"US",
+    "sg:address":"800 Roosevelt Dr",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/sparta/201846-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4abpnA7cCXQ3EM98LSeUM3_35.944453_-85.484868@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609487,
+    "wof:geomhash":"189f8463827b03a7684125d9d60214b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":823257601
+        }
+    ],
+    "wof:id":823257601,
+    "wof:lastmodified":1462609487,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.484868,
+    35.944453,
+    -85.484868,
+    35.944453
+],
+  "geometry": {"coordinates":[-85.48486800000001,35.944453],"type":"Point"}
+}

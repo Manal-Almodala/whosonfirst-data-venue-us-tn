@@ -1,0 +1,69 @@
+{
+  "id": 807333791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.806242,35.87524,-84.806242,35.87524",
+    "geom:latitude":35.87524,
+    "geom:longitude":-84.806242,
+    "iso:country":"US",
+    "sg:address":"587 Fall Creek Rd",
+    "sg:city":"Rockwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 354 8095",
+    "sg:postcode":"37854",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s0Ey9OWwOYjrnoh7XtDDE_35.875240_-84.806242@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606246,
+    "wof:geomhash":"bd7273e5fa285cb08d3b1ddfd232a152",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":807333791
+        }
+    ],
+    "wof:id":807333791,
+    "wof:lastmodified":1462606246,
+    "wof:name":"Animal Medical & Surgery Ctr",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -84.806242,
+    35.87524,
+    -84.806242,
+    35.87524
+],
+  "geometry": {"coordinates":[-84.806242,35.87524],"type":"Point"}
+}

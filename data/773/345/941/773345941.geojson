@@ -1,0 +1,71 @@
+{
+  "id": 773345941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.487005,35.849009,-86.487005,35.849009",
+    "geom:latitude":35.849009,
+    "geom:longitude":-86.487005,
+    "iso:country":"US",
+    "sg:address":"357 Meadow Ln",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 0373",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7klGSpWuI29RPlRlDjzDOr_35.849009_-86.487005@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585018,
+    "wof:geomhash":"7d6aa964be67489771719562b3e31dc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":773345941
+        }
+    ],
+    "wof:id":773345941,
+    "wof:lastmodified":1462585018,
+    "wof:name":"Subway",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -86.487005,
+    35.849009,
+    -86.487005,
+    35.849009
+],
+  "geometry": {"coordinates":[-86.487005,35.849009],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789771551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.29505,36.266376,-82.29505,36.266376",
+    "geom:latitude":36.266376,
+    "geom:longitude":-82.29505,
+    "iso:country":"US",
+    "sg:address":"123 Cedar St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 434 2485",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "handyman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723215,
+        102087053,
+        85851527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RPSDj0wbEJ8azfWmhIdJv_36.266376_-82.295050@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590413,
+    "wof:geomhash":"88af5dc970fc53a2f0a54865ef80ed65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101723215,
+            "neighbourhood_id":85851527,
+            "region_id":85688701,
+            "venue_id":789771551
+        }
+    ],
+    "wof:id":789771551,
+    "wof:lastmodified":1462590413,
+    "wof:name":"Castle Cleaners & Handyman Svc",
+    "wof:parent_id":85851527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handyman"
+    ]
+},
+  "bbox": [
+    -82.29505,
+    36.266376,
+    -82.29505,
+    36.266376
+],
+  "geometry": {"coordinates":[-82.29505,36.266376],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 790135071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.300984,36.276324,-82.300984,36.276324",
+    "geom:latitude":36.276324,
+    "geom:longitude":-82.300984,
+    "iso:country":"US",
+    "sg:address":"254 Rock House Rd",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 926 8499",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723215,
+        102087053,
+        85851527,
+        102191575,
+        101722757,
+        102086335,
+        85825537
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Qc8usHC9ZJX4RciA9OETN_36.276324_-82.300984@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593394,
+    "wof:geomhash":"deb77c3b10218d4da06537cf74347c21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101723215,
+            "neighbourhood_id":85851527,
+            "region_id":85688701,
+            "venue_id":790135071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85825537,
+            "region_id":85688701,
+            "venue_id":790135071
+        }
+    ],
+    "wof:id":790135071,
+    "wof:lastmodified":1462593394,
+    "wof:name":"Mike's Pump Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -82.300984,
+    36.276324,
+    -82.300984,
+    36.276324
+],
+  "geometry": {"coordinates":[-82.300984,36.276324],"type":"Point"}
+}

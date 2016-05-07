@@ -1,0 +1,73 @@
+{
+  "id": 789596083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.296371,36.329698,-89.296371,36.329698",
+    "geom:latitude":36.329698,
+    "geom:longitude":-89.296371,
+    "iso:country":"US",
+    "sg:address":"207 S Main St",
+    "sg:city":"Hornbeak",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 538 2501",
+    "sg:postcode":"38232",
+    "sg:province":"TN",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sQLyoh447dydybsxejBYq_36.329698_-89.296371@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589029,
+    "wof:geomhash":"e23a576361efd0ade3a5bb78ddf619ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":789596083
+        }
+    ],
+    "wof:id":789596083,
+    "wof:lastmodified":1462589029,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -89.296371,
+    36.329698,
+    -89.296371,
+    36.329698
+],
+  "geometry": {"coordinates":[-89.29637099999999,36.329698],"type":"Point"}
+}

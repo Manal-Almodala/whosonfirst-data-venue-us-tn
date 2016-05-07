@@ -1,0 +1,73 @@
+{
+  "id": 806777643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.56098,35.866309,-83.56098,35.866309",
+    "geom:latitude":35.866309,
+    "geom:longitude":-83.56098,
+    "iso:country":"US",
+    "sg:address":"162 Bruce St",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 3535",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "music",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85841771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xAnbmbszhuhkWSenbkWSD_35.866309_-83.560980@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600996,
+    "wof:geomhash":"8daca42c9ab3bfcf08e778e2cfa0a336",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85841771,
+            "region_id":85688701,
+            "venue_id":806777643
+        }
+    ],
+    "wof:id":806777643,
+    "wof:lastmodified":1462600996,
+    "wof:name":"Owens Music Group",
+    "wof:parent_id":85841771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "music",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -83.56098,
+    35.866309,
+    -83.56098,
+    35.866309
+],
+  "geometry": {"coordinates":[-83.56098,35.866309],"type":"Point"}
+}

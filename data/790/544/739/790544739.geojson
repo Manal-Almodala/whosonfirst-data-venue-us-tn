@@ -1,0 +1,71 @@
+{
+  "id": 790544739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.010776,35.652028,-87.010776,35.652028",
+    "geom:latitude":35.652028,
+    "geom:longitude":-87.010776,
+    "iso:country":"US",
+    "sg:address":"1600 Nashville Hwy",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 8965",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85844993,
+        102087107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bvb85bP0TY2L54xVvPOHS_35.652028_-87.010776@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596741,
+    "wof:geomhash":"95d155ed9f1b05a29226cbc29bf84866",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "neighbourhood_id":85844993,
+            "region_id":85688701,
+            "venue_id":790544739
+        }
+    ],
+    "wof:id":790544739,
+    "wof:lastmodified":1462596741,
+    "wof:name":"Columbia Pediatric Clinic Inc",
+    "wof:parent_id":85844993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.010776,
+    35.652028,
+    -87.010776,
+    35.652028
+],
+  "geometry": {"coordinates":[-87.01077600000001,35.652028],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 823243795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.571801,36.018307,-86.571801,36.018307",
+    "geom:latitude":36.018307,
+    "geom:longitude":-86.571801,
+    "iso:country":"US",
+    "sg:address":"5210 Murfreesboro Rd",
+    "sg:city":"La Vergne",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/smyrna/191712-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 793 7993",
+    "sg:postcode":"37086",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723113,
+        102086355,
+        420542085,
+        420541483
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cwiOAwnnOOwdQSSpbLZyv_36.018307_-86.571801@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609216,
+    "wof:geomhash":"cdf3f9d7e8331c475d28d48fcd0874fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723113,
+            "neighbourhood_id":420542085,
+            "region_id":85688701,
+            "venue_id":823243795
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723113,
+            "neighbourhood_id":420541483,
+            "region_id":85688701,
+            "venue_id":823243795
+        }
+    ],
+    "wof:id":823243795,
+    "wof:lastmodified":1462609216,
+    "wof:name":"Sonic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.571801,
+    36.018307,
+    -86.571801,
+    36.018307
+],
+  "geometry": {"coordinates":[-86.57180099999999,36.018307],"type":"Point"}
+}

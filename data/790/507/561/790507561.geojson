@@ -1,0 +1,73 @@
+{
+  "id": 790507561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.374042,36.378509,-82.374042,36.378509",
+    "geom:latitude":36.378509,
+    "geom:longitude":-82.374042,
+    "iso:country":"US",
+    "sg:address":"205 Clarendon Ln",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 282 2352",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85803991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Gl47qT485HwuBTtqQxk8D_36.378509_-82.374042@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596430,
+    "wof:geomhash":"eb9325c6a40a044ae91f84c9225d9136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85803991,
+            "region_id":85688701,
+            "venue_id":790507561
+        }
+    ],
+    "wof:id":790507561,
+    "wof:lastmodified":1462596430,
+    "wof:name":"Blue Ridge Electric Inc",
+    "wof:parent_id":85803991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -82.374042,
+    36.378509,
+    -82.374042,
+    36.378509
+],
+  "geometry": {"coordinates":[-82.374042,36.378509],"type":"Point"}
+}

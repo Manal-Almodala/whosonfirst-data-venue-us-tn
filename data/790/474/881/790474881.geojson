@@ -1,0 +1,78 @@
+{
+  "id": 790474881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.834148,35.895584,-83.834148,35.895584",
+    "geom:latitude":35.895584,
+    "geom:longitude":-83.834148,
+    "iso:country":"US",
+    "sg:address":"307 Tipton Station Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 577 1957",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trailer",
+        "freight"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85833365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OG3GUB4tK0qfAUWRKT0iQ_35.895584_-83.834148@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596149,
+    "wof:geomhash":"fc0a96b16dfff305c00273b70e1bcc69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85833365,
+            "region_id":85688701,
+            "venue_id":790474881
+        }
+    ],
+    "wof:id":790474881,
+    "wof:lastmodified":1462596149,
+    "wof:name":"Knoxviller Trailer Svc Corp",
+    "wof:parent_id":85833365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "freight"
+    ]
+},
+  "bbox": [
+    -83.834148,
+    35.895584,
+    -83.834148,
+    35.895584
+],
+  "geometry": {"coordinates":[-83.834148,35.895584],"type":"Point"}
+}

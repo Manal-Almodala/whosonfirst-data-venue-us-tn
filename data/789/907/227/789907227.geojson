@@ -1,0 +1,71 @@
+{
+  "id": 789907227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.11067,35.910914,-84.11067,35.910914",
+    "geom:latitude":35.910914,
+    "geom:longitude":-84.11067,
+    "iso:country":"US",
+    "sg:address":"227 Sherway Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 769 9040",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DM0Jb4VwBcDwVASj6PDrm_35.910914_-84.110670@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591503,
+    "wof:geomhash":"de9104931eac702cc0d2fd120365a9c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":789907227
+        }
+    ],
+    "wof:id":789907227,
+    "wof:lastmodified":1462591503,
+    "wof:name":"LNS Performance Motorcars",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.11067,
+    35.910914,
+    -84.11067,
+    35.910914
+],
+  "geometry": {"coordinates":[-84.11067,35.910914],"type":"Point"}
+}

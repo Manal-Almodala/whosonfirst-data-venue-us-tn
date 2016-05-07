@@ -1,0 +1,73 @@
+{
+  "id": 823175229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.632375,36.202828,-85.632375,36.202828",
+    "geom:latitude":36.202828,
+    "geom:longitude":-85.632375,
+    "iso:country":"US",
+    "sg:address":"6670 Martin Creek Rd",
+    "sg:city":"Bloomington Spgs",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 3271",
+    "sg:postcode":"38545",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72PHKIrIvOfwlvQkHAqfOO_36.202828_-85.632375@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608004,
+    "wof:geomhash":"cb960c5f6e455c5664c115b350bd36a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":823175229
+        }
+    ],
+    "wof:id":823175229,
+    "wof:lastmodified":1462608004,
+    "wof:name":"Bloomington Springs Waste Ctr",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -85.632375,
+    36.202828,
+    -85.632375,
+    36.202828
+],
+  "geometry": {"coordinates":[-85.632375,36.202828],"type":"Point"}
+}

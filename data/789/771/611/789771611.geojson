@@ -1,0 +1,73 @@
+{
+  "id": 789771611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.927701,35.457661,-85.927701,35.457661",
+    "geom:latitude":35.457661,
+    "geom:longitude":-85.927701,
+    "iso:country":"US",
+    "sg:address":"105 Meadows Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 649 3300",
+    "sg:postcode":"37342",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical",
+        "hospital",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kcil6CNbt7jbgVjAUCMSe_35.457661_-85.927701@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590413,
+    "wof:geomhash":"1bdf65d4507fbe00b3fa8119757cccfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":789771611
+        }
+    ],
+    "wof:id":789771611,
+    "wof:lastmodified":1462590413,
+    "wof:name":"Surgery Center Of Athens",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "hospital",
+        "general"
+    ]
+},
+  "bbox": [
+    -85.927701,
+    35.457661,
+    -85.927701,
+    35.457661
+],
+  "geometry": {"coordinates":[-85.927701,35.457661],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773506813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.25172,36.233393,-83.25172,36.233393",
+    "geom:latitude":36.233393,
+    "geom:longitude":-83.25172,
+    "iso:country":"US",
+    "sg:address":"511 Mc Ghee Ave",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 9282",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22YL8Mn7z6snyzRNmPR1qy_36.233393_-83.251720@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586251,
+    "wof:geomhash":"a244bd5226f2715a14fc925ccf1cec81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773506813
+        }
+    ],
+    "wof:id":773506813,
+    "wof:lastmodified":1462586251,
+    "wof:name":"Gibson Transport",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -83.25172,
+    36.233393,
+    -83.25172,
+    36.233393
+],
+  "geometry": {"coordinates":[-83.25172000000001,36.233393],"type":"Point"}
+}

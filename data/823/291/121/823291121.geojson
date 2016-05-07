@@ -1,0 +1,83 @@
+{
+  "id": 823291121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.870811,35.204189,-89.870811,35.204189",
+    "geom:latitude":35.204189,
+    "geom:longitude":-89.870811,
+    "iso:country":"US",
+    "sg:address":"5771 Stage Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 382 1242",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=5652&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HF8qrZw3aKR0zWrJaBHGn_35.204189_-89.870811@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610741,
+    "wof:geomhash":"ac5fa20cc97b175fd452eb7f88b1bc33",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":823291121
+        }
+    ],
+    "wof:id":823291121,
+    "wof:lastmodified":1462610741,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -89.870811,
+    35.204189,
+    -89.870811,
+    35.204189
+],
+  "geometry": {"coordinates":[-89.870811,35.204189],"type":"Point"}
+}

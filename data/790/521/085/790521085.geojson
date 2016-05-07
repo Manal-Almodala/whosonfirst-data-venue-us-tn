@@ -1,0 +1,71 @@
+{
+  "id": 790521085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.310249,35.82679,-83.310249,35.82679",
+    "geom:latitude":35.82679,
+    "geom:longitude":-83.310249,
+    "iso:country":"US",
+    "sg:address":"4554 Jones Cove Rd",
+    "sg:city":"Cosby",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 9325",
+    "sg:postcode":"37722",
+    "sg:province":"TN",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722579,
+        102086245,
+        85842013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aEy0RCRIjWFfmDABoGrN5_35.826790_-83.310249@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596550,
+    "wof:geomhash":"ed981bca4a156f173b3894deed7a3dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722579,
+            "neighbourhood_id":85842013,
+            "region_id":85688701,
+            "venue_id":790521085
+        }
+    ],
+    "wof:id":790521085,
+    "wof:lastmodified":1462596550,
+    "wof:name":"Jones Cove Elementary School",
+    "wof:parent_id":85842013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -83.310249,
+    35.82679,
+    -83.310249,
+    35.82679
+],
+  "geometry": {"coordinates":[-83.310249,35.82679],"type":"Point"}
+}

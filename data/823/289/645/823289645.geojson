@@ -1,0 +1,99 @@
+{
+  "id": 823289645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.899145,35.231248,-89.899145,35.231248",
+    "geom:latitude":35.231248,
+    "geom:longitude":-89.899145,
+    "iso:country":"US",
+    "sg:address":"3860 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 383 4848",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocers-wholesale",
+        "super"
+    ],
+    "sg:website":"http://www.scottsfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16t2BVk8hfCrWQUSpyty8e_35.231248_-89.899145@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610683,
+    "wof:geomhash":"0341296e0fdd7c3d8bd57ed6ff1747f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823289645
+        }
+    ],
+    "wof:id":823289645,
+    "wof:lastmodified":1462610683,
+    "wof:name":"Kroger-Memphis",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-wholesale",
+        "super"
+    ]
+},
+  "bbox": [
+    -89.899145,
+    35.231248,
+    -89.899145,
+    35.231248
+],
+  "geometry": {"coordinates":[-89.899145,35.231248],"type":"Point"}
+}

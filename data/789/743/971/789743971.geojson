@@ -1,0 +1,71 @@
+{
+  "id": 789743971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.812008,35.614118,-88.812008,35.614118",
+    "geom:latitude":35.614118,
+    "geom:longitude":-88.812008,
+    "iso:country":"US",
+    "sg:address":"500 E Main St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 423 1449",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nShc58joPgpbfjBS7XXBe_35.614118_-88.812008@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590207,
+    "wof:geomhash":"a179d31c68f55a440b8ebad3ce6d08a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":789743971
+        }
+    ],
+    "wof:id":789743971,
+    "wof:lastmodified":1462590207,
+    "wof:name":"Master Kuts Barber Shop",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -88.812008,
+    35.614118,
+    -88.812008,
+    35.614118
+],
+  "geometry": {"coordinates":[-88.81200800000001,35.614118],"type":"Point"}
+}

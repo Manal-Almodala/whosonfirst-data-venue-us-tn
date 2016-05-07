@@ -1,0 +1,73 @@
+{
+  "id": 823223941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.512649,36.177975,-86.512649,36.177975",
+    "geom:latitude":36.177975,
+    "geom:longitude":-86.512649,
+    "iso:country":"US",
+    "sg:address":"502 N Mount Juliet Rd",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 758 4480",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31el4MNpZ2uq45hzA2p2tA_36.177975_-86.512649@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608818,
+    "wof:geomhash":"7cc84b481f230ff7d5badec0444b4b37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":823223941
+        }
+    ],
+    "wof:id":823223941,
+    "wof:lastmodified":1462608818,
+    "wof:name":"Beacon Hill Electric",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.512649,
+    36.177975,
+    -86.512649,
+    36.177975
+],
+  "geometry": {"coordinates":[-86.512649,36.177975],"type":"Point"}
+}

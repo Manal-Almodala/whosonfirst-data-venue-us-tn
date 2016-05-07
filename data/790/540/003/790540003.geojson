@@ -1,0 +1,73 @@
+{
+  "id": 790540003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.594387,36.139677,-85.594387,36.139677",
+    "geom:latitude":36.139677,
+    "geom:longitude":-85.594387,
+    "iso:country":"US",
+    "sg:address":"2334 Mike Maxwell Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 432 6609",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "die",
+        "maker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58Yb0tRc6yU6E9UjQctAKL_36.139677_-85.594387@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596705,
+    "wof:geomhash":"811f59787db1a4a1fd5d58dd7d066c25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":790540003
+        }
+    ],
+    "wof:id":790540003,
+    "wof:lastmodified":1462596705,
+    "wof:name":"Custom Tool",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "die",
+        "maker"
+    ]
+},
+  "bbox": [
+    -85.594387,
+    36.139677,
+    -85.594387,
+    36.139677
+],
+  "geometry": {"coordinates":[-85.594387,36.139677],"type":"Point"}
+}

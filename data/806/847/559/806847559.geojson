@@ -1,0 +1,73 @@
+{
+  "id": 806847559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.166512,36.338466,-89.166512,36.338466",
+    "geom:latitude":36.338466,
+    "geom:longitude":-89.166512,
+    "iso:country":"US",
+    "sg:address":"316 W Harper St",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 536 4624",
+    "sg:postcode":"38260",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zKQkcusyCDjVycxPQTbgJ_36.338466_-89.166512@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601583,
+    "wof:geomhash":"b8f8fb3f3aa7af5aecfd341f429262a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":806847559
+        }
+    ],
+    "wof:id":806847559,
+    "wof:lastmodified":1462601583,
+    "wof:name":"Hill Clinic",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.166512,
+    36.338466,
+    -89.166512,
+    36.338466
+],
+  "geometry": {"coordinates":[-89.166512,36.338466],"type":"Point"}
+}

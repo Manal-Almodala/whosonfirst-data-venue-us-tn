@@ -1,0 +1,75 @@
+{
+  "id": 789753895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.902864,35.225667,-89.902864,35.225667",
+    "geom:latitude":35.225667,
+    "geom:longitude":-89.902864,
+    "iso:country":"US",
+    "sg:address":"3678 Arsenal St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 388 2820",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J57SQuJbL4Zzc50drqyzy_35.225667_-89.902864@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590283,
+    "wof:geomhash":"59caee4b4a88d66f6713397a1ccdf2d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789753895
+        }
+    ],
+    "wof:id":789753895,
+    "wof:lastmodified":1462590283,
+    "wof:name":"Benson Wc Trucking",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.902864,
+    35.225667,
+    -89.902864,
+    35.225667
+],
+  "geometry": {"coordinates":[-89.90286399999999,35.225667],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789641473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446202,36.380175,-86.446202,36.380175",
+    "geom:latitude":36.380175,
+    "geom:longitude":-86.446202,
+    "iso:country":"US",
+    "sg:address":"112 Maple St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 1733",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NpFXUtWCQhaFrQunCVJ9Y_36.380175_-86.446202@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589385,
+    "wof:geomhash":"fc4ef772609fc06894d973f749df300f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":789641473
+        }
+    ],
+    "wof:id":789641473,
+    "wof:lastmodified":1462589385,
+    "wof:name":"Thurman's Plumbing & Electric",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.446202,
+    36.380175,
+    -86.446202,
+    36.380175
+],
+  "geometry": {"coordinates":[-86.446202,36.380175],"type":"Point"}
+}

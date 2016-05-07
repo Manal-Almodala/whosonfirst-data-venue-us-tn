@@ -1,0 +1,75 @@
+{
+  "id": 789591173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.913037,35.161873,-89.913037,35.161873",
+    "geom:latitude":35.161873,
+    "geom:longitude":-89.913037,
+    "iso:country":"US",
+    "sg:address":"4475 Macon Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 761 2380",
+    "sg:postcode":"38122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hNAhNLkUpnSJvp8WYki1Z_35.161873_-89.913037@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588994,
+    "wof:geomhash":"251359488455c3a57476ac5976b6222b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":789591173
+        }
+    ],
+    "wof:id":789591173,
+    "wof:lastmodified":1462588994,
+    "wof:name":"Compact Auto Svc",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.913037,
+    35.161873,
+    -89.913037,
+    35.161873
+],
+  "geometry": {"coordinates":[-89.913037,35.161873],"type":"Point"}
+}

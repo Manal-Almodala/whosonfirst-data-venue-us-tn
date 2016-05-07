@@ -1,0 +1,73 @@
+{
+  "id": 806755407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.892957,35.2273,-89.892957,35.2273",
+    "geom:latitude":35.2273,
+    "geom:longitude":-89.892957,
+    "iso:country":"US",
+    "sg:address":"3789 Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 372 3200",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oHxLhL0XTGHy8p5QL0Fnz_35.227300_-89.892957@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600807,
+    "wof:geomhash":"3ee26febe30b211c1a2627578b6088ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":806755407
+        }
+    ],
+    "wof:id":806755407,
+    "wof:lastmodified":1462600807,
+    "wof:name":"Covington Pike Medical Clinic",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.892957,
+    35.2273,
+    -89.892957,
+    35.2273
+],
+  "geometry": {"coordinates":[-89.892957,35.2273],"type":"Point"}
+}

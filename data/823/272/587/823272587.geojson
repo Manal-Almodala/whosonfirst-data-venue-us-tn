@@ -1,0 +1,73 @@
+{
+  "id": 823272587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.221897,36.582478,-82.221897,36.582478",
+    "geom:latitude":36.582478,
+    "geom:longitude":-82.221897,
+    "iso:country":"US",
+    "sg:address":"2951 Broad St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 968 2612",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        420542203
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oP7DnPY9XTXaUY841eOd4_36.582478_-82.221897@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610011,
+    "wof:geomhash":"d3fffc4403d58300acc4ea7c5575e22f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":420542203,
+            "region_id":85688701,
+            "venue_id":823272587
+        }
+    ],
+    "wof:id":823272587,
+    "wof:lastmodified":1462610011,
+    "wof:name":"Bristol Residential Dev",
+    "wof:parent_id":420542203,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -82.221897,
+    36.582478,
+    -82.221897,
+    36.582478
+],
+  "geometry": {"coordinates":[-82.221897,36.582478],"type":"Point"}
+}

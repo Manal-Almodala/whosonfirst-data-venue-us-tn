@@ -1,0 +1,75 @@
+{
+  "id": 807193823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.670189,35.542382,-89.670189,35.542382",
+    "geom:latitude":35.542382,
+    "geom:longitude":-89.670189,
+    "iso:country":"US",
+    "sg:address":"155 Holly Grove Rd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 2407",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OSfm32Z05RTBoGGHuzdfS_35.542382_-89.670189@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604731,
+    "wof:geomhash":"2bcc1a947de69ec32d0c7c3c2770fb8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":807193823
+        }
+    ],
+    "wof:id":807193823,
+    "wof:lastmodified":1462604731,
+    "wof:name":"Mike's Auto Repair",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -89.670189,
+    35.542382,
+    -89.670189,
+    35.542382
+],
+  "geometry": {"coordinates":[-89.67018899999999,35.542382],"type":"Point"}
+}

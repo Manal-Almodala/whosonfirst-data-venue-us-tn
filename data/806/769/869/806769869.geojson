@@ -1,0 +1,73 @@
+{
+  "id": 806769869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.954438,35.908023,-83.954438,35.908023",
+    "geom:latitude":35.908023,
+    "geom:longitude":-83.954438,
+    "iso:country":"US",
+    "sg:address":"3114 Alcoa Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 577 0320",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85847793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61ttZUp6uq5plCNnGZHvgq_35.908023_-83.954438@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600928,
+    "wof:geomhash":"154f116a8bb035c2326f05c052b35aec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85847793,
+            "region_id":85688701,
+            "venue_id":806769869
+        }
+    ],
+    "wof:id":806769869,
+    "wof:lastmodified":1462600928,
+    "wof:name":"Lakemoor Family Physicians",
+    "wof:parent_id":85847793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.954438,
+    35.908023,
+    -83.954438,
+    35.908023
+],
+  "geometry": {"coordinates":[-83.954438,35.908023],"type":"Point"}
+}

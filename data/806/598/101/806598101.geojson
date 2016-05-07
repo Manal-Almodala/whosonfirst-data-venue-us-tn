@@ -1,0 +1,82 @@
+{
+  "id": 806598101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.253898,35.224573,-88.253898,35.224573",
+    "geom:latitude":35.224573,
+    "geom:longitude":-88.253898,
+    "iso:country":"US",
+    "sg:address":"315 Water St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 5989",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "be",
+        "station",
+        "gasoline",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yyH4WNY96WBe1eGiVfDuc_35.224573_-88.253898@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599472,
+    "wof:geomhash":"8d9ef3d4d06ce8b2943d572f001d3119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":806598101
+        }
+    ],
+    "wof:id":806598101,
+    "wof:lastmodified":1462599472,
+    "wof:name":"Quick-Pick",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "be",
+        "station",
+        "gasoline",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -88.253898,
+    35.224573,
+    -88.253898,
+    35.224573
+],
+  "geometry": {"coordinates":[-88.25389800000001,35.224573],"type":"Point"}
+}

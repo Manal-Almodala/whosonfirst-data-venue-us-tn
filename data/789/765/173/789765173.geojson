@@ -1,0 +1,75 @@
+{
+  "id": 789765173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.20032,35.89351,-84.20032,35.89351",
+    "geom:latitude":35.89351,
+    "geom:longitude":-84.20032,
+    "iso:country":"US",
+    "sg:address":"12215 Hatmaker Ln",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 966 1734",
+    "sg:postcode":"37932",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722867,
+        102086455,
+        85853837
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40F9Snvjir29skjbsWfxK7_35.893510_-84.200320@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590368,
+    "wof:geomhash":"8cc2b508d8b29bf6a1a930ee66733f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722867,
+            "neighbourhood_id":85853837,
+            "region_id":85688701,
+            "venue_id":789765173
+        }
+    ],
+    "wof:id":789765173,
+    "wof:lastmodified":1462590368,
+    "wof:name":"Westside Kennels",
+    "wof:parent_id":85853837,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.20032,
+    35.89351,
+    -84.20032,
+    35.89351
+],
+  "geometry": {"coordinates":[-84.20032,35.89351],"type":"Point"}
+}

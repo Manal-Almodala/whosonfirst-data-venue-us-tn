@@ -1,0 +1,71 @@
+{
+  "id": 807332343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.798136,36.019532,-83.798136,36.019532",
+    "geom:latitude":36.019532,
+    "geom:longitude":-83.798136,
+    "iso:country":"US",
+    "sg:address":"7009 Asheville Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 329 0003",
+    "sg:postcode":"37924",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43oIkYY994d2wMFknBWdmz_36.019532_-83.798136@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606224,
+    "wof:geomhash":"2b9ab7c765935f6dbab520c295153172",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":807332343
+        }
+    ],
+    "wof:id":807332343,
+    "wof:lastmodified":1462606224,
+    "wof:name":"Pet Doctor",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -83.798136,
+    36.019532,
+    -83.798136,
+    36.019532
+],
+  "geometry": {"coordinates":[-83.798136,36.019532],"type":"Point"}
+}

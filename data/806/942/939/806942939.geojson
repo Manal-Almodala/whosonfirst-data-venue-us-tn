@@ -1,0 +1,73 @@
+{
+  "id": 806942939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.560293,36.523427,-82.560293,36.523427",
+    "geom:latitude":36.523427,
+    "geom:longitude":-82.560293,
+    "iso:country":"US",
+    "sg:address":"1042 S Wilcox Dr",
+    "sg:city":"Kingsport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 578 2100",
+    "sg:postcode":"37660",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850717,
+        102086471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I2G21TncNbidgMcXGPsRF_36.523427_-82.560293@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602384,
+    "wof:geomhash":"4cd355ac3ca97b64a715adff3a18b998",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "neighbourhood_id":85850717,
+            "region_id":85688701,
+            "venue_id":806942939
+        }
+    ],
+    "wof:id":806942939,
+    "wof:lastmodified":1462602384,
+    "wof:name":"Body Shop",
+    "wof:parent_id":85850717,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -82.560293,
+    36.523427,
+    -82.560293,
+    36.523427
+],
+  "geometry": {"coordinates":[-82.560293,36.523427],"type":"Point"}
+}

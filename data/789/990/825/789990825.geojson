@@ -1,0 +1,73 @@
+{
+  "id": 789990825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.009446,35.508623,-85.009446,35.508623",
+    "geom:latitude":35.508623,
+    "geom:longitude":-85.009446,
+    "iso:country":"US",
+    "sg:address":"458 Yoakum St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 9453",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e1QxCBihlGypo1qB8lBVs_35.508623_-85.009446@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592254,
+    "wof:geomhash":"4a5c0b4fa6e2827d7ed4d5831a679753",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":789990825
+        }
+    ],
+    "wof:id":789990825,
+    "wof:lastmodified":1462592254,
+    "wof:name":"All In One Electric",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.009446,
+    35.508623,
+    -85.009446,
+    35.508623
+],
+  "geometry": {"coordinates":[-85.009446,35.508623],"type":"Point"}
+}

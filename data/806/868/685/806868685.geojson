@@ -1,0 +1,71 @@
+{
+  "id": 806868685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.783395,35.433589,-87.783395,35.433589",
+    "geom:latitude":35.433589,
+    "geom:longitude":-87.783395,
+    "iso:country":"US",
+    "sg:address":"291 Buck Branch Rd",
+    "sg:city":"Waynesboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 722 5921",
+    "sg:postcode":"38485",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85814781,
+        102087175
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h6bkAV6FMoAhr7XlSiXTt_35.433589_-87.783395@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601761,
+    "wof:geomhash":"f27b0034f5c1ba92c0c778a2fcae2770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087175,
+            "neighbourhood_id":85814781,
+            "region_id":85688701,
+            "venue_id":806868685
+        }
+    ],
+    "wof:id":806868685,
+    "wof:lastmodified":1462601761,
+    "wof:name":"Roadrunner Express",
+    "wof:parent_id":85814781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.783395,
+    35.433589,
+    -87.783395,
+    35.433589
+],
+  "geometry": {"coordinates":[-87.783395,35.433589],"type":"Point"}
+}

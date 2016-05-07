@@ -1,0 +1,73 @@
+{
+  "id": 806861825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.816008,35.579577,-88.816008,35.579577",
+    "geom:latitude":35.579577,
+    "geom:longitude":-88.816008,
+    "iso:country":"US",
+    "sg:address":"40 Bond St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 427 0060",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UalUXvVpmf0OcvT9ZOqY2_35.579577_-88.816008@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601704,
+    "wof:geomhash":"2ef3339d047ab18127303820b84d310a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":806861825
+        }
+    ],
+    "wof:id":806861825,
+    "wof:lastmodified":1462601704,
+    "wof:name":"Roger's Alternator & Starter",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.816008,
+    35.579577,
+    -88.816008,
+    35.579577
+],
+  "geometry": {"coordinates":[-88.816008,35.579577],"type":"Point"}
+}

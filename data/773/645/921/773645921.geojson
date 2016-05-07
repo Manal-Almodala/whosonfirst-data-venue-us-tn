@@ -1,0 +1,73 @@
+{
+  "id": 773645921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.030048,35.940317,-85.030048,35.940317",
+    "geom:latitude":35.940317,
+    "geom:longitude":-85.030048,
+    "iso:country":"US",
+    "sg:address":"493 Lantana Rd",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 707 8383",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TdenSIEQBOwVBiA9NkH10_35.940317_-85.030048@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587300,
+    "wof:geomhash":"340c437431c53c9fe20c142cb6c325fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":773645921
+        }
+    ],
+    "wof:id":773645921,
+    "wof:lastmodified":1462587300,
+    "wof:name":"Plateau Orthopedics",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.030048,
+    35.940317,
+    -85.030048,
+    35.940317
+],
+  "geometry": {"coordinates":[-85.03004799999999,35.940317],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806571053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.09764,35.46308,-86.09764,35.46308",
+    "geom:latitude":35.46308,
+    "geom:longitude":-86.09764,
+    "iso:country":"US",
+    "sg:address":"1404 Kingsway Ln",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 723 4028",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85857225
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PVIkXUVRcSuWtA5K8eTSp_35.463080_-86.097640@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599220,
+    "wof:geomhash":"55c778ab672f65eab940fa4718bce0bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85857225,
+            "region_id":85688701,
+            "venue_id":806571053
+        }
+    ],
+    "wof:id":806571053,
+    "wof:lastmodified":1462599220,
+    "wof:name":"Med Stat Ambulance Service",
+    "wof:parent_id":85857225,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -86.09764,
+    35.46308,
+    -86.09764,
+    35.46308
+],
+  "geometry": {"coordinates":[-86.09764,35.46308],"type":"Point"}
+}

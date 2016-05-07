@@ -1,0 +1,83 @@
+{
+  "id": 790259207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.345314,36.501349,-87.345314,36.501349",
+    "geom:latitude":36.501349,
+    "geom:longitude":-87.345314,
+    "iso:country":"US",
+    "sg:address":"1409 Ashland City Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 542 0801",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85809463,
+        85813201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CEPGHbKKU04t0Cw9FgRGC_36.501349_-87.345314@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594415,
+    "wof:geomhash":"2dd0fd9505c98977a5e8c545d35505cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85809463,
+            "region_id":85688701,
+            "venue_id":790259207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85813201,
+            "region_id":85688701,
+            "venue_id":790259207
+        }
+    ],
+    "wof:id":790259207,
+    "wof:lastmodified":1462594415,
+    "wof:name":"Dot's Truck Patch",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -87.345314,
+    36.501349,
+    -87.345314,
+    36.501349
+],
+  "geometry": {"coordinates":[-87.345314,36.501349],"type":"Point"}
+}

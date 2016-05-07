@@ -1,0 +1,71 @@
+{
+  "id": 789654559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.614366,35.459528,-84.614366,35.459528",
+    "geom:latitude":35.459528,
+    "geom:longitude":-84.614366,
+    "iso:country":"US",
+    "sg:address":"707 Congress Pkwy NW",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 4860",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85808247
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PE26lZUoR0naouYW19Mwc_35.459528_-84.614366@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589491,
+    "wof:geomhash":"aeb7fba4e693724b4ee3637349fd27d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85808247,
+            "region_id":85688701,
+            "venue_id":789654559
+        }
+    ],
+    "wof:id":789654559,
+    "wof:lastmodified":1462589491,
+    "wof:name":"Colonial Baking Co",
+    "wof:parent_id":85808247,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -84.614366,
+    35.459528,
+    -84.614366,
+    35.459528
+],
+  "geometry": {"coordinates":[-84.614366,35.459528],"type":"Point"}
+}

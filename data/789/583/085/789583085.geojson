@@ -1,0 +1,71 @@
+{
+  "id": 789583085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.086503,35.903594,-84.086503,35.903594",
+    "geom:latitude":35.903594,
+    "geom:longitude":-84.086503,
+    "iso:country":"US",
+    "sg:address":"753 Elkmont Rd SW",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 591 8017",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xEmWw9h0wFsvTuGizFNkJ_35.903594_-84.086503@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588930,
+    "wof:geomhash":"8f1eaa2b664fc77b0923b47ab053d555",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":789583085
+        }
+    ],
+    "wof:id":789583085,
+    "wof:lastmodified":1462588930,
+    "wof:name":"Wheeler Auto Detail",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -84.086503,
+    35.903594,
+    -84.086503,
+    35.903594
+],
+  "geometry": {"coordinates":[-84.08650299999999,35.903594],"type":"Point"}
+}

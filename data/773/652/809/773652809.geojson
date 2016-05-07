@@ -1,0 +1,83 @@
+{
+  "id": 773652809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.012846,35.192319,-87.012846,35.192319",
+    "geom:latitude":35.192319,
+    "geom:longitude":-87.012846,
+    "iso:country":"US",
+    "sg:address":"104 Ivy Ln",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 424 1330",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0a1AQa3scPAdQnq7DLPJex_35.192319_-87.012846@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587346,
+    "wof:geomhash":"85adf1785dc63af59f95419d5b17304e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":773652809
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":773652809
+        }
+    ],
+    "wof:id":773652809,
+    "wof:lastmodified":1462587346,
+    "wof:name":"Eastside Family Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -87.012846,
+    35.192319,
+    -87.012846,
+    35.192319
+],
+  "geometry": {"coordinates":[-87.012846,35.192319],"type":"Point"}
+}

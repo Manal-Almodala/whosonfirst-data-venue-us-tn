@@ -1,0 +1,71 @@
+{
+  "id": 790177733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.46979,36.298008,-82.46979,36.298008",
+    "geom:latitude":36.298008,
+    "geom:longitude":-82.46979,
+    "iso:country":"US",
+    "sg:address":"140 Boone St",
+    "sg:city":"Jonesborough",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 753 8237",
+    "sg:postcode":"37659",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722753,
+        102086335,
+        85822827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22wcgZUylz0bhurjvdpHDz_36.298008_-82.469790@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593755,
+    "wof:geomhash":"ce9060a12a26870f1960ab72004dd846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722753,
+            "neighbourhood_id":85822827,
+            "region_id":85688701,
+            "venue_id":790177733
+        }
+    ],
+    "wof:id":790177733,
+    "wof:lastmodified":1462593755,
+    "wof:name":"Jerry's Towing Svc",
+    "wof:parent_id":85822827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -82.46979,
+    36.298008,
+    -82.46979,
+    36.298008
+],
+  "geometry": {"coordinates":[-82.46979,36.298008],"type":"Point"}
+}

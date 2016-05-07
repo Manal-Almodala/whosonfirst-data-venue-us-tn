@@ -1,0 +1,74 @@
+{
+  "id": 823257307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.502164,36.13902,-85.502164,36.13902",
+    "geom:latitude":36.13902,
+    "geom:longitude":-85.502164,
+    "iso:country":"US",
+    "sg:address":"957 S Jefferson Ave",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/cookeville/215011-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 526 3615",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dZ29MIdpyS9MH5nlDJ9d6_36.139020_-85.502164@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609482,
+    "wof:geomhash":"167acbe41da7d1354d85255254436ddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":823257307
+        }
+    ],
+    "wof:id":823257307,
+    "wof:lastmodified":1462609482,
+    "wof:name":"Burger King",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.502164,
+    36.13902,
+    -85.502164,
+    36.13902
+],
+  "geometry": {"coordinates":[-85.50216399999999,36.13902],"type":"Point"}
+}

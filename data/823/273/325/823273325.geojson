@@ -1,0 +1,94 @@
+{
+  "id": 823273325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.976275,35.827728,-83.976275,35.827728",
+    "geom:latitude":35.827728,
+    "geom:longitude":-83.976275,
+    "iso:country":"US",
+    "sg:address":"3075 Lois Ln",
+    "sg:city":"Alcoa",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 984 5620",
+    "sg:postcode":"37701",
+    "sg:province":"TN",
+    "sg:tags":[
+        "emergency",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel"
+    ],
+    "sg:website":"http://www.mypetsanimalhospital.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722709,
+        102087017,
+        85819017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eqFEnwyolephfar2SCH3l_35.827728_-83.976275@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610046,
+    "wof:geomhash":"f9d3aeb56307315bc3f692e46fb023bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722709,
+            "neighbourhood_id":85819017,
+            "region_id":85688701,
+            "venue_id":823273325
+        }
+    ],
+    "wof:id":823273325,
+    "wof:lastmodified":1462610046,
+    "wof:name":"My Pets Animal Hospital",
+    "wof:parent_id":85819017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emergency",
+        "hospital",
+        "specialty",
+        "clinic",
+        "veterinarian",
+        "grooming",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -83.976275,
+    35.827728,
+    -83.976275,
+    35.827728
+],
+  "geometry": {"coordinates":[-83.976275,35.827728],"type":"Point"}
+}

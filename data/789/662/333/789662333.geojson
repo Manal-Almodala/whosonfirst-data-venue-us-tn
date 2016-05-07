@@ -1,0 +1,73 @@
+{
+  "id": 789662333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.750184,36.174876,-86.750184,36.174876",
+    "geom:latitude":36.174876,
+    "geom:longitude":-86.750184,
+    "iso:country":"US",
+    "sg:address":"221 S 11th St",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 228 8971",
+    "sg:postcode":"37206",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85816591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GlvGsIjLYmVaiBMZ4c4WU_36.174876_-86.750184@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589563,
+    "wof:geomhash":"fa8810385d085dc364217e33b8b50ac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85816591,
+            "region_id":85688701,
+            "venue_id":789662333
+        }
+    ],
+    "wof:id":789662333,
+    "wof:lastmodified":1462589563,
+    "wof:name":"Bill Martin's Food Store",
+    "wof:parent_id":85816591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -86.750184,
+    36.174876,
+    -86.750184,
+    36.174876
+],
+  "geometry": {"coordinates":[-86.750184,36.174876],"type":"Point"}
+}

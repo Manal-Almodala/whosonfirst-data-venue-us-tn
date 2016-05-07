@@ -1,0 +1,71 @@
+{
+  "id": 807291449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.364011,35.740403,-86.364011,35.740403",
+    "geom:latitude":35.740403,
+    "geom:longitude":-86.364011,
+    "iso:country":"US",
+    "sg:address":"4639 Wayside Rd",
+    "sg:city":"Christiana",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 848 0169",
+    "sg:postcode":"37037",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xTXCUSCYnQIgDE9Lpqzdw_35.740403_-86.364011@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605759,
+    "wof:geomhash":"d311436f7e6f53c066b123d7a63f375d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":807291449
+        }
+    ],
+    "wof:id":807291449,
+    "wof:lastmodified":1462605759,
+    "wof:name":"I-24 Truck Repair",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -86.364011,
+    35.740403,
+    -86.364011,
+    35.740403
+],
+  "geometry": {"coordinates":[-86.364011,35.740403],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 806585825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.24235,35.092601,-85.24235,35.092601",
+    "geom:latitude":35.092601,
+    "geom:longitude":-85.24235,
+    "iso:country":"US",
+    "sg:address":"4146 S Creek Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 698 1401",
+    "sg:postcode":"37406",
+    "sg:province":"TN",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85804737,
+        85828409
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xEOZli9gpKFNoRBBLI5oK_35.092601_-85.242350@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599364,
+    "wof:geomhash":"af75c5d9504a569b70a48ffcdd0800b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85804737,
+            "region_id":85688701,
+            "venue_id":806585825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85828409,
+            "region_id":85688701,
+            "venue_id":806585825
+        }
+    ],
+    "wof:id":806585825,
+    "wof:lastmodified":1462599364,
+    "wof:name":"Zeco Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -85.24235,
+    35.092601,
+    -85.24235,
+    35.092601
+],
+  "geometry": {"coordinates":[-85.24235,35.092601],"type":"Point"}
+}

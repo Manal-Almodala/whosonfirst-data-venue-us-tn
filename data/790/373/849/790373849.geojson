@@ -1,0 +1,78 @@
+{
+  "id": 790373849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.95022,35.052146,-89.95022,35.052146",
+    "geom:latitude":35.052146,
+    "geom:longitude":-89.95022,
+    "iso:country":"US",
+    "sg:address":"3367 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 363 6380",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85839073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lXgQYLfivkgHfKK4pHxwx_35.052146_-89.950220@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595336,
+    "wof:geomhash":"0a9631d8e89fca32d38393d54cdff367",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85839073,
+            "region_id":85688701,
+            "venue_id":790373849
+        }
+    ],
+    "wof:id":790373849,
+    "wof:lastmodified":1462595336,
+    "wof:name":"Mapco Express",
+    "wof:parent_id":85839073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -89.95022,
+    35.052146,
+    -89.95022,
+    35.052146
+],
+  "geometry": {"coordinates":[-89.95022,35.052146],"type":"Point"}
+}

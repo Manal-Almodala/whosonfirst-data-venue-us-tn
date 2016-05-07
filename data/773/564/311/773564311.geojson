@@ -1,0 +1,71 @@
+{
+  "id": 773564311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.642628,36.154188,-85.642628,36.154188",
+    "geom:latitude":36.154188,
+    "geom:longitude":-85.642628,
+    "iso:country":"US",
+    "sg:address":"200 Main St",
+    "sg:city":"Baxter",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 4111",
+    "sg:postcode":"38544",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yVt0Wcyeo759hhMDCnntI_36.154188_-85.642628@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586683,
+    "wof:geomhash":"839693bfa4243e5ffc46b5985a7d58af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":773564311
+        }
+    ],
+    "wof:id":773564311,
+    "wof:lastmodified":1462586683,
+    "wof:name":"Baxter Police Dept",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.642628,
+    36.154188,
+    -85.642628,
+    36.154188
+],
+  "geometry": {"coordinates":[-85.642628,36.154188],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773189011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.27739,36.219932,-83.27739,36.219932",
+    "geom:latitude":36.219932,
+    "geom:longitude":-83.27739,
+    "iso:country":"US",
+    "sg:address":"1632 Morningside Dr",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 9011",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BGTWagu1GXumZC0kfLv4P_36.219932_-83.277390@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583839,
+    "wof:geomhash":"0253bebbd59ac94cd31f0f18ac14104f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773189011
+        }
+    ],
+    "wof:id":773189011,
+    "wof:lastmodified":1462583839,
+    "wof:name":"Clean/Tech",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.27739,
+    36.219932,
+    -83.27739,
+    36.219932
+],
+  "geometry": {"coordinates":[-83.27739,36.219932],"type":"Point"}
+}

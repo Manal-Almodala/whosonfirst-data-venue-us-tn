@@ -1,0 +1,74 @@
+{
+  "id": 823251091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.288295,36.231319,-83.288295,36.231319",
+    "geom:latitude":36.231319,
+    "geom:longitude":-83.288295,
+    "iso:country":"US",
+    "sg:address":"1594 Buffalo Trl",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/morristown/203597-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 585 8431",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N2BQKaT2qwbNe4rcZW1bs_36.231319_-83.288295@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609355,
+    "wof:geomhash":"92d9cebda2ffbb96028223861a99a361",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":823251091
+        }
+    ],
+    "wof:id":823251091,
+    "wof:lastmodified":1462609355,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.288295,
+    36.231319,
+    -83.288295,
+    36.231319
+],
+  "geometry": {"coordinates":[-83.28829500000001,36.231319],"type":"Point"}
+}

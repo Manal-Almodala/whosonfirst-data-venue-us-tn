@@ -1,0 +1,76 @@
+{
+  "id": 823249023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.366698,36.380151,-82.366698,36.380151",
+    "geom:latitude":36.380151,
+    "geom:longitude":-82.366698,
+    "iso:country":"US",
+    "sg:address":"3732 Bristol Hwy",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/johnson-city/173188-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 282 9307",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722757,
+        102086335,
+        85803991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ciYyXei7NYFgNCeIIlMub_36.380151_-82.366698@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609315,
+    "wof:geomhash":"83019d309d9a7f3a07cb4e2de02ed2df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85803991,
+            "region_id":85688701,
+            "venue_id":823249023
+        }
+    ],
+    "wof:id":823249023,
+    "wof:lastmodified":1462609315,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85803991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -82.366698,
+    36.380151,
+    -82.366698,
+    36.380151
+],
+  "geometry": {"coordinates":[-82.366698,36.380151],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807122847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.186252,36.329198,-84.186252,36.329198",
+    "geom:latitude":36.329198,
+    "geom:longitude":-84.186252,
+    "iso:country":"US",
+    "sg:address":"1062 Main St",
+    "sg:city":"Jacksboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 562 3008",
+    "sg:postcode":"37757",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722415,
+        102086391,
+        85841731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K16LGW2fJxIg4aSL4paOn_36.329198_-84.186252@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603970,
+    "wof:geomhash":"cd48fe745744d1ea359c3ddada05279e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086391,
+            "locality_id":101722415,
+            "neighbourhood_id":85841731,
+            "region_id":85688701,
+            "venue_id":807122847
+        }
+    ],
+    "wof:id":807122847,
+    "wof:lastmodified":1462603970,
+    "wof:name":"Pinpoint Auto Repair",
+    "wof:parent_id":85841731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.186252,
+    36.329198,
+    -84.186252,
+    36.329198
+],
+  "geometry": {"coordinates":[-84.186252,36.329198],"type":"Point"}
+}

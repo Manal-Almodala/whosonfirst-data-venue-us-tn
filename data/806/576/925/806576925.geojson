@@ -1,0 +1,71 @@
+{
+  "id": 806576925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.332813,36.219542,-86.332813,36.219542",
+    "geom:latitude":36.219542,
+    "geom:longitude":-86.332813,
+    "iso:country":"US",
+    "sg:address":"1430 W Baddour Pkwy",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 3453",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pisfV9kO4Nbm6xTFBsCtL_36.219542_-86.332813@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599285,
+    "wof:geomhash":"3608ffc5873162ba18a133d870c4af90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":806576925
+        }
+    ],
+    "wof:id":806576925,
+    "wof:lastmodified":1462599285,
+    "wof:name":"Clinical Research Ctr-Tn",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -86.332813,
+    36.219542,
+    -86.332813,
+    36.219542
+],
+  "geometry": {"coordinates":[-86.332813,36.219542],"type":"Point"}
+}

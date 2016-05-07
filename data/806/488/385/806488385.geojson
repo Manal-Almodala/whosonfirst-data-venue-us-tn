@@ -1,0 +1,73 @@
+{
+  "id": 806488385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.244562,35.199585,-88.244562,35.199585",
+    "geom:latitude":35.199585,
+    "geom:longitude":-88.244562,
+    "iso:country":"US",
+    "sg:address":"10530 State Hwy 128",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 8120",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722587,
+        102086329,
+        420541773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QvNXKPflc9FJWbJIec0cW_35.199585_-88.244562@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598531,
+    "wof:geomhash":"121b83bef51c32c23f59e522ddf30203",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":420541773,
+            "region_id":85688701,
+            "venue_id":806488385
+        }
+    ],
+    "wof:id":806488385,
+    "wof:lastmodified":1462598531,
+    "wof:name":"Animal Hospital",
+    "wof:parent_id":420541773,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -88.244562,
+    35.199585,
+    -88.244562,
+    35.199585
+],
+  "geometry": {"coordinates":[-88.244562,35.199585],"type":"Point"}
+}

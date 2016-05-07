@@ -1,0 +1,73 @@
+{
+  "id": 806403509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.596143,36.309452,-86.596143,36.309452",
+    "geom:latitude":36.309452,
+    "geom:longitude":-86.596143,
+    "iso:country":"US",
+    "sg:address":"101 Maple Dr",
+    "sg:city":"Hendersonville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 826 3000",
+    "sg:postcode":"37075",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723169,
+        102086357,
+        85852065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aCkCsUSbKDRBDmkHeGRE5_36.309452_-86.596143@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597865,
+    "wof:geomhash":"66fac832417acae00c0549d46c5e05b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85852065,
+            "region_id":85688701,
+            "venue_id":806403509
+        }
+    ],
+    "wof:id":806403509,
+    "wof:lastmodified":1462597865,
+    "wof:name":"Anthony V Dallas",
+    "wof:parent_id":85852065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.596143,
+    36.309452,
+    -86.596143,
+    36.309452
+],
+  "geometry": {"coordinates":[-86.596143,36.309452],"type":"Point"}
+}

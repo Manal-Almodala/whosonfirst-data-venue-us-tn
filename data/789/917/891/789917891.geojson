@@ -1,0 +1,75 @@
+{
+  "id": 789917891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.631524,36.510104,-86.631524,36.510104",
+    "geom:latitude":36.510104,
+    "geom:longitude":-86.631524,
+    "iso:country":"US",
+    "sg:address":"220 Bowling Branch Rd",
+    "sg:city":"Cottontown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 545 8891",
+    "sg:postcode":"37048",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723169,
+        102086357,
+        85825691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZcVce8m6xyXlYALo7CGZJ_36.510104_-86.631524@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591607,
+    "wof:geomhash":"009390f2a4ca170bdb7b65b4f7484795",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85825691,
+            "region_id":85688701,
+            "venue_id":789917891
+        }
+    ],
+    "wof:id":789917891,
+    "wof:lastmodified":1462591607,
+    "wof:name":"AAA Auto Glass",
+    "wof:parent_id":85825691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "installation",
+        "glass"
+    ]
+},
+  "bbox": [
+    -86.631524,
+    36.510104,
+    -86.631524,
+    36.510104
+],
+  "geometry": {"coordinates":[-86.631524,36.510104],"type":"Point"}
+}

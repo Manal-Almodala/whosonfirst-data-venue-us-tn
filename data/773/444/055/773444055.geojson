@@ -1,0 +1,71 @@
+{
+  "id": 773444055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.0149,35.49172,-85.0149,35.49172",
+    "geom:latitude":35.49172,
+    "geom:longitude":-85.0149,
+    "iso:country":"US",
+    "sg:address":"1298 Market St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 570 7111",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QvpJUKrXkI5JCO6bN4Vgi_35.491720_-85.014900@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585793,
+    "wof:geomhash":"e7f4c579564049817eaf37f76c22493a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":773444055
+        }
+    ],
+    "wof:id":773444055,
+    "wof:lastmodified":1462585793,
+    "wof:name":"Market Street Pawn",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -85.0149,
+    35.49172,
+    -85.0149,
+    35.49172
+],
+  "geometry": {"coordinates":[-85.0149,35.49172],"type":"Point"}
+}

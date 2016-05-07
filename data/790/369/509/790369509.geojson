@@ -1,0 +1,73 @@
+{
+  "id": 790369509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.027214,35.480526,-85.027214,35.480526",
+    "geom:latitude":35.480526,
+    "geom:longitude":-85.027214,
+    "iso:country":"US",
+    "sg:address":"270 Railroad St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 1871",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mgRVsJ3gUdZJrMFRXCJeC_35.480526_-85.027214@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595302,
+    "wof:geomhash":"63b6d40e2cc3adcbe9bf07c403f26062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":790369509
+        }
+    ],
+    "wof:id":790369509,
+    "wof:lastmodified":1462595302,
+    "wof:name":"Dayton Housing Authority",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -85.027214,
+    35.480526,
+    -85.027214,
+    35.480526
+],
+  "geometry": {"coordinates":[-85.027214,35.480526],"type":"Point"}
+}

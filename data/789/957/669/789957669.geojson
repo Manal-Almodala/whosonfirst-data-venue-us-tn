@@ -1,0 +1,75 @@
+{
+  "id": 789957669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.903516,35.883327,-83.903516,35.883327",
+    "geom:latitude":35.883327,
+    "geom:longitude":-83.903516,
+    "iso:country":"US",
+    "sg:address":"7616 Burleson Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 577 8055",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85835143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wC9D0fl8Qc2ro0kQJSHXr_35.883327_-83.903516@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591978,
+    "wof:geomhash":"0af1299f77bf2b3b05e633b03eefc719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85835143,
+            "region_id":85688701,
+            "venue_id":789957669
+        }
+    ],
+    "wof:id":789957669,
+    "wof:lastmodified":1462591978,
+    "wof:name":"N Town Delivery",
+    "wof:parent_id":85835143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.903516,
+    35.883327,
+    -83.903516,
+    35.883327
+],
+  "geometry": {"coordinates":[-83.903516,35.883327],"type":"Point"}
+}

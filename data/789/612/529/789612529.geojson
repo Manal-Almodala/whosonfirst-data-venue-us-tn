@@ -1,0 +1,73 @@
+{
+  "id": 789612529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.477707,35.954299,-85.477707,35.954299",
+    "geom:latitude":35.954299,
+    "geom:longitude":-85.477707,
+    "iso:country":"US",
+    "sg:address":"463 N Spring St",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 836 6275",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44FgXJErHSrPKqQ4wrZmpC_35.954299_-85.477707@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589155,
+    "wof:geomhash":"20d33762e7302ad1389ca215e2648422",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":789612529
+        }
+    ],
+    "wof:id":789612529,
+    "wof:lastmodified":1462589155,
+    "wof:name":"Benningfield Electronics",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -85.477707,
+    35.954299,
+    -85.477707,
+    35.954299
+],
+  "geometry": {"coordinates":[-85.477707,35.954299],"type":"Point"}
+}

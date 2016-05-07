@@ -1,0 +1,73 @@
+{
+  "id": 807088559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.866426,35.170254,-89.866426,35.170254",
+    "geom:latitude":35.170254,
+    "geom:longitude":-89.866426,
+    "iso:country":"US",
+    "sg:address":"1646 Sycamore View Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 382 3472",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PjxK9csaivqvSXhWCO4Fp_35.170254_-89.866426@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603605,
+    "wof:geomhash":"563b7d93c09a5cd2e2a70f8bc12e7946",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":807088559
+        }
+    ],
+    "wof:id":807088559,
+    "wof:lastmodified":1462603605,
+    "wof:name":"Animal Clinic-Sycamore View",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -89.866426,
+    35.170254,
+    -89.866426,
+    35.170254
+],
+  "geometry": {"coordinates":[-89.866426,35.170254],"type":"Point"}
+}

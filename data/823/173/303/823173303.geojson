@@ -1,0 +1,73 @@
+{
+  "id": 823173303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.541195,36.126552,-85.541195,36.126552",
+    "geom:latitude":36.126552,
+    "geom:longitude":-85.541195,
+    "iso:country":"US",
+    "sg:address":"1640 Lee Seminary Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 683 6650",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sqagGRfCCrloKg0fn2iJs_36.126552_-85.541195@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607973,
+    "wof:geomhash":"829174dda28a9c55cab4fba457109ee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":823173303
+        }
+    ],
+    "wof:id":823173303,
+    "wof:lastmodified":1462607973,
+    "wof:name":"Tallent's Auto Repair",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.541195,
+    36.126552,
+    -85.541195,
+    36.126552
+],
+  "geometry": {"coordinates":[-85.541195,36.126552],"type":"Point"}
+}

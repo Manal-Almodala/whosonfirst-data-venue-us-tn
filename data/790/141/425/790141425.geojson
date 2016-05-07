@@ -1,0 +1,73 @@
+{
+  "id": 790141425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.243337,35.225053,-88.243337,35.225053",
+    "geom:latitude":35.225053,
+    "geom:longitude":-88.243337,
+    "iso:country":"US",
+    "sg:address":"1010 Wayne Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 7210",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5G3TSYntxPrImHUUAm56cb_35.225053_-88.243337@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593442,
+    "wof:geomhash":"0364273b345fb95172ac7d7adc8bd602",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":790141425
+        }
+    ],
+    "wof:id":790141425,
+    "wof:lastmodified":1462593442,
+    "wof:name":"Hughes Eye Ctr",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.243337,
+    35.225053,
+    -88.243337,
+    35.225053
+],
+  "geometry": {"coordinates":[-88.243337,35.225053],"type":"Point"}
+}

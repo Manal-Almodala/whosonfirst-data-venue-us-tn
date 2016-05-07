@@ -1,0 +1,74 @@
+{
+  "id": 823252885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.019395,36.006072,-84.019395,36.006072",
+    "geom:latitude":36.006072,
+    "geom:longitude":-84.019395,
+    "iso:country":"US",
+    "sg:address":"2750 Schaad Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/166306-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 947 2906",
+    "sg:postcode":"37921",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GmOY1uRv84jI5RvmCChPv_36.006072_-84.019395@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609401,
+    "wof:geomhash":"01c7439773f8faa054bf797472cdd31a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":823252885
+        }
+    ],
+    "wof:id":823252885,
+    "wof:lastmodified":1462609401,
+    "wof:name":"Arby's",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.019395,
+    36.006072,
+    -84.019395,
+    36.006072
+],
+  "geometry": {"coordinates":[-84.019395,36.006072],"type":"Point"}
+}

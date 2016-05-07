@@ -1,0 +1,80 @@
+{
+  "id": 806634079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.458006,35.73813,-83.458006,35.73813",
+    "geom:latitude":35.73813,
+    "geom:longitude":-83.458006,
+    "iso:country":"US",
+    "sg:address":"416 King Rd",
+    "sg:city":"Gatlinburg",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 436 5315",
+    "sg:postcode":"37738",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance",
+        "special",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722585,
+        102086245,
+        85821619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZI6VfZqXny5aRqSGJnbgj_35.738130_-83.458006@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599769,
+    "wof:geomhash":"73de24bba70e7c55937798c7949deaf0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722585,
+            "neighbourhood_id":85821619,
+            "region_id":85688701,
+            "venue_id":806634079
+        }
+    ],
+    "wof:id":806634079,
+    "wof:lastmodified":1462599769,
+    "wof:name":"King Electric Svc",
+    "wof:parent_id":85821619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "special",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.458006,
+    35.73813,
+    -83.458006,
+    35.73813
+],
+  "geometry": {"coordinates":[-83.458006,35.73813],"type":"Point"}
+}

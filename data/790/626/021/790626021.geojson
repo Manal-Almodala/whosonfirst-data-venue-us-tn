@@ -1,0 +1,71 @@
+{
+  "id": 790626021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.677613,35.525599,-89.677613,35.525599",
+    "geom:latitude":35.525599,
+    "geom:longitude":-89.677613,
+    "iso:country":"US",
+    "sg:address":"396 Junior Dr",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 0064",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_308aZIRnthmt6mvutSQzXt_35.525599_-89.677613@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597468,
+    "wof:geomhash":"903e714a15eb5002d6968f15ee3906ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790626021
+        }
+    ],
+    "wof:id":790626021,
+    "wof:lastmodified":1462597468,
+    "wof:name":"C & C Transmissions",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -89.677613,
+    35.525599,
+    -89.677613,
+    35.525599
+],
+  "geometry": {"coordinates":[-89.67761299999999,35.525599],"type":"Point"}
+}

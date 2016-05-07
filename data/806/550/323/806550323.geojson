@@ -1,0 +1,73 @@
+{
+  "id": 806550323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.948459,35.547168,-84.948459,35.547168",
+    "geom:latitude":35.547168,
+    "geom:longitude":-84.948459,
+    "iso:country":"US",
+    "sg:address":"1247 Oak Hill Rd",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 0603",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V8aCO1rqHkUexeuw3rka5_35.547168_-84.948459@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599037,
+    "wof:geomhash":"79068e22378f3bba7ed8f58b529aa425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":806550323
+        }
+    ],
+    "wof:id":806550323,
+    "wof:lastmodified":1462599037,
+    "wof:name":"D&K Trucking",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.948459,
+    35.547168,
+    -84.948459,
+    35.547168
+],
+  "geometry": {"coordinates":[-84.948459,35.547168],"type":"Point"}
+}

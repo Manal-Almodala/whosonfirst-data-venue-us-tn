@@ -1,0 +1,73 @@
+{
+  "id": 806923993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.55149,35.935765,-84.55149,35.935765",
+    "geom:latitude":35.935765,
+    "geom:longitude":-84.55149,
+    "iso:country":"US",
+    "sg:address":"415 Devonia St",
+    "sg:city":"Harriman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 692 9111",
+    "sg:postcode":"37748",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722695,
+        102087051,
+        85841801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36cpGQ7Q09VPfxIIT0D6rc_35.935765_-84.551490@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602225,
+    "wof:geomhash":"7daed6face6006a21f807ac0bbc89bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101722695,
+            "neighbourhood_id":85841801,
+            "region_id":85688701,
+            "venue_id":806923993
+        }
+    ],
+    "wof:id":806923993,
+    "wof:lastmodified":1462602225,
+    "wof:name":"Mazen A Hatab MD",
+    "wof:parent_id":85841801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.55149,
+    35.935765,
+    -84.55149,
+    35.935765
+],
+  "geometry": {"coordinates":[-84.55149,35.935765],"type":"Point"}
+}

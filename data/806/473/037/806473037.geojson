@@ -1,0 +1,71 @@
+{
+  "id": 806473037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.500646,36.545246,-87.500646,36.545246",
+    "geom:latitude":36.545246,
+    "geom:longitude":-87.500646,
+    "iso:country":"US",
+    "sg:address":"2172 Dover Rd",
+    "sg:city":"Woodlawn",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 552 2921",
+    "sg:postcode":"37191",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85805437,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xDEiLcsnnJ60v0XH6MtG8_36.545246_-87.500646@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598409,
+    "wof:geomhash":"e1e8c33e01b014807540d86fa2431999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85805437,
+            "region_id":85688701,
+            "venue_id":806473037
+        }
+    ],
+    "wof:id":806473037,
+    "wof:lastmodified":1462598409,
+    "wof:name":"Woodlawn Utility District",
+    "wof:parent_id":85805437,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -87.500646,
+    36.545246,
+    -87.500646,
+    36.545246
+],
+  "geometry": {"coordinates":[-87.500646,36.545246],"type":"Point"}
+}

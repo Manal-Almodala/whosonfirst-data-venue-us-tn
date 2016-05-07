@@ -1,0 +1,73 @@
+{
+  "id": 823178935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.974966,35.130979,-89.974966,35.130979",
+    "geom:latitude":35.130979,
+    "geom:longitude":-89.974966,
+    "iso:country":"US",
+    "sg:address":"2668 Avery Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 458 2112",
+    "sg:postcode":"38112",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85803961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xb3CuRm0L3vbH2CKS3K0Y_35.130979_-89.974966@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608050,
+    "wof:geomhash":"ce3f2c1c26ed25826805e1f42c5a8efa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85803961,
+            "region_id":85688701,
+            "venue_id":823178935
+        }
+    ],
+    "wof:id":823178935,
+    "wof:lastmodified":1462608050,
+    "wof:name":"Memphis Police Dog Squad",
+    "wof:parent_id":85803961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.974966,
+    35.130979,
+    -89.974966,
+    35.130979
+],
+  "geometry": {"coordinates":[-89.97496599999999,35.130979],"type":"Point"}
+}

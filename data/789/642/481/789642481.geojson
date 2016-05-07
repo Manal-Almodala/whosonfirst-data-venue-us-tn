@@ -1,0 +1,71 @@
+{
+  "id": 789642481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.955744,35.816847,-83.955744,35.816847",
+    "geom:latitude":35.816847,
+    "geom:longitude":-83.955744,
+    "iso:country":"US",
+    "sg:address":"522 Russell Rd",
+    "sg:city":"Rockford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 977 9186",
+    "sg:postcode":"37853",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722709,
+        102087017,
+        85819017
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JhmOOFtw9Faz0mkWSjh45_35.816847_-83.955744@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589392,
+    "wof:geomhash":"f8e365d83bc34449f9c6d6aa5313bca4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722709,
+            "neighbourhood_id":85819017,
+            "region_id":85688701,
+            "venue_id":789642481
+        }
+    ],
+    "wof:id":789642481,
+    "wof:lastmodified":1462589392,
+    "wof:name":"Best Transmissions",
+    "wof:parent_id":85819017,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -83.955744,
+    35.816847,
+    -83.955744,
+    35.816847
+],
+  "geometry": {"coordinates":[-83.955744,35.816847],"type":"Point"}
+}

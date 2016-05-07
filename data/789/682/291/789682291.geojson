@@ -1,0 +1,71 @@
+{
+  "id": 789682291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.859204,35.272469,-84.859204,35.272469",
+    "geom:latitude":35.272469,
+    "geom:longitude":-84.859204,
+    "iso:country":"US",
+    "sg:address":"8011 Eureka Rd NW",
+    "sg:city":"Charleston",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 478 0628",
+    "sg:postcode":"37310",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85808527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JiDqPCQTbpnZiHMsAxMAZ_35.272469_-84.859204@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589719,
+    "wof:geomhash":"44bf72cb70669cc1e898e1a8aa4d4271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85808527,
+            "region_id":85688701,
+            "venue_id":789682291
+        }
+    ],
+    "wof:id":789682291,
+    "wof:lastmodified":1462589719,
+    "wof:name":"Bradley Cnty Fire Dept Eureka",
+    "wof:parent_id":85808527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.859204,
+    35.272469,
+    -84.859204,
+    35.272469
+],
+  "geometry": {"coordinates":[-84.85920400000001,35.272469],"type":"Point"}
+}

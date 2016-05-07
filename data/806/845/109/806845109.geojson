@@ -1,0 +1,75 @@
+{
+  "id": 806845109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.640389,35.439847,-88.640389,35.439847",
+    "geom:latitude":35.439847,
+    "geom:longitude":-88.640389,
+    "iso:country":"US",
+    "sg:address":"133 E Main St",
+    "sg:city":"Henderson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 989 4882",
+    "sg:postcode":"38340",
+    "sg:province":"TN",
+    "sg:tags":[
+        "county",
+        "taxation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722539,
+        102086255,
+        85847089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35h2CXN1GSWEnn5JBo5hvo_35.439847_-88.640389@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601565,
+    "wof:geomhash":"ef5a53e6b05637961b3cd623d5c90e70",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086255,
+            "locality_id":101722539,
+            "neighbourhood_id":85847089,
+            "region_id":85688701,
+            "venue_id":806845109
+        }
+    ],
+    "wof:id":806845109,
+    "wof:lastmodified":1462601565,
+    "wof:name":"Chester County Tax Assessor",
+    "wof:parent_id":85847089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county",
+        "taxation"
+    ]
+},
+  "bbox": [
+    -88.640389,
+    35.439847,
+    -88.640389,
+    35.439847
+],
+  "geometry": {"coordinates":[-88.640389,35.439847],"type":"Point"}
+}

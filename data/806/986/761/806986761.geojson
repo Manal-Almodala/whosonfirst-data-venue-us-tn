@@ -1,0 +1,71 @@
+{
+  "id": 806986761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.496125,35.985687,-86.496125,35.985687",
+    "geom:latitude":35.985687,
+    "geom:longitude":-86.496125,
+    "iso:country":"US",
+    "sg:address":"1450 Sam Davis Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 459 2290",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85823525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0N5eMMcoKyY7PdLhwbMHLl_35.985687_-86.496125@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602750,
+    "wof:geomhash":"0ee8419edc3b2afed3beb2189887f4f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85823525,
+            "region_id":85688701,
+            "venue_id":806986761
+        }
+    ],
+    "wof:id":806986761,
+    "wof:lastmodified":1462602750,
+    "wof:name":"William Nash DDS",
+    "wof:parent_id":85823525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.496125,
+    35.985687,
+    -86.496125,
+    35.985687
+],
+  "geometry": {"coordinates":[-86.49612500000001,35.985687],"type":"Point"}
+}

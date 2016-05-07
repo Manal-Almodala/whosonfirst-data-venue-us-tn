@@ -1,0 +1,73 @@
+{
+  "id": 789673201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.065678,35.546699,-85.065678,35.546699",
+    "geom:latitude":35.546699,
+    "geom:longitude":-85.065678,
+    "iso:country":"US",
+    "sg:address":"784 Tigues Creek Rd",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 5011",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o98eqyMbusl8af4Z9joVC_35.546699_-85.065678@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589650,
+    "wof:geomhash":"91e62854cedd2194fa660ebcaf30f761",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":789673201
+        }
+    ],
+    "wof:id":789673201,
+    "wof:lastmodified":1462589650,
+    "wof:name":"Tennessee Concrete",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.065678,
+    35.546699,
+    -85.065678,
+    35.546699
+],
+  "geometry": {"coordinates":[-85.06567800000001,35.546699],"type":"Point"}
+}

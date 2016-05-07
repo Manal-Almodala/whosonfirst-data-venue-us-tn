@@ -1,0 +1,75 @@
+{
+  "id": 773724019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.921443,35.207129,-89.921443,35.207129",
+    "geom:latitude":35.207129,
+    "geom:longitude":-89.921443,
+    "iso:country":"US",
+    "sg:address":"2976 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 266 1112",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kJN3JgrJ8C4HpXcfClRPY_35.207129_-89.921443@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587900,
+    "wof:geomhash":"6abb163b5c31bc67b3c61484f1af12ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":773724019
+        }
+    ],
+    "wof:id":773724019,
+    "wof:lastmodified":1462587900,
+    "wof:name":"Professional Screening Svc",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "detection",
+        "equipment",
+        "drug"
+    ]
+},
+  "bbox": [
+    -89.921443,
+    35.207129,
+    -89.921443,
+    35.207129
+],
+  "geometry": {"coordinates":[-89.921443,35.207129],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823162029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.29395,36.212975,-83.29395,36.212975",
+    "geom:latitude":36.212975,
+    "geom:longitude":-83.29395,
+    "iso:country":"US",
+    "sg:address":"200 W Main St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 585 0420",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EJ1lMldqBr4NdR0koYRck_36.212975_-83.293950@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607824,
+    "wof:geomhash":"19ec16f1806ec825f70b7fd89c85b831",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":823162029
+        }
+    ],
+    "wof:id":823162029,
+    "wof:lastmodified":1462607824,
+    "wof:name":"Megan's Corner",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -83.29395,
+    36.212975,
+    -83.29395,
+    36.212975
+],
+  "geometry": {"coordinates":[-83.29395,36.212975],"type":"Point"}
+}

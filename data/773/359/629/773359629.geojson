@@ -1,0 +1,83 @@
+{
+  "id": 773359629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.634923,36.075858,-86.634923,36.075858",
+    "geom:latitude":36.075858,
+    "geom:longitude":-86.634923,
+    "iso:country":"US",
+    "sg:address":"432 Bell Rd",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 361 1844",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85846409,
+        420541523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OH6u4HG8wxrjMuzruKb8O_36.075858_-86.634923@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585113,
+    "wof:geomhash":"79709d63f79067d7da94e92ff74a5449",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85846409,
+            "region_id":85688701,
+            "venue_id":773359629
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420541523,
+            "region_id":85688701,
+            "venue_id":773359629
+        }
+    ],
+    "wof:id":773359629,
+    "wof:lastmodified":1462585113,
+    "wof:name":"Nashville Cat Clinic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.634923,
+    36.075858,
+    -86.634923,
+    36.075858
+],
+  "geometry": {"coordinates":[-86.634923,36.075858],"type":"Point"}
+}

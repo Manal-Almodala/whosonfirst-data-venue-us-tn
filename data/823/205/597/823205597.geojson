@@ -1,0 +1,78 @@
+{
+  "id": 823205597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.829987,35.953588,-83.829987,35.953588",
+    "geom:latitude":35.953588,
+    "geom:longitude":-83.829987,
+    "iso:country":"US",
+    "sg:address":"2725 Asbury Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 525 7220",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85833365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rgQsK73bRyjVnzkXaa6W7_35.953588_-83.829987@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608454,
+    "wof:geomhash":"e3c9339e498dae2d00fd4b5e41f45486",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85833365,
+            "region_id":85688701,
+            "venue_id":823205597
+        }
+    ],
+    "wof:id":823205597,
+    "wof:lastmodified":1462608454,
+    "wof:name":"East Tennessee Urgent Care LLC",
+    "wof:parent_id":85833365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.829987,
+    35.953588,
+    -83.829987,
+    35.953588
+],
+  "geometry": {"coordinates":[-83.829987,35.953588],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 823255617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.79657,35.048937,-89.79657,35.048937",
+    "geom:latitude":35.048937,
+    "geom:longitude":-89.79657,
+    "iso:country":"US",
+    "sg:address":"7980 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/176879-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 755 3116",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_153n0QnD2jPbVahmaIWVYt_35.048937_-89.796570@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609452,
+    "wof:geomhash":"837663e99bf170016838b0c132dbc0ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":823255617
+        }
+    ],
+    "wof:id":823255617,
+    "wof:lastmodified":1462609452,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -89.79657,
+    35.048937,
+    -89.79657,
+    35.048937
+],
+  "geometry": {"coordinates":[-89.79657,35.048937],"type":"Point"}
+}

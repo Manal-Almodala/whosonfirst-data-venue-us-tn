@@ -1,0 +1,74 @@
+{
+  "id": 806706091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.710439,34.998269,-85.710439,34.998269",
+    "geom:latitude":34.998269,
+    "geom:longitude":-85.710439,
+    "iso:country":"US",
+    "sg:address":"415 E 12th St",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 3005",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "sg:website":"www.pathtrucklines.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722495,
+        102086347,
+        85823635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ARZGdjtGvOqsd0fwLyBCP_34.998269_-85.710439@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600389,
+    "wof:geomhash":"6053635c6d0535a2255fbdbaedbc4b33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":85823635,
+            "region_id":85688701,
+            "venue_id":806706091
+        }
+    ],
+    "wof:id":806706091,
+    "wof:lastmodified":1462600389,
+    "wof:name":"Path Truck Lines",
+    "wof:parent_id":85823635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.710439,
+    34.998269,
+    -85.710439,
+    34.998269
+],
+  "geometry": {"coordinates":[-85.71043899999999,34.998269],"type":"Point"}
+}

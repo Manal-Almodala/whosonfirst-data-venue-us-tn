@@ -1,0 +1,73 @@
+{
+  "id": 789660133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.125258,35.123667,-85.125258,35.123667",
+    "geom:latitude":35.123667,
+    "geom:longitude":-85.125258,
+    "iso:country":"US",
+    "sg:address":"6215 State Hwy 58",
+    "sg:city":"Harrison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 344 8480",
+    "sg:postcode":"37341",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723293,
+        102087185,
+        85831217
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hq3XlC6ZYA0mwFOqy10IJ_35.123667_-85.125258@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589529,
+    "wof:geomhash":"2c67328fd43e1e1c48ee2ebbca9d20b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723293,
+            "neighbourhood_id":85831217,
+            "region_id":85688701,
+            "venue_id":789660133
+        }
+    ],
+    "wof:id":789660133,
+    "wof:lastmodified":1462589529,
+    "wof:name":"Harrison Super Wash",
+    "wof:parent_id":85831217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -85.125258,
+    35.123667,
+    -85.125258,
+    35.123667
+],
+  "geometry": {"coordinates":[-85.125258,35.123667],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807242557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.043273,36.430797,-89.043273,36.430797",
+    "geom:latitude":36.430797,
+    "geom:longitude":-89.043273,
+    "iso:country":"US",
+    "sg:address":"509 Melrose St",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 6010",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FkKK8YqtWUFD2N4OArSv7_36.430797_-89.043273@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605242,
+    "wof:geomhash":"f3cdcbf0c710e469a8ba74674059b3ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":807242557
+        }
+    ],
+    "wof:id":807242557,
+    "wof:lastmodified":1462605242,
+    "wof:name":"Union City Police Station",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -89.043273,
+    36.430797,
+    -89.043273,
+    36.430797
+],
+  "geometry": {"coordinates":[-89.043273,36.430797],"type":"Point"}
+}

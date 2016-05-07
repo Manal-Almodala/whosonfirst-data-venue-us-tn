@@ -1,0 +1,75 @@
+{
+  "id": 823247695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.327275,35.140875,-85.327275,35.140875",
+    "geom:latitude":35.140875,
+    "geom:longitude":-85.327275,
+    "iso:country":"US",
+    "sg:address":"1305 Taft Hwy",
+    "sg:city":"Signal Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/signal-mountain/203533-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37377",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723027,
+        102087185,
+        85848667
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55Txq7NZiNrLA79k43zIdg_35.140875_-85.327275@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609289,
+    "wof:geomhash":"9a7291d7e1284d34e848783e4e4cd7b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723027,
+            "neighbourhood_id":85848667,
+            "region_id":85688701,
+            "venue_id":823247695
+        }
+    ],
+    "wof:id":823247695,
+    "wof:lastmodified":1462609289,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85848667,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -85.327275,
+    35.140875,
+    -85.327275,
+    35.140875
+],
+  "geometry": {"coordinates":[-85.327275,35.140875],"type":"Point"}
+}

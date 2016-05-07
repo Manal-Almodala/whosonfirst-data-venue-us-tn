@@ -1,0 +1,71 @@
+{
+  "id": 789823281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.23845,36.201462,-83.23845,36.201462",
+    "geom:latitude":36.201462,
+    "geom:longitude":-83.23845,
+    "iso:country":"US",
+    "sg:address":"2090 Kingswood Dr",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 2608",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OD5cxhkfDJpe9eygUJdel_36.201462_-83.238450@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590819,
+    "wof:geomhash":"ac339a48bc6f0dbd117996f6058a816e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789823281
+        }
+    ],
+    "wof:id":789823281,
+    "wof:lastmodified":1462590819,
+    "wof:name":"Barbaras Cleaning Service",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -83.23845,
+    36.201462,
+    -83.23845,
+    36.201462
+],
+  "geometry": {"coordinates":[-83.23845,36.201462],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 789868177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.307475,35.038576,-85.307475,35.038576",
+    "geom:latitude":35.038576,
+    "geom:longitude":-85.307475,
+    "iso:country":"US",
+    "sg:address":"1301 Market St",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 267 5223",
+    "sg:postcode":"37402",
+    "sg:province":"TN",
+    "sg:tags":[
+        "organization",
+        "housing",
+        "program",
+        "welfare"
+    ],
+    "sg:website":"www.housinginfoline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Fcru3He2QHojCIxynqzFI_35.038576_-85.307475@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591169,
+    "wof:geomhash":"10fc8076b8da39ee13ce438785ba850a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876745,
+            "region_id":85688701,
+            "venue_id":789868177
+        }
+    ],
+    "wof:id":789868177,
+    "wof:lastmodified":1462591169,
+    "wof:name":"Housing Info Line",
+    "wof:parent_id":85876745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "housing",
+        "program",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -85.307475,
+    35.038576,
+    -85.307475,
+    35.038576
+],
+  "geometry": {"coordinates":[-85.307475,35.038576],"type":"Point"}
+}

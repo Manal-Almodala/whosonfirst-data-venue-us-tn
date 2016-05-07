@@ -1,0 +1,77 @@
+{
+  "id": 806580997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.391487,35.838673,-86.391487,35.838673",
+    "geom:latitude":35.838673,
+    "geom:longitude":-86.391487,
+    "iso:country":"US",
+    "sg:address":"111 Lakeview St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 3064",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85835585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5bVqivYuNADoNdP8LQJhkq_35.838673_-86.391487@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599317,
+    "wof:geomhash":"801e7639a76ea9164ab1e4225633dadd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85835585,
+            "region_id":85688701,
+            "venue_id":806580997
+        }
+    ],
+    "wof:id":806580997,
+    "wof:lastmodified":1462599317,
+    "wof:name":"Ferguson Radiator & Auto Rpr",
+    "wof:parent_id":85835585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -86.391487,
+    35.838673,
+    -86.391487,
+    35.838673
+],
+  "geometry": {"coordinates":[-86.391487,35.838673],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 807219263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.292628,35.048672,-85.292628,35.048672",
+    "geom:latitude":35.048672,
+    "geom:longitude":-85.292628,
+    "iso:country":"US",
+    "sg:address":"921 E 3rd St",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 209 8050",
+    "sg:postcode":"37403",
+    "sg:province":"TN",
+    "sg:tags":[
+        "facility",
+        "medical",
+        "county",
+        "program",
+        "health",
+        "fitness",
+        "physical"
+    ],
+    "sg:website":"www.hamiltontn.gov",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FbXY0HijEir7bOznLFFu1_35.048672_-85.292628@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604993,
+    "wof:geomhash":"e9b4917908aae875cfbcea01e258026f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876735,
+            "region_id":85688701,
+            "venue_id":807219263
+        }
+    ],
+    "wof:id":807219263,
+    "wof:lastmodified":1462604993,
+    "wof:name":"Hamilton County Health Dept",
+    "wof:parent_id":85876735,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "medical",
+        "county",
+        "program",
+        "health",
+        "fitness",
+        "physical"
+    ]
+},
+  "bbox": [
+    -85.292628,
+    35.048672,
+    -85.292628,
+    35.048672
+],
+  "geometry": {"coordinates":[-85.29262799999999,35.048672],"type":"Point"}
+}

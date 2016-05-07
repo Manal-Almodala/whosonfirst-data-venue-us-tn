@@ -1,0 +1,73 @@
+{
+  "id": 773570855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.512206,35.854602,-85.512206,35.854602",
+    "geom:latitude":35.854602,
+    "geom:longitude":-85.512206,
+    "iso:country":"US",
+    "sg:address":"5375 McMinnville Hwy",
+    "sg:city":"Doyle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 657 2942",
+    "sg:postcode":"38559",
+    "sg:province":"TN",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1III4pVY9yoEgZQMMeajpa_35.854602_-85.512206@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586725,
+    "wof:geomhash":"41eac6be4f03043bddffc27163e394e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":773570855
+        }
+    ],
+    "wof:id":773570855,
+    "wof:lastmodified":1462586725,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -85.512206,
+    35.854602,
+    -85.512206,
+    35.854602
+],
+  "geometry": {"coordinates":[-85.51220600000001,35.854602],"type":"Point"}
+}

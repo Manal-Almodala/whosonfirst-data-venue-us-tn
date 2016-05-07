@@ -1,0 +1,71 @@
+{
+  "id": 806863567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.352648,35.877547,-86.352648,35.877547",
+    "geom:latitude":35.877547,
+    "geom:longitude":-86.352648,
+    "iso:country":"US",
+    "sg:address":"2377 Oak Hill Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 4789",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85843385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dsuZebXSmQG6DxInGhInn_35.877547_-86.352648@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601723,
+    "wof:geomhash":"b9e379e0f3bf79fdec598433991841e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85843385,
+            "region_id":85688701,
+            "venue_id":806863567
+        }
+    ],
+    "wof:id":806863567,
+    "wof:lastmodified":1462601723,
+    "wof:name":"Sherlock Home Inspections Inc",
+    "wof:parent_id":85843385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -86.352648,
+    35.877547,
+    -86.352648,
+    35.877547
+],
+  "geometry": {"coordinates":[-86.352648,35.877547],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 823244829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.349407,35.831205,-86.349407,35.831205",
+    "geom:latitude":35.831205,
+    "geom:longitude":-86.349407,
+    "iso:country":"US",
+    "sg:address":"2896 S Rutherford Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/88847-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 483 1234",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zFFuF1gh03eXtSEMZiTsJ_35.831205_-86.349407@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609233,
+    "wof:geomhash":"2a95e6635a9b57d8cdd1eb114cb0b516",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":823244829
+        }
+    ],
+    "wof:id":823244829,
+    "wof:lastmodified":1462609233,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -86.349407,
+    35.831205,
+    -86.349407,
+    35.831205
+],
+  "geometry": {"coordinates":[-86.349407,35.831205],"type":"Point"}
+}

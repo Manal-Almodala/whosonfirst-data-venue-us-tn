@@ -1,0 +1,83 @@
+{
+  "id": 823259617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.287985,36.2143,-83.287985,36.2143",
+    "geom:latitude":36.2143,
+    "geom:longitude":-83.287985,
+    "iso:country":"US",
+    "sg:address":"409 E Morris Blvd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/morristown/192736-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 318 9500",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09puM8Lcnr0Cyz4M0EizYp_36.214102_-83.287517@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609546,
+    "wof:geomhash":"72001476691c6b81d1d22fe2d35cc4ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":823259617
+        }
+    ],
+    "wof:id":823259617,
+    "wof:lastmodified":1462609546,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -83.287985,
+    36.2143,
+    -83.287985,
+    36.2143
+],
+  "geometry": {"coordinates":[-83.28798500000001,36.2143],"type":"Point"}
+}

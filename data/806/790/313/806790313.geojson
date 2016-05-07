@@ -1,0 +1,71 @@
+{
+  "id": 806790313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.37589,35.832401,-86.37589,35.832401",
+    "geom:latitude":35.832401,
+    "geom:longitude":-86.37589,
+    "iso:country":"US",
+    "sg:address":"805 S Tennessee Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 898 0432",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "video"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SzPqhgwBWAES5r1X6DVHZ_35.832401_-86.375890@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601106,
+    "wof:geomhash":"930270b0b14a3c4ae474b384f0704bcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":806790313
+        }
+    ],
+    "wof:id":806790313,
+    "wof:lastmodified":1462601106,
+    "wof:name":"Blockbuster",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video"
+    ]
+},
+  "bbox": [
+    -86.37589,
+    35.832401,
+    -86.37589,
+    35.832401
+],
+  "geometry": {"coordinates":[-86.37589,35.832401],"type":"Point"}
+}

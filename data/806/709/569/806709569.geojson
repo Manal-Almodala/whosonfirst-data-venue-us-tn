@@ -1,0 +1,84 @@
+{
+  "id": 806709569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.009956,35.953156,-85.009956,35.953156",
+    "geom:latitude":35.953156,
+    "geom:longitude":-85.009956,
+    "iso:country":"US",
+    "sg:address":"1045 E 1st St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 707 1685",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809,
+        102191575,
+        85824095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aB021iXmEyRlwp0dAOP22_35.953156_-85.009956@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600415,
+    "wof:geomhash":"6be0258313b09ef7c3fd78032147009c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":806709569
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85824095,
+            "region_id":85688701,
+            "venue_id":806709569
+        }
+    ],
+    "wof:id":806709569,
+    "wof:lastmodified":1462600415,
+    "wof:name":"T & S Custom Cabinets",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -85.009956,
+    35.953156,
+    -85.009956,
+    35.953156
+],
+  "geometry": {"coordinates":[-85.009956,35.953156],"type":"Point"}
+}

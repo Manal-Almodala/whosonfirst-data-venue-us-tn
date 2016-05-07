@@ -1,0 +1,73 @@
+{
+  "id": 789608753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.503915,35.888513,-86.503915,35.888513",
+    "geom:latitude":35.888513,
+    "geom:longitude":-86.503915,
+    "iso:country":"US",
+    "sg:address":"3513 Smiths Xing",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 8756",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q1tTPVVO4NG72OWlQBYl8_35.888513_-86.503915@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589130,
+    "wof:geomhash":"2958db77411b910f5c1a9be4bbff0539",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":789608753
+        }
+    ],
+    "wof:id":789608753,
+    "wof:lastmodified":1462589130,
+    "wof:name":"L&G Electric",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.503915,
+    35.888513,
+    -86.503915,
+    35.888513
+],
+  "geometry": {"coordinates":[-86.50391500000001,35.888513],"type":"Point"}
+}

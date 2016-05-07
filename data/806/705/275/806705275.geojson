@@ -1,0 +1,71 @@
+{
+  "id": 806705275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.616736,36.419573,-86.616736,36.419573",
+    "geom:latitude":36.419573,
+    "geom:longitude":-86.616736,
+    "iso:country":"US",
+    "sg:address":"3508 New Hope Rd",
+    "sg:city":"Hendersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 338 4209",
+    "sg:postcode":"37075",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723169,
+        102086357,
+        85825691
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YiHQ0VeQvcq2i3HpjqJ0Q_36.419573_-86.616736@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600379,
+    "wof:geomhash":"2e05b93adeb76fca469fd51d49894395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85825691,
+            "region_id":85688701,
+            "venue_id":806705275
+        }
+    ],
+    "wof:id":806705275,
+    "wof:lastmodified":1462600379,
+    "wof:name":"Roberts Cleaning",
+    "wof:parent_id":85825691,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.616736,
+    36.419573,
+    -86.616736,
+    36.419573
+],
+  "geometry": {"coordinates":[-86.616736,36.419573],"type":"Point"}
+}

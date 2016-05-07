@@ -1,0 +1,78 @@
+{
+  "id": 773743241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.012047,35.495006,-85.012047,35.495006",
+    "geom:latitude":35.495006,
+    "geom:longitude":-85.012047,
+    "iso:country":"US",
+    "sg:address":"1460 Market St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 570 0411",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "house",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PiP5Qxz1BBEVD6Sv5s2Cq_35.495006_-85.012047@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588050,
+    "wof:geomhash":"7eb04d7e81d6409257a6763003b8e34e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":773743241
+        }
+    ],
+    "wof:id":773743241,
+    "wof:lastmodified":1462588050,
+    "wof:name":"Main Stage Music",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail"
+    ]
+},
+  "bbox": [
+    -85.012047,
+    35.495006,
+    -85.012047,
+    35.495006
+],
+  "geometry": {"coordinates":[-85.012047,35.495006],"type":"Point"}
+}

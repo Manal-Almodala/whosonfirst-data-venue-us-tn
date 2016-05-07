@@ -1,0 +1,71 @@
+{
+  "id": 789924161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.779203,35.557503,-88.779203,35.557503",
+    "geom:latitude":35.557503,
+    "geom:longitude":-88.779203,
+    "iso:country":"US",
+    "sg:address":"722 Harts Bridge Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 424 5577",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SyyWTRWE8VGY3IKUCeEws_35.557503_-88.779203@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591657,
+    "wof:geomhash":"60906789d1c00ae6b50ffdd8c3942b1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":789924161
+        }
+    ],
+    "wof:id":789924161,
+    "wof:lastmodified":1462591657,
+    "wof:name":"Madison County Fire Chief",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -88.779203,
+    35.557503,
+    -88.779203,
+    35.557503
+],
+  "geometry": {"coordinates":[-88.779203,35.557503],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789797517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.978657,36.013213,-83.978657,36.013213",
+    "geom:latitude":36.013213,
+    "geom:longitude":-83.978657,
+    "iso:country":"US",
+    "sg:address":"5614 Scenic Ridge Rd NW",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 4010",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tHoVpjR76On4ehvL5dNj7_36.013213_-83.978657@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590623,
+    "wof:geomhash":"f9ea0217b243b8840d0025ea1cf0edf1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":789797517
+        }
+    ],
+    "wof:id":789797517,
+    "wof:lastmodified":1462590623,
+    "wof:name":"Ace Lock & Key",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -83.978657,
+    36.013213,
+    -83.978657,
+    36.013213
+],
+  "geometry": {"coordinates":[-83.978657,36.013213],"type":"Point"}
+}

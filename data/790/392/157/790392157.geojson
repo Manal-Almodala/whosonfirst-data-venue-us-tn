@@ -1,0 +1,71 @@
+{
+  "id": 790392157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.797003,35.448627,-89.797003,35.448627",
+    "geom:latitude":35.448627,
+    "geom:longitude":-89.797003,
+    "iso:country":"US",
+    "sg:address":"99 Doctors Dr",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 2344",
+    "sg:postcode":"38058",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qKrqqJflWTmMaTaoZeEa9_35.448627_-89.797003@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595482,
+    "wof:geomhash":"25ef73cc147fe3529c6c91d3c72dd630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790392157
+        }
+    ],
+    "wof:id":790392157,
+    "wof:lastmodified":1462595482,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -89.797003,
+    35.448627,
+    -89.797003,
+    35.448627
+],
+  "geometry": {"coordinates":[-89.797003,35.448627],"type":"Point"}
+}

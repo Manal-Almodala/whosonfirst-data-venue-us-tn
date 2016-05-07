@@ -1,0 +1,87 @@
+{
+  "id": 807191357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.895596,35.017773,-89.895596,35.017773",
+    "geom:latitude":35.017773,
+    "geom:longitude":-89.895596,
+    "iso:country":"US",
+    "sg:address":"4998 Lamar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 542 0577",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0na9br90o5aj8jqJeYpJtr_35.017773_-89.895596@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604703,
+    "wof:geomhash":"dfa3aa4fe1cf8a12fc6aebde5d96805c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":807191357
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":807191357
+        }
+    ],
+    "wof:id":807191357,
+    "wof:lastmodified":1462604703,
+    "wof:name":"Caribean Body Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -89.895596,
+    35.017773,
+    -89.895596,
+    35.017773
+],
+  "geometry": {"coordinates":[-89.895596,35.017773],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806625563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.789438,35.45361,-86.789438,35.45361",
+    "geom:latitude":35.45361,
+    "geom:longitude":-86.789438,
+    "iso:country":"US",
+    "sg:address":"230 College St",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 359 6132",
+    "sg:postcode":"37091",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722897,
+        102087115,
+        85811699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m8la9GIRujnK3Jbb8X6Xt_35.453610_-86.789438@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599697,
+    "wof:geomhash":"adbeb1817575680af87191c2d9450cc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "locality_id":101722897,
+            "neighbourhood_id":85811699,
+            "region_id":85688701,
+            "venue_id":806625563
+        }
+    ],
+    "wof:id":806625563,
+    "wof:lastmodified":1462599697,
+    "wof:name":"Emergency Medical Service",
+    "wof:parent_id":85811699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -86.789438,
+    35.45361,
+    -86.789438,
+    35.45361
+],
+  "geometry": {"coordinates":[-86.789438,35.45361],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789584317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.302877,36.215869,-83.302877,36.215869",
+    "geom:latitude":36.215869,
+    "geom:longitude":-83.302877,
+    "iso:country":"US",
+    "sg:address":"619 W 7th North St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 9949",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vtrIrJQKLjfYv4wHPSgWA_36.215869_-83.302877@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588941,
+    "wof:geomhash":"1550537ad510e0213729de930ee00e4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":789584317
+        }
+    ],
+    "wof:id":789584317,
+    "wof:lastmodified":1462588941,
+    "wof:name":"Healthstar Ob-Gyn",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.302877,
+    36.215869,
+    -83.302877,
+    36.215869
+],
+  "geometry": {"coordinates":[-83.302877,36.215869],"type":"Point"}
+}

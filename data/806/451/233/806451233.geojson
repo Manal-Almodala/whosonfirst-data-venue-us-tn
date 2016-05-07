@@ -1,0 +1,73 @@
+{
+  "id": 806451233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.701444,35.417818,-89.701444,35.417818",
+    "geom:latitude":35.417818,
+    "geom:longitude":-89.701444,
+    "iso:country":"US",
+    "sg:address":"469 McQuiston Rd",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 7462",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vgRnFucEpBq9hbRasl023_35.417818_-89.701444@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598252,
+    "wof:geomhash":"c94580b452e6fa1f059add3dfdf5b22c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806451233
+        }
+    ],
+    "wof:id":806451233,
+    "wof:lastmodified":1462598252,
+    "wof:name":"Power Source Plus Electric Co",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.701444,
+    35.417818,
+    -89.701444,
+    35.417818
+],
+  "geometry": {"coordinates":[-89.701444,35.417818],"type":"Point"}
+}

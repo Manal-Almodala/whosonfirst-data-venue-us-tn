@@ -1,0 +1,71 @@
+{
+  "id": 789649813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.109994,35.908773,-84.109994,35.908773",
+    "geom:latitude":35.908773,
+    "geom:longitude":-84.109994,
+    "iso:country":"US",
+    "sg:address":"217 Sherway Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 691 7865",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tHo8G4KjkiwGXRsTJS6ep_35.908773_-84.109994@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589454,
+    "wof:geomhash":"e9a907ea237c22f18da9cbd75e7b5912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":789649813
+        }
+    ],
+    "wof:id":789649813,
+    "wof:lastmodified":1462589454,
+    "wof:name":"Beaman Imports",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.109994,
+    35.908773,
+    -84.109994,
+    35.908773
+],
+  "geometry": {"coordinates":[-84.109994,35.908773],"type":"Point"}
+}

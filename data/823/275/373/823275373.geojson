@@ -1,0 +1,87 @@
+{
+  "id": 823275373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.791001,35.442477,-89.791001,35.442477",
+    "geom:latitude":35.442477,
+    "geom:longitude":-89.791001,
+    "iso:country":"US",
+    "sg:address":"11630 Highway 51 S",
+    "sg:city":"Atoka",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 5000",
+    "sg:postcode":"38004",
+    "sg:province":"TN",
+    "sg:tags":[
+        "super"
+    ],
+    "sg:website":"http://www.scottsfoods.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ja4fOrs0SXUSrIj9VUN8m_35.442477_-89.791001@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610125,
+    "wof:geomhash":"af0740fcddc985b8d8f18a4610929b65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823275373
+        }
+    ],
+    "wof:id":823275373,
+    "wof:lastmodified":1462610125,
+    "wof:name":"Kroger",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super"
+    ]
+},
+  "bbox": [
+    -89.791001,
+    35.442477,
+    -89.791001,
+    35.442477
+],
+  "geometry": {"coordinates":[-89.79100099999999,35.442477],"type":"Point"}
+}

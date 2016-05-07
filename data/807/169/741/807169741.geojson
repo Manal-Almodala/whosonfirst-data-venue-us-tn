@@ -1,0 +1,75 @@
+{
+  "id": 807169741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.66442,36.309127,-86.66442,36.309127",
+    "geom:latitude":36.309127,
+    "geom:longitude":-86.66442,
+    "iso:country":"US",
+    "sg:address":"1169 W Main St",
+    "sg:city":"Hendersonville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 824 8191",
+    "sg:postcode":"37075",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723169,
+        102086357,
+        85810053
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O8eU507n9PJVziYVozRWG_36.309127_-86.664420@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604482,
+    "wof:geomhash":"b521adf6a600ffab4b91fab82f40744b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85810053,
+            "region_id":85688701,
+            "venue_id":807169741
+        }
+    ],
+    "wof:id":807169741,
+    "wof:lastmodified":1462604482,
+    "wof:name":"Enterprise Car Sales",
+    "wof:parent_id":85810053,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -86.66442,
+    36.309127,
+    -86.66442,
+    36.309127
+],
+  "geometry": {"coordinates":[-86.66442000000001,36.309127],"type":"Point"}
+}

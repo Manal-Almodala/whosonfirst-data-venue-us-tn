@@ -1,0 +1,82 @@
+{
+  "id": 823235873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.918564,35.205364,-89.918564,35.205364",
+    "geom:latitude":35.205364,
+    "geom:longitude":-89.918564,
+    "iso:country":"US",
+    "sg:address":"4354 Stage Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 386 0720",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "engines-rebuild",
+        "lawn",
+        "exchange",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51ckC9L25DWiur7QzqI0VB_35.205339_-89.917983@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609065,
+    "wof:geomhash":"0e13b19bdc4338214f451f063155579b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823235873
+        }
+    ],
+    "wof:id":823235873,
+    "wof:lastmodified":1462609065,
+    "wof:name":"Kelly's Small Engine Repair",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engines-rebuild",
+        "lawn",
+        "exchange",
+        "mower"
+    ]
+},
+  "bbox": [
+    -89.918564,
+    35.205364,
+    -89.918564,
+    35.205364
+],
+  "geometry": {"coordinates":[-89.918564,35.205364],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 789868083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.742705,36.262308,-86.742705,36.262308",
+    "geom:latitude":36.262308,
+    "geom:longitude":-86.742705,
+    "iso:country":"US",
+    "sg:address":"113 Port Dr",
+    "sg:city":"Madison",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 587 1109",
+    "sg:postcode":"37115",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "equipment",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85830901
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OLXjq105QqfIJQnAFzO3J_36.262308_-86.742705@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591168,
+    "wof:geomhash":"af233291af9a38a63452dc2d40cfa5e3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85830901,
+            "region_id":85688701,
+            "venue_id":789868083
+        }
+    ],
+    "wof:id":789868083,
+    "wof:lastmodified":1462591168,
+    "wof:name":"Smith Electrical Contractors",
+    "wof:parent_id":85830901,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "equipment",
+        "electric"
+    ]
+},
+  "bbox": [
+    -86.742705,
+    36.262308,
+    -86.742705,
+    36.262308
+],
+  "geometry": {"coordinates":[-86.742705,36.262308],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789666925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.11624,35.92993,-84.11624,35.92993",
+    "geom:latitude":35.92993,
+    "geom:longitude":-84.11624,
+    "iso:country":"US",
+    "sg:address":"9729 Cortez Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 691 2679",
+    "sg:postcode":"37923",
+    "sg:province":"TN",
+    "sg:tags":[
+        "machine",
+        "copying"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_406Zh9W2ot2boEnjEbSeJH_35.929930_-84.116240@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589606,
+    "wof:geomhash":"e04a463bdc200ee28b6b7ccabe093647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":789666925
+        }
+    ],
+    "wof:id":789666925,
+    "wof:lastmodified":1462589606,
+    "wof:name":"PBM",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "copying"
+    ]
+},
+  "bbox": [
+    -84.11624,
+    35.92993,
+    -84.11624,
+    35.92993
+],
+  "geometry": {"coordinates":[-84.11624,35.92993],"type":"Point"}
+}

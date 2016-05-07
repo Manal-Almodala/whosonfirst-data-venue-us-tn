@@ -1,0 +1,71 @@
+{
+  "id": 823258831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.056996,35.460067,-86.056996,35.460067",
+    "geom:latitude":35.460067,
+    "geom:longitude":-86.056996,
+    "iso:country":"US",
+    "sg:address":"2211 Hillsboro Blvd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/manchester/203528-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GGTEHPdO6pJWVj0Vj9K3v_35.459557_-86.057341@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609525,
+    "wof:geomhash":"393eb296bb48ea694256b699c6d203b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":823258831
+        }
+    ],
+    "wof:id":823258831,
+    "wof:lastmodified":1462609525,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.056996,
+    35.460067,
+    -86.056996,
+    35.460067
+],
+  "geometry": {"coordinates":[-86.056996,35.460067],"type":"Point"}
+}

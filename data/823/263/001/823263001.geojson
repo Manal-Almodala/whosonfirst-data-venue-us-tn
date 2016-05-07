@@ -1,0 +1,91 @@
+{
+  "id": 823263001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.430191,35.851097,-86.430191,35.851097",
+    "geom:latitude":35.851097,
+    "geom:longitude":-86.430191,
+    "iso:country":"US",
+    "sg:address":"220 N Thompson Ln",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 893 8959",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "training",
+        "grooming",
+        "kennel"
+    ],
+    "sg:website":"http://www.customkarekennels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AyXjacqNZ7Dwltp2G10K6_35.851097_-86.430191@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609641,
+    "wof:geomhash":"a93b9132ab5bc1313aaf3672509fe99c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823263001
+        }
+    ],
+    "wof:id":823263001,
+    "wof:lastmodified":1462609641,
+    "wof:name":"Custom Kare Kennels",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "grooming",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -86.430191,
+    35.851097,
+    -86.430191,
+    35.851097
+],
+  "geometry": {"coordinates":[-86.43019099999999,35.851097],"type":"Point"}
+}

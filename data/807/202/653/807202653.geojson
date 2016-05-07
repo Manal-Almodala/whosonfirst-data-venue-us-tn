@@ -1,0 +1,78 @@
+{
+  "id": 807202653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.328357,35.010557,-85.328357,35.010557",
+    "geom:latitude":35.010557,
+    "geom:longitude":-85.328357,
+    "iso:country":"US",
+    "sg:address":"3804 Saint Elmo Ave",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 821 9933",
+    "sg:postcode":"37409",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85846641
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w6r9oTJIOQkM3f98xp28b_35.010557_-85.328357@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604824,
+    "wof:geomhash":"b91c1c95be261c923f62445b178d2bbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85846641,
+            "region_id":85688701,
+            "venue_id":807202653
+        }
+    ],
+    "wof:id":807202653,
+    "wof:lastmodified":1462604824,
+    "wof:name":"St Elmo Storage",
+    "wof:parent_id":85846641,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -85.328357,
+    35.010557,
+    -85.328357,
+    35.010557
+],
+  "geometry": {"coordinates":[-85.328357,35.010557],"type":"Point"}
+}

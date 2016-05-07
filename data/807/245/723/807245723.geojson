@@ -1,0 +1,71 @@
+{
+  "id": 807245723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.527902,36.138825,-85.527902,36.138825",
+    "geom:latitude":36.138825,
+    "geom:longitude":-85.527902,
+    "iso:country":"US",
+    "sg:address":"1075 S Willow Ave",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 520 8886",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ccNhLTOLg66GWGjn6dwP6_36.138825_-85.527902@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605283,
+    "wof:geomhash":"0d9a45e87ceec7ff3bd52e166b01dd22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":807245723
+        }
+    ],
+    "wof:id":807245723,
+    "wof:lastmodified":1462605283,
+    "wof:name":"Volunteer Express",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -85.527902,
+    36.138825,
+    -85.527902,
+    36.138825
+],
+  "geometry": {"coordinates":[-85.527902,36.138825],"type":"Point"}
+}

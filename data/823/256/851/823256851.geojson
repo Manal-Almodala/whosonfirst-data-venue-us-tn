@@ -1,0 +1,74 @@
+{
+  "id": 823256851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.241071,35.223811,-88.241071,35.223811",
+    "geom:latitude":35.223811,
+    "geom:longitude":-88.241071,
+    "iso:country":"US",
+    "sg:address":"1024 Main St E",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/savannah/176908-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 925 3509",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ic06ZAWIQHZCV2XUThNNm_35.223811_-88.241071@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609473,
+    "wof:geomhash":"0a3a22b442bcced143133877fbdfd1fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":823256851
+        }
+    ],
+    "wof:id":823256851,
+    "wof:lastmodified":1462609473,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -88.241071,
+    35.223811,
+    -88.241071,
+    35.223811
+],
+  "geometry": {"coordinates":[-88.24107100000001,35.223811],"type":"Point"}
+}

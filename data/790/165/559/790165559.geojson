@@ -1,0 +1,73 @@
+{
+  "id": 790165559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.020308,35.903832,-84.020308,35.903832",
+    "geom:latitude":35.903832,
+    "geom:longitude":-84.020308,
+    "iso:country":"US",
+    "sg:address":"7699 S Northshore Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 694 0500",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85845593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uW9c5eN6ZOiUzk7x9CULt_35.903832_-84.020308@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593647,
+    "wof:geomhash":"158b2ff578b423fafaa43b94d70a1fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85845593,
+            "region_id":85688701,
+            "venue_id":790165559
+        }
+    ],
+    "wof:id":790165559,
+    "wof:lastmodified":1462593647,
+    "wof:name":"Gillespie Import Svc",
+    "wof:parent_id":85845593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.020308,
+    35.903832,
+    -84.020308,
+    35.903832
+],
+  "geometry": {"coordinates":[-84.020308,35.903832],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 790198379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.309233,35.034843,-85.309233,35.034843",
+    "geom:latitude":35.034843,
+    "geom:longitude":-85.309233,
+    "iso:country":"US",
+    "sg:address":"1603 Long St",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 756 5566",
+    "sg:postcode":"37408",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876745
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YrGWuLI5PeFAsybLE6Bc0_35.034843_-85.309233@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593945,
+    "wof:geomhash":"bb9223b34685f3d59322bb43d1390619",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876745,
+            "region_id":85688701,
+            "venue_id":790198379
+        }
+    ],
+    "wof:id":790198379,
+    "wof:lastmodified":1462593945,
+    "wof:name":"Import Master Repair",
+    "wof:parent_id":85876745,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -85.309233,
+    35.034843,
+    -85.309233,
+    35.034843
+],
+  "geometry": {"coordinates":[-85.30923300000001,35.034843],"type":"Point"}
+}

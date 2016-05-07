@@ -1,0 +1,86 @@
+{
+  "id": 789597275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.211418,36.042285,-84.211418,36.042285",
+    "geom:latitude":36.042285,
+    "geom:longitude":-84.211418,
+    "iso:country":"US",
+    "sg:address":"259 Warehouse Rd",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 483 9710",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "drinking",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065,
+        85818003
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wHplAD7C9tOb8hVNkiYQm_36.042285_-84.211418@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589038,
+    "wof:geomhash":"f1c589d1d83d676f4756d6a1a962e827",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":789597275
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "neighbourhood_id":85818003,
+            "region_id":85688701,
+            "venue_id":789597275
+        }
+    ],
+    "wof:id":789597275,
+    "wof:lastmodified":1462589038,
+    "wof:name":"Backroad Pub and Grill",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -84.211418,
+    36.042285,
+    -84.211418,
+    36.042285
+],
+  "geometry": {"coordinates":[-84.21141799999999,36.042285],"type":"Point"}
+}

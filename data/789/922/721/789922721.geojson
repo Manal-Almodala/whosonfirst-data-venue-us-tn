@@ -1,0 +1,75 @@
+{
+  "id": 789922721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.921191,36.0744,-86.921191,36.0744",
+    "geom:latitude":36.0744,
+    "geom:longitude":-86.921191,
+    "iso:country":"US",
+    "sg:address":"7099 US Hwy 70 S",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 662 1555",
+    "sg:postcode":"37221",
+    "sg:province":"TN",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85854361
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wSBcbo17FkhW3OsgqNLhz_36.074400_-86.921191@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591647,
+    "wof:geomhash":"e2db4a51e42e8c182a7e65f0651d5f27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85854361,
+            "region_id":85688701,
+            "venue_id":789922721
+        }
+    ],
+    "wof:id":789922721,
+    "wof:lastmodified":1462591647,
+    "wof:name":"Star Cleaners",
+    "wof:parent_id":85854361,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -86.921191,
+    36.0744,
+    -86.921191,
+    36.0744
+],
+  "geometry": {"coordinates":[-86.92119099999999,36.0744],"type":"Point"}
+}

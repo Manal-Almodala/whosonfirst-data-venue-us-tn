@@ -1,0 +1,80 @@
+{
+  "id": 823274101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.98059,36.003739,-83.98059,36.003739",
+    "geom:latitude":36.003739,
+    "geom:longitude":-83.98059,
+    "iso:country":"US",
+    "sg:address":"5315 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Driving School",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 5542",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "scooters-parts",
+        "instruction",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bxfDT4ig730jSeheB98g5_36.003739_-83.980590@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610075,
+    "wof:geomhash":"c098cd186c099f340bc904d230fe1834",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":823274101
+        }
+    ],
+    "wof:id":823274101,
+    "wof:lastmodified":1462610075,
+    "wof:name":"Custom Motorcycle Specalties",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-parts",
+        "instruction",
+        "supply"
+    ]
+},
+  "bbox": [
+    -83.98059,
+    36.003739,
+    -83.98059,
+    36.003739
+],
+  "geometry": {"coordinates":[-83.98059000000001,36.003739],"type":"Point"}
+}

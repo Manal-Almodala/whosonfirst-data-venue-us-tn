@@ -1,0 +1,73 @@
+{
+  "id": 790465299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.964824,35.088735,-89.964824,35.088735",
+    "geom:latitude":35.088735,
+    "geom:longitude":-89.964824,
+    "iso:country":"US",
+    "sg:address":"2905 Lamar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 744 0490",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YXNK2nXw6gEmpqzXVBeLd_35.088735_-89.964824@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596052,
+    "wof:geomhash":"fa9aa8cc288d09231daf050d315b24c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805535,
+            "region_id":85688701,
+            "venue_id":790465299
+        }
+    ],
+    "wof:id":790465299,
+    "wof:lastmodified":1462596052,
+    "wof:name":"Atrom Automatic Transm Rbldrs",
+    "wof:parent_id":85805535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -89.964824,
+    35.088735,
+    -89.964824,
+    35.088735
+],
+  "geometry": {"coordinates":[-89.96482399999999,35.088735],"type":"Point"}
+}

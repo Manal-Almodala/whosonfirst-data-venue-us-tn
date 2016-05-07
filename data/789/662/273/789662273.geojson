@@ -1,0 +1,75 @@
+{
+  "id": 789662273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.340911,35.791826,-86.340911,35.791826",
+    "geom:latitude":35.791826,
+    "geom:longitude":-86.340911,
+    "iso:country":"US",
+    "sg:address":"119 Merlin Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 294 8593",
+    "sg:postcode":"37127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1741IZaqARZJ7fyhhSEaGH_35.791826_-86.340911@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589562,
+    "wof:geomhash":"be3e18dab820deca3019ed8a768d5203",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":789662273
+        }
+    ],
+    "wof:id":789662273,
+    "wof:lastmodified":1462589562,
+    "wof:name":"T Dent Repair",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -86.340911,
+    35.791826,
+    -86.340911,
+    35.791826
+],
+  "geometry": {"coordinates":[-86.34091100000001,35.791826],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806607319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.371502,36.35044,-82.371502,36.35044",
+    "geom:latitude":36.35044,
+    "geom:longitude":-82.371502,
+    "iso:country":"US",
+    "sg:address":"311 Princeton Rd",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 283 4342",
+    "sg:postcode":"37601",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "clinical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722757,
+        102086335,
+        420542257
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dL9V7suA0lGd0tYaGSxl2_36.350440_-82.371502@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599546,
+    "wof:geomhash":"f36dc2e59d69b5c8d597b7a157043627",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":420542257,
+            "region_id":85688701,
+            "venue_id":806607319
+        }
+    ],
+    "wof:id":806607319,
+    "wof:lastmodified":1462599546,
+    "wof:name":"Quest Diagnostics",
+    "wof:parent_id":420542257,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "clinical"
+    ]
+},
+  "bbox": [
+    -82.371502,
+    36.35044,
+    -82.371502,
+    36.35044
+],
+  "geometry": {"coordinates":[-82.37150200000001,36.35044],"type":"Point"}
+}

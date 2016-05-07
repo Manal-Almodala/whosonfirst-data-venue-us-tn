@@ -1,0 +1,75 @@
+{
+  "id": 789737251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.93753,35.051817,-89.93753,35.051817",
+    "geom:latitude":35.051817,
+    "geom:longitude":-89.93753,
+    "iso:country":"US",
+    "sg:address":"3715 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 566 0459",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85839073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68XY6Sxl8gNHxCDU2t7YfQ_35.051817_-89.937530@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590154,
+    "wof:geomhash":"54d1b0bed42c7f0488223437a8741de0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85839073,
+            "region_id":85688701,
+            "venue_id":789737251
+        }
+    ],
+    "wof:id":789737251,
+    "wof:lastmodified":1462590154,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85839073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -89.93753,
+    35.051817,
+    -89.93753,
+    35.051817
+],
+  "geometry": {"coordinates":[-89.93753,35.051817],"type":"Point"}
+}

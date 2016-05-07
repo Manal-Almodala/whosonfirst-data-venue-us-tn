@@ -1,0 +1,76 @@
+{
+  "id": 807072323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.446755,36.389129,-86.446755,36.389129",
+    "geom:latitude":36.389129,
+    "geom:longitude":-86.446755,
+    "iso:country":"US",
+    "sg:address":"156 N Water Ave",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 451 3206",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QTxjRupsnfiY5u871skGF_36.389129_-86.446755@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603475,
+    "wof:geomhash":"f0a851ba72a2e068546929041f3412a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":807072323
+        }
+    ],
+    "wof:id":807072323,
+    "wof:lastmodified":1462603475,
+    "wof:name":"Midwestern Gas Transmission Co",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.446755,
+    36.389129,
+    -86.446755,
+    36.389129
+],
+  "geometry": {"coordinates":[-86.446755,36.389129],"type":"Point"}
+}

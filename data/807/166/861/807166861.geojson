@@ -1,0 +1,75 @@
+{
+  "id": 807166861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.59634,35.442682,-84.59634,35.442682",
+    "geom:latitude":35.442682,
+    "geom:longitude":-84.59634,
+    "iso:country":"US",
+    "sg:address":"202 N Hill St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 744 9212",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1I1rXQBM2xRVB5efbLoyNu_35.442682_-84.596340@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604446,
+    "wof:geomhash":"c2f5f22ae0302204fa0d95f71f71eb10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":807166861
+        }
+    ],
+    "wof:id":807166861,
+    "wof:lastmodified":1462604446,
+    "wof:name":"Penske Truck Rental",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -84.59634,
+    35.442682,
+    -84.59634,
+    35.442682
+],
+  "geometry": {"coordinates":[-84.59634,35.442682],"type":"Point"}
+}

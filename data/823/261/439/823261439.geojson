@@ -1,0 +1,83 @@
+{
+  "id": 823261439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.032612,35.958012,-85.032612,35.958012",
+    "geom:latitude":35.958012,
+    "geom:longitude":-85.032612,
+    "iso:country":"US",
+    "sg:address":"760 N Main St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/crossville/192829-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 1771",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FtwoqyJGsOTBxLeEtkvgR_35.957886_-85.032889@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609578,
+    "wof:geomhash":"e5e99acdbe569420a02728a04f306729",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":823261439
+        }
+    ],
+    "wof:id":823261439,
+    "wof:lastmodified":1462609578,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -85.032612,
+    35.958012,
+    -85.032612,
+    35.958012
+],
+  "geometry": {"coordinates":[-85.032612,35.958012],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789638485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.538154,35.922108,-86.538154,35.922108",
+    "geom:latitude":35.922108,
+    "geom:longitude":-86.538154,
+    "iso:country":"US",
+    "sg:address":"223 Peebles Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 405 6680",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85813663
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZhOg8TwkE0LxmFbIv3aIY_35.922108_-86.538154@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589364,
+    "wof:geomhash":"d21ff2014171c840fe2e4060cbd35bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85813663,
+            "region_id":85688701,
+            "venue_id":789638485
+        }
+    ],
+    "wof:id":789638485,
+    "wof:lastmodified":1462589364,
+    "wof:name":"Davis Electric",
+    "wof:parent_id":85813663,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.538154,
+    35.922108,
+    -86.538154,
+    35.922108
+],
+  "geometry": {"coordinates":[-86.53815400000001,35.922108],"type":"Point"}
+}

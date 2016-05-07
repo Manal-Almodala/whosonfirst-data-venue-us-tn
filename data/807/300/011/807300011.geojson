@@ -1,0 +1,73 @@
+{
+  "id": 807300011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.951573,35.56259,-84.951573,35.56259",
+    "geom:latitude":35.56259,
+    "geom:longitude":-84.951573,
+    "iso:country":"US",
+    "sg:address":"353 White Flats Rd",
+    "sg:city":"Evensville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 0676",
+    "sg:postcode":"37332",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sTRQlxY4Bh9YyxKUjrXu4_35.562590_-84.951573@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605850,
+    "wof:geomhash":"adfc8c6b1f1c93eaf60bb17fa95b11f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":807300011
+        }
+    ],
+    "wof:id":807300011,
+    "wof:lastmodified":1462605850,
+    "wof:name":"Boles Body Shop",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -84.951573,
+    35.56259,
+    -84.951573,
+    35.56259
+],
+  "geometry": {"coordinates":[-84.951573,35.56259],"type":"Point"}
+}

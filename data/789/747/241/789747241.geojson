@@ -1,0 +1,71 @@
+{
+  "id": 789747241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.19443,35.963593,-83.19443,35.963593",
+    "geom:latitude":35.963593,
+    "geom:longitude":-83.19443,
+    "iso:country":"US",
+    "sg:address":"323 Cosby Hwy",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 2752",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52xnhG68s3ALwuR6CPL4g5_35.963593_-83.194430@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590233,
+    "wof:geomhash":"a6d6ccd3edf943d643226c77fd0ef1c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":789747241
+        }
+    ],
+    "wof:id":789747241,
+    "wof:lastmodified":1462590233,
+    "wof:name":"Thai Kitchen",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -83.19443,
+    35.963593,
+    -83.19443,
+    35.963593
+],
+  "geometry": {"coordinates":[-83.19443,35.963593],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 789916919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.47618,35.8065,-86.47618,35.8065",
+    "geom:latitude":35.8065,
+    "geom:longitude":-86.47618,
+    "iso:country":"US",
+    "sg:address":"6550 Hwy 99",
+    "sg:city":"Rockvale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 274 6230",
+    "sg:postcode":"37153",
+    "sg:province":"TN",
+    "sg:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JxQuHtyK0nxKLk63qUo42_35.806500_-86.476180@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591598,
+    "wof:geomhash":"e0cfead0d7e93af75d64b51e359234c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":789916919
+        }
+    ],
+    "wof:id":789916919,
+    "wof:lastmodified":1462591598,
+    "wof:name":"Rockvale Elementary School",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -86.47618,
+    35.8065,
+    -86.47618,
+    35.8065
+],
+  "geometry": {"coordinates":[-86.47618,35.8065],"type":"Point"}
+}

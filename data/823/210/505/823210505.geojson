@@ -1,0 +1,71 @@
+{
+  "id": 823210505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.922893,35.214977,-89.922893,35.214977",
+    "geom:latitude":35.214977,
+    "geom:longitude":-89.922893,
+    "iso:country":"US",
+    "sg:address":"3356 Fairbanks St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 213 3261",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59rjFcIUUkU4Ol559anpqm_35.214977_-89.922893@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608543,
+    "wof:geomhash":"d979c402feb9f0af0cf5e60ca7238189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823210505
+        }
+    ],
+    "wof:id":823210505,
+    "wof:lastmodified":1462608543,
+    "wof:name":"Beauty By US",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.922893,
+    35.214977,
+    -89.922893,
+    35.214977
+],
+  "geometry": {"coordinates":[-89.922893,35.214977],"type":"Point"}
+}

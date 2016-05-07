@@ -1,0 +1,87 @@
+{
+  "id": 823272049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.147133,35.039299,-85.147133,35.039299",
+    "geom:latitude":35.039299,
+    "geom:longitude":-85.147133,
+    "iso:country":"US",
+    "sg:address":"7429 Shallowford Rd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 308 2560",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "information",
+        "treatment",
+        "home",
+        "referral",
+        "alcoholism"
+    ],
+    "sg:website":"http://www.focustreatmentcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85815159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3u3UICpxFaLk9nYMSTVEf4_35.039299_-85.147133@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609988,
+    "wof:geomhash":"cf578d94834a74810726425adf9c3b2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85815159,
+            "region_id":85688701,
+            "venue_id":823272049
+        }
+    ],
+    "wof:id":823272049,
+    "wof:lastmodified":1462609988,
+    "wof:name":"Focus Healthcare Of Tennessee",
+    "wof:parent_id":85815159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "treatment",
+        "home",
+        "referral",
+        "alcoholism"
+    ]
+},
+  "bbox": [
+    -85.147133,
+    35.039299,
+    -85.147133,
+    35.039299
+],
+  "geometry": {"coordinates":[-85.147133,35.039299],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 806452343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.363829,35.799735,-83.363829,35.799735",
+    "geom:latitude":35.799735,
+    "geom:longitude":-83.363829,
+    "iso:country":"US",
+    "sg:address":"4125 Dockery Branch Rd",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 429 8562",
+    "sg:postcode":"37876",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722579,
+        102086245,
+        85842013
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CGm91ThgzCdh5NgzhGDVQ_35.799735_-83.363829@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598260,
+    "wof:geomhash":"a001282d1e3e85c6ba58e2c8bab66ce0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722579,
+            "neighbourhood_id":85842013,
+            "region_id":85688701,
+            "venue_id":806452343
+        }
+    ],
+    "wof:id":806452343,
+    "wof:lastmodified":1462598260,
+    "wof:name":"Takeout Express Inc",
+    "wof:parent_id":85842013,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.363829,
+    35.799735,
+    -83.363829,
+    35.799735
+],
+  "geometry": {"coordinates":[-83.363829,35.799735],"type":"Point"}
+}

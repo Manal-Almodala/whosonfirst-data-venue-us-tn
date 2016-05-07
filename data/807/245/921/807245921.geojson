@@ -1,0 +1,85 @@
+{
+  "id": 807245921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.149283,35.065419,-90.149283,35.065419",
+    "geom:latitude":35.065419,
+    "geom:longitude":-90.149283,
+    "iso:country":"US",
+    "sg:address":"2389 Hennington Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 789 4923",
+    "sg:postcode":"38109",
+    "sg:province":"TN",
+    "sg:tags":[
+        "compost",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420546491,
+        420542115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rongoCiAPxhg2HSC7ItWB_35.065419_-90.149283@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605285,
+    "wof:geomhash":"49124aa4bef6030825adcdaea9ddbc62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420546491,
+            "region_id":85688701,
+            "venue_id":807245921
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542115,
+            "region_id":85688701,
+            "venue_id":807245921
+        }
+    ],
+    "wof:id":807245921,
+    "wof:lastmodified":1462605285,
+    "wof:name":"Public Works- Compost Site",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compost",
+        "facility"
+    ]
+},
+  "bbox": [
+    -90.149283,
+    35.065419,
+    -90.149283,
+    35.065419
+],
+  "geometry": {"coordinates":[-90.149283,35.065419],"type":"Point"}
+}

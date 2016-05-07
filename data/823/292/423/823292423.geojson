@@ -1,0 +1,80 @@
+{
+  "id": 823292423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.849532,35.020401,-89.849532,35.020401",
+    "geom:latitude":35.020401,
+    "geom:longitude":-89.849532,
+    "iso:country":"US",
+    "sg:address":"6400 E Shelby Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 363 0780",
+    "sg:postcode":"38141",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://www.abraauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52vsDaqy3bbsX5qgsZxHPY_35.020401_-89.849532@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1462610801,
+    "wof:geomhash":"32f0a0a6aa236a22aa171d7dd2f99e00",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870781,
+            "region_id":85688701,
+            "venue_id":823292423
+        }
+    ],
+    "wof:id":823292423,
+    "wof:lastmodified":1462610801,
+    "wof:name":"Abra",
+    "wof:parent_id":85870781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -89.849532,
+    35.020401,
+    -89.849532,
+    35.020401
+],
+  "geometry": {"coordinates":[-89.849532,35.020401],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 806912131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.983454,36.004639,-83.983454,36.004639",
+    "geom:latitude":36.004639,
+    "geom:longitude":-83.983454,
+    "iso:country":"US",
+    "sg:address":"5541 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 281 2961",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MiQvroJE8iY4imb8nrcLR_36.004639_-83.983454@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602113,
+    "wof:geomhash":"218813aa0c26823ff59b782efbc5f297",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":806912131
+        }
+    ],
+    "wof:id":806912131,
+    "wof:lastmodified":1462602113,
+    "wof:name":"Baptist Senior Health Center",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "general"
+    ]
+},
+  "bbox": [
+    -83.983454,
+    36.004639,
+    -83.983454,
+    36.004639
+],
+  "geometry": {"coordinates":[-83.98345399999999,36.004639],"type":"Point"}
+}

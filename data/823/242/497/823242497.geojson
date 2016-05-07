@@ -1,0 +1,74 @@
+{
+  "id": 823242497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.276297,36.509892,-87.276297,36.509892",
+    "geom:latitude":36.509892,
+    "geom:longitude":-87.276297,
+    "iso:country":"US",
+    "sg:address":"2219 Madison St",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/clarksville/191776-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 645 9273",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MyCOkbdLIafAX0H5YYh0z_36.509892_-87.276297@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609193,
+    "wof:geomhash":"28327008f8130e5cf09a5850ea6d48ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846417,
+            "region_id":85688701,
+            "venue_id":823242497
+        }
+    ],
+    "wof:id":823242497,
+    "wof:lastmodified":1462609193,
+    "wof:name":"Sonic",
+    "wof:parent_id":85846417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -87.276297,
+    36.509892,
+    -87.276297,
+    36.509892
+],
+  "geometry": {"coordinates":[-87.276297,36.509892],"type":"Point"}
+}

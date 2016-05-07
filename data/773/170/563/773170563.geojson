@@ -1,0 +1,71 @@
+{
+  "id": 773170563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.184871,35.880594,-83.184871,35.880594",
+    "geom:latitude":35.880594,
+    "geom:longitude":-83.184871,
+    "iso:country":"US",
+    "sg:address":"1885 Hwy 73",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 0530",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ji6eMQV45K9uN8UnDQhKW_35.880594_-83.184871@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583672,
+    "wof:geomhash":"b1eaa2ae55e19aa69293065135489eff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":773170563
+        }
+    ],
+    "wof:id":773170563,
+    "wof:lastmodified":1462583672,
+    "wof:name":"Frank's Truck Repair",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.184871,
+    35.880594,
+    -83.184871,
+    35.880594
+],
+  "geometry": {"coordinates":[-83.184871,35.880594],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789922625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.474026,35.696424,-86.474026,35.696424",
+    "geom:latitude":35.696424,
+    "geom:longitude":-86.474026,
+    "iso:country":"US",
+    "sg:address":"5464 Jones Rd",
+    "sg:city":"Christiana",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 494 3948",
+    "sg:postcode":"37037",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dept"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qU4gjCIUL5tkt8283wBKO_35.696424_-86.474026@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591646,
+    "wof:geomhash":"644d20834b360e22bf19aed8581af301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":789922625
+        }
+    ],
+    "wof:id":789922625,
+    "wof:lastmodified":1462591646,
+    "wof:name":"Fosterville Fire Dst No 35",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dept"
+    ]
+},
+  "bbox": [
+    -86.474026,
+    35.696424,
+    -86.474026,
+    35.696424
+],
+  "geometry": {"coordinates":[-86.47402599999999,35.696424],"type":"Point"}
+}

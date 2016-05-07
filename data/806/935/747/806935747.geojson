@@ -1,0 +1,71 @@
+{
+  "id": 806935747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.033728,35.616164,-87.033728,35.616164",
+    "geom:latitude":35.616164,
+    "geom:longitude":-87.033728,
+    "iso:country":"US",
+    "sg:address":"707 N Main St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 380 2730",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YutK4k0qKPdIXgU2WLblE_35.616164_-87.033728@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602323,
+    "wof:geomhash":"5f5fc84e6b1c2e38571a9aef041a94bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":806935747
+        }
+    ],
+    "wof:id":806935747,
+    "wof:lastmodified":1462602323,
+    "wof:name":"Fire Inspector",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.033728,
+    35.616164,
+    -87.033728,
+    35.616164
+],
+  "geometry": {"coordinates":[-87.033728,35.616164],"type":"Point"}
+}

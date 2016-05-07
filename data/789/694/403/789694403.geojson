@@ -1,0 +1,69 @@
+{
+  "id": 789694403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.087663,35.022708,-85.087663,35.022708",
+    "geom:latitude":35.022708,
+    "geom:longitude":-85.087663,
+    "iso:country":"US",
+    "sg:address":"2605 Pheasant Ln",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 892 9324",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85826071,
+        102087185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rCaI96psR7IKc1BF1xRAa_35.022708_-85.087663@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589813,
+    "wof:geomhash":"39c0f3ab6df14d747a81c5df3f904266",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087185,
+            "neighbourhood_id":85826071,
+            "region_id":85688701,
+            "venue_id":789694403
+        }
+    ],
+    "wof:id":789694403,
+    "wof:lastmodified":1462589813,
+    "wof:name":"Affordable Cleaning",
+    "wof:parent_id":85826071,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.087663,
+    35.022708,
+    -85.087663,
+    35.022708
+],
+  "geometry": {"coordinates":[-85.08766300000001,35.022708],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773204635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.056601,36.429253,-89.056601,36.429253",
+    "geom:latitude":36.429253,
+    "geom:longitude":-89.056601,
+    "iso:country":"US",
+    "sg:address":"111 E College St",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 5761",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OnTYSOawK04kYqgOGeOdO_36.429253_-89.056601@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583962,
+    "wof:geomhash":"f3c7dd540294ac1f0721e4c9c9db9f61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":773204635
+        }
+    ],
+    "wof:id":773204635,
+    "wof:lastmodified":1462583962,
+    "wof:name":"Jimmy Hayes Motor Co",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.056601,
+    36.429253,
+    -89.056601,
+    36.429253
+],
+  "geometry": {"coordinates":[-89.056601,36.429253],"type":"Point"}
+}

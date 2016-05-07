@@ -1,0 +1,73 @@
+{
+  "id": 789810225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.014982,35.493404,-85.014982,35.493404",
+    "geom:latitude":35.493404,
+    "geom:longitude":-85.014982,
+    "iso:country":"US",
+    "sg:address":"400 Main Ave",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 8417",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "govt",
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QJFaqD4ctH9EtbTPmWRP0_35.493404_-85.014982@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590715,
+    "wof:geomhash":"3055ba74a145c37ce33e4910e1a6605d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":789810225
+        }
+    ],
+    "wof:id":789810225,
+    "wof:lastmodified":1462590715,
+    "wof:name":"Dayton City Of Utility Billing",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "city"
+    ]
+},
+  "bbox": [
+    -85.014982,
+    35.493404,
+    -85.014982,
+    35.493404
+],
+  "geometry": {"coordinates":[-85.014982,35.493404],"type":"Point"}
+}

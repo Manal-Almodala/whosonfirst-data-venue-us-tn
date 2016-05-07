@@ -1,0 +1,87 @@
+{
+  "id": 823264369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.84891,36.124043,-86.84891,36.124043",
+    "geom:latitude":36.124043,
+    "geom:longitude":-86.84891,
+    "iso:country":"US",
+    "sg:address":"4524 Harding Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 292 0601",
+    "sg:postcode":"37205",
+    "sg:province":"TN",
+    "sg:tags":[
+        "photo",
+        "finishing",
+        "first",
+        "aid",
+        "supply"
+    ],
+    "sg:website":"http://www.cvs.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85844411
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TiQ4rASrEC8tRQahPP9on_36.124043_-86.848910@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609692,
+    "wof:geomhash":"e1f4c7cb6d327f0735ce939890dd9bb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85844411,
+            "region_id":85688701,
+            "venue_id":823264369
+        }
+    ],
+    "wof:id":823264369,
+    "wof:lastmodified":1462609692,
+    "wof:name":"CVS/pharmacy",
+    "wof:parent_id":85844411,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing",
+        "first",
+        "aid",
+        "supply"
+    ]
+},
+  "bbox": [
+    -86.84891,
+    36.124043,
+    -86.84891,
+    36.124043
+],
+  "geometry": {"coordinates":[-86.84891,36.124043],"type":"Point"}
+}

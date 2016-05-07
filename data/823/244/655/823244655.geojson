@@ -1,0 +1,74 @@
+{
+  "id": 823244655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.426492,35.848721,-86.426492,35.848721",
+    "geom:latitude":35.848721,
+    "geom:longitude":-86.426492,
+    "iso:country":"US",
+    "sg:address":"1968 Old Fort Pkwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/97758-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 849 9200",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_130USaM32f1ho4K0qYVdGH_35.848721_-86.426492@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609230,
+    "wof:geomhash":"37b40b81a7aba80b8e8e0af17d651150",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823244655
+        }
+    ],
+    "wof:id":823244655,
+    "wof:lastmodified":1462609230,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -86.426492,
+    35.848721,
+    -86.426492,
+    35.848721
+],
+  "geometry": {"coordinates":[-86.426492,35.848721],"type":"Point"}
+}

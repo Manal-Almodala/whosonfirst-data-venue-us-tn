@@ -1,0 +1,84 @@
+{
+  "id": 789740497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.887608,35.043526,-89.887608,35.043526",
+    "geom:latitude":35.043526,
+    "geom:longitude":-89.887608,
+    "iso:country":"US",
+    "sg:address":"5291 Mendenhall Park Pl",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 685 9665",
+    "sg:postcode":"38115",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "sg:website":"www.kimcocorp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_314HdbvxAzB4vbNUxvJT3k_35.043526_-89.887608@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590181,
+    "wof:geomhash":"29435b5fad231317e3134e022804d386",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":789740497
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":789740497
+        }
+    ],
+    "wof:id":789740497,
+    "wof:lastmodified":1462590181,
+    "wof:name":"Kimco Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -89.887608,
+    35.043526,
+    -89.887608,
+    35.043526
+],
+  "geometry": {"coordinates":[-89.887608,35.043526],"type":"Point"}
+}

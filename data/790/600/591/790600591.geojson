@@ -1,0 +1,73 @@
+{
+  "id": 790600591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.826178,35.902798,-83.826178,35.902798",
+    "geom:latitude":35.902798,
+    "geom:longitude":-83.826178,
+    "iso:country":"US",
+    "sg:address":"8102 Chapman Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 573 6829",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85833365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VShjIRcX3gMOmzhUzfdpP_35.902798_-83.826178@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597230,
+    "wof:geomhash":"7213aa85e22ddcce02d0100d0c618f5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85833365,
+            "region_id":85688701,
+            "venue_id":790600591
+        }
+    ],
+    "wof:id":790600591,
+    "wof:lastmodified":1462597230,
+    "wof:name":"Steve's Service Ctr",
+    "wof:parent_id":85833365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.826178,
+    35.902798,
+    -83.826178,
+    35.902798
+],
+  "geometry": {"coordinates":[-83.826178,35.902798],"type":"Point"}
+}

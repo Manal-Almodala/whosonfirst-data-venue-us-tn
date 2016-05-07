@@ -1,0 +1,73 @@
+{
+  "id": 807256921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.526842,36.140432,-85.526842,36.140432",
+    "geom:latitude":36.140432,
+    "geom:longitude":-85.526842,
+    "iso:country":"US",
+    "sg:address":"1045 S Willow Ave",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 526 5000",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63I8d1wbjNRG9IISNWCZnC_36.140432_-85.526842@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605398,
+    "wof:geomhash":"0da13c043f91ff63e2c5852b4cb574e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":807256921
+        }
+    ],
+    "wof:id":807256921,
+    "wof:lastmodified":1462605398,
+    "wof:name":"I 40 BP",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -85.526842,
+    36.140432,
+    -85.526842,
+    36.140432
+],
+  "geometry": {"coordinates":[-85.526842,36.140432],"type":"Point"}
+}

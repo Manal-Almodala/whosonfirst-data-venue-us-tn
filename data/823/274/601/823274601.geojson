@@ -1,0 +1,82 @@
+{
+  "id": 823274601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.87001,35.924612,-83.87001,35.924612",
+    "geom:latitude":35.924612,
+    "geom:longitude":-83.87001,
+    "iso:country":"US",
+    "sg:address":"6202 King Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 258 2105",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85833365
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hOvHh6WQUp81GrBdBTAxd_35.924612_-83.870010@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610092,
+    "wof:geomhash":"1b8aa4fc0d4b7cd9dde23b098e4b522d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85833365,
+            "region_id":85688701,
+            "venue_id":823274601
+        }
+    ],
+    "wof:id":823274601,
+    "wof:lastmodified":1462610092,
+    "wof:name":"Fence & More",
+    "wof:parent_id":85833365,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.87001,
+    35.924612,
+    -83.87001,
+    35.924612
+],
+  "geometry": {"coordinates":[-83.87000999999999,35.924612],"type":"Point"}
+}

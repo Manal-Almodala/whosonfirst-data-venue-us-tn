@@ -1,0 +1,83 @@
+{
+  "id": 790116909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.737317,36.119882,-86.737317,36.119882",
+    "geom:latitude":36.119882,
+    "geom:longitude":-86.737317,
+    "iso:country":"US",
+    "sg:address":"54 Peachtree St",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 456 6775",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85893481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hTr3o1pc3nTXTdpE6I2rL_36.119882_-86.737317@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593265,
+    "wof:geomhash":"77e80c43ad3b95c98d9713d4a19d681b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":790116909
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893481,
+            "region_id":85688701,
+            "venue_id":790116909
+        }
+    ],
+    "wof:id":790116909,
+    "wof:lastmodified":1462593265,
+    "wof:name":"Snappy Delivery",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -86.737317,
+    36.119882,
+    -86.737317,
+    36.119882
+],
+  "geometry": {"coordinates":[-86.737317,36.119882],"type":"Point"}
+}

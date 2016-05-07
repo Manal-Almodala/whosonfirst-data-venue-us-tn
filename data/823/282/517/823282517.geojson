@@ -1,0 +1,85 @@
+{
+  "id": 823282517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.934243,35.107599,-89.934243,35.107599",
+    "geom:latitude":35.107599,
+    "geom:longitude":-89.934243,
+    "iso:country":"US",
+    "sg:address":"3852 Park Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 454 7733",
+    "sg:postcode":"38111",
+    "sg:province":"TN",
+    "sg:tags":[
+        "equipment",
+        "course",
+        "equipment-repairing",
+        "supply"
+    ],
+    "sg:website":"http://www.mulligangolfmemphis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85837075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16YUO1YQMzMNKBaZQALm5v_35.107599_-89.934243@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610419,
+    "wof:geomhash":"856781994cc3d02c1ef2063d0e30c6b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85837075,
+            "region_id":85688701,
+            "venue_id":823282517
+        }
+    ],
+    "wof:id":823282517,
+    "wof:lastmodified":1462610419,
+    "wof:name":"Mulligan Golf Shop",
+    "wof:parent_id":85837075,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "course",
+        "equipment-repairing",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.934243,
+    35.107599,
+    -89.934243,
+    35.107599
+],
+  "geometry": {"coordinates":[-89.934243,35.107599],"type":"Point"}
+}

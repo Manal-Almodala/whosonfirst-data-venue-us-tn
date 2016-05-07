@@ -1,0 +1,69 @@
+{
+  "id": 807021833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.773496,35.647364,-88.773496,35.647364",
+    "geom:latitude":35.647364,
+    "geom:longitude":-88.773496,
+    "iso:country":"US",
+    "sg:address":"1569 Hwy 70 E",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 422 1048",
+    "sg:postcode":"38305",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85830001,
+        102087221
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KMjW0ZEWUwSOQHZzHn6xD_35.647364_-88.773496@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603053,
+    "wof:geomhash":"32b4c9157f38f2ecd6a4f303bec8cdf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "neighbourhood_id":85830001,
+            "region_id":85688701,
+            "venue_id":807021833
+        }
+    ],
+    "wof:id":807021833,
+    "wof:lastmodified":1462603053,
+    "wof:name":"70 Wrecker Svc",
+    "wof:parent_id":85830001,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -88.773496,
+    35.647364,
+    -88.773496,
+    35.647364
+],
+  "geometry": {"coordinates":[-88.77349599999999,35.647364],"type":"Point"}
+}

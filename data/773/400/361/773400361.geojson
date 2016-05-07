@@ -1,0 +1,75 @@
+{
+  "id": 773400361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.092226,35.462529,-86.092226,35.462529",
+    "geom:latitude":35.462529,
+    "geom:longitude":-86.092226,
+    "iso:country":"US",
+    "sg:address":"1500 S Spring St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Farm Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 7234",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LwLFo0VPQEYDl28aCqU7a_35.462529_-86.092226@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585401,
+    "wof:geomhash":"64f09f3c3bb1110c048b97d5533d3292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":773400361
+        }
+    ],
+    "wof:id":773400361,
+    "wof:lastmodified":1462585401,
+    "wof:name":"Coffee County Livestock Market",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "livestock",
+        "market"
+    ]
+},
+  "bbox": [
+    -86.092226,
+    35.462529,
+    -86.092226,
+    35.462529
+],
+  "geometry": {"coordinates":[-86.092226,35.462529],"type":"Point"}
+}

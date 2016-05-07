@@ -1,0 +1,74 @@
+{
+  "id": 823245873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.778396,36.205223,-86.778396,36.205223",
+    "geom:latitude":36.205223,
+    "geom:longitude":-86.778396,
+    "iso:country":"US",
+    "sg:address":"1410 Brick Church Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/215227-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 228 4796",
+    "sg:postcode":"37207",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85807929
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jDePqXEVxNem6LtlL4kf7_36.205223_-86.778396@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609258,
+    "wof:geomhash":"076b4b1bb6892d4ae8653b468fa8b98e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85807929,
+            "region_id":85688701,
+            "venue_id":823245873
+        }
+    ],
+    "wof:id":823245873,
+    "wof:lastmodified":1462609258,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85807929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.778396,
+    36.205223,
+    -86.778396,
+    36.205223
+],
+  "geometry": {"coordinates":[-86.778396,36.205223],"type":"Point"}
+}

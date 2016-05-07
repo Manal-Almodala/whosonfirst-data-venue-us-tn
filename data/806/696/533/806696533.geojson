@@ -1,0 +1,73 @@
+{
+  "id": 806696533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.855331,35.254574,-89.855331,35.254574",
+    "geom:latitude":35.254574,
+    "geom:longitude":-89.855331,
+    "iso:country":"US",
+    "sg:address":"4742 Molsonwood Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 385 5483",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3egxDvTucIOzOExmDXBOt2_35.254574_-89.855331@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600308,
+    "wof:geomhash":"f27b86e77dccada570539f9f456dada4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":806696533
+        }
+    ],
+    "wof:id":806696533,
+    "wof:lastmodified":1462600308,
+    "wof:name":"Socket Electric",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.855331,
+    35.254574,
+    -89.855331,
+    35.254574
+],
+  "geometry": {"coordinates":[-89.85533100000001,35.254574],"type":"Point"}
+}

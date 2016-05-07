@@ -1,0 +1,76 @@
+{
+  "id": 773213177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.551611,35.932764,-84.551611,35.932764",
+    "geom:latitude":35.932764,
+    "geom:longitude":-84.551611,
+    "iso:country":"US",
+    "sg:address":"517 Morgan Ave NE",
+    "sg:city":"Harriman",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 882 1000",
+    "sg:postcode":"37748",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722695,
+        102087051,
+        85841801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ICTjyDXuoPWmW3cyDUWAN_35.932764_-84.551611@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584019,
+    "wof:geomhash":"484aece9dbda461eea08ca95538138ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101722695,
+            "neighbourhood_id":85841801,
+            "region_id":85688701,
+            "venue_id":773213177
+        }
+    ],
+    "wof:id":773213177,
+    "wof:lastmodified":1462584019,
+    "wof:name":"Bodine Little Cab Co",
+    "wof:parent_id":85841801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -84.551611,
+    35.932764,
+    -84.551611,
+    35.932764
+],
+  "geometry": {"coordinates":[-84.55161099999999,35.932764],"type":"Point"}
+}

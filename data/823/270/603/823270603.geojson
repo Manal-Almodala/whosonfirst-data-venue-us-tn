@@ -1,0 +1,84 @@
+{
+  "id": 823270603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.312392,35.023406,-85.312392,35.023406",
+    "geom:latitude":35.023406,
+    "geom:longitude":-85.312392,
+    "iso:country":"US",
+    "sg:address":"21 W 28th St",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Attraction",
+            "type":"Public Place"
+        },
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 756 3825",
+    "sg:postcode":"37408",
+    "sg:province":"TN",
+    "sg:tags":[
+        "tour",
+        "tours-operators",
+        "promoter",
+        "sightseeing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85846343
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qdwuLrba6jt3MgxuWmTQa_35.023406_-85.312392@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609935,
+    "wof:geomhash":"eb1f8ef4e67be70e471fdafc78b03161",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85846343,
+            "region_id":85688701,
+            "venue_id":823270603
+        }
+    ],
+    "wof:id":823270603,
+    "wof:lastmodified":1462609935,
+    "wof:name":"Chattanooga Ducks",
+    "wof:parent_id":85846343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour",
+        "tours-operators",
+        "promoter",
+        "sightseeing"
+    ]
+},
+  "bbox": [
+    -85.312392,
+    35.023406,
+    -85.312392,
+    35.023406
+],
+  "geometry": {"coordinates":[-85.312392,35.023406],"type":"Point"}
+}

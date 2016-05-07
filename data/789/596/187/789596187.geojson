@@ -1,0 +1,75 @@
+{
+  "id": 789596187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.717996,36.066863,-86.717996,36.066863",
+    "geom:latitude":36.066863,
+    "geom:longitude":-86.717996,
+    "iso:country":"US",
+    "sg:address":"4710 Nolensville Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 781 6148",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "engine",
+        "building"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85857391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hYdg6A5o5rfX4rtHyEtGi_36.066863_-86.717996@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589029,
+    "wof:geomhash":"b768eff5138eabb92dd760c4ca0b139e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85857391,
+            "region_id":85688701,
+            "venue_id":789596187
+        }
+    ],
+    "wof:id":789596187,
+    "wof:lastmodified":1462589029,
+    "wof:name":"Performance Engineering",
+    "wof:parent_id":85857391,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "building"
+    ]
+},
+  "bbox": [
+    -86.717996,
+    36.066863,
+    -86.717996,
+    36.066863
+],
+  "geometry": {"coordinates":[-86.717996,36.066863],"type":"Point"}
+}

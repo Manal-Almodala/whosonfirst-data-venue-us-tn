@@ -1,0 +1,75 @@
+{
+  "id": 789853375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.927767,35.991152,-83.927767,35.991152",
+    "geom:latitude":35.991152,
+    "geom:longitude":-83.927767,
+    "iso:country":"US",
+    "sg:address":"939 E Emerald Ave",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 524 9400",
+    "sg:postcode":"37917",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85878559
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3chhPR6aGr9rG7AjobHz0z_35.991152_-83.927767@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591055,
+    "wof:geomhash":"6d7257f75d2d6966cdcfad18ce8c90da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85878559,
+            "region_id":85688701,
+            "venue_id":789853375
+        }
+    ],
+    "wof:id":789853375,
+    "wof:lastmodified":1462591055,
+    "wof:name":"Neurosurgical Associates",
+    "wof:parent_id":85878559,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -83.927767,
+    35.991152,
+    -83.927767,
+    35.991152
+],
+  "geometry": {"coordinates":[-83.927767,35.991152],"type":"Point"}
+}

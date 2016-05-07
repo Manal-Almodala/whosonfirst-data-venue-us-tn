@@ -1,0 +1,71 @@
+{
+  "id": 790065951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.731281,35.518015,-89.731281,35.518015",
+    "geom:latitude":35.518015,
+    "geom:longitude":-89.731281,
+    "iso:country":"US",
+    "sg:address":"1490 Jack Bennett Rd",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 2570",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SvvGjIwUcT28ijojkc7Nj_35.518015_-89.731281@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592862,
+    "wof:geomhash":"f5ccc1d275735576736cc843faca7604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":790065951
+        }
+    ],
+    "wof:id":790065951,
+    "wof:lastmodified":1462592862,
+    "wof:name":"Auto Air Service",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -89.731281,
+    35.518015,
+    -89.731281,
+    35.518015
+],
+  "geometry": {"coordinates":[-89.731281,35.518015],"type":"Point"}
+}

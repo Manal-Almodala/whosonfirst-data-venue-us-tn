@@ -1,0 +1,71 @@
+{
+  "id": 773239909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.222447,35.842884,-83.222447,35.842884",
+    "geom:latitude":35.842884,
+    "geom:longitude":-83.222447,
+    "iso:country":"US",
+    "sg:address":"3292 Cosby Hwy",
+    "sg:city":"Cosby",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 487 2593",
+    "sg:postcode":"37722",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZFao5UiHUrtcvg8RFdAjb_35.842884_-83.222447@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584215,
+    "wof:geomhash":"caaf7b10fbbd4d100c0fb62ede011de2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":773239909
+        }
+    ],
+    "wof:id":773239909,
+    "wof:lastmodified":1462584215,
+    "wof:name":"Cosby Volunteer Fire Dept",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.222447,
+    35.842884,
+    -83.222447,
+    35.842884
+],
+  "geometry": {"coordinates":[-83.222447,35.842884],"type":"Point"}
+}

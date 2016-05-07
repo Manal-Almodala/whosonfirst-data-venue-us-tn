@@ -1,0 +1,80 @@
+{
+  "id": 807244697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.195794,35.958751,-83.195794,35.958751",
+    "geom:latitude":35.958751,
+    "geom:longitude":-83.195794,
+    "iso:country":"US",
+    "sg:address":"519 Cosby Hwy",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 623 4033",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive",
+        "parts",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722575,
+        102086241,
+        85827351
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CUJNo4zmUkWGKMtf2YJL0_35.958751_-83.195794@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605271,
+    "wof:geomhash":"a0c32daa53978b5afed8955a267eeb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "locality_id":101722575,
+            "neighbourhood_id":85827351,
+            "region_id":85688701,
+            "venue_id":807244697
+        }
+    ],
+    "wof:id":807244697,
+    "wof:lastmodified":1462605271,
+    "wof:name":"Newport Car Care Center",
+    "wof:parent_id":85827351,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "parts",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -83.195794,
+    35.958751,
+    -83.195794,
+    35.958751
+],
+  "geometry": {"coordinates":[-83.19579400000001,35.958751],"type":"Point"}
+}

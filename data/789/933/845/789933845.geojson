@@ -1,0 +1,71 @@
+{
+  "id": 789933845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.656542,35.553473,-89.656542,35.553473",
+    "geom:latitude":35.553473,
+    "geom:longitude":-89.656542,
+    "iso:country":"US",
+    "sg:address":"947 US Hwy 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 0550",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AbDSzEIhRs6zmI8axH2Ou_35.553473_-89.656542@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591739,
+    "wof:geomhash":"5e3cb7fd85f0a736ff2c96de52b6cda4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789933845
+        }
+    ],
+    "wof:id":789933845,
+    "wof:lastmodified":1462591739,
+    "wof:name":"Willies Auto Shop",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -89.656542,
+    35.553473,
+    -89.656542,
+    35.553473
+],
+  "geometry": {"coordinates":[-89.656542,35.553473],"type":"Point"}
+}

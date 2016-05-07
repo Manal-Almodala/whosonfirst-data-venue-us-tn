@@ -1,0 +1,73 @@
+{
+  "id": 789622013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.918888,36.053711,-83.918888,36.053711",
+    "geom:latitude":36.053711,
+    "geom:longitude":-83.918888,
+    "iso:country":"US",
+    "sg:address":"5838 Briercliff Rd NE",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 755 7050",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VaN1ZWmjHDIHKm0pfc2lB_36.053711_-83.918888@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589232,
+    "wof:geomhash":"41a24e3f146c17e5d3567f72168a1d7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":789622013
+        }
+    ],
+    "wof:id":789622013,
+    "wof:lastmodified":1462589232,
+    "wof:name":"Access Lock & Key",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -83.918888,
+    36.053711,
+    -83.918888,
+    36.053711
+],
+  "geometry": {"coordinates":[-83.918888,36.053711],"type":"Point"}
+}

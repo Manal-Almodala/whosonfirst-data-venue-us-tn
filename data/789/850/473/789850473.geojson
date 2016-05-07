@@ -1,0 +1,73 @@
+{
+  "id": 789850473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.023163,35.942795,-85.023163,35.942795",
+    "geom:latitude":35.942795,
+    "geom:longitude":-85.023163,
+    "iso:country":"US",
+    "sg:address":"396 S Main St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 456 6301",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p45nxoS3n2PshSXb8DsKZ_35.942795_-85.023163@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591030,
+    "wof:geomhash":"88c58c4086ceb1508a52eb0fd50f6df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":789850473
+        }
+    ],
+    "wof:id":789850473,
+    "wof:lastmodified":1462591030,
+    "wof:name":"Respiratory Home Care Inc",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.023163,
+    35.942795,
+    -85.023163,
+    35.942795
+],
+  "geometry": {"coordinates":[-85.023163,35.942795],"type":"Point"}
+}

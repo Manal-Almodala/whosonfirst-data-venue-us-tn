@@ -1,0 +1,78 @@
+{
+  "id": 789834005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.001901,35.991467,-84.001901,35.991467",
+    "geom:latitude":35.991467,
+    "geom:longitude":-84.001901,
+    "iso:country":"US",
+    "sg:address":"5422 Pleasant Ridge Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 673 0280",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q2i2QmLWXpxUDR6wOVVY6_35.991467_-84.001901@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590899,
+    "wof:geomhash":"e9bb71ed2d589e8b09a57a4f6b987691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":789834005
+        }
+    ],
+    "wof:id":789834005,
+    "wof:lastmodified":1462590899,
+    "wof:name":"Deluxe Dry Cleaners",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -84.001901,
+    35.991467,
+    -84.001901,
+    35.991467
+],
+  "geometry": {"coordinates":[-84.001901,35.991467],"type":"Point"}
+}

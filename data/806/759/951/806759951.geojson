@@ -1,0 +1,73 @@
+{
+  "id": 806759951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.440788,36.389786,-86.440788,36.389786",
+    "geom:latitude":36.389786,
+    "geom:longitude":-86.440788,
+    "iso:country":"US",
+    "sg:address":"404 E Main St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 0013",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lL5WQob9NCMHnBhLfQqlN_36.389786_-86.440788@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600848,
+    "wof:geomhash":"48c50e76d5c7d19c3da7cce41b86e89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":806759951
+        }
+    ],
+    "wof:id":806759951,
+    "wof:lastmodified":1462600848,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.440788,
+    36.389786,
+    -86.440788,
+    36.389786
+],
+  "geometry": {"coordinates":[-86.440788,36.389786],"type":"Point"}
+}

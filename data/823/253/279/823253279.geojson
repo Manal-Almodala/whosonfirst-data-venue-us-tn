@@ -1,0 +1,72 @@
+{
+  "id": 823253279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.112134,35.979382,-84.112134,35.979382",
+    "geom:latitude":35.979382,
+    "geom:longitude":-84.112134,
+    "iso:country":"US",
+    "sg:address":"7816 Oak Ridge Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/karns/191639-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 690 0122",
+    "sg:postcode":"37931",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85856659,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SGGX88xGHeLOlowaOWUKz_35.979382_-84.112134@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609408,
+    "wof:geomhash":"ca7204158702c07e33feea0374bb64cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85856659,
+            "region_id":85688701,
+            "venue_id":823253279
+        }
+    ],
+    "wof:id":823253279,
+    "wof:lastmodified":1462609408,
+    "wof:name":"Sonic",
+    "wof:parent_id":85856659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.112134,
+    35.979382,
+    -84.112134,
+    35.979382
+],
+  "geometry": {"coordinates":[-84.112134,35.979382],"type":"Point"}
+}

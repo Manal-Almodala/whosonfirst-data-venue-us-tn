@@ -1,0 +1,73 @@
+{
+  "id": 773241951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.038757,35.599544,-87.038757,35.599544",
+    "geom:latitude":35.599544,
+    "geom:longitude":-87.038757,
+    "iso:country":"US",
+    "sg:address":"104 E 18th St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 4947",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3phNWenfTL4HoNEIgkYz1t_35.599544_-87.038757@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584229,
+    "wof:geomhash":"b7cb4ba86145340904924c0a3ec6dd55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":773241951
+        }
+    ],
+    "wof:id":773241951,
+    "wof:lastmodified":1462584229,
+    "wof:name":"Eddie's Automotive Repair",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.038757,
+    35.599544,
+    -87.038757,
+    35.599544
+],
+  "geometry": {"coordinates":[-87.038757,35.599544],"type":"Point"}
+}

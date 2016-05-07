@@ -1,0 +1,84 @@
+{
+  "id": 806783261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.735419,36.139947,-86.735419,36.139947",
+    "geom:latitude":36.139947,
+    "geom:longitude":-86.735419,
+    "iso:country":"US",
+    "sg:address":"702 Murfreesboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 742 7445",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "gallery"
+    ],
+    "sg:website":"www.lanemotormuseum.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85835935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y4c0WtRP8MdzpcKOrCgfa_36.139947_-86.735419@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601046,
+    "wof:geomhash":"f9998ac98dedd7a157c15d28ada5cc63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":806783261
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85835935,
+            "region_id":85688701,
+            "venue_id":806783261
+        }
+    ],
+    "wof:id":806783261,
+    "wof:lastmodified":1462601046,
+    "wof:name":"Lane Motor Museum",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -86.735419,
+    36.139947,
+    -86.735419,
+    36.139947
+],
+  "geometry": {"coordinates":[-86.73541899999999,36.139947],"type":"Point"}
+}

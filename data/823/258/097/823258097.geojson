@@ -1,0 +1,74 @@
+{
+  "id": 823258097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.325071,36.214445,-86.325071,36.214445",
+    "geom:latitude":36.214445,
+    "geom:longitude":-86.325071,
+    "iso:country":"US",
+    "sg:address":"1313 W Main St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/lebanon/84349-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 7272",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jqWNvgjDv28w6QfxXR45O_36.214462_-86.325122@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609510,
+    "wof:geomhash":"052bf26a6771b82f83a0dfb8a12e080d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":823258097
+        }
+    ],
+    "wof:id":823258097,
+    "wof:lastmodified":1462609510,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.325071,
+    36.214445,
+    -86.325071,
+    36.214445
+],
+  "geometry": {"coordinates":[-86.32507099999999,36.214445],"type":"Point"}
+}

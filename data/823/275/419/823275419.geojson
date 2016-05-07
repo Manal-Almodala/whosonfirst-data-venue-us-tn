@@ -1,0 +1,86 @@
+{
+  "id": 823275419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.784709,35.447294,-89.784709,35.447294",
+    "geom:latitude":35.447294,
+    "geom:longitude":-89.784709,
+    "iso:country":"US",
+    "sg:address":"11124 Highway 51 S",
+    "sg:city":"Atoka",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 3663",
+    "sg:postcode":"38004",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.dominospizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aq0EFXLueORPWcDD5hwyl_35.447294_-89.784709@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610126,
+    "wof:geomhash":"9c28b3ca2e8330c5bc915649ccc8e7d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823275419
+        }
+    ],
+    "wof:id":823275419,
+    "wof:lastmodified":1462610126,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.784709,
+    35.447294,
+    -89.784709,
+    35.447294
+],
+  "geometry": {"coordinates":[-89.78470900000001,35.447294],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806583549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.037345,35.955215,-85.037345,35.955215",
+    "geom:latitude":35.955215,
+    "geom:longitude":-85.037345,
+    "iso:country":"US",
+    "sg:address":"314 Miller Ave",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 8718",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cihJc9EmqnNwI5aeW1SAT_35.955215_-85.037345@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599341,
+    "wof:geomhash":"e19788aadd57e717d727a26888b8ca5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":806583549
+        }
+    ],
+    "wof:id":806583549,
+    "wof:lastmodified":1462599341,
+    "wof:name":"Glen Martin Elementery",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -85.037345,
+    35.955215,
+    -85.037345,
+    35.955215
+],
+  "geometry": {"coordinates":[-85.037345,35.955215],"type":"Point"}
+}

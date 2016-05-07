@@ -1,0 +1,83 @@
+{
+  "id": 807313993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.341209,36.514303,-87.341209,36.514303",
+    "geom:latitude":36.514303,
+    "geom:longitude":-87.341209,
+    "iso:country":"US",
+    "sg:address":"1201 Greenfield Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 503 0152",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85809463,
+        85857915
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SovGn7sY9Ij1fxsOWyC0E_36.514303_-87.341209@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606000,
+    "wof:geomhash":"a503cb4976834f3165d77a0a24ac066b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85809463,
+            "region_id":85688701,
+            "venue_id":807313993
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85857915,
+            "region_id":85688701,
+            "venue_id":807313993
+        }
+    ],
+    "wof:id":807313993,
+    "wof:lastmodified":1462606000,
+    "wof:name":"Jordan Grocery Store",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.341209,
+    36.514303,
+    -87.341209,
+    36.514303
+],
+  "geometry": {"coordinates":[-87.34120900000001,36.514303],"type":"Point"}
+}

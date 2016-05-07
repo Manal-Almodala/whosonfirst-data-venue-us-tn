@@ -1,0 +1,74 @@
+{
+  "id": 790614555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.827372,35.609771,-88.827372,35.609771",
+    "geom:latitude":35.609771,
+    "geom:longitude":-88.827372,
+    "iso:country":"US",
+    "sg:address":"510 Riverside Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 424 1157",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "sg:website":"www.tiretreads.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p4wc1JP6GpAMl65fDSrNz_35.609771_-88.827372@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597353,
+    "wof:geomhash":"cac173a31b2694ece26948eed0a037d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":790614555
+        }
+    ],
+    "wof:id":790614555,
+    "wof:lastmodified":1462597353,
+    "wof:name":"Tire Treads",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -88.827372,
+    35.609771,
+    -88.827372,
+    35.609771
+],
+  "geometry": {"coordinates":[-88.827372,35.609771],"type":"Point"}
+}

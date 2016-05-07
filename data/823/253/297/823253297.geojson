@@ -1,0 +1,72 @@
+{
+  "id": 823253297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.108948,35.979531,-84.108948,35.979531",
+    "geom:latitude":35.979531,
+    "geom:longitude":-84.108948,
+    "iso:country":"US",
+    "sg:address":"7762 Oak Ridge Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/karns/154946-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 691 4630",
+    "sg:postcode":"37931",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85856659,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BlXkjfx8EpLJs9UWDdIkb_35.979531_-84.108948@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609408,
+    "wof:geomhash":"85f0be97f1856fc5ae99a55c1d7a58b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85856659,
+            "region_id":85688701,
+            "venue_id":823253297
+        }
+    ],
+    "wof:id":823253297,
+    "wof:lastmodified":1462609408,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85856659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.108948,
+    35.979531,
+    -84.108948,
+    35.979531
+],
+  "geometry": {"coordinates":[-84.108948,35.979531],"type":"Point"}
+}

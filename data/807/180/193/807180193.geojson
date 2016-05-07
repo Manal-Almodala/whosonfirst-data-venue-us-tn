@@ -1,0 +1,73 @@
+{
+  "id": 807180193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.028634,35.217779,-90.028634,35.217779",
+    "geom:latitude":35.217779,
+    "geom:longitude":-90.028634,
+    "iso:country":"US",
+    "sg:address":"3345 Millington Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 527 1400",
+    "sg:postcode":"38127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85820619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11EclCreXFi0w2DzX92nZr_35.217779_-90.028634@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604587,
+    "wof:geomhash":"7eb35c68c42d709ec4e9233aa480ea96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85820619,
+            "region_id":85688701,
+            "venue_id":807180193
+        }
+    ],
+    "wof:id":807180193,
+    "wof:lastmodified":1462604587,
+    "wof:name":"Fire Dept",
+    "wof:parent_id":85820619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -90.028634,
+    35.217779,
+    -90.028634,
+    35.217779
+],
+  "geometry": {"coordinates":[-90.028634,35.217779],"type":"Point"}
+}

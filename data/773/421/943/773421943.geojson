@@ -1,0 +1,71 @@
+{
+  "id": 773421943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.125424,35.900327,-84.125424,35.900327",
+    "geom:latitude":35.900327,
+    "geom:longitude":-84.125424,
+    "iso:country":"US",
+    "sg:address":"10244 Kingston Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 769 7410",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bALMlNgqxK2chruLu0w6n_35.900327_-84.125424@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585590,
+    "wof:geomhash":"be6e6606b68bea29ccf07f54ed112ba2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":773421943
+        }
+    ],
+    "wof:id":773421943,
+    "wof:lastmodified":1462585590,
+    "wof:name":"Enterprise Rent A Car",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.125424,
+    35.900327,
+    -84.125424,
+    35.900327
+],
+  "geometry": {"coordinates":[-84.125424,35.900327],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806677621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.922995,35.6055,-88.922995,35.6055",
+    "geom:latitude":35.6055,
+    "geom:longitude":-88.922995,
+    "iso:country":"US",
+    "sg:address":"266 Grady Montgomery Dr",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 424 4977",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48zaSWpz7neLwUeUi4J2xo_35.605500_-88.922995@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600152,
+    "wof:geomhash":"281e27de9cdc55c3f813a022f900bcb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":806677621
+        }
+    ],
+    "wof:id":806677621,
+    "wof:lastmodified":1462600152,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.922995,
+    35.6055,
+    -88.922995,
+    35.6055
+],
+  "geometry": {"coordinates":[-88.922995,35.6055],"type":"Point"}
+}

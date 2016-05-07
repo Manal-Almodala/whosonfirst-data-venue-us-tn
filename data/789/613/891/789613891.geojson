@@ -1,0 +1,71 @@
+{
+  "id": 789613891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.786851,35.464639,-86.786851,35.464639",
+    "geom:latitude":35.464639,
+    "geom:longitude":-86.786851,
+    "iso:country":"US",
+    "sg:address":"1090 N Ellington Pkwy",
+    "sg:city":"Lewisburg",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 359 0019",
+    "sg:postcode":"37091",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85854287,
+        102087115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FTmmXqqhFPQn0u2RVEHV0_35.464639_-86.786851@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589165,
+    "wof:geomhash":"beef3a8676092de63e4d050a15bc992d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "neighbourhood_id":85854287,
+            "region_id":85688701,
+            "venue_id":789613891
+        }
+    ],
+    "wof:id":789613891,
+    "wof:lastmodified":1462589165,
+    "wof:name":"Hayes Burt MD",
+    "wof:parent_id":85854287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -86.786851,
+    35.464639,
+    -86.786851,
+    35.464639
+],
+  "geometry": {"coordinates":[-86.786851,35.464639],"type":"Point"}
+}

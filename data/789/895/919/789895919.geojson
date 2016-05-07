@@ -1,0 +1,71 @@
+{
+  "id": 789895919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.57432,35.151648,-86.57432,35.151648",
+    "geom:latitude":35.151648,
+    "geom:longitude":-86.57432,
+    "iso:country":"US",
+    "sg:address":"312 Market St W",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 433 2179",
+    "sg:postcode":"37334",
+    "sg:province":"TN",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AuKT3PNkYl2fyWNLyQwcL_35.151648_-86.574320@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591412,
+    "wof:geomhash":"b4cbc1c59a1a97d62f7b47033dec849a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":789895919
+        }
+    ],
+    "wof:id":789895919,
+    "wof:lastmodified":1462591412,
+    "wof:name":"Tennessee Highway Patrol",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -86.57432,
+    35.151648,
+    -86.57432,
+    35.151648
+],
+  "geometry": {"coordinates":[-86.57432,35.151648],"type":"Point"}
+}

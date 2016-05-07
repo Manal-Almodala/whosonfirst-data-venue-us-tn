@@ -1,0 +1,71 @@
+{
+  "id": 807224495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.106112,35.916068,-84.106112,35.916068",
+    "geom:latitude":35.916068,
+    "geom:longitude":-84.106112,
+    "iso:country":"US",
+    "sg:address":"9711 Sherrill Blvd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 374 3901",
+    "sg:postcode":"37932",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tX0GWWGB8OynWoWW44lig_35.916068_-84.106112@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605057,
+    "wof:geomhash":"3c4b8646e6e25bbaaad4ea007e9c4c63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":807224495
+        }
+    ],
+    "wof:id":807224495,
+    "wof:lastmodified":1462605057,
+    "wof:name":"Thompson Oncology Group",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.106112,
+    35.916068,
+    -84.106112,
+    35.916068
+],
+  "geometry": {"coordinates":[-84.106112,35.916068],"type":"Point"}
+}

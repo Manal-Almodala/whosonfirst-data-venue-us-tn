@@ -1,0 +1,78 @@
+{
+  "id": 806536317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.130594,35.168701,-86.130594,35.168701",
+    "geom:latitude":35.168701,
+    "geom:longitude":-86.130594,
+    "iso:country":"US",
+    "sg:address":"67 Macs St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm & Veterinary Services",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 1288",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "packer",
+        "livestock"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GbDT4bBNq8CR9z7UDlj6k_35.168701_-86.130594@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598926,
+    "wof:geomhash":"b6a330b04c25ccfb1dabd98aa913b16c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":806536317
+        }
+    ],
+    "wof:id":806536317,
+    "wof:lastmodified":1462598926,
+    "wof:name":"Mac's Slaughtering & Process",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packer",
+        "livestock"
+    ]
+},
+  "bbox": [
+    -86.130594,
+    35.168701,
+    -86.130594,
+    35.168701
+],
+  "geometry": {"coordinates":[-86.130594,35.168701],"type":"Point"}
+}

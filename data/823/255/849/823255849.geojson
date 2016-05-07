@@ -1,0 +1,76 @@
+{
+  "id": 823255849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.781549,35.204249,-89.781549,35.204249",
+    "geom:latitude":35.204249,
+    "geom:longitude":-89.781549,
+    "iso:country":"US",
+    "sg:address":"8445 US-64",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/29168-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 277 2591",
+    "sg:postcode":"38133",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "southern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55YBBoXKNc4QFUYVN6XcLy_35.204249_-89.781549@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609456,
+    "wof:geomhash":"b96ed72abc1443e82e6ad1b66fb0ce29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":823255849
+        }
+    ],
+    "wof:id":823255849,
+    "wof:lastmodified":1462609456,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "southern"
+    ]
+},
+  "bbox": [
+    -89.781549,
+    35.204249,
+    -89.781549,
+    35.204249
+],
+  "geometry": {"coordinates":[-89.781549,35.204249],"type":"Point"}
+}

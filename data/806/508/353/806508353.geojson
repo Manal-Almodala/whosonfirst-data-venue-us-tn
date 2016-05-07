@@ -1,0 +1,73 @@
+{
+  "id": 806508353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.638851,35.585316,-89.638851,35.585316",
+    "geom:latitude":35.585316,
+    "geom:longitude":-89.638851,
+    "iso:country":"US",
+    "sg:address":"995 US Hwy 51 N",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 5432",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shoe",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oPibwsI6ON1VUQmporzVX_35.585316_-89.638851@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598697,
+    "wof:geomhash":"20a1faa36fb3cb214cb0addab34d7abd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806508353
+        }
+    ],
+    "wof:id":806508353,
+    "wof:lastmodified":1462598697,
+    "wof:name":"Shoe Barn",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoe",
+        "store"
+    ]
+},
+  "bbox": [
+    -89.638851,
+    35.585316,
+    -89.638851,
+    35.585316
+],
+  "geometry": {"coordinates":[-89.638851,35.585316],"type":"Point"}
+}

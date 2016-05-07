@@ -1,0 +1,83 @@
+{
+  "id": 823262421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.628398,36.308794,-86.628398,36.308794",
+    "geom:latitude":36.308794,
+    "geom:longitude":-86.628398,
+    "iso:country":"US",
+    "sg:address":"103C Tennessee Way",
+    "sg:city":"Hendersonville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 264 1005",
+    "sg:postcode":"37075",
+    "sg:province":"TN",
+    "sg:tags":[
+        "water",
+        "plumber",
+        "heater"
+    ],
+    "sg:website":"http://www.alliedplumbingtn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723169,
+        102086357,
+        85837037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WpbjAk772ROOJYRrMSvO5_36.308794_-86.628398@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609611,
+    "wof:geomhash":"cd489988964f369d07a1f2c340f47bcb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85837037,
+            "region_id":85688701,
+            "venue_id":823262421
+        }
+    ],
+    "wof:id":823262421,
+    "wof:lastmodified":1462609611,
+    "wof:name":"Allied Plumbing LLC",
+    "wof:parent_id":85837037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "plumber",
+        "heater"
+    ]
+},
+  "bbox": [
+    -86.628398,
+    36.308794,
+    -86.628398,
+    36.308794
+],
+  "geometry": {"coordinates":[-86.628398,36.308794],"type":"Point"}
+}

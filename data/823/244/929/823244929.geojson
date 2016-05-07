@@ -1,0 +1,74 @@
+{
+  "id": 823244929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.368023,35.811573,-86.368023,35.811573",
+    "geom:latitude":35.811573,
+    "geom:longitude":-86.368023,
+    "iso:country":"US",
+    "sg:address":"1716 S Rutherford Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/203469-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 7470",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32wEvtjB0WWLvTtDh6plCn_35.811573_-86.368023@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609235,
+    "wof:geomhash":"061ee67da51dcde209e31c3ab94e0f82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":823244929
+        }
+    ],
+    "wof:id":823244929,
+    "wof:lastmodified":1462609235,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.368023,
+    35.811573,
+    -86.368023,
+    35.811573
+],
+  "geometry": {"coordinates":[-86.36802299999999,35.811573],"type":"Point"}
+}

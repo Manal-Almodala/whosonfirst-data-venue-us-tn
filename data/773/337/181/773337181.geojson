@@ -1,0 +1,73 @@
+{
+  "id": 773337181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.291182,36.199469,-86.291182,36.199469",
+    "geom:latitude":36.199469,
+    "geom:longitude":-86.291182,
+    "iso:country":"US",
+    "sg:address":"418 S College St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 2700",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qip85YJxKXk1d0UVq6xah_36.199469_-86.291182@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584963,
+    "wof:geomhash":"7b896f3f94ea6257d0ae575f8499ce1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":773337181
+        }
+    ],
+    "wof:id":773337181,
+    "wof:lastmodified":1462584963,
+    "wof:name":"Trusty's Automotive",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.291182,
+    36.199469,
+    -86.291182,
+    36.199469
+],
+  "geometry": {"coordinates":[-86.29118200000001,36.199469],"type":"Point"}
+}

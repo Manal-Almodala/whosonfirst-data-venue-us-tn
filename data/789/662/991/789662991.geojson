@@ -1,0 +1,75 @@
+{
+  "id": 789662991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.516156,36.156332,-86.516156,36.156332",
+    "geom:latitude":36.156332,
+    "geom:longitude":-86.516156,
+    "iso:country":"US",
+    "sg:address":"1052 S Mount Juliet Rd",
+    "sg:city":"Mt Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 553 9000",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medicine",
+        "injury",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nSZD2wwS6DJ1ASixJvhBe_36.156332_-86.516156@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589576,
+    "wof:geomhash":"a8729a2183b9bacf3697e00fb23799f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":789662991
+        }
+    ],
+    "wof:id":789662991,
+    "wof:lastmodified":1462589576,
+    "wof:name":"Tennessee Sports Medicine",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "injury",
+        "sport"
+    ]
+},
+  "bbox": [
+    -86.516156,
+    36.156332,
+    -86.516156,
+    36.156332
+],
+  "geometry": {"coordinates":[-86.516156,36.156332],"type":"Point"}
+}

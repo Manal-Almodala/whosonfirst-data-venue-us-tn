@@ -1,0 +1,71 @@
+{
+  "id": 789698681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.461496,36.19556,-86.461496,36.19556",
+    "geom:latitude":36.19556,
+    "geom:longitude":-86.461496,
+    "iso:country":"US",
+    "sg:address":"3490 E Division St",
+    "sg:city":"Mount Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 773 1824",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25BZeDrZIODaohIdcIXAz0_36.195560_-86.461496@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589848,
+    "wof:geomhash":"bebb7902c56aa4e19fbe26df68e783e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":789698681
+        }
+    ],
+    "wof:id":789698681,
+    "wof:lastmodified":1462589848,
+    "wof:name":"Tekton Enterprises",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -86.461496,
+    36.19556,
+    -86.461496,
+    36.19556
+],
+  "geometry": {"coordinates":[-86.461496,36.19556],"type":"Point"}
+}

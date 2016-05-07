@@ -1,0 +1,73 @@
+{
+  "id": 773210099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.182414,36.343103,-82.182414,36.343103",
+    "geom:latitude":36.343103,
+    "geom:longitude":-82.182414,
+    "iso:country":"US",
+    "sg:address":"2007 Siam Rd",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 542 8599",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85816779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GHetQAfoEUMPCMoKgaDRu_36.343103_-82.182414@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583998,
+    "wof:geomhash":"d77756fd6949a760a410675d17062a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85816779,
+            "region_id":85688701,
+            "venue_id":773210099
+        }
+    ],
+    "wof:id":773210099,
+    "wof:lastmodified":1462583998,
+    "wof:name":"Automotive Unlimited",
+    "wof:parent_id":85816779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -82.182414,
+    36.343103,
+    -82.182414,
+    36.343103
+],
+  "geometry": {"coordinates":[-82.18241399999999,36.343103],"type":"Point"}
+}

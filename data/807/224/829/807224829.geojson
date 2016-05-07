@@ -1,0 +1,71 @@
+{
+  "id": 807224829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.908752,35.232235,-89.908752,35.232235",
+    "geom:latitude":35.232235,
+    "geom:longitude":-89.908752,
+    "iso:country":"US",
+    "sg:address":"4664 Clearwater Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 385 4850",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d2A4twfS5jpaXZcVmDp3I_35.232235_-89.908752@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605061,
+    "wof:geomhash":"bf18925cbf40afc6bca07527ac4c0d93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":807224829
+        }
+    ],
+    "wof:id":807224829,
+    "wof:lastmodified":1462605061,
+    "wof:name":"Corporate Building Maintenance",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -89.908752,
+    35.232235,
+    -89.908752,
+    35.232235
+],
+  "geometry": {"coordinates":[-89.90875200000001,35.232235],"type":"Point"}
+}

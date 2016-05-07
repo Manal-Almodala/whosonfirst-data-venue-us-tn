@@ -1,0 +1,77 @@
+{
+  "id": 773504371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.011257,35.239445,-90.011257,35.239445",
+    "geom:latitude":35.239445,
+    "geom:longitude":-90.011257,
+    "iso:country":"US",
+    "sg:address":"4218 Thomas St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 357 0017",
+    "sg:postcode":"38127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85820619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jZamCcaewATePwX8Eh4BK_35.239445_-90.011257@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586235,
+    "wof:geomhash":"62dc337e5dbe40d93b58ff2d2e6f58d8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85820619,
+            "region_id":85688701,
+            "venue_id":773504371
+        }
+    ],
+    "wof:id":773504371,
+    "wof:lastmodified":1462586235,
+    "wof:name":"Mid America Body Shop",
+    "wof:parent_id":85820619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -90.011257,
+    35.239445,
+    -90.011257,
+    35.239445
+],
+  "geometry": {"coordinates":[-90.011257,35.239445],"type":"Point"}
+}

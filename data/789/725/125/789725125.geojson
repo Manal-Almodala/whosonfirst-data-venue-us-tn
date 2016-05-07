@@ -1,0 +1,71 @@
+{
+  "id": 789725125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.820033,35.999741,-83.820033,35.999741",
+    "geom:latitude":35.999741,
+    "geom:longitude":-83.820033,
+    "iso:country":"US",
+    "sg:address":"6106 Rivers Run Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 523 5524",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kXuoDKL95i1nqs509Ii9p_35.999741_-83.820033@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590065,
+    "wof:geomhash":"437ef4133fb765a1cefcf4cb5c13ae97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810853,
+            "region_id":85688701,
+            "venue_id":789725125
+        }
+    ],
+    "wof:id":789725125,
+    "wof:lastmodified":1462590065,
+    "wof:name":"D J & P Transportation",
+    "wof:parent_id":85810853,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.820033,
+    35.999741,
+    -83.820033,
+    35.999741
+],
+  "geometry": {"coordinates":[-83.820033,35.999741],"type":"Point"}
+}

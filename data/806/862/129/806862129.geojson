@@ -1,0 +1,75 @@
+{
+  "id": 806862129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.015531,35.013994,-90.015531,35.013994",
+    "geom:latitude":35.013994,
+    "geom:longitude":-90.015531,
+    "iso:country":"US",
+    "sg:address":"4876 Sagewood Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 398 4003",
+    "sg:postcode":"38116",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85847303
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XYBuATthvKeGAZ00TcHbr_35.013994_-90.015531@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601707,
+    "wof:geomhash":"796ae5ddfe105921b0485daf2a89fcdc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85847303,
+            "region_id":85688701,
+            "venue_id":806862129
+        }
+    ],
+    "wof:id":806862129,
+    "wof:lastmodified":1462601707,
+    "wof:name":"Bluff City Locksmiths",
+    "wof:parent_id":85847303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -90.015531,
+    35.013994,
+    -90.015531,
+    35.013994
+],
+  "geometry": {"coordinates":[-90.015531,35.013994],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 823244455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.44412,35.845213,-86.44412,35.845213",
+    "geom:latitude":35.845213,
+    "geom:longitude":-86.44412,
+    "iso:country":"US",
+    "sg:address":"2575 Old Fort Pkwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/73023-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 217 7557",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JXpEWtwRFgPZH0GhK5L6p_35.845213_-86.444120@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609227,
+    "wof:geomhash":"84737dc41e800e1f1bae13f866daeab0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823244455
+        }
+    ],
+    "wof:id":823244455,
+    "wof:lastmodified":1462609227,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.44412,
+    35.845213,
+    -86.44412,
+    35.845213
+],
+  "geometry": {"coordinates":[-86.44412,35.845213],"type":"Point"}
+}

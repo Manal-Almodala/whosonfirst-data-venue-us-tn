@@ -1,0 +1,84 @@
+{
+  "id": 823250949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.256796,36.215671,-83.256796,36.215671",
+    "geom:latitude":36.215671,
+    "geom:longitude":-83.256796,
+    "iso:country":"US",
+    "sg:address":"471 S Davy Crockett Pkwy",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/morristown/95117-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 4433",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZQDdq4tBGojABSM0b5BHr_36.215671_-83.256796@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609353,
+    "wof:geomhash":"5628bfbca8fcb7c0e1bd60bbfc129649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":823250949
+        }
+    ],
+    "wof:id":823250949,
+    "wof:lastmodified":1462609353,
+    "wof:name":"IHOP",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -83.256796,
+    36.215671,
+    -83.256796,
+    36.215671
+],
+  "geometry": {"coordinates":[-83.25679599999999,36.215671],"type":"Point"}
+}

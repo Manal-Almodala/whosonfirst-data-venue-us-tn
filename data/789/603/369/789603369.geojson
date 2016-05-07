@@ -1,0 +1,75 @@
+{
+  "id": 789603369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.589338,35.989147,-83.589338,35.989147",
+    "geom:latitude":35.989147,
+    "geom:longitude":-83.589338,
+    "iso:country":"US",
+    "sg:address":"444 E Dumplin Valley Rd",
+    "sg:city":"Kodak",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 397 7515",
+    "sg:postcode":"37764",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85824615
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YgFK0nrocCDFbjJVyoek9_35.989147_-83.589338@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589091,
+    "wof:geomhash":"3f565dbb49f95dc0ab84f376f31def2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85824615,
+            "region_id":85688701,
+            "venue_id":789603369
+        }
+    ],
+    "wof:id":789603369,
+    "wof:lastmodified":1462589091,
+    "wof:name":"Thompson Trk",
+    "wof:parent_id":85824615,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.589338,
+    35.989147,
+    -83.589338,
+    35.989147
+],
+  "geometry": {"coordinates":[-83.589338,35.989147],"type":"Point"}
+}

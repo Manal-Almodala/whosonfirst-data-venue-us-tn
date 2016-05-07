@@ -1,0 +1,73 @@
+{
+  "id": 789604657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.329816,36.001345,-87.329816,36.001345",
+    "geom:latitude":36.001345,
+    "geom:longitude":-87.329816,
+    "iso:country":"US",
+    "sg:address":"525 Old Hwy 46 S",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 740 7972",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FJOE4hnxW3uHjS2fQ7cA1_36.001345_-87.329816@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589101,
+    "wof:geomhash":"8acf178210aa86ad2815ddbedc314e72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":789604657
+        }
+    ],
+    "wof:id":789604657,
+    "wof:lastmodified":1462589101,
+    "wof:name":"Access Car Rental",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.329816,
+    36.001345,
+    -87.329816,
+    36.001345
+],
+  "geometry": {"coordinates":[-87.32981599999999,36.001345],"type":"Point"}
+}

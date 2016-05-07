@@ -1,0 +1,75 @@
+{
+  "id": 789752809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.520897,36.03116,-86.520897,36.03116",
+    "geom:latitude":36.03116,
+    "geom:longitude":-86.520897,
+    "iso:country":"US",
+    "sg:address":"144 Sunward Dr",
+    "sg:city":"La Vergne",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 355 4131",
+    "sg:postcode":"37086",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723113,
+        102086355,
+        85842575
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uctjcAvwIf0C5G6QY2Rlw_36.031160_-86.520897@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590274,
+    "wof:geomhash":"5d100bbf6a2b537e0da3093d5f72aa85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723113,
+            "neighbourhood_id":85842575,
+            "region_id":85688701,
+            "venue_id":789752809
+        }
+    ],
+    "wof:id":789752809,
+    "wof:lastmodified":1462590274,
+    "wof:name":"ML Trucking",
+    "wof:parent_id":85842575,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.520897,
+    36.03116,
+    -86.520897,
+    36.03116
+],
+  "geometry": {"coordinates":[-86.52089700000001,36.03116],"type":"Point"}
+}

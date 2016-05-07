@@ -1,0 +1,73 @@
+{
+  "id": 789606127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.049819,36.022163,-84.049819,36.022163",
+    "geom:latitude":36.022163,
+    "geom:longitude":-84.049819,
+    "iso:country":"US",
+    "sg:address":"3239 Shropshire Blvd",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 947 6227",
+    "sg:postcode":"37849",
+    "sg:province":"TN",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FASXkO9QadF7VdRZVlVEG_36.022163_-84.049819@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589111,
+    "wof:geomhash":"9f6b2763812528d442475e5eb0b24448",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":789606127
+        }
+    ],
+    "wof:id":789606127,
+    "wof:lastmodified":1462589111,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -84.049819,
+    36.022163,
+    -84.049819,
+    36.022163
+],
+  "geometry": {"coordinates":[-84.049819,36.022163],"type":"Point"}
+}

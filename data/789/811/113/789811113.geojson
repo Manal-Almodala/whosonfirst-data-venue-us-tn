@@ -1,0 +1,75 @@
+{
+  "id": 789811113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.854767,35.232189,-89.854767,35.232189",
+    "geom:latitude":35.232189,
+    "geom:longitude":-89.854767,
+    "iso:country":"US",
+    "sg:address":"6190 Timber Run Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 377 0103",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mail",
+        "health",
+        "order"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VyFgS6l33R1DHohlDw8yn_35.232189_-89.854767@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590722,
+    "wof:geomhash":"402416dbde64e81628b88f68c78f876f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789811113
+        }
+    ],
+    "wof:id":789811113,
+    "wof:lastmodified":1462590722,
+    "wof:name":"Beauty By Nature",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "health",
+        "order"
+    ]
+},
+  "bbox": [
+    -89.854767,
+    35.232189,
+    -89.854767,
+    35.232189
+],
+  "geometry": {"coordinates":[-89.854767,35.232189],"type":"Point"}
+}

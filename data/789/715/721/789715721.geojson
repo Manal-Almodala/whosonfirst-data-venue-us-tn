@@ -1,0 +1,79 @@
+{
+  "id": 789715721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.795137,35.129974,-89.795137,35.129974",
+    "geom:latitude":35.129974,
+    "geom:longitude":-89.795137,
+    "iso:country":"US",
+    "sg:address":"51 Germantown Ct",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 757 2372",
+    "sg:postcode":"38018",
+    "sg:province":"TN",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "sg:website":"www.shelbyinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85812297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Hp7NIJ5EbAn9yeA1TCBIc_35.129974_-89.795137@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589980,
+    "wof:geomhash":"cb32b9c60e2173e6d52bff35a68a9b58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85812297,
+            "region_id":85688701,
+            "venue_id":789715721
+        }
+    ],
+    "wof:id":789715721,
+    "wof:lastmodified":1462589980,
+    "wof:name":"Shelby Systems Inc",
+    "wof:parent_id":85812297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -89.795137,
+    35.129974,
+    -89.795137,
+    35.129974
+],
+  "geometry": {"coordinates":[-89.795137,35.129974],"type":"Point"}
+}

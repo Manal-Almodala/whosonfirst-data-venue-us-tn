@@ -1,0 +1,83 @@
+{
+  "id": 773300563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.888627,35.049216,-89.888627,35.049216",
+    "geom:latitude":35.049216,
+    "geom:longitude":-89.888627,
+    "iso:country":"US",
+    "sg:address":"3648 Winplace Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 546 9071",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Is4VGgH6Qz73jVvcbK8CN_35.049216_-89.888627@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584687,
+    "wof:geomhash":"dd56815932ccc02418bb5f09979a4021",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":773300563
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":773300563
+        }
+    ],
+    "wof:id":773300563,
+    "wof:lastmodified":1462584687,
+    "wof:name":"Faith Baptist Church",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -89.888627,
+    35.049216,
+    -89.888627,
+    35.049216
+],
+  "geometry": {"coordinates":[-89.888627,35.049216],"type":"Point"}
+}

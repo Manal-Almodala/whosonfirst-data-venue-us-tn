@@ -1,0 +1,76 @@
+{
+  "id": 823254133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.052025,35.147169,-90.052025,35.147169",
+    "geom:latitude":35.147169,
+    "geom:longitude":-90.052025,
+    "iso:country":"US",
+    "sg:address":"85 N Main St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/140314-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 543 3782",
+    "sg:postcode":"38103",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867179
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NlDe7UYnUagv6DOCWabbn_35.147169_-90.052025@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609424,
+    "wof:geomhash":"59a9d22566c46d2fc991341f2d843d29",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867179,
+            "region_id":85688701,
+            "venue_id":823254133
+        }
+    ],
+    "wof:id":823254133,
+    "wof:lastmodified":1462609424,
+    "wof:name":"Subway",
+    "wof:parent_id":85867179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -90.052025,
+    35.147169,
+    -90.052025,
+    35.147169
+],
+  "geometry": {"coordinates":[-90.052025,35.147169],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 789668485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.551472,35.935781,-84.551472,35.935781",
+    "geom:latitude":35.935781,
+    "geom:longitude":-84.551472,
+    "iso:country":"US",
+    "sg:address":"413 Devonia St",
+    "sg:city":"Harriman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 882 3211",
+    "sg:postcode":"37748",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722695,
+        102087051,
+        85841801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FZjDu9Ye6UjfKhNbGwMpx_35.935781_-84.551472@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589617,
+    "wof:geomhash":"fa64247f7b1a2aab55f0cc8f75cab0ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101722695,
+            "neighbourhood_id":85841801,
+            "region_id":85688701,
+            "venue_id":789668485
+        }
+    ],
+    "wof:id":789668485,
+    "wof:lastmodified":1462589617,
+    "wof:name":"Primary Care Associates",
+    "wof:parent_id":85841801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.551472,
+    35.935781,
+    -84.551472,
+    35.935781
+],
+  "geometry": {"coordinates":[-84.551472,35.935781],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807032591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.257059,36.582683,-82.257059,36.582683",
+    "geom:latitude":36.582683,
+    "geom:longitude":-82.257059,
+    "iso:country":"US",
+    "sg:address":"350 Steeles Rd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 844 6700",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85825325,
+        102086471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72555qRyjzJ5tl8KO97cyi_36.582683_-82.257059@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603143,
+    "wof:geomhash":"658f27c63fd3464f2f9c96b4a13a033e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "neighbourhood_id":85825325,
+            "region_id":85688701,
+            "venue_id":807032591
+        }
+    ],
+    "wof:id":807032591,
+    "wof:lastmodified":1462603143,
+    "wof:name":"Internal Medicine & Pediatric",
+    "wof:parent_id":85825325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.257059,
+    36.582683,
+    -82.257059,
+    36.582683
+],
+  "geometry": {"coordinates":[-82.257059,36.582683],"type":"Point"}
+}

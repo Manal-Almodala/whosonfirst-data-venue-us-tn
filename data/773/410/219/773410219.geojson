@@ -1,0 +1,76 @@
+{
+  "id": 773410219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.013221,35.678934,-87.013221,35.678934",
+    "geom:latitude":35.678934,
+    "geom:longitude":-87.013221,
+    "iso:country":"US",
+    "sg:address":"314 Carters Creek Pike",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 380 0543",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "center",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85844993,
+        102087107
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dfoX7dG0fWulHeAcXA5t0_35.678934_-87.013221@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585489,
+    "wof:geomhash":"509763fbb1c587cda5f0dcbe94cd3bd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "neighbourhood_id":85844993,
+            "region_id":85688701,
+            "venue_id":773410219
+        }
+    ],
+    "wof:id":773410219,
+    "wof:lastmodified":1462585489,
+    "wof:name":"Maury County Collection Center",
+    "wof:parent_id":85844993,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "collection"
+    ]
+},
+  "bbox": [
+    -87.013221,
+    35.678934,
+    -87.013221,
+    35.678934
+],
+  "geometry": {"coordinates":[-87.013221,35.678934],"type":"Point"}
+}

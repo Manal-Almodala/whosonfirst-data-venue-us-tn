@@ -1,0 +1,91 @@
+{
+  "id": 823274099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.961182,36.01445,-83.961182,36.01445",
+    "geom:latitude":36.01445,
+    "geom:longitude":-83.961182,
+    "iso:country":"US",
+    "sg:address":"520 Highland Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 503 4112",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "picture",
+        "disaster",
+        "motion",
+        "relief",
+        "paramedic",
+        "recovery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K5IKAFMdBT4Yi8T26dZ32_36.014450_-83.961182@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610075,
+    "wof:geomhash":"1f98136e1f6d79b729b2533920b9917e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":823274099
+        }
+    ],
+    "wof:id":823274099,
+    "wof:lastmodified":1462610075,
+    "wof:name":"Medicproductions",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "disaster",
+        "motion",
+        "relief",
+        "paramedic",
+        "recovery"
+    ]
+},
+  "bbox": [
+    -83.961182,
+    36.01445,
+    -83.961182,
+    36.01445
+],
+  "geometry": {"coordinates":[-83.96118199999999,36.01445],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789962007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.758998,35.405227,-89.758998,35.405227",
+    "geom:latitude":35.405227,
+    "geom:longitude":-89.758998,
+    "iso:country":"US",
+    "sg:address":"174 Madison Dr",
+    "sg:city":"Atoka",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 840 4311",
+    "sg:postcode":"38004",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HEmTWQDpyapcALI5NXbwr_35.405227_-89.758998@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592015,
+    "wof:geomhash":"d0e6dccae071ff8111f3457145ad5a93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789962007
+        }
+    ],
+    "wof:id":789962007,
+    "wof:lastmodified":1462592015,
+    "wof:name":"JFG Transport LLC",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.758998,
+    35.405227,
+    -89.758998,
+    35.405227
+],
+  "geometry": {"coordinates":[-89.75899800000001,35.405227],"type":"Point"}
+}

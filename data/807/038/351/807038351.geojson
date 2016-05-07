@@ -1,0 +1,73 @@
+{
+  "id": 807038351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.866287,35.0112,-89.866287,35.0112",
+    "geom:latitude":35.0112,
+    "geom:longitude":-89.866287,
+    "iso:country":"US",
+    "sg:address":"5079 Bledsoe Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 547 6470",
+    "sg:postcode":"38141",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YtWrSPZPzME56hbEEH32R_35.011200_-89.866287@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603189,
+    "wof:geomhash":"b679a85b9a0f079634c6262039fcde80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870781,
+            "region_id":85688701,
+            "venue_id":807038351
+        }
+    ],
+    "wof:id":807038351,
+    "wof:lastmodified":1462603189,
+    "wof:name":"Kroger",
+    "wof:parent_id":85870781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery"
+    ]
+},
+  "bbox": [
+    -89.866287,
+    35.0112,
+    -89.866287,
+    35.0112
+],
+  "geometry": {"coordinates":[-89.866287,35.0112],"type":"Point"}
+}

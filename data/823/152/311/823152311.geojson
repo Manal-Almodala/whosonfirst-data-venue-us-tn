@@ -1,0 +1,75 @@
+{
+  "id": 823152311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.386249,35.839001,-86.386249,35.839001",
+    "geom:latitude":35.839001,
+    "geom:longitude":-86.386249,
+    "iso:country":"US",
+    "sg:address":"417 Ash St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 867 1124",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85835585
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d41szTaO5CRv6KB2j0Xbp_35.839001_-86.386249@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607695,
+    "wof:geomhash":"7f202d81955ef04fe396b0899d5ce5af",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85835585,
+            "region_id":85688701,
+            "venue_id":823152311
+        }
+    ],
+    "wof:id":823152311,
+    "wof:lastmodified":1462607695,
+    "wof:name":"M & M Automotive",
+    "wof:parent_id":85835585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.386249,
+    35.839001,
+    -86.386249,
+    35.839001
+],
+  "geometry": {"coordinates":[-86.38624900000001,35.839001],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 789815389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.828243,36.164669,-82.828243,36.164669",
+    "geom:latitude":36.164669,
+    "geom:longitude":-82.828243,
+    "iso:country":"US",
+    "sg:address":"209 N College St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 639 5781",
+    "sg:postcode":"37745",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "pathology",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aA46Iw3jm8tvuObt096Cu_36.164669_-82.828243@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590755,
+    "wof:geomhash":"46b7b465a6d0dfa124fc8b6d9d444e6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":789815389
+        }
+    ],
+    "wof:id":789815389,
+    "wof:lastmodified":1462590755,
+    "wof:name":"Greeneville Pathology Assoc PC",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "pathology",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -82.828243,
+    36.164669,
+    -82.828243,
+    36.164669
+],
+  "geometry": {"coordinates":[-82.828243,36.164669],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 789685287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.740713,35.582255,-88.740713,35.582255",
+    "geom:latitude":35.582255,
+    "geom:longitude":-88.740713,
+    "iso:country":"US",
+    "sg:address":"61 Lohrig Rd",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 422 6822",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p86Zqu08ZW1dUXAonEdNn_35.582255_-88.740713@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589744,
+    "wof:geomhash":"fa9e7702af97e3e532744ace6ff103d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":789685287
+        }
+    ],
+    "wof:id":789685287,
+    "wof:lastmodified":1462589744,
+    "wof:name":"J & T Auto Repair & Svc",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -88.740713,
+    35.582255,
+    -88.740713,
+    35.582255
+],
+  "geometry": {"coordinates":[-88.740713,35.582255],"type":"Point"}
+}

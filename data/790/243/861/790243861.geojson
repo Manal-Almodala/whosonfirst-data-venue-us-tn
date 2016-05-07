@@ -1,0 +1,73 @@
+{
+  "id": 790243861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.969562,35.15852,-89.969562,35.15852",
+    "geom:latitude":35.15852,
+    "geom:longitude":-89.969562,
+    "iso:country":"US",
+    "sg:address":"2600 Jackson Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 452 3676",
+    "sg:postcode":"38108",
+    "sg:province":"TN",
+    "sg:tags":[
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85806143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tRyeFR7Pf5twtuyf6014m_35.158520_-89.969562@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594275,
+    "wof:geomhash":"df2f81438251b5520301a185101f4da1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85806143,
+            "region_id":85688701,
+            "venue_id":790243861
+        }
+    ],
+    "wof:id":790243861,
+    "wof:lastmodified":1462594275,
+    "wof:name":"Radiator Works Inc",
+    "wof:parent_id":85806143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radiator"
+    ]
+},
+  "bbox": [
+    -89.969562,
+    35.15852,
+    -89.969562,
+    35.15852
+],
+  "geometry": {"coordinates":[-89.969562,35.15852],"type":"Point"}
+}

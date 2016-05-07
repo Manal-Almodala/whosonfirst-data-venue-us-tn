@@ -1,0 +1,82 @@
+{
+  "id": 823275165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.98632,36.056455,-83.98632,36.056455",
+    "geom:latitude":36.056455,
+    "geom:longitude":-83.98632,
+    "iso:country":"US",
+    "sg:address":"984 E Emory Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Day Spa",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 938 5558",
+    "sg:postcode":"37938",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cosmetologist"
+    ],
+    "sg:website":"http://www.despaandsalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NueQEVXuSITkxOcWsHgW2_36.056455_-83.986320@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610112,
+    "wof:geomhash":"3c5d149f7415715fcd946a28cc0eeff8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":823275165
+        }
+    ],
+    "wof:id":823275165,
+    "wof:lastmodified":1462610112,
+    "wof:name":"de Spa & Salon",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetologist"
+    ]
+},
+  "bbox": [
+    -83.98632,
+    36.056455,
+    -83.98632,
+    36.056455
+],
+  "geometry": {"coordinates":[-83.98632000000001,36.056455],"type":"Point"}
+}

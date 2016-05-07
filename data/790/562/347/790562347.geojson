@@ -1,0 +1,73 @@
+{
+  "id": 790562347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.482051,35.987607,-86.482051,35.987607",
+    "geom:latitude":35.987607,
+    "geom:longitude":-86.482051,
+    "iso:country":"US",
+    "sg:address":"115 Sandi Ct",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 405 6680",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85823525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17wrOfvJ2DBQ9S0K9X5fIS_35.987607_-86.482051@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596892,
+    "wof:geomhash":"f32df07887850aefe0853461f001ecc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85823525,
+            "region_id":85688701,
+            "venue_id":790562347
+        }
+    ],
+    "wof:id":790562347,
+    "wof:lastmodified":1462596892,
+    "wof:name":"Davis Electric",
+    "wof:parent_id":85823525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.482051,
+    35.987607,
+    -86.482051,
+    35.987607
+],
+  "geometry": {"coordinates":[-86.482051,35.987607],"type":"Point"}
+}

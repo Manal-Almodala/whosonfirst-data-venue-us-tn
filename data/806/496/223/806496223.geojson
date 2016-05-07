@@ -1,0 +1,73 @@
+{
+  "id": 806496223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.317326,35.043758,-85.317326,35.043758",
+    "geom:latitude":35.043758,
+    "geom:longitude":-85.317326,
+    "iso:country":"US",
+    "sg:address":"1314 Cypress St Ct",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 698 2525",
+    "sg:postcode":"37402",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_490TtQSzyEg7vdfpnhYE89_35.043758_-85.317326@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598595,
+    "wof:geomhash":"b73ec4305a958836aa2b982978071c98",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876727,
+            "region_id":85688701,
+            "venue_id":806496223
+        }
+    ],
+    "wof:id":806496223,
+    "wof:lastmodified":1462598595,
+    "wof:name":"Chattanooga City Police Dept",
+    "wof:parent_id":85876727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.317326,
+    35.043758,
+    -85.317326,
+    35.043758
+],
+  "geometry": {"coordinates":[-85.31732599999999,35.043758],"type":"Point"}
+}

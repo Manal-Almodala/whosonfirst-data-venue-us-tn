@@ -1,0 +1,78 @@
+{
+  "id": 823230537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.025264,35.136065,-90.025264,35.136065",
+    "geom:latitude":35.136065,
+    "geom:longitude":-90.025264,
+    "iso:country":"US",
+    "sg:address":"1080 Eastmoreland Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 522 5321",
+    "sg:postcode":"38104",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hospital",
+        "ambulance",
+        "air"
+    ],
+    "sg:website":"www.hospitalwing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85803189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sTrFEncr35RowEyXA6VRJ_35.136143_-90.024820@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462608960,
+    "wof:geomhash":"a37eb5d0167fc7f5aefbc66677c17508",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85803189,
+            "region_id":85688701,
+            "venue_id":823230537
+        }
+    ],
+    "wof:id":823230537,
+    "wof:lastmodified":1462608960,
+    "wof:name":"Hospital Wing",
+    "wof:parent_id":85803189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital",
+        "ambulance",
+        "air"
+    ]
+},
+  "bbox": [
+    -90.025264,
+    35.136065,
+    -90.025264,
+    35.136065
+],
+  "geometry": {"coordinates":[-90.02526400000001,35.136065],"type":"Point"}
+}

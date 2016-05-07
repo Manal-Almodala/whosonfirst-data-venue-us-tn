@@ -1,0 +1,82 @@
+{
+  "id": 789788409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.013201,35.951855,-85.013201,35.951855",
+    "geom:latitude":35.951855,
+    "geom:longitude":-85.013201,
+    "iso:country":"US",
+    "sg:address":"841 E 1st St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 0078",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809,
+        102191575,
+        85824095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kxxvzhioEHg0Il6Y6g1SF_35.951855_-85.013201@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590554,
+    "wof:geomhash":"39bce8b1d42a2e3dd5389664dc9e0048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":789788409
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85824095,
+            "region_id":85688701,
+            "venue_id":789788409
+        }
+    ],
+    "wof:id":789788409,
+    "wof:lastmodified":1462590554,
+    "wof:name":"Tres's Chic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -85.013201,
+    35.951855,
+    -85.013201,
+    35.951855
+],
+  "geometry": {"coordinates":[-85.013201,35.951855],"type":"Point"}
+}

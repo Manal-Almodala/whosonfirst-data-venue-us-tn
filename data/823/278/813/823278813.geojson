@@ -1,0 +1,89 @@
+{
+  "id": 823278813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.051727,35.140362,-90.051727,35.140362",
+    "geom:latitude":35.140362,
+    "geom:longitude":-90.051727,
+    "iso:country":"US",
+    "sg:address":"150 Peabody Pl",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 522 1912",
+    "sg:postcode":"38103",
+    "sg:province":"TN",
+    "sg:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85867183
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cs15jVfTJvkgMRbSTtV5G_35.140362_-90.051727@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610257,
+    "wof:geomhash":"d3ffb8ba9bd8b012ab18a2ddcbb368ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85867183,
+            "region_id":85688701,
+            "venue_id":823278813
+        }
+    ],
+    "wof:id":823278813,
+    "wof:lastmodified":1462610257,
+    "wof:name":"Maggie Moo's",
+    "wof:parent_id":85867183,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert",
+        "desserts-manufacturers",
+        "distributor"
+    ]
+},
+  "bbox": [
+    -90.051727,
+    35.140362,
+    -90.051727,
+    35.140362
+],
+  "geometry": {"coordinates":[-90.051727,35.140362],"type":"Point"}
+}

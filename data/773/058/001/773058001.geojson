@@ -1,0 +1,71 @@
+{
+  "id": 773058001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.834216,35.237588,-89.834216,35.237588",
+    "geom:latitude":35.237588,
+    "geom:longitude":-89.834216,
+    "iso:country":"US",
+    "sg:address":"4141 Mimosa Hill Ln",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 381 9599",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WV8usKn6QJqKw7X0qGzZe_35.237588_-89.834216@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462582828,
+    "wof:geomhash":"e896dc016faf4aeb992b6b9121288b72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":773058001
+        }
+    ],
+    "wof:id":773058001,
+    "wof:lastmodified":1462582828,
+    "wof:name":"Shelton Appliance Repair",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -89.834216,
+    35.237588,
+    -89.834216,
+    35.237588
+],
+  "geometry": {"coordinates":[-89.834216,35.237588],"type":"Point"}
+}

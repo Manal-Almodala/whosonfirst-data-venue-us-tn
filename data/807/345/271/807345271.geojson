@@ -1,0 +1,73 @@
+{
+  "id": 807345271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.285164,36.204245,-86.285164,36.204245",
+    "geom:latitude":36.204245,
+    "geom:longitude":-86.285164,
+    "iso:country":"US",
+    "sg:address":"404 E Spring St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 6216",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical",
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QmtpsduDf8WojaJMh3ftc_36.204245_-86.285164@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606436,
+    "wof:geomhash":"e8a224703c4a45a3dbffaa58be1c6f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":807345271
+        }
+    ],
+    "wof:id":807345271,
+    "wof:lastmodified":1462606436,
+    "wof:name":"National Medical Hospital",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -86.285164,
+    36.204245,
+    -86.285164,
+    36.204245
+],
+  "geometry": {"coordinates":[-86.28516399999999,36.204245],"type":"Point"}
+}

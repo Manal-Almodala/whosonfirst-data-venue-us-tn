@@ -1,0 +1,84 @@
+{
+  "id": 823244623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.418575,35.846298,-86.418575,35.846298",
+    "geom:latitude":35.846298,
+    "geom:longitude":-86.418575,
+    "iso:country":"US",
+    "sg:address":"1728 Old Fort Pkwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/murfreesboro/95118-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 867 0705",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cspmnfntaMkefKgkWpmfA_35.846298_-86.418575@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609230,
+    "wof:geomhash":"bc71afda953f240abcda8bf2430f7295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":823244623
+        }
+    ],
+    "wof:id":823244623,
+    "wof:lastmodified":1462609230,
+    "wof:name":"IHOP",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -86.418575,
+    35.846298,
+    -86.418575,
+    35.846298
+],
+  "geometry": {"coordinates":[-86.418575,35.846298],"type":"Point"}
+}

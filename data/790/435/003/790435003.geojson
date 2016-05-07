@@ -1,0 +1,71 @@
+{
+  "id": 790435003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.83151,36.160199,-82.83151,36.160199",
+    "geom:latitude":36.160199,
+    "geom:longitude":-82.83151,
+    "iso:country":"US",
+    "sg:address":"202 E McKee St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 636 8793",
+    "sg:postcode":"37743",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SZ4jSwo2j4nCu4FVVM5tv_36.160199_-82.831510@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595806,
+    "wof:geomhash":"75971e3ed36bd2d264343df45aa3947a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":790435003
+        }
+    ],
+    "wof:id":790435003,
+    "wof:lastmodified":1462595806,
+    "wof:name":"Hinkle & Son Transmission Rpr",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -82.83151,
+    36.160199,
+    -82.83151,
+    36.160199
+],
+  "geometry": {"coordinates":[-82.83150999999999,36.160199],"type":"Point"}
+}

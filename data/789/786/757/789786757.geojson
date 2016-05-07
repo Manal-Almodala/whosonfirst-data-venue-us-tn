@@ -1,0 +1,83 @@
+{
+  "id": 789786757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.699931,36.381544,-86.699931,36.381544",
+    "geom:latitude":36.381544,
+    "geom:longitude":-86.699931,
+    "iso:country":"US",
+    "sg:address":"1019 C Smith St",
+    "sg:city":"Goodlettsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 855 0300",
+    "sg:postcode":"37072",
+    "sg:province":"TN",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722997,
+        102086357,
+        420541507,
+        420542223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FKKSjVbKpxfy5mH2pRtbb_36.381544_-86.699931@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590540,
+    "wof:geomhash":"61141fa0969cc32bf746d9c16c274136",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420541507,
+            "region_id":85688701,
+            "venue_id":789786757
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420542223,
+            "region_id":85688701,
+            "venue_id":789786757
+        }
+    ],
+    "wof:id":789786757,
+    "wof:lastmodified":1462590540,
+    "wof:name":"Jim Byrd Welding",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -86.699931,
+    36.381544,
+    -86.699931,
+    36.381544
+],
+  "geometry": {"coordinates":[-86.69993100000001,36.381544],"type":"Point"}
+}

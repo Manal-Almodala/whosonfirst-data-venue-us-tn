@@ -1,0 +1,73 @@
+{
+  "id": 773735991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.517725,36.205673,-86.517725,36.205673",
+    "geom:latitude":36.205673,
+    "geom:longitude":-86.517725,
+    "iso:country":"US",
+    "sg:address":"2491 N Mount Juliet Rd",
+    "sg:city":"Mount Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 758 2724",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723073,
+        102087205,
+        85805387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RGYqyxhCzu8SnzH6ZHCD1_36.205673_-86.517725@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587994,
+    "wof:geomhash":"ae7a01194826864d00c966538439708b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723073,
+            "neighbourhood_id":85805387,
+            "region_id":85688701,
+            "venue_id":773735991
+        }
+    ],
+    "wof:id":773735991,
+    "wof:lastmodified":1462587994,
+    "wof:name":"Mount Juliet Post Office",
+    "wof:parent_id":85805387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -86.517725,
+    36.205673,
+    -86.517725,
+    36.205673
+],
+  "geometry": {"coordinates":[-86.517725,36.205673],"type":"Point"}
+}

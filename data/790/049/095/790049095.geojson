@@ -1,0 +1,71 @@
+{
+  "id": 790049095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.580027,35.451898,-84.580027,35.451898",
+    "geom:latitude":35.451898,
+    "geom:longitude":-84.580027,
+    "iso:country":"US",
+    "sg:address":"1014 Moore St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 744 3953",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3D00bKTKefdGTsclcY2gP7_35.451898_-84.580027@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592711,
+    "wof:geomhash":"824f5034b1a44bb11b7105029e83097a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":790049095
+        }
+    ],
+    "wof:id":790049095,
+    "wof:lastmodified":1462592711,
+    "wof:name":"Robinson Properties",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.580027,
+    35.451898,
+    -84.580027,
+    35.451898
+],
+  "geometry": {"coordinates":[-84.580027,35.451898],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790194241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.835758,35.23393,-85.835758,35.23393",
+    "geom:latitude":35.23393,
+    "geom:longitude":-85.835758,
+    "iso:country":"US",
+    "sg:address":"519 S Central Ave",
+    "sg:city":"Monteagle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 924 2744",
+    "sg:postcode":"37356",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722513,
+        102086347,
+        85814617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KZl2uCBy5JCI5r8yl6XKs_35.233930_-85.835758@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593892,
+    "wof:geomhash":"835c6110a6bed3bdef7a98fbcd84e118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722513,
+            "neighbourhood_id":85814617,
+            "region_id":85688701,
+            "venue_id":790194241
+        }
+    ],
+    "wof:id":790194241,
+    "wof:lastmodified":1462593892,
+    "wof:name":"Long's Wrecker Svc",
+    "wof:parent_id":85814617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.835758,
+    35.23393,
+    -85.835758,
+    35.23393
+],
+  "geometry": {"coordinates":[-85.835758,35.23393],"type":"Point"}
+}

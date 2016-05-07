@@ -1,0 +1,90 @@
+{
+  "id": 823288937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.024661,35.223695,-90.024661,35.223695",
+    "geom:latitude":35.223695,
+    "geom:longitude":-90.024661,
+    "iso:country":"US",
+    "sg:address":"3616 Thomas St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Animal Shelter",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 358 9111",
+    "sg:postcode":"38127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "veterinarian",
+        "kennel"
+    ],
+    "sg:website":"http://www.tracygullettdvm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85820619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5swdcDt9ZNwgqJfABky7P5_35.223695_-90.024661@1303262743"
+    },
+    "wof:country":"US",
+    "wof:created":1462610658,
+    "wof:geomhash":"5148ca3ed907fa81656f8b74edb19960",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85820619,
+            "region_id":85688701,
+            "venue_id":823288937
+        }
+    ],
+    "wof:id":823288937,
+    "wof:lastmodified":1462610658,
+    "wof:name":"Northgate Animal Hospital",
+    "wof:parent_id":85820619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "veterinarian",
+        "kennel"
+    ]
+},
+  "bbox": [
+    -90.024661,
+    35.223695,
+    -90.024661,
+    35.223695
+],
+  "geometry": {"coordinates":[-90.02466099999999,35.223695],"type":"Point"}
+}

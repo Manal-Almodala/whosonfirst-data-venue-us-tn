@@ -1,0 +1,96 @@
+{
+  "id": 823274063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.013154,35.948586,-84.013154,35.948586",
+    "geom:latitude":35.948586,
+    "geom:longitude":-84.013154,
+    "iso:country":"US",
+    "sg:address":"1225 E Weisgarber Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 584 4747",
+    "sg:postcode":"37909",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "internal",
+        "medicine"
+    ],
+    "sg:website":"http://www.summitmedical.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85855769
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3j7PrY10LJ07xJVnsi7z2C_35.948586_-84.013154@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610073,
+    "wof:geomhash":"a41fa17c8f5bf7c1968364bfb6cb3a2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85855769,
+            "region_id":85688701,
+            "venue_id":823274063
+        }
+    ],
+    "wof:id":823274063,
+    "wof:lastmodified":1462610073,
+    "wof:name":"Summit Medical Group",
+    "wof:parent_id":85855769,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "medical",
+        "practice",
+        "surgeons",
+        "internal",
+        "medicine"
+    ]
+},
+  "bbox": [
+    -84.013154,
+    35.948586,
+    -84.013154,
+    35.948586
+],
+  "geometry": {"coordinates":[-84.013154,35.948586],"type":"Point"}
+}

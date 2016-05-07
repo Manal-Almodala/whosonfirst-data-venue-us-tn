@@ -1,0 +1,71 @@
+{
+  "id": 807189973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.637921,36.156116,-85.637921,36.156116",
+    "geom:latitude":36.156116,
+    "geom:longitude":-85.637921,
+    "iso:country":"US",
+    "sg:address":"420 Main St",
+    "sg:city":"Baxter",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 1477",
+    "sg:postcode":"38544",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17vcTa6vuQpJmDg0S7T5KC_36.156116_-85.637921@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604689,
+    "wof:geomhash":"f7fa0e79d3ef9888c3195d327aebcb06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":807189973
+        }
+    ],
+    "wof:id":807189973,
+    "wof:lastmodified":1462604689,
+    "wof:name":"B & M Maintenence",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.637921,
+    36.156116,
+    -85.637921,
+    36.156116
+],
+  "geometry": {"coordinates":[-85.63792100000001,36.156116],"type":"Point"}
+}

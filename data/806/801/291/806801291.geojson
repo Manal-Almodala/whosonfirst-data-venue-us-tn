@@ -1,0 +1,73 @@
+{
+  "id": 806801291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.774177,36.173859,-86.774177,36.173859",
+    "geom:latitude":36.173859,
+    "geom:longitude":-86.774177,
+    "iso:country":"US",
+    "sg:address":"210 N 1st St",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 256 3346",
+    "sg:postcode":"37213",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85893449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_285IrckgTFtedxR2az72vk_36.173859_-86.774177@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601194,
+    "wof:geomhash":"93038ca96168b9fd1399f05fe180398f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893449,
+            "region_id":85688701,
+            "venue_id":806801291
+        }
+    ],
+    "wof:id":806801291,
+    "wof:lastmodified":1462601194,
+    "wof:name":"Nashville Transmission Parts",
+    "wof:parent_id":85893449,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.774177,
+    36.173859,
+    -86.774177,
+    36.173859
+],
+  "geometry": {"coordinates":[-86.77417699999999,36.173859],"type":"Point"}
+}

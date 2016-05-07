@@ -1,0 +1,80 @@
+{
+  "id": 823282001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.047856,35.054943,-90.047856,35.054943",
+    "geom:latitude":35.054943,
+    "geom:longitude":-90.047856,
+    "iso:country":"US",
+    "sg:address":"461 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 346 4400",
+    "sg:postcode":"38109",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lOac09YrgpZwrYef9N8tA_35.054943_-90.047856@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610393,
+    "wof:geomhash":"844f71e9bf85e200af04a08ffc2be80b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542147,
+            "region_id":85688701,
+            "venue_id":823282001
+        }
+    ],
+    "wof:id":823282001,
+    "wof:lastmodified":1462610393,
+    "wof:name":"Fedex Freight, Inc.",
+    "wof:parent_id":420542147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.047856,
+    35.054943,
+    -90.047856,
+    35.054943
+],
+  "geometry": {"coordinates":[-90.047856,35.054943],"type":"Point"}
+}

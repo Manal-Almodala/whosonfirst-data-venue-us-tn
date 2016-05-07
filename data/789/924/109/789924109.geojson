@@ -1,0 +1,73 @@
+{
+  "id": 789924109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.546903,36.000546,-86.546903,36.000546",
+    "geom:latitude":36.000546,
+    "geom:longitude":-86.546903,
+    "iso:country":"US",
+    "sg:address":"802 Albin Ct",
+    "sg:city":"La Vergne",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 298 6777",
+    "sg:postcode":"37086",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723109,
+        102086355,
+        85831089
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lrVaFlGUdiOhhpleTSMCW_36.000546_-86.546903@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591657,
+    "wof:geomhash":"82183171d27d202894526bf193e3e6c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85831089,
+            "region_id":85688701,
+            "venue_id":789924109
+        }
+    ],
+    "wof:id":789924109,
+    "wof:lastmodified":1462591657,
+    "wof:name":"First Impression",
+    "wof:parent_id":85831089,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -86.546903,
+    36.000546,
+    -86.546903,
+    36.000546
+],
+  "geometry": {"coordinates":[-86.546903,36.000546],"type":"Point"}
+}

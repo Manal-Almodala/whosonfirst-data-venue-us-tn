@@ -1,0 +1,83 @@
+{
+  "id": 789945629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.876091,35.984323,-83.876091,35.984323",
+    "geom:latitude":35.984323,
+    "geom:longitude":-83.876091,
+    "iso:country":"US",
+    "sg:address":"3035 Boyds Bridge Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 522 6815",
+    "sg:postcode":"37914",
+    "sg:province":"TN",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85840531,
+        85808509
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UKe8XqC5xKwjIbuiRpzF8_35.984323_-83.876091@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591847,
+    "wof:geomhash":"13fcd43c1598ce237f9c558c7ca9d102",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85840531,
+            "region_id":85688701,
+            "venue_id":789945629
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85808509,
+            "region_id":85688701,
+            "venue_id":789945629
+        }
+    ],
+    "wof:id":789945629,
+    "wof:lastmodified":1462591847,
+    "wof:name":"Hills Catering Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -83.876091,
+    35.984323,
+    -83.876091,
+    35.984323
+],
+  "geometry": {"coordinates":[-83.876091,35.984323],"type":"Point"}
+}

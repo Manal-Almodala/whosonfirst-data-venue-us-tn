@@ -1,0 +1,76 @@
+{
+  "id": 790012911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.921634,35.202863,-89.921634,35.202863",
+    "geom:latitude":35.202863,
+    "geom:longitude":-89.921634,
+    "iso:country":"US",
+    "sg:address":"4271 Raleigh Lagrange Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 382 5592",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"www.penske.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PpOSSsNswG3xRF3OMYx78_35.202863_-89.921634@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592427,
+    "wof:geomhash":"22b4ac7b5b0601cf05d4e661303a6564",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":790012911
+        }
+    ],
+    "wof:id":790012911,
+    "wof:lastmodified":1462592427,
+    "wof:name":"Penske Truck Leasing",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -89.921634,
+    35.202863,
+    -89.921634,
+    35.202863
+],
+  "geometry": {"coordinates":[-89.921634,35.202863],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 806472803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.443111,36.379995,-86.443111,36.379995",
+    "geom:latitude":36.379995,
+    "geom:longitude":-86.443111,
+    "iso:country":"US",
+    "sg:address":"561 S Water Ave",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 451 0093",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JtVBJ5Ho8eENvVYIXCLDn_36.379995_-86.443111@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598408,
+    "wof:geomhash":"1cd153eb1bad9e121ac20321772e4fdf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":806472803
+        }
+    ],
+    "wof:id":806472803,
+    "wof:lastmodified":1462598408,
+    "wof:name":"Dialysis Assoc of Gallatin",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -86.443111,
+    36.379995,
+    -86.443111,
+    36.379995
+],
+  "geometry": {"coordinates":[-86.443111,36.379995],"type":"Point"}
+}

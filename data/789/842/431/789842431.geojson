@@ -1,0 +1,80 @@
+{
+  "id": 789842431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.566806,36.450586,-83.566806,36.450586",
+    "geom:latitude":36.450586,
+    "geom:longitude":-83.566806,
+    "iso:country":"US",
+    "sg:address":"1719 Lester Rd",
+    "sg:city":"Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 526 5292",
+    "sg:postcode":"37879",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722885,
+        102086965,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ifvi1XhpwDfEU7YP01Wwh_36.450586_-83.566806@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590966,
+    "wof:geomhash":"d51bb031a798f30f86d6aa3bfe9e087b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":789842431
+        }
+    ],
+    "wof:id":789842431,
+    "wof:lastmodified":1462590966,
+    "wof:name":"Lester's Radiator Repair",
+    "wof:parent_id":85810917,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -83.566806,
+    36.450586,
+    -83.566806,
+    36.450586
+],
+  "geometry": {"coordinates":[-83.566806,36.450586],"type":"Point"}
+}

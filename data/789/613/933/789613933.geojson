@@ -1,0 +1,71 @@
+{
+  "id": 789613933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.282396,36.155506,-83.282396,36.155506",
+    "geom:latitude":36.155506,
+    "geom:longitude":-83.282396,
+    "iso:country":"US",
+    "sg:address":"1165 Old Witt Rd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 585 0904",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85852009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5a9Sfph9ikNNjKk7Csfvt8_36.155506_-83.282396@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589165,
+    "wof:geomhash":"cadf6f9f773d09bdb596710ee88ad1f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85852009,
+            "region_id":85688701,
+            "venue_id":789613933
+        }
+    ],
+    "wof:id":789613933,
+    "wof:lastmodified":1462589165,
+    "wof:name":"Lakeway Appliance Repair",
+    "wof:parent_id":85852009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -83.282396,
+    36.155506,
+    -83.282396,
+    36.155506
+],
+  "geometry": {"coordinates":[-83.28239600000001,36.155506],"type":"Point"}
+}

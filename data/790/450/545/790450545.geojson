@@ -1,0 +1,71 @@
+{
+  "id": 790450545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.029255,35.947339,-85.029255,35.947339",
+    "geom:latitude":35.947339,
+    "geom:longitude":-85.029255,
+    "iso:country":"US",
+    "sg:address":"123 Irwin Ave",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 3313",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BdTF7okRhRONrZUIpcR1R_35.947339_-85.029255@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595916,
+    "wof:geomhash":"20679244ec557226f3ee97f7b2b24204",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":790450545
+        }
+    ],
+    "wof:id":790450545,
+    "wof:lastmodified":1462595916,
+    "wof:name":"Art & Frame Shop",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -85.029255,
+    35.947339,
+    -85.029255,
+    35.947339
+],
+  "geometry": {"coordinates":[-85.02925500000001,35.947339],"type":"Point"}
+}

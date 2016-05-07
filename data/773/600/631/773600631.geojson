@@ -1,0 +1,73 @@
+{
+  "id": 773600631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.495969,35.424047,-84.495969,35.424047",
+    "geom:latitude":35.424047,
+    "geom:longitude":-84.495969,
+    "iso:country":"US",
+    "sg:address":"1140 Co Rd 550",
+    "sg:city":"Englewood",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 887 5020",
+    "sg:postcode":"37329",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722749,
+        102086293,
+        85839313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ylit41aJ84u7dNNskW8s0_35.424047_-84.495969@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462586947,
+    "wof:geomhash":"c50abf2e0732976871b5968a68e60f74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722749,
+            "neighbourhood_id":85839313,
+            "region_id":85688701,
+            "venue_id":773600631
+        }
+    ],
+    "wof:id":773600631,
+    "wof:lastmodified":1462586947,
+    "wof:name":"Englewood Clinic",
+    "wof:parent_id":85839313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.495969,
+    35.424047,
+    -84.495969,
+    35.424047
+],
+  "geometry": {"coordinates":[-84.495969,35.424047],"type":"Point"}
+}

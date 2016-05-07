@@ -1,0 +1,75 @@
+{
+  "id": 806879183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.36829,36.064497,-87.36829,36.064497",
+    "geom:latitude":36.064497,
+    "geom:longitude":-87.36829,
+    "iso:country":"US",
+    "sg:address":"1162 State Hwy 47 E",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 446 4909",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2855uGgvPi8T00oOCx3PNm_36.064497_-87.368290@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601848,
+    "wof:geomhash":"d0723720ad551c21cfd6f67d6199fdcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":806879183
+        }
+    ],
+    "wof:id":806879183,
+    "wof:lastmodified":1462601848,
+    "wof:name":"A & H Service Station",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -87.36829,
+    36.064497,
+    -87.36829,
+    36.064497
+],
+  "geometry": {"coordinates":[-87.36829,36.064497],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807168373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.266303,36.507006,-87.266303,36.507006",
+    "geom:latitude":36.507006,
+    "geom:longitude":-87.266303,
+    "iso:country":"US",
+    "sg:address":"2480 US Hwy 41A S",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 645 8202",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846211
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bvwfvg125vL1INrMWhPHz_36.507006_-87.266303@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604468,
+    "wof:geomhash":"d53a7e87b4dd0ba18926dfabd6c3d888",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846211,
+            "region_id":85688701,
+            "venue_id":807168373
+        }
+    ],
+    "wof:id":807168373,
+    "wof:lastmodified":1462604468,
+    "wof:name":"Danny's Small Engine Repair",
+    "wof:parent_id":85846211,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -87.266303,
+    36.507006,
+    -87.266303,
+    36.507006
+],
+  "geometry": {"coordinates":[-87.26630299999999,36.507006],"type":"Point"}
+}

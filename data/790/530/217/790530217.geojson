@@ -1,0 +1,83 @@
+{
+  "id": 790530217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.694485,36.423403,-86.694485,36.423403",
+    "geom:latitude":36.423403,
+    "geom:longitude":-86.694485,
+    "iso:country":"US",
+    "sg:address":"1822 Hwy 31 W",
+    "sg:city":"White House",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 672 2237",
+    "sg:postcode":"37072",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722997,
+        102086357,
+        420541507,
+        420542223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lu8A1tQMaflh1HYFXfC1p_36.423403_-86.694485@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596625,
+    "wof:geomhash":"d58100692338dd60fee8c6f39f57dd7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420541507,
+            "region_id":85688701,
+            "venue_id":790530217
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420542223,
+            "region_id":85688701,
+            "venue_id":790530217
+        }
+    ],
+    "wof:id":790530217,
+    "wof:lastmodified":1462596625,
+    "wof:name":"Jimmy Upchurch Transmission Sp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -86.694485,
+    36.423403,
+    -86.694485,
+    36.423403
+],
+  "geometry": {"coordinates":[-86.694485,36.423403],"type":"Point"}
+}

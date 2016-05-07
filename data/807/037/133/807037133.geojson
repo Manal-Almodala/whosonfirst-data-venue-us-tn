@@ -1,0 +1,71 @@
+{
+  "id": 807037133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.362302,36.227945,-86.362302,36.227945",
+    "geom:latitude":36.227945,
+    "geom:longitude":-86.362302,
+    "iso:country":"US",
+    "sg:address":"2000 Lebanon Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 5032",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37Xo6dd9XkxEur1BtVxkU8_36.227945_-86.362302@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603180,
+    "wof:geomhash":"b1dedbf853c39ab96e25673265e635fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":807037133
+        }
+    ],
+    "wof:id":807037133,
+    "wof:lastmodified":1462603180,
+    "wof:name":"Amoco Auto Center Inc",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -86.362302,
+    36.227945,
+    -86.362302,
+    36.227945
+],
+  "geometry": {"coordinates":[-86.362302,36.227945],"type":"Point"}
+}

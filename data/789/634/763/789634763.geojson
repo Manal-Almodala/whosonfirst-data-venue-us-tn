@@ -1,0 +1,71 @@
+{
+  "id": 789634763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.038054,35.603053,-87.038054,35.603053",
+    "geom:latitude":35.603053,
+    "geom:longitude":-87.038054,
+    "iso:country":"US",
+    "sg:address":"104 E 15th St",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 388 0613",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85818757
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35kq827NMGrs6xnQjiMn8h_35.603053_-87.038054@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589335,
+    "wof:geomhash":"3d42ac9872f465ae3edd67a73e4aab6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85818757,
+            "region_id":85688701,
+            "venue_id":789634763
+        }
+    ],
+    "wof:id":789634763,
+    "wof:lastmodified":1462589335,
+    "wof:name":"Arties Auto Repair",
+    "wof:parent_id":85818757,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -87.038054,
+    35.603053,
+    -87.038054,
+    35.603053
+],
+  "geometry": {"coordinates":[-87.038054,35.603053],"type":"Point"}
+}

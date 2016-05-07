@@ -1,0 +1,73 @@
+{
+  "id": 807398497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.718733,36.230582,-86.718733,36.230582",
+    "geom:latitude":36.230582,
+    "geom:longitude":-86.718733,
+    "iso:country":"US",
+    "sg:address":"1200 Haysboro Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 226 0462",
+    "sg:postcode":"37216",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85834867
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1G5XLK8ZfvveXfgo7ygUo9_36.230582_-86.718733@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607249,
+    "wof:geomhash":"32703daab143ae4d59ca8b78443017b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85834867,
+            "region_id":85688701,
+            "venue_id":807398497
+        }
+    ],
+    "wof:id":807398497,
+    "wof:lastmodified":1462607249,
+    "wof:name":"Davidson County Rescue Squad",
+    "wof:parent_id":85834867,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.718733,
+    36.230582,
+    -86.718733,
+    36.230582
+],
+  "geometry": {"coordinates":[-86.718733,36.230582],"type":"Point"}
+}

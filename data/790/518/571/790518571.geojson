@@ -1,0 +1,84 @@
+{
+  "id": 790518571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.880901,35.214345,-89.880901,35.214345",
+    "geom:latitude":35.214345,
+    "geom:longitude":-89.880901,
+    "iso:country":"US",
+    "sg:address":"3277 Old Brownsville Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 377 5500",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "consultant",
+        "estimate",
+        "construction",
+        "estimator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qvnHHjQ496xZ1w8zjqUou_35.214345_-89.880901@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596531,
+    "wof:geomhash":"4486a0410b73a855175e46045165043b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":790518571
+        }
+    ],
+    "wof:id":790518571,
+    "wof:lastmodified":1462596531,
+    "wof:name":"Construction Support Services",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "consultant",
+        "estimate",
+        "construction",
+        "estimator"
+    ]
+},
+  "bbox": [
+    -89.880901,
+    35.214345,
+    -89.880901,
+    35.214345
+],
+  "geometry": {"coordinates":[-89.88090099999999,35.214345],"type":"Point"}
+}

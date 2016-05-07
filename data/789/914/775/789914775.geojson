@@ -1,0 +1,71 @@
+{
+  "id": 789914775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.336687,35.242531,-87.336687,35.242531",
+    "geom:latitude":35.242531,
+    "geom:longitude":-87.336687,
+    "iso:country":"US",
+    "sg:address":"233 W Gaines St",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 9046",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WcBHzE1lIs6HQQnq3MnRx_35.242531_-87.336687@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591579,
+    "wof:geomhash":"6cc00e937ab61cb1ac8da52ab5e9cd12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":789914775
+        }
+    ],
+    "wof:id":789914775,
+    "wof:lastmodified":1462591579,
+    "wof:name":"Lawrenceburg Fire Dept",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.336687,
+    35.242531,
+    -87.336687,
+    35.242531
+],
+  "geometry": {"coordinates":[-87.336687,35.242531],"type":"Point"}
+}

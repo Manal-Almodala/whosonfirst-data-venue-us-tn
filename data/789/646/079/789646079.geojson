@@ -1,0 +1,75 @@
+{
+  "id": 789646079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.108346,35.189391,-86.108346,35.189391",
+    "geom:latitude":35.189391,
+    "geom:longitude":-86.108346,
+    "iso:country":"US",
+    "sg:address":"635 Dinah Shore Blvd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 962 9985",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pLGUE026appITPgULTO40_35.189391_-86.108346@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589417,
+    "wof:geomhash":"d743afbc01025724d0da80cb39a60b9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":789646079
+        }
+    ],
+    "wof:id":789646079,
+    "wof:lastmodified":1462589417,
+    "wof:name":"Mike's Midtown Auto Repair",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -86.108346,
+    35.189391,
+    -86.108346,
+    35.189391
+],
+  "geometry": {"coordinates":[-86.108346,35.189391],"type":"Point"}
+}

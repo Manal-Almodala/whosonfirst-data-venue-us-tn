@@ -1,0 +1,74 @@
+{
+  "id": 823242931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.435488,36.390952,-86.435488,36.390952",
+    "geom:latitude":36.390952,
+    "geom:longitude":-86.435488,
+    "iso:country":"US",
+    "sg:address":"505 Hartsville Pike",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/gallatin/191674-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 2044",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ZizcpArITND9fhXReE1b_36.390952_-86.435488@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609201,
+    "wof:geomhash":"4b4353de44cedb6729c5968e79705b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":823242931
+        }
+    ],
+    "wof:id":823242931,
+    "wof:lastmodified":1462609201,
+    "wof:name":"Sonic",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -86.435488,
+    36.390952,
+    -86.435488,
+    36.390952
+],
+  "geometry": {"coordinates":[-86.43548800000001,36.390952],"type":"Point"}
+}

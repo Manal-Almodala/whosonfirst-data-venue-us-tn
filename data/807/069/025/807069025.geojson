@@ -1,0 +1,73 @@
+{
+  "id": 807069025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.281019,36.454199,-82.281019,36.454199",
+    "geom:latitude":36.454199,
+    "geom:longitude":-82.281019,
+    "iso:country":"US",
+    "sg:address":"229 US Hwy 19E",
+    "sg:city":"Bluff City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 538 5116",
+    "sg:postcode":"37618",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722907,
+        102086471,
+        85825439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NLyD059yCh8P0qISmVY4X_36.454199_-82.281019@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603438,
+    "wof:geomhash":"0262bef9d36d716e9aaaf1f11afa8c37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722907,
+            "neighbourhood_id":85825439,
+            "region_id":85688701,
+            "venue_id":807069025
+        }
+    ],
+    "wof:id":807069025,
+    "wof:lastmodified":1462603438,
+    "wof:name":"Bluff City Medical Center",
+    "wof:parent_id":85825439,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.281019,
+    36.454199,
+    -82.281019,
+    36.454199
+],
+  "geometry": {"coordinates":[-82.281019,36.454199],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 789784869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.34987,35.180619,-85.34987,35.180619",
+    "geom:latitude":35.180619,
+    "geom:longitude":-85.34987,
+    "iso:country":"US",
+    "sg:address":"2805 Kell Rd",
+    "sg:city":"Signal Mountain",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 886 6471",
+    "sg:postcode":"37377",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shelter",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723291,
+        102087185,
+        420541617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dysOrmmpME7H5G6Grquhr_35.180619_-85.349870@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590527,
+    "wof:geomhash":"35b0ab4fe244aecaa2d5d09eb1388342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723291,
+            "neighbourhood_id":420541617,
+            "region_id":85688701,
+            "venue_id":789784869
+        }
+    ],
+    "wof:id":789784869,
+    "wof:lastmodified":1462590527,
+    "wof:name":"Signal Mountain Adopt-A-Pet",
+    "wof:parent_id":420541617,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shelter",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -85.34987,
+    35.180619,
+    -85.34987,
+    35.180619
+],
+  "geometry": {"coordinates":[-85.34987,35.180619],"type":"Point"}
+}

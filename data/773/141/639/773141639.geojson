@@ -1,0 +1,75 @@
+{
+  "id": 773141639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.932682,35.232919,-89.932682,35.232919",
+    "geom:latitude":35.232919,
+    "geom:longitude":-89.932682,
+    "iso:country":"US",
+    "sg:address":"3872 Kerwin Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 372 1583",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EnWx7MkPhKWMsdn46dzoC_35.232919_-89.932682@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583447,
+    "wof:geomhash":"c68f9361003772857cc110a4fb2715cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":773141639
+        }
+    ],
+    "wof:id":773141639,
+    "wof:lastmodified":1462583447,
+    "wof:name":"S L Jones Trucking Co",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.932682,
+    35.232919,
+    -89.932682,
+    35.232919
+],
+  "geometry": {"coordinates":[-89.932682,35.232919],"type":"Point"}
+}

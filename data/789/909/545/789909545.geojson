@@ -1,0 +1,71 @@
+{
+  "id": 789909545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.648877,35.562965,-89.648877,35.562965",
+    "geom:latitude":35.562965,
+    "geom:longitude":-89.648877,
+    "iso:country":"US",
+    "sg:address":"200 W Washington Ave",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 6203",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48ecbMBJMV3OvpNPw9MfLQ_35.562965_-89.648877@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591535,
+    "wof:geomhash":"7e44320081e9746ada6515106c1c0463",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789909545
+        }
+    ],
+    "wof:id":789909545,
+    "wof:lastmodified":1462591535,
+    "wof:name":"City Court Clerk",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -89.648877,
+    35.562965,
+    -89.648877,
+    35.562965
+],
+  "geometry": {"coordinates":[-89.648877,35.562965],"type":"Point"}
+}

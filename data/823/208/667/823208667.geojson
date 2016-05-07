@@ -1,0 +1,73 @@
+{
+  "id": 823208667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.812714,35.96829,-86.812714,35.96829",
+    "geom:latitude":35.96829,
+    "geom:longitude":-86.812714,
+    "iso:country":"US",
+    "sg:address":"1668 Mallory Ln",
+    "sg:city":"Brentwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 333 1212",
+    "sg:postcode":"37027",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723093,
+        102086337,
+        85808771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QwXoiqul23YjY1x7p9kst_35.968290_-86.812714@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608507,
+    "wof:geomhash":"761cbf2b131fb022ece2e2b97ee2d0a1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723093,
+            "neighbourhood_id":85808771,
+            "region_id":85688701,
+            "venue_id":823208667
+        }
+    ],
+    "wof:id":823208667,
+    "wof:lastmodified":1462608507,
+    "wof:name":"Pet Emergency Treatment Svc",
+    "wof:parent_id":85808771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.812714,
+    35.96829,
+    -86.812714,
+    35.96829
+],
+  "geometry": {"coordinates":[-86.812714,35.96829],"type":"Point"}
+}

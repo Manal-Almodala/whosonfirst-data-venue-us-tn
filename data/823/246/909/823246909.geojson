@@ -1,0 +1,74 @@
+{
+  "id": 823246909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.880999,35.166766,-84.880999,35.166766",
+    "geom:latitude":35.166766,
+    "geom:longitude":-84.880999,
+    "iso:country":"US",
+    "sg:address":"855 Keith St NW",
+    "sg:city":"Cleveland",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/cleveland/140319-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 339 3264",
+    "sg:postcode":"37311",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723129,
+        102087043,
+        85803171
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DtUmSdGbT73KICuNdZuvQ_35.166766_-84.880999@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609276,
+    "wof:geomhash":"8d714e42ce690987efc0d0af10c6833a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087043,
+            "locality_id":101723129,
+            "neighbourhood_id":85803171,
+            "region_id":85688701,
+            "venue_id":823246909
+        }
+    ],
+    "wof:id":823246909,
+    "wof:lastmodified":1462609276,
+    "wof:name":"Subway",
+    "wof:parent_id":85803171,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -84.880999,
+    35.166766,
+    -84.880999,
+    35.166766
+],
+  "geometry": {"coordinates":[-84.880999,35.166766],"type":"Point"}
+}

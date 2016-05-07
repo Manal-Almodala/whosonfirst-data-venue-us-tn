@@ -1,0 +1,71 @@
+{
+  "id": 790466703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.482003,35.987749,-86.482003,35.987749",
+    "geom:latitude":35.987749,
+    "geom:longitude":-86.482003,
+    "iso:country":"US",
+    "sg:address":"114 Sandi Ct",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 248 2288",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85823525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y1cN1vmyIzdmac57e1kSA_35.987749_-86.482003@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596062,
+    "wof:geomhash":"f31d8639ddafb47b7db7decd254ea232",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85823525,
+            "region_id":85688701,
+            "venue_id":790466703
+        }
+    ],
+    "wof:id":790466703,
+    "wof:lastmodified":1462596062,
+    "wof:name":"White Lightning Courier Svc",
+    "wof:parent_id":85823525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -86.482003,
+    35.987749,
+    -86.482003,
+    35.987749
+],
+  "geometry": {"coordinates":[-86.48200300000001,35.987749],"type":"Point"}
+}

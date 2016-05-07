@@ -1,0 +1,71 @@
+{
+  "id": 790228785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.265644,36.145737,-85.265644,36.145737",
+    "geom:latitude":36.145737,
+    "geom:longitude":-85.265644,
+    "iso:country":"US",
+    "sg:address":"302 E Commercial Ave",
+    "sg:city":"Monterey",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 839 2323",
+    "sg:postcode":"38574",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85817165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Yp4rPL9esgOkY2hF77YH0_36.145737_-85.265644@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594161,
+    "wof:geomhash":"fdc200f06009f6af46660b872679b0f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85817165,
+            "region_id":85688701,
+            "venue_id":790228785
+        }
+    ],
+    "wof:id":790228785,
+    "wof:lastmodified":1462594161,
+    "wof:name":"Monterey City Fire Dept",
+    "wof:parent_id":85817165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.265644,
+    36.145737,
+    -85.265644,
+    36.145737
+],
+  "geometry": {"coordinates":[-85.26564399999999,36.145737],"type":"Point"}
+}

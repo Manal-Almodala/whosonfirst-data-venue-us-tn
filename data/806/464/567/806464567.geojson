@@ -1,0 +1,73 @@
+{
+  "id": 806464567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.312808,36.210781,-86.312808,36.210781",
+    "geom:latitude":36.210781,
+    "geom:longitude":-86.312808,
+    "iso:country":"US",
+    "sg:address":"104 Oak St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 9357",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rODj65czb4lSKsAylBnyP_36.210781_-86.312808@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598351,
+    "wof:geomhash":"4f713630ae6061237891823d49488fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":806464567
+        }
+    ],
+    "wof:id":806464567,
+    "wof:lastmodified":1462598351,
+    "wof:name":"Dancer's Studio",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -86.312808,
+    36.210781,
+    -86.312808,
+    36.210781
+],
+  "geometry": {"coordinates":[-86.312808,36.210781],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806722673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.701574,35.017154,-85.701574,35.017154",
+    "geom:latitude":35.017154,
+    "geom:longitude":-85.701574,
+    "iso:country":"US",
+    "sg:address":"101 N Cedar Ave",
+    "sg:city":"South Pittsburg",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 837 7252",
+    "sg:postcode":"37380",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722495,
+        102086347,
+        85823635
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7G4z0Y30MgWon8ewkiTpA9_35.017154_-85.701574@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600526,
+    "wof:geomhash":"f9a195380939656bec5ce28108f32453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086347,
+            "locality_id":101722495,
+            "neighbourhood_id":85823635,
+            "region_id":85688701,
+            "venue_id":806722673
+        }
+    ],
+    "wof:id":806722673,
+    "wof:lastmodified":1462600526,
+    "wof:name":"Harold's Grocery",
+    "wof:parent_id":85823635,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -85.701574,
+    35.017154,
+    -85.701574,
+    35.017154
+],
+  "geometry": {"coordinates":[-85.70157399999999,35.017154],"type":"Point"}
+}

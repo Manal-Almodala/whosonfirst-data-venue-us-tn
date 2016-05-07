@@ -1,0 +1,73 @@
+{
+  "id": 773708413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.372836,35.909379,-86.372836,35.909379",
+    "geom:latitude":35.909379,
+    "geom:longitude":-86.372836,
+    "iso:country":"US",
+    "sg:address":"356 Compton Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 893 1360",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "home",
+        "veteran"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85840327
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XdK0KpnfpDaIQTyLZ0sLd_35.909379_-86.372836@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587790,
+    "wof:geomhash":"e115515f9767b01eb3516b6eaa0aaef7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85840327,
+            "region_id":85688701,
+            "venue_id":773708413
+        }
+    ],
+    "wof:id":773708413,
+    "wof:lastmodified":1462587790,
+    "wof:name":"VA Medical Center",
+    "wof:parent_id":85840327,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "veteran"
+    ]
+},
+  "bbox": [
+    -86.372836,
+    35.909379,
+    -86.372836,
+    35.909379
+],
+  "geometry": {"coordinates":[-86.37283600000001,35.909379],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 823263043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.387789,35.86691,-86.387789,35.86691",
+    "geom:latitude":35.86691,
+    "geom:longitude":-86.387789,
+    "iso:country":"US",
+    "sg:address":"105 Sulphur Springs Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 0235",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "delivery",
+        "barbecue",
+        "caterer"
+    ],
+    "sg:website":"http://www.whittsbarbecue.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723111,
+        102086355,
+        85824375
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uyFJbDIB7rjYRRvbFtH3G_35.866910_-86.387789@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609642,
+    "wof:geomhash":"121216831876291285d802d8a52bd359",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85824375,
+            "region_id":85688701,
+            "venue_id":823263043
+        }
+    ],
+    "wof:id":823263043,
+    "wof:lastmodified":1462609642,
+    "wof:name":"Whitt's Barbecue",
+    "wof:parent_id":85824375,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "barbecue",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -86.387789,
+    35.86691,
+    -86.387789,
+    35.86691
+],
+  "geometry": {"coordinates":[-86.387789,35.86691],"type":"Point"}
+}

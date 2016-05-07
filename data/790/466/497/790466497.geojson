@@ -1,0 +1,73 @@
+{
+  "id": 790466497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.328285,35.244101,-87.328285,35.244101",
+    "geom:latitude":35.244101,
+    "geom:longitude":-87.328285,
+    "iso:country":"US",
+    "sg:address":"313 1st St",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 762 6761",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0z0nCTfqNgeEyZCoUNBfHh_35.244101_-87.328285@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596061,
+    "wof:geomhash":"25f5957ee18c175927813ffaf961c7a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":790466497
+        }
+    ],
+    "wof:id":790466497,
+    "wof:lastmodified":1462596061,
+    "wof:name":"Seymour Auto Repair",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.328285,
+    35.244101,
+    -87.328285,
+    35.244101
+],
+  "geometry": {"coordinates":[-87.32828499999999,35.244101],"type":"Point"}
+}

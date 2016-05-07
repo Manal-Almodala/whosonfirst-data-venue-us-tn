@@ -1,0 +1,71 @@
+{
+  "id": 806611861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.280291,35.435343,-87.280291,35.435343",
+    "geom:latitude":35.435343,
+    "geom:longitude":-87.280291,
+    "iso:country":"US",
+    "sg:address":"4937 US Hwy 43 N",
+    "sg:city":"Summertown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 964 9966",
+    "sg:postcode":"38483",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85833563,
+        102086349
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79TtDhDkSz0R53QLiYIOGS_35.435343_-87.280291@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599579,
+    "wof:geomhash":"e86cd8a7ed13990ed1ccae0ffc0fac57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "neighbourhood_id":85833563,
+            "region_id":85688701,
+            "venue_id":806611861
+        }
+    ],
+    "wof:id":806611861,
+    "wof:lastmodified":1462599579,
+    "wof:name":"Family Medical Ctr",
+    "wof:parent_id":85833563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.280291,
+    35.435343,
+    -87.280291,
+    35.435343
+],
+  "geometry": {"coordinates":[-87.28029100000001,35.435343],"type":"Point"}
+}

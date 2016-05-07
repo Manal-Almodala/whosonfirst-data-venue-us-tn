@@ -1,0 +1,73 @@
+{
+  "id": 806549613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.809306,35.888529,-84.809306,35.888529",
+    "geom:latitude":35.888529,
+    "geom:longitude":-84.809306,
+    "iso:country":"US",
+    "sg:address":"192 Hutson Ln",
+    "sg:city":"Rockwood",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 354 5029",
+    "sg:postcode":"37854",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hjIe6PRm1McovWd7HUxhS_35.888529_-84.809306@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599031,
+    "wof:geomhash":"9922e977e53bbdcfe9058942def7a054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":806549613
+        }
+    ],
+    "wof:id":806549613,
+    "wof:lastmodified":1462599031,
+    "wof:name":"Brooks Trucking",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -84.809306,
+    35.888529,
+    -84.809306,
+    35.888529
+],
+  "geometry": {"coordinates":[-84.80930600000001,35.888529],"type":"Point"}
+}

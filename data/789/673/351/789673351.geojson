@@ -1,0 +1,73 @@
+{
+  "id": 789673351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.035632,36.027495,-84.035632,36.027495",
+    "geom:latitude":36.027495,
+    "geom:longitude":-84.035632,
+    "iso:country":"US",
+    "sg:address":"7602 Northfield Blvd",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 938 9246",
+    "sg:postcode":"37849",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mm3qCLDr4yzVSQaOXJL5g_36.027495_-84.035632@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589651,
+    "wof:geomhash":"3c20d26b54223d5b7edb1b246b07d6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":789673351
+        }
+    ],
+    "wof:id":789673351,
+    "wof:lastmodified":1462589651,
+    "wof:name":"Standard Electric Svc",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.035632,
+    36.027495,
+    -84.035632,
+    36.027495
+],
+  "geometry": {"coordinates":[-84.03563200000001,36.027495],"type":"Point"}
+}

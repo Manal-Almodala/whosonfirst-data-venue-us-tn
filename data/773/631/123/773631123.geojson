@@ -1,0 +1,83 @@
+{
+  "id": 773631123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.040857,35.196389,-87.040857,35.196389",
+    "geom:latitude":35.196389,
+    "geom:longitude":-87.040857,
+    "iso:country":"US",
+    "sg:address":"610 W Shoal St",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 424 3777",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yfidpaJqgBjB0RV8oyTQ5_35.196389_-87.040857@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587179,
+    "wof:geomhash":"a44f639f7ce9d759c2e1aae13d70ef63",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":773631123
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":773631123
+        }
+    ],
+    "wof:id":773631123,
+    "wof:lastmodified":1462587179,
+    "wof:name":"Stockyard Cafe",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -87.040857,
+    35.196389,
+    -87.040857,
+    35.196389
+],
+  "geometry": {"coordinates":[-87.040857,35.196389],"type":"Point"}
+}

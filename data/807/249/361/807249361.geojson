@@ -1,0 +1,71 @@
+{
+  "id": 807249361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.472981,35.944285,-85.472981,35.944285",
+    "geom:latitude":35.944285,
+    "geom:longitude":-85.472981,
+    "iso:country":"US",
+    "sg:address":"342 N Spring St",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 836 3532",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Muy5wdJ6HcWoP3FecUM9c_35.944285_-85.472981@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605318,
+    "wof:geomhash":"811fec32cf5f269358fa8bcb5efe88aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":807249361
+        }
+    ],
+    "wof:id":807249361,
+    "wof:lastmodified":1462605318,
+    "wof:name":"Rice Auto Clean Up Shop",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -85.472981,
+    35.944285,
+    -85.472981,
+    35.944285
+],
+  "geometry": {"coordinates":[-85.472981,35.944285],"type":"Point"}
+}

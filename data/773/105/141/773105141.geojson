@@ -1,0 +1,75 @@
+{
+  "id": 773105141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.991796,35.173336,-89.991796,35.173336",
+    "geom:latitude":35.173336,
+    "geom:longitude":-89.991796,
+    "iso:country":"US",
+    "sg:address":"1888 Chelsea Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 722 8777",
+    "sg:postcode":"38108",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "engine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R7xlRyOTvXa0lrkR6OUkl_35.173336_-89.991796@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583190,
+    "wof:geomhash":"44456f5288b302bd1d313f696355e985",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542135,
+            "region_id":85688701,
+            "venue_id":773105141
+        }
+    ],
+    "wof:id":773105141,
+    "wof:lastmodified":1462583190,
+    "wof:name":"Precision Motor Works Inc",
+    "wof:parent_id":420542135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "engine"
+    ]
+},
+  "bbox": [
+    -89.991796,
+    35.173336,
+    -89.991796,
+    35.173336
+],
+  "geometry": {"coordinates":[-89.99179599999999,35.173336],"type":"Point"}
+}

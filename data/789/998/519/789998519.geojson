@@ -1,0 +1,71 @@
+{
+  "id": 789998519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.472418,35.807985,-86.472418,35.807985",
+    "geom:latitude":35.807985,
+    "geom:longitude":-86.472418,
+    "iso:country":"US",
+    "sg:address":"2040 Hwy 99",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 3434",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iCncy9mEoDy2IRTbTu13L_35.807985_-86.472418@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592319,
+    "wof:geomhash":"d609855c9875f20d7025bf68bfc54ed1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":789998519
+        }
+    ],
+    "wof:id":789998519,
+    "wof:lastmodified":1462592319,
+    "wof:name":"Animal Care Clinic",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -86.472418,
+    35.807985,
+    -86.472418,
+    35.807985
+],
+  "geometry": {"coordinates":[-86.472418,35.807985],"type":"Point"}
+}

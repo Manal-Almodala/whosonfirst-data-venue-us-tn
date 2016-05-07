@@ -1,0 +1,71 @@
+{
+  "id": 773840391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.363029,36.51939,-87.363029,36.51939",
+    "geom:latitude":36.51939,
+    "geom:longitude":-87.363029,
+    "iso:country":"US",
+    "sg:address":"617 S Riverside Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 552 2575",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_711EyFLOzseXZiHrPEe2TS_36.519390_-87.363029@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588820,
+    "wof:geomhash":"6cbc441e7413448ddb169aa9781f1581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":773840391
+        }
+    ],
+    "wof:id":773840391,
+    "wof:lastmodified":1462588820,
+    "wof:name":"C & S Auto Repair",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -87.363029,
+    36.51939,
+    -87.363029,
+    36.51939
+],
+  "geometry": {"coordinates":[-87.363029,36.51939],"type":"Point"}
+}

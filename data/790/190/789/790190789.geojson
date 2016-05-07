@@ -1,0 +1,73 @@
+{
+  "id": 790190789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.959433,36.012536,-83.959433,36.012536",
+    "geom:latitude":36.012536,
+    "geom:longitude":-83.959433,
+    "iso:country":"US",
+    "sg:address":"600 E Inskip Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 1080",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LkBcY1LWZWw729lAIeKLQ_36.012536_-83.959433@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462593859,
+    "wof:geomhash":"948c45bc4e0d88bcf13e79a541aa438f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":790190789
+        }
+    ],
+    "wof:id":790190789,
+    "wof:lastmodified":1462593859,
+    "wof:name":"Knox Landing Apartments",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -83.959433,
+    36.012536,
+    -83.959433,
+    36.012536
+],
+  "geometry": {"coordinates":[-83.959433,36.012536],"type":"Point"}
+}

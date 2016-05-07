@@ -1,0 +1,71 @@
+{
+  "id": 773029785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.214477,36.34723,-82.214477,36.34723",
+    "geom:latitude":36.34723,
+    "geom:longitude":-82.214477,
+    "iso:country":"US",
+    "sg:address":"121 S Sycamore St",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 542 5421",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85816779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_361xjrAySCVJtNl5X6QFGo_36.347230_-82.214477@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462582564,
+    "wof:geomhash":"48449b99f8ece719e77fca316d467c33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85816779,
+            "region_id":85688701,
+            "venue_id":773029785
+        }
+    ],
+    "wof:id":773029785,
+    "wof:lastmodified":1462582564,
+    "wof:name":"Elizabethton Fire Department",
+    "wof:parent_id":85816779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -82.214477,
+    36.34723,
+    -82.214477,
+    36.34723
+],
+  "geometry": {"coordinates":[-82.214477,36.34723],"type":"Point"}
+}

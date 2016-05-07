@@ -1,0 +1,71 @@
+{
+  "id": 806475225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.543326,36.12894,-85.543326,36.12894",
+    "geom:latitude":36.12894,
+    "geom:longitude":-85.543326,
+    "iso:country":"US",
+    "sg:address":"1747 Lee Seminary Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 432 7196",
+    "sg:postcode":"38506",
+    "sg:province":"TN",
+    "sg:tags":[
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85851797
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZqiYZ086nYCzuAAG1LdOk_36.128940_-85.543326@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598424,
+    "wof:geomhash":"c149220c976a2aedc4896e3a855cd1aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85851797,
+            "region_id":85688701,
+            "venue_id":806475225
+        }
+    ],
+    "wof:id":806475225,
+    "wof:lastmodified":1462598424,
+    "wof:name":"Bowmans Tire Auto Repair",
+    "wof:parent_id":85851797,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire"
+    ]
+},
+  "bbox": [
+    -85.543326,
+    36.12894,
+    -85.543326,
+    36.12894
+],
+  "geometry": {"coordinates":[-85.54332599999999,36.12894],"type":"Point"}
+}

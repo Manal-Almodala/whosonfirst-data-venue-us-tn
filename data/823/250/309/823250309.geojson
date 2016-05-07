@@ -1,0 +1,72 @@
+{
+  "id": 823250309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.847682,36.147682,-82.847682,36.147682",
+    "geom:latitude":36.147682,
+    "geom:longitude":-82.847682,
+    "iso:country":"US",
+    "sg:address":"504 Asheville Hwy",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/greeneville/203584-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 636 2673",
+    "sg:postcode":"37743",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85851539,
+        102086377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28SpVmTRFUaHJbFfMwmQwD_36.147682_-82.847682@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609342,
+    "wof:geomhash":"b349c62ac7fb461b8156e670effae33f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "neighbourhood_id":85851539,
+            "region_id":85688701,
+            "venue_id":823250309
+        }
+    ],
+    "wof:id":823250309,
+    "wof:lastmodified":1462609342,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85851539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.847682,
+    36.147682,
+    -82.847682,
+    36.147682
+],
+  "geometry": {"coordinates":[-82.84768200000001,36.147682],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823259867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.976046,36.010785,-83.976046,36.010785",
+    "geom:latitude":36.010785,
+    "geom:longitude":-83.976046,
+    "iso:country":"US",
+    "sg:address":"5604 Merchants Center Blvd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/knoxville/95111-ihop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 1202",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RUmeRdkM8omPdojGrrZ4j_36.010658_-83.975814@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609550,
+    "wof:geomhash":"7681b45591fd1165db6aa754e0aabf73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":823259867
+        }
+    ],
+    "wof:id":823259867,
+    "wof:lastmodified":1462609550,
+    "wof:name":"IHOP",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "burger",
+        "soup",
+        "american",
+        "steakhouse",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -83.976046,
+    36.010785,
+    -83.976046,
+    36.010785
+],
+  "geometry": {"coordinates":[-83.976046,36.010785],"type":"Point"}
+}

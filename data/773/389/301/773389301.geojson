@@ -1,0 +1,71 @@
+{
+  "id": 773389301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.026544,35.504521,-85.026544,35.504521",
+    "geom:latitude":35.504521,
+    "geom:longitude":-85.026544,
+    "iso:country":"US",
+    "sg:address":"106 Academy Ave",
+    "sg:city":"Jasper",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 942 2934",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ns4w2NRZLRYEVx8BCZJlj_35.504521_-85.026544@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585318,
+    "wof:geomhash":"f7bd6b8325824238d802205f0c80ec78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":773389301
+        }
+    ],
+    "wof:id":773389301,
+    "wof:lastmodified":1462585318,
+    "wof:name":"Marion County Juvenile Court",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -85.026544,
+    35.504521,
+    -85.026544,
+    35.504521
+],
+  "geometry": {"coordinates":[-85.026544,35.504521],"type":"Point"}
+}

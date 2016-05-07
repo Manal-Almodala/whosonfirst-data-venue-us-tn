@@ -1,0 +1,83 @@
+{
+  "id": 823272451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.155083,35.040656,-85.155083,35.040656",
+    "geom:latitude":35.040656,
+    "geom:longitude":-85.155083,
+    "iso:country":"US",
+    "sg:address":"2230 Hamilton Place Blvd",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 296 2591",
+    "sg:postcode":"37421",
+    "sg:province":"TN",
+    "sg:tags":[
+        "handbag",
+        "boots-retail",
+        "store"
+    ],
+    "sg:website":"http://www.dsw.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85824831
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_033kpYSACah88TBNMy2wcp_35.040656_-85.155083@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462610006,
+    "wof:geomhash":"5a8be619e713b4cce37eccee79588fcd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85824831,
+            "region_id":85688701,
+            "venue_id":823272451
+        }
+    ],
+    "wof:id":823272451,
+    "wof:lastmodified":1462610006,
+    "wof:name":"DSW",
+    "wof:parent_id":85824831,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "handbag",
+        "boots-retail",
+        "store"
+    ]
+},
+  "bbox": [
+    -85.155083,
+    35.040656,
+    -85.155083,
+    35.040656
+],
+  "geometry": {"coordinates":[-85.155083,35.040656],"type":"Point"}
+}

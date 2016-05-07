@@ -1,0 +1,71 @@
+{
+  "id": 823136055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.369308,35.05667,-89.369308,35.05667",
+    "geom:latitude":35.05667,
+    "geom:longitude":-89.369308,
+    "iso:country":"US",
+    "sg:address":"15940 State Hwy 57",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 877 7633",
+    "sg:postcode":"38057",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85846193,
+        102086439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43AXwG0J0osmpogaV4FSnT_35.056670_-89.369308@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607433,
+    "wof:geomhash":"2837dd6176573b64906f5e453947d560",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086439,
+            "neighbourhood_id":85846193,
+            "region_id":85688701,
+            "venue_id":823136055
+        }
+    ],
+    "wof:id":823136055,
+    "wof:lastmodified":1462607433,
+    "wof:name":"Dyer's Automotive",
+    "wof:parent_id":85846193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.369308,
+    35.05667,
+    -89.369308,
+    35.05667
+],
+  "geometry": {"coordinates":[-89.369308,35.05667],"type":"Point"}
+}

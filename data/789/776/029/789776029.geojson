@@ -1,0 +1,71 @@
+{
+  "id": 789776029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.762232,35.876678,-84.762232,35.876678",
+    "geom:latitude":35.876678,
+    "geom:longitude":-84.762232,
+    "iso:country":"US",
+    "sg:address":"222 Marlow Ln",
+    "sg:city":"Oneida",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 569 5964",
+    "sg:postcode":"37854",
+    "sg:province":"TN",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wGBqjBkaMQ905dpRIGFuz_35.876678_-84.762232@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590447,
+    "wof:geomhash":"5cc6516e081410bfea75fc48f634e27b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":789776029
+        }
+    ],
+    "wof:id":789776029,
+    "wof:lastmodified":1462590447,
+    "wof:name":"KLC Machine",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -84.762232,
+    35.876678,
+    -84.762232,
+    35.876678
+],
+  "geometry": {"coordinates":[-84.762232,35.876678],"type":"Point"}
+}

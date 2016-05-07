@@ -1,0 +1,71 @@
+{
+  "id": 789784915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.288502,36.208883,-86.288502,36.208883",
+    "geom:latitude":36.208883,
+    "geom:longitude":-86.288502,
+    "iso:country":"US",
+    "sg:address":"235 E Market St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 2282",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EUjVsfgshyfyMkJRFMi18_36.208883_-86.288502@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590527,
+    "wof:geomhash":"f1647c7a6f211cb87dc32edb54ec8d25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":789784915
+        }
+    ],
+    "wof:id":789784915,
+    "wof:lastmodified":1462590527,
+    "wof:name":"Lebanon Dental Laboratory",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -86.288502,
+    36.208883,
+    -86.288502,
+    36.208883
+],
+  "geometry": {"coordinates":[-86.28850199999999,36.208883],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773388889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.870865,35.92127,-83.870865,35.92127",
+    "geom:latitude":35.92127,
+    "geom:longitude":-83.870865,
+    "iso:country":"US",
+    "sg:address":"6242 Chapman Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 573 8628",
+    "sg:postcode":"37920",
+    "sg:province":"TN",
+    "sg:tags":[
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85835143
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_726gGrBzrYw7KRj0zS3O8L_35.921270_-83.870865@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585315,
+    "wof:geomhash":"53c61e20d70941e4fa051c0829ea2d06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85835143,
+            "region_id":85688701,
+            "venue_id":773388889
+        }
+    ],
+    "wof:id":773388889,
+    "wof:lastmodified":1462585315,
+    "wof:name":"Knoxville Radiator & Auto Svc",
+    "wof:parent_id":85835143,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "radiator"
+    ]
+},
+  "bbox": [
+    -83.870865,
+    35.92127,
+    -83.870865,
+    35.92127
+],
+  "geometry": {"coordinates":[-83.87086499999999,35.92127],"type":"Point"}
+}

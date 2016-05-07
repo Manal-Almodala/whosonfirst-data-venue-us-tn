@@ -1,0 +1,76 @@
+{
+  "id": 773746603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.783444,35.204369,-89.783444,35.204369",
+    "geom:latitude":35.204369,
+    "geom:longitude":-89.783444,
+    "iso:country":"US",
+    "sg:address":"8355 US Hwy 64",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 937 7428",
+    "sg:postcode":"38133",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"www.sears.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870775
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N04UMr0goewbAbXJu9mXC_35.204369_-89.783444@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588073,
+    "wof:geomhash":"43d7e22c81ef2e58ae12d24f11e3cf66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870775,
+            "region_id":85688701,
+            "venue_id":773746603
+        }
+    ],
+    "wof:id":773746603,
+    "wof:lastmodified":1462588073,
+    "wof:name":"Sears Auto & Tire Ctr",
+    "wof:parent_id":85870775,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.783444,
+    35.204369,
+    -89.783444,
+    35.204369
+],
+  "geometry": {"coordinates":[-89.783444,35.204369],"type":"Point"}
+}

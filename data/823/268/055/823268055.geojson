@@ -1,0 +1,87 @@
+{
+  "id": 823268055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.586212,35.471135,-84.586212,35.471135",
+    "geom:latitude":35.471135,
+    "geom:longitude":-84.586212,
+    "iso:country":"US",
+    "sg:address":"2205 Ingleside Ave",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 746 4922",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "auction",
+        "buyer",
+        "management",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85811277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25T5rl0HmTm6eZXpJCy8R0_35.471135_-84.586212@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609825,
+    "wof:geomhash":"0b55bc8be2fa8b417e6e0db9a9ea4ab7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85811277,
+            "region_id":85688701,
+            "venue_id":823268055
+        }
+    ],
+    "wof:id":823268055,
+    "wof:lastmodified":1462609825,
+    "wof:name":"Re Trade",
+    "wof:parent_id":85811277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auction",
+        "buyer",
+        "management",
+        "broker"
+    ]
+},
+  "bbox": [
+    -84.586212,
+    35.471135,
+    -84.586212,
+    35.471135
+],
+  "geometry": {"coordinates":[-84.586212,35.471135],"type":"Point"}
+}

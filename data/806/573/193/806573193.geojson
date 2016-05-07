@@ -1,0 +1,80 @@
+{
+  "id": 806573193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.372356,36.064039,-87.372356,36.064039",
+    "geom:latitude":36.064039,
+    "geom:longitude":-87.372356,
+    "iso:country":"US",
+    "sg:address":"110 Lewis Hollow Rd",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 441 6553",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash",
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vY7za4GgkVbTMl3dO1D1h_36.064039_-87.372356@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599258,
+    "wof:geomhash":"d3b89beecf77af6a0dc4d7bf9d92ac93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":806573193
+        }
+    ],
+    "wof:id":806573193,
+    "wof:lastmodified":1462599258,
+    "wof:name":"H & H Towing and Recovery",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash",
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -87.372356,
+    36.064039,
+    -87.372356,
+    36.064039
+],
+  "geometry": {"coordinates":[-87.372356,36.064039],"type":"Point"}
+}

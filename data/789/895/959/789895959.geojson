@@ -1,0 +1,69 @@
+{
+  "id": 789895959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.848888,35.049531,-89.848888,35.049531",
+    "geom:latitude":35.049531,
+    "geom:longitude":-89.848888,
+    "iso:country":"US",
+    "sg:address":"6393 Winchester Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 362 3200",
+    "sg:postcode":"38115",
+    "sg:province":"TN",
+    "sg:website":"www.vcf.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870781
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RECMIXoawKxKL7XL4hXec_35.049531_-89.848888@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591412,
+    "wof:geomhash":"4987f0c8fc8bbf1fd8fdfa265b49013f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870781,
+            "region_id":85688701,
+            "venue_id":789895959
+        }
+    ],
+    "wof:id":789895959,
+    "wof:lastmodified":1462591412,
+    "wof:name":"Value City Furniture",
+    "wof:parent_id":85870781,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.848888,
+    35.049531,
+    -89.848888,
+    35.049531
+],
+  "geometry": {"coordinates":[-89.848888,35.049531],"type":"Point"}
+}

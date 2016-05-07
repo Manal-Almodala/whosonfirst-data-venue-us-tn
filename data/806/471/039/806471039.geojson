@@ -1,0 +1,71 @@
+{
+  "id": 806471039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.646181,35.57197,-89.646181,35.57197",
+    "geom:latitude":35.57197,
+    "geom:longitude":-89.646181,
+    "iso:country":"US",
+    "sg:address":"715 N Main St",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 4000",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O65VVzg30g5tu4yzJiVOs_35.571970_-89.646181@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598396,
+    "wof:geomhash":"2526217081a569f99816f142b187e078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":806471039
+        }
+    ],
+    "wof:id":806471039,
+    "wof:lastmodified":1462598396,
+    "wof:name":"Sears Roebuck and Co",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.646181,
+    35.57197,
+    -89.646181,
+    35.57197
+],
+  "geometry": {"coordinates":[-89.646181,35.57197],"type":"Point"}
+}

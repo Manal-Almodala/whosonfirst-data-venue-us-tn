@@ -1,0 +1,85 @@
+{
+  "id": 823264113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.753693,36.111031,-86.753693,36.111031",
+    "geom:latitude":36.111031,
+    "geom:longitude":-86.753693,
+    "iso:country":"US",
+    "sg:address":"618 Thompson Ln",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 242 4726",
+    "sg:postcode":"37204",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wellsfargo.com/wfonline/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85843601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EPKkZS1cz9Q8fDWJI0udo_36.111031_-86.753693@1303262736"
+    },
+    "wof:country":"US",
+    "wof:created":1462609683,
+    "wof:geomhash":"9f920d9ad12de247e0a69e005bc49db1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85843601,
+            "region_id":85688701,
+            "venue_id":823264113
+        }
+    ],
+    "wof:id":823264113,
+    "wof:lastmodified":1462609683,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85843601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -86.753693,
+    36.111031,
+    -86.753693,
+    36.111031
+],
+  "geometry": {"coordinates":[-86.753693,36.111031],"type":"Point"}
+}

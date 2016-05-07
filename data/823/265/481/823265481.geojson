@@ -1,0 +1,108 @@
+{
+  "id": 823265481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.741127,36.147305,-86.741127,36.147305",
+    "geom:latitude":36.147305,
+    "geom:longitude":-86.741127,
+    "iso:country":"US",
+    "sg:address":"830 Fesslers Pkwy",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"City Hall",
+            "type":"Public Place"
+        },
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 244 9035",
+    "sg:postcode":"37210",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "transfer",
+        "express",
+        "air",
+        "delivery",
+        "messenger"
+    ],
+    "sg:website":"http://www.hotshotdeliveryservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85835935
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20ZS5yEJLOiOlO0P2IBUL3_36.147305_-86.741127@1303262737"
+    },
+    "wof:country":"US",
+    "wof:created":1462609730,
+    "wof:geomhash":"56296340d9e9df4bea7fe622d0008a76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85835935,
+            "region_id":85688701,
+            "venue_id":823265481
+        }
+    ],
+    "wof:id":823265481,
+    "wof:lastmodified":1462609730,
+    "wof:name":"Hot Shot Delivery",
+    "wof:parent_id":85835935,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "transfer",
+        "express",
+        "air",
+        "delivery",
+        "messenger"
+    ]
+},
+  "bbox": [
+    -86.741127,
+    36.147305,
+    -86.741127,
+    36.147305
+],
+  "geometry": {"coordinates":[-86.74112700000001,36.147305],"type":"Point"}
+}

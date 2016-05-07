@@ -1,0 +1,71 @@
+{
+  "id": 789620003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.231446,36.351589,-82.231446,36.351589",
+    "geom:latitude":36.351589,
+    "geom:longitude":-82.231446,
+    "iso:country":"US",
+    "sg:address":"1505 W Elk Ave",
+    "sg:city":"Elizabethton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 543 1261",
+    "sg:postcode":"37643",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722675,
+        102087053,
+        85816779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7luxrt4Hux1HsD60wTyYPl_36.351589_-82.231446@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589217,
+    "wof:geomhash":"4f459dace5e491313b9d687047075bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087053,
+            "locality_id":101722675,
+            "neighbourhood_id":85816779,
+            "region_id":85688701,
+            "venue_id":789620003
+        }
+    ],
+    "wof:id":789620003,
+    "wof:lastmodified":1462589217,
+    "wof:name":"Shipley and Pack Pllc",
+    "wof:parent_id":85816779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -82.231446,
+    36.351589,
+    -82.231446,
+    36.351589
+],
+  "geometry": {"coordinates":[-82.23144600000001,36.351589],"type":"Point"}
+}

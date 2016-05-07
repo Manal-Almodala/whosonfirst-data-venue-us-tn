@@ -1,0 +1,72 @@
+{
+  "id": 823258835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.056845,35.459154,-86.056845,35.459154",
+    "geom:latitude":35.459154,
+    "geom:longitude":-86.056845,
+    "iso:country":"US",
+    "sg:address":"2224 Hillsboro Blvd",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/manchester/73048-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 728 4599",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85857461,
+        102087095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jgItrZ07dw76z9XzDDLrr_35.459272_-86.056973@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609525,
+    "wof:geomhash":"597fc84789cb5238536e00884ea3242f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "neighbourhood_id":85857461,
+            "region_id":85688701,
+            "venue_id":823258835
+        }
+    ],
+    "wof:id":823258835,
+    "wof:lastmodified":1462609525,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85857461,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.056845,
+    35.459154,
+    -86.056845,
+    35.459154
+],
+  "geometry": {"coordinates":[-86.056845,35.459154],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807151019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.445241,36.385252,-86.445241,36.385252",
+    "geom:latitude":36.385252,
+    "geom:longitude":-86.445241,
+    "iso:country":"US",
+    "sg:address":"201 E Winchester St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 804 3432",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lZXRmFA0QUqFxWPYn527t_36.385252_-86.445241@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604283,
+    "wof:geomhash":"680337452ce23501d714af70fdb6e6a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":807151019
+        }
+    ],
+    "wof:id":807151019,
+    "wof:lastmodified":1462604283,
+    "wof:name":"D & R Wrecker Service",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.445241,
+    36.385252,
+    -86.445241,
+    36.385252
+],
+  "geometry": {"coordinates":[-86.445241,36.385252],"type":"Point"}
+}

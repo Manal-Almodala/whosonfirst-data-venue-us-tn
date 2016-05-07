@@ -1,0 +1,73 @@
+{
+  "id": 806543641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.814375,35.590372,-88.814375,35.590372",
+    "geom:latitude":35.590372,
+    "geom:longitude":-88.814375,
+    "iso:country":"US",
+    "sg:address":"1089 S Highland Ave",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 422 4545",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iB4AnRWxT7djVDRk599IA_35.590372_-88.814375@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598988,
+    "wof:geomhash":"2aae93a05a182010e81c77d00f46af34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":806543641
+        }
+    ],
+    "wof:id":806543641,
+    "wof:lastmodified":1462598988,
+    "wof:name":"Car-Mart",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -88.814375,
+    35.590372,
+    -88.814375,
+    35.590372
+],
+  "geometry": {"coordinates":[-88.814375,35.590372],"type":"Point"}
+}

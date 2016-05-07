@@ -1,0 +1,73 @@
+{
+  "id": 807361901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.799944,35.446662,-89.799944,35.446662",
+    "geom:latitude":35.446662,
+    "geom:longitude":-89.799944,
+    "iso:country":"US",
+    "sg:address":"534 Munford-Atoka Ave",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 840 3540",
+    "sg:postcode":"38058",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mKVvNvvZmwC0SymWovUOg_35.446662_-89.799944@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606683,
+    "wof:geomhash":"3a0c4d7b23ce5ce098d1c8c998c442b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":807361901
+        }
+    ],
+    "wof:id":807361901,
+    "wof:lastmodified":1462606683,
+    "wof:name":"Covington Primary Care",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.799944,
+    35.446662,
+    -89.799944,
+    35.446662
+],
+  "geometry": {"coordinates":[-89.799944,35.446662],"type":"Point"}
+}

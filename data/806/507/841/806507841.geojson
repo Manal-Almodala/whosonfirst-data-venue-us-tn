@@ -1,0 +1,80 @@
+{
+  "id": 806507841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.036107,35.168104,-90.036107,35.168104",
+    "geom:latitude":35.168104,
+    "geom:longitude":-90.036107,
+    "iso:country":"US",
+    "sg:address":"968 Thomas St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 525 9703",
+    "sg:postcode":"38107",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542121
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mzNrYxElQHs78CF58Ifix_35.168104_-90.036107@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598694,
+    "wof:geomhash":"234a93b042a247b98183a979611f946b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542121,
+            "region_id":85688701,
+            "venue_id":806507841
+        }
+    ],
+    "wof:id":806507841,
+    "wof:lastmodified":1462598694,
+    "wof:name":"Clayton's Tire Shop",
+    "wof:parent_id":420542121,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -90.036107,
+    35.168104,
+    -90.036107,
+    35.168104
+],
+  "geometry": {"coordinates":[-90.036107,35.168104],"type":"Point"}
+}

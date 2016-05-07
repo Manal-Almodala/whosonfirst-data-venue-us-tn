@@ -1,0 +1,71 @@
+{
+  "id": 773468463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.698397,35.592457,-86.698397,35.592457",
+    "geom:latitude":35.592457,
+    "geom:longitude":-86.698397,
+    "iso:country":"US",
+    "sg:address":"1955 River Rd",
+    "sg:city":"Chapel Hill",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 364 2468",
+    "sg:postcode":"37034",
+    "sg:province":"TN",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85854287,
+        102087115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6coazHjF0X7pSj4uoDW5bd_35.592457_-86.698397@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585974,
+    "wof:geomhash":"431cd4db6705d6766798a414a7a36fbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "neighbourhood_id":85854287,
+            "region_id":85688701,
+            "venue_id":773468463
+        }
+    ],
+    "wof:id":773468463,
+    "wof:lastmodified":1462585974,
+    "wof:name":"Volunteer Disposal",
+    "wof:parent_id":85854287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -86.698397,
+    35.592457,
+    -86.698397,
+    35.592457
+],
+  "geometry": {"coordinates":[-86.698397,35.592457],"type":"Point"}
+}

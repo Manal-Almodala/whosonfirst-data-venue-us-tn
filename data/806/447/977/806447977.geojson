@@ -1,0 +1,84 @@
+{
+  "id": 806447977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.813985,35.612419,-88.813985,35.612419",
+    "geom:latitude":35.612419,
+    "geom:longitude":-88.813985,
+    "iso:country":"US",
+    "sg:address":"440 E Chester St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 425 8348",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "civil",
+        "city",
+        "defense",
+        "agency",
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LBDqhPtqZ895LAKyuX0HM_35.612419_-88.813985@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598231,
+    "wof:geomhash":"39abfabd804c84dbe48f8eee6ced6b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":806447977
+        }
+    ],
+    "wof:id":806447977,
+    "wof:lastmodified":1462598231,
+    "wof:name":"Jackson Public Safety Garage",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "civil",
+        "city",
+        "defense",
+        "agency",
+        "garage"
+    ]
+},
+  "bbox": [
+    -88.813985,
+    35.612419,
+    -88.813985,
+    35.612419
+],
+  "geometry": {"coordinates":[-88.813985,35.612419],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807002761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.550296,35.936615,-84.550296,35.936615",
+    "geom:latitude":35.936615,
+    "geom:longitude":-84.550296,
+    "iso:country":"US",
+    "sg:address":"525 Devonia St",
+    "sg:city":"Harriman",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 882 5701",
+    "sg:postcode":"37748",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722695,
+        102087051,
+        85841801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gwTcrkVE9RiTu2w5UBUw2_35.936615_-84.550296@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602880,
+    "wof:geomhash":"7cc1f630592510b7672344a81bf799c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101722695,
+            "neighbourhood_id":85841801,
+            "region_id":85688701,
+            "venue_id":807002761
+        }
+    ],
+    "wof:id":807002761,
+    "wof:lastmodified":1462602880,
+    "wof:name":"M B Tedder MD",
+    "wof:parent_id":85841801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.550296,
+    35.936615,
+    -84.550296,
+    35.936615
+],
+  "geometry": {"coordinates":[-84.550296,35.936615],"type":"Point"}
+}

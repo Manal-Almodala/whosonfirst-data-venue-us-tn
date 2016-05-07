@@ -1,0 +1,73 @@
+{
+  "id": 789840281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.7212,35.608552,-89.7212,35.608552",
+    "geom:latitude":35.608552,
+    "geom:longitude":-89.7212,
+    "iso:country":"US",
+    "sg:address":"219 Walk Hill Rd",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 7058",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yAz7bKW0mrNK4753ODKLo_35.608552_-89.721200@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590949,
+    "wof:geomhash":"a2143cf3729aab2ce216f8fe9e85dbde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":789840281
+        }
+    ],
+    "wof:id":789840281,
+    "wof:lastmodified":1462590949,
+    "wof:name":"Ed's Plumbing Svc",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.7212,
+    35.608552,
+    -89.7212,
+    35.608552
+],
+  "geometry": {"coordinates":[-89.7212,35.608552],"type":"Point"}
+}

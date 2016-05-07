@@ -1,0 +1,72 @@
+{
+  "id": 823242191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.693433,35.623964,-86.693433,35.623964",
+    "geom:latitude":35.623964,
+    "geom:longitude":-86.693433,
+    "iso:country":"US",
+    "sg:address":"208 S Horton Pkwy",
+    "sg:city":"Chapel Hill",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/chapel-hill/140036-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 364 7827",
+    "sg:postcode":"37034",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85854287,
+        102087115
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3crlQGI8tnwC7JRzrQx8Zb_35.623964_-86.693433@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609188,
+    "wof:geomhash":"97cd6da75448fea8ed6614da478d6770",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "neighbourhood_id":85854287,
+            "region_id":85688701,
+            "venue_id":823242191
+        }
+    ],
+    "wof:id":823242191,
+    "wof:lastmodified":1462609188,
+    "wof:name":"Subway",
+    "wof:parent_id":85854287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -86.693433,
+    35.623964,
+    -86.693433,
+    35.623964
+],
+  "geometry": {"coordinates":[-86.693433,35.623964],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806940767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.961012,35.084735,-89.961012,35.084735",
+    "geom:latitude":35.084735,
+    "geom:longitude":-89.961012,
+    "iso:country":"US",
+    "sg:address":"3039 Lamar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 745 8700",
+    "sg:postcode":"38114",
+    "sg:province":"TN",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jvlZBug4XPTWqyiKU8Oyy_35.084735_-89.961012@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602367,
+    "wof:geomhash":"03743eb949ec067c933e54fdb31ef264",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805535,
+            "region_id":85688701,
+            "venue_id":806940767
+        }
+    ],
+    "wof:id":806940767,
+    "wof:lastmodified":1462602367,
+    "wof:name":"Diamond Transportation Svc",
+    "wof:parent_id":85805535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -89.961012,
+    35.084735,
+    -89.961012,
+    35.084735
+],
+  "geometry": {"coordinates":[-89.961012,35.084735],"type":"Point"}
+}

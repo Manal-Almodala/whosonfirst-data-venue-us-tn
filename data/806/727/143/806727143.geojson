@@ -1,0 +1,71 @@
+{
+  "id": 806727143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.228354,36.020834,-84.228354,36.020834",
+    "geom:latitude":36.020834,
+    "geom:longitude":-84.228354,
+    "iso:country":"US",
+    "sg:address":"697 Emory Valley Rd",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 220 8441",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JYjS8S96VdnkGx6GPqDlA_36.020834_-84.228354@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600560,
+    "wof:geomhash":"4c70771fe2cd5f688b2ddcfb5d722478",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":806727143
+        }
+    ],
+    "wof:id":806727143,
+    "wof:lastmodified":1462600560,
+    "wof:name":"Fast Lane Transmissions",
+    "wof:parent_id":85818065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.228354,
+    36.020834,
+    -84.228354,
+    36.020834
+],
+  "geometry": {"coordinates":[-84.228354,36.020834],"type":"Point"}
+}

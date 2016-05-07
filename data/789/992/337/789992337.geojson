@@ -1,0 +1,85 @@
+{
+  "id": 789992337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.684916,36.059187,-86.684916,36.059187",
+    "geom:latitude":36.059187,
+    "geom:longitude":-86.684916,
+    "iso:country":"US",
+    "sg:address":"4916 Algonquin Trl",
+    "sg:city":"Antioch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 331 0946",
+    "sg:postcode":"37013",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85839117,
+        420558709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0up7GQl4402JjKp6N7TBTZ_36.059187_-86.684916@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592268,
+    "wof:geomhash":"e328a9ba6e7508159489b86e0cf8ea38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85839117,
+            "region_id":85688701,
+            "venue_id":789992337
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420558709,
+            "region_id":85688701,
+            "venue_id":789992337
+        }
+    ],
+    "wof:id":789992337,
+    "wof:lastmodified":1462592268,
+    "wof:name":"Tech Pro Appliance Service",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -86.684916,
+    36.059187,
+    -86.684916,
+    36.059187
+],
+  "geometry": {"coordinates":[-86.684916,36.059187],"type":"Point"}
+}

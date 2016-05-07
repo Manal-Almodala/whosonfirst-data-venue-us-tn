@@ -1,0 +1,76 @@
+{
+  "id": 823253911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.653421,35.559503,-89.653421,35.559503",
+    "geom:latitude":35.559503,
+    "geom:longitude":-89.653421,
+    "iso:country":"US",
+    "sg:address":"619d Highway 51 S",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/covington/85641-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 475 1980",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0veYOjq6BVDzmBNKd5MCKo_35.559503_-89.653421@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609420,
+    "wof:geomhash":"d742e0f89284937e8a440c5b8f13640d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823253911
+        }
+    ],
+    "wof:id":823253911,
+    "wof:lastmodified":1462609420,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -89.653421,
+    35.559503,
+    -89.653421,
+    35.559503
+],
+  "geometry": {"coordinates":[-89.65342099999999,35.559503],"type":"Point"}
+}

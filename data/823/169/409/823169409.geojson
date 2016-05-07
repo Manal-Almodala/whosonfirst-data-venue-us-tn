@@ -1,0 +1,73 @@
+{
+  "id": 823169409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.166936,36.339427,-89.166936,36.339427",
+    "geom:latitude":36.339427,
+    "geom:longitude":-89.166936,
+    "iso:country":"US",
+    "sg:address":"106 Chestnut St",
+    "sg:city":"Troy",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 536 6532",
+    "sg:postcode":"38260",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aQw5treKQJaq63gUQiS3V_36.339427_-89.166936@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462607921,
+    "wof:geomhash":"9a611e89e070642be401bb4745b1fe11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":823169409
+        }
+    ],
+    "wof:id":823169409,
+    "wof:lastmodified":1462607921,
+    "wof:name":"Mike's Locksmith Svc",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -89.166936,
+    36.339427,
+    -89.166936,
+    36.339427
+],
+  "geometry": {"coordinates":[-89.16693600000001,36.339427],"type":"Point"}
+}

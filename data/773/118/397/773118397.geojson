@@ -1,0 +1,86 @@
+{
+  "id": 773118397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.206678,36.595558,-82.206678,36.595558",
+    "geom:latitude":36.595558,
+    "geom:longitude":-82.206678,
+    "iso:country":"US",
+    "sg:address":"1918 W State St",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 764 3191",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        420542157,
+        85688747,
+        101728659,
+        102084925,
+        420547853
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60MJ430kPLvfruyUZdEegJ_36.595558_-82.206678@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583285,
+    "wof:geomhash":"4b20632cd5701a160408f31863a3074b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":420542157,
+            "region_id":85688701,
+            "venue_id":773118397
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102084925,
+            "locality_id":101728659,
+            "neighbourhood_id":420547853,
+            "region_id":85688747,
+            "venue_id":773118397
+        }
+    ],
+    "wof:id":773118397,
+    "wof:lastmodified":1462583285,
+    "wof:name":"Highland Pathology Consultants",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -82.206678,
+    36.595558,
+    -82.206678,
+    36.595558
+],
+  "geometry": {"coordinates":[-82.206678,36.595558],"type":"Point"}
+}

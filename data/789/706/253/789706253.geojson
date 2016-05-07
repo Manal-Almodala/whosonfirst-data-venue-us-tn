@@ -1,0 +1,73 @@
+{
+  "id": 789706253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.317287,36.184875,-86.317287,36.184875",
+    "geom:latitude":36.184875,
+    "geom:longitude":-86.317287,
+    "iso:country":"US",
+    "sg:address":"760 Franklin Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 0031",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SwAfH9DghHDKrp8ShukJn_36.184875_-86.317287@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589901,
+    "wof:geomhash":"939211556250d428c0e298292624ecb7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":789706253
+        }
+    ],
+    "wof:id":789706253,
+    "wof:lastmodified":1462589901,
+    "wof:name":"Middle Tennessee Aviation",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -86.317287,
+    36.184875,
+    -86.317287,
+    36.184875
+],
+  "geometry": {"coordinates":[-86.31728699999999,36.184875],"type":"Point"}
+}

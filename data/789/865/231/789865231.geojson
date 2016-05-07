@@ -1,0 +1,66 @@
+{
+  "id": 789865231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.015637,35.490867,-85.015637,35.490867",
+    "geom:latitude":35.490867,
+    "geom:longitude":-85.015637,
+    "iso:country":"US",
+    "sg:address":"1204 Market St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 9551",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85811795
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gP5gcNwkE16L7ri2ww8Sk_35.490867_-85.015637@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591149,
+    "wof:geomhash":"eb77910a78c8bcbfd25e5fba4573842a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85811795,
+            "region_id":85688701,
+            "venue_id":789865231
+        }
+    ],
+    "wof:id":789865231,
+    "wof:lastmodified":1462591149,
+    "wof:name":"Modern Way Cleaners",
+    "wof:parent_id":85811795,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -85.015637,
+    35.490867,
+    -85.015637,
+    35.490867
+],
+  "geometry": {"coordinates":[-85.015637,35.490867],"type":"Point"}
+}

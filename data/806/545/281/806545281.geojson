@@ -1,0 +1,71 @@
+{
+  "id": 806545281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.329111,35.246657,-87.329111,35.246657",
+    "geom:latitude":35.246657,
+    "geom:longitude":-87.329111,
+    "iso:country":"US",
+    "sg:address":"236 3rd St",
+    "sg:city":"Lawrenceburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 766 0612",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71K8eb08gkkdkLbBG1fhNT_35.246657_-87.329111@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598999,
+    "wof:geomhash":"bb8652bba17d59a8851676fcebb55959",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":806545281
+        }
+    ],
+    "wof:id":806545281,
+    "wof:lastmodified":1462598999,
+    "wof:name":"Auto Tech Service Center",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -87.329111,
+    35.246657,
+    -87.329111,
+    35.246657
+],
+  "geometry": {"coordinates":[-87.329111,35.246657],"type":"Point"}
+}

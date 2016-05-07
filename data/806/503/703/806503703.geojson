@@ -1,0 +1,73 @@
+{
+  "id": 806503703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.831725,36.162414,-82.831725,36.162414",
+    "geom:latitude":36.162414,
+    "geom:longitude":-82.831725,
+    "iso:country":"US",
+    "sg:address":"108 W Summer St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 638 1305",
+    "sg:postcode":"37743",
+    "sg:province":"TN",
+    "sg:tags":[
+        "federal",
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qyzmkUOIiqmdieVa39Gm1_36.162414_-82.831725@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598663,
+    "wof:geomhash":"4afb6c26f2d11bcf6b86ec363796a29c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":806503703
+        }
+    ],
+    "wof:id":806503703,
+    "wof:lastmodified":1462598663,
+    "wof:name":"US Federal District Court",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "district"
+    ]
+},
+  "bbox": [
+    -82.831725,
+    36.162414,
+    -82.831725,
+    36.162414
+],
+  "geometry": {"coordinates":[-82.83172500000001,36.162414],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 807339669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.538517,35.928942,-83.538517,35.928942",
+    "geom:latitude":35.928942,
+    "geom:longitude":-83.538517,
+    "iso:country":"US",
+    "sg:address":"1410 Floyd Rd",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 428 3779",
+    "sg:postcode":"37876",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85806919
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vyxSDqe6PE000B722yKuy_35.928942_-83.538517@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606342,
+    "wof:geomhash":"5735d4bd91ae52bd353409bd13adc4b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85806919,
+            "region_id":85688701,
+            "venue_id":807339669
+        }
+    ],
+    "wof:id":807339669,
+    "wof:lastmodified":1462606342,
+    "wof:name":"Floyds Trucking",
+    "wof:parent_id":85806919,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -83.538517,
+    35.928942,
+    -83.538517,
+    35.928942
+],
+  "geometry": {"coordinates":[-83.538517,35.928942],"type":"Point"}
+}

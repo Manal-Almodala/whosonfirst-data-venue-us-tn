@@ -1,0 +1,71 @@
+{
+  "id": 790548789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.8155,35.612622,-88.8155,35.612622",
+    "geom:latitude":35.612622,
+    "geom:longitude":-88.8155,
+    "iso:country":"US",
+    "sg:address":"425 E Chester St",
+    "sg:city":"Jackson",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 424 7433",
+    "sg:postcode":"38301",
+    "sg:province":"TN",
+    "sg:tags":[
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722769,
+        102087221,
+        85868161
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_788ZRFBQIkpjUFqzB6vr0m_35.612622_-88.815500@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596772,
+    "wof:geomhash":"cbe34486c76287b3598e9d0e116b4631",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087221,
+            "locality_id":101722769,
+            "neighbourhood_id":85868161,
+            "region_id":85688701,
+            "venue_id":790548789
+        }
+    ],
+    "wof:id":790548789,
+    "wof:lastmodified":1462596772,
+    "wof:name":"Jackson Taxi Svc",
+    "wof:parent_id":85868161,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "airport"
+    ]
+},
+  "bbox": [
+    -88.8155,
+    35.612622,
+    -88.8155,
+    35.612622
+],
+  "geometry": {"coordinates":[-88.8155,35.612622],"type":"Point"}
+}

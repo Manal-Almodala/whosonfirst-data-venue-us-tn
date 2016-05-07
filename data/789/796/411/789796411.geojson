@@ -1,0 +1,73 @@
+{
+  "id": 789796411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.205386,36.031555,-84.205386,36.031555",
+    "geom:latitude":36.031555,
+    "geom:longitude":-84.205386,
+    "iso:country":"US",
+    "sg:address":"119 Balboa Cir",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 483 0155",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27R1oFDqqQ12SOKewmgG2Z_36.031555_-84.205386@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590615,
+    "wof:geomhash":"a481c51ef9a46b76a17a7d3cac41df83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":789796411
+        }
+    ],
+    "wof:id":789796411,
+    "wof:lastmodified":1462590615,
+    "wof:name":"Joseph Palatinus MD",
+    "wof:parent_id":85818065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -84.205386,
+    36.031555,
+    -84.205386,
+    36.031555
+],
+  "geometry": {"coordinates":[-84.205386,36.031555],"type":"Point"}
+}

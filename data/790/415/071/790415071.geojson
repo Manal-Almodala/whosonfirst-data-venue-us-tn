@@ -1,0 +1,69 @@
+{
+  "id": 790415071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.090763,35.981711,-84.090763,35.981711",
+    "geom:latitude":35.981711,
+    "geom:longitude":-84.090763,
+    "iso:country":"US",
+    "sg:address":"6616 Beaver Ridge Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 691 1333",
+    "sg:postcode":"37931",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85856659,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PB9PCh2AMJXzXmYAfr87x_35.981711_-84.090763@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595646,
+    "wof:geomhash":"116d32531b13d666fe1aafd3322b0d9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85856659,
+            "region_id":85688701,
+            "venue_id":790415071
+        }
+    ],
+    "wof:id":790415071,
+    "wof:lastmodified":1462595646,
+    "wof:name":"Karns Volunteer Fire Dept",
+    "wof:parent_id":85856659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.090763,
+    35.981711,
+    -84.090763,
+    35.981711
+],
+  "geometry": {"coordinates":[-84.090763,35.981711],"type":"Point"}
+}

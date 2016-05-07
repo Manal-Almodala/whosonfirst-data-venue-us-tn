@@ -1,0 +1,83 @@
+{
+  "id": 823260433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.959275,35.131866,-89.959275,35.131866",
+    "geom:latitude":35.131866,
+    "geom:longitude":-89.959275,
+    "iso:country":"US",
+    "sg:address":"3088 Poplar Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/63564-la-baguette-french-bread--pastry-shop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 458 0900",
+    "sg:postcode":"38111",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85803961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4so609h0V7sDA2V4A9PLLQ_35.131876_-89.959053@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609559,
+    "wof:geomhash":"73a8f827d79a4abcf9c3e167314e36d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85803961,
+            "region_id":85688701,
+            "venue_id":823260433
+        }
+    ],
+    "wof:id":823260433,
+    "wof:lastmodified":1462609559,
+    "wof:name":"La Baguette French Bread & Pastry Shop",
+    "wof:parent_id":85803961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "bakery",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -89.959275,
+    35.131866,
+    -89.959275,
+    35.131866
+],
+  "geometry": {"coordinates":[-89.95927500000001,35.131866],"type":"Point"}
+}

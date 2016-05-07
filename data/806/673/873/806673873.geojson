@@ -1,0 +1,71 @@
+{
+  "id": 806673873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.472085,36.2947,-82.472085,36.2947",
+    "geom:latitude":36.2947,
+    "geom:longitude":-82.472085,
+    "iso:country":"US",
+    "sg:address":"123 E Main St",
+    "sg:city":"Jonesborough",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 753 0353",
+    "sg:postcode":"37659",
+    "sg:province":"TN",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722753,
+        102086335,
+        85822827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PEpzfEJ5luCm7po5BcIrI_36.294700_-82.472085@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600115,
+    "wof:geomhash":"6a67d003fba292b15f166a8d10e46fcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722753,
+            "neighbourhood_id":85822827,
+            "region_id":85688701,
+            "venue_id":806673873
+        }
+    ],
+    "wof:id":806673873,
+    "wof:lastmodified":1462600115,
+    "wof:name":"Old Quarters/Main Street",
+    "wof:parent_id":85822827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -82.472085,
+    36.2947,
+    -82.472085,
+    36.2947
+],
+  "geometry": {"coordinates":[-82.47208500000001,36.2947],"type":"Point"}
+}

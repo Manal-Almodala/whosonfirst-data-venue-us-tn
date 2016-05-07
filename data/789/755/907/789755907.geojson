@@ -1,0 +1,71 @@
+{
+  "id": 789755907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.886514,35.204373,-89.886514,35.204373",
+    "geom:latitude":35.204373,
+    "geom:longitude":-89.886514,
+    "iso:country":"US",
+    "sg:address":"5257 Yellowood Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 527 0605",
+    "sg:postcode":"38134",
+    "sg:province":"TN",
+    "sg:tags":[
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DTFDyOL2oNphdPCen7gFr_35.204373_-89.886514@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590297,
+    "wof:geomhash":"588f2ba56ba4f328c79ef343c222d046",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789755907
+        }
+    ],
+    "wof:id":789755907,
+    "wof:lastmodified":1462590297,
+    "wof:name":"ATEC Sales & Svc Inc",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -89.886514,
+    35.204373,
+    -89.886514,
+    35.204373
+],
+  "geometry": {"coordinates":[-89.88651400000001,35.204373],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 789847395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.679724,36.059088,-86.679724,36.059088",
+    "geom:latitude":36.059088,
+    "geom:longitude":-86.679724,
+    "iso:country":"US",
+    "sg:address":"4147 Apache Trl",
+    "sg:city":"Antioch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 596 1107",
+    "sg:postcode":"37013",
+    "sg:province":"TN",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85839117,
+        420558709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cQRyWSYkOddh2syOYdG7L_36.059088_-86.679724@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591009,
+    "wof:geomhash":"b4edb65a3fb32065ecd99f12e1b3549f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85839117,
+            "region_id":85688701,
+            "venue_id":789847395
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420558709,
+            "region_id":85688701,
+            "venue_id":789847395
+        }
+    ],
+    "wof:id":789847395,
+    "wof:lastmodified":1462591009,
+    "wof:name":"Essy Auto Rotor Brake",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -86.679724,
+    36.059088,
+    -86.679724,
+    36.059088
+],
+  "geometry": {"coordinates":[-86.67972399999999,36.059088],"type":"Point"}
+}

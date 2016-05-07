@@ -1,0 +1,71 @@
+{
+  "id": 806601475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.427235,35.019531,-89.427235,35.019531",
+    "geom:latitude":35.019531,
+    "geom:longitude":-89.427235,
+    "iso:country":"US",
+    "sg:address":"290 Oak Grove Dr",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 877 0987",
+    "sg:postcode":"38057",
+    "sg:province":"TN",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85846193,
+        102086439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pk3zegPDfNEyO53zuZdLs_35.019531_-89.427235@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599502,
+    "wof:geomhash":"0609b54b2362e48899c3dc23f56b68bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086439,
+            "neighbourhood_id":85846193,
+            "region_id":85688701,
+            "venue_id":806601475
+        }
+    ],
+    "wof:id":806601475,
+    "wof:lastmodified":1462599502,
+    "wof:name":"Doctors Note",
+    "wof:parent_id":85846193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -89.427235,
+    35.019531,
+    -89.427235,
+    35.019531
+],
+  "geometry": {"coordinates":[-89.427235,35.019531],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 773840135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.281228,36.224526,-83.281228,36.224526",
+    "geom:latitude":36.224526,
+    "geom:longitude":-83.281228,
+    "iso:country":"US",
+    "sg:address":"1200 Violet St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 3993",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0D1073hKiouoRQpLwPgR33_36.224526_-83.281228@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588817,
+    "wof:geomhash":"56c69179b500e6a69293268f146e3123",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773840135
+        }
+    ],
+    "wof:id":773840135,
+    "wof:lastmodified":1462588817,
+    "wof:name":"Ampco Tennessee",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -83.281228,
+    36.224526,
+    -83.281228,
+    36.224526
+],
+  "geometry": {"coordinates":[-83.281228,36.224526],"type":"Point"}
+}

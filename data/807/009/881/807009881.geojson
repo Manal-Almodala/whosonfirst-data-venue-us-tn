@@ -1,0 +1,75 @@
+{
+  "id": 807009881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.572856,35.87317,-83.572856,35.87317",
+    "geom:latitude":35.87317,
+    "geom:longitude":-83.572856,
+    "iso:country":"US",
+    "sg:address":"119 Kilby St",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 3729",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722577,
+        102086245,
+        85809817
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gzHqI5wUWqawykh4Tr73T_35.873170_-83.572856@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602942,
+    "wof:geomhash":"fb14f45d808f69fd2b35dad94d04a8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722577,
+            "neighbourhood_id":85809817,
+            "region_id":85688701,
+            "venue_id":807009881
+        }
+    ],
+    "wof:id":807009881,
+    "wof:lastmodified":1462602942,
+    "wof:name":"King's Radiator Shop",
+    "wof:parent_id":85809817,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -83.572856,
+    35.87317,
+    -83.572856,
+    35.87317
+],
+  "geometry": {"coordinates":[-83.572856,35.87317],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 789797801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.302649,36.171353,-86.302649,36.171353",
+    "geom:latitude":36.171353,
+    "geom:longitude":-86.302649,
+    "iso:country":"US",
+    "sg:address":"109 Southside Park Dr",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 9424",
+    "sg:postcode":"37090",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VlrrbSB8sR5eHZBNflJfB_36.171353_-86.302649@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590625,
+    "wof:geomhash":"a68a15f8e03f4986ca3f3a3c0073bd15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":789797801
+        }
+    ],
+    "wof:id":789797801,
+    "wof:lastmodified":1462590625,
+    "wof:name":"Kinslow Veterinary Clinic",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -86.302649,
+    36.171353,
+    -86.302649,
+    36.171353
+],
+  "geometry": {"coordinates":[-86.302649,36.171353],"type":"Point"}
+}

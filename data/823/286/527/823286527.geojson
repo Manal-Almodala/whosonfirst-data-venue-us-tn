@@ -1,0 +1,105 @@
+{
+  "id": 823286527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.940663,35.056218,-89.940663,35.056218",
+    "geom:latitude":35.056218,
+    "geom:longitude":-89.940663,
+    "iso:country":"US",
+    "sg:address":"3350 Miac Cv",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 360 5071",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ],
+    "sg:website":"http://www.federalexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85839073
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1W4Nu0k8516SCs5jK35KkG_35.056218_-89.940663@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610568,
+    "wof:geomhash":"be823816cdf9fecdc5500adf9588ed37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85839073,
+            "region_id":85688701,
+            "venue_id":823286527
+        }
+    ],
+    "wof:id":823286527,
+    "wof:lastmodified":1462610568,
+    "wof:name":"Fedex",
+    "wof:parent_id":85839073,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -89.940663,
+    35.056218,
+    -89.940663,
+    35.056218
+],
+  "geometry": {"coordinates":[-89.940663,35.056218],"type":"Point"}
+}

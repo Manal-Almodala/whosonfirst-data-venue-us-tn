@@ -1,0 +1,72 @@
+{
+  "id": 823242859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.465103,36.379898,-86.465103,36.379898",
+    "geom:latitude":36.379898,
+    "geom:longitude":-86.465103,
+    "iso:country":"US",
+    "sg:address":"807 Nashville Pike",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/gallatin/215206-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 4154",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XVTgfzwNJD5WmJoNQj9BR_36.379898_-86.465103@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609199,
+    "wof:geomhash":"36384a04f01178d791a9225383304e89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":823242859
+        }
+    ],
+    "wof:id":823242859,
+    "wof:lastmodified":1462609199,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -86.465103,
+    36.379898,
+    -86.465103,
+    36.379898
+],
+  "geometry": {"coordinates":[-86.465103,36.379898],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 823269445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.111237,35.185009,-86.111237,35.185009",
+    "geom:latitude":35.185009,
+    "geom:longitude":-86.111237,
+    "iso:country":"US",
+    "sg:address":"200 S Jefferson St Rm 100",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z2muZ0jpMedJqAs9nB5Mn_35.185009_-86.111237@1303262738"
+    },
+    "wof:country":"US",
+    "wof:created":1462609898,
+    "wof:geomhash":"83c9e5a9c9fd3f4eb2ec06730e5b1dfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":823269445
+        }
+    ],
+    "wof:id":823269445,
+    "wof:lastmodified":1462609898,
+    "wof:name":"USPS - United States Post Office - Winchester Post Office",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -86.111237,
+    35.185009,
+    -86.111237,
+    35.185009
+],
+  "geometry": {"coordinates":[-86.111237,35.185009],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 823203503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.639789,36.154876,-85.639789,36.154876",
+    "geom:latitude":36.154876,
+    "geom:longitude":-85.639789,
+    "iso:country":"US",
+    "sg:address":"315 Broad St",
+    "sg:city":"Baxter",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 2621",
+    "sg:postcode":"38544",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bNSvZ4v8Vkbr3Z8tbPBec_36.154876_-85.639789@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608417,
+    "wof:geomhash":"cfd215dcf7825013304145e1cf6423e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":823203503
+        }
+    ],
+    "wof:id":823203503,
+    "wof:lastmodified":1462608417,
+    "wof:name":"Baxter Fire Dept",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -85.639789,
+    36.154876,
+    -85.639789,
+    36.154876
+],
+  "geometry": {"coordinates":[-85.63978899999999,36.154876],"type":"Point"}
+}

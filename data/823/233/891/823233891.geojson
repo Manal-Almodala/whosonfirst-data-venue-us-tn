@@ -1,0 +1,69 @@
+{
+  "id": 823233891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.893907,35.14952,-89.893907,35.14952",
+    "geom:latitude":35.14952,
+    "geom:longitude":-89.893907,
+    "iso:country":"US",
+    "sg:address":"5016 Summer Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 685 6775",
+    "sg:postcode":"38122",
+    "sg:province":"TN",
+    "sg:website":"http://fredsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805805
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bPhacAB269hgoz0LiN4JQ_35.149713_-89.893607@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609031,
+    "wof:geomhash":"bbc1ba171829aceb5b171d5d52700824",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805805,
+            "region_id":85688701,
+            "venue_id":823233891
+        }
+    ],
+    "wof:id":823233891,
+    "wof:lastmodified":1462609031,
+    "wof:name":"Fred's Pharmacy",
+    "wof:parent_id":85805805,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.893907,
+    35.14952,
+    -89.893907,
+    35.14952
+],
+  "geometry": {"coordinates":[-89.893907,35.14952],"type":"Point"}
+}

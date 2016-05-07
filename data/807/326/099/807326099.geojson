@@ -1,0 +1,75 @@
+{
+  "id": 807326099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.438025,35.800519,-87.438025,35.800519",
+    "geom:latitude":35.800519,
+    "geom:longitude":-87.438025,
+    "iso:country":"US",
+    "sg:address":"600 Beech St",
+    "sg:city":"Centerville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 729 3066",
+    "sg:postcode":"37033",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722667,
+        102086297,
+        420541793
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FIm99eXGYHYuLM51122WP_35.800519_-87.438025@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606143,
+    "wof:geomhash":"a04c24e248ebfee7a7d2ea0730e67d88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086297,
+            "locality_id":101722667,
+            "neighbourhood_id":420541793,
+            "region_id":85688701,
+            "venue_id":807326099
+        }
+    ],
+    "wof:id":807326099,
+    "wof:lastmodified":1462606143,
+    "wof:name":"Davis Auto Repair Shop",
+    "wof:parent_id":420541793,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -87.438025,
+    35.800519,
+    -87.438025,
+    35.800519
+],
+  "geometry": {"coordinates":[-87.438025,35.800519],"type":"Point"}
+}

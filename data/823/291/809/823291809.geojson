@@ -1,0 +1,81 @@
+{
+  "id": 823291809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.843663,35.232469,-89.843663,35.232469",
+    "geom:latitude":35.232469,
+    "geom:longitude":-89.843663,
+    "iso:country":"US",
+    "sg:address":"6597 Silverbriar Ct",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 372 9878",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "hot",
+        "hamburger",
+        "dog"
+    ],
+    "sg:website":"http://www.krystal.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GTmqbfPIFXqkiZM21XfGK_35.232469_-89.843663@1303262744"
+    },
+    "wof:country":"US",
+    "wof:created":1462610773,
+    "wof:geomhash":"3f7dd4d421bb54e9e0b0d5e9d8f291e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823291809
+        }
+    ],
+    "wof:id":823291809,
+    "wof:lastmodified":1462610773,
+    "wof:name":"Krystal",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hot",
+        "hamburger",
+        "dog"
+    ]
+},
+  "bbox": [
+    -89.843663,
+    35.232469,
+    -89.843663,
+    35.232469
+],
+  "geometry": {"coordinates":[-89.84366300000001,35.232469],"type":"Point"}
+}

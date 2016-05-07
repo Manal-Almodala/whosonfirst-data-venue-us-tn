@@ -1,0 +1,86 @@
+{
+  "id": 823273791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.19136,35.967202,-83.19136,35.967202",
+    "geom:latitude":35.967202,
+    "geom:longitude":-83.19136,
+    "iso:country":"US",
+    "sg:address":"191 W Broadway",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 625 7700",
+    "sg:postcode":"37821",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85838303,
+        102086241
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IuRmh8JEfdwFgRRxelZ7U_35.967202_-83.191360@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610063,
+    "wof:geomhash":"22c6224df49821f811320df7dfe7bddb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086241,
+            "neighbourhood_id":85838303,
+            "region_id":85688701,
+            "venue_id":823273791
+        }
+    ],
+    "wof:id":823273791,
+    "wof:lastmodified":1462610063,
+    "wof:name":"SUBWAY",
+    "wof:parent_id":85838303,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -83.19136,
+    35.967202,
+    -83.19136,
+    35.967202
+],
+  "geometry": {"coordinates":[-83.19136,35.967202],"type":"Point"}
+}

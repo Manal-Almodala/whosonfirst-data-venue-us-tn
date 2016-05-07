@@ -1,0 +1,73 @@
+{
+  "id": 807363393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.323987,36.123791,-86.323987,36.123791",
+    "geom:latitude":36.123791,
+    "geom:longitude":-86.323987,
+    "iso:country":"US",
+    "sg:address":"3072 Murfreesboro Rd",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 443 4044",
+    "sg:postcode":"37090",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QdZCJDAQ35bky8Ox7hbiI_36.123791_-86.323987@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606700,
+    "wof:geomhash":"8c1be51df51a0ac4b8298b5147b8afcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":807363393
+        }
+    ],
+    "wof:id":807363393,
+    "wof:lastmodified":1462606700,
+    "wof:name":"American Lock & Key",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -86.323987,
+    36.123791,
+    -86.323987,
+    36.123791
+],
+  "geometry": {"coordinates":[-86.323987,36.123791],"type":"Point"}
+}

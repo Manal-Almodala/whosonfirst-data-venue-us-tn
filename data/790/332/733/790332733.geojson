@@ -1,0 +1,73 @@
+{
+  "id": 790332733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.753387,36.165272,-86.753387,36.165272",
+    "geom:latitude":36.165272,
+    "geom:longitude":-86.753387,
+    "iso:country":"US",
+    "sg:address":"746 Lenore St",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 485 9510",
+    "sg:postcode":"37206",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85816591
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I7nKceOvWbmaHZbgLCelT_36.165272_-86.753387@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595011,
+    "wof:geomhash":"2915d8f12e463c3314b50948e30b8bc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85816591,
+            "region_id":85688701,
+            "venue_id":790332733
+        }
+    ],
+    "wof:id":790332733,
+    "wof:lastmodified":1462595011,
+    "wof:name":"United Cab",
+    "wof:parent_id":85816591,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.753387,
+    36.165272,
+    -86.753387,
+    36.165272
+],
+  "geometry": {"coordinates":[-86.753387,36.165272],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 807256145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.007818,35.192279,-87.007818,35.192279",
+    "geom:latitude":35.192279,
+    "geom:longitude":-87.007818,
+    "iso:country":"US",
+    "sg:address":"1255 E College St",
+    "sg:city":"Pulaski",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 424 5400",
+    "sg:postcode":"38478",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723015,
+        102086333,
+        420558609,
+        85843973
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OE6eaXAAXW07vmyEfCrlG_35.192279_-87.007818@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605389,
+    "wof:geomhash":"1603b8c7f42ac73cbfa0ed775f48d2f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":420558609,
+            "region_id":85688701,
+            "venue_id":807256145
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086333,
+            "locality_id":101723015,
+            "neighbourhood_id":85843973,
+            "region_id":85688701,
+            "venue_id":807256145
+        }
+    ],
+    "wof:id":807256145,
+    "wof:lastmodified":1462605389,
+    "wof:name":"James W Brann MD",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -87.007818,
+    35.192279,
+    -87.007818,
+    35.192279
+],
+  "geometry": {"coordinates":[-87.007818,35.192279],"type":"Point"}
+}

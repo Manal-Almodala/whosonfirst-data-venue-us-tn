@@ -1,0 +1,71 @@
+{
+  "id": 789753111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.928313,36.035685,-83.928313,36.035685",
+    "geom:latitude":36.035685,
+    "geom:longitude":-83.928313,
+    "iso:country":"US",
+    "sg:address":"2931 Essary Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 687 4881",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fJG6MdngJy8yOrOhmFsVD_36.035685_-83.928313@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590277,
+    "wof:geomhash":"659f091c30cd8eabf363c7f6a5e75d34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":789753111
+        }
+    ],
+    "wof:id":789753111,
+    "wof:lastmodified":1462590277,
+    "wof:name":"Hutton Hutton & Mays",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -83.928313,
+    36.035685,
+    -83.928313,
+    36.035685
+],
+  "geometry": {"coordinates":[-83.928313,36.035685],"type":"Point"}
+}

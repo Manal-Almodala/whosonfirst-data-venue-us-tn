@@ -1,0 +1,71 @@
+{
+  "id": 807369575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.3512,35.764041,-86.3512,35.764041",
+    "geom:latitude":35.764041,
+    "geom:longitude":-86.3512,
+    "iso:country":"US",
+    "sg:address":"5500 Elam Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 895 9840",
+    "sg:postcode":"37127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CTsfpA7lQKvCmDI6xOrxB_35.764041_-86.351200@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606784,
+    "wof:geomhash":"2196d5293851320dde03827000296f09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":807369575
+        }
+    ],
+    "wof:id":807369575,
+    "wof:lastmodified":1462606784,
+    "wof:name":"Southeast Rutherford Vol Fire",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.3512,
+    35.764041,
+    -86.3512,
+    35.764041
+],
+  "geometry": {"coordinates":[-86.35120000000001,35.764041],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 823246611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.636255,36.071965,-86.636255,36.071965",
+    "geom:latitude":36.071965,
+    "geom:longitude":-86.636255,
+    "iso:country":"US",
+    "sg:address":"2693 Murfreesboro Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/nashville/209525-roma-pizza-and-pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 365 8646",
+    "sg:postcode":"37217",
+    "sg:province":"TN",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85846409,
+        420541523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75jUwOTJ0mEI11WJ6ArxNy_36.071965_-86.636255@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609270,
+    "wof:geomhash":"ace3c26af955953d130eb488e908c80a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85846409,
+            "region_id":85688701,
+            "venue_id":823246611
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420541523,
+            "region_id":85688701,
+            "venue_id":823246611
+        }
+    ],
+    "wof:id":823246611,
+    "wof:lastmodified":1462609270,
+    "wof:name":"Roma Pizza And Pasta",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -86.636255,
+    36.071965,
+    -86.636255,
+    36.071965
+],
+  "geometry": {"coordinates":[-86.63625500000001,36.071965],"type":"Point"}
+}

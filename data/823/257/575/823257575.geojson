@@ -1,0 +1,71 @@
+{
+  "id": 823257575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.982086,35.963315,-84.982086,35.963315",
+    "geom:latitude":35.963315,
+    "geom:longitude":-84.982086,
+    "iso:country":"US",
+    "sg:address":"558 Peavine Rd",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/crossville-north/201842-mcdonalds/menu/",
+    "sg:owner":"simplegeo",
+    "sg:postcode":"38571",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sRuZHWKBFguhGO13IMx8r_35.963315_-84.982086@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609486,
+    "wof:geomhash":"6f23508f05b1c7e726c58551b345a03f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":823257575
+        }
+    ],
+    "wof:id":823257575,
+    "wof:lastmodified":1462609486,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -84.982086,
+    35.963315,
+    -84.982086,
+    35.963315
+],
+  "geometry": {"coordinates":[-84.982086,35.963315],"type":"Point"}
+}

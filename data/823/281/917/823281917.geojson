@@ -1,0 +1,82 @@
+{
+  "id": 823281917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.055052,35.086498,-90.055052,35.086498",
+    "geom:latitude":35.086498,
+    "geom:longitude":-90.055052,
+    "iso:country":"US",
+    "sg:address":"222 E Mallory Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 774 8750",
+    "sg:postcode":"38109",
+    "sg:province":"TN",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85836747
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18RNMxjK1Bo1Emc1FICZAa_35.086498_-90.055052@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610391,
+    "wof:geomhash":"5ec09b2cd09a434b69d1d3fddc12053b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85836747,
+            "region_id":85688701,
+            "venue_id":823281917
+        }
+    ],
+    "wof:id":823281917,
+    "wof:lastmodified":1462610391,
+    "wof:name":"Mt Pleasant Transfer Inc",
+    "wof:parent_id":85836747,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.055052,
+    35.086498,
+    -90.055052,
+    35.086498
+],
+  "geometry": {"coordinates":[-90.055052,35.086498],"type":"Point"}
+}

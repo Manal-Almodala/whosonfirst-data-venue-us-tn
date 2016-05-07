@@ -1,0 +1,71 @@
+{
+  "id": 806771935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.454436,36.396387,-86.454436,36.396387",
+    "geom:latitude":36.396387,
+    "geom:longitude":-86.454436,
+    "iso:country":"US",
+    "sg:address":"508 Small St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 642 5411",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BANA5X6sAVKnPe83IuOW2_36.396387_-86.454436@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600944,
+    "wof:geomhash":"e08355d801825ca12195148e49efc1c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":806771935
+        }
+    ],
+    "wof:id":806771935,
+    "wof:lastmodified":1462600944,
+    "wof:name":"Checker Cab",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.454436,
+    36.396387,
+    -86.454436,
+    36.396387
+],
+  "geometry": {"coordinates":[-86.454436,36.396387],"type":"Point"}
+}

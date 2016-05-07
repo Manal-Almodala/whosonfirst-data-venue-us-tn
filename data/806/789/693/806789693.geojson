@@ -1,0 +1,71 @@
+{
+  "id": 806789693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.306742,36.204872,-83.306742,36.204872",
+    "geom:latitude":36.204872,
+    "geom:longitude":-83.306742,
+    "iso:country":"US",
+    "sg:address":"1423 W Morris Blvd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 6372",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aVtU5Jy8h7oyQoRoRD9ne_36.204872_-83.306742@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601102,
+    "wof:geomhash":"f6d7366855c83c19200e30af7047864e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":806789693
+        }
+    ],
+    "wof:id":806789693,
+    "wof:lastmodified":1462601102,
+    "wof:name":"Morristown Primary Care",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.306742,
+    36.204872,
+    -83.306742,
+    36.204872
+],
+  "geometry": {"coordinates":[-83.306742,36.204872],"type":"Point"}
+}

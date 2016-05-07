@@ -1,0 +1,83 @@
+{
+  "id": 806628367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.684831,36.071509,-86.684831,36.071509",
+    "geom:latitude":36.071509,
+    "geom:longitude":-86.684831,
+    "iso:country":"US",
+    "sg:address":"771 Haystack Ln",
+    "sg:city":"Antioch",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 506 3086",
+    "sg:postcode":"37013",
+    "sg:province":"TN",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85839117,
+        420558709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eUxdtgwMdQsi9PRhN6cEh_36.071509_-86.684831@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599722,
+    "wof:geomhash":"389c5d496a0332a779c7c9f2a736ab45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85839117,
+            "region_id":85688701,
+            "venue_id":806628367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420558709,
+            "region_id":85688701,
+            "venue_id":806628367
+        }
+    ],
+    "wof:id":806628367,
+    "wof:lastmodified":1462599722,
+    "wof:name":"Allied Cab",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -86.684831,
+    36.071509,
+    -86.684831,
+    36.071509
+],
+  "geometry": {"coordinates":[-86.684831,36.071509],"type":"Point"}
+}

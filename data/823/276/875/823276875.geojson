@@ -1,0 +1,80 @@
+{
+  "id": 823276875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.887183,35.452288,-89.887183,35.452288",
+    "geom:latitude":35.452288,
+    "geom:longitude":-89.887183,
+    "iso:country":"US",
+    "sg:address":"1073 Susan Cir",
+    "sg:city":"Drummonds",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 835 4385",
+    "sg:postcode":"38023",
+    "sg:province":"TN",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IIcTTn4HLCfIInYcS4nvU_35.452288_-89.887183@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610185,
+    "wof:geomhash":"41a69db0acddd4276067cc5b1a4b6649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823276875
+        }
+    ],
+    "wof:id":823276875,
+    "wof:lastmodified":1462610185,
+    "wof:name":"J&S Trucking",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.887183,
+    35.452288,
+    -89.887183,
+    35.452288
+],
+  "geometry": {"coordinates":[-89.88718299999999,35.452288],"type":"Point"}
+}

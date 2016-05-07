@@ -1,0 +1,73 @@
+{
+  "id": 806806631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.551265,35.932421,-84.551265,35.932421",
+    "geom:latitude":35.932421,
+    "geom:longitude":-84.551265,
+    "iso:country":"US",
+    "sg:address":"506 Morgan Ave NE",
+    "sg:city":"Harriman",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 882 6818",
+    "sg:postcode":"37748",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722695,
+        102087051,
+        85841801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77i1Sfpt0CkyUFPD0Vojbg_35.932421_-84.551265@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601239,
+    "wof:geomhash":"4397fe0d16e454e34aa165d064b26c44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087051,
+            "locality_id":101722695,
+            "neighbourhood_id":85841801,
+            "region_id":85688701,
+            "venue_id":806806631
+        }
+    ],
+    "wof:id":806806631,
+    "wof:lastmodified":1462601239,
+    "wof:name":"Pope Electrical",
+    "wof:parent_id":85841801,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -84.551265,
+    35.932421,
+    -84.551265,
+    35.932421
+],
+  "geometry": {"coordinates":[-84.551265,35.932421],"type":"Point"}
+}

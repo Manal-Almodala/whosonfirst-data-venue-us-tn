@@ -1,0 +1,71 @@
+{
+  "id": 789984347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.951049,36.006828,-83.951049,36.006828",
+    "geom:latitude":36.006828,
+    "geom:longitude":-83.951049,
+    "iso:country":"US",
+    "sg:address":"1116 Dutch Valley Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 687 0069",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05lTDVouf96I5pyXz1T101_36.006828_-83.951049@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592204,
+    "wof:geomhash":"d71463ae29f53565b07a5a86d394d750",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":789984347
+        }
+    ],
+    "wof:id":789984347,
+    "wof:lastmodified":1462592204,
+    "wof:name":"Suspensions Unlimited",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -83.951049,
+    36.006828,
+    -83.951049,
+    36.006828
+],
+  "geometry": {"coordinates":[-83.951049,36.006828],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 773245807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.813923,36.492712,-81.813923,36.492712",
+    "geom:latitude":36.492712,
+    "geom:longitude":-81.813923,
+    "iso:country":"US",
+    "sg:address":"377 Cold Springs Rd",
+    "sg:city":"Mountain City",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 727 6674",
+    "sg:postcode":"37683",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xTE1h99srL0a5LTXFOGS6_36.492712_-81.813923@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584255,
+    "wof:geomhash":"34868dcd3612577d8e580a68210d42b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":773245807
+        }
+    ],
+    "wof:id":773245807,
+    "wof:lastmodified":1462584255,
+    "wof:name":"Cardiology Consultants",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -81.813923,
+    36.492712,
+    -81.813923,
+    36.492712
+],
+  "geometry": {"coordinates":[-81.813923,36.492712],"type":"Point"}
+}

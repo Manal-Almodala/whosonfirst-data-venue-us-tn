@@ -1,0 +1,73 @@
+{
+  "id": 789628861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.588011,35.434813,-84.588011,35.434813",
+    "geom:latitude":35.434813,
+    "geom:longitude":-84.588011,
+    "iso:country":"US",
+    "sg:address":"703 S White St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 6200",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85835287
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UaRcv7DJXfTV53E82lutm_35.434813_-84.588011@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589284,
+    "wof:geomhash":"7065b96ffbb889e1ba29bf0768edf2f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85835287,
+            "region_id":85688701,
+            "venue_id":789628861
+        }
+    ],
+    "wof:id":789628861,
+    "wof:lastmodified":1462589284,
+    "wof:name":"Golden Gallon 131",
+    "wof:parent_id":85835287,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gas"
+    ]
+},
+  "bbox": [
+    -84.588011,
+    35.434813,
+    -84.588011,
+    35.434813
+],
+  "geometry": {"coordinates":[-84.58801099999999,35.434813],"type":"Point"}
+}

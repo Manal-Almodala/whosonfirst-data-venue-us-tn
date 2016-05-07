@@ -1,0 +1,71 @@
+{
+  "id": 807187129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.429003,36.105271,-87.429003,36.105271",
+    "geom:latitude":36.105271,
+    "geom:longitude":-87.429003,
+    "iso:country":"US",
+    "sg:address":"347 Pond Rd",
+    "sg:city":"Dickson",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 446 8116",
+    "sg:postcode":"37055",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722823,
+        102086975,
+        85842607
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UAOuyK3JwU9aRw3T1RaOu_36.105271_-87.429003@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604662,
+    "wof:geomhash":"321f709eb49d4aa4a27208510162669e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086975,
+            "locality_id":101722823,
+            "neighbourhood_id":85842607,
+            "region_id":85688701,
+            "venue_id":807187129
+        }
+    ],
+    "wof:id":807187129,
+    "wof:lastmodified":1462604662,
+    "wof:name":"Sankers Wrecker Svc",
+    "wof:parent_id":85842607,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -87.429003,
+    36.105271,
+    -87.429003,
+    36.105271
+],
+  "geometry": {"coordinates":[-87.42900299999999,36.105271],"type":"Point"}
+}

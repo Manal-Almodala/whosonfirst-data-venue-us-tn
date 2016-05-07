@@ -1,0 +1,71 @@
+{
+  "id": 823273663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.029841,36.181116,-83.029841,36.181116",
+    "geom:latitude":36.181116,
+    "geom:longitude":-83.029841,
+    "iso:country":"US",
+    "sg:address":"2215 Mcdonald Rd",
+    "sg:city":"Midway",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 972 7202",
+    "sg:postcode":"37809",
+    "sg:province":"TN",
+    "sg:tags":[
+        "engines-rebuild",
+        "exchange"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85851539,
+        102086377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RENJMEZqyvCsT7m2aB3mf_36.181116_-83.029841@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610059,
+    "wof:geomhash":"2f9c680191756b7db0492390482d2541",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "neighbourhood_id":85851539,
+            "region_id":85688701,
+            "venue_id":823273663
+        }
+    ],
+    "wof:id":823273663,
+    "wof:lastmodified":1462610059,
+    "wof:name":"Tipton S Small Engine",
+    "wof:parent_id":85851539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engines-rebuild",
+        "exchange"
+    ]
+},
+  "bbox": [
+    -83.029841,
+    36.181116,
+    -83.029841,
+    36.181116
+],
+  "geometry": {"coordinates":[-83.029841,36.181116],"type":"Point"}
+}

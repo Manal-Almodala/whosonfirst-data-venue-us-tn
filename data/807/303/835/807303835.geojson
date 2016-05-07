@@ -1,0 +1,71 @@
+{
+  "id": 807303835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.336928,35.978434,-85.336928,35.978434",
+    "geom:latitude":35.978434,
+    "geom:longitude":-85.336928,
+    "iso:country":"US",
+    "sg:address":"330 Stebbins Ln",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 935 2777",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yOsmbkMESc0P6FykA1VZJ_35.978434_-85.336928@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605892,
+    "wof:geomhash":"723580975b846e78431ae94bbc708908",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":807303835
+        }
+    ],
+    "wof:id":807303835,
+    "wof:lastmodified":1462605892,
+    "wof:name":"Stebbins Cleaning",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -85.336928,
+    35.978434,
+    -85.336928,
+    35.978434
+],
+  "geometry": {"coordinates":[-85.336928,35.978434],"type":"Point"}
+}

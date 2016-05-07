@@ -1,0 +1,71 @@
+{
+  "id": 789676811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.622985,35.769899,-83.622985,35.769899",
+    "geom:latitude":35.769899,
+    "geom:longitude":-83.622985,
+    "iso:country":"US",
+    "sg:address":"3230 Cove Creek Way",
+    "sg:city":"Sevierville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 453 1557",
+    "sg:postcode":"37862",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722583,
+        102086245,
+        85824597
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13m8j0CmItNST4zW3kXUOJ_35.769899_-83.622985@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589677,
+    "wof:geomhash":"d991f1e624ae57d8a51bf715fb843d6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722583,
+            "neighbourhood_id":85824597,
+            "region_id":85688701,
+            "venue_id":789676811
+        }
+    ],
+    "wof:id":789676811,
+    "wof:lastmodified":1462589677,
+    "wof:name":"Southern Express Plumbing",
+    "wof:parent_id":85824597,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.622985,
+    35.769899,
+    -83.622985,
+    35.769899
+],
+  "geometry": {"coordinates":[-83.622985,35.769899],"type":"Point"}
+}

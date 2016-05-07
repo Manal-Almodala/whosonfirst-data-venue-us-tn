@@ -1,0 +1,73 @@
+{
+  "id": 806966483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.358061,35.775327,-86.358061,35.775327",
+    "geom:latitude":35.775327,
+    "geom:longitude":-86.358061,
+    "iso:country":"US",
+    "sg:address":"114 Tenby Dr",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 890 9753",
+    "sg:postcode":"37127",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appliance",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85844771
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cL0F0JJ8LGDxkrjPt8ziy_35.775327_-86.358061@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462602580,
+    "wof:geomhash":"7dba68af68dd586af42e56e5d71c9666",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85844771,
+            "region_id":85688701,
+            "venue_id":806966483
+        }
+    ],
+    "wof:id":806966483,
+    "wof:lastmodified":1462602580,
+    "wof:name":"Terry's Appliance Repair",
+    "wof:parent_id":85844771,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -86.358061,
+    35.775327,
+    -86.358061,
+    35.775327
+],
+  "geometry": {"coordinates":[-86.35806100000001,35.775327],"type":"Point"}
+}

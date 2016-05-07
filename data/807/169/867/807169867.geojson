@@ -1,0 +1,73 @@
+{
+  "id": 807169867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.020362,35.940576,-85.020362,35.940576",
+    "geom:latitude":35.940576,
+    "geom:longitude":-85.020362,
+    "iso:country":"US",
+    "sg:address":"591 S Main St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 8076",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zk2YkQhxafTtuS6DG6Pm1_35.940576_-85.020362@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604483,
+    "wof:geomhash":"8bafda4e31307724dd139ade8ef73098",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":807169867
+        }
+    ],
+    "wof:id":807169867,
+    "wof:lastmodified":1462604483,
+    "wof:name":"Cumberland Medical Ctr",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -85.020362,
+    35.940576,
+    -85.020362,
+    35.940576
+],
+  "geometry": {"coordinates":[-85.02036200000001,35.940576],"type":"Point"}
+}

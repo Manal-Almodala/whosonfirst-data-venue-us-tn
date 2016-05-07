@@ -1,0 +1,75 @@
+{
+  "id": 789968947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.623114,36.417878,-82.623114,36.417878",
+    "geom:latitude":36.417878,
+    "geom:longitude":-82.623114,
+    "iso:country":"US",
+    "sg:address":"1507 State Hwy 93",
+    "sg:city":"Fall Branch",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 348 6511",
+    "sg:postcode":"37656",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722753,
+        102086335,
+        85822827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QVOcsQbAmEio9lsYBAhsJ_36.417878_-82.623114@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592073,
+    "wof:geomhash":"9925edb2fb44dc1c6f5c9a84177aa245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722753,
+            "neighbourhood_id":85822827,
+            "region_id":85688701,
+            "venue_id":789968947
+        }
+    ],
+    "wof:id":789968947,
+    "wof:lastmodified":1462592073,
+    "wof:name":"Garland's Auto Repair",
+    "wof:parent_id":85822827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -82.623114,
+    36.417878,
+    -82.623114,
+    36.417878
+],
+  "geometry": {"coordinates":[-82.623114,36.417878],"type":"Point"}
+}

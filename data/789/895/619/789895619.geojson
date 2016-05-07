@@ -1,0 +1,73 @@
+{
+  "id": 789895619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.84795,36.155536,-82.84795,36.155536",
+    "geom:latitude":36.155536,
+    "geom:longitude":-82.84795,
+    "iso:country":"US",
+    "sg:address":"1022 W Irish St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 638 5451",
+    "sg:postcode":"37743",
+    "sg:province":"TN",
+    "sg:tags":[
+        "warehouse",
+        "tobacco"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Pcq3piv0XJvY1ktZiKSpN_36.155536_-82.847950@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591410,
+    "wof:geomhash":"fd98de1c4fb6957c167ce945557d3641",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":789895619
+        }
+    ],
+    "wof:id":789895619,
+    "wof:lastmodified":1462591410,
+    "wof:name":"L & S Storage",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "tobacco"
+    ]
+},
+  "bbox": [
+    -82.84795,
+    36.155536,
+    -82.84795,
+    36.155536
+],
+  "geometry": {"coordinates":[-82.84795,36.155536],"type":"Point"}
+}

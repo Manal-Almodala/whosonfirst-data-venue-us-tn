@@ -1,0 +1,71 @@
+{
+  "id": 789792193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.840783,35.361949,-86.840783,35.361949",
+    "geom:latitude":35.361949,
+    "geom:longitude":-86.840783,
+    "iso:country":"US",
+    "sg:address":"103 N Park St",
+    "sg:city":"Cornersville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 293 2222",
+    "sg:postcode":"37047",
+    "sg:province":"TN",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722897,
+        102087115,
+        85811699
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oplW52W0mLoHAYBn8wWYr_35.361949_-86.840783@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590581,
+    "wof:geomhash":"521cac334e00193a831ce93dfde3fac5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087115,
+            "locality_id":101722897,
+            "neighbourhood_id":85811699,
+            "region_id":85688701,
+            "venue_id":789792193
+        }
+    ],
+    "wof:id":789792193,
+    "wof:lastmodified":1462590581,
+    "wof:name":"Tennessee Telephone Company",
+    "wof:parent_id":85811699,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -86.840783,
+    35.361949,
+    -86.840783,
+    35.361949
+],
+  "geometry": {"coordinates":[-86.840783,35.361949],"type":"Point"}
+}

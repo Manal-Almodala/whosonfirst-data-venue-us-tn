@@ -1,0 +1,71 @@
+{
+  "id": 789648407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.485048,36.256281,-82.485048,36.256281",
+    "geom:latitude":36.256281,
+    "geom:longitude":-82.485048,
+    "iso:country":"US",
+    "sg:address":"2097 State Hwy 81 S",
+    "sg:city":"Jonesborough",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 753 7010",
+    "sg:postcode":"37659",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722753,
+        102086335,
+        85822827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AWqhVWFiM04913RfUW1mY_36.256281_-82.485048@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589438,
+    "wof:geomhash":"3d7912baaa335b2883de61f393ff61b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722753,
+            "neighbourhood_id":85822827,
+            "region_id":85688701,
+            "venue_id":789648407
+        }
+    ],
+    "wof:id":789648407,
+    "wof:lastmodified":1462589438,
+    "wof:name":"Fannon Trucking Co",
+    "wof:parent_id":85822827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.485048,
+    36.256281,
+    -82.485048,
+    36.256281
+],
+  "geometry": {"coordinates":[-82.48504800000001,36.256281],"type":"Point"}
+}

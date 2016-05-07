@@ -1,0 +1,76 @@
+{
+  "id": 789781915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.08051,35.498894,-86.08051,35.498894",
+    "geom:latitude":35.498894,
+    "geom:longitude":-86.08051,
+    "iso:country":"US",
+    "sg:address":"482 Interstate Dr",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 723 1178",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "logistics"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CcwsF6SHzWhFrIjcAZ7DK_35.498894_-86.080510@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590503,
+    "wof:geomhash":"2a329020b7bf6dc425e9b9dca8cd759c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":789781915
+        }
+    ],
+    "wof:id":789781915,
+    "wof:lastmodified":1462590503,
+    "wof:name":"Mid State Logistics Inc",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "logistics"
+    ]
+},
+  "bbox": [
+    -86.08051,
+    35.498894,
+    -86.08051,
+    35.498894
+],
+  "geometry": {"coordinates":[-86.08051,35.498894],"type":"Point"}
+}

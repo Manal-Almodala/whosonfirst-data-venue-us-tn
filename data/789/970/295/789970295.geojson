@@ -1,0 +1,73 @@
+{
+  "id": 789970295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.545097,35.843778,-86.545097,35.843778",
+    "geom:latitude":35.843778,
+    "geom:longitude":-86.545097,
+    "iso:country":"US",
+    "sg:address":"10721 Franklin Rd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 838 1576",
+    "sg:postcode":"37128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m3jCsr5nmSdh7Vc7kGYGb_35.843778_-86.545097@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592084,
+    "wof:geomhash":"e7abf9f7077f39332b9df4286611fee9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":789970295
+        }
+    ],
+    "wof:id":789970295,
+    "wof:lastmodified":1462592084,
+    "wof:name":"L & J Electric",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -86.545097,
+    35.843778,
+    -86.545097,
+    35.843778
+],
+  "geometry": {"coordinates":[-86.545097,35.843778],"type":"Point"}
+}

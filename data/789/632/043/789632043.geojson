@@ -1,0 +1,75 @@
+{
+  "id": 789632043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.088206,35.106707,-90.088206,35.106707",
+    "geom:latitude":35.106707,
+    "geom:longitude":-90.088206,
+    "iso:country":"US",
+    "sg:address":"1073 Channel Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 775 0500",
+    "sg:postcode":"38113",
+    "sg:province":"TN",
+    "sg:tags":[
+        "terminal",
+        "marine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        420542137
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Evn4hmXh2RGqhNUl5cEZL_35.106707_-90.088206@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589310,
+    "wof:geomhash":"2e6b74673fef0054ba02ae1b3b3e43cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":420542137,
+            "region_id":85688701,
+            "venue_id":789632043
+        }
+    ],
+    "wof:id":789632043,
+    "wof:lastmodified":1462589310,
+    "wof:name":"Kinder Morgan Bulk Terminals",
+    "wof:parent_id":420542137,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "terminal",
+        "marine"
+    ]
+},
+  "bbox": [
+    -90.088206,
+    35.106707,
+    -90.088206,
+    35.106707
+],
+  "geometry": {"coordinates":[-90.088206,35.106707],"type":"Point"}
+}

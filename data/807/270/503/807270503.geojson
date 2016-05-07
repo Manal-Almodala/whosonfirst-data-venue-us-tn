@@ -1,0 +1,75 @@
+{
+  "id": 807270503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.985482,36.001201,-83.985482,36.001201",
+    "geom:latitude":36.001201,
+    "geom:longitude":-83.985482,
+    "iso:country":"US",
+    "sg:address":"1110 Merchants Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 688 2454",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GJB5dOBrBZJRSYnBJYknX_36.001201_-83.985482@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605550,
+    "wof:geomhash":"09ba962d0f11c288c65309b187da7a22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":807270503
+        }
+    ],
+    "wof:id":807270503,
+    "wof:lastmodified":1462605550,
+    "wof:name":"Public Library",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "program",
+        "administrative"
+    ]
+},
+  "bbox": [
+    -83.985482,
+    36.001201,
+    -83.985482,
+    36.001201
+],
+  "geometry": {"coordinates":[-83.985482,36.001201],"type":"Point"}
+}

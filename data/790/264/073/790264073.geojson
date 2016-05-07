@@ -1,0 +1,85 @@
+{
+  "id": 790264073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.757788,36.125773,-86.757788,36.125773",
+    "geom:latitude":36.125773,
+    "geom:longitude":-86.757788,
+    "iso:country":"US",
+    "sg:address":"1934 Seminole Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 254 5929",
+    "sg:postcode":"37211",
+    "sg:province":"TN",
+    "sg:tags":[
+        "tool",
+        "grinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85858535,
+        85866801
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6shJRRpgPxWjLadA3DsnXg_36.125773_-86.757788@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462594455,
+    "wof:geomhash":"df5c9d36fafb79c36b0b7a6d356a6310",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85858535,
+            "region_id":85688701,
+            "venue_id":790264073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85866801,
+            "region_id":85688701,
+            "venue_id":790264073
+        }
+    ],
+    "wof:id":790264073,
+    "wof:lastmodified":1462594455,
+    "wof:name":"PDS Grinding Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tool",
+        "grinding"
+    ]
+},
+  "bbox": [
+    -86.757788,
+    36.125773,
+    -86.757788,
+    36.125773
+],
+  "geometry": {"coordinates":[-86.75778800000001,36.125773],"type":"Point"}
+}

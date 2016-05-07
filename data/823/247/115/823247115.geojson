@@ -1,0 +1,74 @@
+{
+  "id": 823247115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.999189,35.508009,-84.999189,35.508009",
+    "geom:latitude":35.508009,
+    "geom:longitude":-84.999189,
+    "iso:country":"US",
+    "sg:address":"7410 Rhea County Hwy",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/dayton/73092-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 3590",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OokWSvbASTx5ro16fHN61_35.508009_-84.999189@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609279,
+    "wof:geomhash":"dd26f17eb9594264c0c3d847c3c98b82",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":823247115
+        }
+    ],
+    "wof:id":823247115,
+    "wof:lastmodified":1462609279,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.999189,
+    35.508009,
+    -84.999189,
+    35.508009
+],
+  "geometry": {"coordinates":[-84.999189,35.508009],"type":"Point"}
+}

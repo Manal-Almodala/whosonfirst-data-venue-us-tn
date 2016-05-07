@@ -1,0 +1,71 @@
+{
+  "id": 773254709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.581267,35.461988,-84.581267,35.461988",
+    "geom:latitude":35.461988,
+    "geom:longitude":-84.581267,
+    "iso:country":"US",
+    "sg:address":"1801 Old Niota Rd",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 1132",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85811277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sfa8iIAZpuLLlWJwYU2MP_35.461988_-84.581267@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584327,
+    "wof:geomhash":"29628c55fbfc9b2ca4f1d97b845d0339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85811277,
+            "region_id":85688701,
+            "venue_id":773254709
+        }
+    ],
+    "wof:id":773254709,
+    "wof:lastmodified":1462584327,
+    "wof:name":"Cooley's Wrecker Svc",
+    "wof:parent_id":85811277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -84.581267,
+    35.461988,
+    -84.581267,
+    35.461988
+],
+  "geometry": {"coordinates":[-84.581267,35.461988],"type":"Point"}
+}

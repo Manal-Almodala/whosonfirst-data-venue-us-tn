@@ -1,0 +1,71 @@
+{
+  "id": 773421457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.293395,36.206163,-83.293395,36.206163",
+    "geom:latitude":36.206163,
+    "geom:longitude":-83.293395,
+    "iso:country":"US",
+    "sg:address":"625 S Jackson St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 5072",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gLk7580L3SwckTuW4ccOA_36.206163_-83.293395@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585586,
+    "wof:geomhash":"ea21487cca65d1aa8d21dfc39d7c0798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773421457
+        }
+    ],
+    "wof:id":773421457,
+    "wof:lastmodified":1462585586,
+    "wof:name":"Morristown City Fire Dept",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -83.293395,
+    36.206163,
+    -83.293395,
+    36.206163
+],
+  "geometry": {"coordinates":[-83.293395,36.206163],"type":"Point"}
+}

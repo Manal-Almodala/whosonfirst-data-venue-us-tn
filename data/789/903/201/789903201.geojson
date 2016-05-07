@@ -1,0 +1,71 @@
+{
+  "id": 789903201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.899247,35.19503,-89.899247,35.19503",
+    "geom:latitude":35.19503,
+    "geom:longitude":-89.899247,
+    "iso:country":"US",
+    "sg:address":"5000 Raleigh Lagrange Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 266 4401",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ySi0RPy7NmF8mbUz57VLJ_35.195030_-89.899247@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591470,
+    "wof:geomhash":"3e97ac97f64bc8efb5d4c891eb4afcaa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789903201
+        }
+    ],
+    "wof:id":789903201,
+    "wof:lastmodified":1462591470,
+    "wof:name":"AAA Cash Fast",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -89.899247,
+    35.19503,
+    -89.899247,
+    35.19503
+],
+  "geometry": {"coordinates":[-89.899247,35.19503],"type":"Point"}
+}

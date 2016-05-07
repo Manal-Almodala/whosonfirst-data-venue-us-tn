@@ -1,0 +1,73 @@
+{
+  "id": 789958255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.598846,35.80811,-85.598846,35.80811",
+    "geom:latitude":35.80811,
+    "geom:longitude":-85.598846,
+    "iso:country":"US",
+    "sg:address":"11839 McMinnville Hwy",
+    "sg:city":"Walling",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 657 2433",
+    "sg:postcode":"38587",
+    "sg:province":"TN",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85845693
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cArbaRAeMav5XHLW8cSgJ_35.808110_-85.598846@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591983,
+    "wof:geomhash":"a6cfa788acb96b43e8b12e641187e2a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85845693,
+            "region_id":85688701,
+            "venue_id":789958255
+        }
+    ],
+    "wof:id":789958255,
+    "wof:lastmodified":1462591983,
+    "wof:name":"Walling Post Office",
+    "wof:parent_id":85845693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -85.598846,
+    35.80811,
+    -85.598846,
+    35.80811
+],
+  "geometry": {"coordinates":[-85.59884599999999,35.80811],"type":"Point"}
+}

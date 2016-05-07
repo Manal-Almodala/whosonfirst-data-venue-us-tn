@@ -1,0 +1,73 @@
+{
+  "id": 789910291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.274722,35.239486,-89.274722,35.239486",
+    "geom:latitude":35.239486,
+    "geom:longitude":-89.274722,
+    "iso:country":"US",
+    "sg:address":"655 Fleming Way",
+    "sg:city":"Somerville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 878 1204",
+    "sg:postcode":"38039",
+    "sg:province":"TN",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722831,
+        102086439,
+        420541553
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49tWxQsaJt5RqpUYfwJyKU_35.239486_-89.274722@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591542,
+    "wof:geomhash":"6e69303697fbbef43a8ba4328658b720",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086439,
+            "locality_id":101722831,
+            "neighbourhood_id":420541553,
+            "region_id":85688701,
+            "venue_id":789910291
+        }
+    ],
+    "wof:id":789910291,
+    "wof:lastmodified":1462591542,
+    "wof:name":"Fleming Heating & AC",
+    "wof:parent_id":420541553,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.274722,
+    35.239486,
+    -89.274722,
+    35.239486
+],
+  "geometry": {"coordinates":[-89.274722,35.239486],"type":"Point"}
+}

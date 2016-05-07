@@ -1,0 +1,80 @@
+{
+  "id": 823277571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.392607,35.061934,-89.392607,35.061934",
+    "geom:latitude":35.061934,
+    "geom:longitude":-89.392607,
+    "iso:country":"US",
+    "sg:address":"85 Saint Mark Cv",
+    "sg:city":"Moscow",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 877 3456",
+    "sg:postcode":"38057",
+    "sg:province":"TN",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85846193,
+        102086439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gcyjxZD5NgQAgiJCst0Bu_35.061934_-89.392607@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610209,
+    "wof:geomhash":"a9e57ada977759fa446acb19128d7fc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086439,
+            "neighbourhood_id":85846193,
+            "region_id":85688701,
+            "venue_id":823277571
+        }
+    ],
+    "wof:id":823277571,
+    "wof:lastmodified":1462610209,
+    "wof:name":"Saint Mark Village Apts",
+    "wof:parent_id":85846193,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "listing"
+    ]
+},
+  "bbox": [
+    -89.392607,
+    35.061934,
+    -89.392607,
+    35.061934
+],
+  "geometry": {"coordinates":[-89.392607,35.061934],"type":"Point"}
+}

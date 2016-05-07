@@ -1,0 +1,73 @@
+{
+  "id": 823203843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.202163,35.665919,-87.202163,35.665919",
+    "geom:latitude":35.665919,
+    "geom:longitude":-87.202163,
+    "iso:country":"US",
+    "sg:address":"3319 Foster Chapel Rd",
+    "sg:city":"Columbia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 583 2227",
+    "sg:postcode":"38401",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723081,
+        102087107,
+        85819243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6K8O8unuBbBZJ9WRsdUdio_35.665919_-87.202163@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462608422,
+    "wof:geomhash":"6652100af117da9f09c0d2006f3f1b94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723081,
+            "neighbourhood_id":85819243,
+            "region_id":85688701,
+            "venue_id":823203843
+        }
+    ],
+    "wof:id":823203843,
+    "wof:lastmodified":1462608422,
+    "wof:name":"Tennessee Electrical",
+    "wof:parent_id":85819243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -87.202163,
+    35.665919,
+    -87.202163,
+    35.665919
+],
+  "geometry": {"coordinates":[-87.202163,35.665919],"type":"Point"}
+}

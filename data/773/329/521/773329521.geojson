@@ -1,0 +1,71 @@
+{
+  "id": 773329521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.485283,35.426685,-84.485283,35.426685",
+    "geom:latitude":35.426685,
+    "geom:longitude":-84.485283,
+    "iso:country":"US",
+    "sg:address":"111 Main St",
+    "sg:city":"Englewood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 887 7496",
+    "sg:postcode":"37329",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722749,
+        102086293,
+        85839313
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G0belhLjilEEn9nRRO7cE_35.426685_-84.485283@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584911,
+    "wof:geomhash":"4c7890d8e82f4f55a3115d7f205fb162",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722749,
+            "neighbourhood_id":85839313,
+            "region_id":85688701,
+            "venue_id":773329521
+        }
+    ],
+    "wof:id":773329521,
+    "wof:lastmodified":1462584911,
+    "wof:name":"Autotrans Transmission Svc",
+    "wof:parent_id":85839313,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -84.485283,
+    35.426685,
+    -84.485283,
+    35.426685
+],
+  "geometry": {"coordinates":[-84.485283,35.426685],"type":"Point"}
+}

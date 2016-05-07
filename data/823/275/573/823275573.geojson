@@ -1,0 +1,80 @@
+{
+  "id": 823275573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.725807,35.492161,-89.725807,35.492161",
+    "geom:latitude":35.492161,
+    "geom:longitude":-89.725807,
+    "iso:country":"US",
+    "sg:address":"6400 Highway 51 S",
+    "sg:city":"Brighton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Recreational Vehicle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 8000",
+    "sg:postcode":"38011",
+    "sg:province":"TN",
+    "sg:tags":[
+        "home",
+        "camper",
+        "campers-repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Zdqqsa9XbLcc2WHxg9hey_35.492161_-89.725807@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610132,
+    "wof:geomhash":"c81adb8315a2ce99d8e69c277f46f6b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823275573
+        }
+    ],
+    "wof:id":823275573,
+    "wof:lastmodified":1462610132,
+    "wof:name":"Adventure Rv",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "camper",
+        "campers-repair"
+    ]
+},
+  "bbox": [
+    -89.725807,
+    35.492161,
+    -89.725807,
+    35.492161
+],
+  "geometry": {"coordinates":[-89.725807,35.492161],"type":"Point"}
+}

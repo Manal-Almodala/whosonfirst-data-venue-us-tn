@@ -1,0 +1,77 @@
+{
+  "id": 789903627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.143465,35.891556,-84.143465,35.891556",
+    "geom:latitude":35.891556,
+    "geom:longitude":-84.143465,
+    "iso:country":"US",
+    "sg:address":"101 Glenleigh Ct",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 675 3311",
+    "sg:postcode":"37919",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85852201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uQVRLmDWYubIxtfl5yLbi_35.891556_-84.143465@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591473,
+    "wof:geomhash":"e2c186e15c0587c50bfb9c8ade070b38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85852201,
+            "region_id":85688701,
+            "venue_id":789903627
+        }
+    ],
+    "wof:id":789903627,
+    "wof:lastmodified":1462591473,
+    "wof:name":"Doctor's Care Knoxville West",
+    "wof:parent_id":85852201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -84.143465,
+    35.891556,
+    -84.143465,
+    35.891556
+],
+  "geometry": {"coordinates":[-84.14346500000001,35.891556],"type":"Point"}
+}

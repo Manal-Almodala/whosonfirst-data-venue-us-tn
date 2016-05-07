@@ -1,0 +1,83 @@
+{
+  "id": 823275137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.138386,35.895268,-84.138386,35.895268",
+    "geom:latitude":35.895268,
+    "geom:longitude":-84.138386,
+    "iso:country":"US",
+    "sg:address":"10716 Kingston Pike",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 777 2828",
+    "sg:postcode":"37934",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission",
+        "brake",
+        "transmissions-other"
+    ],
+    "sg:website":"http://www.mrtransmission.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722865,
+        102086455,
+        85852201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SPBFA5q8RYfDRCKejxISl_35.895268_-84.138386@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610111,
+    "wof:geomhash":"af03aff94f92e9e6116bdbd2b81b62f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85852201,
+            "region_id":85688701,
+            "venue_id":823275137
+        }
+    ],
+    "wof:id":823275137,
+    "wof:lastmodified":1462610111,
+    "wof:name":"Mr. Transmission",
+    "wof:parent_id":85852201,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "brake",
+        "transmissions-other"
+    ]
+},
+  "bbox": [
+    -84.138386,
+    35.895268,
+    -84.138386,
+    35.895268
+],
+  "geometry": {"coordinates":[-84.138386,35.895268],"type":"Point"}
+}

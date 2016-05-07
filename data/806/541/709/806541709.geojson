@@ -1,0 +1,71 @@
+{
+  "id": 806541709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.379057,35.830577,-86.379057,35.830577",
+    "geom:latitude":35.830577,
+    "geom:longitude":-86.379057,
+    "iso:country":"US",
+    "sg:address":"1001 S Tennessee Blvd",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 893 7640",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49AVFIt0zR4WfnNeXhTaYM_35.830577_-86.379057@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598974,
+    "wof:geomhash":"aa92f1590101435c472e34153f7a74b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":806541709
+        }
+    ],
+    "wof:id":806541709,
+    "wof:lastmodified":1462598974,
+    "wof:name":"Bishop Dental Office",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -86.379057,
+    35.830577,
+    -86.379057,
+    35.830577
+],
+  "geometry": {"coordinates":[-86.379057,35.830577],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 790005291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.058233,36.411441,-89.058233,36.411441",
+    "geom:latitude":36.411441,
+    "geom:longitude":-89.058233,
+    "iso:country":"US",
+    "sg:address":"1020 S 1st St",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 884 4178",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DI1gAx0eQ36TmSGeacT7a_36.411441_-89.058233@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592371,
+    "wof:geomhash":"d3f4f6444142f8acb822a2eca512db5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":790005291
+        }
+    ],
+    "wof:id":790005291,
+    "wof:lastmodified":1462592371,
+    "wof:name":"First Street Sandwich Shop",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -89.058233,
+    36.411441,
+    -89.058233,
+    36.411441
+],
+  "geometry": {"coordinates":[-89.058233,36.411441],"type":"Point"}
+}

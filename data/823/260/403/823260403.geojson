@@ -1,0 +1,81 @@
+{
+  "id": 823260403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.018036,35.096064,-90.018036,35.096064",
+    "geom:latitude":35.096064,
+    "geom:longitude":-90.018036,
+    "iso:country":"US",
+    "sg:address":"1802 Elvis Presley Blvd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/29279-a--r-bar-b-que/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 774 7444",
+    "sg:postcode":"38106",
+    "sg:province":"TN",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85808431
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bY6Lgvcn1OA6UxMtSSruh_35.095608_-90.017974@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609559,
+    "wof:geomhash":"873bd28f744252010ff11a0cf3b1bc9b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85808431,
+            "region_id":85688701,
+            "venue_id":823260403
+        }
+    ],
+    "wof:id":823260403,
+    "wof:lastmodified":1462609559,
+    "wof:name":"A & R Bar-B-Que",
+    "wof:parent_id":85808431,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -90.018036,
+    35.096064,
+    -90.018036,
+    35.096064
+],
+  "geometry": {"coordinates":[-90.018036,35.096064],"type":"Point"}
+}

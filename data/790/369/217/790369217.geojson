@@ -1,0 +1,71 @@
+{
+  "id": 790369217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.350434,35.054809,-85.350434,35.054809",
+    "geom:latitude":35.054809,
+    "geom:longitude":-85.350434,
+    "iso:country":"US",
+    "sg:address":"1223 Andrea Dr",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 821 8822",
+    "sg:postcode":"37419",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723043,
+        102087185,
+        85831387
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08S00yvmm3aJSGMDXsQZKC_35.054809_-85.350434@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462595299,
+    "wof:geomhash":"515dcacd90ae4e39758ef5374e6a7f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85831387,
+            "region_id":85688701,
+            "venue_id":790369217
+        }
+    ],
+    "wof:id":790369217,
+    "wof:lastmodified":1462595299,
+    "wof:name":"Mastertek Transmissions",
+    "wof:parent_id":85831387,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.350434,
+    35.054809,
+    -85.350434,
+    35.054809
+],
+  "geometry": {"coordinates":[-85.35043400000001,35.054809],"type":"Point"}
+}

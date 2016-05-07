@@ -1,0 +1,73 @@
+{
+  "id": 773663651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.234116,36.51841,-87.234116,36.51841",
+    "geom:latitude":36.51841,
+    "geom:longitude":-87.234116,
+    "iso:country":"US",
+    "sg:address":"556 Fire Station Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 358 0799",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85846417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Zt2GLAMGaeHXoYtMiyrcR_36.518410_-87.234116@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587424,
+    "wof:geomhash":"a0f50d9fe10a0d01fee7869080deead6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85846417,
+            "region_id":85688701,
+            "venue_id":773663651
+        }
+    ],
+    "wof:id":773663651,
+    "wof:lastmodified":1462587424,
+    "wof:name":"Maxwell Clinic",
+    "wof:parent_id":85846417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -87.234116,
+    36.51841,
+    -87.234116,
+    36.51841
+],
+  "geometry": {"coordinates":[-87.234116,36.51841],"type":"Point"}
+}

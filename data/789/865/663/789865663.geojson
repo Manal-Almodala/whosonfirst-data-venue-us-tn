@@ -1,0 +1,71 @@
+{
+  "id": 789865663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.47514,35.726546,-83.47514,35.726546",
+    "geom:latitude":35.726546,
+    "geom:longitude":-83.47514,
+    "iso:country":"US",
+    "sg:address":"1339 E Pkwy",
+    "sg:city":"Gatlinburg",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 436 6822",
+    "sg:postcode":"37738",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722585,
+        102086245,
+        85821619
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EbyC00emVONrzu1srCkyl_35.726546_-83.475140@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591152,
+    "wof:geomhash":"cb51a6d1dda739d53f7dd8860c141912",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086245,
+            "locality_id":101722585,
+            "neighbourhood_id":85821619,
+            "region_id":85688701,
+            "venue_id":789865663
+        }
+    ],
+    "wof:id":789865663,
+    "wof:lastmodified":1462591152,
+    "wof:name":"Hatchers Cleaners",
+    "wof:parent_id":85821619,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -83.47514,
+    35.726546,
+    -83.47514,
+    35.726546
+],
+  "geometry": {"coordinates":[-83.47514,35.726546],"type":"Point"}
+}

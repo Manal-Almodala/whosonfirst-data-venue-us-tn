@@ -1,0 +1,73 @@
+{
+  "id": 789661991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-81.801118,36.464413,-81.801118,36.464413",
+    "geom:latitude":36.464413,
+    "geom:longitude":-81.801118,
+    "iso:country":"US",
+    "sg:address":"1199 S Shady St",
+    "sg:city":"Mountain City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 727 5361",
+    "sg:postcode":"37683",
+    "sg:province":"TN",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722773,
+        102086291,
+        85830907
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oWqW8q5yB5DITB52f0lrK_36.464413_-81.801118@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589558,
+    "wof:geomhash":"fc29f46afd8c17192f0149ee2d1d40ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086291,
+            "locality_id":101722773,
+            "neighbourhood_id":85830907,
+            "region_id":85688701,
+            "venue_id":789661991
+        }
+    ],
+    "wof:id":789661991,
+    "wof:lastmodified":1462589558,
+    "wof:name":"Stop & Shine",
+    "wof:parent_id":85830907,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -81.801118,
+    36.464413,
+    -81.801118,
+    36.464413
+],
+  "geometry": {"coordinates":[-81.801118,36.464413],"type":"Point"}
+}

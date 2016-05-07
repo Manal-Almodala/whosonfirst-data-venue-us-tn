@@ -1,0 +1,73 @@
+{
+  "id": 789926241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.126527,35.944512,-84.126527,35.944512",
+    "geom:latitude":35.944512,
+    "geom:longitude":-84.126527,
+    "iso:country":"US",
+    "sg:address":"1621 Hickey Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 769 7690",
+    "sg:postcode":"37932",
+    "sg:province":"TN",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85803755,
+        102086455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gsc0SF5ScV2lo1yXY1Di4_35.944512_-84.126527@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591676,
+    "wof:geomhash":"4e90d91550f7fcbc934d11c6eda1cd13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "neighbourhood_id":85803755,
+            "region_id":85688701,
+            "venue_id":789926241
+        }
+    ],
+    "wof:id":789926241,
+    "wof:lastmodified":1462591676,
+    "wof:name":"Just Dogs and Friends",
+    "wof:parent_id":85803755,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -84.126527,
+    35.944512,
+    -84.126527,
+    35.944512
+],
+  "geometry": {"coordinates":[-84.126527,35.944512],"type":"Point"}
+}

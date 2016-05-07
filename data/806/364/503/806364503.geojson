@@ -1,0 +1,71 @@
+{
+  "id": 806364503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.090804,35.17662,-86.090804,35.17662",
+    "geom:latitude":35.17662,
+    "geom:longitude":-86.090804,
+    "iso:country":"US",
+    "sg:address":"144 Hospital Rd",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 5860",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fuIY0FDMNS20GL5Nej3Zk_35.176620_-86.090804@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597538,
+    "wof:geomhash":"df196e279b7c22152764d2fb1ab2ac1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":806364503
+        }
+    ],
+    "wof:id":806364503,
+    "wof:lastmodified":1462597538,
+    "wof:name":"L Keith Brown MD",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -86.090804,
+    35.17662,
+    -86.090804,
+    35.17662
+],
+  "geometry": {"coordinates":[-86.09080400000001,35.17662],"type":"Point"}
+}

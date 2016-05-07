@@ -1,0 +1,73 @@
+{
+  "id": 773642463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.800543,35.033525,-89.800543,35.033525",
+    "geom:latitude":35.033525,
+    "geom:longitude":-89.800543,
+    "iso:country":"US",
+    "sg:address":"4206 Rainey Woods Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 759 5797",
+    "sg:postcode":"38125",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85850355,
+        102087213
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yerAEGABAaL2uVBKBuPwK_35.033525_-89.800543@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587273,
+    "wof:geomhash":"985d8870639c0526fe9fe120727b5f23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "neighbourhood_id":85850355,
+            "region_id":85688701,
+            "venue_id":773642463
+        }
+    ],
+    "wof:id":773642463,
+    "wof:lastmodified":1462587273,
+    "wof:name":"ML Chandler Trucking",
+    "wof:parent_id":85850355,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.800543,
+    35.033525,
+    -89.800543,
+    35.033525
+],
+  "geometry": {"coordinates":[-89.800543,35.033525],"type":"Point"}
+}

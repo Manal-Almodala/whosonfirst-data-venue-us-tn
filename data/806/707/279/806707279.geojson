@@ -1,0 +1,71 @@
+{
+  "id": 806707279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.053864,36.081604,-84.053864,36.081604",
+    "geom:latitude":36.081604,
+    "geom:longitude":-84.053864,
+    "iso:country":"US",
+    "sg:address":"9444 Heiskell Rd",
+    "sg:city":"Heiskell",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 938 3473",
+    "sg:postcode":"37754",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oKYCPJC9jrwoNiRvkfkM7_36.081604_-84.053864@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600397,
+    "wof:geomhash":"c03ef186e1c9726fea71c643c94c8c69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":806707279
+        }
+    ],
+    "wof:id":806707279,
+    "wof:lastmodified":1462600397,
+    "wof:name":"Heiskell Volunteer Fire",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.053864,
+    36.081604,
+    -84.053864,
+    36.081604
+],
+  "geometry": {"coordinates":[-84.053864,36.081604],"type":"Point"}
+}

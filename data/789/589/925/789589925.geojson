@@ -1,0 +1,71 @@
+{
+  "id": 789589925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.940403,36.010903,-83.940403,36.010903",
+    "geom:latitude":36.010903,
+    "geom:longitude":-83.940403,
+    "iso:country":"US",
+    "sg:address":"1402 Dutch Valley Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 522 0097",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VE0Pz7QYVJau2vyIpciE3_36.010903_-83.940403@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588985,
+    "wof:geomhash":"86259c11a23ece8ca8d53acb472202b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":789589925
+        }
+    ],
+    "wof:id":789589925,
+    "wof:lastmodified":1462588985,
+    "wof:name":"Childrens Hospital",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -83.940403,
+    36.010903,
+    -83.940403,
+    36.010903
+],
+  "geometry": {"coordinates":[-83.940403,36.010903],"type":"Point"}
+}

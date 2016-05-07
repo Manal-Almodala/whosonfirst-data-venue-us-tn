@@ -1,0 +1,71 @@
+{
+  "id": 773147915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.505681,36.001845,-86.505681,36.001845",
+    "geom:latitude":36.001845,
+    "geom:longitude":-86.505681,
+    "iso:country":"US",
+    "sg:address":"764 Swan Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 223 2801",
+    "sg:postcode":"37167",
+    "sg:province":"TN",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723109,
+        102086355,
+        85823525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36JWtajRM6r6jGyQwFGVwK_36.001845_-86.505681@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462583488,
+    "wof:geomhash":"9487db0a4411fbb0c3dcd1c44ceae072",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723109,
+            "neighbourhood_id":85823525,
+            "region_id":85688701,
+            "venue_id":773147915
+        }
+    ],
+    "wof:id":773147915,
+    "wof:lastmodified":1462583488,
+    "wof:name":"TTS Warehouse",
+    "wof:parent_id":85823525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -86.505681,
+    36.001845,
+    -86.505681,
+    36.001845
+],
+  "geometry": {"coordinates":[-86.505681,36.001845],"type":"Point"}
+}

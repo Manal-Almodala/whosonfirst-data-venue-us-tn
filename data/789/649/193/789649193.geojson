@@ -1,0 +1,73 @@
+{
+  "id": 789649193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.629105,36.235881,-82.629105,36.235881",
+    "geom:latitude":36.235881,
+    "geom:longitude":-82.629105,
+    "iso:country":"US",
+    "sg:address":"105 Limestone Ruritan Rd",
+    "sg:city":"Limestone",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 257 8089",
+    "sg:postcode":"37681",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722753,
+        102086335,
+        85822827
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CGsUwKXURJumMKjzH0tGd_36.235881_-82.629105@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589449,
+    "wof:geomhash":"4ccfa7595ea847e8e12478151b77e14e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722753,
+            "neighbourhood_id":85822827,
+            "region_id":85688701,
+            "venue_id":789649193
+        }
+    ],
+    "wof:id":789649193,
+    "wof:lastmodified":1462589449,
+    "wof:name":"Limestone Medical Ctr",
+    "wof:parent_id":85822827,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.629105,
+    36.235881,
+    -82.629105,
+    36.235881
+],
+  "geometry": {"coordinates":[-82.629105,36.235881],"type":"Point"}
+}

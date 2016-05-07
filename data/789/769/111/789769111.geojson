@@ -1,0 +1,73 @@
+{
+  "id": 789769111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.42637,35.845155,-86.42637,35.845155",
+    "geom:latitude":35.845155,
+    "geom:longitude":-86.42637,
+    "iso:country":"US",
+    "sg:address":"2350 Old Fort Pkwy",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 898 8070",
+    "sg:postcode":"37129",
+    "sg:province":"TN",
+    "sg:tags":[
+        "state",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85821645
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fCDTHSuYQ3uGz4VBm7RVa_35.845155_-86.426370@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590396,
+    "wof:geomhash":"cd1227839bba522357e66477a4f35c21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85821645,
+            "region_id":85688701,
+            "venue_id":789769111
+        }
+    ],
+    "wof:id":789769111,
+    "wof:lastmodified":1462590396,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85821645,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "security"
+    ]
+},
+  "bbox": [
+    -86.42637,
+    35.845155,
+    -86.42637,
+    35.845155
+],
+  "geometry": {"coordinates":[-86.42637000000001,35.845155],"type":"Point"}
+}

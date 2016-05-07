@@ -1,0 +1,86 @@
+{
+  "id": 823245393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.655813,36.459849,-86.655813,36.459849",
+    "geom:latitude":36.459849,
+    "geom:longitude":-86.655813,
+    "iso:country":"US",
+    "sg:address":"532 Raymond Hirsch Pkwy",
+    "sg:city":"White House",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/white-house/73061-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 672 2229",
+    "sg:postcode":"37188",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722997,
+        102086357,
+        420541507,
+        420542223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m7Xd3IFIAoaHMR3OoWiGM_36.459849_-86.655813@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609250,
+    "wof:geomhash":"e22558042f8284aa869f47b14c7e748a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420541507,
+            "region_id":85688701,
+            "venue_id":823245393
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420542223,
+            "region_id":85688701,
+            "venue_id":823245393
+        }
+    ],
+    "wof:id":823245393,
+    "wof:lastmodified":1462609250,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -86.655813,
+    36.459849,
+    -86.655813,
+    36.459849
+],
+  "geometry": {"coordinates":[-86.65581299999999,36.459849],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807280107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.252883,36.586604,-82.252883,36.586604",
+    "geom:latitude":36.586604,
+    "geom:longitude":-82.252883,
+    "iso:country":"US",
+    "sg:address":"240 Medical Park Blvd",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 990 2113",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85825325,
+        102086471
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36hZAMH2eCCldiKi8CYzMQ_36.586604_-82.252883@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605647,
+    "wof:geomhash":"f8abe00bfc2c7b164d77148b4d5aa119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086471,
+            "neighbourhood_id":85825325,
+            "region_id":85688701,
+            "venue_id":807280107
+        }
+    ],
+    "wof:id":807280107,
+    "wof:lastmodified":1462605647,
+    "wof:name":"Cancer Outreach Assoc Of Tn",
+    "wof:parent_id":85825325,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -82.252883,
+    36.586604,
+    -82.252883,
+    36.586604
+],
+  "geometry": {"coordinates":[-82.252883,36.586604],"type":"Point"}
+}

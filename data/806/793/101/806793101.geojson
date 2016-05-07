@@ -1,0 +1,73 @@
+{
+  "id": 806793101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.100429,35.180829,-86.100429,35.180829",
+    "geom:latitude":35.180829,
+    "geom:longitude":-86.100429,
+    "iso:country":"US",
+    "sg:address":"851 S College St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 1234",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aG83FsLVFMnJ6BLcfCyDg_35.180829_-86.100429@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601128,
+    "wof:geomhash":"12b3b2320be01510be3ae33dbb2f8558",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":806793101
+        }
+    ],
+    "wof:id":806793101,
+    "wof:lastmodified":1462601128,
+    "wof:name":"Speedy Market Inc",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -86.100429,
+    35.180829,
+    -86.100429,
+    35.180829
+],
+  "geometry": {"coordinates":[-86.10042900000001,35.180829],"type":"Point"}
+}

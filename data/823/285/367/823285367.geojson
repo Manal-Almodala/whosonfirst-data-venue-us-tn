@@ -1,0 +1,80 @@
+{
+  "id": 823285367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.891159,35.114639,-89.891159,35.114639",
+    "geom:latitude":35.114639,
+    "geom:longitude":-89.891159,
+    "iso:country":"US",
+    "sg:address":"5101 Wheelis Dr Ste 110",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Natural Gas",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 685 3471",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission",
+        "transmissions-other"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cGfTmxhQKeX77nCIv0aNG_35.114639_-89.891159@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610526,
+    "wof:geomhash":"f4e1af302838868ff91448e32e35c99d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":823285367
+        }
+    ],
+    "wof:id":823285367,
+    "wof:lastmodified":1462610526,
+    "wof:name":"Texas Gas Transmission",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "transmissions-other"
+    ]
+},
+  "bbox": [
+    -89.891159,
+    35.114639,
+    -89.891159,
+    35.114639
+],
+  "geometry": {"coordinates":[-89.891159,35.114639],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 806681387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.015415,36.207922,-89.015415,36.207922",
+    "geom:latitude":36.207922,
+    "geom:longitude":-89.015415,
+    "iso:country":"US",
+    "sg:address":"530 N Poplar St",
+    "sg:city":"Kenton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 749 5333",
+    "sg:postcode":"38233",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20qHKYT2dSZdltLR1N9UR6_36.207922_-89.015415@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600181,
+    "wof:geomhash":"b2ab7040fd8197639c9ceb9e4e119d2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":806681387
+        }
+    ],
+    "wof:id":806681387,
+    "wof:lastmodified":1462600181,
+    "wof:name":"Dr's Auto Repair",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -89.015415,
+    36.207922,
+    -89.015415,
+    36.207922
+],
+  "geometry": {"coordinates":[-89.015415,36.207922],"type":"Point"}
+}

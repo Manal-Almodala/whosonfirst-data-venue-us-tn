@@ -1,0 +1,82 @@
+{
+  "id": 773825537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.022264,35.957743,-85.022264,35.957743",
+    "geom:latitude":35.957743,
+    "geom:longitude":-85.022264,
+    "iso:country":"US",
+    "sg:address":"33 Mountain Village Ln",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 8246",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809,
+        102191575,
+        85824095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kAMXJAVGlzAsZLewakZo0_35.957743_-85.022264@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588684,
+    "wof:geomhash":"083e530d350f4ca0f1eb8c8accf3a144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":773825537
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85824095,
+            "region_id":85688701,
+            "venue_id":773825537
+        }
+    ],
+    "wof:id":773825537,
+    "wof:lastmodified":1462588684,
+    "wof:name":"Mountain Village Apartments",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -85.022264,
+    35.957743,
+    -85.022264,
+    35.957743
+],
+  "geometry": {"coordinates":[-85.02226400000001,35.957743],"type":"Point"}
+}

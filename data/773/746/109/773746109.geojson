@@ -1,0 +1,73 @@
+{
+  "id": 773746109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.978492,36.003069,-83.978492,36.003069",
+    "geom:latitude":36.003069,
+    "geom:longitude":-83.978492,
+    "iso:country":"US",
+    "sg:address":"5009 Clinton Hwy",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 5000",
+    "sg:postcode":"37912",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85826965
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ifmqlTErbgljhkF73KQJM_36.003069_-83.978492@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462588070,
+    "wof:geomhash":"ecbf67f02ff8f55a71ccbba4bd849561",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85826965,
+            "region_id":85688701,
+            "venue_id":773746109
+        }
+    ],
+    "wof:id":773746109,
+    "wof:lastmodified":1462588070,
+    "wof:name":"Veterinary Medical Center",
+    "wof:parent_id":85826965,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -83.978492,
+    36.003069,
+    -83.978492,
+    36.003069
+],
+  "geometry": {"coordinates":[-83.978492,36.003069],"type":"Point"}
+}

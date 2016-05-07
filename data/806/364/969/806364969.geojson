@@ -1,0 +1,73 @@
+{
+  "id": 806364969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.425938,36.525422,-86.425938,36.525422",
+    "geom:latitude":36.525422,
+    "geom:longitude":-86.425938,
+    "iso:country":"US",
+    "sg:address":"2741 Dobbins Pike",
+    "sg:city":"Portland",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 888 2482",
+    "sg:postcode":"37148",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bpXbwgQnt7sy2dHPCEoac_36.525422_-86.425938@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597541,
+    "wof:geomhash":"4fd8fdeaaa93ce0c36243389e46202b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":806364969
+        }
+    ],
+    "wof:id":806364969,
+    "wof:lastmodified":1462597541,
+    "wof:name":"Reddick's Body Shop",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.425938,
+    36.525422,
+    -86.425938,
+    36.525422
+],
+  "geometry": {"coordinates":[-86.425938,36.525422],"type":"Point"}
+}

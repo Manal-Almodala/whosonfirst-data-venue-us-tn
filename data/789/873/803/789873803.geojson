@@ -1,0 +1,71 @@
+{
+  "id": 789873803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.110383,35.186902,-86.110383,35.186902",
+    "geom:latitude":35.186902,
+    "geom:longitude":-86.110383,
+    "iso:country":"US",
+    "sg:address":"100 S Porter St",
+    "sg:city":"Winchester",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 967 0424",
+    "sg:postcode":"37398",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722723,
+        102086227,
+        85805347
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WQUgcm7xCZ1501r9WLxyX_35.186902_-86.110383@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591215,
+    "wof:geomhash":"203a09761caa301b6a8d55e94253e843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086227,
+            "locality_id":101722723,
+            "neighbourhood_id":85805347,
+            "region_id":85688701,
+            "venue_id":789873803
+        }
+    ],
+    "wof:id":789873803,
+    "wof:lastmodified":1462591215,
+    "wof:name":"Kathy's Hair Dimensions",
+    "wof:parent_id":85805347,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -86.110383,
+    35.186902,
+    -86.110383,
+    35.186902
+],
+  "geometry": {"coordinates":[-86.110383,35.186902],"type":"Point"}
+}

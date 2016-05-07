@@ -1,0 +1,73 @@
+{
+  "id": 806553111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.574864,35.06023,-86.574864,35.06023",
+    "geom:latitude":35.06023,
+    "geom:longitude":-86.574864,
+    "iso:country":"US",
+    "sg:address":"5 Shoreline Dr",
+    "sg:city":"Fayetteville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 438 4550",
+    "sg:postcode":"37334",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722777,
+        102087119,
+        85868159
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eg3GG7hILM55E3lafw0G1_35.060230_-86.574864@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599057,
+    "wof:geomhash":"31df6cbc730597e9d950fa859a218616",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087119,
+            "locality_id":101722777,
+            "neighbourhood_id":85868159,
+            "region_id":85688701,
+            "venue_id":806553111
+        }
+    ],
+    "wof:id":806553111,
+    "wof:lastmodified":1462599057,
+    "wof:name":"Brian's Auto Repair",
+    "wof:parent_id":85868159,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.574864,
+    35.06023,
+    -86.574864,
+    35.06023
+],
+  "geometry": {"coordinates":[-86.57486400000001,35.06023],"type":"Point"}
+}

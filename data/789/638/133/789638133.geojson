@@ -1,0 +1,71 @@
+{
+  "id": 789638133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.687561,36.113464,-85.687561,36.113464",
+    "geom:latitude":36.113464,
+    "geom:longitude":-85.687561,
+    "iso:country":"US",
+    "sg:address":"11599 Old Baxter Rd",
+    "sg:city":"Silver Point",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 858 5165",
+    "sg:postcode":"38582",
+    "sg:province":"TN",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r4Iv7sHIzfyzQm4RO5GGu_36.113464_-85.687561@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589361,
+    "wof:geomhash":"069a5ccca79f7fe87697937e959b9ca6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":789638133
+        }
+    ],
+    "wof:id":789638133,
+    "wof:lastmodified":1462589361,
+    "wof:name":"Donny's I-40 Svc",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -85.687561,
+    36.113464,
+    -85.687561,
+    36.113464
+],
+  "geometry": {"coordinates":[-85.687561,36.113464],"type":"Point"}
+}

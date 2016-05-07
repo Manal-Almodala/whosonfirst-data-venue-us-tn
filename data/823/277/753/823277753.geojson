@@ -1,0 +1,77 @@
+{
+  "id": 823277753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.796621,35.446212,-89.796621,35.446212",
+    "geom:latitude":35.446212,
+    "geom:longitude":-89.796621,
+    "iso:country":"US",
+    "sg:address":"468 Munford Ave",
+    "sg:city":"Munford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 1900",
+    "sg:postcode":"38058",
+    "sg:province":"TN",
+    "sg:tags":[
+        "equipment-testing"
+    ],
+    "sg:website":"http://www.stemc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6scx1FROlsswUeHD3cnmTx_35.446212_-89.796621@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610216,
+    "wof:geomhash":"4f0909d2e50a18d4fdb16d14b5ec9e25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823277753
+        }
+    ],
+    "wof:id":823277753,
+    "wof:lastmodified":1462610216,
+    "wof:name":"Southwest Tennessee Electric Membership Corp",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-testing"
+    ]
+},
+  "bbox": [
+    -89.796621,
+    35.446212,
+    -89.796621,
+    35.446212
+],
+  "geometry": {"coordinates":[-89.796621,35.446212],"type":"Point"}
+}

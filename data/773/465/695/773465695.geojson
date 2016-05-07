@@ -1,0 +1,71 @@
+{
+  "id": 773465695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.428705,35.957995,-85.428705,35.957995",
+    "geom:latitude":35.957995,
+    "geom:longitude":-85.428705,
+    "iso:country":"US",
+    "sg:address":"805 Doran Rd",
+    "sg:city":"Sparta",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 738 9974",
+    "sg:postcode":"38583",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722911,
+        102086369,
+        85831481
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aQK3Oy8ncVM5oUIMBQq4A_35.957995_-85.428705@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585957,
+    "wof:geomhash":"1057cd9669cf16cba8ff8b3155c81406",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086369,
+            "locality_id":101722911,
+            "neighbourhood_id":85831481,
+            "region_id":85688701,
+            "venue_id":773465695
+        }
+    ],
+    "wof:id":773465695,
+    "wof:lastmodified":1462585957,
+    "wof:name":"Northeast Transmission",
+    "wof:parent_id":85831481,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -85.428705,
+    35.957995,
+    -85.428705,
+    35.957995
+],
+  "geometry": {"coordinates":[-85.42870499999999,35.957995],"type":"Point"}
+}

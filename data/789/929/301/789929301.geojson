@@ -1,0 +1,73 @@
+{
+  "id": 789929301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.543565,36.532399,-82.543565,36.532399",
+    "geom:latitude":36.532399,
+    "geom:longitude":-82.543565,
+    "iso:country":"US",
+    "sg:address":"1401 Lincoln St",
+    "sg:city":"Kingsport",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 245 1691",
+    "sg:postcode":"37660",
+    "sg:province":"TN",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722787,
+        102086471,
+        85818419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dUrWUZhWGgPnWVV3AkL50_36.532399_-82.543565@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591705,
+    "wof:geomhash":"183e5f6a249a3e7d03217497300be1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722787,
+            "neighbourhood_id":85818419,
+            "region_id":85688701,
+            "venue_id":789929301
+        }
+    ],
+    "wof:id":789929301,
+    "wof:lastmodified":1462591705,
+    "wof:name":"CSX Intermodal Inc",
+    "wof:parent_id":85818419,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -82.543565,
+    36.532399,
+    -82.543565,
+    36.532399
+],
+  "geometry": {"coordinates":[-82.543565,36.532399],"type":"Point"}
+}

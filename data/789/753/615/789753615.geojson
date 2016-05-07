@@ -1,0 +1,67 @@
+{
+  "id": 789753615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.329891,35.238165,-87.329891,35.238165",
+    "geom:latitude":35.238165,
+    "geom:longitude":-87.329891,
+    "iso:country":"US",
+    "sg:address":"176 College St",
+    "sg:city":"Elkton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 468 2285",
+    "sg:postcode":"38464",
+    "sg:province":"TN",
+    "sg:website":"www.giles-lea.giles.k12.tn.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722801,
+        102086349,
+        85805627
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bRGM78yPZwpXgePh3mx0G_35.238165_-87.329891@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590280,
+    "wof:geomhash":"8536701d2fa7c514d5548b7ed240db97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086349,
+            "locality_id":101722801,
+            "neighbourhood_id":85805627,
+            "region_id":85688701,
+            "venue_id":789753615
+        }
+    ],
+    "wof:id":789753615,
+    "wof:lastmodified":1462590280,
+    "wof:name":"Elkton Elementary School",
+    "wof:parent_id":85805627,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -87.329891,
+    35.238165,
+    -87.329891,
+    35.238165
+],
+  "geometry": {"coordinates":[-87.329891,35.238165],"type":"Point"}
+}

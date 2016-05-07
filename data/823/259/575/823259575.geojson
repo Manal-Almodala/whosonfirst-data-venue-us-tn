@@ -1,0 +1,74 @@
+{
+  "id": 823259575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.997901,35.751266,-83.997901,35.751266",
+    "geom:latitude":35.751266,
+    "geom:longitude":-83.997901,
+    "iso:country":"US",
+    "sg:address":"804 Foothills Mall Dr",
+    "sg:city":"Maryville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/maryville-alcoa/73128-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 984 3000",
+    "sg:postcode":"37801",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722701,
+        102087017,
+        85851593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05GNAJsSNoRJKs5VKMqwYp_35.750873_-83.998651@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609544,
+    "wof:geomhash":"fb3f8f8530a4eb23c9139f21c240d828",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85851593,
+            "region_id":85688701,
+            "venue_id":823259575
+        }
+    ],
+    "wof:id":823259575,
+    "wof:lastmodified":1462609544,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85851593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -83.997901,
+    35.751266,
+    -83.997901,
+    35.751266
+],
+  "geometry": {"coordinates":[-83.997901,35.751266],"type":"Point"}
+}

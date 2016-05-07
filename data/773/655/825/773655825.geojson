@@ -1,0 +1,83 @@
+{
+  "id": 773655825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.284219,35.027615,-85.284219,35.027615",
+    "geom:latitude":35.027615,
+    "geom:longitude":-85.284219,
+    "iso:country":"US",
+    "sg:address":"1515 E Main St",
+    "sg:city":"Chattanooga",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 629 2933",
+    "sg:postcode":"37404",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723043,
+        102087185,
+        85876733,
+        85876735
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Q4kwzV8XelvrpoGXEsqUz_35.027615_-85.284219@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587365,
+    "wof:geomhash":"59401b5c88653baba1df6b3b3e4b7223",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876733,
+            "region_id":85688701,
+            "venue_id":773655825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087185,
+            "locality_id":101723043,
+            "neighbourhood_id":85876735,
+            "region_id":85688701,
+            "venue_id":773655825
+        }
+    ],
+    "wof:id":773655825,
+    "wof:lastmodified":1462587365,
+    "wof:name":"Scenic City Cleaning Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -85.284219,
+    35.027615,
+    -85.284219,
+    35.027615
+],
+  "geometry": {"coordinates":[-85.28421899999999,35.027615],"type":"Point"}
+}

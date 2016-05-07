@@ -1,0 +1,80 @@
+{
+  "id": 806879023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.89531,35.108945,-89.89531,35.108945",
+    "geom:latitude":35.108945,
+    "geom:longitude":-89.89531,
+    "iso:country":"US",
+    "sg:address":"758 Mount Moriah Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 682 3569",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocery",
+        "oriental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2F3dnbbzduHa8vI4F5UinM_35.108945_-89.895310@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601847,
+    "wof:geomhash":"7730f08b7100a46f13158810e66d6293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":806879023
+        }
+    ],
+    "wof:id":806879023,
+    "wof:lastmodified":1462601847,
+    "wof:name":"Sam's Oriental Grocery",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocery",
+        "oriental"
+    ]
+},
+  "bbox": [
+    -89.89531,
+    35.108945,
+    -89.89531,
+    35.108945
+],
+  "geometry": {"coordinates":[-89.89530999999999,35.108945],"type":"Point"}
+}

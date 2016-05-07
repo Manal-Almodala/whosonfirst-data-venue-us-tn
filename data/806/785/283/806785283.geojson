@@ -1,0 +1,71 @@
+{
+  "id": 806785283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.209415,36.022328,-84.209415,36.022328",
+    "geom:latitude":36.022328,
+    "geom:longitude":-84.209415,
+    "iso:country":"US",
+    "sg:address":"123 Blue Ridge Ct",
+    "sg:city":"Oak Ridge",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 481 0229",
+    "sg:postcode":"37830",
+    "sg:province":"TN",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722567,
+        102086483,
+        85818065
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CWxaMpyaCDilFY95AYuX7_36.022328_-84.209415@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462601063,
+    "wof:geomhash":"8c02b5ed2f297591a146562b4954fc0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086483,
+            "locality_id":101722567,
+            "neighbourhood_id":85818065,
+            "region_id":85688701,
+            "venue_id":806785283
+        }
+    ],
+    "wof:id":806785283,
+    "wof:lastmodified":1462601063,
+    "wof:name":"Lanes Homestyle Laundry",
+    "wof:parent_id":85818065,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -84.209415,
+    36.022328,
+    -84.209415,
+    36.022328
+],
+  "geometry": {"coordinates":[-84.20941500000001,36.022328],"type":"Point"}
+}

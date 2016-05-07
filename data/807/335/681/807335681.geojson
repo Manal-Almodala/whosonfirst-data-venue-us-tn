@@ -1,0 +1,73 @@
+{
+  "id": 807335681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.64783,35.564674,-89.64783,35.564674",
+    "geom:latitude":35.564674,
+    "geom:longitude":-89.64783,
+    "iso:country":"US",
+    "sg:address":"110 W Liberty Ave",
+    "sg:city":"Covington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 476 4730",
+    "sg:postcode":"38019",
+    "sg:province":"TN",
+    "sg:tags":[
+        "lock",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21TCrZhhY3V5plqz5B6cTT_35.564674_-89.647830@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606280,
+    "wof:geomhash":"361bb2208e84a90392e16497816f8a36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":807335681
+        }
+    ],
+    "wof:id":807335681,
+    "wof:lastmodified":1462606280,
+    "wof:name":"ABC Locksmith Svc",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -89.64783,
+    35.564674,
+    -89.64783,
+    35.564674
+],
+  "geometry": {"coordinates":[-89.64783,35.564674],"type":"Point"}
+}

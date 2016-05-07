@@ -1,0 +1,80 @@
+{
+  "id": 823277501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.840626,35.396317,-89.840626,35.396317",
+    "geom:latitude":35.396317,
+    "geom:longitude":-89.840626,
+    "iso:country":"US",
+    "sg:address":"120 Robin Hood Cir",
+    "sg:city":"Millington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 837 8387",
+    "sg:postcode":"38053",
+    "sg:province":"TN",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723145,
+        102086277,
+        85812563
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2P5zQNhRk3Fnq8LRtCemHU_35.396317_-89.840626@1303262740"
+    },
+    "wof:country":"US",
+    "wof:created":1462610207,
+    "wof:geomhash":"31d52953137adb1d396e8724c0340e27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086277,
+            "locality_id":101723145,
+            "neighbourhood_id":85812563,
+            "region_id":85688701,
+            "venue_id":823277501
+        }
+    ],
+    "wof:id":823277501,
+    "wof:lastmodified":1462610207,
+    "wof:name":"Twin Circle Trailer Park",
+    "wof:parent_id":85812563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities",
+        "park"
+    ]
+},
+  "bbox": [
+    -89.840626,
+    35.396317,
+    -89.840626,
+    35.396317
+],
+  "geometry": {"coordinates":[-89.840626,35.396317],"type":"Point"}
+}

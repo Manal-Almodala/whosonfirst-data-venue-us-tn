@@ -1,0 +1,87 @@
+{
+  "id": 790497023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.349101,36.501266,-87.349101,36.501266",
+    "geom:latitude":36.501266,
+    "geom:longitude":-87.349101,
+    "iso:country":"US",
+    "sg:address":"233 Edmondson Ferry Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 647 6232",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722759,
+        102086353,
+        85809463,
+        85813201
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Hz8Z2SoxiqEuCvBN3GaFT_36.501266_-87.349101@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596346,
+    "wof:geomhash":"a3fc77a7f77831a925c4b145d4e9739b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85809463,
+            "region_id":85688701,
+            "venue_id":790497023
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85813201,
+            "region_id":85688701,
+            "venue_id":790497023
+        }
+    ],
+    "wof:id":790497023,
+    "wof:lastmodified":1462596346,
+    "wof:name":"Landers Trucking",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -87.349101,
+    36.501266,
+    -87.349101,
+    36.501266
+],
+  "geometry": {"coordinates":[-87.349101,36.501266],"type":"Point"}
+}

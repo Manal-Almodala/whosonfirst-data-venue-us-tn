@@ -1,0 +1,71 @@
+{
+  "id": 789892003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.184823,35.554731,-87.184823,35.554731",
+    "geom:latitude":35.554731,
+    "geom:longitude":-87.184823,
+    "iso:country":"US",
+    "sg:address":"1158 N Main St",
+    "sg:city":"Mt Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 0361",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LcBA5eVhUPXlKPywh7Ynl_35.554731_-87.184823@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591384,
+    "wof:geomhash":"d2dac29ddda750a18d3a34b441f373e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":789892003
+        }
+    ],
+    "wof:id":789892003,
+    "wof:lastmodified":1462591384,
+    "wof:name":"Mt Pleasant Fire Chief",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -87.184823,
+    35.554731,
+    -87.184823,
+    35.554731
+],
+  "geometry": {"coordinates":[-87.18482299999999,35.554731],"type":"Point"}
+}

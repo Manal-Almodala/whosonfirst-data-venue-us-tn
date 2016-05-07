@@ -1,0 +1,73 @@
+{
+  "id": 807110825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.29451,36.192009,-86.29451,36.192009",
+    "geom:latitude":36.192009,
+    "geom:longitude":-86.29451,
+    "iso:country":"US",
+    "sg:address":"610 S Cumberland St",
+    "sg:city":"Lebanon",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 444 8755",
+    "sg:postcode":"37087",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723075,
+        102087205,
+        85855429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZGvJH043Mzd06WHwCRESb_36.192009_-86.294510@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603841,
+    "wof:geomhash":"0246c0bacdd366e622711074a88ba5de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "locality_id":101723075,
+            "neighbourhood_id":85855429,
+            "region_id":85688701,
+            "venue_id":807110825
+        }
+    ],
+    "wof:id":807110825,
+    "wof:lastmodified":1462603841,
+    "wof:name":"Tennessee Private Storage",
+    "wof:parent_id":85855429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -86.29451,
+    36.192009,
+    -86.29451,
+    36.192009
+],
+  "geometry": {"coordinates":[-86.29451,36.192009],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 807342765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.168416,36.639689,-87.168416,36.639689",
+    "geom:latitude":36.639689,
+    "geom:longitude":-87.168416,
+    "iso:country":"US",
+    "sg:address":"5130 Guthrie Rd",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 485 2076",
+    "sg:postcode":"37043",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722759,
+        102086353,
+        85805425
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JxVj3QtPkkrW5fzjRNnV9_36.639689_-87.168416@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606386,
+    "wof:geomhash":"c5571d086e8f8814eb2ba5f8e71e8087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "locality_id":101722759,
+            "neighbourhood_id":85805425,
+            "region_id":85688701,
+            "venue_id":807342765
+        }
+    ],
+    "wof:id":807342765,
+    "wof:lastmodified":1462606386,
+    "wof:name":"Miller's Market",
+    "wof:parent_id":85805425,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -87.168416,
+    36.639689,
+    -87.168416,
+    36.639689
+],
+  "geometry": {"coordinates":[-87.16841599999999,36.639689],"type":"Point"}
+}

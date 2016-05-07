@@ -1,0 +1,71 @@
+{
+  "id": 773453615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.354944,35.839826,-86.354944,35.839826",
+    "geom:latitude":35.839826,
+    "geom:longitude":-86.354944,
+    "iso:country":"US",
+    "sg:address":"215 Arnette St",
+    "sg:city":"Murfreesboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 896 1551",
+    "sg:postcode":"37130",
+    "sg:province":"TN",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723111,
+        102086355,
+        85833237
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mSnxRVLCZu5repOHGmnZm_35.839826_-86.354944@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585866,
+    "wof:geomhash":"b039c9893f06ec6473e1e8cb4b6b7fd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086355,
+            "locality_id":101723111,
+            "neighbourhood_id":85833237,
+            "region_id":85688701,
+            "venue_id":773453615
+        }
+    ],
+    "wof:id":773453615,
+    "wof:lastmodified":1462585866,
+    "wof:name":"Bill Harrell",
+    "wof:parent_id":85833237,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -86.354944,
+    35.839826,
+    -86.354944,
+    35.839826
+],
+  "geometry": {"coordinates":[-86.354944,35.839826],"type":"Point"}
+}

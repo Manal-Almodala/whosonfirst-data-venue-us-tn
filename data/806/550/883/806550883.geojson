@@ -1,0 +1,83 @@
+{
+  "id": 806550883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.639068,36.061313,-86.639068,36.061313",
+    "geom:latitude":36.061313,
+    "geom:longitude":-86.639068,
+    "iso:country":"US",
+    "sg:address":"630 Bell Rd",
+    "sg:city":"Antioch",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 397 5712",
+    "sg:postcode":"37013",
+    "sg:province":"TN",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85846409,
+        420541523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69kmjbZkUrD3ndFg3lsik2_36.061313_-86.639068@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599041,
+    "wof:geomhash":"2c27e60dd38999de5f190da26ddff1e9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85846409,
+            "region_id":85688701,
+            "venue_id":806550883
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":420541523,
+            "region_id":85688701,
+            "venue_id":806550883
+        }
+    ],
+    "wof:id":806550883,
+    "wof:lastmodified":1462599041,
+    "wof:name":"Just Clean Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -86.639068,
+    36.061313,
+    -86.639068,
+    36.061313
+],
+  "geometry": {"coordinates":[-86.63906799999999,36.061313],"type":"Point"}
+}

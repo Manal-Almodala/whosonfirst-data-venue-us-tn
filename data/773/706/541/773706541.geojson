@@ -1,0 +1,73 @@
+{
+  "id": 773706541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.836693,35.227949,-89.836693,35.227949",
+    "geom:latitude":35.227949,
+    "geom:longitude":-89.836693,
+    "iso:country":"US",
+    "sg:address":"3743 Oakmoor Cir E",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 384 3778",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2W4z2a7uZG6Edds14IqBS1_35.227949_-89.836693@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587769,
+    "wof:geomhash":"d4637c9393f80a6a39cc484d6e1eb681",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":773706541
+        }
+    ],
+    "wof:id":773706541,
+    "wof:lastmodified":1462587769,
+    "wof:name":"Hopper Electric",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -89.836693,
+    35.227949,
+    -89.836693,
+    35.227949
+],
+  "geometry": {"coordinates":[-89.836693,35.227949],"type":"Point"}
+}

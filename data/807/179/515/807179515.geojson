@@ -1,0 +1,75 @@
+{
+  "id": 807179515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.869726,36.14687,-86.869726,36.14687",
+    "geom:latitude":36.14687,
+    "geom:longitude":-86.869726,
+    "iso:country":"US",
+    "sg:address":"6215 Charlotte Pike",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 353 6953",
+    "sg:postcode":"37209",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85855987
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rhQnH56EyvKapdCZPQx3N_36.146870_-86.869726@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462604580,
+    "wof:geomhash":"c984c03535c4ed55ef0d0027920e6d2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85855987,
+            "region_id":85688701,
+            "venue_id":807179515
+        }
+    ],
+    "wof:id":807179515,
+    "wof:lastmodified":1462604580,
+    "wof:name":"Mark's Automotive Svc",
+    "wof:parent_id":85855987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -86.869726,
+    36.14687,
+    -86.869726,
+    36.14687
+],
+  "geometry": {"coordinates":[-86.869726,36.14687],"type":"Point"}
+}

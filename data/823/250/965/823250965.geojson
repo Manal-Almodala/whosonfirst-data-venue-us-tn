@@ -1,0 +1,74 @@
+{
+  "id": 823250965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.268314,36.220274,-83.268314,36.220274",
+    "geom:latitude":36.220274,
+    "geom:longitude":-83.268314,
+    "iso:country":"US",
+    "sg:address":"1941 E Morris Blvd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/morristown/166327-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 587 5973",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bBm5UEH4yXuXPZtD7ZRvO_36.220274_-83.268314@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609353,
+    "wof:geomhash":"41b69ce9f1e434fb4b40cf910a2a013e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":823250965
+        }
+    ],
+    "wof:id":823250965,
+    "wof:lastmodified":1462609353,
+    "wof:name":"Arby's",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.268314,
+    36.220274,
+    -83.268314,
+    36.220274
+],
+  "geometry": {"coordinates":[-83.268314,36.220274],"type":"Point"}
+}

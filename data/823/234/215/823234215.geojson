@@ -1,0 +1,83 @@
+{
+  "id": 823234215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.803658,36.15588,-86.803658,36.15588",
+    "geom:latitude":36.15588,
+    "geom:longitude":-86.803658,
+    "iso:country":"US",
+    "sg:address":"2018 Murphy Ave",
+    "sg:city":"Nashville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 320 7387",
+    "sg:postcode":"37203",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratories-medical",
+        "dental",
+        "imaging",
+        "resonance",
+        "magnetic",
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723183,
+        102087061,
+        85893455
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4faIvPpSygCejoQ8G9nNly_36.155595_-86.804251@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1462609037,
+    "wof:geomhash":"3620ab3a2ebbb420d56d2dcca68f3127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85893455,
+            "region_id":85688701,
+            "venue_id":823234215
+        }
+    ],
+    "wof:id":823234215,
+    "wof:lastmodified":1462609037,
+    "wof:name":"Tennessee Oncology Imaging Ctr",
+    "wof:parent_id":85893455,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-medical",
+        "dental",
+        "imaging",
+        "resonance",
+        "magnetic",
+        "x-ray"
+    ]
+},
+  "bbox": [
+    -86.803658,
+    36.15588,
+    -86.803658,
+    36.15588
+],
+  "geometry": {"coordinates":[-86.803658,36.15588],"type":"Point"}
+}

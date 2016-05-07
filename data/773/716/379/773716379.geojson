@@ -1,0 +1,83 @@
+{
+  "id": 773716379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.693029,36.416721,-86.693029,36.416721",
+    "geom:latitude":36.416721,
+    "geom:longitude":-86.693029,
+    "iso:country":"US",
+    "sg:address":"1069 Jackson Heights Rd",
+    "sg:city":"Goodlettsville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 672 0675",
+    "sg:postcode":"37072",
+    "sg:province":"TN",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722997,
+        102086357,
+        420541507,
+        420542223
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eGBXqFW2FoT4qP8dpUkaH_36.416721_-86.693029@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587846,
+    "wof:geomhash":"3c94616e71e5e2e298c549f3e9bf2dc9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420541507,
+            "region_id":85688701,
+            "venue_id":773716379
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101722997,
+            "neighbourhood_id":420542223,
+            "region_id":85688701,
+            "venue_id":773716379
+        }
+    ],
+    "wof:id":773716379,
+    "wof:lastmodified":1462587846,
+    "wof:name":"Wash Go",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -86.693029,
+    36.416721,
+    -86.693029,
+    36.416721
+],
+  "geometry": {"coordinates":[-86.693029,36.416721],"type":"Point"}
+}

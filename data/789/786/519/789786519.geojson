@@ -1,0 +1,73 @@
+{
+  "id": 789786519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.585639,36.213243,-85.585639,36.213243",
+    "geom:latitude":36.213243,
+    "geom:longitude":-85.585639,
+    "iso:country":"US",
+    "sg:address":"4050 Cumby Rd",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 528 2738",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eBchJSlmc75NlueH5PB8o_36.213243_-85.585639@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590538,
+    "wof:geomhash":"d173d8788fafd9c592ee685ac4583c97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":789786519
+        }
+    ],
+    "wof:id":789786519,
+    "wof:lastmodified":1462590538,
+    "wof:name":"Stewart Dental Lab",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -85.585639,
+    36.213243,
+    -85.585639,
+    36.213243
+],
+  "geometry": {"coordinates":[-85.585639,36.213243],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 806386417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.087526,35.502174,-86.087526,35.502174",
+    "geom:latitude":35.502174,
+    "geom:longitude":-86.087526,
+    "iso:country":"US",
+    "sg:address":"122 Paradise St",
+    "sg:city":"Manchester",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 723 4082",
+    "sg:postcode":"37355",
+    "sg:province":"TN",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722835,
+        102087095,
+        85821997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74gscEW9MmN87EIghDOpIi_35.502174_-86.087526@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597728,
+    "wof:geomhash":"9e77a1b4085f7836c32e680ae36ad2ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087095,
+            "locality_id":101722835,
+            "neighbourhood_id":85821997,
+            "region_id":85688701,
+            "venue_id":806386417
+        }
+    ],
+    "wof:id":806386417,
+    "wof:lastmodified":1462597728,
+    "wof:name":"Med Stat EMS",
+    "wof:parent_id":85821997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -86.087526,
+    35.502174,
+    -86.087526,
+    35.502174
+],
+  "geometry": {"coordinates":[-86.087526,35.502174],"type":"Point"}
+}

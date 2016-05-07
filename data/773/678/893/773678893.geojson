@@ -1,0 +1,71 @@
+{
+  "id": 773678893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.304899,36.211593,-83.304899,36.211593",
+    "geom:latitude":36.211593,
+    "geom:longitude":-83.304899,
+    "iso:country":"US",
+    "sg:address":"921 W 4th North St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 2500",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wMZkmB7HDg4IpE1nXyXwc_36.211593_-83.304899@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462587531,
+    "wof:geomhash":"38d7211cba127bb37ad9023dedb62522",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":773678893
+        }
+    ],
+    "wof:id":773678893,
+    "wof:lastmodified":1462587531,
+    "wof:name":"Mcfarland Medical",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -83.304899,
+    36.211593,
+    -83.304899,
+    36.211593
+],
+  "geometry": {"coordinates":[-83.30489900000001,36.211593],"type":"Point"}
+}

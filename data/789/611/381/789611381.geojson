@@ -1,0 +1,78 @@
+{
+  "id": 789611381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.9964,35.955064,-84.9964,35.955064",
+    "geom:latitude":35.955064,
+    "geom:longitude":-84.9964,
+    "iso:country":"US",
+    "sg:address":"1720 State Hwy 101",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 707 5299",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85813779,
+        102086961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UbdLujpeJR2K6FPUX5xrx_35.955064_-84.996400@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589147,
+    "wof:geomhash":"d874e8d5f7ad120eaa788bf14e7bad44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "neighbourhood_id":85813779,
+            "region_id":85688701,
+            "venue_id":789611381
+        }
+    ],
+    "wof:id":789611381,
+    "wof:lastmodified":1462589147,
+    "wof:name":"Gambro Healthcare Inc",
+    "wof:parent_id":85813779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -84.9964,
+    35.955064,
+    -84.9964,
+    35.955064
+],
+  "geometry": {"coordinates":[-84.99639999999999,35.955064],"type":"Point"}
+}

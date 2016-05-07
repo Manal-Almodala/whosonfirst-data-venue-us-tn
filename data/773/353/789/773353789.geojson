@@ -1,0 +1,80 @@
+{
+  "id": 773353789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.021002,35.94266,-85.021002,35.94266",
+    "geom:latitude":35.94266,
+    "geom:longitude":-85.021002,
+    "iso:country":"US",
+    "sg:address":"44 Hayes St",
+    "sg:city":"Crossville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 484 4055",
+    "sg:postcode":"38555",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723119,
+        102086961,
+        85831809
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IemlBODPWGWoQGcYzDzQp_35.942660_-85.021002@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585077,
+    "wof:geomhash":"65571ce85aaf180e6430107a02d0719b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086961,
+            "locality_id":101723119,
+            "neighbourhood_id":85831809,
+            "region_id":85688701,
+            "venue_id":773353789
+        }
+    ],
+    "wof:id":773353789,
+    "wof:lastmodified":1462585077,
+    "wof:name":"Senior Perspectives",
+    "wof:parent_id":85831809,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -85.021002,
+    35.94266,
+    -85.021002,
+    35.94266
+],
+  "geometry": {"coordinates":[-85.021002,35.94266],"type":"Point"}
+}

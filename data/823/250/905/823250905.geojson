@@ -1,0 +1,86 @@
+{
+  "id": 823250905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.951184,35.755184,-83.951184,35.755184",
+    "geom:latitude":35.755184,
+    "geom:longitude":-83.951184,
+    "iso:country":"US",
+    "sg:address":"1523 E Lamar Alexander Pkwy",
+    "sg:city":"Maryville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/maryville-alcoa/191791-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 681 9009",
+    "sg:postcode":"37804",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722701,
+        102087017,
+        85838943,
+        85825587
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kmgn2QdDtpCKJXIYQFL2w_35.755184_-83.951184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609352,
+    "wof:geomhash":"3f0b47f0314296b9e267b2679ab467e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85838943,
+            "region_id":85688701,
+            "venue_id":823250905
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087017,
+            "locality_id":101722701,
+            "neighbourhood_id":85825587,
+            "region_id":85688701,
+            "venue_id":823250905
+        }
+    ],
+    "wof:id":823250905,
+    "wof:lastmodified":1462609352,
+    "wof:name":"Sonic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -83.951184,
+    35.755184,
+    -83.951184,
+    35.755184
+],
+  "geometry": {"coordinates":[-83.951184,35.755184],"type":"Point"}
+}

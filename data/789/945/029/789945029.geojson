@@ -1,0 +1,80 @@
+{
+  "id": 789945029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.895348,35.195471,-89.895348,35.195471",
+    "geom:latitude":35.195471,
+    "geom:longitude":-89.895348,
+    "iso:country":"US",
+    "sg:address":"2564 Covington Pike",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 373 5355",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "local",
+        "mover",
+        "storage",
+        "trucking"
+    ],
+    "sg:website":"www.applemove.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CwiOmh8etkQr12phASCoh_35.195471_-89.895348@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591839,
+    "wof:geomhash":"cb58f86ea285fbab9c0ad19f9937952a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789945029
+        }
+    ],
+    "wof:id":789945029,
+    "wof:lastmodified":1462591839,
+    "wof:name":"Apple Moving Co",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "mover",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -89.895348,
+    35.195471,
+    -89.895348,
+    35.195471
+],
+  "geometry": {"coordinates":[-89.895348,35.195471],"type":"Point"}
+}

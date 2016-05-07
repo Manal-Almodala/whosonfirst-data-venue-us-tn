@@ -1,0 +1,73 @@
+{
+  "id": 789707645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.667587,36.539478,-82.667587,36.539478",
+    "geom:latitude":36.539478,
+    "geom:longitude":-82.667587,
+    "iso:country":"US",
+    "sg:address":"128 Inca Dr",
+    "sg:city":"Mt Carmel",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 357 1505",
+    "sg:postcode":"37645",
+    "sg:province":"TN",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722787,
+        102087101,
+        85802727
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fgsJdqdxQAeoWmSNayMgB_36.539478_-82.667587@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589912,
+    "wof:geomhash":"c9dbfe3f5bde5cc68914563027d48166",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087101,
+            "locality_id":101722787,
+            "neighbourhood_id":85802727,
+            "region_id":85688701,
+            "venue_id":789707645
+        }
+    ],
+    "wof:id":789707645,
+    "wof:lastmodified":1462589912,
+    "wof:name":"Corner Storage",
+    "wof:parent_id":85802727,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -82.667587,
+    36.539478,
+    -82.667587,
+    36.539478
+],
+  "geometry": {"coordinates":[-82.667587,36.539478],"type":"Point"}
+}

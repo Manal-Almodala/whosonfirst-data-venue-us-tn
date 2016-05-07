@@ -1,0 +1,73 @@
+{
+  "id": 773269693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.18909,35.55267,-87.18909,35.55267",
+    "geom:latitude":35.55267,
+    "geom:longitude":-87.18909,
+    "iso:country":"US",
+    "sg:address":"1156 N Main St",
+    "sg:city":"Mt Pleasant",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 379 3831",
+    "sg:postcode":"38474",
+    "sg:province":"TN",
+    "sg:tags":[
+        "veterinarian",
+        "animal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723079,
+        102087107,
+        85844095
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uyYdaGVvqz7bH3g7nRWnZ_35.552670_-87.189090@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584440,
+    "wof:geomhash":"700c101ce2abda01d0f5fcc2235e9fa7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087107,
+            "locality_id":101723079,
+            "neighbourhood_id":85844095,
+            "region_id":85688701,
+            "venue_id":773269693
+        }
+    ],
+    "wof:id":773269693,
+    "wof:lastmodified":1462584440,
+    "wof:name":"Mount Pleasant Animal Hospital",
+    "wof:parent_id":85844095,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "animal"
+    ]
+},
+  "bbox": [
+    -87.18909,
+    35.55267,
+    -87.18909,
+    35.55267
+],
+  "geometry": {"coordinates":[-87.18908999999999,35.55267],"type":"Point"}
+}

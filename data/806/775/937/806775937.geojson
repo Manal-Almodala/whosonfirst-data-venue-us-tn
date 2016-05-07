@@ -1,0 +1,75 @@
+{
+  "id": 806775937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.056691,36.417155,-89.056691,36.417155",
+    "geom:latitude":36.417155,
+    "geom:longitude":-89.056691,
+    "iso:country":"US",
+    "sg:address":"215 E Jackson St",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 5301",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "transmission",
+        "au",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aZVYbaETQsNvkmsJIMS2N_36.417155_-89.056691@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600983,
+    "wof:geomhash":"ea086a27470759de9fc16a16d4a64250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":806775937
+        }
+    ],
+    "wof:id":806775937,
+    "wof:lastmodified":1462600983,
+    "wof:name":"Mid Town Transmission",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "au",
+        "supply"
+    ]
+},
+  "bbox": [
+    -89.056691,
+    36.417155,
+    -89.056691,
+    36.417155
+],
+  "geometry": {"coordinates":[-89.056691,36.417155],"type":"Point"}
+}

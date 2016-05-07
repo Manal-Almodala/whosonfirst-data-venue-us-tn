@@ -1,0 +1,74 @@
+{
+  "id": 823255735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.914871,35.21541,-89.914871,35.21541",
+    "geom:latitude":35.21541,
+    "geom:longitude":-89.914871,
+    "iso:country":"US",
+    "sg:address":"3288 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/memphis/32011-back-yard-burgers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 387 1000",
+    "sg:postcode":"38128",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PWr2XJpKj4QFMUZLHKtty_35.215410_-89.914871@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609454,
+    "wof:geomhash":"96c2f0ffcea11ecd11a18bdf8c1c266c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":823255735
+        }
+    ],
+    "wof:id":823255735,
+    "wof:lastmodified":1462609454,
+    "wof:name":"Back Yard Burgers",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -89.914871,
+    35.21541,
+    -89.914871,
+    35.21541
+],
+  "geometry": {"coordinates":[-89.91487100000001,35.21541],"type":"Point"}
+}

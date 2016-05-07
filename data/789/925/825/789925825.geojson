@@ -1,0 +1,71 @@
+{
+  "id": 789925825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.525409,36.24931,-86.525409,36.24931",
+    "geom:latitude":36.24931,
+    "geom:longitude":-86.525409,
+    "iso:country":"US",
+    "sg:address":"289 Spring Hill Rd",
+    "sg:city":"Mount Juliet",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 773 6064",
+    "sg:postcode":"37122",
+    "sg:province":"TN",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85826879,
+        102087205
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sFd10XXOchNVvNrb8qobn_36.249310_-86.525409@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591673,
+    "wof:geomhash":"a628b4a8c42558b6f02411c68b2495a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087205,
+            "neighbourhood_id":85826879,
+            "region_id":85688701,
+            "venue_id":789925825
+        }
+    ],
+    "wof:id":789925825,
+    "wof:lastmodified":1462591673,
+    "wof:name":"Express 2000 Intermodal",
+    "wof:parent_id":85826879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -86.525409,
+    36.24931,
+    -86.525409,
+    36.24931
+],
+  "geometry": {"coordinates":[-86.525409,36.24931],"type":"Point"}
+}

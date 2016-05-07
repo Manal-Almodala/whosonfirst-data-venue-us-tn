@@ -1,0 +1,86 @@
+{
+  "id": 823259281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.20819,36.562437,-82.20819,36.562437",
+    "geom:latitude":36.562437,
+    "geom:longitude":-82.20819,
+    "iso:country":"US",
+    "sg:address":"1313 Volunteer Pkwy",
+    "sg:city":"Bristol",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/bristol/154880-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 968 9265",
+    "sg:postcode":"37620",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722903,
+        102086471,
+        420558635,
+        85815249
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U1uFQhYOXX1yFqcRwFfxU_36.562889_-82.208369@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462609538,
+    "wof:geomhash":"00422119a1ac4f838e34d7b0284fc57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":420558635,
+            "region_id":85688701,
+            "venue_id":823259281
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086471,
+            "locality_id":101722903,
+            "neighbourhood_id":85815249,
+            "region_id":85688701,
+            "venue_id":823259281
+        }
+    ],
+    "wof:id":823259281,
+    "wof:lastmodified":1462609538,
+    "wof:name":"Hardee's",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.20819,
+    36.562437,
+    -82.20819,
+    36.562437
+],
+  "geometry": {"coordinates":[-82.20819,36.562437],"type":"Point"}
+}

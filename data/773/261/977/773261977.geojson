@@ -1,0 +1,78 @@
+{
+  "id": 773261977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.899565,35.023997,-89.899565,35.023997",
+    "geom:latitude":35.023997,
+    "geom:longitude":-89.899565,
+    "iso:country":"US",
+    "sg:address":"4913 Miller Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 433 7460",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870783,
+        85870785
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ERk8g71pyLn4Bz4ZjVJlS_35.023997_-89.899565@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462584376,
+    "wof:geomhash":"673a5e284b367ccc6222b3a8c77c5881",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870783,
+            "region_id":85688701,
+            "venue_id":773261977
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870785,
+            "region_id":85688701,
+            "venue_id":773261977
+        }
+    ],
+    "wof:id":773261977,
+    "wof:lastmodified":1462584376,
+    "wof:name":"Burlington Northern Rairoad",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -89.899565,
+    35.023997,
+    -89.899565,
+    35.023997
+],
+  "geometry": {"coordinates":[-89.899565,35.023997],"type":"Point"}
+}

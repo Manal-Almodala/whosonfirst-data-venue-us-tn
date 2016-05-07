@@ -1,0 +1,80 @@
+{
+  "id": 789709567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.362205,36.191664,-83.362205,36.191664",
+    "geom:latitude":36.191664,
+    "geom:longitude":-83.362205,
+    "iso:country":"US",
+    "sg:address":"4871 W Andrew Johnson Hwy",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 585 5645",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722571,
+        102086447,
+        420541593
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mYJxMOa3uzV6YWekEkAgL_36.191664_-83.362205@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589931,
+    "wof:geomhash":"10e5ffde672de7e452da011e25ae5f2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":420541593,
+            "region_id":85688701,
+            "venue_id":789709567
+        }
+    ],
+    "wof:id":789709567,
+    "wof:lastmodified":1462589931,
+    "wof:name":"Enterprise Rent A Car",
+    "wof:parent_id":420541593,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -83.362205,
+    36.191664,
+    -83.362205,
+    36.191664
+],
+  "geometry": {"coordinates":[-83.362205,36.191664],"type":"Point"}
+}

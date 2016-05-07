@@ -1,0 +1,71 @@
+{
+  "id": 807078133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.01235,35.494894,-85.01235,35.494894",
+    "geom:latitude":35.494894,
+    "geom:longitude":-85.01235,
+    "iso:country":"US",
+    "sg:address":"1475 Market St",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 7818",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "sheriff"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VV4agtDQl50dm2VoNxtkM_35.494894_-85.012350@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462603518,
+    "wof:geomhash":"4f11c6582589c5e952c3cf1c99e6cb7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":807078133
+        }
+    ],
+    "wof:id":807078133,
+    "wof:lastmodified":1462603518,
+    "wof:name":"Rhea County Criminal Div",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sheriff"
+    ]
+},
+  "bbox": [
+    -85.01235,
+    35.494894,
+    -85.01235,
+    35.494894
+],
+  "geometry": {"coordinates":[-85.01235,35.494894],"type":"Point"}
+}

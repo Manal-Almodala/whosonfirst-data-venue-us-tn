@@ -1,0 +1,71 @@
+{
+  "id": 789968005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.05843,36.42314,-89.05843,36.42314",
+    "geom:latitude":36.42314,
+    "geom:longitude":-89.05843,
+    "iso:country":"US",
+    "sg:address":"407 S 2nd St",
+    "sg:city":"Union City",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 885 2100",
+    "sg:postcode":"38261",
+    "sg:province":"TN",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688641,
+        85633793,
+        85946669,
+        102084541,
+        85844377
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46q81pM09j0D32Jod4gKht_36.423140_-89.058430@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592067,
+    "wof:geomhash":"1e0f14644f31b11db94b34b841e7f67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102084541,
+            "locality_id":85946669,
+            "neighbourhood_id":85844377,
+            "region_id":85688641,
+            "venue_id":789968005
+        }
+    ],
+    "wof:id":789968005,
+    "wof:lastmodified":1462592067,
+    "wof:name":"Goodrich Appraisers",
+    "wof:parent_id":85844377,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -89.05843,
+    36.42314,
+    -89.05843,
+    36.42314
+],
+  "geometry": {"coordinates":[-89.05843,36.42314],"type":"Point"}
+}

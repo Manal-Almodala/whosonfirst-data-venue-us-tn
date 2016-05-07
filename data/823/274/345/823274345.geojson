@@ -1,0 +1,80 @@
+{
+  "id": 823274345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.929305,36.059638,-83.929305,36.059638",
+    "geom:latitude":36.059638,
+    "geom:longitude":-83.929305,
+    "iso:country":"US",
+    "sg:address":"3417 Mynatt Rd",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Mobile Homes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 689 1310",
+    "sg:postcode":"37918",
+    "sg:province":"TN",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85820307
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LhyV3SFyx8AaDMaq7jhk2_36.059638_-83.929305@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610083,
+    "wof:geomhash":"b3def9743396f5525478092fb05afb79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85820307,
+            "region_id":85688701,
+            "venue_id":823274345
+        }
+    ],
+    "wof:id":823274345,
+    "wof:lastmodified":1462610083,
+    "wof:name":"Oak Park Community",
+    "wof:parent_id":85820307,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities",
+        "park"
+    ]
+},
+  "bbox": [
+    -83.929305,
+    36.059638,
+    -83.929305,
+    36.059638
+],
+  "geometry": {"coordinates":[-83.929305,36.059638],"type":"Point"}
+}

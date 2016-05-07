@@ -1,0 +1,73 @@
+{
+  "id": 789749935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.582565,36.173537,-85.582565,36.173537",
+    "geom:latitude":36.173537,
+    "geom:longitude":-85.582565,
+    "iso:country":"US",
+    "sg:address":"2702 W Broad St",
+    "sg:city":"Cookeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 520 4844",
+    "sg:postcode":"38501",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722459,
+        102086339,
+        85850709
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MipyHLMX72FSp9Wye9oTM_36.173537_-85.582565@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590253,
+    "wof:geomhash":"c2e6c8ab99b33d79ab352aed0dcd1913",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086339,
+            "locality_id":101722459,
+            "neighbourhood_id":85850709,
+            "region_id":85688701,
+            "venue_id":789749935
+        }
+    ],
+    "wof:id":789749935,
+    "wof:lastmodified":1462590253,
+    "wof:name":"Kenny's Automotive Ctr",
+    "wof:parent_id":85850709,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -85.582565,
+    36.173537,
+    -85.582565,
+    36.173537
+],
+  "geometry": {"coordinates":[-85.582565,36.173537],"type":"Point"}
+}

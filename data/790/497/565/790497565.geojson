@@ -1,0 +1,71 @@
+{
+  "id": 790497565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.592051,35.44521,-84.592051,35.44521",
+    "geom:latitude":35.44521,
+    "geom:longitude":-84.592051,
+    "iso:country":"US",
+    "sg:address":"204 E College St",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 745 4582",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722747,
+        102086293,
+        85811277
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cPNig6MCkuGymZDOgYL9H_35.445210_-84.592051@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462596350,
+    "wof:geomhash":"fc2f38a1efa8f87a5a38691771db86d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722747,
+            "neighbourhood_id":85811277,
+            "region_id":85688701,
+            "venue_id":790497565
+        }
+    ],
+    "wof:id":790497565,
+    "wof:lastmodified":1462596350,
+    "wof:name":"Good Faith Clinic",
+    "wof:parent_id":85811277,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -84.592051,
+    35.44521,
+    -84.592051,
+    35.44521
+],
+  "geometry": {"coordinates":[-84.592051,35.44521],"type":"Point"}
+}

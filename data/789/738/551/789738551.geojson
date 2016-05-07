@@ -1,0 +1,71 @@
+{
+  "id": 789738551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.910364,35.220028,-89.910364,35.220028",
+    "geom:latitude":35.220028,
+    "geom:longitude":-89.910364,
+    "iso:country":"US",
+    "sg:address":"3451 Austin Peay Hwy",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 379 0055",
+    "sg:postcode":"38135",
+    "sg:province":"TN",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85843675
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5stqXhCZLlG7IvYfsjfiLy_35.220028_-89.910364@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590163,
+    "wof:geomhash":"afec0e42fb8d7dc9013c424f9a135b32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85843675,
+            "region_id":85688701,
+            "venue_id":789738551
+        }
+    ],
+    "wof:id":789738551,
+    "wof:lastmodified":1462590163,
+    "wof:name":"Hair Inc III",
+    "wof:parent_id":85843675,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -89.910364,
+    35.220028,
+    -89.910364,
+    35.220028
+],
+  "geometry": {"coordinates":[-89.910364,35.220028],"type":"Point"}
+}

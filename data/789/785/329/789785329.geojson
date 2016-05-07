@@ -1,0 +1,71 @@
+{
+  "id": 789785329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.279275,36.152563,-83.279275,36.152563",
+    "geom:latitude":36.152563,
+    "geom:longitude":-83.279275,
+    "iso:country":"US",
+    "sg:address":"1300 Old Witt Rd",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 587 0014",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85852009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hWVyOjtIFlcy5C7E00Ydy_36.152563_-83.279275@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590530,
+    "wof:geomhash":"b2be46185a81701aa4fe68c04c6cc46b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85852009,
+            "region_id":85688701,
+            "venue_id":789785329
+        }
+    ],
+    "wof:id":789785329,
+    "wof:lastmodified":1462590530,
+    "wof:name":"Jones Construction",
+    "wof:parent_id":85852009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -83.279275,
+    36.152563,
+    -83.279275,
+    36.152563
+],
+  "geometry": {"coordinates":[-83.279275,36.152563],"type":"Point"}
+}

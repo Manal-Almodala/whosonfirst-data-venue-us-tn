@@ -1,0 +1,73 @@
+{
+  "id": 806543305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.240629,35.226609,-88.240629,35.226609",
+    "geom:latitude":35.226609,
+    "geom:longitude":-88.240629,
+    "iso:country":"US",
+    "sg:address":"1214 Wayne Rd",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 926 2446",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "medical",
+        "imaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uRsNlSlpQ9Etbx1hoivb0_35.226609_-88.240629@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598985,
+    "wof:geomhash":"eef541012579e6cb30261c6713cb7bf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":806543305
+        }
+    ],
+    "wof:id":806543305,
+    "wof:lastmodified":1462598985,
+    "wof:name":"Rural Diagnostic Imaging",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -88.240629,
+    35.226609,
+    -88.240629,
+    35.226609
+],
+  "geometry": {"coordinates":[-88.240629,35.226609],"type":"Point"}
+}

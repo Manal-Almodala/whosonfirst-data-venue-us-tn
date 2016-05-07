@@ -1,0 +1,84 @@
+{
+  "id": 823285547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.893062,35.117177,-89.893062,35.117177",
+    "geom:latitude":35.117177,
+    "geom:longitude":-89.893062,
+    "iso:country":"US",
+    "sg:address":"5050 Sanderlin Ave",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 683 9371",
+    "sg:postcode":"38117",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "sg:website":"http://www.laurelwoodpediatrics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85870779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2auFkJ7fsjefhszJBTaHFb_35.117177_-89.893062@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610532,
+    "wof:geomhash":"de2fa5049ac5a684c16da5ee4d1a135c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870779,
+            "region_id":85688701,
+            "venue_id":823285547
+        }
+    ],
+    "wof:id":823285547,
+    "wof:lastmodified":1462610532,
+    "wof:name":"Laurelwood Pediatrics",
+    "wof:parent_id":85870779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -89.893062,
+    35.117177,
+    -89.893062,
+    35.117177
+],
+  "geometry": {"coordinates":[-89.893062,35.117177],"type":"Point"}
+}

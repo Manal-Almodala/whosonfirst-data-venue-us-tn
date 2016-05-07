@@ -1,0 +1,73 @@
+{
+  "id": 790025017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-88.251611,35.225158,-88.251611,35.225158",
+    "geom:latitude":35.225158,
+    "geom:longitude":-88.251611,
+    "iso:country":"US",
+    "sg:address":"348 Main St",
+    "sg:city":"Savannah",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 731 926 4320",
+    "sg:postcode":"38372",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722587,
+        102086329,
+        85836765
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jaKpuO1R8tMiyq0RegIPK_35.225158_-88.251611@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592532,
+    "wof:geomhash":"2be51cfadeb7546f8a25ecab14718658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086329,
+            "locality_id":101722587,
+            "neighbourhood_id":85836765,
+            "region_id":85688701,
+            "venue_id":790025017
+        }
+    ],
+    "wof:id":790025017,
+    "wof:lastmodified":1462592532,
+    "wof:name":"Liberty Medical Supply",
+    "wof:parent_id":85836765,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -88.251611,
+    35.225158,
+    -88.251611,
+    35.225158
+],
+  "geometry": {"coordinates":[-88.251611,35.225158],"type":"Point"}
+}

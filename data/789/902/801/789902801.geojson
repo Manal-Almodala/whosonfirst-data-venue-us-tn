@@ -1,0 +1,69 @@
+{
+  "id": 789902801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.225789,36.312115,-84.225789,36.312115",
+    "geom:latitude":36.312115,
+    "geom:longitude":-84.225789,
+    "iso:country":"US",
+    "sg:address":"104 Lawson Ln",
+    "sg:city":"Lake City",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 426 7402",
+    "sg:postcode":"37714",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85848109,
+        102086391
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50v0AoxzEZjf4L1gGUY36F_36.312115_-84.225789@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591467,
+    "wof:geomhash":"2eb5205733f0b56d1b5e2d79317d49b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086391,
+            "neighbourhood_id":85848109,
+            "region_id":85688701,
+            "venue_id":789902801
+        }
+    ],
+    "wof:id":789902801,
+    "wof:lastmodified":1462591467,
+    "wof:name":"Lake City Police Dept",
+    "wof:parent_id":85848109,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -84.225789,
+    36.312115,
+    -84.225789,
+    36.312115
+],
+  "geometry": {"coordinates":[-84.22578900000001,36.312115],"type":"Point"}
+}

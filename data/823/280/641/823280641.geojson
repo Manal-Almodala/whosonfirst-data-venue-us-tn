@@ -1,0 +1,82 @@
+{
+  "id": 823280641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.022681,35.120805,-90.022681,35.120805",
+    "geom:latitude":35.120805,
+    "geom:longitude":-90.022681,
+    "iso:country":"US",
+    "sg:address":"943 James St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 947 2156",
+    "sg:postcode":"38106",
+    "sg:province":"TN",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85803189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32VBHbtauDXcXXAT7DEJIF_35.120805_-90.022681@1303262741"
+    },
+    "wof:country":"US",
+    "wof:created":1462610335,
+    "wof:geomhash":"8996351e850efbf0d53820a31b6f622c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85803189,
+            "region_id":85688701,
+            "venue_id":823280641
+        }
+    ],
+    "wof:id":823280641,
+    "wof:lastmodified":1462610335,
+    "wof:name":"Btl Bunting Trucking Line",
+    "wof:parent_id":85803189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -90.022681,
+    35.120805,
+    -90.022681,
+    35.120805
+],
+  "geometry": {"coordinates":[-90.02268100000001,35.120805],"type":"Point"}
+}

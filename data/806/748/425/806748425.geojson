@@ -1,0 +1,83 @@
+{
+  "id": 806748425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.600691,36.442186,-83.600691,36.442186",
+    "geom:latitude":36.442186,
+    "geom:longitude":-83.600691,
+    "iso:country":"US",
+    "sg:address":"432 S Broad St",
+    "sg:city":"New Tazewell",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 626 6550",
+    "sg:postcode":"37824",
+    "sg:province":"TN",
+    "sg:tags":[
+        "discount"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722889,
+        102086965,
+        85811469,
+        101722885,
+        85810917
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A9wDk5zux6ERUrhzWkZbd_36.442186_-83.600691@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462600750,
+    "wof:geomhash":"e199957ad52981938a4b62e869ebc04c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722889,
+            "neighbourhood_id":85811469,
+            "region_id":85688701,
+            "venue_id":806748425
+        },
+        {
+            "country_id":85633793,
+            "county_id":102086965,
+            "locality_id":101722885,
+            "neighbourhood_id":85810917,
+            "region_id":85688701,
+            "venue_id":806748425
+        }
+    ],
+    "wof:id":806748425,
+    "wof:lastmodified":1462600750,
+    "wof:name":"Wal-Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "discount"
+    ]
+},
+  "bbox": [
+    -83.600691,
+    36.442186,
+    -83.600691,
+    36.442186
+],
+  "geometry": {"coordinates":[-83.600691,36.442186],"type":"Point"}
+}

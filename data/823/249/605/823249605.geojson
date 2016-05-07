@@ -1,0 +1,74 @@
+{
+  "id": 823249605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.417472,36.144559,-82.417472,36.144559",
+    "geom:latitude":36.144559,
+    "geom:longitude":-82.417472,
+    "iso:country":"US",
+    "sg:address":"202 S Main Ave",
+    "sg:city":"Erwin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/erwin/191665-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 743 7330",
+    "sg:postcode":"37650",
+    "sg:province":"TN",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723259,
+        102086427,
+        85804403
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kv0DMx7ryTb0hsoJ7uEw4_36.144559_-82.417472@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609325,
+    "wof:geomhash":"641d33ddad8e6c8df6ab9503ecb6eb5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086427,
+            "locality_id":101723259,
+            "neighbourhood_id":85804403,
+            "region_id":85688701,
+            "venue_id":823249605
+        }
+    ],
+    "wof:id":823249605,
+    "wof:lastmodified":1462609325,
+    "wof:name":"Sonic",
+    "wof:parent_id":85804403,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -82.417472,
+    36.144559,
+    -82.417472,
+    36.144559
+],
+  "geometry": {"coordinates":[-82.417472,36.144559],"type":"Point"}
+}

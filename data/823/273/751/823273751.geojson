@@ -1,0 +1,88 @@
+{
+  "id": 823273751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.310088,36.206826,-83.310088,36.206826",
+    "geom:latitude":36.206826,
+    "geom:longitude":-83.310088,
+    "iso:country":"US",
+    "sg:address":"1527 W 1st North St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 5011",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "mixed",
+        "concrete",
+        "product",
+        "concrete-ready"
+    ],
+    "sg:website":"http://www.concretematerialsinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63LyCZUglj6OUlMA84tp9I_36.206826_-83.310088@1303262739"
+    },
+    "wof:country":"US",
+    "wof:created":1462610062,
+    "wof:geomhash":"96ff19615ada6353298d26a5bb81934e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":823273751
+        }
+    ],
+    "wof:id":823273751,
+    "wof:lastmodified":1462610062,
+    "wof:name":"Concrete Materials Inc",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete",
+        "product",
+        "concrete-ready"
+    ]
+},
+  "bbox": [
+    -83.310088,
+    36.206826,
+    -83.310088,
+    36.206826
+],
+  "geometry": {"coordinates":[-83.31008799999999,36.206826],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 806466247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.293195,36.192846,-83.293195,36.192846",
+    "geom:latitude":36.192846,
+    "geom:longitude":-83.293195,
+    "iso:country":"US",
+    "sg:address":"751 Red Fox Ave",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 581 8364",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "house",
+        "mover",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85852009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bf9OgXuReCR3ZbOkBZpOS_36.192846_-83.293195@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462598363,
+    "wof:geomhash":"99529c895a86ab109f29ca1a43c621e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85852009,
+            "region_id":85688701,
+            "venue_id":806466247
+        }
+    ],
+    "wof:id":806466247,
+    "wof:lastmodified":1462598363,
+    "wof:name":"Morris Town House Movers",
+    "wof:parent_id":85852009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mover",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -83.293195,
+    36.192846,
+    -83.293195,
+    36.192846
+],
+  "geometry": {"coordinates":[-83.293195,36.192846],"type":"Point"}
+}

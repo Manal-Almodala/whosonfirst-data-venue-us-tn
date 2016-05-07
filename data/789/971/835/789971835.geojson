@@ -1,0 +1,71 @@
+{
+  "id": 789971835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.313688,36.484715,-86.313688,36.484715",
+    "geom:latitude":36.484715,
+    "geom:longitude":-86.313688,
+    "iso:country":"US",
+    "sg:address":"3515 Hwy 31 E",
+    "sg:city":"Bethpage",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 841 4100",
+    "sg:postcode":"37022",
+    "sg:province":"TN",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45BbVDSgzlj3cdUdWhasgA_36.484715_-86.313688@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592095,
+    "wof:geomhash":"c4608c8e3df80519230f458525cccfec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":789971835
+        }
+    ],
+    "wof:id":789971835,
+    "wof:lastmodified":1462592095,
+    "wof:name":"Southeast Community Fire Dept",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -86.313688,
+    36.484715,
+    -86.313688,
+    36.484715
+],
+  "geometry": {"coordinates":[-86.313688,36.484715],"type":"Point"}
+}

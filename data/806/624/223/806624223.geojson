@@ -1,0 +1,73 @@
+{
+  "id": 806624223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-86.44286,36.389263,-86.44286,36.389263",
+    "geom:latitude":36.389263,
+    "geom:longitude":-86.44286,
+    "iso:country":"US",
+    "sg:address":"262 E Main St",
+    "sg:city":"Gallatin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 615 452 3532",
+    "sg:postcode":"37066",
+    "sg:province":"TN",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723167,
+        102086357,
+        85852687
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CBJaOfKXvMkX0q7gOfJYq_36.389263_-86.442860@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462599687,
+    "wof:geomhash":"4cf8990afa046e3ff987f994c17e076a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723167,
+            "neighbourhood_id":85852687,
+            "region_id":85688701,
+            "venue_id":806624223
+        }
+    ],
+    "wof:id":806624223,
+    "wof:lastmodified":1462599687,
+    "wof:name":"Sumner Medical Group",
+    "wof:parent_id":85852687,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -86.44286,
+    36.389263,
+    -86.44286,
+    36.389263
+],
+  "geometry": {"coordinates":[-86.44286,36.389263],"type":"Point"}
+}

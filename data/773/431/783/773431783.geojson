@@ -1,0 +1,73 @@
+{
+  "id": 773431783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-90.050588,35.103965,-90.050588,35.103965",
+    "geom:latitude":35.103965,
+    "geom:longitude":-90.050588,
+    "iso:country":"US",
+    "sg:address":"1549 Preston St",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 774 9110",
+    "sg:postcode":"38106",
+    "sg:province":"TN",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85847887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5duPCHGVPvWPgYQl9su6Rw_35.103965_-90.050588@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462585682,
+    "wof:geomhash":"8985254bf169c9220d9504dfdeff6530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85847887,
+            "region_id":85688701,
+            "venue_id":773431783
+        }
+    ],
+    "wof:id":773431783,
+    "wof:lastmodified":1462585682,
+    "wof:name":"Preston Grocery",
+    "wof:parent_id":85847887,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -90.050588,
+    35.103965,
+    -90.050588,
+    35.103965
+],
+  "geometry": {"coordinates":[-90.050588,35.103965],"type":"Point"}
+}

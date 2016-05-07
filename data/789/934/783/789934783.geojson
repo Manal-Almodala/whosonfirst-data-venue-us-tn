@@ -1,0 +1,77 @@
+{
+  "id": 789934783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.366346,36.316683,-82.366346,36.316683",
+    "geom:latitude":36.316683,
+    "geom:longitude":-82.366346,
+    "iso:country":"US",
+    "sg:address":"535 W Market St",
+    "sg:city":"Johnson City",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 232 7151",
+    "sg:postcode":"37604",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722757,
+        102086335,
+        85822495
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DCgnutr4icMu8bHX7UlzW_36.316683_-82.366346@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591750,
+    "wof:geomhash":"96e15596afc1941b6f736b49ab6a4b79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086335,
+            "locality_id":101722757,
+            "neighbourhood_id":85822495,
+            "region_id":85688701,
+            "venue_id":789934783
+        }
+    ],
+    "wof:id":789934783,
+    "wof:lastmodified":1462591750,
+    "wof:name":"Car Tech Auto Repair LLC",
+    "wof:parent_id":85822495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -82.366346,
+    36.316683,
+    -82.366346,
+    36.316683
+],
+  "geometry": {"coordinates":[-82.36634599999999,36.316683],"type":"Point"}
+}

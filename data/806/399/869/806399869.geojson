@@ -1,0 +1,73 @@
+{
+  "id": 806399869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.098293,35.911634,-84.098293,35.911634",
+    "geom:latitude":35.911634,
+    "geom:longitude":-84.098293,
+    "iso:country":"US",
+    "sg:address":"201 N Seven Oaks Dr",
+    "sg:city":"Knoxville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 693 0529",
+    "sg:postcode":"37922",
+    "sg:province":"TN",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85810021
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ip1yzLhxlYm9fLzUwvRHN_35.911634_-84.098293@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462597839,
+    "wof:geomhash":"dea37771161c19d545961ac4cd06a758",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85810021,
+            "region_id":85688701,
+            "venue_id":806399869
+        }
+    ],
+    "wof:id":806399869,
+    "wof:lastmodified":1462597839,
+    "wof:name":"Hertz Rent A Car",
+    "wof:parent_id":85810021,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.098293,
+    35.911634,
+    -84.098293,
+    35.911634
+],
+  "geometry": {"coordinates":[-84.098293,35.911634],"type":"Point"}
+}

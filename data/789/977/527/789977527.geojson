@@ -1,0 +1,73 @@
+{
+  "id": 789977527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.284816,36.203405,-83.284816,36.203405",
+    "geom:latitude":36.203405,
+    "geom:longitude":-83.284816,
+    "iso:country":"US",
+    "sg:address":"1117 S Cumberland St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 317 0085",
+    "sg:postcode":"37813",
+    "sg:province":"TN",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85852009
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76BUoM4aI2dDYVdAsmrINl_36.203405_-83.284816@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462592148,
+    "wof:geomhash":"5a4f84a259400b81e2266c7ae830ebdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85852009,
+            "region_id":85688701,
+            "venue_id":789977527
+        }
+    ],
+    "wof:id":789977527,
+    "wof:lastmodified":1462592148,
+    "wof:name":"Windshields Plus",
+    "wof:parent_id":85852009,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -83.284816,
+    36.203405,
+    -83.284816,
+    36.203405
+],
+  "geometry": {"coordinates":[-83.28481600000001,36.203405],"type":"Point"}
+}

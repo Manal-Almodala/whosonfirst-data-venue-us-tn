@@ -1,0 +1,71 @@
+{
+  "id": 789637079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-82.844689,36.156226,-82.844689,36.156226",
+    "geom:latitude":36.156226,
+    "geom:longitude":-82.844689,
+    "iso:country":"US",
+    "sg:address":"915 W Main St",
+    "sg:city":"Greeneville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 638 8818",
+    "sg:postcode":"37743",
+    "sg:province":"TN",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722681,
+        102086377,
+        85826147
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14kLcW1OCP5YgJ7SNg0Nh2_36.156226_-82.844689@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462589353,
+    "wof:geomhash":"727705b79e5ac90ea54b0caf9ecfd36b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086377,
+            "locality_id":101722681,
+            "neighbourhood_id":85826147,
+            "region_id":85688701,
+            "venue_id":789637079
+        }
+    ],
+    "wof:id":789637079,
+    "wof:lastmodified":1462589353,
+    "wof:name":"West Main Restaurant",
+    "wof:parent_id":85826147,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -82.844689,
+    36.156226,
+    -82.844689,
+    36.156226
+],
+  "geometry": {"coordinates":[-82.844689,36.156226],"type":"Point"}
+}

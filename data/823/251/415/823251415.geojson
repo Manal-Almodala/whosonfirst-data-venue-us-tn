@@ -1,0 +1,74 @@
+{
+  "id": 823251415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.050929,36.01984,-84.050929,36.01984",
+    "geom:latitude":36.01984,
+    "geom:longitude":-84.050929,
+    "iso:country":"US",
+    "sg:address":"3533 W Emory Rd",
+    "sg:city":"Powell",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/powell/86652-little-caesars-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 865 947 8999",
+    "sg:postcode":"37849",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722865,
+        102086455,
+        85838527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZRQ1zfN9qGT6j894ijEQs_36.019840_-84.050929@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609361,
+    "wof:geomhash":"c850462dc37a0e4ccf0f886eba54f493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086455,
+            "locality_id":101722865,
+            "neighbourhood_id":85838527,
+            "region_id":85688701,
+            "venue_id":823251415
+        }
+    ],
+    "wof:id":823251415,
+    "wof:lastmodified":1462609361,
+    "wof:name":"Little Caesar's Pizza",
+    "wof:parent_id":85838527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -84.050929,
+    36.01984,
+    -84.050929,
+    36.01984
+],
+  "geometry": {"coordinates":[-84.050929,36.01984],"type":"Point"}
+}

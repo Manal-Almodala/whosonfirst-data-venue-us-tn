@@ -1,0 +1,73 @@
+{
+  "id": 807382501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-83.296111,36.21162,-83.296111,36.21162",
+    "geom:latitude":36.21162,
+    "geom:longitude":-83.296111,
+    "iso:country":"US",
+    "sg:address":"441 W Main St",
+    "sg:city":"Morristown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 586 4121",
+    "sg:postcode":"37814",
+    "sg:province":"TN",
+    "sg:tags":[
+        "company",
+        "sewage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722571,
+        102086447,
+        85825433
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LUuVQjGBjpJxvvOdGlZfj_36.211620_-83.296111@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462606954,
+    "wof:geomhash":"f6295792e8581e4bffd7dd6d1c8b625a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086447,
+            "locality_id":101722571,
+            "neighbourhood_id":85825433,
+            "region_id":85688701,
+            "venue_id":807382501
+        }
+    ],
+    "wof:id":807382501,
+    "wof:lastmodified":1462606954,
+    "wof:name":"Morristown Water Systems",
+    "wof:parent_id":85825433,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "sewage"
+    ]
+},
+  "bbox": [
+    -83.296111,
+    36.21162,
+    -83.296111,
+    36.21162
+],
+  "geometry": {"coordinates":[-83.296111,36.21162],"type":"Point"}
+}

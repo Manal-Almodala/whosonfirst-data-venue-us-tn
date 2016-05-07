@@ -1,0 +1,72 @@
+{
+  "id": 823242235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-87.3631,36.519751,-87.3631,36.519751",
+    "geom:latitude":36.519751,
+    "geom:longitude":-87.3631,
+    "iso:country":"US",
+    "sg:address":"651 S Riverside Dr",
+    "sg:city":"Clarksville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/tn/clarksville/140256-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 931 552 9297",
+    "sg:postcode":"37040",
+    "sg:province":"TN",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        85807343,
+        102086353
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jZ5tscRONp0ZaBbk4h0s9_36.519751_-87.363100@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1462609189,
+    "wof:geomhash":"732b2920eeda7d2fc65d3f94f05411e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086353,
+            "neighbourhood_id":85807343,
+            "region_id":85688701,
+            "venue_id":823242235
+        }
+    ],
+    "wof:id":823242235,
+    "wof:lastmodified":1462609189,
+    "wof:name":"Subway",
+    "wof:parent_id":85807343,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -87.3631,
+    36.519751,
+    -87.3631,
+    36.519751
+],
+  "geometry": {"coordinates":[-87.3631,36.519751],"type":"Point"}
+}

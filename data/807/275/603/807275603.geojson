@@ -1,0 +1,71 @@
+{
+  "id": 807275603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-85.009897,35.493947,-85.009897,35.493947",
+    "geom:latitude":35.493947,
+    "geom:longitude":-85.009897,
+    "iso:country":"US",
+    "sg:address":"228 3rd Ave",
+    "sg:city":"Dayton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 775 1668",
+    "sg:postcode":"37321",
+    "sg:province":"TN",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101723069,
+        102086477,
+        85808219
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2evQiVzEsXRX4cVv8ZHZWC_35.493947_-85.009897@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462605599,
+    "wof:geomhash":"b0e048b3cf325ed9b2e3e172ff33bee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086477,
+            "locality_id":101723069,
+            "neighbourhood_id":85808219,
+            "region_id":85688701,
+            "venue_id":807275603
+        }
+    ],
+    "wof:id":807275603,
+    "wof:lastmodified":1462605599,
+    "wof:name":"Pierce Cemetery",
+    "wof:parent_id":85808219,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -85.009897,
+    35.493947,
+    -85.009897,
+    35.493947
+],
+  "geometry": {"coordinates":[-85.009897,35.493947],"type":"Point"}
+}

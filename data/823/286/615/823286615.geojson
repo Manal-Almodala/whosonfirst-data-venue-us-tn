@@ -1,0 +1,97 @@
+{
+  "id": 823286615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.973924,35.069704,-89.973924,35.069704",
+    "geom:latitude":35.069704,
+    "geom:longitude":-89.973924,
+    "iso:country":"US",
+    "sg:address":"2600 Rental Rd",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Parking",
+            "subcategory":"Lot",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 847 4389",
+    "sg:postcode":"38118",
+    "sg:province":"TN",
+    "sg:tags":[
+        "moving-self",
+        "leasing",
+        "car",
+        "airport",
+        "truck"
+    ],
+    "sg:website":"http://www.thrifty.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85805535
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VKePWIZcPPjN0UGphwCz0_35.069704_-89.973924@1303262742"
+    },
+    "wof:country":"US",
+    "wof:created":1462610571,
+    "wof:geomhash":"4132213a46f1f7b205fcf815e157c0f2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85805535,
+            "region_id":85688701,
+            "venue_id":823286615
+        }
+    ],
+    "wof:id":823286615,
+    "wof:lastmodified":1462610571,
+    "wof:name":"Thrifty Car Rental",
+    "wof:parent_id":85805535,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving-self",
+        "leasing",
+        "car",
+        "airport",
+        "truck"
+    ]
+},
+  "bbox": [
+    -89.973924,
+    35.069704,
+    -89.973924,
+    35.069704
+],
+  "geometry": {"coordinates":[-89.973924,35.069704],"type":"Point"}
+}

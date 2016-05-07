@@ -1,0 +1,73 @@
+{
+  "id": 789765389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-84.539116,35.356586,-84.539116,35.356586",
+    "geom:latitude":35.356586,
+    "geom:longitude":-84.539116,
+    "iso:country":"US",
+    "sg:address":"201 Co Rd 526",
+    "sg:city":"Athens",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 423 263 2201",
+    "sg:postcode":"37303",
+    "sg:province":"TN",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722741,
+        102086293,
+        85837601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YvdM2GTkZRJh4J3joQ0z0_35.356586_-84.539116@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462590369,
+    "wof:geomhash":"d55ebc9b1416c5b973dfcc5e7fd99a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102086293,
+            "locality_id":101722741,
+            "neighbourhood_id":85837601,
+            "region_id":85688701,
+            "venue_id":789765389
+        }
+    ],
+    "wof:id":789765389,
+    "wof:lastmodified":1462590369,
+    "wof:name":"S & S Auto & Truck Repair",
+    "wof:parent_id":85837601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -84.539116,
+    35.356586,
+    -84.539116,
+    35.356586
+],
+  "geometry": {"coordinates":[-84.53911600000001,35.356586],"type":"Point"}
+}

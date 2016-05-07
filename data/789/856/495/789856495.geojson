@@ -1,0 +1,81 @@
+{
+  "id": 789856495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-89.788114,35.157059,-89.788114,35.157059",
+    "geom:latitude":35.157059,
+    "geom:longitude":-89.788114,
+    "iso:country":"US",
+    "sg:address":"8245 Cordova Rd",
+    "sg:city":"Cordova",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 624 2454",
+    "sg:postcode":"38016",
+    "sg:province":"TN",
+    "sg:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ],
+    "sg:website":"www.bstn.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        85633793,
+        101722645,
+        102087213,
+        85812297
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2quZtMtzLPlCvnr6GlK99J_35.157059_-89.788114@1294204733"
+    },
+    "wof:country":"US",
+    "wof:created":1462591077,
+    "wof:geomhash":"916082c8c436abc950d8b914d50698c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85812297,
+            "region_id":85688701,
+            "venue_id":789856495
+        }
+    ],
+    "wof:id":789856495,
+    "wof:lastmodified":1462591077,
+    "wof:name":"Behavioral Services of Tenn",
+    "wof:parent_id":85812297,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehabilitation",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -89.788114,
+    35.157059,
+    -89.788114,
+    35.157059
+],
+  "geometry": {"coordinates":[-89.78811399999999,35.157059],"type":"Point"}
+}
