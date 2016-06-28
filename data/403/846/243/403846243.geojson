@@ -2,13 +2,14 @@
   "id": 403846243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.91742,35.049206,-89.91742,35.049206",
     "geom:latitude":35.049206,
     "geom:longitude":-89.91742,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3673 Cherry Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403846243,
-    "wof:lastmodified":1449055671,
+    "wof:lastmodified":1467082782,
     "wof:name":"Bull Distributing Of Tennesse",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "beverage"
     ]
 },
-  "bbox": [-89.91742,35.049206,-89.91742,35.049206],
-  "geometry": {"coordinates":[-89.91742,35.049206],"type":"Point"}
+  "bbox": [
+    -89.91742,
+    35.049206,
+    -89.91742,
+    35.049206
+],
+  "geometry": {"coordinates":[-89.91742000000001,35.049206],"type":"Point"}
 }

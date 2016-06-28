@@ -2,13 +2,14 @@
   "id": 404165397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.184631,35.030871,-85.184631,35.030871",
     "geom:latitude":35.030871,
     "geom:longitude":-85.184631,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6223 Lee Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404165397,
-    "wof:lastmodified":1449040328,
+    "wof:lastmodified":1467082781,
     "wof:name":"The Prado Collection",
     "wof:parent_id":85817719,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "jewelry"
     ]
 },
-  "bbox": [-85.184631,35.030871,-85.184631,35.030871],
+  "bbox": [
+    -85.184631,
+    35.030871,
+    -85.184631,
+    35.030871
+],
   "geometry": {"coordinates":[-85.184631,35.030871],"type":"Point"}
 }

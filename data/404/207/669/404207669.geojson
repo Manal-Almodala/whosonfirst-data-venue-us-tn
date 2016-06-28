@@ -2,13 +2,14 @@
   "id": 404207669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846184,36.12357,-86.846184,36.12357",
     "geom:latitude":36.12357,
     "geom:longitude":-86.846184,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Woodmont Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404207669,
-    "wof:lastmodified":1449039966,
+    "wof:lastmodified":1467082780,
     "wof:name":"Channelpoint",
     "wof:parent_id":85844411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-86.846184,36.12357,-86.846184,36.12357],
-  "geometry": {"coordinates":[-86.846184,36.12357],"type":"Point"}
+  "bbox": [
+    -86.846184,
+    36.12357,
+    -86.846184,
+    36.12357
+],
+  "geometry": {"coordinates":[-86.84618399999999,36.12357],"type":"Point"}
 }

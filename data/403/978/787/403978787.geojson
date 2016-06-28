@@ -2,13 +2,14 @@
   "id": 403978787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.756113,36.104223,-86.756113,36.104223",
     "geom:latitude":36.104223,
     "geom:longitude":-86.756113,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2951 Sidco Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403978787,
-    "wof:lastmodified":1449055396,
+    "wof:lastmodified":1467082782,
     "wof:name":"Graphic Art Productions Inc",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "offset"
     ]
 },
-  "bbox": [-86.756113,36.104223,-86.756113,36.104223],
+  "bbox": [
+    -86.756113,
+    36.104223,
+    -86.756113,
+    36.104223
+],
   "geometry": {"coordinates":[-86.756113,36.104223],"type":"Point"}
 }

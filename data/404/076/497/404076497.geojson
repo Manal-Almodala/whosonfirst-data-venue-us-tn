@@ -2,13 +2,14 @@
   "id": 404076497,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.225959,35.218014,-86.225959,35.218014",
     "geom:latitude":35.218014,
     "geom:longitude":-86.225959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"702 Bluff Dr",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404076497,
-    "wof:lastmodified":1449040038,
+    "wof:lastmodified":1467082780,
     "wof:name":"Winserv Inc",
     "wof:parent_id":85836143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-86.225959,35.218014,-86.225959,35.218014],
+  "bbox": [
+    -86.225959,
+    35.218014,
+    -86.225959,
+    35.218014
+],
   "geometry": {"coordinates":[-86.225959,35.218014],"type":"Point"}
 }

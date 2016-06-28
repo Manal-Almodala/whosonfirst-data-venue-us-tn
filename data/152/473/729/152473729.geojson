@@ -2,13 +2,14 @@
   "id": 152473729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.827144,34.962876,-86.827144,34.962876",
     "geom:latitude":34.962876,
     "geom:longitude":-86.827144,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28100 State Rte 251",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152473729,
-    "wof:lastmodified":1449045264,
+    "wof:lastmodified":1467082781,
     "wof:name":"Adam's Western Wear",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.827144,34.962876,-86.827144,34.962876],
+  "bbox": [
+    -86.827144,
+    34.962876,
+    -86.827144,
+    34.962876
+],
   "geometry": {"coordinates":[-86.827144,34.962876],"type":"Point"}
 }

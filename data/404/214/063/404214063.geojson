@@ -2,13 +2,14 @@
   "id": 404214063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.363979,35.880021,-86.363979,35.880021",
     "geom:latitude":35.880021,
     "geom:longitude":-86.363979,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1415 Shagbark Trl",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404214063,
-    "wof:lastmodified":1449040288,
+    "wof:lastmodified":1467082781,
     "wof:name":"Consulting In Eine Kleine",
     "wof:parent_id":85843385,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.363979,35.880021,-86.363979,35.880021],
+  "bbox": [
+    -86.363979,
+    35.880021,
+    -86.363979,
+    35.880021
+],
   "geometry": {"coordinates":[-86.363979,35.880021],"type":"Point"}
 }

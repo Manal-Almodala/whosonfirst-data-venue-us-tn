@@ -2,13 +2,14 @@
   "id": 403942683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.650881,36.090587,-86.650881,36.090587",
     "geom:latitude":36.090587,
     "geom:longitude":-86.650881,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2201 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403942683,
-    "wof:lastmodified":1449055249,
+    "wof:lastmodified":1467082782,
     "wof:name":"Stephen Mills",
     "wof:parent_id":85841041,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.650881,36.090587,-86.650881,36.090587],
+  "bbox": [
+    -86.650881,
+    36.090587,
+    -86.650881,
+    36.090587
+],
   "geometry": {"coordinates":[-86.650881,36.090587],"type":"Point"}
 }

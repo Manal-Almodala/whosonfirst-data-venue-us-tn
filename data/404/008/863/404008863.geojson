@@ -2,13 +2,14 @@
   "id": 404008863,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.814961,36.116119,-82.814961,36.116119",
     "geom:latitude":36.116119,
     "geom:longitude":-82.814961,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"710 Sunnyside Rd",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404008863,
-    "wof:lastmodified":1449039396,
+    "wof:lastmodified":1467082779,
     "wof:name":"Devoti Bookkeeping & Tax Svc",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "filing"
     ]
 },
-  "bbox": [-82.814961,36.116119,-82.814961,36.116119],
+  "bbox": [
+    -82.814961,
+    36.116119,
+    -82.814961,
+    36.116119
+],
   "geometry": {"coordinates":[-82.814961,36.116119],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404016637,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.866903,35.926348,-83.866903,35.926348",
     "geom:latitude":35.926348,
     "geom:longitude":-83.866903,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 Sevierville Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404016637,
-    "wof:lastmodified":1449039239,
+    "wof:lastmodified":1467082779,
     "wof:name":"New Prospect Presbt Church",
     "wof:parent_id":85833365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.866903,35.926348,-83.866903,35.926348],
-  "geometry": {"coordinates":[-83.866903,35.926348],"type":"Point"}
+  "bbox": [
+    -83.866903,
+    35.926348,
+    -83.866903,
+    35.926348
+],
+  "geometry": {"coordinates":[-83.86690299999999,35.926348],"type":"Point"}
 }

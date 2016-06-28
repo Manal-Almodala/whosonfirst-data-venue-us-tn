@@ -2,13 +2,14 @@
   "id": 403943757,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.715747,35.541421,-89.715747,35.541421",
     "geom:latitude":35.541421,
     "geom:longitude":-89.715747,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"204 Jim McKenzie Rd",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403943757,
-    "wof:lastmodified":1449055002,
+    "wof:lastmodified":1467082781,
     "wof:name":"H & H Tree Service",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.715747,35.541421,-89.715747,35.541421],
-  "geometry": {"coordinates":[-89.715747,35.541421],"type":"Point"}
+  "bbox": [
+    -89.715747,
+    35.541421,
+    -89.715747,
+    35.541421
+],
+  "geometry": {"coordinates":[-89.71574699999999,35.541421],"type":"Point"}
 }

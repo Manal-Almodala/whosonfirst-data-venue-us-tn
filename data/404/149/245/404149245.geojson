@@ -2,13 +2,14 @@
   "id": 404149245,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.355954,36.384881,-87.355954,36.384881",
     "geom:latitude":36.384881,
     "geom:longitude":-87.355954,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"691 Southside Rd",
     "sg:city":"Cunningham",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404149245,
-    "wof:lastmodified":1449039089,
+    "wof:lastmodified":1467082778,
     "wof:name":"A Plus Cleaning Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-87.355954,36.384881,-87.355954,36.384881],
+  "bbox": [
+    -87.355954,
+    36.384881,
+    -87.355954,
+    36.384881
+],
   "geometry": {"coordinates":[-87.355954,36.384881],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404132521,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.398885,36.297151,-86.398885,36.297151",
     "geom:latitude":36.297151,
     "geom:longitude":-86.398885,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9606 Coles Ferry Pike",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404132521,
-    "wof:lastmodified":1449039599,
+    "wof:lastmodified":1467082779,
     "wof:name":"Superior Heating & Air",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.398885,36.297151,-86.398885,36.297151],
-  "geometry": {"coordinates":[-86.398885,36.297151],"type":"Point"}
+  "bbox": [
+    -86.398885,
+    36.297151,
+    -86.398885,
+    36.297151
+],
+  "geometry": {"coordinates":[-86.39888500000001,36.297151],"type":"Point"}
 }

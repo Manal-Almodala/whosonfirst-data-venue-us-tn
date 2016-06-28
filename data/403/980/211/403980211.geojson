@@ -2,13 +2,14 @@
   "id": 403980211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.714809,36.449109,-86.714809,36.449109",
     "geom:latitude":36.449109,
     "geom:longitude":-86.714809,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2980 New Hall Rd",
     "sg:city":"Greenbrier",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403980211,
-    "wof:lastmodified":1449054725,
+    "wof:lastmodified":1467082781,
     "wof:name":"Pritchard Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.714809,36.449109,-86.714809,36.449109],
+  "bbox": [
+    -86.714809,
+    36.449109,
+    -86.714809,
+    36.449109
+],
   "geometry": {"coordinates":[-86.714809,36.449109],"type":"Point"}
 }

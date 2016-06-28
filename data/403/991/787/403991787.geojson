@@ -2,13 +2,14 @@
   "id": 403991787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.02612,35.147064,-90.02612,35.147064",
     "geom:latitude":35.147064,
     "geom:longitude":-90.02612,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"262 Decatur St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403991787,
-    "wof:lastmodified":1449055052,
+    "wof:lastmodified":1467082782,
     "wof:name":"Louie Grocery",
     "wof:parent_id":85851159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.02612,35.147064,-90.02612,35.147064],
-  "geometry": {"coordinates":[-90.02612,35.147064],"type":"Point"}
+  "bbox": [
+    -90.02612,
+    35.147064,
+    -90.02612,
+    35.147064
+],
+  "geometry": {"coordinates":[-90.02612000000001,35.147064],"type":"Point"}
 }

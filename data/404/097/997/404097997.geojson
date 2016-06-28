@@ -2,13 +2,14 @@
   "id": 404097997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.312135,35.033962,-85.312135,35.033962",
     "geom:latitude":35.033962,
     "geom:longitude":-85.312135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1807 Cowart St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404097997,
-    "wof:lastmodified":1449039507,
+    "wof:lastmodified":1467082779,
     "wof:name":"Lay Low Lounge",
     "wof:parent_id":85876745,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "drinking"
     ]
 },
-  "bbox": [-85.312135,35.033962,-85.312135,35.033962],
+  "bbox": [
+    -85.312135,
+    35.033962,
+    -85.312135,
+    35.033962
+],
   "geometry": {"coordinates":[-85.312135,35.033962],"type":"Point"}
 }

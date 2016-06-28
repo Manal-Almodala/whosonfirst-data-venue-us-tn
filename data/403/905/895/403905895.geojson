@@ -2,13 +2,14 @@
   "id": 403905895,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.544389,35.864074,-83.544389,35.864074",
     "geom:latitude":35.864074,
     "geom:longitude":-83.544389,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"941 Dolly Parton Pkwy",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403905895,
-    "wof:lastmodified":1449055162,
+    "wof:lastmodified":1467082782,
     "wof:name":"Dramatic Difference LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-83.544389,35.864074,-83.544389,35.864074],
+  "bbox": [
+    -83.544389,
+    35.864074,
+    -83.544389,
+    35.864074
+],
   "geometry": {"coordinates":[-83.544389,35.864074],"type":"Point"}
 }

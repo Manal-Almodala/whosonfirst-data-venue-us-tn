@@ -2,13 +2,14 @@
   "id": 403984685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.193328,35.047138,-85.193328,35.047138",
     "geom:latitude":35.047138,
     "geom:longitude":-85.193328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2101 Polymer Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403984685,
-    "wof:lastmodified":1449055391,
+    "wof:lastmodified":1467082782,
     "wof:name":"Estes Express Lines Inc",
     "wof:parent_id":85851775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "trucking"
     ]
 },
-  "bbox": [-85.193328,35.047138,-85.193328,35.047138],
-  "geometry": {"coordinates":[-85.193328,35.047138],"type":"Point"}
+  "bbox": [
+    -85.193328,
+    35.047138,
+    -85.193328,
+    35.047138
+],
+  "geometry": {"coordinates":[-85.19332799999999,35.047138],"type":"Point"}
 }

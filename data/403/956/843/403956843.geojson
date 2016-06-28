@@ -2,13 +2,14 @@
   "id": 403956843,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.999592,35.739008,-83.999592,35.739008",
     "geom:latitude":35.739008,
     "geom:longitude":-83.999592,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2126 Highland Rd",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403956843,
-    "wof:lastmodified":1449054854,
+    "wof:lastmodified":1467082781,
     "wof:name":"Natural Goddess",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "mfg"
     ]
 },
-  "bbox": [-83.999592,35.739008,-83.999592,35.739008],
-  "geometry": {"coordinates":[-83.999592,35.739008],"type":"Point"}
+  "bbox": [
+    -83.999592,
+    35.739008,
+    -83.999592,
+    35.739008
+],
+  "geometry": {"coordinates":[-83.99959200000001,35.739008],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404216679,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.030183,35.140335,-90.030183,35.140335",
     "geom:latitude":35.140335,
     "geom:longitude":-90.030183,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 Madison Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404216679,
-    "wof:lastmodified":1449040187,
+    "wof:lastmodified":1467082780,
     "wof:name":"U T Medical Group Opthamology",
     "wof:parent_id":85893411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-90.030183,35.140335,-90.030183,35.140335],
-  "geometry": {"coordinates":[-90.030183,35.140335],"type":"Point"}
+  "bbox": [
+    -90.030183,
+    35.140335,
+    -90.030183,
+    35.140335
+],
+  "geometry": {"coordinates":[-90.03018299999999,35.140335],"type":"Point"}
 }

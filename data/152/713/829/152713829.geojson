@@ -2,13 +2,14 @@
   "id": 152713829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.309946,35.045025,-86.309946,35.045025",
     "geom:latitude":35.045025,
     "geom:longitude":-86.309946,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1600 Limestone Rd",
     "sg:city":"Elora",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805347,
+        85688701,
         85633793,
         101722723,
         102086227,
-        85688701
+        85805347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152713829,
-    "wof:lastmodified":1449048490,
+    "wof:lastmodified":1467082781,
     "wof:name":"Creative Cabinets",
     "wof:parent_id":85805347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.309946,35.045025,-86.309946,35.045025],
+  "bbox": [
+    -86.309946,
+    35.045025,
+    -86.309946,
+    35.045025
+],
   "geometry": {"coordinates":[-86.309946,35.045025],"type":"Point"}
 }

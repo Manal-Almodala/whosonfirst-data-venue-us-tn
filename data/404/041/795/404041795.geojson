@@ -2,13 +2,14 @@
   "id": 404041795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.020397,36.027082,-84.020397,36.027082",
     "geom:latitude":36.027082,
     "geom:longitude":-84.020397,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1700 W Beaver Creek Dr",
     "sg:city":"Powell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404041795,
-    "wof:lastmodified":1449039454,
+    "wof:lastmodified":1467082779,
     "wof:name":"CGS",
     "wof:parent_id":85838527,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-84.020397,36.027082,-84.020397,36.027082],
+  "bbox": [
+    -84.020397,
+    36.027082,
+    -84.020397,
+    36.027082
+],
   "geometry": {"coordinates":[-84.020397,36.027082],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404200041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.327837,36.219015,-86.327837,36.219015",
     "geom:latitude":36.219015,
     "geom:longitude":-86.327837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1409 W Baddour Pkwy",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404200041,
-    "wof:lastmodified":1449039517,
+    "wof:lastmodified":1467082779,
     "wof:name":"R X Medical Equipment",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.327837,36.219015,-86.327837,36.219015],
+  "bbox": [
+    -86.327837,
+    36.219015,
+    -86.327837,
+    36.219015
+],
   "geometry": {"coordinates":[-86.327837,36.219015],"type":"Point"}
 }

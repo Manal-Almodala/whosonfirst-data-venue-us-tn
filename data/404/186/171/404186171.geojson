@@ -2,13 +2,14 @@
   "id": 404186171,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.881295,36.351161,-88.881295,36.351161",
     "geom:latitude":36.351161,
     "geom:longitude":-88.881295,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"920 University St",
     "sg:city":"Martin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404186171,
-    "wof:lastmodified":1449040034,
+    "wof:lastmodified":1467082780,
     "wof:name":"Reed Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "business"
     ]
 },
-  "bbox": [-88.881295,36.351161,-88.881295,36.351161],
-  "geometry": {"coordinates":[-88.881295,36.351161],"type":"Point"}
+  "bbox": [
+    -88.881295,
+    36.351161,
+    -88.881295,
+    36.351161
+],
+  "geometry": {"coordinates":[-88.88129499999999,36.351161],"type":"Point"}
 }

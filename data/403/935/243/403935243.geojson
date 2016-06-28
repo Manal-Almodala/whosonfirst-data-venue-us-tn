@@ -2,13 +2,14 @@
   "id": 403935243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.793792,36.146874,-86.793792,36.146874",
     "geom:latitude":36.146874,
     "geom:longitude":-86.793792,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"49 Music Sq W",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403935243,
-    "wof:lastmodified":1449055732,
+    "wof:lastmodified":1467082782,
     "wof:name":"Harris Martin Jones Shrum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.793792,36.146874,-86.793792,36.146874],
+  "bbox": [
+    -86.793792,
+    36.146874,
+    -86.793792,
+    36.146874
+],
   "geometry": {"coordinates":[-86.793792,36.146874],"type":"Point"}
 }

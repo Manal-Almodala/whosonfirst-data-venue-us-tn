@@ -2,13 +2,14 @@
   "id": 152410535,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846325,34.977173,-86.846325,34.977173",
     "geom:latitude":34.977173,
     "geom:longitude":-86.846325,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"28969 Brock Rd",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -30,10 +31,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152410535,
-    "wof:lastmodified":1449044359,
+    "wof:lastmodified":1467082781,
     "wof:name":"Deen's Sheet Metal Work",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.846325,34.977173,-86.846325,34.977173],
-  "geometry": {"coordinates":[-86.846325,34.977173],"type":"Point"}
+  "bbox": [
+    -86.846325,
+    34.977173,
+    -86.846325,
+    34.977173
+],
+  "geometry": {"coordinates":[-86.84632499999999,34.977173],"type":"Point"}
 }

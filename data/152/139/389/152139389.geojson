@@ -2,13 +2,14 @@
   "id": 152139389,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.864959,34.980454,-86.864959,34.980454",
     "geom:latitude":34.980454,
     "geom:longitude":-86.864959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25525 Brewer Dr",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152139389,
-    "wof:lastmodified":1449044743,
+    "wof:lastmodified":1467082781,
     "wof:name":"Group Dekko International",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.864959,34.980454,-86.864959,34.980454],
+  "bbox": [
+    -86.864959,
+    34.980454,
+    -86.864959,
+    34.980454
+],
   "geometry": {"coordinates":[-86.864959,34.980454],"type":"Point"}
 }

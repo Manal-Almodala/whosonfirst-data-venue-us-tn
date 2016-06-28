@@ -2,13 +2,14 @@
   "id": 403971271,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.398091,35.848116,-86.398091,35.848116",
     "geom:latitude":35.848116,
     "geom:longitude":-86.398091,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 NW Broad St",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403971271,
-    "wof:lastmodified":1449055320,
+    "wof:lastmodified":1467082782,
     "wof:name":"Richard Brischke CPA",
     "wof:parent_id":85835585,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "accountant"
     ]
 },
-  "bbox": [-86.398091,35.848116,-86.398091,35.848116],
-  "geometry": {"coordinates":[-86.398091,35.848116],"type":"Point"}
+  "bbox": [
+    -86.398091,
+    35.848116,
+    -86.398091,
+    35.848116
+],
+  "geometry": {"coordinates":[-86.39809099999999,35.848116],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403860235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.836922,35.942335,-83.836922,35.942335",
     "geom:latitude":35.942335,
     "geom:longitude":-83.836922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5055 S National Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403860235,
-    "wof:lastmodified":1449055219,
+    "wof:lastmodified":1467082782,
     "wof:name":"Energy Systems Inc",
     "wof:parent_id":85833365,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "system"
     ]
 },
-  "bbox": [-83.836922,35.942335,-83.836922,35.942335],
+  "bbox": [
+    -83.836922,
+    35.942335,
+    -83.836922,
+    35.942335
+],
   "geometry": {"coordinates":[-83.836922,35.942335],"type":"Point"}
 }

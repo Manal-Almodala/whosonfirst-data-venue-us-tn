@@ -2,13 +2,14 @@
   "id": 403955511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.031093,35.198954,-87.031093,35.198954",
     "geom:latitude":35.198954,
     "geom:longitude":-87.031093,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 S 1st St",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403955511,
-    "wof:lastmodified":1449055532,
+    "wof:lastmodified":1467082782,
     "wof:name":"Hershell D Koger Law Office",
     "wof:parent_id":85843973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-87.031093,35.198954,-87.031093,35.198954],
+  "bbox": [
+    -87.031093,
+    35.198954,
+    -87.031093,
+    35.198954
+],
   "geometry": {"coordinates":[-87.031093,35.198954],"type":"Point"}
 }

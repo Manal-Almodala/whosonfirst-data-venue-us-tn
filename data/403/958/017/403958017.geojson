@@ -2,13 +2,14 @@
   "id": 403958017,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.649972,36.050383,-86.649972,36.050383",
     "geom:latitude":36.050383,
     "geom:longitude":-86.649972,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5341 Mount View Rd",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403958017,
-    "wof:lastmodified":1449055679,
+    "wof:lastmodified":1467082782,
     "wof:name":"Amerispec Home Inspection",
     "wof:parent_id":85846409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-86.649972,36.050383,-86.649972,36.050383],
-  "geometry": {"coordinates":[-86.649972,36.050383],"type":"Point"}
+  "bbox": [
+    -86.649972,
+    36.050383,
+    -86.649972,
+    36.050383
+],
+  "geometry": {"coordinates":[-86.64997200000001,36.050383],"type":"Point"}
 }

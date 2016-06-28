@@ -2,13 +2,14 @@
   "id": 152563763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.840457,34.984675,-86.840457,34.984675",
     "geom:latitude":34.984675,
     "geom:longitude":-86.840457,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26865 6th St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152563763,
-    "wof:lastmodified":1449044369,
+    "wof:lastmodified":1467082781,
     "wof:name":"Ardmore Welcome Center",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.840457,34.984675,-86.840457,34.984675],
+  "bbox": [
+    -86.840457,
+    34.984675,
+    -86.840457,
+    34.984675
+],
   "geometry": {"coordinates":[-86.840457,34.984675],"type":"Point"}
 }

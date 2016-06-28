@@ -2,13 +2,14 @@
   "id": 404042437,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.949112,35.754996,-83.949112,35.754996",
     "geom:latitude":35.754996,
     "geom:longitude":-83.949112,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"116 Chantilly Ln",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":404042437,
-    "wof:lastmodified":1449040013,
+    "wof:lastmodified":1467082780,
     "wof:name":"Joel M Burroughs MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-83.949112,35.754996,-83.949112,35.754996],
+  "bbox": [
+    -83.949112,
+    35.754996,
+    -83.949112,
+    35.754996
+],
   "geometry": {"coordinates":[-83.949112,35.754996],"type":"Point"}
 }

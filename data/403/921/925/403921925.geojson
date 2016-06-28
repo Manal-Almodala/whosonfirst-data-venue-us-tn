@@ -2,13 +2,14 @@
   "id": 403921925,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.395488,35.81982,-86.395488,35.81982",
     "geom:latitude":35.81982,
     "geom:longitude":-86.395488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1630 S Church St",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403921925,
-    "wof:lastmodified":1449055475,
+    "wof:lastmodified":1467082782,
     "wof:name":"Aragon Realty Of Murfreesboro",
     "wof:parent_id":85844887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.395488,35.81982,-86.395488,35.81982],
+  "bbox": [
+    -86.395488,
+    35.81982,
+    -86.395488,
+    35.81982
+],
   "geometry": {"coordinates":[-86.395488,35.81982],"type":"Point"}
 }

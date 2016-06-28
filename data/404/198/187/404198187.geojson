@@ -2,13 +2,14 @@
   "id": 404198187,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.957023,35.087448,-89.957023,35.087448",
     "geom:latitude":35.087448,
     "geom:longitude":-89.957023,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1625 Pinecrest Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404198187,
-    "wof:lastmodified":1449039457,
+    "wof:lastmodified":1467082779,
     "wof:name":"Tutt Enterprises",
     "wof:parent_id":85805535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"
     ]
 },
-  "bbox": [-89.957023,35.087448,-89.957023,35.087448],
-  "geometry": {"coordinates":[-89.957023,35.087448],"type":"Point"}
+  "bbox": [
+    -89.957023,
+    35.087448,
+    -89.957023,
+    35.087448
+],
+  "geometry": {"coordinates":[-89.95702300000001,35.087448],"type":"Point"}
 }

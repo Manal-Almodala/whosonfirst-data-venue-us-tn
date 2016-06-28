@@ -2,13 +2,14 @@
   "id": 403982165,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.861684,35.099917,-89.861684,35.099917",
     "geom:latitude":35.099917,
     "geom:longitude":-89.861684,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6005 Park Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403982165,
-    "wof:lastmodified":1449054864,
+    "wof:lastmodified":1467082781,
     "wof:name":"Doctor's Billing & Account",
     "wof:parent_id":85870789,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "medical"
     ]
 },
-  "bbox": [-89.861684,35.099917,-89.861684,35.099917],
+  "bbox": [
+    -89.861684,
+    35.099917,
+    -89.861684,
+    35.099917
+],
   "geometry": {"coordinates":[-89.861684,35.099917],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152274595,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.823094,35.029098,-86.823094,35.029098",
     "geom:latitude":35.029098,
     "geom:longitude":-86.823094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3 Willowbrook Ln",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868159,
+        85688701,
         85633793,
         101722777,
         102087119,
-        85688701
+        85868159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152274595,
-    "wof:lastmodified":1449044873,
+    "wof:lastmodified":1467082781,
     "wof:name":"R & J Cabinets",
     "wof:parent_id":85868159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.823094,35.029098,-86.823094,35.029098],
+  "bbox": [
+    -86.823094,
+    35.029098,
+    -86.823094,
+    35.029098
+],
   "geometry": {"coordinates":[-86.823094,35.029098],"type":"Point"}
 }

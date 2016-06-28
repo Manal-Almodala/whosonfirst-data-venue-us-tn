@@ -2,13 +2,14 @@
   "id": 403989645,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.587777,36.445895,-83.587777,36.445895",
     "geom:latitude":36.445895,
     "geom:longitude":-83.587777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"907 Main St",
     "sg:city":"New Tazewell",
     "sg:classifiers":[
@@ -62,16 +63,22 @@
         }
     ],
     "wof:id":403989645,
-    "wof:lastmodified":1449055586,
+    "wof:lastmodified":1467082782,
     "wof:name":"Walters State Claiborne County",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "county"
     ]
 },
-  "bbox": [-83.587777,36.445895,-83.587777,36.445895],
+  "bbox": [
+    -83.587777,
+    36.445895,
+    -83.587777,
+    36.445895
+],
   "geometry": {"coordinates":[-83.587777,36.445895],"type":"Point"}
 }

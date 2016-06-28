@@ -2,13 +2,14 @@
   "id": 404166055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.307445,35.047102,-85.307445,35.047102",
     "geom:latitude":35.047102,
     "geom:longitude":-85.307445,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"736 Georgia Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404166055,
-    "wof:lastmodified":1449039807,
+    "wof:lastmodified":1467082780,
     "wof:name":"FCP Holdings",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "investment"
     ]
 },
-  "bbox": [-85.307445,35.047102,-85.307445,35.047102],
+  "bbox": [
+    -85.307445,
+    35.047102,
+    -85.307445,
+    35.047102
+],
   "geometry": {"coordinates":[-85.307445,35.047102],"type":"Point"}
 }

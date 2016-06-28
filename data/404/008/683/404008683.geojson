@@ -2,13 +2,14 @@
   "id": 404008683,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.777891,36.16216,-86.777891,36.16216",
     "geom:latitude":36.16216,
     "geom:longitude":-86.777891,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"150 4th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404008683,
-    "wof:lastmodified":1449039395,
+    "wof:lastmodified":1467082779,
     "wof:name":"Morgan Keegan",
     "wof:parent_id":85893483,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "security"
     ]
 },
-  "bbox": [-86.777891,36.16216,-86.777891,36.16216],
+  "bbox": [
+    -86.777891,
+    36.16216,
+    -86.777891,
+    36.16216
+],
   "geometry": {"coordinates":[-86.777891,36.16216],"type":"Point"}
 }

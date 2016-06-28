@@ -2,13 +2,14 @@
   "id": 152126447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.866316,34.977436,-86.866316,34.977436",
     "geom:latitude":34.977436,
     "geom:longitude":-86.866316,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25320 7th St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152126447,
-    "wof:lastmodified":1449046011,
+    "wof:lastmodified":1467082781,
     "wof:name":"Custom Woodcrafters",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.866316,34.977436,-86.866316,34.977436],
+  "bbox": [
+    -86.866316,
+    34.977436,
+    -86.866316,
+    34.977436
+],
   "geometry": {"coordinates":[-86.866316,34.977436],"type":"Point"}
 }

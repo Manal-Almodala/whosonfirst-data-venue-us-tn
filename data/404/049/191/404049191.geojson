@@ -2,13 +2,14 @@
   "id": 404049191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.849127,36.163705,-86.849127,36.163705",
     "geom:latitude":36.163705,
     "geom:longitude":-86.849127,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1404 51st Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404049191,
-    "wof:lastmodified":1449039663,
+    "wof:lastmodified":1467082779,
     "wof:name":"Granite & Marble Concepts Inc",
     "wof:parent_id":85893485,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "merchandise"
     ]
 },
-  "bbox": [-86.849127,36.163705,-86.849127,36.163705],
+  "bbox": [
+    -86.849127,
+    36.163705,
+    -86.849127,
+    36.163705
+],
   "geometry": {"coordinates":[-86.849127,36.163705],"type":"Point"}
 }

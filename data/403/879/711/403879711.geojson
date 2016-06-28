@@ -2,13 +2,14 @@
   "id": 403879711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.656345,36.096573,-86.656345,36.096573",
     "geom:latitude":36.096573,
     "geom:longitude":-86.656345,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1901 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403879711,
-    "wof:lastmodified":1449054646,
+    "wof:lastmodified":1467082781,
     "wof:name":"Canterchase Apartments",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "apartment"
     ]
 },
-  "bbox": [-86.656345,36.096573,-86.656345,36.096573],
+  "bbox": [
+    -86.656345,
+    36.096573,
+    -86.656345,
+    36.096573
+],
   "geometry": {"coordinates":[-86.656345,36.096573],"type":"Point"}
 }

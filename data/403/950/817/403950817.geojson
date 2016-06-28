@@ -2,13 +2,14 @@
   "id": 403950817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.079488,35.909265,-84.079488,35.909265",
     "geom:latitude":35.909265,
     "geom:longitude":-84.079488,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"218 S Peters Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403950817,
-    "wof:lastmodified":1449055157,
+    "wof:lastmodified":1467082782,
     "wof:name":"Drive-Rite Driving School Inc",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "driving"
     ]
 },
-  "bbox": [-84.079488,35.909265,-84.079488,35.909265],
+  "bbox": [
+    -84.079488,
+    35.909265,
+    -84.079488,
+    35.909265
+],
   "geometry": {"coordinates":[-84.079488,35.909265],"type":"Point"}
 }

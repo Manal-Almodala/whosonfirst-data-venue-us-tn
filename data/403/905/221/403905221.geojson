@@ -2,13 +2,14 @@
   "id": 403905221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.779298,36.163635,-86.779298,36.163635",
     "geom:latitude":36.163635,
     "geom:longitude":-86.779298,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"424 Church St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403905221,
-    "wof:lastmodified":1449055164,
+    "wof:lastmodified":1467082782,
     "wof:name":"CB Richard Ellis Inc",
     "wof:parent_id":85893477,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"
     ]
 },
-  "bbox": [-86.779298,36.163635,-86.779298,36.163635],
+  "bbox": [
+    -86.779298,
+    36.163635,
+    -86.779298,
+    36.163635
+],
   "geometry": {"coordinates":[-86.779298,36.163635],"type":"Point"}
 }

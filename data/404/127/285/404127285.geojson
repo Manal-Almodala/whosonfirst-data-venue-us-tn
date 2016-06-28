@@ -2,13 +2,14 @@
   "id": 404127285,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.857944,35.162896,-89.857944,35.162896",
     "geom:latitude":35.162896,
     "geom:longitude":-89.857944,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6155 Macon Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404127285,
-    "wof:lastmodified":1449040230,
+    "wof:lastmodified":1467082780,
     "wof:name":"Tobacco Discount 2",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "dealer"
     ]
 },
-  "bbox": [-89.857944,35.162896,-89.857944,35.162896],
+  "bbox": [
+    -89.857944,
+    35.162896,
+    -89.857944,
+    35.162896
+],
   "geometry": {"coordinates":[-89.857944,35.162896],"type":"Point"}
 }

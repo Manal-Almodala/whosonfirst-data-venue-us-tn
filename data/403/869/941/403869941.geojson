@@ -2,13 +2,14 @@
   "id": 403869941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.797264,36.155158,-86.797264,36.155158",
     "geom:latitude":36.155158,
     "geom:longitude":-86.797264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1719 Church St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403869941,
-    "wof:lastmodified":1449055856,
+    "wof:lastmodified":1467082782,
     "wof:name":"Main Entrance Doors Inc",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-86.797264,36.155158,-86.797264,36.155158],
+  "bbox": [
+    -86.797264,
+    36.155158,
+    -86.797264,
+    36.155158
+],
   "geometry": {"coordinates":[-86.797264,36.155158],"type":"Point"}
 }

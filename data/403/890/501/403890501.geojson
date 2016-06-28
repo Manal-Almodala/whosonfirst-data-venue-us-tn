@@ -2,13 +2,14 @@
   "id": 403890501,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049759,35.145672,-90.049759,35.145672",
     "geom:latitude":35.145672,
     "geom:longitude":-90.049759,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"46 N 3rd St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403890501,
-    "wof:lastmodified":1449054946,
+    "wof:lastmodified":1467082781,
     "wof:name":"Filderman Lee",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.049759,35.145672,-90.049759,35.145672],
-  "geometry": {"coordinates":[-90.049759,35.145672],"type":"Point"}
+  "bbox": [
+    -90.049759,
+    35.145672,
+    -90.049759,
+    35.145672
+],
+  "geometry": {"coordinates":[-90.04975899999999,35.145672],"type":"Point"}
 }

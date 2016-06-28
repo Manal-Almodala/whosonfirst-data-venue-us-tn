@@ -2,13 +2,14 @@
   "id": 404181877,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.949065,35.964618,-88.949065,35.964618",
     "geom:latitude":35.964618,
     "geom:longitude":-88.949065,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1240 Manufacturers Row",
     "sg:city":"Trenton",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404181877,
-    "wof:lastmodified":1449039843,
+    "wof:lastmodified":1467082780,
     "wof:name":"Five M Apparel Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clothing"
     ]
 },
-  "bbox": [-88.949065,35.964618,-88.949065,35.964618],
+  "bbox": [
+    -88.949065,
+    35.964618,
+    -88.949065,
+    35.964618
+],
   "geometry": {"coordinates":[-88.949065,35.964618],"type":"Point"}
 }

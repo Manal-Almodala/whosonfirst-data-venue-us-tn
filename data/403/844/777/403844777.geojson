@@ -2,13 +2,14 @@
   "id": 403844777,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.782755,36.158619,-86.782755,36.158619",
     "geom:latitude":36.158619,
     "geom:longitude":-86.782755,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"801 Broadway",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403844777,
-    "wof:lastmodified":1449055200,
+    "wof:lastmodified":1467082782,
     "wof:name":"Civil Case Information",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.782755,36.158619,-86.782755,36.158619],
-  "geometry": {"coordinates":[-86.782755,36.158619],"type":"Point"}
+  "bbox": [
+    -86.782755,
+    36.158619,
+    -86.782755,
+    36.158619
+],
+  "geometry": {"coordinates":[-86.78275499999999,36.158619],"type":"Point"}
 }

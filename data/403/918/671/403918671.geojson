@@ -2,13 +2,14 @@
   "id": 403918671,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.854073,35.706182,-88.854073,35.706182",
     "geom:latitude":35.706182,
     "geom:longitude":-88.854073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"90 N Star Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403918671,
-    "wof:lastmodified":1449055511,
+    "wof:lastmodified":1467082782,
     "wof:name":"David Riddick Attorney At Law",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-88.854073,35.706182,-88.854073,35.706182],
+  "bbox": [
+    -88.854073,
+    35.706182,
+    -88.854073,
+    35.706182
+],
   "geometry": {"coordinates":[-88.854073,35.706182],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403869685,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.812968,36.036448,-86.812968,36.036448",
     "geom:latitude":36.036448,
     "geom:longitude":-86.812968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"205 Powell Pl",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403869685,
-    "wof:lastmodified":1449055857,
+    "wof:lastmodified":1467082782,
     "wof:name":"Otx Synergy Software Inc",
     "wof:parent_id":85829675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "custom"
     ]
 },
-  "bbox": [-86.812968,36.036448,-86.812968,36.036448],
+  "bbox": [
+    -86.812968,
+    36.036448,
+    -86.812968,
+    36.036448
+],
   "geometry": {"coordinates":[-86.812968,36.036448],"type":"Point"}
 }

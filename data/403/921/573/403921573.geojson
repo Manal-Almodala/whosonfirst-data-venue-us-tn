@@ -2,13 +2,14 @@
   "id": 403921573,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.512882,36.176653,-86.512882,36.176653",
     "geom:latitude":36.176653,
     "geom:longitude":-86.512882,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"580 N Mount Juliet Rd",
     "sg:city":"Mt Juliet",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403921573,
-    "wof:lastmodified":1449055478,
+    "wof:lastmodified":1467082782,
     "wof:name":"Cinco De Mayo Restaurant",
     "wof:parent_id":85805387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.512882,36.176653,-86.512882,36.176653],
+  "bbox": [
+    -86.512882,
+    36.176653,
+    -86.512882,
+    36.176653
+],
   "geometry": {"coordinates":[-86.512882,36.176653],"type":"Point"}
 }

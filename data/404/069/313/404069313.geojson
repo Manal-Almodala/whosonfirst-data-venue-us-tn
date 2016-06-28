@@ -2,13 +2,14 @@
   "id": 404069313,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.804527,36.152772,-86.804527,36.152772",
     "geom:latitude":36.152772,
     "geom:longitude":-86.804527,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 22nd Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404069313,
-    "wof:lastmodified":1449039879,
+    "wof:lastmodified":1467082780,
     "wof:name":"Kaiser Trabue Landscape Archit",
     "wof:parent_id":85893455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "landscape"
     ]
 },
-  "bbox": [-86.804527,36.152772,-86.804527,36.152772],
-  "geometry": {"coordinates":[-86.804527,36.152772],"type":"Point"}
+  "bbox": [
+    -86.804527,
+    36.152772,
+    -86.804527,
+    36.152772
+],
+  "geometry": {"coordinates":[-86.80452699999999,36.152772],"type":"Point"}
 }

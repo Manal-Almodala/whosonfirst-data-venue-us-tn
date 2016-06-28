@@ -2,13 +2,14 @@
   "id": 404191391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.525587,35.323079,-84.525587,35.323079",
     "geom:latitude":35.323079,
     "geom:longitude":-84.525587,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"812 Tennessee Ave",
     "sg:city":"Etowah",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404191391,
-    "wof:lastmodified":1449039838,
+    "wof:lastmodified":1467082780,
     "wof:name":"East Tennessee Jewelry",
     "wof:parent_id":85837601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.525587,35.323079,-84.525587,35.323079],
+  "bbox": [
+    -84.525587,
+    35.323079,
+    -84.525587,
+    35.323079
+],
   "geometry": {"coordinates":[-84.525587,35.323079],"type":"Point"}
 }

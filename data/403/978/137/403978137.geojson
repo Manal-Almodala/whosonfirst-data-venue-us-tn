@@ -2,13 +2,14 @@
   "id": 403978137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.563629,36.547979,-82.563629,36.547979",
     "geom:latitude":36.547979,
     "geom:longitude":-82.563629,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"333 W Market St",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403978137,
-    "wof:lastmodified":1449055400,
+    "wof:lastmodified":1467082782,
     "wof:name":"Patsy Dunkin",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "framing"
     ]
 },
-  "bbox": [-82.563629,36.547979,-82.563629,36.547979],
-  "geometry": {"coordinates":[-82.563629,36.547979],"type":"Point"}
+  "bbox": [
+    -82.563629,
+    36.547979,
+    -82.563629,
+    36.547979
+],
+  "geometry": {"coordinates":[-82.56362900000001,36.547979],"type":"Point"}
 }

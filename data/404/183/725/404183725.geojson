@@ -2,13 +2,14 @@
   "id": 404183725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.191002,35.243453,-85.191002,35.243453",
     "geom:latitude":35.243453,
     "geom:longitude":-85.191002,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9619 Dayton Pike",
     "sg:city":"Soddy Daisy",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404183725,
-    "wof:lastmodified":1449039779,
+    "wof:lastmodified":1467082780,
     "wof:name":"R & P Auction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-85.191002,35.243453,-85.191002,35.243453],
+  "bbox": [
+    -85.191002,
+    35.243453,
+    -85.191002,
+    35.243453
+],
   "geometry": {"coordinates":[-85.191002,35.243453],"type":"Point"}
 }

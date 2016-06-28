@@ -2,13 +2,14 @@
   "id": 404062567,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.471197,35.927945,-86.471197,35.927945",
     "geom:latitude":35.927945,
     "geom:longitude":-86.471197,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5948 New Nashville Hwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404062567,
-    "wof:lastmodified":1449040261,
+    "wof:lastmodified":1467082780,
     "wof:name":"Ship Shape Marine Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "boat"
     ]
 },
-  "bbox": [-86.471197,35.927945,-86.471197,35.927945],
+  "bbox": [
+    -86.471197,
+    35.927945,
+    -86.471197,
+    35.927945
+],
   "geometry": {"coordinates":[-86.471197,35.927945],"type":"Point"}
 }

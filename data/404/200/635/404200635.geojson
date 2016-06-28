@@ -2,13 +2,14 @@
   "id": 404200635,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802495,36.152489,-86.802495,36.152489",
     "geom:latitude":36.152489,
     "geom:longitude":-86.802495,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2011 Church St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404200635,
-    "wof:lastmodified":1449039517,
+    "wof:lastmodified":1467082779,
     "wof:name":"Tennessee Womens Care",
     "wof:parent_id":85893455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.802495,36.152489,-86.802495,36.152489],
-  "geometry": {"coordinates":[-86.802495,36.152489],"type":"Point"}
+  "bbox": [
+    -86.802495,
+    36.152489,
+    -86.802495,
+    36.152489
+],
+  "geometry": {"coordinates":[-86.80249499999999,36.152489],"type":"Point"}
 }

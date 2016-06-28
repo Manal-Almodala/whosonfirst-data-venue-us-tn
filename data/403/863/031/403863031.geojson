@@ -2,13 +2,14 @@
   "id": 403863031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.951815,35.19507,-89.951815,35.19507",
     "geom:latitude":35.19507,
     "geom:longitude":-89.951815,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2539 New Raleigh Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403863031,
-    "wof:lastmodified":1449055526,
+    "wof:lastmodified":1467082782,
     "wof:name":"Thomas Chapel M B Church",
     "wof:parent_id":85870771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.951815,35.19507,-89.951815,35.19507],
+  "bbox": [
+    -89.951815,
+    35.19507,
+    -89.951815,
+    35.19507
+],
   "geometry": {"coordinates":[-89.951815,35.19507],"type":"Point"}
 }

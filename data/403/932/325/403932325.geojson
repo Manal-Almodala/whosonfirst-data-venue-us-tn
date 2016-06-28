@@ -2,13 +2,14 @@
   "id": 403932325,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.166359,36.578075,-82.166359,36.578075",
     "geom:latitude":36.578075,
     "geom:longitude":-82.166359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1503 Virginia Ave",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403932325,
-    "wof:lastmodified":1449055122,
+    "wof:lastmodified":1467082782,
     "wof:name":"Ratliffs Properties",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "nonresidential"
     ]
 },
-  "bbox": [-82.166359,36.578075,-82.166359,36.578075],
+  "bbox": [
+    -82.166359,
+    36.578075,
+    -82.166359,
+    36.578075
+],
   "geometry": {"coordinates":[-82.166359,36.578075],"type":"Point"}
 }

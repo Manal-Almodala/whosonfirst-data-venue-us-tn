@@ -2,13 +2,14 @@
   "id": 404067607,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.746494,36.125802,-86.746494,36.125802",
     "geom:latitude":36.125802,
     "geom:longitude":-86.746494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2144 Oakland St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":404067607,
-    "wof:lastmodified":1449039121,
+    "wof:lastmodified":1467082779,
     "wof:name":"Steve Longs Painting",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.746494,36.125802,-86.746494,36.125802],
+  "bbox": [
+    -86.746494,
+    36.125802,
+    -86.746494,
+    36.125802
+],
   "geometry": {"coordinates":[-86.746494,36.125802],"type":"Point"}
 }

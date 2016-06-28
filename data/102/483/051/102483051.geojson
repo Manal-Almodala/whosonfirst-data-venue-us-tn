@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102483051,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.356701,35.019301,-86.356701,35.019301",
     "geom:latitude":35.019301,
     "geom:longitude":-86.356701,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"256 John Hunter Hwy",
     "sg:city":"Elora",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102483051,
-    "wof:lastmodified":1449069667,
+    "wof:lastmodified":1467082783,
     "wof:name":"Elora Market & Deli",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.356701,35.019301,-86.356701,35.019301],
+  "bbox": [
+    -86.356701,
+    35.019301,
+    -86.356701,
+    35.019301
+],
   "geometry": {"coordinates":[-86.356701,35.019301],"type":"Point"}
 }

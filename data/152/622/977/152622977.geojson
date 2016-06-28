@@ -2,13 +2,14 @@
   "id": 152622977,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.30872,35.045568,-86.30872,35.045568",
     "geom:latitude":35.045568,
     "geom:longitude":-86.30872,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1519 Limestone Rd",
     "sg:city":"Elora",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85805347,
+        85688701,
         85633793,
         101722723,
         102086227,
-        85688701
+        85805347
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152622977,
-    "wof:lastmodified":1449048079,
+    "wof:lastmodified":1467082781,
     "wof:name":"Donaldson Grove Baptist Church",
     "wof:parent_id":85805347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.30872,35.045568,-86.30872,35.045568],
-  "geometry": {"coordinates":[-86.30872,35.045568],"type":"Point"}
+  "bbox": [
+    -86.30872,
+    35.045568,
+    -86.30872,
+    35.045568
+],
+  "geometry": {"coordinates":[-86.30871999999999,35.045568],"type":"Point"}
 }

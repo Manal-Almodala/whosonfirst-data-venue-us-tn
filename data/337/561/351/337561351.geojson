@@ -2,13 +2,14 @@
   "id": 337561351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.334264,34.996771,-84.334264,34.996771",
     "geom:latitude":34.996771,
     "geom:longitude":-84.334264,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"521 Pleasant Hill Rd",
     "sg:city":"Copperhill",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":337561351,
-    "wof:lastmodified":1449027519,
+    "wof:lastmodified":1467082778,
     "wof:name":"S & D Cycle",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.334264,34.996771,-84.334264,34.996771],
+  "bbox": [
+    -84.334264,
+    34.996771,
+    -84.334264,
+    34.996771
+],
   "geometry": {"coordinates":[-84.334264,34.996771],"type":"Point"}
 }

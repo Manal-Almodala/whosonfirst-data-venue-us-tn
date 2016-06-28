@@ -2,13 +2,14 @@
   "id": 404206157,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.034794,35.129331,-90.034794,35.129331",
     "geom:latitude":35.129331,
     "geom:longitude":-90.034794,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"822 E E H Crump Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404206157,
-    "wof:lastmodified":1449039953,
+    "wof:lastmodified":1467082780,
     "wof:name":"Bountiful Blessings Warehouse",
     "wof:parent_id":85803189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.034794,35.129331,-90.034794,35.129331],
-  "geometry": {"coordinates":[-90.034794,35.129331],"type":"Point"}
+  "bbox": [
+    -90.034794,
+    35.129331,
+    -90.034794,
+    35.129331
+],
+  "geometry": {"coordinates":[-90.03479400000001,35.129331],"type":"Point"}
 }

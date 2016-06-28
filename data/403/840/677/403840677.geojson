@@ -2,13 +2,14 @@
   "id": 403840677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.880634,35.170623,-89.880634,35.170623",
     "geom:latitude":35.170623,
     "geom:longitude":-89.880634,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5455 Crestview Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403840677,
-    "wof:lastmodified":1449055667,
+    "wof:lastmodified":1467082782,
     "wof:name":"Memphis H V A C Div 0613",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "air"
     ]
 },
-  "bbox": [-89.880634,35.170623,-89.880634,35.170623],
+  "bbox": [
+    -89.880634,
+    35.170623,
+    -89.880634,
+    35.170623
+],
   "geometry": {"coordinates":[-89.880634,35.170623],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404184725,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837922,36.145719,-86.837922,36.145719",
     "geom:latitude":36.145719,
     "geom:longitude":-86.837922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4208 Wyoming Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404184725,
-    "wof:lastmodified":1449039237,
+    "wof:lastmodified":1467082779,
     "wof:name":"Good & Evil Design",
     "wof:parent_id":85844411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837922,36.145719,-86.837922,36.145719],
-  "geometry": {"coordinates":[-86.837922,36.145719],"type":"Point"}
+  "bbox": [
+    -86.837922,
+    36.145719,
+    -86.837922,
+    36.145719
+],
+  "geometry": {"coordinates":[-86.83792200000001,36.145719],"type":"Point"}
 }

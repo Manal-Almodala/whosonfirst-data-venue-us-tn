@@ -2,13 +2,14 @@
   "id": 403866371,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.613867,36.580088,-82.613867,36.580088",
     "geom:latitude":36.580088,
     "geom:longitude":-82.613867,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"314 Big Elm Rd",
     "sg:city":"Church Hill",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":403866371,
-    "wof:lastmodified":1449055265,
+    "wof:lastmodified":1467082782,
     "wof:name":"Jason Couch",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-82.613867,36.580088,-82.613867,36.580088],
+  "bbox": [
+    -82.613867,
+    36.580088,
+    -82.613867,
+    36.580088
+],
   "geometry": {"coordinates":[-82.613867,36.580088],"type":"Point"}
 }

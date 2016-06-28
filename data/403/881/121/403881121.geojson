@@ -2,13 +2,14 @@
   "id": 403881121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816233,36.141952,-86.816233,36.141952",
     "geom:latitude":36.141952,
     "geom:longitude":-86.816233,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3100 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403881121,
-    "wof:lastmodified":1449055413,
+    "wof:lastmodified":1467082782,
     "wof:name":"Omnicare Health Plan Inc",
     "wof:parent_id":85893447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.816233,36.141952,-86.816233,36.141952],
+  "bbox": [
+    -86.816233,
+    36.141952,
+    -86.816233,
+    36.141952
+],
   "geometry": {"coordinates":[-86.816233,36.141952],"type":"Point"}
 }

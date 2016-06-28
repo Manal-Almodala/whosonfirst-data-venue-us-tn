@@ -2,13 +2,14 @@
   "id": 403988127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.902579,35.796629,-86.902579,35.796629",
     "geom:latitude":35.796629,
     "geom:longitude":-86.902579,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Thompsons Station Rd E",
     "sg:city":"Thompsons Sta",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403988127,
-    "wof:lastmodified":1449055086,
+    "wof:lastmodified":1467082782,
     "wof:name":"Berg Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.902579,35.796629,-86.902579,35.796629],
+  "bbox": [
+    -86.902579,
+    35.796629,
+    -86.902579,
+    35.796629
+],
   "geometry": {"coordinates":[-86.902579,35.796629],"type":"Point"}
 }

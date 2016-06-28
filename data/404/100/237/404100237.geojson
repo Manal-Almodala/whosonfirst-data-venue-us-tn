@@ -2,13 +2,14 @@
   "id": 404100237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.995774,35.923162,-83.995774,35.923162",
     "geom:latitude":35.923162,
     "geom:longitude":-83.995774,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5908 Lyons View Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404100237,
-    "wof:lastmodified":1449040001,
+    "wof:lastmodified":1467082780,
     "wof:name":"Metropolitan Drug Commission",
     "wof:parent_id":85831819,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "outpatient"
     ]
 },
-  "bbox": [-83.995774,35.923162,-83.995774,35.923162],
+  "bbox": [
+    -83.995774,
+    35.923162,
+    -83.995774,
+    35.923162
+],
   "geometry": {"coordinates":[-83.995774,35.923162],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403993471,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.1804,36.060364,-89.1804,36.060364",
     "geom:latitude":36.060364,
     "geom:longitude":-89.1804,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1039 Austin Rd",
     "sg:city":"Newbern",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403993471,
-    "wof:lastmodified":1449055219,
+    "wof:lastmodified":1467082782,
     "wof:name":"R L Austin Sons",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "lessor"
     ]
 },
-  "bbox": [-89.1804,36.060364,-89.1804,36.060364],
-  "geometry": {"coordinates":[-89.1804,36.060364],"type":"Point"}
+  "bbox": [
+    -89.1804,
+    36.060364,
+    -89.1804,
+    36.060364
+],
+  "geometry": {"coordinates":[-89.18040000000001,36.060364],"type":"Point"}
 }

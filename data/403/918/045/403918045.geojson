@@ -2,13 +2,14 @@
   "id": 403918045,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.925246,36.000004,-83.925246,36.000004",
     "geom:latitude":36.000004,
     "geom:longitude":-83.925246,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3010 N Broadway St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403918045,
-    "wof:lastmodified":1449055512,
+    "wof:lastmodified":1467082782,
     "wof:name":"Check Cash U S A Inc",
     "wof:parent_id":85803533,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "cashing"
     ]
 },
-  "bbox": [-83.925246,36.000004,-83.925246,36.000004],
+  "bbox": [
+    -83.925246,
+    36.000004,
+    -83.925246,
+    36.000004
+],
   "geometry": {"coordinates":[-83.925246,36.000004],"type":"Point"}
 }

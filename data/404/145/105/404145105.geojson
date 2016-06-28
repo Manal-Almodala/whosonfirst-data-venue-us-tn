@@ -2,13 +2,14 @@
   "id": 404145105,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.746889,36.162936,-86.746889,36.162936",
     "geom:latitude":36.162936,
     "geom:longitude":-86.746889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1304 Davidson St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404145105,
-    "wof:lastmodified":1449039385,
+    "wof:lastmodified":1467082779,
     "wof:name":"Pacific Wholesale Distributors",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.746889,36.162936,-86.746889,36.162936],
+  "bbox": [
+    -86.746889,
+    36.162936,
+    -86.746889,
+    36.162936
+],
   "geometry": {"coordinates":[-86.746889,36.162936],"type":"Point"}
 }

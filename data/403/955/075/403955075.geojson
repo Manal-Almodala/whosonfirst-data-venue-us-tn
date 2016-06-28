@@ -2,13 +2,14 @@
   "id": 403955075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.518482,36.13685,-88.518482,36.13685",
     "geom:latitude":36.13685,
     "geom:longitude":-88.518482,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"211 N Laurel St",
     "sg:city":"Mc Kenzie",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403955075,
-    "wof:lastmodified":1449055531,
+    "wof:lastmodified":1467082782,
     "wof:name":"Bethel College",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "school"
     ]
 },
-  "bbox": [-88.518482,36.13685,-88.518482,36.13685],
-  "geometry": {"coordinates":[-88.518482,36.13685],"type":"Point"}
+  "bbox": [
+    -88.518482,
+    36.13685,
+    -88.518482,
+    36.13685
+],
+  "geometry": {"coordinates":[-88.51848200000001,36.13685],"type":"Point"}
 }

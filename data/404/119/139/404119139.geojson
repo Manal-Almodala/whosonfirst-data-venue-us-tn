@@ -2,13 +2,14 @@
   "id": 404119139,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.910949,35.79891,-86.910949,35.79891",
     "geom:latitude":35.79891,
     "geom:longitude":-86.910949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1739 School St",
     "sg:city":"Thompsons Sta",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404119139,
-    "wof:lastmodified":1449039979,
+    "wof:lastmodified":1467082780,
     "wof:name":"Tim Neal Electric AC Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.910949,35.79891,-86.910949,35.79891],
+  "bbox": [
+    -86.910949,
+    35.79891,
+    -86.910949,
+    35.79891
+],
   "geometry": {"coordinates":[-86.910949,35.79891],"type":"Point"}
 }

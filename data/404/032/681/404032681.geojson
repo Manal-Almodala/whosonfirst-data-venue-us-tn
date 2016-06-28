@@ -2,13 +2,14 @@
   "id": 404032681,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.794951,36.140765,-86.794951,36.140765",
     "geom:latitude":36.140765,
     "geom:longitude":-86.794951,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 17th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404032681,
-    "wof:lastmodified":1449039623,
+    "wof:lastmodified":1467082779,
     "wof:name":"Beth Barnard",
     "wof:parent_id":85893451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychotherapist"
     ]
 },
-  "bbox": [-86.794951,36.140765,-86.794951,36.140765],
+  "bbox": [
+    -86.794951,
+    36.140765,
+    -86.794951,
+    36.140765
+],
   "geometry": {"coordinates":[-86.794951,36.140765],"type":"Point"}
 }

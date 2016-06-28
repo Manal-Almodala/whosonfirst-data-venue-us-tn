@@ -2,13 +2,14 @@
   "id": 403898217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.013447,35.493621,-85.013447,35.493621",
     "geom:latitude":35.493621,
     "geom:longitude":-85.013447,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1349 Market St",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403898217,
-    "wof:lastmodified":1449054604,
+    "wof:lastmodified":1467082781,
     "wof:name":"Amtrust Mortgage Corp",
     "wof:parent_id":85811795,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "real estate"
     ]
 },
-  "bbox": [-85.013447,35.493621,-85.013447,35.493621],
+  "bbox": [
+    -85.013447,
+    35.493621,
+    -85.013447,
+    35.493621
+],
   "geometry": {"coordinates":[-85.013447,35.493621],"type":"Point"}
 }

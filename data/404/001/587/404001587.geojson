@@ -2,13 +2,14 @@
   "id": 404001587,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.600162,36.079994,-85.600162,36.079994",
     "geom:latitude":36.079994,
     "geom:longitude":-85.600162,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4907 Window Cliff Rd",
     "sg:city":"Baxter",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404001587,
-    "wof:lastmodified":1449039329,
+    "wof:lastmodified":1467082779,
     "wof:name":"Watts Electric H&C",
     "wof:parent_id":85851797,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.600162,36.079994,-85.600162,36.079994],
+  "bbox": [
+    -85.600162,
+    36.079994,
+    -85.600162,
+    36.079994
+],
   "geometry": {"coordinates":[-85.600162,36.079994],"type":"Point"}
 }

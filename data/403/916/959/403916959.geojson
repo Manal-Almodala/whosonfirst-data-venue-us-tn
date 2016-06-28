@@ -2,13 +2,14 @@
   "id": 403916959,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.02222,35.12876,-90.02222,35.12876",
     "geom:latitude":35.12876,
     "geom:longitude":-90.02222,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1202 Minna Pl",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403916959,
-    "wof:lastmodified":1449055363,
+    "wof:lastmodified":1467082782,
     "wof:name":"Blossoms Towne Hse Buty Salon",
     "wof:parent_id":85803189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-90.02222,35.12876,-90.02222,35.12876],
+  "bbox": [
+    -90.02222,
+    35.12876,
+    -90.02222,
+    35.12876
+],
   "geometry": {"coordinates":[-90.02222,35.12876],"type":"Point"}
 }

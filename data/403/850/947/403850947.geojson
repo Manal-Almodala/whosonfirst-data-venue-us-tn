@@ -2,13 +2,14 @@
   "id": 403850947,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.815554,36.176469,-86.815554,36.176469",
     "geom:latitude":36.176469,
     "geom:longitude":-86.815554,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2412 Osage St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403850947,
-    "wof:lastmodified":1449055405,
+    "wof:lastmodified":1467082782,
     "wof:name":"St Matthews Missionary Baptist",
     "wof:parent_id":85806715,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.815554,36.176469,-86.815554,36.176469],
-  "geometry": {"coordinates":[-86.815554,36.176469],"type":"Point"}
+  "bbox": [
+    -86.815554,
+    36.176469,
+    -86.815554,
+    36.176469
+],
+  "geometry": {"coordinates":[-86.81555400000001,36.176469],"type":"Point"}
 }

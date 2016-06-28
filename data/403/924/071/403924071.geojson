@@ -2,13 +2,14 @@
   "id": 403924071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.890388,35.151372,-89.890388,35.151372",
     "geom:latitude":35.151372,
     "geom:longitude":-89.890388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5119 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403924071,
-    "wof:lastmodified":1449055010,
+    "wof:lastmodified":1467082782,
     "wof:name":"Arthur R Levitch Co & Hsptlty",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.890388,35.151372,-89.890388,35.151372],
+  "bbox": [
+    -89.890388,
+    35.151372,
+    -89.890388,
+    35.151372
+],
   "geometry": {"coordinates":[-89.890388,35.151372],"type":"Point"}
 }

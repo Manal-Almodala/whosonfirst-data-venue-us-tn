@@ -2,13 +2,14 @@
   "id": 404015811,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.78323,36.078707,-83.78323,36.078707",
     "geom:latitude":36.078707,
     "geom:longitude":-83.78323,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8716 Millertown Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404015811,
-    "wof:lastmodified":1449039333,
+    "wof:lastmodified":1467082779,
     "wof:name":"C & S Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "electrical"
     ]
 },
-  "bbox": [-83.78323,36.078707,-83.78323,36.078707],
+  "bbox": [
+    -83.78323,
+    36.078707,
+    -83.78323,
+    36.078707
+],
   "geometry": {"coordinates":[-83.78323,36.078707],"type":"Point"}
 }

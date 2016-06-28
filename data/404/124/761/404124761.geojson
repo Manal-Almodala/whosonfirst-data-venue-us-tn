@@ -2,13 +2,14 @@
   "id": 404124761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.685769,36.147592,-86.685769,36.147592",
     "geom:latitude":36.147592,
     "geom:longitude":-86.685769,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"25 Century Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404124761,
-    "wof:lastmodified":1449040248,
+    "wof:lastmodified":1467082780,
     "wof:name":"First Title Corporation",
     "wof:parent_id":85833877,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "title"
     ]
 },
-  "bbox": [-86.685769,36.147592,-86.685769,36.147592],
-  "geometry": {"coordinates":[-86.685769,36.147592],"type":"Point"}
+  "bbox": [
+    -86.685769,
+    36.147592,
+    -86.685769,
+    36.147592
+],
+  "geometry": {"coordinates":[-86.68576899999999,36.147592],"type":"Point"}
 }

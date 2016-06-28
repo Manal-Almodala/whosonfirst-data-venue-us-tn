@@ -2,13 +2,14 @@
   "id": 404050957,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.699548,35.755287,-88.699548,35.755287",
     "geom:latitude":35.755287,
     "geom:longitude":-88.699548,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"184 Hallie Anderson Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404050957,
-    "wof:lastmodified":1449039801,
+    "wof:lastmodified":1467082780,
     "wof:name":"Faith Builders",
     "wof:parent_id":85830001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "house"
     ]
 },
-  "bbox": [-88.699548,35.755287,-88.699548,35.755287],
-  "geometry": {"coordinates":[-88.699548,35.755287],"type":"Point"}
+  "bbox": [
+    -88.699548,
+    35.755287,
+    -88.699548,
+    35.755287
+],
+  "geometry": {"coordinates":[-88.69954799999999,35.755287],"type":"Point"}
 }

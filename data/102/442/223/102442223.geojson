@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102442223,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.358714,35.013258,-86.358714,35.013258",
     "geom:latitude":35.013258,
     "geom:longitude":-86.358714,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Old Huntland Rd",
     "sg:city":"Elora",
     "sg:classifiers":[
@@ -43,14 +44,20 @@
         }
     ],
     "wof:id":102442223,
-    "wof:lastmodified":1449068819,
+    "wof:lastmodified":1467082783,
     "wof:name":"Elora Fertilizer & Hardware Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.358714,35.013258,-86.358714,35.013258],
-  "geometry": {"coordinates":[-86.358714,35.013258],"type":"Point"}
+  "bbox": [
+    -86.358714,
+    35.013258,
+    -86.358714,
+    35.013258
+],
+  "geometry": {"coordinates":[-86.35871400000001,35.013258],"type":"Point"}
 }

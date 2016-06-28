@@ -2,13 +2,14 @@
   "id": 403912147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.639159,36.093548,-86.639159,36.093548",
     "geom:latitude":36.093548,
     "geom:longitude":-86.639159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"837 Long Hunter Ct",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403912147,
-    "wof:lastmodified":1449055294,
+    "wof:lastmodified":1467082782,
     "wof:name":"Carolyn Long Demonbreun Assoc",
     "wof:parent_id":85849085,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-86.639159,36.093548,-86.639159,36.093548],
-  "geometry": {"coordinates":[-86.639159,36.093548],"type":"Point"}
+  "bbox": [
+    -86.639159,
+    36.093548,
+    -86.639159,
+    36.093548
+],
+  "geometry": {"coordinates":[-86.63915900000001,36.093548],"type":"Point"}
 }

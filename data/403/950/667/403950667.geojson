@@ -2,13 +2,14 @@
   "id": 403950667,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.446618,36.388777,-86.446618,36.388777",
     "geom:latitude":36.388777,
     "geom:longitude":-86.446618,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"132 N Water Ave",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403950667,
-    "wof:lastmodified":1449055155,
+    "wof:lastmodified":1467082782,
     "wof:name":"Serendipities",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "embroidery"
     ]
 },
-  "bbox": [-86.446618,36.388777,-86.446618,36.388777],
+  "bbox": [
+    -86.446618,
+    36.388777,
+    -86.446618,
+    36.388777
+],
   "geometry": {"coordinates":[-86.446618,36.388777],"type":"Point"}
 }

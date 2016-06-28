@@ -2,13 +2,14 @@
   "id": 403932993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.982458,35.946766,-83.982458,35.946766",
     "geom:latitude":35.946766,
     "geom:longitude":-83.982458,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"516 Renford Rd NW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403932993,
-    "wof:lastmodified":1449055123,
+    "wof:lastmodified":1467082782,
     "wof:name":"Roof Design Works Inc",
     "wof:parent_id":85819883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "roof"
     ]
 },
-  "bbox": [-83.982458,35.946766,-83.982458,35.946766],
-  "geometry": {"coordinates":[-83.982458,35.946766],"type":"Point"}
+  "bbox": [
+    -83.982458,
+    35.946766,
+    -83.982458,
+    35.946766
+],
+  "geometry": {"coordinates":[-83.98245799999999,35.946766],"type":"Point"}
 }

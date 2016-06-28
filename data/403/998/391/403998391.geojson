@@ -2,13 +2,14 @@
   "id": 403998391,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.240116,36.582846,-82.240116,36.582846",
     "geom:latitude":36.582846,
     "geom:longitude":-82.240116,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Tiffany Ln",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403998391,
-    "wof:lastmodified":1449055067,
+    "wof:lastmodified":1467082782,
     "wof:name":"Wilson Dental Laboratories",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "laboratory"
     ]
 },
-  "bbox": [-82.240116,36.582846,-82.240116,36.582846],
+  "bbox": [
+    -82.240116,
+    36.582846,
+    -82.240116,
+    36.582846
+],
   "geometry": {"coordinates":[-82.240116,36.582846],"type":"Point"}
 }

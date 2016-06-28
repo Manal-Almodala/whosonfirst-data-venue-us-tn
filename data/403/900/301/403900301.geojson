@@ -2,13 +2,14 @@
   "id": 403900301,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.057558,35.125483,-86.057558,35.125483",
     "geom:latitude":35.125483,
     "geom:longitude":-86.057558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3464 Williams Cove Rd",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403900301,
-    "wof:lastmodified":1449055208,
+    "wof:lastmodified":1467082782,
     "wof:name":"Comp Rx",
     "wof:parent_id":85805347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "repair"
     ]
 },
-  "bbox": [-86.057558,35.125483,-86.057558,35.125483],
+  "bbox": [
+    -86.057558,
+    35.125483,
+    -86.057558,
+    35.125483
+],
   "geometry": {"coordinates":[-86.057558,35.125483],"type":"Point"}
 }

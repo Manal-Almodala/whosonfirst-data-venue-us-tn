@@ -2,13 +2,14 @@
   "id": 403991701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.901797,36.123637,-86.901797,36.123637",
     "geom:latitude":36.123637,
     "geom:longitude":-86.901797,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"992 Davidson Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403991701,
-    "wof:lastmodified":1449055051,
+    "wof:lastmodified":1467082782,
     "wof:name":"Apartment Finder",
     "wof:parent_id":85855925,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "book"
     ]
 },
-  "bbox": [-86.901797,36.123637,-86.901797,36.123637],
+  "bbox": [
+    -86.901797,
+    36.123637,
+    -86.901797,
+    36.123637
+],
   "geometry": {"coordinates":[-86.901797,36.123637],"type":"Point"}
 }

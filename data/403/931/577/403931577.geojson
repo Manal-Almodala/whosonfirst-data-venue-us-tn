@@ -2,13 +2,14 @@
   "id": 403931577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.56648,35.859717,-83.56648,35.859717",
     "geom:latitude":35.859717,
     "geom:longitude":-83.56648,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"645 Parkway",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403931577,
-    "wof:lastmodified":1449055852,
+    "wof:lastmodified":1467082782,
     "wof:name":"Speed Of Light Tanning Salon",
     "wof:parent_id":85841771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "salon"
     ]
 },
-  "bbox": [-83.56648,35.859717,-83.56648,35.859717],
+  "bbox": [
+    -83.56648,
+    35.859717,
+    -83.56648,
+    35.859717
+],
   "geometry": {"coordinates":[-83.56648,35.859717],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404063879,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.7674,36.214956,-86.7674,36.214956",
     "geom:latitude":36.214956,
     "geom:longitude":-86.7674,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2615 Hart St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404063879,
-    "wof:lastmodified":1449039123,
+    "wof:lastmodified":1467082779,
     "wof:name":"Summer Song Inc",
     "wof:parent_id":85868503,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "mfg"
     ]
 },
-  "bbox": [-86.7674,36.214956,-86.7674,36.214956],
-  "geometry": {"coordinates":[-86.7674,36.214956],"type":"Point"}
+  "bbox": [
+    -86.7674,
+    36.214956,
+    -86.7674,
+    36.214956
+],
+  "geometry": {"coordinates":[-86.76739999999999,36.214956],"type":"Point"}
 }

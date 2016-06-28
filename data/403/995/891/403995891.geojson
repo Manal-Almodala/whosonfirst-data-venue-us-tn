@@ -2,13 +2,14 @@
   "id": 403995891,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.283485,36.224437,-86.283485,36.224437",
     "geom:latitude":36.224437,
     "geom:longitude":-86.283485,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"906 Mayfair Dr",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403995891,
-    "wof:lastmodified":1449055824,
+    "wof:lastmodified":1467082782,
     "wof:name":"Stone Way Acres",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "residential"
     ]
 },
-  "bbox": [-86.283485,36.224437,-86.283485,36.224437],
+  "bbox": [
+    -86.283485,
+    36.224437,
+    -86.283485,
+    36.224437
+],
   "geometry": {"coordinates":[-86.283485,36.224437],"type":"Point"}
 }

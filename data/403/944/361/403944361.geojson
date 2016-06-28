@@ -2,13 +2,14 @@
   "id": 403944361,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.105877,35.888328,-84.105877,35.888328",
     "geom:latitude":35.888328,
     "geom:longitude":-84.105877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9819 George Williams Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403944361,
-    "wof:lastmodified":1449055307,
+    "wof:lastmodified":1467082782,
     "wof:name":"Crye Rental LLC",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.105877,35.888328,-84.105877,35.888328],
-  "geometry": {"coordinates":[-84.105877,35.888328],"type":"Point"}
+  "bbox": [
+    -84.105877,
+    35.888328,
+    -84.105877,
+    35.888328
+],
+  "geometry": {"coordinates":[-84.10587700000001,35.888328],"type":"Point"}
 }

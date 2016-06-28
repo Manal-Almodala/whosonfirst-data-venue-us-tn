@@ -2,13 +2,14 @@
   "id": 403882585,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.991328,35.936752,-83.991328,35.936752",
     "geom:latitude":35.936752,
     "geom:longitude":-83.991328,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5201 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403882585,
-    "wof:lastmodified":1449054865,
+    "wof:lastmodified":1467082781,
     "wof:name":"Rickie's Petites",
     "wof:parent_id":85805071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "lady"
     ]
 },
-  "bbox": [-83.991328,35.936752,-83.991328,35.936752],
+  "bbox": [
+    -83.991328,
+    35.936752,
+    -83.991328,
+    35.936752
+],
   "geometry": {"coordinates":[-83.991328,35.936752],"type":"Point"}
 }

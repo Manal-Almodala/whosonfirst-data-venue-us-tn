@@ -2,13 +2,14 @@
   "id": 404214787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.7135,36.386853,-86.7135,36.386853",
     "geom:latitude":36.386853,
     "geom:longitude":-86.7135,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"165 Fisher Rd",
     "sg:city":"Goodlettsville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404214787,
-    "wof:lastmodified":1449040289,
+    "wof:lastmodified":1467082781,
     "wof:name":"Kim-Trey Home Maintenance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.7135,36.386853,-86.7135,36.386853],
+  "bbox": [
+    -86.7135,
+    36.386853,
+    -86.7135,
+    36.386853
+],
   "geometry": {"coordinates":[-86.7135,36.386853],"type":"Point"}
 }

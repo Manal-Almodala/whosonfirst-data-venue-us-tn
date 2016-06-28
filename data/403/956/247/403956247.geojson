@@ -2,13 +2,14 @@
   "id": 403956247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.715704,35.130078,-84.715704,35.130078",
     "geom:latitude":35.130078,
     "geom:longitude":-84.715704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4101 US Hwy 411",
     "sg:city":"Ocoee",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403956247,
-    "wof:lastmodified":1449054855,
+    "wof:lastmodified":1467082781,
     "wof:name":"Favorite Market",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.715704,35.130078,-84.715704,35.130078],
+  "bbox": [
+    -84.715704,
+    35.130078,
+    -84.715704,
+    35.130078
+],
   "geometry": {"coordinates":[-84.715704,35.130078],"type":"Point"}
 }

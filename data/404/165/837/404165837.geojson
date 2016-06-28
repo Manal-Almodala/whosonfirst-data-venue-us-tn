@@ -2,13 +2,14 @@
   "id": 404165837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.302294,36.180565,-83.302294,36.180565",
     "geom:latitude":36.180565,
     "geom:longitude":-83.302294,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2386 Sulphur Springs Rd",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404165837,
-    "wof:lastmodified":1449040329,
+    "wof:lastmodified":1467082781,
     "wof:name":"Lee's Cycle Shop & Salvage",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "motor"
     ]
 },
-  "bbox": [-83.302294,36.180565,-83.302294,36.180565],
+  "bbox": [
+    -83.302294,
+    36.180565,
+    -83.302294,
+    36.180565
+],
   "geometry": {"coordinates":[-83.302294,36.180565],"type":"Point"}
 }

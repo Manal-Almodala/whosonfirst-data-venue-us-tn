@@ -2,13 +2,14 @@
   "id": 404023395,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.634423,36.077765,-86.634423,36.077765",
     "geom:latitude":36.077765,
     "geom:longitude":-86.634423,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Bell Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404023395,
-    "wof:lastmodified":1449040218,
+    "wof:lastmodified":1467082780,
     "wof:name":"Aard Yart",
     "wof:parent_id":85846409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "invitation"
     ]
 },
-  "bbox": [-86.634423,36.077765,-86.634423,36.077765],
+  "bbox": [
+    -86.634423,
+    36.077765,
+    -86.634423,
+    36.077765
+],
   "geometry": {"coordinates":[-86.634423,36.077765],"type":"Point"}
 }

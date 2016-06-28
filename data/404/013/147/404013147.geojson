@@ -2,13 +2,14 @@
   "id": 404013147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.565511,36.027908,-86.565511,36.027908",
     "geom:latitude":36.027908,
     "geom:longitude":-86.565511,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1118 Moss Trl",
     "sg:city":"La Vergne",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404013147,
-    "wof:lastmodified":1449039943,
+    "wof:lastmodified":1467082780,
     "wof:name":"Tow Masters Wrecker Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-86.565511,36.027908,-86.565511,36.027908],
+  "bbox": [
+    -86.565511,
+    36.027908,
+    -86.565511,
+    36.027908
+],
   "geometry": {"coordinates":[-86.565511,36.027908],"type":"Point"}
 }

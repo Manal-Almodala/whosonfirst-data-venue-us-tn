@@ -2,13 +2,14 @@
   "id": 152584037,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.33704,35.007159,-86.33704,35.007159",
     "geom:latitude":35.007159,
     "geom:longitude":-86.33704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Mountain Rd",
     "sg:city":"Elora",
     "sg:classifiers":[
@@ -30,11 +31,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868159,
+        85688701,
         85633793,
         101722777,
         102087119,
-        85688701
+        85868159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":152584037,
-    "wof:lastmodified":1449044817,
+    "wof:lastmodified":1467082781,
     "wof:name":"Jerry Moorehead",
     "wof:parent_id":85868159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.33704,35.007159,-86.33704,35.007159],
+  "bbox": [
+    -86.33704,
+    35.007159,
+    -86.33704,
+    35.007159
+],
   "geometry": {"coordinates":[-86.33704,35.007159],"type":"Point"}
 }

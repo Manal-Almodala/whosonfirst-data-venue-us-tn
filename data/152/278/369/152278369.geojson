@@ -2,13 +2,14 @@
   "id": 152278369,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846493,34.987729,-86.846493,34.987729",
     "geom:latitude":34.987729,
     "geom:longitude":-86.846493,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30248 Ardmore Ave",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152278369,
-    "wof:lastmodified":1449046854,
+    "wof:lastmodified":1467082781,
     "wof:name":"Light House Thrift Store",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.846493,34.987729,-86.846493,34.987729],
+  "bbox": [
+    -86.846493,
+    34.987729,
+    -86.846493,
+    34.987729
+],
   "geometry": {"coordinates":[-86.846493,34.987729],"type":"Point"}
 }

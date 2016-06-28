@@ -2,13 +2,14 @@
   "id": 403965965,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.172421,35.920878,-84.172421,35.920878",
     "geom:latitude":35.920878,
     "geom:longitude":-84.172421,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1516 Chapes Ln",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403965965,
-    "wof:lastmodified":1449055543,
+    "wof:lastmodified":1467082782,
     "wof:name":"Corban HRG",
     "wof:parent_id":85853837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "software"
     ]
 },
-  "bbox": [-84.172421,35.920878,-84.172421,35.920878],
+  "bbox": [
+    -84.172421,
+    35.920878,
+    -84.172421,
+    35.920878
+],
   "geometry": {"coordinates":[-84.172421,35.920878],"type":"Point"}
 }

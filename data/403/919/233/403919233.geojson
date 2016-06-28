@@ -2,13 +2,14 @@
   "id": 403919233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.006046,36.408126,-83.006046,36.408126",
     "geom:latitude":36.408126,
     "geom:longitude":-83.006046,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 N Church St",
     "sg:city":"Rogersville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403919233,
-    "wof:lastmodified":1449055641,
+    "wof:lastmodified":1467082782,
     "wof:name":"Glamour Beauty Shop",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-83.006046,36.408126,-83.006046,36.408126],
+  "bbox": [
+    -83.006046,
+    36.408126,
+    -83.006046,
+    36.408126
+],
   "geometry": {"coordinates":[-83.006046,36.408126],"type":"Point"}
 }

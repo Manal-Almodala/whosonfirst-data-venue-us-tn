@@ -2,13 +2,14 @@
   "id": 404084701,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.302181,35.609084,-84.302181,35.609084",
     "geom:latitude":35.609084,
     "geom:longitude":-84.302181,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"229 Gene Dr",
     "sg:city":"Madisonville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404084701,
-    "wof:lastmodified":1449039151,
+    "wof:lastmodified":1467082779,
     "wof:name":"Harris Heating & Refrigeration",
     "wof:parent_id":85820143,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "refrigeration"
     ]
 },
-  "bbox": [-84.302181,35.609084,-84.302181,35.609084],
+  "bbox": [
+    -84.302181,
+    35.609084,
+    -84.302181,
+    35.609084
+],
   "geometry": {"coordinates":[-84.302181,35.609084],"type":"Point"}
 }

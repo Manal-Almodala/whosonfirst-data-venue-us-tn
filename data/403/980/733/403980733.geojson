@@ -2,13 +2,14 @@
   "id": 403980733,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.214777,35.047782,-85.214777,35.047782",
     "geom:latitude":35.047782,
     "geom:longitude":-85.214777,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4249 Shallowford Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":403980733,
-    "wof:lastmodified":1449054725,
+    "wof:lastmodified":1467082781,
     "wof:name":"Stepping Out Bar and Grill",
     "wof:parent_id":85812811,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "eating"
     ]
 },
-  "bbox": [-85.214777,35.047782,-85.214777,35.047782],
+  "bbox": [
+    -85.214777,
+    35.047782,
+    -85.214777,
+    35.047782
+],
   "geometry": {"coordinates":[-85.214777,35.047782],"type":"Point"}
 }

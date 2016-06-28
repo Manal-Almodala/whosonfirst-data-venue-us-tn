@@ -2,13 +2,14 @@
   "id": 404208137,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.636194,36.308758,-86.636194,36.308758",
     "geom:latitude":36.308758,
     "geom:longitude":-86.636194,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"64 Industrial Park Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":404208137,
-    "wof:lastmodified":1449039159,
+    "wof:lastmodified":1467082779,
     "wof:name":"Award Industries Inc",
     "wof:parent_id":85825073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.636194,36.308758,-86.636194,36.308758],
+  "bbox": [
+    -86.636194,
+    36.308758,
+    -86.636194,
+    36.308758
+],
   "geometry": {"coordinates":[-86.636194,36.308758],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404203433,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.243918,36.023536,-84.243918,36.023536",
     "geom:latitude":36.023536,
     "geom:longitude":-84.243918,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"988 Oak Ridge Tpke",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404203433,
-    "wof:lastmodified":1449039548,
+    "wof:lastmodified":1467082779,
     "wof:name":"FMC Oak Ridge Dialysis",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic"
     ]
 },
-  "bbox": [-84.243918,36.023536,-84.243918,36.023536],
-  "geometry": {"coordinates":[-84.243918,36.023536],"type":"Point"}
+  "bbox": [
+    -84.243918,
+    36.023536,
+    -84.243918,
+    36.023536
+],
+  "geometry": {"coordinates":[-84.24391799999999,36.023536],"type":"Point"}
 }

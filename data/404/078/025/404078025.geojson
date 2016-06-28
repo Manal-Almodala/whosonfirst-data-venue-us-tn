@@ -2,13 +2,14 @@
   "id": 404078025,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.837582,35.668169,-88.837582,35.668169",
     "geom:latitude":35.668169,
     "geom:longitude":-88.837582,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"124 Devonshire Sq",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404078025,
-    "wof:lastmodified":1449040136,
+    "wof:lastmodified":1467082780,
     "wof:name":"Emily's-A Nail Salon",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "manicuring"
     ]
 },
-  "bbox": [-88.837582,35.668169,-88.837582,35.668169],
+  "bbox": [
+    -88.837582,
+    35.668169,
+    -88.837582,
+    35.668169
+],
   "geometry": {"coordinates":[-88.837582,35.668169],"type":"Point"}
 }

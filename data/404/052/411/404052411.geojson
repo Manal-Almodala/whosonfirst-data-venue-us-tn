@@ -2,13 +2,14 @@
   "id": 404052411,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.699129,35.015652,-85.699129,35.015652",
     "geom:latitude":35.015652,
     "geom:longitude":-85.699129,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 N Ash Ave",
     "sg:city":"South Pittsburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404052411,
-    "wof:lastmodified":1449039555,
+    "wof:lastmodified":1467082779,
     "wof:name":"Royal Remanufactoring",
     "wof:parent_id":85823635,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "related"
     ]
 },
-  "bbox": [-85.699129,35.015652,-85.699129,35.015652],
+  "bbox": [
+    -85.699129,
+    35.015652,
+    -85.699129,
+    35.015652
+],
   "geometry": {"coordinates":[-85.699129,35.015652],"type":"Point"}
 }

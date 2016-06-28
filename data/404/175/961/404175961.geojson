@@ -2,13 +2,14 @@
   "id": 404175961,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.792498,35.706804,-85.792498,35.706804",
     "geom:latitude":35.706804,
     "geom:longitude":-85.792498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1227 Old Smithville Rd",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404175961,
-    "wof:lastmodified":1449039961,
+    "wof:lastmodified":1467082780,
     "wof:name":"Loveable Pets",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.792498,35.706804,-85.792498,35.706804],
-  "geometry": {"coordinates":[-85.792498,35.706804],"type":"Point"}
+  "bbox": [
+    -85.792498,
+    35.706804,
+    -85.792498,
+    35.706804
+],
+  "geometry": {"coordinates":[-85.79249799999999,35.706804],"type":"Point"}
 }

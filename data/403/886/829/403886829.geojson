@@ -2,13 +2,14 @@
   "id": 403886829,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.020854,35.032448,-90.020854,35.032448",
     "geom:latitude":35.032448,
     "geom:longitude":-90.020854,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1264 Wesley Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403886829,
-    "wof:lastmodified":1449055374,
+    "wof:lastmodified":1467082782,
     "wof:name":"Gastroenterology Consultants",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "medical"
     ]
 },
-  "bbox": [-90.020854,35.032448,-90.020854,35.032448],
+  "bbox": [
+    -90.020854,
+    35.032448,
+    -90.020854,
+    35.032448
+],
   "geometry": {"coordinates":[-90.020854,35.032448],"type":"Point"}
 }

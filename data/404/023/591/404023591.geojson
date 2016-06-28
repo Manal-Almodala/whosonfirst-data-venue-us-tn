@@ -2,13 +2,14 @@
   "id": 404023591,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.142309,35.97299,-84.142309,35.97299",
     "geom:latitude":35.97299,
     "geom:longitude":-84.142309,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8334 Faranda Way",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404023591,
-    "wof:lastmodified":1449040217,
+    "wof:lastmodified":1467082780,
     "wof:name":"Snyder Jeff Photography",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photo"
     ]
 },
-  "bbox": [-84.142309,35.97299,-84.142309,35.97299],
+  "bbox": [
+    -84.142309,
+    35.97299,
+    -84.142309,
+    35.97299
+],
   "geometry": {"coordinates":[-84.142309,35.97299],"type":"Point"}
 }

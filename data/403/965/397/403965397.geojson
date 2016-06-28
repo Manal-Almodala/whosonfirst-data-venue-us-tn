@@ -2,13 +2,14 @@
   "id": 403965397,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.575486,36.553525,-82.575486,36.553525",
     "geom:latitude":36.553525,
     "geom:longitude":-82.575486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"724 W Center St",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -53,14 +54,20 @@
         }
     ],
     "wof:id":403965397,
-    "wof:lastmodified":1449055540,
+    "wof:lastmodified":1467082782,
     "wof:name":"Toohey Jordan & Stewart Rl Est",
     "wof:parent_id":85847837,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.575486,36.553525,-82.575486,36.553525],
+  "bbox": [
+    -82.575486,
+    36.553525,
+    -82.575486,
+    36.553525
+],
   "geometry": {"coordinates":[-82.575486,36.553525],"type":"Point"}
 }

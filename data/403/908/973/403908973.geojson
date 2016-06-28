@@ -2,13 +2,14 @@
   "id": 403908973,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.003468,35.929636,-84.003468,35.929636",
     "geom:latitude":35.929636,
     "geom:longitude":-84.003468,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6200 Baum Dr SW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403908973,
-    "wof:lastmodified":1449055394,
+    "wof:lastmodified":1467082782,
     "wof:name":"J K Rymer Co",
     "wof:parent_id":85805071,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "builder"
     ]
 },
-  "bbox": [-84.003468,35.929636,-84.003468,35.929636],
+  "bbox": [
+    -84.003468,
+    35.929636,
+    -84.003468,
+    35.929636
+],
   "geometry": {"coordinates":[-84.003468,35.929636],"type":"Point"}
 }

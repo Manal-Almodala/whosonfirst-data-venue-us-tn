@@ -2,13 +2,14 @@
   "id": 404104853,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.977831,35.941289,-83.977831,35.941289",
     "geom:latitude":35.941289,
     "geom:longitude":-83.977831,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4441 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404104853,
-    "wof:lastmodified":1449039524,
+    "wof:lastmodified":1467082779,
     "wof:name":"Fitness Solutions Inc",
     "wof:parent_id":85819883,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "fitness"
     ]
 },
-  "bbox": [-83.977831,35.941289,-83.977831,35.941289],
-  "geometry": {"coordinates":[-83.977831,35.941289],"type":"Point"}
+  "bbox": [
+    -83.977831,
+    35.941289,
+    -83.977831,
+    35.941289
+],
+  "geometry": {"coordinates":[-83.97783099999999,35.941289],"type":"Point"}
 }

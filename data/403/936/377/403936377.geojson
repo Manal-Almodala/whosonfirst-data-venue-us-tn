@@ -2,13 +2,14 @@
   "id": 403936377,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.801498,36.037378,-86.801498,36.037378",
     "geom:latitude":36.037378,
     "geom:longitude":-86.801498,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Westpark Dr",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403936377,
-    "wof:lastmodified":1449055077,
+    "wof:lastmodified":1467082782,
     "wof:name":"Strategic Receivable Mgmt LLC",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fuel"
     ]
 },
-  "bbox": [-86.801498,36.037378,-86.801498,36.037378],
+  "bbox": [
+    -86.801498,
+    36.037378,
+    -86.801498,
+    36.037378
+],
   "geometry": {"coordinates":[-86.801498,36.037378],"type":"Point"}
 }

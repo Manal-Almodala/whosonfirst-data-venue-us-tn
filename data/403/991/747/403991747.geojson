@@ -2,13 +2,14 @@
   "id": 403991747,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.313292,35.016678,-85.313292,35.016678",
     "geom:latitude":35.016678,
     "geom:longitude":-85.313292,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3126 Alton Park Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403991747,
-    "wof:lastmodified":1449055050,
+    "wof:lastmodified":1467082782,
     "wof:name":"Kenco Toyota-Lift",
     "wof:parent_id":85846343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "truck"
     ]
 },
-  "bbox": [-85.313292,35.016678,-85.313292,35.016678],
+  "bbox": [
+    -85.313292,
+    35.016678,
+    -85.313292,
+    35.016678
+],
   "geometry": {"coordinates":[-85.313292,35.016678],"type":"Point"}
 }

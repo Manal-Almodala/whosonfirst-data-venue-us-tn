@@ -2,13 +2,14 @@
   "id": 403883269,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.930685,35.967757,-88.930685,35.967757",
     "geom:latitude":35.967757,
     "geom:longitude":-88.930685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2020 US Hwy 45W Byp",
     "sg:city":"Trenton",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403883269,
-    "wof:lastmodified":1449055650,
+    "wof:lastmodified":1467082782,
     "wof:name":"Sheilas LA Chic Beauty Salon",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-88.930685,35.967757,-88.930685,35.967757],
+  "bbox": [
+    -88.930685,
+    35.967757,
+    -88.930685,
+    35.967757
+],
   "geometry": {"coordinates":[-88.930685,35.967757],"type":"Point"}
 }

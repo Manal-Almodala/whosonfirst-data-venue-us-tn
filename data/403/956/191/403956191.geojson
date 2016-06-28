@@ -2,13 +2,14 @@
   "id": 403956191,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.229224,35.226957,-88.229224,35.226957",
     "geom:latitude":35.226957,
     "geom:longitude":-88.229224,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2105 Wayne Rd",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403956191,
-    "wof:lastmodified":1449054856,
+    "wof:lastmodified":1467082781,
     "wof:name":"SPC Home Medical Equipment",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "oxygen"
     ]
 },
-  "bbox": [-88.229224,35.226957,-88.229224,35.226957],
+  "bbox": [
+    -88.229224,
+    35.226957,
+    -88.229224,
+    35.226957
+],
   "geometry": {"coordinates":[-88.229224,35.226957],"type":"Point"}
 }

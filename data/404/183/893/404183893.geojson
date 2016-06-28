@@ -2,13 +2,14 @@
   "id": 404183893,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-81.838335,36.427914,-81.838335,36.427914",
     "geom:latitude":36.427914,
     "geom:longitude":-81.838335,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1931 Mining Town Rd",
     "sg:city":"Mountain City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404183893,
-    "wof:lastmodified":1449039780,
+    "wof:lastmodified":1467082780,
     "wof:name":"Alko Handyman Svc",
     "wof:parent_id":85830907,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-81.838335,36.427914,-81.838335,36.427914],
+  "bbox": [
+    -81.838335,
+    36.427914,
+    -81.838335,
+    36.427914
+],
   "geometry": {"coordinates":[-81.838335,36.427914],"type":"Point"}
 }

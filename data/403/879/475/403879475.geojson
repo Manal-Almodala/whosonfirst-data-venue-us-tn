@@ -2,13 +2,14 @@
   "id": 403879475,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.811517,35.556535,-88.811517,35.556535",
     "geom:latitude":35.556535,
     "geom:longitude":-88.811517,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1940 S Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403879475,
-    "wof:lastmodified":1449054644,
+    "wof:lastmodified":1467082781,
     "wof:name":"Save On Cleaning",
     "wof:parent_id":85868161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "cleaners"
     ]
 },
-  "bbox": [-88.811517,35.556535,-88.811517,35.556535],
-  "geometry": {"coordinates":[-88.811517,35.556535],"type":"Point"}
+  "bbox": [
+    -88.811517,
+    35.556535,
+    -88.811517,
+    35.556535
+],
+  "geometry": {"coordinates":[-88.81151699999999,35.556535],"type":"Point"}
 }

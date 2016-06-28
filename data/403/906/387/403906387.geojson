@@ -2,13 +2,14 @@
   "id": 403906387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.869407,35.925059,-86.869407,35.925059",
     "geom:latitude":35.925059,
     "geom:longitude":-86.869407,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"320 Main St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403906387,
-    "wof:lastmodified":1449055131,
+    "wof:lastmodified":1467082782,
     "wof:name":"Beal & McClendon Mediation",
     "wof:parent_id":85845733,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.869407,35.925059,-86.869407,35.925059],
+  "bbox": [
+    -86.869407,
+    35.925059,
+    -86.869407,
+    35.925059
+],
   "geometry": {"coordinates":[-86.869407,35.925059],"type":"Point"}
 }

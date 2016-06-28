@@ -2,13 +2,14 @@
   "id": 404067233,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.884741,35.076771,-89.884741,35.076771",
     "geom:latitude":35.076771,
     "geom:longitude":-89.884741,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2711 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":404067233,
-    "wof:lastmodified":1449039124,
+    "wof:lastmodified":1467082779,
     "wof:name":"Consumer Car Care Corp",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "automobile"
     ]
 },
-  "bbox": [-89.884741,35.076771,-89.884741,35.076771],
-  "geometry": {"coordinates":[-89.884741,35.076771],"type":"Point"}
+  "bbox": [
+    -89.884741,
+    35.076771,
+    -89.884741,
+    35.076771
+],
+  "geometry": {"coordinates":[-89.88474100000001,35.076771],"type":"Point"}
 }

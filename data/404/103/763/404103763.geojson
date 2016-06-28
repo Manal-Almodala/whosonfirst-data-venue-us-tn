@@ -2,13 +2,14 @@
   "id": 404103763,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.006583,35.220979,-90.006583,35.220979",
     "geom:latitude":35.220979,
     "geom:longitude":-90.006583,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1776 Winston Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404103763,
-    "wof:lastmodified":1449039868,
+    "wof:lastmodified":1467082780,
     "wof:name":"Miller Janitorial",
     "wof:parent_id":85820619,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-90.006583,35.220979,-90.006583,35.220979],
-  "geometry": {"coordinates":[-90.006583,35.220979],"type":"Point"}
+  "bbox": [
+    -90.006583,
+    35.220979,
+    -90.006583,
+    35.220979
+],
+  "geometry": {"coordinates":[-90.00658300000001,35.220979],"type":"Point"}
 }

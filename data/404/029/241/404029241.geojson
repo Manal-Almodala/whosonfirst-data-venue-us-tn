@@ -2,13 +2,14 @@
   "id": 404029241,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.634993,36.305812,-86.634993,36.305812",
     "geom:latitude":36.305812,
     "geom:longitude":-86.634993,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"75 New Shackle Island Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404029241,
-    "wof:lastmodified":1449039545,
+    "wof:lastmodified":1467082779,
     "wof:name":"Complete Home Health Care",
     "wof:parent_id":85825073,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "care"
     ]
 },
-  "bbox": [-86.634993,36.305812,-86.634993,36.305812],
-  "geometry": {"coordinates":[-86.634993,36.305812],"type":"Point"}
+  "bbox": [
+    -86.634993,
+    36.305812,
+    -86.634993,
+    36.305812
+],
+  "geometry": {"coordinates":[-86.63499299999999,36.305812],"type":"Point"}
 }

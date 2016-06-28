@@ -2,13 +2,14 @@
   "id": 403885211,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.824558,36.600872,-86.824558,36.600872",
     "geom:latitude":36.600872,
     "geom:longitude":-86.824558,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5832 Roy Perry Rd",
     "sg:city":"Springfield",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403885211,
-    "wof:lastmodified":1449055348,
+    "wof:lastmodified":1467082782,
     "wof:name":"M M Electrical Contractors",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.824558,36.600872,-86.824558,36.600872],
+  "bbox": [
+    -86.824558,
+    36.600872,
+    -86.824558,
+    36.600872
+],
   "geometry": {"coordinates":[-86.824558,36.600872],"type":"Point"}
 }

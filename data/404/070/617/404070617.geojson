@@ -2,13 +2,14 @@
   "id": 404070617,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.737922,36.096474,-86.737922,36.096474",
     "geom:latitude":36.096474,
     "geom:longitude":-86.737922,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3605 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404070617,
-    "wof:lastmodified":1449039588,
+    "wof:lastmodified":1467082779,
     "wof:name":"Primos Auto Sales Inc",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.737922,36.096474,-86.737922,36.096474],
+  "bbox": [
+    -86.737922,
+    36.096474,
+    -86.737922,
+    36.096474
+],
   "geometry": {"coordinates":[-86.737922,36.096474],"type":"Point"}
 }

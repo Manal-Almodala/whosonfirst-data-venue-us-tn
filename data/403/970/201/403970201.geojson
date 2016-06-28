@@ -2,13 +2,14 @@
   "id": 403970201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.822453,35.909983,-86.822453,35.909983",
     "geom:latitude":35.909983,
     "geom:longitude":-86.822453,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4234 S Carothers Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403970201,
-    "wof:lastmodified":1449055930,
+    "wof:lastmodified":1467082783,
     "wof:name":"Hyundai Of Franklin",
     "wof:parent_id":85807181,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-86.822453,35.909983,-86.822453,35.909983],
+  "bbox": [
+    -86.822453,
+    35.909983,
+    -86.822453,
+    35.909983
+],
   "geometry": {"coordinates":[-86.822453,35.909983],"type":"Point"}
 }

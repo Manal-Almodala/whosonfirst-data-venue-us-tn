@@ -2,13 +2,14 @@
   "id": 403944121,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.962757,36.166706,-83.962757,36.166706",
     "geom:latitude":36.166706,
     "geom:longitude":-83.962757,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"10017 Hill Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":403944121,
-    "wof:lastmodified":1449055307,
+    "wof:lastmodified":1467082782,
     "wof:name":"A & A Simpson Electric Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "contractor"
     ]
 },
-  "bbox": [-83.962757,36.166706,-83.962757,36.166706],
+  "bbox": [
+    -83.962757,
+    36.166706,
+    -83.962757,
+    36.166706
+],
   "geometry": {"coordinates":[-83.962757,36.166706],"type":"Point"}
 }

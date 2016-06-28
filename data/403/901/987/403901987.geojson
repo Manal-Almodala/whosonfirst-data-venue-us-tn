@@ -2,13 +2,14 @@
   "id": 403901987,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.722907,36.362705,-86.722907,36.362705",
     "geom:latitude":36.362705,
     "geom:longitude":-86.722907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"110 Cimmaron Dr",
     "sg:city":"Goodlettsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403901987,
-    "wof:lastmodified":1449055186,
+    "wof:lastmodified":1467082782,
     "wof:name":"Agroventure Partners LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "whole"
     ]
 },
-  "bbox": [-86.722907,36.362705,-86.722907,36.362705],
-  "geometry": {"coordinates":[-86.722907,36.362705],"type":"Point"}
+  "bbox": [
+    -86.722907,
+    36.362705,
+    -86.722907,
+    36.362705
+],
+  "geometry": {"coordinates":[-86.72290700000001,36.362705],"type":"Point"}
 }

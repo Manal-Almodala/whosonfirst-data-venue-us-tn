@@ -2,13 +2,14 @@
   "id": 404127221,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.544449,36.038441,-86.544449,36.038441",
     "geom:latitude":36.038441,
     "geom:longitude":-86.544449,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"232 Lake Forest Dr",
     "sg:city":"La Vergne",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404127221,
-    "wof:lastmodified":1449040231,
+    "wof:lastmodified":1467082780,
     "wof:name":"Eds Atv",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "mfg"
     ]
 },
-  "bbox": [-86.544449,36.038441,-86.544449,36.038441],
+  "bbox": [
+    -86.544449,
+    36.038441,
+    -86.544449,
+    36.038441
+],
   "geometry": {"coordinates":[-86.544449,36.038441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404207517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.022353,35.035441,-90.022353,35.035441",
     "geom:latitude":35.035441,
     "geom:longitude":-90.022353,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1231 E Raines Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404207517,
-    "wof:lastmodified":1449039967,
+    "wof:lastmodified":1467082780,
     "wof:name":"People Svcs",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.022353,35.035441,-90.022353,35.035441],
+  "bbox": [
+    -90.022353,
+    35.035441,
+    -90.022353,
+    35.035441
+],
   "geometry": {"coordinates":[-90.022353,35.035441],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403951753,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.755084,36.161354,-86.755084,36.161354",
     "geom:latitude":36.161354,
     "geom:longitude":-86.755084,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"620 Davidson St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403951753,
-    "wof:lastmodified":1449054672,
+    "wof:lastmodified":1467082781,
     "wof:name":"Bradfield Stage Lighting",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -71,6 +73,11 @@
         "special"
     ]
 },
-  "bbox": [-86.755084,36.161354,-86.755084,36.161354],
+  "bbox": [
+    -86.755084,
+    36.161354,
+    -86.755084,
+    36.161354
+],
   "geometry": {"coordinates":[-86.755084,36.161354],"type":"Point"}
 }

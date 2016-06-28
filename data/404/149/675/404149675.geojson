@@ -2,13 +2,14 @@
   "id": 404149675,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.583989,36.213637,-86.583989,36.213637",
     "geom:latitude":36.213637,
     "geom:longitude":-86.583989,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"825 Oak Leaf Dr",
     "sg:city":"Old Hickory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404149675,
-    "wof:lastmodified":1449039086,
+    "wof:lastmodified":1467082778,
     "wof:name":"Embroidery Place",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "embroidery"
     ]
 },
-  "bbox": [-86.583989,36.213637,-86.583989,36.213637],
+  "bbox": [
+    -86.583989,
+    36.213637,
+    -86.583989,
+    36.213637
+],
   "geometry": {"coordinates":[-86.583989,36.213637],"type":"Point"}
 }

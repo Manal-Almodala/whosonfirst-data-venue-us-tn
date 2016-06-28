@@ -2,13 +2,14 @@
   "id": 404184031,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.724591,36.143827,-86.724591,36.143827",
     "geom:latitude":36.143827,
     "geom:longitude":-86.724591,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1451 Elm Hill Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404184031,
-    "wof:lastmodified":1449039237,
+    "wof:lastmodified":1467082779,
     "wof:name":"Premier Mailroom Solutions",
     "wof:parent_id":85822001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "mailing"
     ]
 },
-  "bbox": [-86.724591,36.143827,-86.724591,36.143827],
+  "bbox": [
+    -86.724591,
+    36.143827,
+    -86.724591,
+    36.143827
+],
   "geometry": {"coordinates":[-86.724591,36.143827],"type":"Point"}
 }

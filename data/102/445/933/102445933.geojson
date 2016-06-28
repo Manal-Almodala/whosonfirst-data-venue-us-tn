@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102445933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.30428,35.059481,-86.30428,35.059481",
     "geom:latitude":35.059481,
     "geom:longitude":-86.30428,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"243 Campbell Ln",
     "sg:city":"Elora",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":102445933,
-    "wof:lastmodified":1449068126,
+    "wof:lastmodified":1467082783,
     "wof:name":"Bradley Construction",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.30428,35.059481,-86.30428,35.059481],
-  "geometry": {"coordinates":[-86.30428,35.059481],"type":"Point"}
+  "bbox": [
+    -86.30428,
+    35.059481,
+    -86.30428,
+    35.059481
+],
+  "geometry": {"coordinates":[-86.30428000000001,35.059481],"type":"Point"}
 }

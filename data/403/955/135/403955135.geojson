@@ -2,13 +2,14 @@
   "id": 403955135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.747348,35.698227,-85.747348,35.698227",
     "geom:latitude":35.698227,
     "geom:longitude":-85.747348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"108 Magness Dr",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403955135,
-    "wof:lastmodified":1449055532,
+    "wof:lastmodified":1467082782,
     "wof:name":"Warren County Screw Machine",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "mfg"
     ]
 },
-  "bbox": [-85.747348,35.698227,-85.747348,35.698227],
+  "bbox": [
+    -85.747348,
+    35.698227,
+    -85.747348,
+    35.698227
+],
   "geometry": {"coordinates":[-85.747348,35.698227],"type":"Point"}
 }

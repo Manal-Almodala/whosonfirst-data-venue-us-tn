@@ -2,13 +2,14 @@
   "id": 403999921,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.039276,36.197459,-84.039276,36.197459",
     "geom:latitude":36.197459,
     "geom:longitude":-84.039276,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"105 Wallace Ln",
     "sg:city":"Andersonville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403999921,
-    "wof:lastmodified":1449055812,
+    "wof:lastmodified":1467082782,
     "wof:name":"White Brothers Plumbing",
     "wof:parent_id":85825681,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.039276,36.197459,-84.039276,36.197459],
+  "bbox": [
+    -84.039276,
+    36.197459,
+    -84.039276,
+    36.197459
+],
   "geometry": {"coordinates":[-84.039276,36.197459],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403878827,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.552035,35.547988,-87.552035,35.547988",
     "geom:latitude":35.547988,
     "geom:longitude":-87.552035,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11 E Main St",
     "sg:city":"Hohenwald",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403878827,
-    "wof:lastmodified":1449055337,
+    "wof:lastmodified":1467082782,
     "wof:name":"Sleep Diagnostics Center LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "laboratory"
     ]
 },
-  "bbox": [-87.552035,35.547988,-87.552035,35.547988],
+  "bbox": [
+    -87.552035,
+    35.547988,
+    -87.552035,
+    35.547988
+],
   "geometry": {"coordinates":[-87.552035,35.547988],"type":"Point"}
 }

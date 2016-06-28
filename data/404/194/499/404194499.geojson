@@ -2,13 +2,14 @@
   "id": 404194499,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.038873,35.988921,-85.038873,35.988921",
     "geom:latitude":35.988921,
     "geom:longitude":-85.038873,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3152 N Main St",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404194499,
-    "wof:lastmodified":1449040140,
+    "wof:lastmodified":1467082780,
     "wof:name":"Vegas Steak House & Lounge",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "eating"
     ]
 },
-  "bbox": [-85.038873,35.988921,-85.038873,35.988921],
+  "bbox": [
+    -85.038873,
+    35.988921,
+    -85.038873,
+    35.988921
+],
   "geometry": {"coordinates":[-85.038873,35.988921],"type":"Point"}
 }

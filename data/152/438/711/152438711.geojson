@@ -2,13 +2,14 @@
   "id": 152438711,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846636,34.989491,-86.846636,34.989491",
     "geom:latitude":34.989491,
     "geom:longitude":-86.846636,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30371 Ardmore Ave",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152438711,
-    "wof:lastmodified":1449045872,
+    "wof:lastmodified":1467082781,
     "wof:name":"Mullins Muffler & Bait Shop",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.846636,34.989491,-86.846636,34.989491],
+  "bbox": [
+    -86.846636,
+    34.989491,
+    -86.846636,
+    34.989491
+],
   "geometry": {"coordinates":[-86.846636,34.989491],"type":"Point"}
 }

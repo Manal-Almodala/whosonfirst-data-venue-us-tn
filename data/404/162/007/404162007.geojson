@@ -2,13 +2,14 @@
   "id": 404162007,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.308306,36.302728,-88.308306,36.302728",
     "geom:latitude":36.302728,
     "geom:longitude":-88.308306,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1126 E Wood St",
     "sg:city":"Paris",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404162007,
-    "wof:lastmodified":1449040139,
+    "wof:lastmodified":1467082780,
     "wof:name":"Kilpatrick's Child Care Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "day"
     ]
 },
-  "bbox": [-88.308306,36.302728,-88.308306,36.302728],
+  "bbox": [
+    -88.308306,
+    36.302728,
+    -88.308306,
+    36.302728
+],
   "geometry": {"coordinates":[-88.308306,36.302728],"type":"Point"}
 }

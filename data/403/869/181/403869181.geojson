@@ -2,13 +2,14 @@
   "id": 403869181,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.311026,35.063983,-85.311026,35.063983",
     "geom:latitude":35.063983,
     "geom:longitude":-85.311026,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Cherokee Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403869181,
-    "wof:lastmodified":1449055857,
+    "wof:lastmodified":1467082782,
     "wof:name":"Kmt Advertising",
     "wof:parent_id":85876743,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-85.311026,35.063983,-85.311026,35.063983],
+  "bbox": [
+    -85.311026,
+    35.063983,
+    -85.311026,
+    35.063983
+],
   "geometry": {"coordinates":[-85.311026,35.063983],"type":"Point"}
 }

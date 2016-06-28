@@ -2,13 +2,14 @@
   "id": 404116351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.938975,36.069872,-86.938975,36.069872",
     "geom:latitude":36.069872,
     "geom:longitude":-86.938975,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7304 Weston Way Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404116351,
-    "wof:lastmodified":1449039187,
+    "wof:lastmodified":1467082779,
     "wof:name":"Basket Works",
     "wof:parent_id":85854361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "basket"
     ]
 },
-  "bbox": [-86.938975,36.069872,-86.938975,36.069872],
+  "bbox": [
+    -86.938975,
+    36.069872,
+    -86.938975,
+    36.069872
+],
   "geometry": {"coordinates":[-86.938975,36.069872],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404149993,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.843949,35.058988,-89.843949,35.058988",
     "geom:latitude":35.058988,
     "geom:longitude":-89.843949,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3285 Kirby Pkwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404149993,
-    "wof:lastmodified":1449039087,
+    "wof:lastmodified":1467082778,
     "wof:name":"A Cut Above The Rest",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "garden"
     ]
 },
-  "bbox": [-89.843949,35.058988,-89.843949,35.058988],
-  "geometry": {"coordinates":[-89.843949,35.058988],"type":"Point"}
+  "bbox": [
+    -89.843949,
+    35.058988,
+    -89.843949,
+    35.058988
+],
+  "geometry": {"coordinates":[-89.84394899999999,35.058988],"type":"Point"}
 }

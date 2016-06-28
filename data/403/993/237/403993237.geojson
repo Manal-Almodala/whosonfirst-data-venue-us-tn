@@ -2,13 +2,14 @@
   "id": 403993237,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.940819,35.119133,-89.940819,35.119133",
     "geom:latitude":35.119133,
     "geom:longitude":-89.940819,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3586 Midland Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403993237,
-    "wof:lastmodified":1449055217,
+    "wof:lastmodified":1467082782,
     "wof:name":"Sigma Phi Epslon",
     "wof:parent_id":85837075,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "fraternity"
     ]
 },
-  "bbox": [-89.940819,35.119133,-89.940819,35.119133],
+  "bbox": [
+    -89.940819,
+    35.119133,
+    -89.940819,
+    35.119133
+],
   "geometry": {"coordinates":[-89.940819,35.119133],"type":"Point"}
 }

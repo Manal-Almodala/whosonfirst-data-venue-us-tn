@@ -2,13 +2,14 @@
   "id": 403885677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.979321,35.133335,-89.979321,35.133335",
     "geom:latitude":35.133335,
     "geom:longitude":-89.979321,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2485 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403885677,
-    "wof:lastmodified":1449055348,
+    "wof:lastmodified":1467082782,
     "wof:name":"WQOX",
     "wof:parent_id":85867195,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "broadcasting"
     ]
 },
-  "bbox": [-89.979321,35.133335,-89.979321,35.133335],
+  "bbox": [
+    -89.979321,
+    35.133335,
+    -89.979321,
+    35.133335
+],
   "geometry": {"coordinates":[-89.979321,35.133335],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404031505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.290514,35.047755,-85.290514,35.047755",
     "geom:latitude":35.047755,
     "geom:longitude":-85.290514,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"975 E 3rd St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404031505,
-    "wof:lastmodified":1449039484,
+    "wof:lastmodified":1467082779,
     "wof:name":"Erlanger Health System",
     "wof:parent_id":85876735,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "general"
     ]
 },
-  "bbox": [-85.290514,35.047755,-85.290514,35.047755],
+  "bbox": [
+    -85.290514,
+    35.047755,
+    -85.290514,
+    35.047755
+],
   "geometry": {"coordinates":[-85.290514,35.047755],"type":"Point"}
 }

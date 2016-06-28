@@ -2,13 +2,14 @@
   "id": 403995283,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.814991,36.109387,-86.814991,36.109387",
     "geom:latitude":36.109387,
     "geom:longitude":-86.814991,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2120 Crestmoor Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403995283,
-    "wof:lastmodified":1449055821,
+    "wof:lastmodified":1467082782,
     "wof:name":"Craig Culver Post",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-86.814991,36.109387,-86.814991,36.109387],
-  "geometry": {"coordinates":[-86.814991,36.109387],"type":"Point"}
+  "bbox": [
+    -86.814991,
+    36.109387,
+    -86.814991,
+    36.109387
+],
+  "geometry": {"coordinates":[-86.81499100000001,36.109387],"type":"Point"}
 }

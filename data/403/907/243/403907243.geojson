@@ -2,13 +2,14 @@
   "id": 403907243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.82846,35.63541,-88.82846,35.63541",
     "geom:latitude":35.63541,
     "geom:longitude":-88.82846,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"616 W Forest Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403907243,
-    "wof:lastmodified":1449055862,
+    "wof:lastmodified":1467082782,
     "wof:name":"Jackson Clinic Prof Assn Inf",
     "wof:parent_id":85824843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "general"
     ]
 },
-  "bbox": [-88.82846,35.63541,-88.82846,35.63541],
-  "geometry": {"coordinates":[-88.82846,35.63541],"type":"Point"}
+  "bbox": [
+    -88.82846,
+    35.63541,
+    -88.82846,
+    35.63541
+],
+  "geometry": {"coordinates":[-88.82846000000001,35.63541],"type":"Point"}
 }

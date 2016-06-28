@@ -2,13 +2,14 @@
   "id": 403992841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.785288,36.152334,-86.785288,36.152334",
     "geom:latitude":36.152334,
     "geom:longitude":-86.785288,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1209 Pine St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403992841,
-    "wof:lastmodified":1449055251,
+    "wof:lastmodified":1467082782,
     "wof:name":"FAM Enterprises",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "photographer"
     ]
 },
-  "bbox": [-86.785288,36.152334,-86.785288,36.152334],
-  "geometry": {"coordinates":[-86.785288,36.152334],"type":"Point"}
+  "bbox": [
+    -86.785288,
+    36.152334,
+    -86.785288,
+    36.152334
+],
+  "geometry": {"coordinates":[-86.78528799999999,36.152334],"type":"Point"}
 }

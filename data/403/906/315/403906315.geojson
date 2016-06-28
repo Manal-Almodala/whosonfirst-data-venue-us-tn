@@ -2,13 +2,14 @@
   "id": 403906315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.798036,36.175213,-86.798036,36.175213",
     "geom:latitude":36.175213,
     "geom:longitude":-86.798036,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1414 Arthur Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403906315,
-    "wof:lastmodified":1449055132,
+    "wof:lastmodified":1467082782,
     "wof:name":"Spirit Truth Dlvrnce Mnistries",
     "wof:parent_id":85893457,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.798036,36.175213,-86.798036,36.175213],
+  "bbox": [
+    -86.798036,
+    36.175213,
+    -86.798036,
+    36.175213
+],
   "geometry": {"coordinates":[-86.798036,36.175213],"type":"Point"}
 }

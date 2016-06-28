@@ -2,13 +2,14 @@
   "id": 404043505,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.708874,36.374463,-86.708874,36.374463",
     "geom:latitude":36.374463,
     "geom:longitude":-86.708874,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1039 Slaters Creek Rd",
     "sg:city":"Goodlettsville",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404043505,
-    "wof:lastmodified":1449040006,
+    "wof:lastmodified":1467082780,
     "wof:name":"Whitehouse Productions Wrhse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taping"
     ]
 },
-  "bbox": [-86.708874,36.374463,-86.708874,36.374463],
-  "geometry": {"coordinates":[-86.708874,36.374463],"type":"Point"}
+  "bbox": [
+    -86.708874,
+    36.374463,
+    -86.708874,
+    36.374463
+],
+  "geometry": {"coordinates":[-86.70887399999999,36.374463],"type":"Point"}
 }

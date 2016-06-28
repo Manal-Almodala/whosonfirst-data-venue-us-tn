@@ -2,13 +2,14 @@
   "id": 403975201,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802661,36.15228,-86.802661,36.15228",
     "geom:latitude":36.15228,
     "geom:longitude":-86.802661,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"121 21st Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403975201,
-    "wof:lastmodified":1449055786,
+    "wof:lastmodified":1467082782,
     "wof:name":"Home Hearing Aid Service",
     "wof:parent_id":85893455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-86.802661,36.15228,-86.802661,36.15228],
+  "bbox": [
+    -86.802661,
+    36.15228,
+    -86.802661,
+    36.15228
+],
   "geometry": {"coordinates":[-86.802661,36.15228],"type":"Point"}
 }

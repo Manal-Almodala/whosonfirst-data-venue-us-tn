@@ -2,13 +2,14 @@
   "id": 404196335,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.385478,35.831396,-86.385478,35.831396",
     "geom:latitude":35.831396,
     "geom:longitude":-86.385478,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1114 Virginia Ave",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404196335,
-    "wof:lastmodified":1449039326,
+    "wof:lastmodified":1467082779,
     "wof:name":"Will Travel",
     "wof:parent_id":85844887,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "agency"
     ]
 },
-  "bbox": [-86.385478,35.831396,-86.385478,35.831396],
-  "geometry": {"coordinates":[-86.385478,35.831396],"type":"Point"}
+  "bbox": [
+    -86.385478,
+    35.831396,
+    -86.385478,
+    35.831396
+],
+  "geometry": {"coordinates":[-86.38547800000001,35.831396],"type":"Point"}
 }

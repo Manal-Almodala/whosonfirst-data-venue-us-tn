@@ -2,13 +2,14 @@
   "id": 152705447,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.847226,34.991346,-86.847226,34.991346",
     "geom:latitude":34.991346,
     "geom:longitude":-86.847226,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30136 1st Ave W",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152705447,
-    "wof:lastmodified":1449048924,
+    "wof:lastmodified":1467082781,
     "wof:name":"City Barber Shop",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.847226,34.991346,-86.847226,34.991346],
-  "geometry": {"coordinates":[-86.847226,34.991346],"type":"Point"}
+  "bbox": [
+    -86.847226,
+    34.991346,
+    -86.847226,
+    34.991346
+],
+  "geometry": {"coordinates":[-86.84722600000001,34.991346],"type":"Point"}
 }

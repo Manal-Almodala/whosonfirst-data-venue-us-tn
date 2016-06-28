@@ -2,13 +2,14 @@
   "id": 403976355,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.112367,35.186369,-86.112367,35.186369",
     "geom:latitude":35.186369,
     "geom:longitude":-86.112367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1 S Jefferson St",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403976355,
-    "wof:lastmodified":1449055175,
+    "wof:lastmodified":1467082782,
     "wof:name":"Franklin County Mayor",
     "wof:parent_id":85805347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.112367,35.186369,-86.112367,35.186369],
-  "geometry": {"coordinates":[-86.112367,35.186369],"type":"Point"}
+  "bbox": [
+    -86.112367,
+    35.186369,
+    -86.112367,
+    35.186369
+],
+  "geometry": {"coordinates":[-86.11236700000001,35.186369],"type":"Point"}
 }

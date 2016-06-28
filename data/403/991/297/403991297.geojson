@@ -2,13 +2,14 @@
   "id": 403991297,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.525089,36.53757,-82.525089,36.53757",
     "geom:latitude":36.53757,
     "geom:longitude":-82.525089,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1802 E Center St",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403991297,
-    "wof:lastmodified":1449055052,
+    "wof:lastmodified":1467082782,
     "wof:name":"Kingsport Ceramics",
     "wof:parent_id":85818419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-82.525089,36.53757,-82.525089,36.53757],
-  "geometry": {"coordinates":[-82.525089,36.53757],"type":"Point"}
+  "bbox": [
+    -82.525089,
+    36.53757,
+    -82.525089,
+    36.53757
+],
+  "geometry": {"coordinates":[-82.52508899999999,36.53757],"type":"Point"}
 }

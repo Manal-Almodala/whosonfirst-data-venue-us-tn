@@ -2,13 +2,14 @@
   "id": 403905063,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.515336,36.218043,-86.515336,36.218043",
     "geom:latitude":36.218043,
     "geom:longitude":-86.515336,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3425 N Mount Juliet Rd",
     "sg:city":"Mount Juliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403905063,
-    "wof:lastmodified":1449055159,
+    "wof:lastmodified":1467082782,
     "wof:name":"Celebration Lthrn Chrch Dy Sch",
     "wof:parent_id":85805387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "care"
     ]
 },
-  "bbox": [-86.515336,36.218043,-86.515336,36.218043],
+  "bbox": [
+    -86.515336,
+    36.218043,
+    -86.515336,
+    36.218043
+],
   "geometry": {"coordinates":[-86.515336,36.218043],"type":"Point"}
 }

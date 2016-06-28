@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102516387,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.844505,34.992785,-86.844505,34.992785",
     "geom:latitude":34.992785,
     "geom:longitude":-86.844505,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30072 Austin St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":102516387,
-    "wof:lastmodified":1449068264,
+    "wof:lastmodified":1467082783,
     "wof:name":"A & G Trucking Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.844505,34.992785,-86.844505,34.992785],
+  "bbox": [
+    -86.844505,
+    34.992785,
+    -86.844505,
+    34.992785
+],
   "geometry": {"coordinates":[-86.844505,34.992785],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404099761,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.550476,35.277048,-86.550476,35.277048",
     "geom:latitude":35.277048,
     "geom:longitude":-86.550476,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"968 Shelbyville Hwy",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404099761,
-    "wof:lastmodified":1449039915,
+    "wof:lastmodified":1467082780,
     "wof:name":"Belleville Volunteer Fire Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "protection"
     ]
 },
-  "bbox": [-86.550476,35.277048,-86.550476,35.277048],
+  "bbox": [
+    -86.550476,
+    35.277048,
+    -86.550476,
+    35.277048
+],
   "geometry": {"coordinates":[-86.550476,35.277048],"type":"Point"}
 }

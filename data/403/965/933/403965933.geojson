@@ -2,13 +2,14 @@
   "id": 403965933,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.248907,36.022684,-84.248907,36.022684",
     "geom:latitude":36.022684,
     "geom:longitude":-84.248907,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"200 New York Ave",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403965933,
-    "wof:lastmodified":1449055540,
+    "wof:lastmodified":1467082782,
     "wof:name":"Oak Ridge Neurosurgery",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-84.248907,36.022684,-84.248907,36.022684],
+  "bbox": [
+    -84.248907,
+    36.022684,
+    -84.248907,
+    36.022684
+],
   "geometry": {"coordinates":[-84.248907,36.022684],"type":"Point"}
 }

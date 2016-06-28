@@ -2,13 +2,14 @@
   "id": 403920737,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.064889,36.275427,-87.064889,36.275427",
     "geom:latitude":36.275427,
     "geom:longitude":-87.064889,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"202 N Main St",
     "sg:city":"Ashland City",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403920737,
-    "wof:lastmodified":1449055661,
+    "wof:lastmodified":1467082782,
     "wof:name":"Tennessee Safety Department",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "license"
     ]
 },
-  "bbox": [-87.064889,36.275427,-87.064889,36.275427],
-  "geometry": {"coordinates":[-87.064889,36.275427],"type":"Point"}
+  "bbox": [
+    -87.064889,
+    36.275427,
+    -87.064889,
+    36.275427
+],
+  "geometry": {"coordinates":[-87.06488899999999,36.275427],"type":"Point"}
 }

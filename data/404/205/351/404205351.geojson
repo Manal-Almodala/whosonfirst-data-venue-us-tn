@@ -2,13 +2,14 @@
   "id": 404205351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.891375,35.11718,-89.891375,35.11718",
     "geom:latitude":35.11718,
     "geom:longitude":-89.891375,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5101 Sanderlin Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404205351,
-    "wof:lastmodified":1449039832,
+    "wof:lastmodified":1467082780,
     "wof:name":"Watts Sam L DDS Ms",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "orthodontist"
     ]
 },
-  "bbox": [-89.891375,35.11718,-89.891375,35.11718],
+  "bbox": [
+    -89.891375,
+    35.11718,
+    -89.891375,
+    35.11718
+],
   "geometry": {"coordinates":[-89.891375,35.11718],"type":"Point"}
 }

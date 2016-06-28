@@ -2,13 +2,14 @@
   "id": 404192071,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.895715,36.145481,-83.895715,36.145481",
     "geom:latitude":36.145481,
     "geom:longitude":-83.895715,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7104 Wood Rd",
     "sg:city":"Corryton",
     "sg:classifiers":[
@@ -48,10 +49,11 @@
         }
     ],
     "wof:id":404192071,
-    "wof:lastmodified":1449039976,
+    "wof:lastmodified":1467082780,
     "wof:name":"Keyray Trucking",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -59,6 +61,11 @@
         "trucking"
     ]
 },
-  "bbox": [-83.895715,36.145481,-83.895715,36.145481],
+  "bbox": [
+    -83.895715,
+    36.145481,
+    -83.895715,
+    36.145481
+],
   "geometry": {"coordinates":[-83.895715,36.145481],"type":"Point"}
 }

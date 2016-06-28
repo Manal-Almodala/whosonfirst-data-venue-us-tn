@@ -2,13 +2,14 @@
   "id": 403994577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.787055,36.030872,-86.787055,36.030872",
     "geom:latitude":36.030872,
     "geom:longitude":-86.787055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7003 Chadwick Dr",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":403994577,
-    "wof:lastmodified":1449054690,
+    "wof:lastmodified":1467082781,
     "wof:name":"Unimin Corporation",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-86.787055,36.030872,-86.787055,36.030872],
+  "bbox": [
+    -86.787055,
+    36.030872,
+    -86.787055,
+    36.030872
+],
   "geometry": {"coordinates":[-86.787055,36.030872],"type":"Point"}
 }

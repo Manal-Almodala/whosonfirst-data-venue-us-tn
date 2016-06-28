@@ -2,13 +2,14 @@
   "id": 404020167,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.628425,35.878561,-84.628425,35.878561",
     "geom:latitude":35.878561,
     "geom:longitude":-84.628425,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Yale Dr",
     "sg:city":"Lenoir City",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404020167,
-    "wof:lastmodified":1449039572,
+    "wof:lastmodified":1467082779,
     "wof:name":"Yale Commercial Locks & Hardwr",
     "wof:parent_id":85809455,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "hardware"
     ]
 },
-  "bbox": [-84.628425,35.878561,-84.628425,35.878561],
-  "geometry": {"coordinates":[-84.628425,35.878561],"type":"Point"}
+  "bbox": [
+    -84.628425,
+    35.878561,
+    -84.628425,
+    35.878561
+],
+  "geometry": {"coordinates":[-84.62842499999999,35.878561],"type":"Point"}
 }

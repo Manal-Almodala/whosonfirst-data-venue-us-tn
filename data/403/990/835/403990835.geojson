@@ -2,13 +2,14 @@
   "id": 403990835,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.161187,35.036544,-85.161187,35.036544",
     "geom:latitude":35.036544,
     "geom:longitude":-85.161187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Hamilton Place Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403990835,
-    "wof:lastmodified":1449055504,
+    "wof:lastmodified":1467082782,
     "wof:name":"Mia & Max Hair Studio",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"
     ]
 },
-  "bbox": [-85.161187,35.036544,-85.161187,35.036544],
+  "bbox": [
+    -85.161187,
+    35.036544,
+    -85.161187,
+    35.036544
+],
   "geometry": {"coordinates":[-85.161187,35.036544],"type":"Point"}
 }

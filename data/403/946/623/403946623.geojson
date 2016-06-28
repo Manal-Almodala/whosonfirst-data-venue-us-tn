@@ -2,13 +2,14 @@
   "id": 403946623,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.014676,35.950849,-84.014676,35.950849",
     "geom:latitude":35.950849,
     "geom:longitude":-84.014676,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5720 Middlebrook Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403946623,
-    "wof:lastmodified":1449055813,
+    "wof:lastmodified":1467082782,
     "wof:name":"Etowah Chemicals Sales & Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "contractor"
     ]
 },
-  "bbox": [-84.014676,35.950849,-84.014676,35.950849],
-  "geometry": {"coordinates":[-84.014676,35.950849],"type":"Point"}
+  "bbox": [
+    -84.014676,
+    35.950849,
+    -84.014676,
+    35.950849
+],
+  "geometry": {"coordinates":[-84.01467599999999,35.950849],"type":"Point"}
 }

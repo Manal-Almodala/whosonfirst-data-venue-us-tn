@@ -2,13 +2,14 @@
   "id": 403858327,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.339559,36.200254,-83.339559,36.200254",
     "geom:latitude":36.200254,
     "geom:longitude":-83.339559,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3336 W Andrew Johnson Hwy",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403858327,
-    "wof:lastmodified":1449054767,
+    "wof:lastmodified":1467082781,
     "wof:name":"Howard's Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.339559,36.200254,-83.339559,36.200254],
-  "geometry": {"coordinates":[-83.339559,36.200254],"type":"Point"}
+  "bbox": [
+    -83.339559,
+    36.200254,
+    -83.339559,
+    36.200254
+],
+  "geometry": {"coordinates":[-83.33955899999999,36.200254],"type":"Point"}
 }

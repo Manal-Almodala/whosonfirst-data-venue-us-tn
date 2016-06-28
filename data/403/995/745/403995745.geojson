@@ -2,13 +2,14 @@
   "id": 403995745,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.693974,36.320727,-87.693974,36.320727",
     "geom:latitude":36.320727,
     "geom:longitude":-87.693974,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Hill St",
     "sg:city":"Erin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403995745,
-    "wof:lastmodified":1449055825,
+    "wof:lastmodified":1467082782,
     "wof:name":"Five Oaks Bed Breakfast Tea Rm",
     "wof:parent_id":85803529,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "operation"
     ]
 },
-  "bbox": [-87.693974,36.320727,-87.693974,36.320727],
+  "bbox": [
+    -87.693974,
+    36.320727,
+    -87.693974,
+    36.320727
+],
   "geometry": {"coordinates":[-87.693974,36.320727],"type":"Point"}
 }

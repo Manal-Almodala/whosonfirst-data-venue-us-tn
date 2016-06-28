@@ -2,13 +2,14 @@
   "id": 404208147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.955502,35.817004,-83.955502,35.817004",
     "geom:latitude":35.817004,
     "geom:longitude":-83.955502,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"518 Russell Rd",
     "sg:city":"Rockford",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":404208147,
-    "wof:lastmodified":1449039159,
+    "wof:lastmodified":1467082779,
     "wof:name":"B P Express",
     "wof:parent_id":85819017,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-83.955502,35.817004,-83.955502,35.817004],
+  "bbox": [
+    -83.955502,
+    35.817004,
+    -83.955502,
+    35.817004
+],
   "geometry": {"coordinates":[-83.955502,35.817004],"type":"Point"}
 }

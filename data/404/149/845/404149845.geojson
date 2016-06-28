@@ -2,13 +2,14 @@
   "id": 404149845,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.045801,35.925453,-84.045801,35.925453",
     "geom:latitude":35.925453,
     "geom:longitude":-84.045801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8078 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404149845,
-    "wof:lastmodified":1449039086,
+    "wof:lastmodified":1467082778,
     "wof:name":"Senor Gutierrez Staffing  Inc",
     "wof:parent_id":85855645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-84.045801,35.925453,-84.045801,35.925453],
+  "bbox": [
+    -84.045801,
+    35.925453,
+    -84.045801,
+    35.925453
+],
   "geometry": {"coordinates":[-84.045801,35.925453],"type":"Point"}
 }

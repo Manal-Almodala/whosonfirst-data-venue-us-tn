@@ -2,13 +2,14 @@
   "id": 403936661,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.26772,35.03341,-85.26772,35.03341",
     "geom:latitude":35.03341,
     "geom:longitude":-85.26772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2333 McCallie Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403936661,
-    "wof:lastmodified":1449055079,
+    "wof:lastmodified":1467082782,
     "wof:name":"Chattanooga Sports Medicine",
     "wof:parent_id":85876725,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.26772,35.03341,-85.26772,35.03341],
+  "bbox": [
+    -85.26772,
+    35.03341,
+    -85.26772,
+    35.03341
+],
   "geometry": {"coordinates":[-85.26772,35.03341],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403889065,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.735916,36.12993,-86.735916,36.12993",
     "geom:latitude":36.12993,
     "geom:longitude":-86.735916,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1981 Gatlin Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -62,10 +63,11 @@
         }
     ],
     "wof:id":403889065,
-    "wof:lastmodified":1449054610,
+    "wof:lastmodified":1467082781,
     "wof:name":"Danes Handyman & Home Svcs",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -73,6 +75,11 @@
         "care"
     ]
 },
-  "bbox": [-86.735916,36.12993,-86.735916,36.12993],
+  "bbox": [
+    -86.735916,
+    36.12993,
+    -86.735916,
+    36.12993
+],
   "geometry": {"coordinates":[-86.735916,36.12993],"type":"Point"}
 }

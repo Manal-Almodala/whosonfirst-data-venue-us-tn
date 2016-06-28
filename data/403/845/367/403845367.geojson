@@ -2,13 +2,14 @@
   "id": 403845367,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.791277,35.159708,-89.791277,35.159708",
     "geom:latitude":35.159708,
     "geom:longitude":-89.791277,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8138 Country Village Dr",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403845367,
-    "wof:lastmodified":1449054848,
+    "wof:lastmodified":1467082781,
     "wof:name":"Health Psychology Assoc",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "psychologist"
     ]
 },
-  "bbox": [-89.791277,35.159708,-89.791277,35.159708],
-  "geometry": {"coordinates":[-89.791277,35.159708],"type":"Point"}
+  "bbox": [
+    -89.791277,
+    35.159708,
+    -89.791277,
+    35.159708
+],
+  "geometry": {"coordinates":[-89.79127699999999,35.159708],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404204347,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.161187,35.036544,-85.161187,35.036544",
     "geom:latitude":35.036544,
     "geom:longitude":-85.161187,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2100 Hamilton Place Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404204347,
-    "wof:lastmodified":1449040347,
+    "wof:lastmodified":1467082781,
     "wof:name":"Sungear",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "sunglasses"
     ]
 },
-  "bbox": [-85.161187,35.036544,-85.161187,35.036544],
+  "bbox": [
+    -85.161187,
+    35.036544,
+    -85.161187,
+    35.036544
+],
   "geometry": {"coordinates":[-85.161187,35.036544],"type":"Point"}
 }

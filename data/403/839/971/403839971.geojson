@@ -2,13 +2,14 @@
   "id": 403839971,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.429004,35.845819,-86.429004,35.845819",
     "geom:latitude":35.845819,
     "geom:longitude":-86.429004,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1713 Old Fort Pkwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":403839971,
-    "wof:lastmodified":1449055453,
+    "wof:lastmodified":1467082782,
     "wof:name":"Sofa Express",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.429004,35.845819,-86.429004,35.845819],
-  "geometry": {"coordinates":[-86.429004,35.845819],"type":"Point"}
+  "bbox": [
+    -86.429004,
+    35.845819,
+    -86.429004,
+    35.845819
+],
+  "geometry": {"coordinates":[-86.42900400000001,35.845819],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404057729,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.671047,36.105313,-86.671047,36.105313",
     "geom:latitude":36.105313,
     "geom:longitude":-86.671047,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1609 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404057729,
-    "wof:lastmodified":1449039632,
+    "wof:lastmodified":1467082779,
     "wof:name":"Gojo Ethiopian Restaurant",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.671047,36.105313,-86.671047,36.105313],
+  "bbox": [
+    -86.671047,
+    36.105313,
+    -86.671047,
+    36.105313
+],
   "geometry": {"coordinates":[-86.671047,36.105313],"type":"Point"}
 }

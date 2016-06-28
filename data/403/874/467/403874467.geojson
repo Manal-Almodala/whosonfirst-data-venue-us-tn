@@ -2,13 +2,14 @@
   "id": 403874467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.52422,36.537275,-82.52422,36.537275",
     "geom:latitude":36.537275,
     "geom:longitude":-82.52422,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2013 E Center St",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403874467,
-    "wof:lastmodified":1449055877,
+    "wof:lastmodified":1467082782,
     "wof:name":"Shade Shop",
     "wof:parent_id":85818419,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "shades"
     ]
 },
-  "bbox": [-82.52422,36.537275,-82.52422,36.537275],
+  "bbox": [
+    -82.52422,
+    36.537275,
+    -82.52422,
+    36.537275
+],
   "geometry": {"coordinates":[-82.52422,36.537275],"type":"Point"}
 }

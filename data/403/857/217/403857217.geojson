@@ -2,13 +2,14 @@
   "id": 403857217,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.915117,35.955366,-83.915117,35.955366",
     "geom:latitude":35.955366,
     "geom:longitude":-83.915117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"101 E Blount Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403857217,
-    "wof:lastmodified":1449055485,
+    "wof:lastmodified":1467082782,
     "wof:name":"Otolaryngology Head & Neck Sur",
     "wof:parent_id":85878551,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-83.915117,35.955366,-83.915117,35.955366],
+  "bbox": [
+    -83.915117,
+    35.955366,
+    -83.915117,
+    35.955366
+],
   "geometry": {"coordinates":[-83.915117,35.955366],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404172349,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.909081,35.121235,-89.909081,35.121235",
     "geom:latitude":35.121235,
     "geom:longitude":-89.909081,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"474 Perkins Exd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404172349,
-    "wof:lastmodified":1449039520,
+    "wof:lastmodified":1467082779,
     "wof:name":"Designer Optical",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "ophthalmic"
     ]
 },
-  "bbox": [-89.909081,35.121235,-89.909081,35.121235],
+  "bbox": [
+    -89.909081,
+    35.121235,
+    -89.909081,
+    35.121235
+],
   "geometry": {"coordinates":[-89.909081,35.121235],"type":"Point"}
 }

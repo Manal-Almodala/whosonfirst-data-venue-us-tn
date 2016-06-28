@@ -2,13 +2,14 @@
   "id": 404116091,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.762501,36.114752,-86.762501,36.114752",
     "geom:latitude":36.114752,
     "geom:longitude":-86.762501,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"430 E Iris Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404116091,
-    "wof:lastmodified":1449039186,
+    "wof:lastmodified":1467082779,
     "wof:name":"Foodsales Tennessee Inc",
     "wof:parent_id":85893481,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "broker"
     ]
 },
-  "bbox": [-86.762501,36.114752,-86.762501,36.114752],
+  "bbox": [
+    -86.762501,
+    36.114752,
+    -86.762501,
+    36.114752
+],
   "geometry": {"coordinates":[-86.762501,36.114752],"type":"Point"}
 }

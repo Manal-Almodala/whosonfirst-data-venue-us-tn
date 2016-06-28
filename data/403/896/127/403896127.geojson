@@ -2,13 +2,14 @@
   "id": 403896127,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.515982,36.156625,-86.515982,36.156625",
     "geom:latitude":36.156625,
     "geom:longitude":-86.515982,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1009 S Mount Juliet Rd",
     "sg:city":"Mt Juliet",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403896127,
-    "wof:lastmodified":1449055121,
+    "wof:lastmodified":1467082782,
     "wof:name":"Dixie Infrared Inc",
     "wof:parent_id":85805387,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "system"
     ]
 },
-  "bbox": [-86.515982,36.156625,-86.515982,36.156625],
-  "geometry": {"coordinates":[-86.515982,36.156625],"type":"Point"}
+  "bbox": [
+    -86.515982,
+    36.156625,
+    -86.515982,
+    36.156625
+],
+  "geometry": {"coordinates":[-86.51598199999999,36.156625],"type":"Point"}
 }

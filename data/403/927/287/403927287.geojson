@@ -2,13 +2,14 @@
   "id": 403927287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.797392,36.152422,-86.797392,36.152422",
     "geom:latitude":36.152422,
     "geom:longitude":-86.797392,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1808 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403927287,
-    "wof:lastmodified":1449055825,
+    "wof:lastmodified":1467082782,
     "wof:name":"Atkins Muse & Assoc",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "relations"
     ]
 },
-  "bbox": [-86.797392,36.152422,-86.797392,36.152422],
+  "bbox": [
+    -86.797392,
+    36.152422,
+    -86.797392,
+    36.152422
+],
   "geometry": {"coordinates":[-86.797392,36.152422],"type":"Point"}
 }

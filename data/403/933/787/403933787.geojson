@@ -2,13 +2,14 @@
   "id": 403933787,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.890926,35.185057,-89.890926,35.185057",
     "geom:latitude":35.185057,
     "geom:longitude":-89.890926,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5175 Elmore Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403933787,
-    "wof:lastmodified":1449054910,
+    "wof:lastmodified":1467082781,
     "wof:name":"Optus Telemation",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -65,6 +67,11 @@
         "supply"
     ]
 },
-  "bbox": [-89.890926,35.185057,-89.890926,35.185057],
-  "geometry": {"coordinates":[-89.890926,35.185057],"type":"Point"}
+  "bbox": [
+    -89.890926,
+    35.185057,
+    -89.890926,
+    35.185057
+],
+  "geometry": {"coordinates":[-89.89092599999999,35.185057],"type":"Point"}
 }

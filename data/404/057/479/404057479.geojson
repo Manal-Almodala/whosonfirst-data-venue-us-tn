@@ -2,13 +2,14 @@
   "id": 404057479,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.68365,36.069103,-86.68365,36.069103",
     "geom:latitude":36.069103,
     "geom:longitude":-86.68365,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"933 Richards Rd",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404057479,
-    "wof:lastmodified":1449039632,
+    "wof:lastmodified":1467082779,
     "wof:name":"S&P Video",
     "wof:parent_id":85839117,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "tape"
     ]
 },
-  "bbox": [-86.68365,36.069103,-86.68365,36.069103],
+  "bbox": [
+    -86.68365,
+    36.069103,
+    -86.68365,
+    36.069103
+],
   "geometry": {"coordinates":[-86.68365,36.069103],"type":"Point"}
 }

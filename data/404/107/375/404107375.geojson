@@ -2,13 +2,14 @@
   "id": 404107375,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.569801,36.236076,-86.569801,36.236076",
     "geom:latitude":36.236076,
     "geom:longitude":-86.569801,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5548 W Shady Trl",
     "sg:city":"Old Hickory",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404107375,
-    "wof:lastmodified":1449039091,
+    "wof:lastmodified":1467082778,
     "wof:name":"Center Hill Records",
     "wof:parent_id":85826879,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "tape"
     ]
 },
-  "bbox": [-86.569801,36.236076,-86.569801,36.236076],
+  "bbox": [
+    -86.569801,
+    36.236076,
+    -86.569801,
+    36.236076
+],
   "geometry": {"coordinates":[-86.569801,36.236076],"type":"Point"}
 }

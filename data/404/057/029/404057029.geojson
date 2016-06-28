@@ -2,13 +2,14 @@
   "id": 404057029,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.759821,35.063049,-89.759821,35.063049",
     "geom:latitude":35.063049,
     "geom:longitude":-89.759821,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9056 Poplar Pike",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":404057029,
-    "wof:lastmodified":1449039632,
+    "wof:lastmodified":1467082779,
     "wof:name":"Kitchen Solutions Inc",
     "wof:parent_id":85819859,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -70,6 +72,11 @@
         "cabinet"
     ]
 },
-  "bbox": [-89.759821,35.063049,-89.759821,35.063049],
+  "bbox": [
+    -89.759821,
+    35.063049,
+    -89.759821,
+    35.063049
+],
   "geometry": {"coordinates":[-89.759821,35.063049],"type":"Point"}
 }

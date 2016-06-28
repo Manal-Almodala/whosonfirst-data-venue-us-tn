@@ -2,13 +2,14 @@
   "id": 404051107,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.920685,36.085214,-86.920685,36.085214",
     "geom:latitude":36.085214,
     "geom:longitude":-86.920685,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"481 Old Hickory Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404051107,
-    "wof:lastmodified":1449039850,
+    "wof:lastmodified":1467082780,
     "wof:name":"Mapco Express Inc",
     "wof:parent_id":85854361,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "gasoline"
     ]
 },
-  "bbox": [-86.920685,36.085214,-86.920685,36.085214],
-  "geometry": {"coordinates":[-86.920685,36.085214],"type":"Point"}
+  "bbox": [
+    -86.920685,
+    36.085214,
+    -86.920685,
+    36.085214
+],
+  "geometry": {"coordinates":[-86.92068500000001,36.085214],"type":"Point"}
 }

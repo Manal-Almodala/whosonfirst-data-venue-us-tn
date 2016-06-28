@@ -1,14 +1,15 @@
 {
-  "id": "",
+  "id": 102448765,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.373923,35.035057,-86.373923,35.035057",
     "geom:latitude":35.035057,
     "geom:longitude":-86.373923,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"303 Elora Rd",
     "sg:city":"Elora",
     "sg:classifiers":[
@@ -46,14 +47,20 @@
         }
     ],
     "wof:id":102448765,
-    "wof:lastmodified":1449070090,
+    "wof:lastmodified":1467082783,
     "wof:name":"Ashley Brothers Lumber Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.373923,35.035057,-86.373923,35.035057],
+  "bbox": [
+    -86.373923,
+    35.035057,
+    -86.373923,
+    35.035057
+],
   "geometry": {"coordinates":[-86.373923,35.035057],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403903693,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.249499,34.994162,-85.249499,34.994162",
     "geom:latitude":34.994162,
     "geom:longitude":-85.249499,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4175 E Ridge Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403903693,
-    "wof:lastmodified":1449054705,
+    "wof:lastmodified":1467082781,
     "wof:name":"Catherine's Intimate Fashions",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "lingerie"
     ]
 },
-  "bbox": [-85.249499,34.994162,-85.249499,34.994162],
+  "bbox": [
+    -85.249499,
+    34.994162,
+    -85.249499,
+    34.994162
+],
   "geometry": {"coordinates":[-85.249499,34.994162],"type":"Point"}
 }

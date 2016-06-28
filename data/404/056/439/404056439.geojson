@@ -2,13 +2,14 @@
   "id": 404056439,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.060296,35.896322,-84.060296,35.896322",
     "geom:latitude":35.896322,
     "geom:longitude":-84.060296,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8700 Hopemont Way",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404056439,
-    "wof:lastmodified":1449039355,
+    "wof:lastmodified":1467082779,
     "wof:name":"Reserve Of Westland",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "apartment"
     ]
 },
-  "bbox": [-84.060296,35.896322,-84.060296,35.896322],
-  "geometry": {"coordinates":[-84.060296,35.896322],"type":"Point"}
+  "bbox": [
+    -84.060296,
+    35.896322,
+    -84.060296,
+    35.896322
+],
+  "geometry": {"coordinates":[-84.06029599999999,35.896322],"type":"Point"}
 }

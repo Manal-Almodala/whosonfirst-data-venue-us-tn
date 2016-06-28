@@ -2,13 +2,14 @@
   "id": 404066963,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.115655,35.323747,-88.115655,35.323747",
     "geom:latitude":35.323747,
     "geom:longitude":-88.115655,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6185 Poplar Springs Rd",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":404066963,
-    "wof:lastmodified":1449039366,
+    "wof:lastmodified":1467082779,
     "wof:name":"Hardin County Master Gardeners",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "center"
     ]
 },
-  "bbox": [-88.115655,35.323747,-88.115655,35.323747],
+  "bbox": [
+    -88.115655,
+    35.323747,
+    -88.115655,
+    35.323747
+],
   "geometry": {"coordinates":[-88.115655,35.323747],"type":"Point"}
 }

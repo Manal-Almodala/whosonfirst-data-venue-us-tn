@@ -2,13 +2,14 @@
   "id": 403915351,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.129022,36.098493,-86.129022,36.098493",
     "geom:latitude":36.098493,
     "geom:longitude":-86.129022,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"15 Neal Rd",
     "sg:city":"Watertown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403915351,
-    "wof:lastmodified":1449055941,
+    "wof:lastmodified":1467082783,
     "wof:name":"Keith Frank Sales",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"
     ]
 },
-  "bbox": [-86.129022,36.098493,-86.129022,36.098493],
-  "geometry": {"coordinates":[-86.129022,36.098493],"type":"Point"}
+  "bbox": [
+    -86.129022,
+    36.098493,
+    -86.129022,
+    36.098493
+],
+  "geometry": {"coordinates":[-86.12902200000001,36.098493],"type":"Point"}
 }

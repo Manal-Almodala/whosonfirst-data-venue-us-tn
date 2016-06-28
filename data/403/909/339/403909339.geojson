@@ -2,13 +2,14 @@
   "id": 403909339,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.583359,35.481941,-84.583359,35.481941",
     "geom:latitude":35.481941,
     "geom:longitude":-84.583359,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3020 Lee Hwy",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403909339,
-    "wof:lastmodified":1449055625,
+    "wof:lastmodified":1467082782,
     "wof:name":"Southern Hydraulics Cylinder",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -66,6 +68,11 @@
         "mfg"
     ]
 },
-  "bbox": [-84.583359,35.481941,-84.583359,35.481941],
+  "bbox": [
+    -84.583359,
+    35.481941,
+    -84.583359,
+    35.481941
+],
   "geometry": {"coordinates":[-84.583359,35.481941],"type":"Point"}
 }

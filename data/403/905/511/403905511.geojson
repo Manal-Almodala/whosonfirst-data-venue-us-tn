@@ -2,13 +2,14 @@
   "id": 403905511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.242608,35.092472,-85.242608,35.092472",
     "geom:latitude":35.092472,
     "geom:longitude":-85.242608,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4135 S Creek Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -63,10 +64,11 @@
         }
     ],
     "wof:id":403905511,
-    "wof:lastmodified":1449055162,
+    "wof:lastmodified":1467082782,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -75,6 +77,11 @@
         "grounds"
     ]
 },
-  "bbox": [-85.242608,35.092472,-85.242608,35.092472],
+  "bbox": [
+    -85.242608,
+    35.092472,
+    -85.242608,
+    35.092472
+],
   "geometry": {"coordinates":[-85.242608,35.092472],"type":"Point"}
 }

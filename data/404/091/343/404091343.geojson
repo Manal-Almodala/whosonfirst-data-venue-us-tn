@@ -2,13 +2,14 @@
   "id": 404091343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.751888,36.13492,-86.751888,36.13492",
     "geom:latitude":36.13492,
     "geom:longitude":-86.751888,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"900 Fiber Glass Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404091343,
-    "wof:lastmodified":1449039138,
+    "wof:lastmodified":1467082779,
     "wof:name":"Alside Supply Center",
     "wof:parent_id":85858535,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "siding"
     ]
 },
-  "bbox": [-86.751888,36.13492,-86.751888,36.13492],
-  "geometry": {"coordinates":[-86.751888,36.13492],"type":"Point"}
+  "bbox": [
+    -86.751888,
+    36.13492,
+    -86.751888,
+    36.13492
+],
+  "geometry": {"coordinates":[-86.75188799999999,36.13492],"type":"Point"}
 }

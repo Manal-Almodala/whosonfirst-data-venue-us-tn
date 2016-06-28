@@ -2,13 +2,14 @@
   "id": 403950937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.86835,35.193695,-89.86835,35.193695",
     "geom:latitude":35.193695,
     "geom:longitude":-89.86835,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5836 Diplomat Pl",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403950937,
-    "wof:lastmodified":1449055156,
+    "wof:lastmodified":1467082782,
     "wof:name":"Km Cleaning Services",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "commercial"
     ]
 },
-  "bbox": [-89.86835,35.193695,-89.86835,35.193695],
-  "geometry": {"coordinates":[-89.86835,35.193695],"type":"Point"}
+  "bbox": [
+    -89.86835,
+    35.193695,
+    -89.86835,
+    35.193695
+],
+  "geometry": {"coordinates":[-89.86835000000001,35.193695],"type":"Point"}
 }

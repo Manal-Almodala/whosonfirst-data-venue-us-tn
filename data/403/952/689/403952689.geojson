@@ -2,13 +2,14 @@
   "id": 403952689,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.289704,35.026223,-85.289704,35.026223",
     "geom:latitude":35.026223,
     "geom:longitude":-85.289704,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1709 S Holtzclaw Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403952689,
-    "wof:lastmodified":1449055571,
+    "wof:lastmodified":1467082782,
     "wof:name":"Fraternal Order Of Police",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-85.289704,35.026223,-85.289704,35.026223],
+  "bbox": [
+    -85.289704,
+    35.026223,
+    -85.289704,
+    35.026223
+],
   "geometry": {"coordinates":[-85.289704,35.026223],"type":"Point"}
 }

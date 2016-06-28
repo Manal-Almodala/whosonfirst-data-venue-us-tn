@@ -2,13 +2,14 @@
   "id": 403970235,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.849877,35.178069,-89.849877,35.178069",
     "geom:latitude":35.178069,
     "geom:longitude":-89.849877,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6399 Shelby View Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -58,10 +59,11 @@
         }
     ],
     "wof:id":403970235,
-    "wof:lastmodified":1449055927,
+    "wof:lastmodified":1467082783,
     "wof:name":"Pomeroy It Solutions Inc",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.849877,35.178069,-89.849877,35.178069],
-  "geometry": {"coordinates":[-89.849877,35.178069],"type":"Point"}
+  "bbox": [
+    -89.849877,
+    35.178069,
+    -89.849877,
+    35.178069
+],
+  "geometry": {"coordinates":[-89.84987700000001,35.178069],"type":"Point"}
 }

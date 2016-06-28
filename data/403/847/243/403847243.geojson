@@ -2,13 +2,14 @@
   "id": 403847243,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.149553,35.00231,-85.149553,35.00231",
     "geom:latitude":35.00231,
     "geom:longitude":-85.149553,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1042 Graysville Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403847243,
-    "wof:lastmodified":1449055114,
+    "wof:lastmodified":1467082782,
     "wof:name":"Pennington Finish Carpentry",
     "wof:parent_id":85816009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-85.149553,35.00231,-85.149553,35.00231],
+  "bbox": [
+    -85.149553,
+    35.00231,
+    -85.149553,
+    35.00231
+],
   "geometry": {"coordinates":[-85.149553,35.00231],"type":"Point"}
 }

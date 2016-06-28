@@ -2,13 +2,14 @@
   "id": 152779709,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.837968,34.991852,-86.837968,34.991852",
     "geom:latitude":34.991852,
     "geom:longitude":-86.837968,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"26992 Main St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152779709,
-    "wof:lastmodified":1449045014,
+    "wof:lastmodified":1467082781,
     "wof:name":"Wilson Lumber Co Inc",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.837968,34.991852,-86.837968,34.991852],
+  "bbox": [
+    -86.837968,
+    34.991852,
+    -86.837968,
+    34.991852
+],
   "geometry": {"coordinates":[-86.837968,34.991852],"type":"Point"}
 }

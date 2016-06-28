@@ -2,13 +2,14 @@
   "id": 403992147,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.744031,36.1833,-86.744031,36.1833",
     "geom:latitude":36.1833,
     "geom:longitude":-86.744031,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1408 Eastland Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":403992147,
-    "wof:lastmodified":1449055252,
+    "wof:lastmodified":1467082782,
     "wof:name":"Adorable Design",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "block"
     ]
 },
-  "bbox": [-86.744031,36.1833,-86.744031,36.1833],
-  "geometry": {"coordinates":[-86.744031,36.1833],"type":"Point"}
+  "bbox": [
+    -86.744031,
+    36.1833,
+    -86.744031,
+    36.1833
+],
+  "geometry": {"coordinates":[-86.74403100000001,36.1833],"type":"Point"}
 }

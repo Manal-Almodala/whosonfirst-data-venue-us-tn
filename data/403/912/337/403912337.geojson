@@ -2,13 +2,14 @@
   "id": 403912337,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.363333,36.521612,-87.363333,36.521612",
     "geom:latitude":36.521612,
     "geom:longitude":-87.363333,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"585 S Riverside Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403912337,
-    "wof:lastmodified":1449055294,
+    "wof:lastmodified":1467082782,
     "wof:name":"Youth Villages",
     "wof:parent_id":85807343,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "welfare"
     ]
 },
-  "bbox": [-87.363333,36.521612,-87.363333,36.521612],
+  "bbox": [
+    -87.363333,
+    36.521612,
+    -87.363333,
+    36.521612
+],
   "geometry": {"coordinates":[-87.363333,36.521612],"type":"Point"}
 }

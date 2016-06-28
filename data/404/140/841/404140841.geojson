@@ -2,13 +2,14 @@
   "id": 404140841,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.302274,35.051717,-85.302274,35.051717",
     "geom:latitude":35.051717,
     "geom:longitude":-85.302274,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"651 E 4th St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -56,16 +57,22 @@
         }
     ],
     "wof:id":404140841,
-    "wof:lastmodified":1449039177,
+    "wof:lastmodified":1467082779,
     "wof:name":"Assessment Associates Inc",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"
     ]
 },
-  "bbox": [-85.302274,35.051717,-85.302274,35.051717],
+  "bbox": [
+    -85.302274,
+    35.051717,
+    -85.302274,
+    35.051717
+],
   "geometry": {"coordinates":[-85.302274,35.051717],"type":"Point"}
 }

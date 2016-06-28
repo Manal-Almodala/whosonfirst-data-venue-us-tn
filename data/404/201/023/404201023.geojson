@@ -2,13 +2,14 @@
   "id": 404201023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.053716,35.14656,-90.053716,35.14656",
     "geom:latitude":35.14656,
     "geom:longitude":-90.053716,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"22 N Front St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":404201023,
-    "wof:lastmodified":1449040162,
+    "wof:lastmodified":1467082780,
     "wof:name":"Officeteam",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "contractor"
     ]
 },
-  "bbox": [-90.053716,35.14656,-90.053716,35.14656],
-  "geometry": {"coordinates":[-90.053716,35.14656],"type":"Point"}
+  "bbox": [
+    -90.053716,
+    35.14656,
+    -90.053716,
+    35.14656
+],
+  "geometry": {"coordinates":[-90.05371599999999,35.14656],"type":"Point"}
 }

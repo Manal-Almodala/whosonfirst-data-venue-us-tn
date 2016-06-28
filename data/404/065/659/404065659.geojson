@@ -2,13 +2,14 @@
   "id": 404065659,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.237217,35.133289,-85.237217,35.133289",
     "geom:latitude":35.133289,
     "geom:longitude":-85.237217,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2 Northgate Park",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404065659,
-    "wof:lastmodified":1449040319,
+    "wof:lastmodified":1467082781,
     "wof:name":"Midwest Chatt",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-85.237217,35.133289,-85.237217,35.133289],
+  "bbox": [
+    -85.237217,
+    35.133289,
+    -85.237217,
+    35.133289
+],
   "geometry": {"coordinates":[-85.237217,35.133289],"type":"Point"}
 }

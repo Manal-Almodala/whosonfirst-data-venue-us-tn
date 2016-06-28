@@ -2,13 +2,14 @@
   "id": 403929937,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.730798,36.214196,-86.730798,36.214196",
     "geom:latitude":36.214196,
     "geom:longitude":-86.730798,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3801 Gallatin Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403929937,
-    "wof:lastmodified":1449055136,
+    "wof:lastmodified":1467082782,
     "wof:name":"Rick's Flicks",
     "wof:parent_id":85826949,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "tape"
     ]
 },
-  "bbox": [-86.730798,36.214196,-86.730798,36.214196],
-  "geometry": {"coordinates":[-86.730798,36.214196],"type":"Point"}
+  "bbox": [
+    -86.730798,
+    36.214196,
+    -86.730798,
+    36.214196
+],
+  "geometry": {"coordinates":[-86.73079799999999,36.214196],"type":"Point"}
 }

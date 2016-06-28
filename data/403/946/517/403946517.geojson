@@ -2,13 +2,14 @@
   "id": 403946517,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.152094,36.567788,-82.152094,36.567788",
     "geom:latitude":36.567788,
     "geom:longitude":-82.152094,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"187 Valley Pike Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -44,14 +45,20 @@
         }
     ],
     "wof:id":403946517,
-    "wof:lastmodified":1449055813,
+    "wof:lastmodified":1467082782,
     "wof:name":"Holdens Paint & Body",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.152094,36.567788,-82.152094,36.567788],
-  "geometry": {"coordinates":[-82.152094,36.567788],"type":"Point"}
+  "bbox": [
+    -82.152094,
+    36.567788,
+    -82.152094,
+    36.567788
+],
+  "geometry": {"coordinates":[-82.15209400000001,36.567788],"type":"Point"}
 }

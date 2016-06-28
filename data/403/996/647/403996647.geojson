@@ -2,13 +2,14 @@
   "id": 403996647,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.775549,36.286812,-86.775549,36.286812",
     "geom:latitude":36.286812,
     "geom:longitude":-86.775549,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1440 Hunters Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403996647,
-    "wof:lastmodified":1449055004,
+    "wof:lastmodified":1467082781,
     "wof:name":"Hardaway Lawn Care",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "grounds"
     ]
 },
-  "bbox": [-86.775549,36.286812,-86.775549,36.286812],
+  "bbox": [
+    -86.775549,
+    36.286812,
+    -86.775549,
+    36.286812
+],
   "geometry": {"coordinates":[-86.775549,36.286812],"type":"Point"}
 }

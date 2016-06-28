@@ -2,13 +2,14 @@
   "id": 404204443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816811,36.141432,-86.816811,36.141432",
     "geom:latitude":36.141432,
     "geom:longitude":-86.816811,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3200 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404204443,
-    "wof:lastmodified":1449040348,
+    "wof:lastmodified":1467082781,
     "wof:name":"MIB Business Management",
     "wof:parent_id":85893447,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "business"
     ]
 },
-  "bbox": [-86.816811,36.141432,-86.816811,36.141432],
+  "bbox": [
+    -86.816811,
+    36.141432,
+    -86.816811,
+    36.141432
+],
   "geometry": {"coordinates":[-86.816811,36.141432],"type":"Point"}
 }

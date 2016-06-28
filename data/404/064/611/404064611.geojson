@@ -2,13 +2,14 @@
   "id": 404064611,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.818367,35.610648,-88.818367,35.610648",
     "geom:latitude":35.610648,
     "geom:longitude":-88.818367,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"400 S Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404064611,
-    "wof:lastmodified":1449039448,
+    "wof:lastmodified":1467082779,
     "wof:name":"Lu Lu's Holiday Mart",
     "wof:parent_id":85868161,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "supply"
     ]
 },
-  "bbox": [-88.818367,35.610648,-88.818367,35.610648],
-  "geometry": {"coordinates":[-88.818367,35.610648],"type":"Point"}
+  "bbox": [
+    -88.818367,
+    35.610648,
+    -88.818367,
+    35.610648
+],
+  "geometry": {"coordinates":[-88.81836699999999,35.610648],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404150509,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.030503,35.199869,-87.030503,35.199869",
     "geom:latitude":35.199869,
     "geom:longitude":-87.030503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"119 N 1st St",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404150509,
-    "wof:lastmodified":1449039101,
+    "wof:lastmodified":1467082778,
     "wof:name":"Pulaski Retail Merchants Assn",
     "wof:parent_id":85843973,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "business"
     ]
 },
-  "bbox": [-87.030503,35.199869,-87.030503,35.199869],
+  "bbox": [
+    -87.030503,
+    35.199869,
+    -87.030503,
+    35.199869
+],
   "geometry": {"coordinates":[-87.030503,35.199869],"type":"Point"}
 }

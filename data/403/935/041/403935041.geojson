@@ -2,13 +2,14 @@
   "id": 403935041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.678721,36.093393,-86.678721,36.093393",
     "geom:latitude":36.093393,
     "geom:longitude":-86.678721,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1410 Donelson Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403935041,
-    "wof:lastmodified":1449055732,
+    "wof:lastmodified":1467082782,
     "wof:name":"Fraternal Order of Police Inc",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "fraternal"
     ]
 },
-  "bbox": [-86.678721,36.093393,-86.678721,36.093393],
+  "bbox": [
+    -86.678721,
+    36.093393,
+    -86.678721,
+    36.093393
+],
   "geometry": {"coordinates":[-86.678721,36.093393],"type":"Point"}
 }

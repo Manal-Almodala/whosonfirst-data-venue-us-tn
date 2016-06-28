@@ -2,13 +2,14 @@
   "id": 404106081,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.79606,36.141269,-86.79606,36.141269",
     "geom:latitude":36.141269,
     "geom:longitude":-86.79606,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1208 18th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404106081,
-    "wof:lastmodified":1449039073,
+    "wof:lastmodified":1467082778,
     "wof:name":"English Language Ctr",
     "wof:parent_id":85893451,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "language"
     ]
 },
-  "bbox": [-86.79606,36.141269,-86.79606,36.141269],
+  "bbox": [
+    -86.79606,
+    36.141269,
+    -86.79606,
+    36.141269
+],
   "geometry": {"coordinates":[-86.79606,36.141269],"type":"Point"}
 }

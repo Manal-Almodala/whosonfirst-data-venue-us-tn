@@ -2,13 +2,14 @@
   "id": 404176979,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.237669,35.123491,-85.237669,35.123491",
     "geom:latitude":35.123491,
     "geom:longitude":-85.237669,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2051 Hamill Rd",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":404176979,
-    "wof:lastmodified":1449039922,
+    "wof:lastmodified":1467082780,
     "wof:name":"North River Surgical Assoc PC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "surgeon"
     ]
 },
-  "bbox": [-85.237669,35.123491,-85.237669,35.123491],
+  "bbox": [
+    -85.237669,
+    35.123491,
+    -85.237669,
+    35.123491
+],
   "geometry": {"coordinates":[-85.237669,35.123491],"type":"Point"}
 }

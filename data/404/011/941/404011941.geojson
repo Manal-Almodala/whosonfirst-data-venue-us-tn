@@ -2,13 +2,14 @@
   "id": 404011941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.96913,35.829001,-83.96913,35.829001",
     "geom:latitude":35.829001,
     "geom:longitude":-83.96913,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3283 Northpark Blvd",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404011941,
-    "wof:lastmodified":1449040079,
+    "wof:lastmodified":1467082780,
     "wof:name":"Wolverine Broach Co Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-83.96913,35.829001,-83.96913,35.829001],
-  "geometry": {"coordinates":[-83.96913,35.829001],"type":"Point"}
+  "bbox": [
+    -83.96913,
+    35.829001,
+    -83.96913,
+    35.829001
+],
+  "geometry": {"coordinates":[-83.96913000000001,35.829001],"type":"Point"}
 }

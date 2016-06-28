@@ -2,13 +2,14 @@
   "id": 403904305,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.709311,36.297274,-86.709311,36.297274",
     "geom:latitude":36.297274,
     "geom:longitude":-86.709311,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1000 Rivergate Meadows Dr",
     "sg:city":"Goodlettsville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403904305,
-    "wof:lastmodified":1449056004,
+    "wof:lastmodified":1467082783,
     "wof:name":"Vivid Apparel",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "garment"
     ]
 },
-  "bbox": [-86.709311,36.297274,-86.709311,36.297274],
+  "bbox": [
+    -86.709311,
+    36.297274,
+    -86.709311,
+    36.297274
+],
   "geometry": {"coordinates":[-86.709311,36.297274],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403997055,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.800578,36.138954,-86.800578,36.138954",
     "geom:latitude":36.138954,
     "geom:longitude":-86.800578,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1500 21st Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403997055,
-    "wof:lastmodified":1449055734,
+    "wof:lastmodified":1467082782,
     "wof:name":"Adetola Kassim MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-86.800578,36.138954,-86.800578,36.138954],
+  "bbox": [
+    -86.800578,
+    36.138954,
+    -86.800578,
+    36.138954
+],
   "geometry": {"coordinates":[-86.800578,36.138954],"type":"Point"}
 }

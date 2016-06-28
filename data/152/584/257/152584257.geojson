@@ -2,13 +2,14 @@
   "id": 152584257,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.890086,34.963255,-86.890086,34.963255",
     "geom:latitude":34.963255,
     "geom:longitude":-86.890086,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27851 Holland Gin Rd",
     "sg:city":"Elkmont",
     "sg:classifiers":[
@@ -29,10 +30,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152584257,
-    "wof:lastmodified":1449044811,
+    "wof:lastmodified":1467082781,
     "wof:name":"Campbell Skippy L & Donna",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.890086,34.963255,-86.890086,34.963255],
+  "bbox": [
+    -86.890086,
+    34.963255,
+    -86.890086,
+    34.963255
+],
   "geometry": {"coordinates":[-86.890086,34.963255],"type":"Point"}
 }

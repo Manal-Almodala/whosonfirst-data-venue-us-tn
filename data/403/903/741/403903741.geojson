@@ -2,13 +2,14 @@
   "id": 403903741,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.679195,36.205311,-86.679195,36.205311",
     "geom:latitude":36.205311,
     "geom:longitude":-86.679195,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2913 McGavock Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -61,16 +62,22 @@
         }
     ],
     "wof:id":403903741,
-    "wof:lastmodified":1449054705,
+    "wof:lastmodified":1467082781,
     "wof:name":"Pressure Point Power Washing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "maintenance"
     ]
 },
-  "bbox": [-86.679195,36.205311,-86.679195,36.205311],
-  "geometry": {"coordinates":[-86.679195,36.205311],"type":"Point"}
+  "bbox": [
+    -86.679195,
+    36.205311,
+    -86.679195,
+    36.205311
+],
+  "geometry": {"coordinates":[-86.67919500000001,36.205311],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403874131,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.409098,36.311573,-82.409098,36.311573",
     "geom:latitude":36.311573,
     "geom:longitude":-82.409098,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"287 Faith Cir",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":403874131,
-    "wof:lastmodified":1449055875,
+    "wof:lastmodified":1467082782,
     "wof:name":"Cars Wholesale",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "dealer"
     ]
 },
-  "bbox": [-82.409098,36.311573,-82.409098,36.311573],
+  "bbox": [
+    -82.409098,
+    36.311573,
+    -82.409098,
+    36.311573
+],
   "geometry": {"coordinates":[-82.409098,36.311573],"type":"Point"}
 }

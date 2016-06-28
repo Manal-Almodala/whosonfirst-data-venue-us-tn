@@ -2,13 +2,14 @@
   "id": 404109097,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.330119,35.241355,-87.330119,35.241355",
     "geom:latitude":35.241355,
     "geom:longitude":-87.330119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"104 N Locust Ave",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404109097,
-    "wof:lastmodified":1449039429,
+    "wof:lastmodified":1467082779,
     "wof:name":"Staley Homer L MD",
     "wof:parent_id":85805627,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"
     ]
 },
-  "bbox": [-87.330119,35.241355,-87.330119,35.241355],
+  "bbox": [
+    -87.330119,
+    35.241355,
+    -87.330119,
+    35.241355
+],
   "geometry": {"coordinates":[-87.330119,35.241355],"type":"Point"}
 }

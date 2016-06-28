@@ -2,13 +2,14 @@
   "id": 403928207,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.729539,36.136176,-86.729539,36.136176",
     "geom:latitude":36.136176,
     "geom:longitude":-86.729539,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"336 Hill Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":403928207,
-    "wof:lastmodified":1449055780,
+    "wof:lastmodified":1467082782,
     "wof:name":"GE",
     "wof:parent_id":85822001,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "mfg"
     ]
 },
-  "bbox": [-86.729539,36.136176,-86.729539,36.136176],
+  "bbox": [
+    -86.729539,
+    36.136176,
+    -86.729539,
+    36.136176
+],
   "geometry": {"coordinates":[-86.729539,36.136176],"type":"Point"}
 }

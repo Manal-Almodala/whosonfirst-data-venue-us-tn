@@ -2,13 +2,14 @@
   "id": 404083075,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.848892,36.12426,-86.848892,36.12426",
     "geom:latitude":36.12426,
     "geom:longitude":-86.848892,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4544 Harding Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404083075,
-    "wof:lastmodified":1449039582,
+    "wof:lastmodified":1467082779,
     "wof:name":"Ragland Corp",
     "wof:parent_id":85844411,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "management"
     ]
 },
-  "bbox": [-86.848892,36.12426,-86.848892,36.12426],
-  "geometry": {"coordinates":[-86.848892,36.12426],"type":"Point"}
+  "bbox": [
+    -86.848892,
+    36.12426,
+    -86.848892,
+    36.12426
+],
+  "geometry": {"coordinates":[-86.84889200000001,36.12426],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403889735,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.091486,35.920967,-84.091486,35.920967",
     "geom:latitude":35.920967,
     "geom:longitude":-84.091486,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"9111 Cross Park Dr NW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403889735,
-    "wof:lastmodified":1449054611,
+    "wof:lastmodified":1467082781,
     "wof:name":"New Horizons Computer Learning",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "computer"
     ]
 },
-  "bbox": [-84.091486,35.920967,-84.091486,35.920967],
+  "bbox": [
+    -84.091486,
+    35.920967,
+    -84.091486,
+    35.920967
+],
   "geometry": {"coordinates":[-84.091486,35.920967],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404139687,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.193643,35.049086,-85.193643,35.049086",
     "geom:latitude":35.049086,
     "geom:longitude":-85.193643,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2133 Polymer Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -57,10 +58,11 @@
         }
     ],
     "wof:id":404139687,
-    "wof:lastmodified":1449039133,
+    "wof:lastmodified":1467082779,
     "wof:name":"Commercial Furnishings Ind",
     "wof:parent_id":85851775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -68,6 +70,11 @@
         "supply"
     ]
 },
-  "bbox": [-85.193643,35.049086,-85.193643,35.049086],
-  "geometry": {"coordinates":[-85.193643,35.049086],"type":"Point"}
+  "bbox": [
+    -85.193643,
+    35.049086,
+    -85.193643,
+    35.049086
+],
+  "geometry": {"coordinates":[-85.19364299999999,35.049086],"type":"Point"}
 }

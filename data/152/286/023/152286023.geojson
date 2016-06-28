@@ -2,13 +2,14 @@
   "id": 152286023,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846494,34.987672,-86.846494,34.987672",
     "geom:latitude":34.987672,
     "geom:longitude":-86.846494,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30244 Ardmore Ave",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -27,10 +28,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":152286023,
-    "wof:lastmodified":1449045509,
+    "wof:lastmodified":1467082781,
     "wof:name":"Pepehall Ministries Inc",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.846494,34.987672,-86.846494,34.987672],
-  "geometry": {"coordinates":[-86.846494,34.987672],"type":"Point"}
+  "bbox": [
+    -86.846494,
+    34.987672,
+    -86.846494,
+    34.987672
+],
+  "geometry": {"coordinates":[-86.84649400000001,34.987672],"type":"Point"}
 }

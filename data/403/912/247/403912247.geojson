@@ -2,13 +2,14 @@
   "id": 403912247,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.441159,36.54967,-82.441159,36.54967",
     "geom:latitude":36.54967,
     "geom:longitude":-82.441159,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5234 Memorial Blvd",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403912247,
-    "wof:lastmodified":1449055292,
+    "wof:lastmodified":1467082782,
     "wof:name":"Sheltons Guns Ammo",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.441159,36.54967,-82.441159,36.54967],
+  "bbox": [
+    -82.441159,
+    36.54967,
+    -82.441159,
+    36.54967
+],
   "geometry": {"coordinates":[-82.441159,36.54967],"type":"Point"}
 }

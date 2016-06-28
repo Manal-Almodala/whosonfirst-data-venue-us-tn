@@ -2,13 +2,14 @@
   "id": 403856293,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.995388,35.140407,-89.995388,35.140407",
     "geom:latitude":35.140407,
     "geom:longitude":-89.995388,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"135 N Rembert St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403856293,
-    "wof:lastmodified":1449055018,
+    "wof:lastmodified":1467082782,
     "wof:name":"Mark Allen Construction",
     "wof:parent_id":85867189,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-89.995388,35.140407,-89.995388,35.140407],
-  "geometry": {"coordinates":[-89.995388,35.140407],"type":"Point"}
+  "bbox": [
+    -89.995388,
+    35.140407,
+    -89.995388,
+    35.140407
+],
+  "geometry": {"coordinates":[-89.99538800000001,35.140407],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404033403,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.991796,35.173336,-89.991796,35.173336",
     "geom:latitude":35.173336,
     "geom:longitude":-89.991796,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1888 Chelsea Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,10 +52,11 @@
         }
     ],
     "wof:id":404033403,
-    "wof:lastmodified":1449039306,
+    "wof:lastmodified":1467082779,
     "wof:name":"Precision Motor Works Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -62,6 +64,11 @@
         "engine"
     ]
 },
-  "bbox": [-89.991796,35.173336,-89.991796,35.173336],
-  "geometry": {"coordinates":[-89.991796,35.173336],"type":"Point"}
+  "bbox": [
+    -89.991796,
+    35.173336,
+    -89.991796,
+    35.173336
+],
+  "geometry": {"coordinates":[-89.99179599999999,35.173336],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 270503511,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.338355,35.001057,-84.338355,35.001057",
     "geom:latitude":35.001057,
     "geom:longitude":-84.338355,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"509 Airport Rd",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":270503511,
-    "wof:lastmodified":1449011121,
+    "wof:lastmodified":1467082778,
     "wof:name":"Deutsch Industrial Products",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "electronic"
     ]
 },
-  "bbox": [-84.338355,35.001057,-84.338355,35.001057],
-  "geometry": {"coordinates":[-84.338355,35.001057],"type":"Point"}
+  "bbox": [
+    -84.338355,
+    35.001057,
+    -84.338355,
+    35.001057
+],
+  "geometry": {"coordinates":[-84.33835500000001,35.001057],"type":"Point"}
 }

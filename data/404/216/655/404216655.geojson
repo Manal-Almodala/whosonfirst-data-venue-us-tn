@@ -2,13 +2,14 @@
   "id": 404216655,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.885986,35.059767,-89.885986,35.059767",
     "geom:latitude":35.059767,
     "geom:longitude":-89.885986,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3215 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -58,14 +59,20 @@
         }
     ],
     "wof:id":404216655,
-    "wof:lastmodified":1449040187,
+    "wof:lastmodified":1467082780,
     "wof:name":"Fox Meadows Liquors LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.885986,35.059767,-89.885986,35.059767],
+  "bbox": [
+    -89.885986,
+    35.059767,
+    -89.885986,
+    35.059767
+],
   "geometry": {"coordinates":[-89.885986,35.059767],"type":"Point"}
 }

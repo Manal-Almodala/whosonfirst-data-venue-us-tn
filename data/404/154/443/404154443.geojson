@@ -2,13 +2,14 @@
   "id": 404154443,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.816642,35.650773,-88.816642,35.650773",
     "geom:latitude":35.650773,
     "geom:longitude":-88.816642,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"86 Alta Vista Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404154443,
-    "wof:lastmodified":1449040340,
+    "wof:lastmodified":1467082781,
     "wof:name":"One French Hen",
     "wof:parent_id":85824843,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "mfg"
     ]
 },
-  "bbox": [-88.816642,35.650773,-88.816642,35.650773],
+  "bbox": [
+    -88.816642,
+    35.650773,
+    -88.816642,
+    35.650773
+],
   "geometry": {"coordinates":[-88.816642,35.650773],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403931345,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.803207,35.966926,-86.803207,35.966926",
     "geom:latitude":35.966926,
     "geom:longitude":-86.803207,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1616 Westgate Cir",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403931345,
-    "wof:lastmodified":1449055849,
+    "wof:lastmodified":1467082782,
     "wof:name":"WMCDIRECT.COM",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.803207,35.966926,-86.803207,35.966926],
+  "bbox": [
+    -86.803207,
+    35.966926,
+    -86.803207,
+    35.966926
+],
   "geometry": {"coordinates":[-86.803207,35.966926],"type":"Point"}
 }

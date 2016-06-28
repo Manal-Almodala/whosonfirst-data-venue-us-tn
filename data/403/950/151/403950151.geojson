@@ -2,13 +2,14 @@
   "id": 403950151,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.750532,36.041347,-83.750532,36.041347",
     "geom:latitude":36.041347,
     "geom:longitude":-83.750532,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8530 N Ruggles Ferry Pike",
     "sg:city":"Strawberry Plns",
     "sg:classifiers":[
@@ -52,16 +53,22 @@
         }
     ],
     "wof:id":403950151,
-    "wof:lastmodified":1449055153,
+    "wof:lastmodified":1467082782,
     "wof:name":"Ruggles Ferry Golf Club",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "course"
     ]
 },
-  "bbox": [-83.750532,36.041347,-83.750532,36.041347],
-  "geometry": {"coordinates":[-83.750532,36.041347],"type":"Point"}
+  "bbox": [
+    -83.750532,
+    36.041347,
+    -83.750532,
+    36.041347
+],
+  "geometry": {"coordinates":[-83.75053200000001,36.041347],"type":"Point"}
 }

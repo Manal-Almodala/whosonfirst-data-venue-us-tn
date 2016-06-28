@@ -2,13 +2,14 @@
   "id": 404012929,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.852348,35.250404,-89.852348,35.250404",
     "geom:latitude":35.250404,
     "geom:longitude":-89.852348,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6318 Carolot Ln",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -54,10 +55,11 @@
         }
     ],
     "wof:id":404012929,
-    "wof:lastmodified":1449040210,
+    "wof:lastmodified":1467082780,
     "wof:name":"Bluff City Postcards",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "souvenir"
     ]
 },
-  "bbox": [-89.852348,35.250404,-89.852348,35.250404],
-  "geometry": {"coordinates":[-89.852348,35.250404],"type":"Point"}
+  "bbox": [
+    -89.852348,
+    35.250404,
+    -89.852348,
+    35.250404
+],
+  "geometry": {"coordinates":[-89.85234800000001,35.250404],"type":"Point"}
 }

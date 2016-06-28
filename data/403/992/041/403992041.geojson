@@ -2,13 +2,14 @@
   "id": 403992041,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.908151,35.933368,-83.908151,35.933368",
     "geom:latitude":35.933368,
     "geom:longitude":-83.908151,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"209 W Young High Pkwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403992041,
-    "wof:lastmodified":1449055251,
+    "wof:lastmodified":1467082782,
     "wof:name":"A Touch Of Paradise Limo/Taxi",
     "wof:parent_id":85878565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "taxicab"
     ]
 },
-  "bbox": [-83.908151,35.933368,-83.908151,35.933368],
+  "bbox": [
+    -83.908151,
+    35.933368,
+    -83.908151,
+    35.933368
+],
   "geometry": {"coordinates":[-83.908151,35.933368],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403945265,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.863886,35.071512,-89.863886,35.071512",
     "geom:latitude":35.071512,
     "geom:longitude":-89.863886,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"2838 Hickory Hill Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403945265,
-    "wof:lastmodified":1449054742,
+    "wof:lastmodified":1467082781,
     "wof:name":"Giftworks",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "specialty"
     ]
 },
-  "bbox": [-89.863886,35.071512,-89.863886,35.071512],
-  "geometry": {"coordinates":[-89.863886,35.071512],"type":"Point"}
+  "bbox": [
+    -89.863886,
+    35.071512,
+    -89.863886,
+    35.071512
+],
+  "geometry": {"coordinates":[-89.86388599999999,35.071512],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404157417,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.744762,35.725164,-84.744762,35.725164",
     "geom:latitude":35.725164,
     "geom:longitude":-84.744762,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"875 Euchee Chapel Rd",
     "sg:city":"Spring City",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404157417,
-    "wof:lastmodified":1449040150,
+    "wof:lastmodified":1467082780,
     "wof:name":"Dans Transport Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "trucking"
     ]
 },
-  "bbox": [-84.744762,35.725164,-84.744762,35.725164],
-  "geometry": {"coordinates":[-84.744762,35.725164],"type":"Point"}
+  "bbox": [
+    -84.744762,
+    35.725164,
+    -84.744762,
+    35.725164
+],
+  "geometry": {"coordinates":[-84.74476199999999,35.725164],"type":"Point"}
 }

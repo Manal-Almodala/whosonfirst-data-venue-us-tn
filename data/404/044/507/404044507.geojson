@@ -2,13 +2,14 @@
   "id": 404044507,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.572198,36.013175,-86.572198,36.013175",
     "geom:latitude":36.013175,
     "geom:longitude":-86.572198,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"141 Gambill Ln",
     "sg:city":"La Vergne",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404044507,
-    "wof:lastmodified":1449039744,
+    "wof:lastmodified":1467082780,
     "wof:name":"Lavergne Rescue Unit I",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.572198,36.013175,-86.572198,36.013175],
+  "bbox": [
+    -86.572198,
+    36.013175,
+    -86.572198,
+    36.013175
+],
   "geometry": {"coordinates":[-86.572198,36.013175],"type":"Point"}
 }

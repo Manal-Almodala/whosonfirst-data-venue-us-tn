@@ -2,13 +2,14 @@
   "id": 404213087,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.426507,36.404732,-86.426507,36.404732",
     "geom:latitude":36.404732,
     "geom:longitude":-86.426507,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1380 E Broadway",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404213087,
-    "wof:lastmodified":1449039101,
+    "wof:lastmodified":1467082778,
     "wof:name":"Anderson Game Company",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "amusement"
     ]
 },
-  "bbox": [-86.426507,36.404732,-86.426507,36.404732],
+  "bbox": [
+    -86.426507,
+    36.404732,
+    -86.426507,
+    36.404732
+],
   "geometry": {"coordinates":[-86.426507,36.404732],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404126669,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.000107,35.062843,-85.000107,35.062843",
     "geom:latitude":35.062843,
     "geom:longitude":-85.000107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"237 Pine Hill Dr",
     "sg:city":"Mc Donald",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404126669,
-    "wof:lastmodified":1449039473,
+    "wof:lastmodified":1467082779,
     "wof:name":"Pet Specialty",
     "wof:parent_id":85849565,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "merchandise"
     ]
 },
-  "bbox": [-85.000107,35.062843,-85.000107,35.062843],
+  "bbox": [
+    -85.000107,
+    35.062843,
+    -85.000107,
+    35.062843
+],
   "geometry": {"coordinates":[-85.000107,35.062843],"type":"Point"}
 }

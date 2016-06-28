@@ -2,13 +2,14 @@
   "id": 404119697,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.828003,35.917202,-86.828003,35.917202",
     "geom:latitude":35.917202,
     "geom:longitude":-86.828003,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"109 Holiday Ct",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404119697,
-    "wof:lastmodified":1449039981,
+    "wof:lastmodified":1467082780,
     "wof:name":"Elite Logistic Group",
     "wof:parent_id":85830431,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-86.828003,35.917202,-86.828003,35.917202],
+  "bbox": [
+    -86.828003,
+    35.917202,
+    -86.828003,
+    35.917202
+],
   "geometry": {"coordinates":[-86.828003,35.917202],"type":"Point"}
 }

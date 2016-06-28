@@ -2,13 +2,14 @@
   "id": 152573677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.357615,35.018414,-86.357615,35.018414",
     "geom:latitude":35.018414,
     "geom:longitude":-86.357615,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 John Hunter Hwy",
     "sg:city":"Elora",
     "sg:classifiers":[
@@ -28,11 +29,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868159,
+        85688701,
         85633793,
         101722777,
         102087119,
-        85688701
+        85868159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,14 +52,20 @@
         }
     ],
     "wof:id":152573677,
-    "wof:lastmodified":1449047712,
+    "wof:lastmodified":1467082781,
     "wof:name":"Lewis Cabinets",
     "wof:parent_id":85868159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.357615,35.018414,-86.357615,35.018414],
+  "bbox": [
+    -86.357615,
+    35.018414,
+    -86.357615,
+    35.018414
+],
   "geometry": {"coordinates":[-86.357615,35.018414],"type":"Point"}
 }

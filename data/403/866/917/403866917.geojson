@@ -2,13 +2,14 @@
   "id": 403866917,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.230571,36.241985,-83.230571,36.241985",
     "geom:latitude":36.241985,
     "geom:longitude":-83.230571,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4817 E Andrew Johnson Hwy",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403866917,
-    "wof:lastmodified":1449055265,
+    "wof:lastmodified":1467082782,
     "wof:name":"England",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.230571,36.241985,-83.230571,36.241985],
+  "bbox": [
+    -83.230571,
+    36.241985,
+    -83.230571,
+    36.241985
+],
   "geometry": {"coordinates":[-83.230571,36.241985],"type":"Point"}
 }

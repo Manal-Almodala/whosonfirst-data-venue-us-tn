@@ -2,13 +2,14 @@
   "id": 336702821,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.375602,34.991532,-84.375602,34.991532",
     "geom:latitude":34.991532,
     "geom:longitude":-84.375602,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"227 Ocoee St",
     "sg:city":"Copperhill",
     "sg:classifiers":[
@@ -47,16 +48,22 @@
         }
     ],
     "wof:id":336702821,
-    "wof:lastmodified":1448997493,
+    "wof:lastmodified":1467082778,
     "wof:name":"Dollar General",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "patent"
     ]
 },
-  "bbox": [-84.375602,34.991532,-84.375602,34.991532],
+  "bbox": [
+    -84.375602,
+    34.991532,
+    -84.375602,
+    34.991532
+],
   "geometry": {"coordinates":[-84.375602,34.991532],"type":"Point"}
 }

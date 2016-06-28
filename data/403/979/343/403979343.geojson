@@ -2,13 +2,14 @@
   "id": 403979343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.561473,36.461509,-83.561473,36.461509",
     "geom:latitude":36.461509,
     "geom:longitude":-83.561473,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"315 Cedar Fork Rd",
     "sg:city":"Tazewell",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403979343,
-    "wof:lastmodified":1449055552,
+    "wof:lastmodified":1467082782,
     "wof:name":"Bud's Wrecker Svc & Garage",
     "wof:parent_id":85810917,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "wrecker"
     ]
 },
-  "bbox": [-83.561473,36.461509,-83.561473,36.461509],
-  "geometry": {"coordinates":[-83.561473,36.461509],"type":"Point"}
+  "bbox": [
+    -83.561473,
+    36.461509,
+    -83.561473,
+    36.461509
+],
+  "geometry": {"coordinates":[-83.56147300000001,36.461509],"type":"Point"}
 }

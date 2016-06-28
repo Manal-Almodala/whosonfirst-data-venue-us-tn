@@ -2,13 +2,14 @@
   "id": 403930997,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.642213,36.246397,-86.642213,36.246397",
     "geom:latitude":36.246397,
     "geom:longitude":-86.642213,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"100 Park Cir",
     "sg:city":"Old Hickory",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403930997,
-    "wof:lastmodified":1449055057,
+    "wof:lastmodified":1467082782,
     "wof:name":"Danny's Automotive Svc",
     "wof:parent_id":85839347,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "automobile"
     ]
 },
-  "bbox": [-86.642213,36.246397,-86.642213,36.246397],
+  "bbox": [
+    -86.642213,
+    36.246397,
+    -86.642213,
+    36.246397
+],
   "geometry": {"coordinates":[-86.642213,36.246397],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403994665,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.789513,36.158968,-86.789513,36.158968",
     "geom:latitude":36.158968,
     "geom:longitude":-86.789513,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1214 Church St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403994665,
-    "wof:lastmodified":1449054688,
+    "wof:lastmodified":1467082781,
     "wof:name":"Nes Central Fleet Garage",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "general"
     ]
 },
-  "bbox": [-86.789513,36.158968,-86.789513,36.158968],
+  "bbox": [
+    -86.789513,
+    36.158968,
+    -86.789513,
+    36.158968
+],
   "geometry": {"coordinates":[-86.789513,36.158968],"type":"Point"}
 }

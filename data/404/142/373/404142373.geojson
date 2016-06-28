@@ -2,13 +2,14 @@
   "id": 404142373,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.77943,36.206626,-86.77943,36.206626",
     "geom:latitude":36.206626,
     "geom:longitude":-86.77943,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"340 W Trinity Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404142373,
-    "wof:lastmodified":1449040046,
+    "wof:lastmodified":1467082780,
     "wof:name":"Greater Grace Temple Church",
     "wof:parent_id":85807929,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "church"
     ]
 },
-  "bbox": [-86.77943,36.206626,-86.77943,36.206626],
+  "bbox": [
+    -86.77943,
+    36.206626,
+    -86.77943,
+    36.206626
+],
   "geometry": {"coordinates":[-86.77943,36.206626],"type":"Point"}
 }

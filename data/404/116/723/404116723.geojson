@@ -2,13 +2,14 @@
   "id": 404116723,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.620837,36.072105,-86.620837,36.072105",
     "geom:latitude":36.072105,
     "geom:longitude":-86.620837,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"3233 Lu Ann Dr",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404116723,
-    "wof:lastmodified":1449039187,
+    "wof:lastmodified":1467082779,
     "wof:name":"Ramirez Painting",
     "wof:parent_id":85846409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "contractor"
     ]
 },
-  "bbox": [-86.620837,36.072105,-86.620837,36.072105],
-  "geometry": {"coordinates":[-86.620837,36.072105],"type":"Point"}
+  "bbox": [
+    -86.620837,
+    36.072105,
+    -86.620837,
+    36.072105
+],
+  "geometry": {"coordinates":[-86.62083699999999,36.072105],"type":"Point"}
 }

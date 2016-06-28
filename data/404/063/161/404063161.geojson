@@ -2,13 +2,14 @@
   "id": 404063161,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.85772,35.168386,-89.85772,35.168386",
     "geom:latitude":35.168386,
     "geom:longitude":-89.85772,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"6161 Shelby Oaks Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":404063161,
-    "wof:lastmodified":1449039124,
+    "wof:lastmodified":1467082779,
     "wof:name":"Easy Divers",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-89.85772,35.168386,-89.85772,35.168386],
+  "bbox": [
+    -89.85772,
+    35.168386,
+    -89.85772,
+    35.168386
+],
   "geometry": {"coordinates":[-89.85772,35.168386],"type":"Point"}
 }

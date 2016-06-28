@@ -2,13 +2,14 @@
   "id": 404129287,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.901063,35.618839,-85.901063,35.618839",
     "geom:latitude":35.618839,
     "geom:longitude":-85.901063,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"265 Warehouse Rd",
     "sg:city":"Morrison",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":404129287,
-    "wof:lastmodified":1449040055,
+    "wof:lastmodified":1467082780,
     "wof:name":"Hagemeyer",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -60,6 +62,11 @@
         "industrial"
     ]
 },
-  "bbox": [-85.901063,35.618839,-85.901063,35.618839],
-  "geometry": {"coordinates":[-85.901063,35.618839],"type":"Point"}
+  "bbox": [
+    -85.901063,
+    35.618839,
+    -85.901063,
+    35.618839
+],
+  "geometry": {"coordinates":[-85.90106299999999,35.618839],"type":"Point"}
 }

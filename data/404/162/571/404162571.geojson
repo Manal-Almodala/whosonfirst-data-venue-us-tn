@@ -2,13 +2,14 @@
   "id": 404162571,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.418503,36.033854,-84.418503,36.033854",
     "geom:latitude":36.033854,
     "geom:longitude":-84.418503,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"102 Guy Jones Rd",
     "sg:city":"Oliver Springs",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":404162571,
-    "wof:lastmodified":1449040137,
+    "wof:lastmodified":1467082780,
     "wof:name":"Insurance Service Agency",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-84.418503,36.033854,-84.418503,36.033854],
+  "bbox": [
+    -84.418503,
+    36.033854,
+    -84.418503,
+    36.033854
+],
   "geometry": {"coordinates":[-84.418503,36.033854],"type":"Point"}
 }

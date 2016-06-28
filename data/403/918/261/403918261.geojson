@@ -2,13 +2,14 @@
   "id": 403918261,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.872976,36.019062,-83.872976,36.019062",
     "geom:latitude":36.019062,
     "geom:longitude":-83.872976,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4711 Mildred Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403918261,
-    "wof:lastmodified":1449055511,
+    "wof:lastmodified":1467082782,
     "wof:name":"Spring Hill Elementary School",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.872976,36.019062,-83.872976,36.019062],
-  "geometry": {"coordinates":[-83.872976,36.019062],"type":"Point"}
+  "bbox": [
+    -83.872976,
+    36.019062,
+    -83.872976,
+    36.019062
+],
+  "geometry": {"coordinates":[-83.87297599999999,36.019062],"type":"Point"}
 }

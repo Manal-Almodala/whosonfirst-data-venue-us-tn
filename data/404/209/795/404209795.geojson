@@ -2,13 +2,14 @@
   "id": 404209795,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781663,36.160788,-86.781663,36.160788",
     "geom:latitude":36.160788,
     "geom:longitude":-86.781663,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"611 Commerce St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":404209795,
-    "wof:lastmodified":1449040197,
+    "wof:lastmodified":1467082780,
     "wof:name":"Martha M Gentry",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"
     ]
 },
-  "bbox": [-86.781663,36.160788,-86.781663,36.160788],
-  "geometry": {"coordinates":[-86.781663,36.160788],"type":"Point"}
+  "bbox": [
+    -86.781663,
+    36.160788,
+    -86.781663,
+    36.160788
+],
+  "geometry": {"coordinates":[-86.78166299999999,36.160788],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152653155,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.82005,34.977121,-86.82005,34.977121",
     "geom:latitude":34.977121,
     "geom:longitude":-86.82005,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"27980 Cedar Hill Rd",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152653155,
-    "wof:lastmodified":1449044641,
+    "wof:lastmodified":1467082781,
     "wof:name":"Collins' Sales",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.82005,34.977121,-86.82005,34.977121],
-  "geometry": {"coordinates":[-86.82005,34.977121],"type":"Point"}
+  "bbox": [
+    -86.82005,
+    34.977121,
+    -86.82005,
+    34.977121
+],
+  "geometry": {"coordinates":[-86.82004999999999,34.977121],"type":"Point"}
 }

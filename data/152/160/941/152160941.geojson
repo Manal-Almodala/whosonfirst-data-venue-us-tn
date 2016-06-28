@@ -2,13 +2,14 @@
   "id": 152160941,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.789142,35.081325,-86.789142,35.081325",
     "geom:latitude":35.081325,
     "geom:longitude":-86.789142,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"107 Hill Rd",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -27,11 +28,11 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        85868159,
+        85688701,
         85633793,
         101722777,
         102087119,
-        85688701
+        85868159
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -50,14 +51,20 @@
         }
     ],
     "wof:id":152160941,
-    "wof:lastmodified":1449048184,
+    "wof:lastmodified":1467082781,
     "wof:name":"Pawn Web Jones & Assoc",
     "wof:parent_id":85868159,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.789142,35.081325,-86.789142,35.081325],
+  "bbox": [
+    -86.789142,
+    35.081325,
+    -86.789142,
+    35.081325
+],
   "geometry": {"coordinates":[-86.789142,35.081325],"type":"Point"}
 }

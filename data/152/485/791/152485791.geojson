@@ -2,13 +2,14 @@
   "id": 152485791,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846454,34.99112,-86.846454,34.99112",
     "geom:latitude":34.99112,
     "geom:longitude":-86.846454,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30484 Ardmore Ave",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -24,10 +25,10 @@
     "sg:province":"AL",
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,14 +46,20 @@
         }
     ],
     "wof:id":152485791,
-    "wof:lastmodified":1449047114,
+    "wof:lastmodified":1467082781,
     "wof:name":"North Alabama Insurance",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.846454,34.99112,-86.846454,34.99112],
-  "geometry": {"coordinates":[-86.846454,34.99112],"type":"Point"}
+  "bbox": [
+    -86.846454,
+    34.99112,
+    -86.846454,
+    34.99112
+],
+  "geometry": {"coordinates":[-86.84645399999999,34.99112],"type":"Point"}
 }

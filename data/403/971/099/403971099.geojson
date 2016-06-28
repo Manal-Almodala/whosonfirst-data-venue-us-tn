@@ -2,13 +2,14 @@
   "id": 403971099,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.080623,35.028127,-90.080623,35.028127",
     "geom:latitude":35.028127,
     "geom:longitude":-90.080623,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4465 S 3rd St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403971099,
-    "wof:lastmodified":1449055320,
+    "wof:lastmodified":1467082782,
     "wof:name":"Bobbies Flowers & Weddings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-90.080623,35.028127,-90.080623,35.028127],
+  "bbox": [
+    -90.080623,
+    35.028127,
+    -90.080623,
+    35.028127
+],
   "geometry": {"coordinates":[-90.080623,35.028127],"type":"Point"}
 }

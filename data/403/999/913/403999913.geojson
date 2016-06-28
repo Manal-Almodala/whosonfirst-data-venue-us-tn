@@ -2,13 +2,14 @@
   "id": 403999913,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.057696,35.923583,-84.057696,35.923583",
     "geom:latitude":35.923583,
     "geom:longitude":-84.057696,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"8373 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":403999913,
-    "wof:lastmodified":1449055808,
+    "wof:lastmodified":1467082782,
     "wof:name":"All Star Nails",
     "wof:parent_id":85855645,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -63,6 +65,11 @@
         "manicuring"
     ]
 },
-  "bbox": [-84.057696,35.923583,-84.057696,35.923583],
-  "geometry": {"coordinates":[-84.057696,35.923583],"type":"Point"}
+  "bbox": [
+    -84.057696,
+    35.923583,
+    -84.057696,
+    35.923583
+],
+  "geometry": {"coordinates":[-84.05769600000001,35.923583],"type":"Point"}
 }

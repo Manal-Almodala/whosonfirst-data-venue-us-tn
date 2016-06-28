@@ -2,13 +2,14 @@
   "id": 403986837,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.718136,36.067061,-86.718136,36.067061",
     "geom:latitude":36.067061,
     "geom:longitude":-86.718136,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4722 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403986837,
-    "wof:lastmodified":1449055701,
+    "wof:lastmodified":1467082782,
     "wof:name":"Sidetrack",
     "wof:parent_id":85857391,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"
     ]
 },
-  "bbox": [-86.718136,36.067061,-86.718136,36.067061],
+  "bbox": [
+    -86.718136,
+    36.067061,
+    -86.718136,
+    36.067061
+],
   "geometry": {"coordinates":[-86.718136,36.067061],"type":"Point"}
 }

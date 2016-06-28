@@ -2,13 +2,14 @@
   "id": 403866467,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.052119,35.060103,-90.052119,35.060103",
     "geom:latitude":35.060103,
     "geom:longitude":-90.052119,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"234 Titan Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -50,16 +51,22 @@
         }
     ],
     "wof:id":403866467,
-    "wof:lastmodified":1449055265,
+    "wof:lastmodified":1467082782,
     "wof:name":"Shelby Logistics LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"
     ]
 },
-  "bbox": [-90.052119,35.060103,-90.052119,35.060103],
+  "bbox": [
+    -90.052119,
+    35.060103,
+    -90.052119,
+    35.060103
+],
   "geometry": {"coordinates":[-90.052119,35.060103],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403912079,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.198635,35.066118,-85.198635,35.066118",
     "geom:latitude":35.066118,
     "geom:longitude":-85.198635,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"4295 Cromwell Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -53,10 +54,11 @@
         }
     ],
     "wof:id":403912079,
-    "wof:lastmodified":1449055293,
+    "wof:lastmodified":1467082782,
     "wof:name":"Kinetic Concepts Inc",
     "wof:parent_id":85810631,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "surgeon"
     ]
 },
-  "bbox": [-85.198635,35.066118,-85.198635,35.066118],
+  "bbox": [
+    -85.198635,
+    35.066118,
+    -85.198635,
+    35.066118
+],
   "geometry": {"coordinates":[-85.198635,35.066118],"type":"Point"}
 }

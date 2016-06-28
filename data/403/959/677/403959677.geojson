@@ -2,13 +2,14 @@
   "id": 403959677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.286541,36.205236,-83.286541,36.205236",
     "geom:latitude":36.205236,
     "geom:longitude":-83.286541,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1003 S Cumberland St",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403959677,
-    "wof:lastmodified":1449055833,
+    "wof:lastmodified":1467082782,
     "wof:name":"Denton's Restaurant",
     "wof:parent_id":85852009,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"
     ]
 },
-  "bbox": [-83.286541,36.205236,-83.286541,36.205236],
+  "bbox": [
+    -83.286541,
+    36.205236,
+    -83.286541,
+    36.205236
+],
   "geometry": {"coordinates":[-83.286541,36.205236],"type":"Point"}
 }

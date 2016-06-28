@@ -2,13 +2,14 @@
   "id": 403905281,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.389566,36.076721,-87.389566,36.076721",
     "geom:latitude":36.076721,
     "geom:longitude":-87.389566,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"206 N Mulberry St",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403905281,
-    "wof:lastmodified":1449055165,
+    "wof:lastmodified":1467082782,
     "wof:name":"Christy's Auction House",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "auctioneer"
     ]
 },
-  "bbox": [-87.389566,36.076721,-87.389566,36.076721],
+  "bbox": [
+    -87.389566,
+    36.076721,
+    -87.389566,
+    36.076721
+],
   "geometry": {"coordinates":[-87.389566,36.076721],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403932343,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.952695,35.988449,-83.952695,35.988449",
     "geom:latitude":35.988449,
     "geom:longitude":-83.952695,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"500 Ambrose St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -56,10 +57,11 @@
         }
     ],
     "wof:id":403932343,
-    "wof:lastmodified":1449055124,
+    "wof:lastmodified":1467082782,
     "wof:name":"Action Crash Parts - Knoxville",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -67,6 +69,11 @@
         "rebuilt"
     ]
 },
-  "bbox": [-83.952695,35.988449,-83.952695,35.988449],
-  "geometry": {"coordinates":[-83.952695,35.988449],"type":"Point"}
+  "bbox": [
+    -83.952695,
+    35.988449,
+    -83.952695,
+    35.988449
+],
+  "geometry": {"coordinates":[-83.95269500000001,35.988449],"type":"Point"}
 }

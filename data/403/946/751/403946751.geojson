@@ -2,13 +2,14 @@
   "id": 403946751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-82.967528,36.086729,-82.967528,36.086729",
     "geom:latitude":36.086729,
     "geom:longitude":-82.967528,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"275 Bright Hope Rd",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -47,14 +48,20 @@
         }
     ],
     "wof:id":403946751,
-    "wof:lastmodified":1449055811,
+    "wof:lastmodified":1467082782,
     "wof:name":"Bright Hope Cir Unitd Methodst",
     "wof:parent_id":85851539,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-82.967528,36.086729,-82.967528,36.086729],
+  "bbox": [
+    -82.967528,
+    36.086729,
+    -82.967528,
+    36.086729
+],
   "geometry": {"coordinates":[-82.967528,36.086729],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 403985273,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.787055,36.030872,-86.787055,36.030872",
     "geom:latitude":36.030872,
     "geom:longitude":-86.787055,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"7003 Chadwick Dr",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403985273,
-    "wof:lastmodified":1449055296,
+    "wof:lastmodified":1467082782,
     "wof:name":"WEP Star Carriers",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "rental"
     ]
 },
-  "bbox": [-86.787055,36.030872,-86.787055,36.030872],
+  "bbox": [
+    -86.787055,
+    36.030872,
+    -86.787055,
+    36.030872
+],
   "geometry": {"coordinates":[-86.787055,36.030872],"type":"Point"}
 }

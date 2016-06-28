@@ -2,13 +2,14 @@
   "id": 403931143,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.928073,35.994597,-83.928073,35.994597",
     "geom:latitude":35.994597,
     "geom:longitude":-83.928073,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"937 Ledgerwood Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403931143,
-    "wof:lastmodified":1449055848,
+    "wof:lastmodified":1467082782,
     "wof:name":"Parton Brothers Landscaping",
     "wof:parent_id":85878559,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-83.928073,35.994597,-83.928073,35.994597],
+  "bbox": [
+    -83.928073,
+    35.994597,
+    -83.928073,
+    35.994597
+],
   "geometry": {"coordinates":[-83.928073,35.994597],"type":"Point"}
 }

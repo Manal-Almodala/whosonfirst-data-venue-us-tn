@@ -2,13 +2,14 @@
   "id": 404081639,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.629107,36.588777,-83.629107,36.588777",
     "geom:latitude":36.588777,
     "geom:longitude":-83.629107,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"207 Parks Cir",
     "sg:city":"Harrogate",
     "sg:classifiers":[
@@ -52,10 +53,11 @@
         }
     ],
     "wof:id":404081639,
-    "wof:lastmodified":1449039394,
+    "wof:lastmodified":1467082779,
     "wof:name":"Tucks Advertising Special",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -64,6 +66,11 @@
         "agency"
     ]
 },
-  "bbox": [-83.629107,36.588777,-83.629107,36.588777],
+  "bbox": [
+    -83.629107,
+    36.588777,
+    -83.629107,
+    36.588777
+],
   "geometry": {"coordinates":[-83.629107,36.588777],"type":"Point"}
 }

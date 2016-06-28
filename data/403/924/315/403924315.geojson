@@ -2,13 +2,14 @@
   "id": 403924315,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.028366,35.253898,-85.028366,35.253898",
     "geom:latitude":35.253898,
     "geom:longitude":-85.028366,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"11306 Dolly Pond Rd",
     "sg:city":"Birchwood",
     "sg:classifiers":[
@@ -49,10 +50,11 @@
         }
     ],
     "wof:id":403924315,
-    "wof:lastmodified":1449055013,
+    "wof:lastmodified":1467082782,
     "wof:name":"Fox2 Llc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -61,6 +63,11 @@
         "system"
     ]
 },
-  "bbox": [-85.028366,35.253898,-85.028366,35.253898],
-  "geometry": {"coordinates":[-85.028366,35.253898],"type":"Point"}
+  "bbox": [
+    -85.028366,
+    35.253898,
+    -85.028366,
+    35.253898
+],
+  "geometry": {"coordinates":[-85.02836600000001,35.253898],"type":"Point"}
 }

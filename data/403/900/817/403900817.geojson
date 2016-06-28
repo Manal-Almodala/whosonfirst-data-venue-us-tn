@@ -2,13 +2,14 @@
   "id": 403900817,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.705041,36.251716,-86.705041,36.251716",
     "geom:latitude":36.251716,
     "geom:longitude":-86.705041,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"814 Idlewild Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403900817,
-    "wof:lastmodified":1449055210,
+    "wof:lastmodified":1467082782,
     "wof:name":"Fixit Man",
     "wof:parent_id":85834867,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "handyman"
     ]
 },
-  "bbox": [-86.705041,36.251716,-86.705041,36.251716],
-  "geometry": {"coordinates":[-86.705041,36.251716],"type":"Point"}
+  "bbox": [
+    -86.705041,
+    36.251716,
+    -86.705041,
+    36.251716
+],
+  "geometry": {"coordinates":[-86.70504099999999,36.251716],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 152229751,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.846491,34.988114,-86.846491,34.988114",
     "geom:latitude":34.988114,
     "geom:longitude":-86.846491,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"30276 Ardmore Ave",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -28,10 +29,10 @@
     ],
     "src:geom":"simplegeo",
     "wof:belongsto":[
-        102086333,
-        85633793,
         85688701,
-        85817801
+        85633793,
+        85817801,
+        102086333
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,14 +50,20 @@
         }
     ],
     "wof:id":152229751,
-    "wof:lastmodified":1449047980,
+    "wof:lastmodified":1467082781,
     "wof:name":"Mc Knght Motors",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.846491,34.988114,-86.846491,34.988114],
+  "bbox": [
+    -86.846491,
+    34.988114,
+    -86.846491,
+    34.988114
+],
   "geometry": {"coordinates":[-86.846491,34.988114],"type":"Point"}
 }

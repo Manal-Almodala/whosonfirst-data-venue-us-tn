@@ -2,13 +2,14 @@
   "id": 403986677,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.825595,35.956832,-86.825595,35.956832",
     "geom:latitude":35.956832,
     "geom:longitude":-86.825595,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"201 Seaboard Ln",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -48,14 +49,20 @@
         }
     ],
     "wof:id":403986677,
-    "wof:lastmodified":1449055703,
+    "wof:lastmodified":1467082782,
     "wof:name":"Souther Whole Salers Assn",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[]
 },
-  "bbox": [-86.825595,35.956832,-86.825595,35.956832],
-  "geometry": {"coordinates":[-86.825595,35.956832],"type":"Point"}
+  "bbox": [
+    -86.825595,
+    35.956832,
+    -86.825595,
+    35.956832
+],
+  "geometry": {"coordinates":[-86.82559500000001,35.956832],"type":"Point"}
 }

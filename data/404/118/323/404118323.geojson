@@ -2,13 +2,14 @@
   "id": 404118323,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.802768,36.034663,-86.802768,36.034663",
     "geom:latitude":36.034663,
     "geom:longitude":-86.802768,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5200 Maryland Way",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -55,10 +56,11 @@
         }
     ],
     "wof:id":404118323,
-    "wof:lastmodified":1449040063,
+    "wof:lastmodified":1467082780,
     "wof:name":"American Homepatient Texas LP",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -69,6 +71,11 @@
         "home"
     ]
 },
-  "bbox": [-86.802768,36.034663,-86.802768,36.034663],
+  "bbox": [
+    -86.802768,
+    36.034663,
+    -86.802768,
+    36.034663
+],
   "geometry": {"coordinates":[-86.802768,36.034663],"type":"Point"}
 }

@@ -2,13 +2,14 @@
   "id": 404032135,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.160117,35.021732,-85.160117,35.021732",
     "geom:latitude":35.021732,
     "geom:longitude":-85.160117,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"1755 Gunbarrel Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -59,10 +60,11 @@
         }
     ],
     "wof:id":404032135,
-    "wof:lastmodified":1449039602,
+    "wof:lastmodified":1467082779,
     "wof:name":"Chattanooga Plastic Surgery",
     "wof:parent_id":85805409,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
@@ -72,6 +74,11 @@
         "equipment"
     ]
 },
-  "bbox": [-85.160117,35.021732,-85.160117,35.021732],
+  "bbox": [
+    -85.160117,
+    35.021732,
+    -85.160117,
+    35.021732
+],
   "geometry": {"coordinates":[-85.160117,35.021732],"type":"Point"}
 }

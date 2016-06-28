@@ -2,13 +2,14 @@
   "id": 403981577,
   "type": "Feature",
   "properties": {
-    "edtf:cessation":"u",
-    "edtf:inception":"u",
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.213959,35.011708,-85.213959,35.011708",
     "geom:latitude":35.011708,
     "geom:longitude":-85.213959,
     "iso:country":"US",
+    "mz:hierarchy_label":1,
     "sg:address":"5700 Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -51,16 +52,22 @@
         }
     ],
     "wof:id":403981577,
-    "wof:lastmodified":1449055996,
+    "wof:lastmodified":1467082783,
     "wof:name":"Gold Rush Jewelers",
     "wof:parent_id":85876729,
     "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
     "wof:supersedes":[],
     "wof:tags":[
         "jeweler"
     ]
 },
-  "bbox": [-85.213959,35.011708,-85.213959,35.011708],
+  "bbox": [
+    -85.213959,
+    35.011708,
+    -85.213959,
+    35.011708
+],
   "geometry": {"coordinates":[-85.213959,35.011708],"type":"Point"}
 }
