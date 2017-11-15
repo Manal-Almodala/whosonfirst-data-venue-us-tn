@@ -2,14 +2,20 @@
   "id": 807339291,
   "type": "Feature",
   "properties": {
+    "addr:full":"5855 Ridge Bend Rd Memphis TN 38120",
+    "addr:housenumber":"5855",
+    "addr:postcode":"38120",
+    "addr:street":"Ridge Bend Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.865478,35.109626,-89.865478,35.109626",
     "geom:latitude":35.109626,
     "geom:longitude":-89.865478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5855 Ridge Bend Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85857485
     ],
+    "wof:brand_id":420575785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oBoyab9XiNHQxGFzNK3wS_35.109626_-89.865478@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606337,
-    "wof:geomhash":"436088fe73474d8c6632796bbf46d37f",
+    "wof:geomhash":"1a103bfcc3a5bdd232831b2010c477c5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807339291,
-    "wof:lastmodified":1467083539,
+    "wof:lastmodified":1510602829,
     "wof:name":"C B Richard Ellis",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",

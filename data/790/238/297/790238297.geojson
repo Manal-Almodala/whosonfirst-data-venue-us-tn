@@ -2,14 +2,20 @@
   "id": 790238297,
   "type": "Feature",
   "properties": {
+    "addr:full":"2251 Hwy 127 S Crossville TN 38572",
+    "addr:housenumber":"2251",
+    "addr:postcode":"38572",
+    "addr:street":"Hwy 127 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.001359,35.923085,-85.001359,35.923085",
     "geom:latitude":35.923085,
     "geom:longitude":-85.001359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2251 Hwy 127 S",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":1125157569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mO99dLqGnqQJerC3G8uGa_35.923085_-85.001359@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594237,
-    "wof:geomhash":"320612b42b5a236689a63bf3748f3d5c",
+    "wof:geomhash":"dc927c9e21a0a4cfe1b28634fb054fe4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790238297,
-    "wof:lastmodified":1467083153,
+    "wof:lastmodified":1510699304,
     "wof:name":"Budget Motel",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

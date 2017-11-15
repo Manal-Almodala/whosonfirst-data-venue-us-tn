@@ -2,6 +2,10 @@
   "id": 807241319,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 N Avondale Cir Nashville TN 37207",
+    "addr:housenumber":"1234",
+    "addr:postcode":"37207",
+    "addr:street":"N Avondale Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":807241319,
-    "wof:lastmodified":1467083503,
+    "wof:lastmodified":1472645781,
     "wof:name":"T Thomas Enterprises",
     "wof:parent_id":85804059,
     "wof:placetype":"venue",

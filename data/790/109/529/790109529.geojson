@@ -2,14 +2,20 @@
   "id": 790109529,
   "type": "Feature",
   "properties": {
+    "addr:full":"1166 Harmony Rd Jonesborough TN 37659",
+    "addr:housenumber":"1166",
+    "addr:postcode":"37659",
+    "addr:street":"Harmony Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.566164,36.394995,-82.566164,36.394995",
     "geom:latitude":36.394995,
     "geom:longitude":-82.566164,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1166 Harmony Rd",
     "sg:city":"Jonesborough",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086335,
         85822827
     ],
+    "wof:brand_id":1125154885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ARZn5OWbxTr8dNvnmdzQi_36.394995_-82.566164@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593216,
-    "wof:geomhash":"011cc2f142ce3a0871eb09ceef3a86b2",
+    "wof:geomhash":"dc107a836485e6590032e1d2a3ffb89c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790109529,
-    "wof:lastmodified":1467083122,
+    "wof:lastmodified":1510697716,
     "wof:name":"Harmony Baptist Church",
     "wof:parent_id":85822827,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807188239,
   "type": "Feature",
   "properties": {
+    "addr:full":"1944 Old Hwy 46 S Dickson TN 37055",
+    "addr:housenumber":"1944",
+    "addr:postcode":"37055",
+    "addr:street":"Old Hwy 46 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.321428,35.97852,-87.321428,35.97852",
     "geom:latitude":35.97852,
     "geom:longitude":-87.321428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1944 Old Hwy 46 S",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125155643,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18UshPtgyt6GHux9ZYDEED_35.978520_-87.321428@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604673,
-    "wof:geomhash":"a44ee3fef42be534f0d7e6993e580915",
+    "wof:geomhash":"85b06fe2917ab4d80bcd709119481e4d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807188239,
-    "wof:lastmodified":1467083486,
+    "wof:lastmodified":1510697976,
     "wof:name":"Nationsrent Inc",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

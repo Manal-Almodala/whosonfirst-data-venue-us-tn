@@ -2,14 +2,20 @@
   "id": 807274991,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 Shaver Dr Talbott TN 37877",
+    "addr:housenumber":"208",
+    "addr:postcode":"37877",
+    "addr:street":"Shaver Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.415402,36.165206,-83.415402,36.165206",
     "geom:latitude":36.165206,
     "geom:longitude":-83.415402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"208 Shaver Dr",
     "sg:city":"Talbott",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086447,
         420541593
     ],
+    "wof:brand_id":1125159549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0uUEm3ZwG7mIEn4UHJ2XpZ_36.165206_-83.415402@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605593,
-    "wof:geomhash":"176aad5fd1353def1fcb1bd467814ffb",
+    "wof:geomhash":"93861087eae5ae28006f2d47c8a26ccd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807274991,
-    "wof:lastmodified":1467083515,
+    "wof:lastmodified":1510699960,
     "wof:name":"Family First Mortgage Corp",
     "wof:parent_id":420541593,
     "wof:placetype":"venue",

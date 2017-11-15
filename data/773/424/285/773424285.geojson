@@ -2,9 +2,14 @@
   "id": 773424285,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Ridgewood Rd Franklin TN 37064",
+    "addr:housenumber":"115",
+    "addr:postcode":"37064",
+    "addr:street":"Ridgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.855231,35.860427,-86.855231,35.860427",
     "geom:latitude":35.860427,
     "geom:longitude":-86.855231,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40cd2gWYW70QFCXea6MD1c_35.860427_-86.855231@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462585612,
     "wof:geomhash":"d6a92db3a8e8288534b01635c0c22eea",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773424285
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773424285,
-    "wof:lastmodified":1467082892,
+    "wof:lastmodified":1491930838,
     "wof:name":"Green Valley Civic Assoc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

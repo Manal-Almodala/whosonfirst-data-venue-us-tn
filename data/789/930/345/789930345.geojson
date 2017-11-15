@@ -2,14 +2,20 @@
   "id": 789930345,
   "type": "Feature",
   "properties": {
+    "addr:full":"2724 US Hwy 45 S Jackson TN 38301",
+    "addr:housenumber":"2724",
+    "addr:postcode":"38301",
+    "addr:street":"Us Hwy 45 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.791402,35.538756,-88.791402,35.538756",
     "geom:latitude":35.538756,
     "geom:longitude":-88.791402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2724 US Hwy 45 S",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087221,
         85868161
     ],
+    "wof:brand_id":1125150721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pMl83IA5OTP9t6agCxeVb_35.538756_-88.791402@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591713,
-    "wof:geomhash":"11dbda41df7918d680727b217376d75a",
+    "wof:geomhash":"d66d8256daefb7fb03f218646f98af12",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789930345,
-    "wof:lastmodified":1467083080,
+    "wof:lastmodified":1510695863,
     "wof:name":"Southside Baptist Church",
     "wof:parent_id":85868161,
     "wof:placetype":"venue",

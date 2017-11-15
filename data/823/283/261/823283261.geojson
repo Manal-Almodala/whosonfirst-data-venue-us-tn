@@ -2,6 +2,10 @@
   "id": 823283261,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 Poplar Ave # 6C Memphis TN 38112",
+    "addr:housenumber":"2600;6c",
+    "addr:postcode":"38112",
+    "addr:street":"Poplar Ave #",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":823283261,
-    "wof:lastmodified":1467083674,
+    "wof:lastmodified":1472645723,
     "wof:name":"Memphix Web Design",
     "wof:parent_id":85803961,
     "wof:placetype":"venue",

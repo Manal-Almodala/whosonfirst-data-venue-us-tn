@@ -2,14 +2,20 @@
   "id": 773157161,
   "type": "Feature",
   "properties": {
+    "addr:full":"2614 Gallatin Pike Nashville TN 37216",
+    "addr:housenumber":"2614",
+    "addr:postcode":"37216",
+    "addr:street":"Gallatin Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.741732,36.197381,-86.741732,36.197381",
     "geom:latitude":36.197381,
     "geom:longitude":-86.741732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2614 Gallatin Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85816591
     ],
+    "wof:brand_id":1125153851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m1Dv0e7nrovgd1P9Cxpbf_36.197381_-86.741732@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583571,
-    "wof:geomhash":"afe7aa386bdcb49fac5b46fbd6ec5e22",
+    "wof:geomhash":"bca99a49331836526133e0d49980a95e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773157161,
-    "wof:lastmodified":1467082816,
+    "wof:lastmodified":1510697169,
     "wof:name":"China Dragon",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

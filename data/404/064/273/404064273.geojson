@@ -2,14 +2,20 @@
   "id": 404064273,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 S Chancery St Mc Minnville TN 37110",
+    "addr:housenumber":"1201",
+    "addr:postcode":"37110",
+    "addr:street":"S Chancery St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.785336,35.662966,-85.785336,35.662966",
     "geom:latitude":35.662966,
     "geom:longitude":-85.785336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 S Chancery St",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         101723105,
         102086399
     ],
+    "wof:brand_id":1125150727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_124ppIlS0XPs8f5TXeQ3J5_35.662966_-85.785336@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"7469db4f00d16aa9ba974b6ca0ed691c",
+    "wof:geomhash":"11c7b12f8b443d0fb85ff7d344f80c11",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":404064273,
-    "wof:lastmodified":1467082779,
+    "wof:lastmodified":1510695860,
     "wof:name":"U-Save Auto Rental",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

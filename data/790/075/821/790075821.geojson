@@ -2,14 +2,20 @@
   "id": 790075821,
   "type": "Feature",
   "properties": {
+    "addr:full":"82 Dover Crossing Rd Clarksville TN 37042",
+    "addr:housenumber":"82",
+    "addr:postcode":"37042",
+    "addr:street":"Dover Crossing Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.396559,36.55287,-87.396559,36.55287",
     "geom:latitude":36.55287,
     "geom:longitude":-87.396559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"82 Dover Crossing Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086353,
         420541975
     ],
+    "wof:brand_id":420575925,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HOYBDUPq3c5c82rA0Z5sM_36.552870_-87.396559@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592942,
-    "wof:geomhash":"e9d9c59e8a217b81b48f262c4d4c17e4",
+    "wof:geomhash":"da38068a4f917057ebb1b8c37347a5f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790075821,
-    "wof:lastmodified":1467083114,
+    "wof:lastmodified":1510602895,
     "wof:name":"Friedmans Jewelers",
     "wof:parent_id":420541975,
     "wof:placetype":"venue",

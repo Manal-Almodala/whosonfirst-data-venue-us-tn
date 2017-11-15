@@ -2,14 +2,20 @@
   "id": 807244413,
   "type": "Feature",
   "properties": {
+    "addr:full":"2330 E Andrew Johnson Hwy Morristown TN 37814",
+    "addr:housenumber":"2330",
+    "addr:postcode":"37814",
+    "addr:street":"E Andrew Johnson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.26456,36.226771,-83.26456,36.226771",
     "geom:latitude":36.226771,
     "geom:longitude":-83.26456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2330 E Andrew Johnson Hwy",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":1125154033,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cDz55b0iXBPNENwqbVKkO_36.226771_-83.264560@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605267,
-    "wof:geomhash":"bd80e3b61870edcab2de22f485602d56",
+    "wof:geomhash":"b60df92475aabe4178de360773b0a0ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807244413,
-    "wof:lastmodified":1467083504,
+    "wof:lastmodified":1510696082,
     "wof:name":"Concord Custom Cleaners",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

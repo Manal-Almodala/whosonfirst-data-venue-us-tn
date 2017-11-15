@@ -2,6 +2,10 @@
   "id": 789620703,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 N Danny Thomas Blvd Memphis TN 38105",
+    "addr:housenumber":"200",
+    "addr:postcode":"38105",
+    "addr:street":"N Danny Thomas Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789620703,
-    "wof:lastmodified":1467083005,
+    "wof:lastmodified":1472645115,
     "wof:name":"KFC",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",

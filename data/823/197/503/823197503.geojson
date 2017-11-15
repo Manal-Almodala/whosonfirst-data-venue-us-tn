@@ -2,14 +2,20 @@
   "id": 823197503,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Jefferson Ave Memphis TN 38103",
+    "addr:housenumber":"200",
+    "addr:postcode":"38103",
+    "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.047394,35.146029,-90.047394,35.146029",
     "geom:latitude":35.146029,
     "geom:longitude":-90.047394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Jefferson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85867179
     ],
+    "wof:brand_id":1125157601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39sfcRSvb9UtVJi75bilZr_35.146029_-90.047394@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608300,
-    "wof:geomhash":"37a76a159a4d9eb6864c5466fe614d57",
+    "wof:geomhash":"68eb36dfe0f8e80829a0848937539462",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823197503,
-    "wof:lastmodified":1467083598,
+    "wof:lastmodified":1510695444,
     "wof:name":"Federal Public Defender",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",

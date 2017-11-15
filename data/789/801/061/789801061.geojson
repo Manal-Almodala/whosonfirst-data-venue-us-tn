@@ -2,14 +2,20 @@
   "id": 789801061,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 Mathis Dr Dickson TN 37055",
+    "addr:housenumber":"93",
+    "addr:postcode":"37055",
+    "addr:street":"Mathis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.376808,36.074239,-87.376808,36.074239",
     "geom:latitude":36.074239,
     "geom:longitude":-87.376808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"93 Mathis Dr",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":420574773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gmlID1lSnjBdHCjXcsJm3_36.074239_-87.376808@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590649,
-    "wof:geomhash":"d89e342aaa15a26e7d7db7063790b81c",
+    "wof:geomhash":"be358ff41ab73e7513c24c6f61c81a60",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789801061,
-    "wof:lastmodified":1467083048,
+    "wof:lastmodified":1510603852,
     "wof:name":"UPS Stores The",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

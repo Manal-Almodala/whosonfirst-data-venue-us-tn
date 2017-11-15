@@ -2,14 +2,20 @@
   "id": 773185047,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 Meadowlark Ln Goodlettsville TN 37072",
+    "addr:housenumber":"806",
+    "addr:postcode":"37072",
+    "addr:street":"Meadowlark Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.704012,36.29953,-86.704012,36.29953",
     "geom:latitude":36.29953,
     "geom:longitude":-86.704012,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"806 Meadowlark Ln",
     "sg:city":"Goodlettsville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q0YfS0VvaJp5uWC9akCCz_36.299530_-86.704012@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583800,
-    "wof:geomhash":"1787bee5f4c5095a439518d9fb76432e",
+    "wof:geomhash":"c3d679343eef133b5e26c08b6fc8f190",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773185047,
-    "wof:lastmodified":1467082824,
+    "wof:lastmodified":1510602704,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

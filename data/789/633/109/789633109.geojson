@@ -2,14 +2,20 @@
   "id": 789633109,
   "type": "Feature",
   "properties": {
+    "addr:full":"408 Lawrence St Lawrenceburg TN 38464",
+    "addr:housenumber":"408",
+    "addr:postcode":"38464",
+    "addr:street":"Lawrence St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.328569,35.241813,-87.328569,35.241813",
     "geom:latitude":35.241813,
     "geom:longitude":-87.328569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"408 Lawrence St",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086349,
         85805627
     ],
+    "wof:brand_id":420575137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RrEliSIREg8vVcvAim7Ob_35.241813_-87.328569@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589324,
-    "wof:geomhash":"e4a4c51561f822c74fa7d84eec113cd0",
+    "wof:geomhash":"055951693bdada7ef9f237f0ff485034",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789633109,
-    "wof:lastmodified":1467083008,
+    "wof:lastmodified":1510602463,
     "wof:name":"Disabled American Veterans",
     "wof:parent_id":85805627,
     "wof:placetype":"venue",

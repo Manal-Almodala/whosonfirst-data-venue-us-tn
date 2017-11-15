@@ -2,14 +2,20 @@
   "id": 806763963,
   "type": "Feature",
   "properties": {
+    "addr:full":"3813 Nolensville Pike Nashville TN 37211",
+    "addr:housenumber":"3813",
+    "addr:postcode":"37211",
+    "addr:street":"Nolensville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.73121,36.087774,-86.73121,36.087774",
     "geom:latitude":36.087774,
     "geom:longitude":-86.73121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3813 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087061,
         85871393
     ],
+    "wof:brand_id":1125154501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0m3Cqigw57Qb21SEPc59Xl_36.087774_-86.731210@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600878,
-    "wof:geomhash":"5e2e7ab62bf0b689da0178876f824966",
+    "wof:geomhash":"d6f704710e702b0b625184b246b8ed72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806763963,
-    "wof:lastmodified":1467083367,
+    "wof:lastmodified":1510696742,
     "wof:name":"Ziebart",
     "wof:parent_id":85871393,
     "wof:placetype":"venue",

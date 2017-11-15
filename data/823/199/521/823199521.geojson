@@ -2,14 +2,20 @@
   "id": 823199521,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Donelson Pike Nashville TN 37214",
+    "addr:housenumber":"211",
+    "addr:postcode":"37214",
+    "addr:street":"Donelson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.664086,36.161869,-86.664086,36.161869",
     "geom:latitude":36.161869,
     "geom:longitude":-86.664086,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 Donelson Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85830675
     ],
+    "wof:brand_id":1125156441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WKnATW0oiGEhzy9In33BH_36.161869_-86.664086@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608337,
-    "wof:geomhash":"be61acfaf8e1f14aa2e46fa7e1786285",
+    "wof:geomhash":"15be2be08b41c2e329241b91d428b42c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823199521,
-    "wof:lastmodified":1467083600,
+    "wof:lastmodified":1510694599,
     "wof:name":"Northrop Grumman Space",
     "wof:parent_id":85830675,
     "wof:placetype":"venue",

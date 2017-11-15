@@ -2,14 +2,20 @@
   "id": 807388703,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Bailey Ave Chattanooga TN 37404",
+    "addr:housenumber":"1200",
+    "addr:postcode":"37404",
+    "addr:street":"Bailey Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.284341,35.036528,-85.284341,35.036528",
     "geom:latitude":35.036528,
     "geom:longitude":-85.284341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Bailey Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087185,
         85876735
     ],
+    "wof:brand_id":1125157737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jAPAe30En0ML5jxUcnlUt_35.036528_-85.284341@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607046,
-    "wof:geomhash":"1c17d5a82c4b4391ce7898ba14264524",
+    "wof:geomhash":"2222205f3afc27e36722334edb37c537",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807388703,
-    "wof:lastmodified":1467083562,
+    "wof:lastmodified":1510604913,
     "wof:name":"US Veterans Affairs Dept",
     "wof:parent_id":85876735,
     "wof:placetype":"venue",

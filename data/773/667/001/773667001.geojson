@@ -2,14 +2,20 @@
   "id": 773667001,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Gallatin Pike S Madison TN 37115",
+    "addr:housenumber":"1013",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.71842,36.251042,-86.71842,36.251042",
     "geom:latitude":36.251042,
     "geom:longitude":-86.71842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1013 Gallatin Pike S",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85834867
     ],
+    "wof:brand_id":1125152889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BjCw7f26WIXmASiwrG852_36.251042_-86.718420@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587446,
-    "wof:geomhash":"53a567a08171f71b0a84992f356bf714",
+    "wof:geomhash":"75b1da8451cd3557a9a2eb6327f2a244",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773667001,
-    "wof:lastmodified":1467082950,
+    "wof:lastmodified":1510695967,
     "wof:name":"Mr Transmission",
     "wof:parent_id":85834867,
     "wof:placetype":"venue",

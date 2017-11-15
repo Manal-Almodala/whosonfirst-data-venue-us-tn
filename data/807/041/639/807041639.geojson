@@ -2,14 +2,20 @@
   "id": 807041639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1780 Ashland City Rd Clarksville TN 37043",
+    "addr:housenumber":"1780",
+    "addr:postcode":"37043",
+    "addr:street":"Ashland City Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.321425,36.503532,-87.321425,36.503532",
     "geom:latitude":36.503532,
     "geom:longitude":-87.321425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1780 Ashland City Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         85828731
     ],
+    "wof:brand_id":1125151705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FpQqN4ZUYUYSYjKyiI5cx_36.503532_-87.321425@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603225,
-    "wof:geomhash":"bfdcf736f6c5986cd4486e59a7ae2db1",
+    "wof:geomhash":"f87c0df22247ed723f5499e90ffbeab5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807041639,
-    "wof:lastmodified":1467083443,
+    "wof:lastmodified":1510693980,
     "wof:name":"Texaco Food Mart",
     "wof:parent_id":85828731,
     "wof:placetype":"venue",

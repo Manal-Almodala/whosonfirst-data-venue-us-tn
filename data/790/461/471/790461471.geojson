@@ -2,14 +2,20 @@
   "id": 790461471,
   "type": "Feature",
   "properties": {
+    "addr:full":"2319 E Andrew Johnson Hwy Greeneville TN 37745",
+    "addr:housenumber":"2319",
+    "addr:postcode":"37745",
+    "addr:street":"E Andrew Johnson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.782736,36.178445,-82.782736,36.178445",
     "geom:latitude":36.178445,
     "geom:longitude":-82.782736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2319 E Andrew Johnson Hwy",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086377,
         420541577
     ],
+    "wof:brand_id":1125152309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sqPPJPMk03iWwSnppbkck_36.178445_-82.782736@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596023,
-    "wof:geomhash":"9a32f700e9e3980d34fea1819a5a6c78",
+    "wof:geomhash":"35d1d6b6f89db406a946a25681f8c8b0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790461471,
-    "wof:lastmodified":1467083207,
+    "wof:lastmodified":1510696020,
     "wof:name":"Sun Loan Co",
     "wof:parent_id":420541577,
     "wof:placetype":"venue",

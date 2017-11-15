@@ -2,9 +2,14 @@
   "id": 823152073,
   "type": "Feature",
   "properties": {
+    "addr:full":"2160 Albany Dr Franklin TN 37067",
+    "addr:housenumber":"2160",
+    "addr:postcode":"37067",
+    "addr:street":"Albany Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79418,35.898669,-86.79418,35.898669",
     "geom:latitude":35.898669,
     "geom:longitude":-86.79418,
@@ -27,12 +32,7 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K83cKCSlIQ1JnD4V0Z8TT_35.898669_-86.794180@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462607692,
     "wof:geomhash":"3916b9ecb4b3f796bd30e237073eb3cb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":823152073
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823152073,
-    "wof:lastmodified":1467083577,
+    "wof:lastmodified":1491924956,
     "wof:name":"At Your Service Culinary LLC",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806367655,
   "type": "Feature",
   "properties": {
+    "addr:full":"3645 Homewood Rd Memphis TN 38118",
+    "addr:housenumber":"3645",
+    "addr:postcode":"38118",
+    "addr:street":"Homewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.925375,35.050076,-89.925375,35.050076",
     "geom:latitude":35.050076,
     "geom:longitude":-89.925375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3645 Homewood Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125159797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x3a5QhEzw2kj9oTJsiATP_35.050076_-89.925375@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597581,
-    "wof:geomhash":"f28afad14275e7cef3ae4586b9b0d1df",
+    "wof:geomhash":"5b175e6335df07773a8b475b41e2f040",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806367655,
-    "wof:lastmodified":1467083256,
+    "wof:lastmodified":1510699785,
     "wof:name":"BNSF Railway Co",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

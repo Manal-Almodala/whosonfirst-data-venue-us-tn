@@ -2,14 +2,20 @@
   "id": 790527523,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Covington Pike Memphis TN 38128",
+    "addr:housenumber":"3030",
+    "addr:postcode":"38128",
+    "addr:street":"Covington Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.894584,35.207781,-89.894584,35.207781",
     "geom:latitude":35.207781,
     "geom:longitude":-89.894584,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3030 Covington Pike",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125153335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PTS8c3uR9wal0IeXbKNRg_35.207781_-89.894584@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596602,
-    "wof:geomhash":"3832ec11ab0f9691a580a356d93ed8ed",
+    "wof:geomhash":"ff08997e2e317eca4dd3f26ae0dc1b11",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790527523,
-    "wof:lastmodified":1467083225,
+    "wof:lastmodified":1510699014,
     "wof:name":"Primary Residential Mortgage",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

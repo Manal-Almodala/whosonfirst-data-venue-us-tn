@@ -2,14 +2,20 @@
   "id": 773497483,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202 Murfreesboro Rd Franklin TN 37064",
+    "addr:housenumber":"1202",
+    "addr:postcode":"37064",
+    "addr:street":"Murfreesboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.831491,35.91562,-86.831491,35.91562",
     "geom:latitude":35.91562,
     "geom:longitude":-86.831491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1202 Murfreesboro Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85830431
     ],
+    "wof:brand_id":1125154425,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l8IatMdMBmg0JIQbndOcQ_35.915620_-86.831491@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586189,
-    "wof:geomhash":"55ff592d5f06fd90a6ce8aa300aeeafc",
+    "wof:geomhash":"5a835b5ad3e1fbb30bac66c8e1403890",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773497483,
-    "wof:lastmodified":1467082909,
+    "wof:lastmodified":1510613394,
     "wof:name":"Fashion Cleaners",
     "wof:parent_id":85830431,
     "wof:placetype":"venue",

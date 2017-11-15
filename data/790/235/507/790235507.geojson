@@ -2,9 +2,14 @@
   "id": 790235507,
   "type": "Feature",
   "properties": {
+    "addr:full":"1020 Simmons Ln Franklin TN 37069",
+    "addr:housenumber":"1020",
+    "addr:postcode":"37069",
+    "addr:street":"Simmons Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.897423,35.970836,-86.897423,35.970836",
     "geom:latitude":35.970836,
     "geom:longitude":-86.897423,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d5c359a4e81a8ac828a2e2d175e70aa1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790235507,
-    "wof:lastmodified":1467083152,
+    "wof:lastmodified":1491924178,
     "wof:name":"Daily Terry",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

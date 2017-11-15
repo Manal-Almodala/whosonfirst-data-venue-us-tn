@@ -2,14 +2,20 @@
   "id": 773758657,
   "type": "Feature",
   "properties": {
+    "addr:full":"4629 Poplar Ave Memphis TN 38117",
+    "addr:housenumber":"4629",
+    "addr:postcode":"38117",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.907317,35.116315,-89.907317,35.116315",
     "geom:latitude":35.116315,
     "geom:longitude":-89.907317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4629 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":420574877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bgDt52vBRKzT5BlPCOLSe_35.116315_-89.907317@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588157,
-    "wof:geomhash":"1b67058fdbde6192076e197b2447a79d",
+    "wof:geomhash":"ab4e9cd3fe1702155e25065052135fb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773758657,
-    "wof:lastmodified":1467082973,
+    "wof:lastmodified":1510604429,
     "wof:name":"Mattress Firm",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

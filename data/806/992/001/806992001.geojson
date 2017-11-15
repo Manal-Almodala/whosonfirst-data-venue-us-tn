@@ -2,9 +2,14 @@
   "id": 806992001,
   "type": "Feature",
   "properties": {
+    "addr:full":"1628 Shell Rd Goodlettsville TN 37072",
+    "addr:housenumber":"1628",
+    "addr:postcode":"37072",
+    "addr:street":"Shell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.668192,36.407606,-86.668192,36.407606",
     "geom:latitude":36.407606,
     "geom:longitude":-86.668192,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -46,6 +52,7 @@
     "wof:geomhash":"75f625304adbf647aacbb2bd98e2d661",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806992001,
-    "wof:lastmodified":1467083430,
+    "wof:lastmodified":1491939236,
     "wof:name":"All Things Creative Inc",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

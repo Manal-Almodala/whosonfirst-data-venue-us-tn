@@ -2,14 +2,20 @@
   "id": 823244795,
   "type": "Feature",
   "properties": {
+    "addr:full":"2821 Medical Center Pkwy  Murfreesboro TN 37129",
+    "addr:housenumber":"2821",
+    "addr:postcode":"37129",
+    "addr:street":"Medical Center Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.44529,35.86299,-86.44529,35.86299",
     "geom:latitude":35.86299,
     "geom:longitude":-86.44529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2821 Medical Center Pkwy ",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125159297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Abm1eXo1DHL8m5EfOqD8e_35.862990_-86.445290@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609232,
-    "wof:geomhash":"b5691edd17883e01a6ba77e9b2bce396",
+    "wof:geomhash":"e982de83e455a17cb9aca191a9a7cac2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823244795,
-    "wof:lastmodified":1467083631,
+    "wof:lastmodified":1510698685,
     "wof:name":"Longhorn Steakhouse",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

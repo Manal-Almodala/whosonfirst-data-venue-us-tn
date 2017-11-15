@@ -2,14 +2,20 @@
   "id": 807341827,
   "type": "Feature",
   "properties": {
+    "addr:full":"9056 Corporate Gardens Dr Germantown TN 38138",
+    "addr:housenumber":"9056",
+    "addr:postcode":"38138",
+    "addr:street":"Corporate Gardens Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.760842,35.06454,-89.760842,35.06454",
     "geom:latitude":35.06454,
     "geom:longitude":-89.760842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9056 Corporate Gardens Dr",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85819859
     ],
+    "wof:brand_id":1125157211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DaHr5EgniiwSzdBXeJGjM_35.064540_-89.760842@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606374,
-    "wof:geomhash":"f7c9b8d42603f9603d171b70b8bc48d5",
+    "wof:geomhash":"787e8d84987f76ad8be0430ee1c700ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807341827,
-    "wof:lastmodified":1467083540,
+    "wof:lastmodified":1510697005,
     "wof:name":"Mony Group",
     "wof:parent_id":85819859,
     "wof:placetype":"venue",

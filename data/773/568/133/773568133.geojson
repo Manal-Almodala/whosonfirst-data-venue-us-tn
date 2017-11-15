@@ -2,14 +2,20 @@
   "id": 773568133,
   "type": "Feature",
   "properties": {
+    "addr:full":"3099 Republican Dr Memphis TN 38118",
+    "addr:housenumber":"3099",
+    "addr:postcode":"38118",
+    "addr:street":"Republican Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.965408,35.063976,-89.965408,35.063976",
     "geom:latitude":35.063976,
     "geom:longitude":-89.965408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3099 Republican Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125152341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UqaIM4DbmGIGQ493CID9G_35.063976_-89.965408@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586707,
-    "wof:geomhash":"c7e24cb1d2f8121e3f57b800081ca950",
+    "wof:geomhash":"ecd768dac9c6a00f370b53ccfa385b99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773568133,
-    "wof:lastmodified":1467082926,
+    "wof:lastmodified":1510613375,
     "wof:name":"Federal Express Corporation",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

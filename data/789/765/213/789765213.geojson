@@ -2,6 +2,10 @@
   "id": 789765213,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Industrial Blvd Crossville TN 38555",
+    "addr:housenumber":"123",
+    "addr:postcode":"38555",
+    "addr:street":"Industrial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789765213,
-    "wof:lastmodified":1467083040,
+    "wof:lastmodified":1472645205,
     "wof:name":"Dress Barn",
     "wof:parent_id":420541473,
     "wof:placetype":"venue",

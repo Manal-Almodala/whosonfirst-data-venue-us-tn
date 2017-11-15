@@ -2,14 +2,20 @@
   "id": 806984115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1375 Oak Ridge Tpke Oak Ridge TN 37830",
+    "addr:housenumber":"1375",
+    "addr:postcode":"37830",
+    "addr:street":"Oak Ridge Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.256773,36.014367,-84.256773,36.014367",
     "geom:latitude":36.014367,
     "geom:longitude":-84.256773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1375 Oak Ridge Tpke",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086483,
         85827263
     ],
+    "wof:brand_id":1125151879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WYvXM1yvCbBqXdt7zG7nB_36.014367_-84.256773@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602730,
-    "wof:geomhash":"ad47adb1a298c07317269fcda0985741",
+    "wof:geomhash":"3fc14f72608d345b20361ed0d402d0fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806984115,
-    "wof:lastmodified":1467083427,
+    "wof:lastmodified":1510698681,
     "wof:name":"Cellular Sales",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

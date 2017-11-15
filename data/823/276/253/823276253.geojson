@@ -2,14 +2,20 @@
   "id": 823276253,
   "type": "Feature",
   "properties": {
+    "addr:full":"3575 S Houston Levee Rd Collierville TN 38017",
+    "addr:housenumber":"3575",
+    "addr:postcode":"38017",
+    "addr:street":"S Houston Levee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.732535,35.051404,-89.732535,35.051404",
     "geom:latitude":35.051404,
     "geom:longitude":-89.732535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3575 S Houston Levee Rd",
     "sg:city":"Collierville",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":420575041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57U4O8fKTZR0tCAC7oWfio_35.051404_-89.732535@1303262740"
     },
     "wof:country":"US",
     "wof:created":1462610161,
-    "wof:geomhash":"01e1793beb8aa20bac0fad7cefa3bd6b",
+    "wof:geomhash":"9ef39218c6534e91ddad4a5d99390d86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":823276253,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510622754,
     "wof:name":"Kohl's",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

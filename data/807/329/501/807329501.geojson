@@ -2,14 +2,20 @@
   "id": 807329501,
   "type": "Feature",
   "properties": {
+    "addr:full":"7901 Hickory Hollow Ln Chattanooga TN 37421",
+    "addr:housenumber":"7901",
+    "addr:postcode":"37421",
+    "addr:street":"Hickory Hollow Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.122864,35.042721,-85.122864,35.042721",
     "geom:latitude":35.042721,
     "geom:longitude":-85.122864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7901 Hickory Hollow Ln",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85826071,
         102087185
     ],
+    "wof:brand_id":1125150873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_131e1BhVMGIr7DiQzt4f1S_35.042721_-85.122864@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606191,
-    "wof:geomhash":"213581ff41048bfb7b2c59cd5ccf6cd8",
+    "wof:geomhash":"4491b6f8b16fe8f80a90e0c34f467d1c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807329501,
-    "wof:lastmodified":1467083535,
+    "wof:lastmodified":1510613213,
     "wof:name":"Picture This",
     "wof:parent_id":85826071,
     "wof:placetype":"venue",

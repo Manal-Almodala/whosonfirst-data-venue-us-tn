@@ -2,9 +2,14 @@
   "id": 823145485,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Hearthside Ct N Hendersonville TN 37075",
+    "addr:housenumber":"102",
+    "addr:postcode":"37075",
+    "addr:street":"Hearthside Ct N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.599252,36.385931,-86.599252,36.385931",
     "geom:latitude":36.385931,
     "geom:longitude":-86.599252,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -45,6 +51,7 @@
     "wof:geomhash":"a5583d690a1cc370e02dce55a912429c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823145485,
-    "wof:lastmodified":1467083574,
+    "wof:lastmodified":1491939222,
     "wof:name":"Rogas Jewelry",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

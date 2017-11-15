@@ -2,14 +2,20 @@
   "id": 806666051,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 N Main Ave Erwin TN 37650",
+    "addr:housenumber":"300",
+    "addr:postcode":"37650",
+    "addr:street":"N Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.414403,36.147156,-82.414403,36.147156",
     "geom:latitude":36.147156,
     "geom:longitude":-82.414403,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 N Main Ave",
     "sg:city":"Erwin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086427,
         85804403
     ],
+    "wof:brand_id":1125157445,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0eouBRX0K4DlQ0YgoNJQ6Y_36.147156_-82.414403@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600048,
-    "wof:geomhash":"6442ae73d93a226b036b44579cd55032",
+    "wof:geomhash":"aead6a9d2a9843ebfb8fd2b3a50bea35",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806666051,
-    "wof:lastmodified":1467083338,
+    "wof:lastmodified":1510697428,
     "wof:name":"Medicine Shoppe The",
     "wof:parent_id":85804403,
     "wof:placetype":"venue",

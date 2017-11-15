@@ -2,14 +2,20 @@
   "id": 823254181,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Peabody Pl Memphis TN 38103",
+    "addr:housenumber":"150",
+    "addr:postcode":"38103",
+    "addr:street":"Peabody Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.053815,35.140855,-90.053815,35.140855",
     "geom:latitude":35.140855,
     "geom:longitude":-90.053815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Peabody Pl",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85867183
     ],
+    "wof:brand_id":1125150837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QM6WXrXgVQvGXBdhDGqV9_35.140855_-90.053815@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609425,
-    "wof:geomhash":"13cd8ad7b7ac041c8f6714875fe25e37",
+    "wof:geomhash":"6474f67000fe89fe0d8f0b6502b8fdbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823254181,
-    "wof:lastmodified":1467083638,
+    "wof:lastmodified":1510695416,
     "wof:name":"Maggie Moo's",
     "wof:parent_id":85867183,
     "wof:placetype":"venue",

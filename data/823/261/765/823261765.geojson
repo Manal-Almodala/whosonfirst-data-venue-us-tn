@@ -2,14 +2,20 @@
   "id": 823261765,
   "type": "Feature",
   "properties": {
+    "addr:full":"5024 Thoroughbred Ln Brentwood TN 37027",
+    "addr:housenumber":"5024",
+    "addr:postcode":"37027",
+    "addr:street":"Thoroughbred Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.790688,36.036274,-86.790688,36.036274",
     "geom:latitude":36.036274,
     "geom:longitude":-86.790688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5024 Thoroughbred Ln",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102086337,
         85805711
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cCgvbG1YcRbNkaMHYKJuX_36.036274_-86.790688@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609588,
-    "wof:geomhash":"d7b82ddf5406a53288ab5a1fe24693cd",
+    "wof:geomhash":"047089f1e2126a287360db19d0fb2852",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":823261765,
-    "wof:lastmodified":1467083643,
+    "wof:lastmodified":1510696788,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85805711,
     "wof:placetype":"venue",

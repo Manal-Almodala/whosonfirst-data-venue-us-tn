@@ -2,14 +2,20 @@
   "id": 790356875,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Columbia Ave Franklin TN 37064",
+    "addr:housenumber":"1200",
+    "addr:postcode":"37064",
+    "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.873404,35.916218,-86.873404,35.916218",
     "geom:latitude":35.916218,
     "geom:longitude":-86.873404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Columbia Ave",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85845733
     ],
+    "wof:brand_id":1125152339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FdLlt0GBPq9eY8GnUGamx_35.916218_-86.873404@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595199,
-    "wof:geomhash":"87ce54bb89759b1f528cfa9f10dcf73c",
+    "wof:geomhash":"f0397034a1a762e0956279e3990006e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790356875,
-    "wof:lastmodified":1467083181,
+    "wof:lastmodified":1510708772,
     "wof:name":"Faith Community Church",
     "wof:parent_id":85845733,
     "wof:placetype":"venue",

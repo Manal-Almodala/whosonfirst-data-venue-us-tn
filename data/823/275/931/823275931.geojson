@@ -2,14 +2,20 @@
   "id": 823275931,
   "type": "Feature",
   "properties": {
+    "addr:full":"2382 N Germantown Pkwy # 108 Cordova TN 38016",
+    "addr:housenumber":"2382",
+    "addr:postcode":"38016",
+    "addr:street":"N Germantown Pkwy # 108",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.792449,35.191013,-89.792449,35.191013",
     "geom:latitude":35.191013,
     "geom:longitude":-89.792449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2382 N Germantown Pkwy # 108",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125153843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7foQn5MpXJiO8nuSRIJwER_35.191013_-89.792449@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610150,
-    "wof:geomhash":"71515db3aa4de264815a4752f2479121",
+    "wof:geomhash":"8a8290a0c69f4905f77d740476f9e9c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":823275931,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510699672,
     "wof:name":"Bassett Furniture Direct",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

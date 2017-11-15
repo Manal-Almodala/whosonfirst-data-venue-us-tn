@@ -2,9 +2,14 @@
   "id": 806682961,
   "type": "Feature",
   "properties": {
+    "addr:full":"4478 Pratt Ln Franklin TN 37064",
+    "addr:housenumber":"4478",
+    "addr:postcode":"37064",
+    "addr:street":"Pratt Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.825117,35.831389,-86.825117,35.831389",
     "geom:latitude":35.831389,
     "geom:longitude":-86.825117,
@@ -28,12 +33,7 @@
         "cartridge"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14c59EVMviIBGLsMzV0Coq_35.831389_-86.825117@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462600195,
     "wof:geomhash":"88352bb77fe650cce20288ecd99a3155",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":806682961
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806682961,
-    "wof:lastmodified":1467083343,
+    "wof:lastmodified":1491930842,
     "wof:name":"Cartridge Concepts",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

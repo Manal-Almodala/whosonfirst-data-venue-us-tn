@@ -2,14 +2,20 @@
   "id": 823248699,
   "type": "Feature",
   "properties": {
+    "addr:full":"1913 Gunbarrel Rd Chattanooga TN 37421",
+    "addr:housenumber":"",
+    "addr:postcode":"37421",
+    "addr:street":"1913 Gunbarrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.157358,35.028342,-85.157358,35.028342",
     "geom:latitude":35.028342,
     "geom:longitude":-85.157358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1913 Gunbarrel Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         85805409
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5idnYaiAyCO0ZIsBdkKphM_35.028342_-85.157358@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609309,
-    "wof:geomhash":"2ce07784af78152c55f8d37839c09d32",
+    "wof:geomhash":"69cf603e933833fac6af255b084a66ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823248699,
-    "wof:lastmodified":1467083634,
+    "wof:lastmodified":1510696090,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85805409,
     "wof:placetype":"venue",

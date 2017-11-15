@@ -2,9 +2,14 @@
   "id": 773187511,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Gray Ct White House TN 37188",
+    "addr:housenumber":"104",
+    "addr:postcode":"37188",
+    "addr:street":"Gray Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.639069,36.448958,-86.639069,36.448958",
     "geom:latitude":36.448958,
     "geom:longitude":-86.639069,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"69187918f2f2977995d007addd593488",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773187511,
-    "wof:lastmodified":1467082825,
+    "wof:lastmodified":1491939236,
     "wof:name":"Middle Tenn Closing Svc",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

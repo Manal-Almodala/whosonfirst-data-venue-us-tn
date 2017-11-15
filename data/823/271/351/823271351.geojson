@@ -2,14 +2,20 @@
   "id": 823271351,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Dayton Blvd Chattanooga TN 37415",
+    "addr:housenumber":"2501",
+    "addr:postcode":"37415",
+    "addr:street":"Dayton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.304161,35.09782,-85.304161,35.09782",
     "geom:latitude":35.09782,
     "geom:longitude":-85.304161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2501 Dayton Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         420541723
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QfkrYK4VN18pAWxgiyfEb_35.097820_-85.304161@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609961,
-    "wof:geomhash":"70e328881683203dde597c023a8b7c59",
+    "wof:geomhash":"0fb45400c8a1ba35e7860c88cc4e5c69",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823271351,
-    "wof:lastmodified":1467083656,
+    "wof:lastmodified":1510602937,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":420541723,
     "wof:placetype":"venue",

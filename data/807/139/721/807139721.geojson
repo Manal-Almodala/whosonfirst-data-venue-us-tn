@@ -2,9 +2,14 @@
   "id": 807139721,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 Montgomery Dr Goodlettsville TN 37072",
+    "addr:housenumber":"146",
+    "addr:postcode":"37072",
+    "addr:street":"Montgomery Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.648994,36.368923,-86.648994,36.368923",
     "geom:latitude":36.368923,
     "geom:longitude":-86.648994,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9939afc104a5254907611e80edd2b985",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807139721,
-    "wof:lastmodified":1467083470,
+    "wof:lastmodified":1491939194,
     "wof:name":"Bowden Bike Repair & Service",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

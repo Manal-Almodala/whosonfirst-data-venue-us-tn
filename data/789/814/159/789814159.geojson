@@ -2,14 +2,20 @@
   "id": 789814159,
   "type": "Feature",
   "properties": {
+    "addr:full":"2960 Tchulahoma Rd Memphis TN 38118",
+    "addr:housenumber":"",
+    "addr:postcode":"2960;38118",
+    "addr:street":"Tchulahoma Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.953992,35.066794,-89.953992,35.066794",
     "geom:latitude":35.066794,
     "geom:longitude":-89.953992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2960 Tchulahoma Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":420575969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Had4wmv2qkeCwGDyw1n74_35.066794_-89.953992@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590746,
-    "wof:geomhash":"2abd9cb1986de4fc63316d1407fb015d",
+    "wof:geomhash":"217aa385417e38dfb6caba6518b04732",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789814159,
-    "wof:lastmodified":1467083051,
+    "wof:lastmodified":1510602403,
     "wof:name":"Fed Ex",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

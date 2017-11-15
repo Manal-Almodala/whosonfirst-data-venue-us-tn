@@ -2,14 +2,20 @@
   "id": 790623233,
   "type": "Feature",
   "properties": {
+    "addr:full":"27 Windhaven Ln Oak Ridge TN 37830",
+    "addr:housenumber":"27",
+    "addr:postcode":"37830",
+    "addr:street":"Windhaven Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.315245,36.001509,-84.315245,36.001509",
     "geom:latitude":36.001509,
     "geom:longitude":-84.315245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"27 Windhaven Ln",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086483,
         85827263
     ],
+    "wof:brand_id":1125158701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uO8lOWAYl5XfXYNyUIBWB_36.001509_-84.315245@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597444,
-    "wof:geomhash":"7146ef2d068df062ac3305a5cae5db18",
+    "wof:geomhash":"b5ce9d67ae89a41c02eecc5fe2095095",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790623233,
-    "wof:lastmodified":1467083251,
+    "wof:lastmodified":1510613309,
     "wof:name":"Amalgamated Transit Union",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

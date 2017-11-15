@@ -2,14 +2,20 @@
   "id": 823272807,
   "type": "Feature",
   "properties": {
+    "addr:full":"710 W Elk Ave Elizabethton TN 37643",
+    "addr:housenumber":"710",
+    "addr:postcode":"37643",
+    "addr:street":"W Elk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.211803,36.348439,-82.211803,36.348439",
     "geom:latitude":36.348439,
     "geom:longitude":-82.211803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"710 W Elk Ave",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102087053,
         85816779
     ],
+    "wof:brand_id":1125151879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aLgPU6NVudrFZmubCcr0s_36.348439_-82.211803@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610023,
-    "wof:geomhash":"6379c8c161131e340225e798e41e8cd3",
+    "wof:geomhash":"4231c85d28f9dff539e1d26d127a7974",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":823272807,
-    "wof:lastmodified":1467083658,
+    "wof:lastmodified":1510698681,
     "wof:name":"Cellular Sales",
     "wof:parent_id":85816779,
     "wof:placetype":"venue",

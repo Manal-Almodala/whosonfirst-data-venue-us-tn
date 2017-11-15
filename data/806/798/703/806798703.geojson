@@ -2,14 +2,20 @@
   "id": 806798703,
   "type": "Feature",
   "properties": {
+    "addr:full":"433 Cotton Ln Nashville TN 37211",
+    "addr:housenumber":"433",
+    "addr:postcode":"37211",
+    "addr:street":"Cotton Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.724393,36.067114,-86.724393,36.067114",
     "geom:latitude":36.067114,
     "geom:longitude":-86.724393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"433 Cotton Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85857391
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6S5jq9Vp5yWGLHeYde7Uta_36.067114_-86.724393@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601174,
-    "wof:geomhash":"7d494d17d5b13727f43f50b3d9ea0c63",
+    "wof:geomhash":"18c5303ca0a5a0ef1d8b0e526490f697",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806798703,
-    "wof:lastmodified":1467083377,
+    "wof:lastmodified":1510699574,
     "wof:name":"Pretty Nails",
     "wof:parent_id":85857391,
     "wof:placetype":"venue",

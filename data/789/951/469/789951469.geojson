@@ -2,9 +2,14 @@
   "id": 789951469,
   "type": "Feature",
   "properties": {
+    "addr:full":"1425 Holly Hill Dr Franklin TN 37064",
+    "addr:housenumber":"1425",
+    "addr:postcode":"37064",
+    "addr:street":"Holly Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.839299,35.885504,-86.839299,35.885504",
     "geom:latitude":35.885504,
     "geom:longitude":-86.839299,
@@ -27,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wogi3VMf4dE1EMBItMORi_35.885504_-86.839299@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462591926,
     "wof:geomhash":"eb499a9a2636aaa6a9a4c3478c1357e3",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789951469
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789951469,
-    "wof:lastmodified":1467083085,
+    "wof:lastmodified":1491930836,
     "wof:name":"Cedarwright Construction Corp",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

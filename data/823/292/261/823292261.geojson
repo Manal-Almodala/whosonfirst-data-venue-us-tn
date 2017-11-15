@@ -2,14 +2,20 @@
   "id": 823292261,
   "type": "Feature",
   "properties": {
+    "addr:full":"8387 Drury Ln Germantown TN 38139",
+    "addr:housenumber":"8387",
+    "addr:postcode":"38139",
+    "addr:street":"Drury Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.78208,35.080513,-89.78208,35.080513",
     "geom:latitude":35.080513,
     "geom:longitude":-89.78208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8387 Drury Ln",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125155265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cWajFrIranvz4IXro9xda_35.080513_-89.782080@1303262744"
     },
     "wof:country":"US",
     "wof:created":1462610793,
-    "wof:geomhash":"561ab7fe2850ed47fd58b4b4bf1528bc",
+    "wof:geomhash":"d62747bf2f9ce4b4f346771cfeddd803",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":823292261,
-    "wof:lastmodified":1467083686,
+    "wof:lastmodified":1510699738,
     "wof:name":"Juice Plus",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

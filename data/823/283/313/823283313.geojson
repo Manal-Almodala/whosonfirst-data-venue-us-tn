@@ -2,14 +2,20 @@
   "id": 823283313,
   "type": "Feature",
   "properties": {
+    "addr:full":"580 Tillman St Ste.1 Memphis TN 38112",
+    "addr:housenumber":"580",
+    "addr:postcode":"38112",
+    "addr:street":"Tillman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.961311,35.14836,-89.961311,35.14836",
     "geom:latitude":35.14836,
     "geom:longitude":-89.961311,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"580 Tillman St Ste.1",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087213,
         85806143
     ],
+    "wof:brand_id":1125150785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QVXDLc1u7JvFMiAXACPMl_35.148360_-89.961311@1303262741"
     },
     "wof:country":"US",
     "wof:created":1462610446,
-    "wof:geomhash":"3d05dd86052cee8d513ff4136328ed6e",
+    "wof:geomhash":"06e6626474f69f62215a89ff8b99a65a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823283313,
-    "wof:lastmodified":1467083674,
+    "wof:lastmodified":1510698798,
     "wof:name":"SAFELITE AUTO GLASS",
     "wof:parent_id":85806143,
     "wof:placetype":"venue",

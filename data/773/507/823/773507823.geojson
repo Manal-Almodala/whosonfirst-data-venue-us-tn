@@ -2,14 +2,20 @@
   "id": 773507823,
   "type": "Feature",
   "properties": {
+    "addr:full":"4720 Poplar Ave Memphis TN 38117",
+    "addr:housenumber":"4720",
+    "addr:postcode":"38117",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.903735,35.115092,-89.903735,35.115092",
     "geom:latitude":35.115092,
     "geom:longitude":-89.903735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4720 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125154947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1AQ9yUihsgfacnRaRkMWrj_35.115092_-89.903735@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586258,
-    "wof:geomhash":"aa5cfad2ab3161d3c882ac0590a6079e",
+    "wof:geomhash":"93e698bbcfb5c3abb1e7c1cb8d7ebcd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773507823,
-    "wof:lastmodified":1467082912,
+    "wof:lastmodified":1510695742,
     "wof:name":"Wolf Camera & Video",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

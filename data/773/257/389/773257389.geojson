@@ -2,14 +2,20 @@
   "id": 773257389,
   "type": "Feature",
   "properties": {
+    "addr:full":"6007 Ringgold Rd Chattanooga TN 37412",
+    "addr:housenumber":"6007",
+    "addr:postcode":"37412",
+    "addr:street":"Ringgold Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.2156,34.990127,-85.2156,34.990127",
     "geom:latitude":34.990127,
     "geom:longitude":-85.2156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6007 Ringgold Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85854365
     ],
+    "wof:brand_id":1125154627,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cf9lvhxf53wt2NAMblzQt_34.990127_-85.215600@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584345,
-    "wof:geomhash":"0a47678bc6d7645d06f12b77baee195b",
+    "wof:geomhash":"4a830a7c6c4b0e88d88a35ce6c41aebc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773257389,
-    "wof:lastmodified":1467082848,
+    "wof:lastmodified":1510695410,
     "wof:name":"Curl Up & Dye",
     "wof:parent_id":85854365,
     "wof:placetype":"venue",

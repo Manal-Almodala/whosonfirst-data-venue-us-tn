@@ -2,14 +2,20 @@
   "id": 823244791,
   "type": "Feature",
   "properties": {
+    "addr:full":"529 N Thompson Ln Murfreesboro TN 37129",
+    "addr:housenumber":"529",
+    "addr:postcode":"37129",
+    "addr:street":"N Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.43019,35.856653,-86.43019,35.856653",
     "geom:latitude":35.856653,
     "geom:longitude":-86.43019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"529 N Thompson Ln",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20X3e3iOuZyuLqbTZdROKe_35.856653_-86.430190@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609232,
-    "wof:geomhash":"4431b82ab917b8b6b8f1b57dc1ac75b4",
+    "wof:geomhash":"518385766978972fd174ad7bdb621214",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823244791,
-    "wof:lastmodified":1467083631,
+    "wof:lastmodified":1510696089,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823133767,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Longwood Ln Clarksville TN 37043",
+    "addr:housenumber":"230",
+    "addr:postcode":"37043",
+    "addr:street":"Longwood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.245264,36.511922,-87.245264,36.511922",
     "geom:latitude":36.511922,
     "geom:longitude":-87.245264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"230 Longwood Ln",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         85846417
     ],
+    "wof:brand_id":420575791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ct0gn3nhzpmk58rEnnEGk_36.511922_-87.245264@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607398,
-    "wof:geomhash":"00ef1f163cf82ac50b0c5f5dcfc01249",
+    "wof:geomhash":"576b43afb58bf1be1a437f4f6af4067a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823133767,
-    "wof:lastmodified":1467083569,
+    "wof:lastmodified":1510602635,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85846417,
     "wof:placetype":"venue",

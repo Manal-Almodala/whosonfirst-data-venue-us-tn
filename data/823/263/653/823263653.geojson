@@ -2,14 +2,20 @@
   "id": 823263653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1016 8th Ave S Nashville TN 37203",
+    "addr:housenumber":"1016",
+    "addr:postcode":"37203",
+    "addr:street":"8Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.778917,36.144816,-86.778917,36.144816",
     "geom:latitude":36.144816,
     "geom:longitude":-86.778917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1016 8th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -59,13 +65,14 @@
         102087061,
         85893451
     ],
+    "wof:brand_id":420575395,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xRHZwQdM5IqaW8eftwbsd_36.144816_-86.778917@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609667,
-    "wof:geomhash":"e2e78035455935569379cc3a1bd8a42f",
+    "wof:geomhash":"b37ab3dc6152e4e0c73cfa2f1c608a56",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -78,7 +85,7 @@
         }
     ],
     "wof:id":823263653,
-    "wof:lastmodified":1467083646,
+    "wof:lastmodified":1510602857,
     "wof:name":"Glass Doctor",
     "wof:parent_id":85893451,
     "wof:placetype":"venue",

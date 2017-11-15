@@ -2,14 +2,20 @@
   "id": 806984725,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Lindsley Ave Nashville TN 37210",
+    "addr:housenumber":"15",
+    "addr:postcode":"37210",
+    "addr:street":"Lindsley Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.766415,36.153485,-86.766415,36.153485",
     "geom:latitude":36.153485,
     "geom:longitude":-86.766415,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Lindsley Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85871389
     ],
+    "wof:brand_id":1125157389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bZLBs0Koj71CNA1MBF1SD_36.153485_-86.766415@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602735,
-    "wof:geomhash":"c4b689fceeafe7d32ff6cf97b1a4685b",
+    "wof:geomhash":"16eeddc1222506d730674b403b1ae0a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806984725,
-    "wof:lastmodified":1467083428,
+    "wof:lastmodified":1510699696,
     "wof:name":"Flooring America",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 789589429,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Cherry Springs Dr Cottontown TN 37048",
+    "addr:housenumber":"1000",
+    "addr:postcode":"37048",
+    "addr:street":"Cherry Springs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.642245,36.509914,-86.642245,36.509914",
     "geom:latitude":36.509914,
     "geom:longitude":-86.642245,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"36ec4410368f8cbc11d4c6f813f3f5ac",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789589429,
-    "wof:lastmodified":1467082998,
+    "wof:lastmodified":1491939194,
     "wof:name":"D Richard Ins",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806820541,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 W Lauderdale St Tullahoma TN 37388",
+    "addr:housenumber":"109",
+    "addr:postcode":"37388",
+    "addr:street":"W Lauderdale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.209607,35.361147,-86.209607,35.361147",
     "geom:latitude":35.361147,
     "geom:longitude":-86.209607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 W Lauderdale St",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087095,
         85827565
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ZzH9PAgYnf5cNoXSvmq4y_35.361147_-86.209607@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601349,
-    "wof:geomhash":"12a17b6196d0a1c595bb6e281d25dd4c",
+    "wof:geomhash":"43c668446a16ed09bba4424dea581ca3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806820541,
-    "wof:lastmodified":1467083383,
+    "wof:lastmodified":1510699048,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":85827565,
     "wof:placetype":"venue",

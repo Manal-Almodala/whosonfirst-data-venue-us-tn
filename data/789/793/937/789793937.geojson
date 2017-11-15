@@ -2,9 +2,14 @@
   "id": 789793937,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 S Shady Grove Rd Memphis TN 38120",
+    "addr:housenumber":"415",
+    "addr:postcode":"38120",
+    "addr:street":"S Shady Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.858136,35.121837,-89.858136,35.121837",
     "geom:latitude":35.121837,
     "geom:longitude":-89.858136,
@@ -24,7 +29,15 @@
     "sg:postcode":"38120",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722645,
+        102087213,
+        85844747,
+        85870789
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_50Bs8zMTtL3XDYhHPyNkEh_35.121837_-89.858136@1294204733"
@@ -32,11 +45,30 @@
     "wof:country":"US",
     "wof:created":1462590594,
     "wof:geomhash":"fcb952fcdc7e140242a14caf38102eee",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85844747,
+            "region_id":85688701,
+            "venue_id":789793937
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85870789,
+            "region_id":85688701,
+            "venue_id":789793937
+        }
+    ],
     "wof:id":789793937,
-    "wof:lastmodified":1467083047,
+    "wof:lastmodified":1491915044,
     "wof:name":"D W Co",
-    "wof:parent_id":-1,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

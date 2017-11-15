@@ -2,9 +2,14 @@
   "id": 790296357,
   "type": "Feature",
   "properties": {
+    "addr:full":"3675 Tyree Springs Rd Cottontown TN 37188",
+    "addr:housenumber":"3675",
+    "addr:postcode":"37188",
+    "addr:street":"Tyree Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.653767,36.432936,-86.653767,36.432936",
     "geom:latitude":36.432936,
     "geom:longitude":-86.653767,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"903e4f64d6a6aa33789f74566900bdc6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790296357,
-    "wof:lastmodified":1467083166,
+    "wof:lastmodified":1491939213,
     "wof:name":"Omnicare",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790619243,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 Oakdale St Manchester TN 37355",
+    "addr:housenumber":"1200",
+    "addr:postcode":"37355",
+    "addr:street":"Oakdale St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.094513,35.465841,-86.094513,35.465841",
     "geom:latitude":35.465841,
     "geom:longitude":-86.094513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 Oakdale St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087095,
         85821997
     ],
+    "wof:brand_id":1125156637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1VIpOxVOrzY7POxkbS9s0j_35.465841_-86.094513@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597407,
-    "wof:geomhash":"6dd9343b5fc660204a4c45147a9ecd21",
+    "wof:geomhash":"4872781d2943bd0f1332e4ccd19b5281",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790619243,
-    "wof:lastmodified":1467083250,
+    "wof:lastmodified":1510697172,
     "wof:name":"Rehabilitation Service",
     "wof:parent_id":85821997,
     "wof:placetype":"venue",

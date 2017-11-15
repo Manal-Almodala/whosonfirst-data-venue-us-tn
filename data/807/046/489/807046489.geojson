@@ -2,9 +2,14 @@
   "id": 807046489,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Cottonwood Dr Franklin TN 37069",
+    "addr:housenumber":"117",
+    "addr:postcode":"37069",
+    "addr:street":"Cottonwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.899496,35.977069,-86.899496,35.977069",
     "geom:latitude":35.977069,
     "geom:longitude":-86.899496,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -45,6 +51,7 @@
     "wof:geomhash":"43a834efdb8325204be9f64bfb4f6ea1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807046489,
-    "wof:lastmodified":1467083445,
+    "wof:lastmodified":1491924177,
     "wof:name":"Vender Pro Inc",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

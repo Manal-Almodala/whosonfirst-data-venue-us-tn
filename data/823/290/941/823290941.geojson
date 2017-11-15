@@ -2,6 +2,10 @@
   "id": 823290941,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 John A Denie Rd Memphis TN 38134",
+    "addr:housenumber":"1101",
+    "addr:postcode":"38134",
+    "addr:street":"John;Denie Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":823290941,
-    "wof:lastmodified":1467083684,
+    "wof:lastmodified":1472645782,
     "wof:name":"National Cemetery Administration",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

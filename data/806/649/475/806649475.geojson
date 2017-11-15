@@ -2,14 +2,20 @@
   "id": 806649475,
   "type": "Feature",
   "properties": {
+    "addr:full":"2529 Bains Rd Hillsboro TN 37342",
+    "addr:housenumber":"",
+    "addr:postcode":"2529;37342",
+    "addr:street":"Bains Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.016393,35.394395,-86.016393,35.394395",
     "geom:latitude":35.394395,
     "geom:longitude":-86.016393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2529 Bains Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85857461,
         102087095
     ],
+    "wof:brand_id":1125150549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lkteEqgBVTFkfKYBzLzBr_35.394395_-86.016393@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599899,
-    "wof:geomhash":"dad96715c225749b5d2b2ab570f2f373",
+    "wof:geomhash":"dec02c9372a1ce1790c8d8d0e027051f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806649475,
-    "wof:lastmodified":1467083334,
+    "wof:lastmodified":1510695854,
     "wof:name":"Free & Accepted Masons of",
     "wof:parent_id":85857461,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773081949,
   "type": "Feature",
   "properties": {
+    "addr:full":"1890 Sadler School Rd Brighton TN 38011",
+    "addr:housenumber":"1890",
+    "addr:postcode":"38011",
+    "addr:street":"Sadler School Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.687014,35.42136,-89.687014,35.42136",
     "geom:latitude":35.42136,
     "geom:longitude":-89.687014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1890 Sadler School Rd",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125158743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30qk48VgfBsrnn0wTh2Z7t_35.421360_-89.687014@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583021,
-    "wof:geomhash":"f4e89307f16f1d99b3beb473b39b434f",
+    "wof:geomhash":"829bf8cb81615a02637ed09118efacee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773081949,
-    "wof:lastmodified":1467082799,
+    "wof:lastmodified":1510697764,
     "wof:name":"Crown Castle USA",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

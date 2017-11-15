@@ -2,14 +2,20 @@
   "id": 807077557,
   "type": "Feature",
   "properties": {
+    "addr:full":"3144 Brimstead Dr Franklin TN 37064",
+    "addr:housenumber":"3144",
+    "addr:postcode":"37064",
+    "addr:street":"Brimstead Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.910883,35.924578,-86.910883,35.924578",
     "geom:latitude":35.924578,
     "geom:longitude":-86.910883,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3144 Brimstead Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85845729
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5isc16sUNCnFalADOPJOoW_35.924578_-86.910883@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603514,
-    "wof:geomhash":"6acf8c4623ebcd2fcf0c33415ce7a79a",
+    "wof:geomhash":"46ecfd4e5e349d8d141184d69a87b979",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807077557,
-    "wof:lastmodified":1467083453,
+    "wof:lastmodified":1510693818,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85845729,
     "wof:placetype":"venue",

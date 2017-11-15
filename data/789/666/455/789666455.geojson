@@ -2,14 +2,20 @@
   "id": 789666455,
   "type": "Feature",
   "properties": {
+    "addr:full":"5239 Harding Pl Nashville TN 37217",
+    "addr:housenumber":"5239",
+    "addr:postcode":"37217",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.684419,36.092242,-86.684419,36.092242",
     "geom:latitude":36.092242,
     "geom:longitude":-86.684419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5239 Harding Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":1125152929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EjcKnAHSeTVC0oliN6O5Q_36.092242_-86.684419@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589603,
-    "wof:geomhash":"87270bd6961eb1108878f3a2dac751ea",
+    "wof:geomhash":"c757658cd998341a2113b1b17c2f8f2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789666455,
-    "wof:lastmodified":1467083016,
+    "wof:lastmodified":1510695335,
     "wof:name":"Avaya Inc",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823146935,
   "type": "Feature",
   "properties": {
+    "addr:full":"317 W Gaines St Lawrenceburg TN 38464",
+    "addr:housenumber":"317",
+    "addr:postcode":"38464",
+    "addr:street":"W Gaines St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.339049,35.243251,-87.339049,35.243251",
     "geom:latitude":35.243251,
     "geom:longitude":-87.339049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"317 W Gaines St",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086349,
         85805627
     ],
+    "wof:brand_id":1125155067,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ljUNEbVxyMRAfztpLLqtN_35.243251_-87.339049@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607631,
-    "wof:geomhash":"a75217875ae4b0e681cad227ae8ee3a7",
+    "wof:geomhash":"c7ac4241bd14a7ad1d01a03c69ab1c99",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823146935,
-    "wof:lastmodified":1467083575,
+    "wof:lastmodified":1510695204,
     "wof:name":"US Social Security Admin",
     "wof:parent_id":85805627,
     "wof:placetype":"venue",

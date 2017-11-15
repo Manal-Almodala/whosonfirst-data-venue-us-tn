@@ -2,14 +2,20 @@
   "id": 806480893,
   "type": "Feature",
   "properties": {
+    "addr:full":"2823 Essary Dr Knoxville TN 37918",
+    "addr:housenumber":"2823",
+    "addr:postcode":"37918",
+    "addr:street":"Essary Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.931243,36.035148,-83.931243,36.035148",
     "geom:latitude":36.035148,
     "geom:longitude":-83.931243,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2823 Essary Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086455,
         85820307
     ],
+    "wof:brand_id":1125156317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22kvyBHJDweJ5lYZfw838L_36.035148_-83.931243@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598475,
-    "wof:geomhash":"3e8dd2800a6403758f30ca291dbbd9ee",
+    "wof:geomhash":"e85b91c59149f59aaa101bcc5da3050a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806480893,
-    "wof:lastmodified":1467083287,
+    "wof:lastmodified":1510693711,
     "wof:name":"United American Insurance Co",
     "wof:parent_id":85820307,
     "wof:placetype":"venue",

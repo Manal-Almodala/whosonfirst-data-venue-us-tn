@@ -2,14 +2,20 @@
   "id": 773547833,
   "type": "Feature",
   "properties": {
+    "addr:full":"4414 Asheville Hwy Knoxville TN 37914",
+    "addr:housenumber":"4414",
+    "addr:postcode":"37914",
+    "addr:street":"Asheville Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.863656,36.004639,-83.863656,36.004639",
     "geom:latitude":36.004639,
     "geom:longitude":-83.863656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4414 Asheville Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         420541837
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JHy7x9dJuu5p7Buqad6Db_36.004639_-83.863656@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586551,
-    "wof:geomhash":"1b4e5a201dd3e2bf6254dd4df1f30379",
+    "wof:geomhash":"95fbc89448fa708c50c6adb8cf45500f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773547833,
-    "wof:lastmodified":1467082922,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":420541837,
     "wof:placetype":"venue",

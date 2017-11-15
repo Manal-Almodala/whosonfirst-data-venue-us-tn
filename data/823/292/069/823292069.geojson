@@ -2,14 +2,20 @@
   "id": 823292069,
   "type": "Feature",
   "properties": {
+    "addr:full":"9091 Poplar Ave Ste 102 Germantown TN 38138",
+    "addr:housenumber":"9091",
+    "addr:postcode":"38138",
+    "addr:street":"Poplar Ave Ste 102",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.759606,35.06833,-89.759606,35.06833",
     "geom:latitude":35.06833,
     "geom:longitude":-89.759606,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9091 Poplar Ave Ste 102",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85819859
     ],
+    "wof:brand_id":1125156387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7RkWPFS0NleUUWRuQtdwe5_35.068330_-89.759606@1303262744"
     },
     "wof:country":"US",
     "wof:created":1462610786,
-    "wof:geomhash":"69c19269991b5f1f21b2dacdd0c8ea26",
+    "wof:geomhash":"8a5ef92d7cac92f6abf49353e8beaada",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823292069,
-    "wof:lastmodified":1467083686,
+    "wof:lastmodified":1510698492,
     "wof:name":"Elite Cleaners",
     "wof:parent_id":85819859,
     "wof:placetype":"venue",

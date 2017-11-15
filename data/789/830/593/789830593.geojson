@@ -2,14 +2,20 @@
   "id": 789830593,
   "type": "Feature",
   "properties": {
+    "addr:full":"5576 Pleasant View Rd Memphis TN 38134",
+    "addr:housenumber":"5576",
+    "addr:postcode":"38134",
+    "addr:street":"Pleasant View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.874857,35.173443,-89.874857,35.173443",
     "geom:latitude":35.173443,
     "geom:longitude":-89.874857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5576 Pleasant View Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6x8LYhUsI762p1Y86jlhuD_35.173443_-89.874857@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590876,
-    "wof:geomhash":"d4bc73baf683d8e839c0a8b9db892499",
+    "wof:geomhash":"04157b4fa7a5124a53668c0b071347cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789830593,
-    "wof:lastmodified":1467083055,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

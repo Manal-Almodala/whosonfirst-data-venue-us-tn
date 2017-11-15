@@ -2,14 +2,20 @@
   "id": 807010205,
   "type": "Feature",
   "properties": {
+    "addr:full":"475 N Germantown Pkwy Cordova TN 38018",
+    "addr:housenumber":"475",
+    "addr:postcode":"38018",
+    "addr:street":"N Germantown Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.79587,35.137407,-89.79587,35.137407",
     "geom:latitude":35.137407,
     "geom:longitude":-89.79587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"475 N Germantown Pkwy",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iELIWBy1ne5mZgzEiEYMH_35.137407_-89.795870@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602945,
-    "wof:geomhash":"0d139dc6201b4f9866f402a123943984",
+    "wof:geomhash":"3992d05c639c08e568c6bc925d2ae28e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807010205,
-    "wof:lastmodified":1467083435,
+    "wof:lastmodified":1510694072,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 807051427,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Lamar Ave Memphis TN 38104",
+    "addr:housenumber":"1234",
+    "addr:postcode":"38104",
+    "addr:street":"Lamar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":807051427,
-    "wof:lastmodified":1467083446,
+    "wof:lastmodified":1472645444,
     "wof:name":"Alpha Express Food Market",
     "wof:parent_id":85803189,
     "wof:placetype":"venue",

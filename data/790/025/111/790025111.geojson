@@ -2,6 +2,10 @@
   "id": 790025111,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Jefferson Dr Columbia TN 38401",
+    "addr:housenumber":"123",
+    "addr:postcode":"38401",
+    "addr:street":"Jefferson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":790025111,
-    "wof:lastmodified":1467083102,
+    "wof:lastmodified":1472645079,
     "wof:name":"Howells Lock & Key",
     "wof:parent_id":85844993,
     "wof:placetype":"venue",

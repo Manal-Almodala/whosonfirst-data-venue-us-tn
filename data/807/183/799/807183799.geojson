@@ -2,14 +2,20 @@
   "id": 807183799,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Starlight Rd Mc Minnville TN 37110",
+    "addr:housenumber":"100",
+    "addr:postcode":"37110",
+    "addr:street":"Starlight Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.717687,35.721034,-85.717687,35.721034",
     "geom:latitude":35.721034,
     "geom:longitude":-85.717687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Starlight Rd",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086399,
         420542243
     ],
+    "wof:brand_id":1125156973,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Dlwa5ieDtcFcVr1GF6bLV_35.721034_-85.717687@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604623,
-    "wof:geomhash":"7e2723799c27c4facfdd48a4f06ac631",
+    "wof:geomhash":"b00acaead3aad3fc97bd63210ef0de85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807183799,
-    "wof:lastmodified":1467083484,
+    "wof:lastmodified":1510699775,
     "wof:name":"Hair Biz",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790578291,
   "type": "Feature",
   "properties": {
+    "addr:full":"212 College St White House TN 37188",
+    "addr:housenumber":"212",
+    "addr:postcode":"37188",
+    "addr:street":"College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.650094,36.467997,-86.650094,36.467997",
     "geom:latitude":36.467997,
     "geom:longitude":-86.650094,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"3e536ebade5e6aed7967d173618099d8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790578291,
-    "wof:lastmodified":1467083239,
+    "wof:lastmodified":1491939193,
     "wof:name":"Briggs Upholstery",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

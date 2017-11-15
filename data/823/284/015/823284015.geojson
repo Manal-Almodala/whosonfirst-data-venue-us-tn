@@ -2,14 +2,20 @@
   "id": 823284015,
   "type": "Feature",
   "properties": {
+    "addr:full":"6039 Knight Arnold Road Ext Memphis TN 38115",
+    "addr:housenumber":"6039",
+    "addr:postcode":"38115",
+    "addr:street":"Knight Arnold Road Ext",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.861922,35.060613,-89.861922,35.060613",
     "geom:latitude":35.060613,
     "geom:longitude":-89.861922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6039 Knight Arnold Road Ext",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V02a0tH9JxtO5vpjMb7AN_35.060613_-89.861922@1303262742"
     },
     "wof:country":"US",
     "wof:created":1462610474,
-    "wof:geomhash":"638a27aa3296a620b5c4c62d70d39c69",
+    "wof:geomhash":"c944346aaebeba8eaeab1584fedf4be5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823284015,
-    "wof:lastmodified":1467083675,
+    "wof:lastmodified":1510602989,
     "wof:name":"Labor Finders",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

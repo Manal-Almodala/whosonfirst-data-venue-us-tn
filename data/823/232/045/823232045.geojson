@@ -2,14 +2,20 @@
   "id": 823232045,
   "type": "Feature",
   "properties": {
+    "addr:full":"1910 Nonconnah Blvd Memphis TN 38132",
+    "addr:housenumber":"1910",
+    "addr:postcode":"38132",
+    "addr:street":"Nonconnah Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.000146,35.071901,-90.000146,35.071901",
     "geom:latitude":35.071901,
     "geom:longitude":-90.000146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1910 Nonconnah Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087213,
         85805535
     ],
+    "wof:brand_id":420575233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3H9U8d7US3kNM2T8a4Yusw_35.072025_-89.999455@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462608998,
-    "wof:geomhash":"e9a82f7476059bee43783b5420b76be6",
+    "wof:geomhash":"c5fcd9ded6348d2260b5e7ac3b8c5060",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823232045,
-    "wof:lastmodified":1467083622,
+    "wof:lastmodified":1510602066,
     "wof:name":"IKON Office Solutions",
     "wof:parent_id":85805535,
     "wof:placetype":"venue",

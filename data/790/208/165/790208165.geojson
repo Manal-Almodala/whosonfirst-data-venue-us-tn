@@ -2,14 +2,20 @@
   "id": 790208165,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Jenkins Rd Chattanooga TN 37421",
+    "addr:housenumber":"3400",
+    "addr:postcode":"37421",
+    "addr:street":"Jenkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.127586,35.058748,-85.127586,35.058748",
     "geom:latitude":35.058748,
     "geom:longitude":-85.127586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3400 Jenkins Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85848781
     ],
+    "wof:brand_id":1125150927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lzAoHXGuiLrwpVT7bVSlT_35.058748_-85.127586@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594015,
-    "wof:geomhash":"f6d62b5f58a57fdda1214f74fe42355e",
+    "wof:geomhash":"5207aebd04e8dc269abf2d994551c908",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790208165,
-    "wof:lastmodified":1467083146,
+    "wof:lastmodified":1510694582,
     "wof:name":"American Home Patient Inc",
     "wof:parent_id":85848781,
     "wof:placetype":"venue",

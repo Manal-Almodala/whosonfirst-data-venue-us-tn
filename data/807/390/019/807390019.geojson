@@ -2,14 +2,20 @@
   "id": 807390019,
   "type": "Feature",
   "properties": {
+    "addr:full":"2565 E Andrew Johnson Hwy Greeneville TN 37745",
+    "addr:housenumber":"2565",
+    "addr:postcode":"37745",
+    "addr:street":"E Andrew Johnson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.77917,36.178833,-82.77917,36.178833",
     "geom:latitude":36.178833,
     "geom:longitude":-82.77917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2565 E Andrew Johnson Hwy",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086377,
         420541577
     ],
+    "wof:brand_id":1125158881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DTyLuG04k3KcvTFltNJ9i_36.178833_-82.779170@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607073,
-    "wof:geomhash":"34fc7298f3f830d1c225ea8f93e82a1e",
+    "wof:geomhash":"e805e65b6ab2620aa9e2db7b6375a360",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807390019,
-    "wof:lastmodified":1467083563,
+    "wof:lastmodified":1510693682,
     "wof:name":"Transouth Financial",
     "wof:parent_id":420541577,
     "wof:placetype":"venue",

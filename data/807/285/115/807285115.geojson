@@ -2,14 +2,20 @@
   "id": 807285115,
   "type": "Feature",
   "properties": {
+    "addr:full":"3024 Covington Pike Memphis TN 38128",
+    "addr:housenumber":"3024",
+    "addr:postcode":"38128",
+    "addr:street":"Covington Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.894504,35.207961,-89.894504,35.207961",
     "geom:latitude":35.207961,
     "geom:longitude":-89.894504,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3024 Covington Pike",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125151517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mzIZ5wRCprEuc88fUtK4M_35.207961_-89.894504@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605698,
-    "wof:geomhash":"34f9bf3260dc516e34d6b3b7695e1be6",
+    "wof:geomhash":"ac0fcda22f9c0eb14b5e41923f8a71a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807285115,
-    "wof:lastmodified":1467083518,
+    "wof:lastmodified":1510694722,
     "wof:name":"Queen Nails",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

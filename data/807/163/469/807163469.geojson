@@ -2,9 +2,14 @@
   "id": 807163469,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Downy Meade Dr Franklin TN 37064",
+    "addr:housenumber":"505",
+    "addr:postcode":"37064",
+    "addr:street":"Downy Meade Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.84329,35.854855,-86.84329,35.854855",
     "geom:latitude":35.854855,
     "geom:longitude":-86.84329,
@@ -28,12 +33,7 @@
         "outpatient"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5tIIjG034qNbcsN30w6lht_35.854855_-86.843290@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462604413,
     "wof:geomhash":"eff43d4ed745e992bab72b119533ecf9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807163469
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807163469,
-    "wof:lastmodified":1467083477,
+    "wof:lastmodified":1491930836,
     "wof:name":"Wmg of Tennessee",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

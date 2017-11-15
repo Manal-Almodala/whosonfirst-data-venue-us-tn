@@ -2,14 +2,20 @@
   "id": 823250161,
   "type": "Feature",
   "properties": {
+    "addr:full":"465 Marilyn Ln Alcoa TN 37701",
+    "addr:housenumber":"465",
+    "addr:postcode":"37701",
+    "addr:street":"Marilyn Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.9845,35.771946,-83.9845,35.771946",
     "geom:latitude":35.771946,
     "geom:longitude":-83.9845,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"465 Marilyn Ln",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087017,
         420541379
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TfsHCOnWJfjVBMLgJTkvR_35.771946_-83.984500@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609338,
-    "wof:geomhash":"ca9241fba70515a3eb227438e0fe5c63",
+    "wof:geomhash":"de78b36603986665ce088015c30eec86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823250161,
-    "wof:lastmodified":1467083635,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":420541379,
     "wof:placetype":"venue",

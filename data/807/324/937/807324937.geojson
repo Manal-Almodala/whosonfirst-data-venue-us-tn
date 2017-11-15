@@ -2,14 +2,20 @@
   "id": 807324937,
   "type": "Feature",
   "properties": {
+    "addr:full":"708 E Main St Waverly TN 37185",
+    "addr:housenumber":"708",
+    "addr:postcode":"37185",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.772644,36.083832,-87.772644,36.083832",
     "geom:latitude":36.083832,
     "geom:longitude":-87.772644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"708 E Main St",
     "sg:city":"Waverly",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087159,
         85826263
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rgcbWBlhIjOrOU78NZrG7_36.083832_-87.772644@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606129,
-    "wof:geomhash":"d6f68ca6a2a449ec741d9cc75c4b9797",
+    "wof:geomhash":"edf3357acb69fddf1816b69fec26ec6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807324937,
-    "wof:lastmodified":1467083533,
+    "wof:lastmodified":1510694183,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

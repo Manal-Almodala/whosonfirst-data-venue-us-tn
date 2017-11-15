@@ -2,14 +2,20 @@
   "id": 823243087,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 Cool Springs Blvd Franklin TN 37067",
+    "addr:housenumber":"535",
+    "addr:postcode":"37067",
+    "addr:street":"Cool Springs Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.822319,35.948402,-86.822319,35.948402",
     "geom:latitude":35.948402,
     "geom:longitude":-86.822319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"535 Cool Springs Blvd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7n05lfNxjMiWI0BPuVyIYD_35.948402_-86.822319@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609204,
-    "wof:geomhash":"8337997383994361422b8aae84652064",
+    "wof:geomhash":"6fa7a91b3710e70bdec7e509027c43f8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823243087,
-    "wof:lastmodified":1467083630,
+    "wof:lastmodified":1510697651,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

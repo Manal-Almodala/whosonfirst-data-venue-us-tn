@@ -2,14 +2,20 @@
   "id": 773595701,
   "type": "Feature",
   "properties": {
+    "addr:full":"4100 Confederate Rd Murfreesboro TN 37128",
+    "addr:housenumber":"4100",
+    "addr:postcode":"37128",
+    "addr:street":"Confederate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.473096,35.836151,-86.473096,35.836151",
     "geom:latitude":35.836151,
     "geom:longitude":-86.473096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4100 Confederate Rd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125159431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IAgSr40rfBMV1wSguZ499_35.836151_-86.473096@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586914,
-    "wof:geomhash":"a320417eee5c53da752fc355cd935af4",
+    "wof:geomhash":"b15e73b99ef32bb91111eba58560ac2f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773595701,
-    "wof:lastmodified":1467082933,
+    "wof:lastmodified":1510697980,
     "wof:name":"Vogue Cleaners",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

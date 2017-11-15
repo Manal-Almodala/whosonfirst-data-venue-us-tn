@@ -2,14 +2,20 @@
   "id": 823273399,
   "type": "Feature",
   "properties": {
+    "addr:full":"1207 CHRISTY CT GREENEVILLE TN 37743",
+    "addr:housenumber":"1207",
+    "addr:postcode":"37743",
+    "addr:street":"Christy Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.811908,36.150299,-82.811908,36.150299",
     "geom:latitude":36.150299,
     "geom:longitude":-82.811908,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1207 CHRISTY CT",
     "sg:city":"GREENEVILLE",
     "sg:classifiers":[
@@ -53,13 +59,14 @@
         102086377,
         85826147
     ],
+    "wof:brand_id":420575183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SNFMsg2tarlq6JgGsnHcY_36.150299_-82.811908@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610049,
-    "wof:geomhash":"5902afaca31e81ea475d93e216ef12c1",
+    "wof:geomhash":"a2d4ebe214dbe86d40a689279758f02b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -71,7 +78,7 @@
         }
     ],
     "wof:id":823273399,
-    "wof:lastmodified":1467083659,
+    "wof:lastmodified":1510602863,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",

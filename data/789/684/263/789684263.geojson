@@ -2,14 +2,20 @@
   "id": 789684263,
   "type": "Feature",
   "properties": {
+    "addr:full":"3337 US Hwy 11 E Telford TN 37690",
+    "addr:housenumber":"3337",
+    "addr:postcode":"37690",
+    "addr:street":"Us Hwy 11 E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.592675,36.25436,-82.592675,36.25436",
     "geom:latitude":36.25436,
     "geom:longitude":-82.592675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3337 US Hwy 11 E",
     "sg:city":"Telford",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086335,
         85822827
     ],
+    "wof:brand_id":1125158539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Y6Caz1HLy8OChDVMRkchy_36.254360_-82.592675@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589733,
-    "wof:geomhash":"0c93f56c25f2a00165b024c17a5e8653",
+    "wof:geomhash":"7ab1ae94daa5f66e658c8d5e4622e2f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789684263,
-    "wof:lastmodified":1467083021,
+    "wof:lastmodified":1510698665,
     "wof:name":"Grace Brethren Church",
     "wof:parent_id":85822827,
     "wof:placetype":"venue",

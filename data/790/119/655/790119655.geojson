@@ -2,14 +2,20 @@
   "id": 790119655,
   "type": "Feature",
   "properties": {
+    "addr:full":"1749 S Rutherford Blvd Murfreesboro TN 37130",
+    "addr:housenumber":"1749",
+    "addr:postcode":"37130",
+    "addr:street":"S Rutherford Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.363221,35.813608,-86.363221,35.813608",
     "geom:latitude":35.813608,
     "geom:longitude":-86.363221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1749 S Rutherford Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086355,
         85833237
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bXdezR5jIuVvpwHHWQxvb_35.813608_-86.363221@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593288,
-    "wof:geomhash":"ddafdc0769812dc01f85c1d4e798fac8",
+    "wof:geomhash":"091e091923fea45e20219af5f59c4981",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790119655,
-    "wof:lastmodified":1467083124,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85833237,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823184803,
   "type": "Feature",
   "properties": {
+    "addr:full":"2525 Perimeter Place Dr Nashville TN 37214",
+    "addr:housenumber":"2525",
+    "addr:postcode":"37214",
+    "addr:street":"Perimeter Place Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.679849,36.1487,-86.679849,36.1487",
     "geom:latitude":36.1487,
     "geom:longitude":-86.679849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2525 Perimeter Place Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087061,
         85833877
     ],
+    "wof:brand_id":1125159725,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jPZq9zVRpuUSOPUTqLPpU_36.148700_-86.679849@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608129,
-    "wof:geomhash":"bf9913df6b0e14de18761bc6c40e29fb",
+    "wof:geomhash":"0696c73c00c9dd0b738d0d25b3d6af8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":823184803,
-    "wof:lastmodified":1467083592,
+    "wof:lastmodified":1510697221,
     "wof:name":"Transwestern Publishing",
     "wof:parent_id":85833877,
     "wof:placetype":"venue",

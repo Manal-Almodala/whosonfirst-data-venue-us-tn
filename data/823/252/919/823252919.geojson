@@ -2,14 +2,20 @@
   "id": 823252919,
   "type": "Feature",
   "properties": {
+    "addr:full":"2758 Schaad Rd Knoxville TN 37921",
+    "addr:housenumber":"2758",
+    "addr:postcode":"37921",
+    "addr:street":"Schaad Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.019541,36.005998,-84.019541,36.005998",
     "geom:latitude":36.005998,
     "geom:longitude":-84.019541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2758 Schaad Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086455,
         85838527
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18NnOVDRddcLLZIkAD7ay8_36.005998_-84.019541@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609402,
-    "wof:geomhash":"b54a0d276d3741507ac14b5c8ab8331b",
+    "wof:geomhash":"0b66c168dd53b48d6dc7e2dcc4b993ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823252919,
-    "wof:lastmodified":1467083637,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85838527,
     "wof:placetype":"venue",

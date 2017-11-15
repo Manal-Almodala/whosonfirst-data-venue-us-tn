@@ -2,14 +2,20 @@
   "id": 823242273,
   "type": "Feature",
   "properties": {
+    "addr:full":"3072 Wilma Rudolph Blvd Clarksville TN 37040",
+    "addr:housenumber":"3072",
+    "addr:postcode":"37040",
+    "addr:street":"Wilma Rudolph Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.288081,36.595884,-87.288081,36.595884",
     "geom:latitude":36.595884,
     "geom:longitude":-87.288081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3072 Wilma Rudolph Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         85804513
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43DbWWP8PTzbnfuBugq8fh_36.595884_-87.288081@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609189,
-    "wof:geomhash":"1a882f6a6e4fb8654c78b204674bddd1",
+    "wof:geomhash":"92c84b143004a5a035931bde7e9f7ff3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823242273,
-    "wof:lastmodified":1467083630,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85804513,
     "wof:placetype":"venue",

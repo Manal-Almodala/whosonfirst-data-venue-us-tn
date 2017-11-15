@@ -2,14 +2,20 @@
   "id": 823179539,
   "type": "Feature",
   "properties": {
+    "addr:full":"326 Ellsworth St Memphis TN 38111",
+    "addr:housenumber":"326",
+    "addr:postcode":"38111",
+    "addr:street":"Ellsworth St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.947037,35.11987,-89.947037,35.11987",
     "geom:latitude":35.11987,
     "geom:longitude":-89.947037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"326 Ellsworth St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85837075
     ],
+    "wof:brand_id":1125151027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZQMHcsOeg0CAhUzLj9LjX_35.119870_-89.947037@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608057,
-    "wof:geomhash":"7e6ca9192fc3e60de234612579d3c3fb",
+    "wof:geomhash":"66cfbf7df2fa08907dd74ac902948d01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823179539,
-    "wof:lastmodified":1467083590,
+    "wof:lastmodified":1510699653,
     "wof:name":"Alzheimer's Association",
     "wof:parent_id":85837075,
     "wof:placetype":"venue",

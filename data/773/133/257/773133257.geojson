@@ -2,14 +2,20 @@
   "id": 773133257,
   "type": "Feature",
   "properties": {
+    "addr:full":"590 Tm Henderson Ave Memphis TN 38107",
+    "addr:housenumber":"590",
+    "addr:postcode":"38107",
+    "addr:street":"Tm Henderson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.037868,35.167786,-90.037868,35.167786",
     "geom:latitude":35.167786,
     "geom:longitude":-90.037868,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"590 Tm Henderson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         420542121
     ],
+    "wof:brand_id":1125155171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1k1I4rRmFG1WEhRK5giYwq_35.167786_-90.037868@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583379,
-    "wof:geomhash":"3d9f54579fd108642cb6935002ca3843",
+    "wof:geomhash":"9b1ebd829f930e2e0588d1c7912e322e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773133257,
-    "wof:lastmodified":1467082811,
+    "wof:lastmodified":1510699385,
     "wof:name":"Mt Pleasant Baptist Church",
     "wof:parent_id":420542121,
     "wof:placetype":"venue",

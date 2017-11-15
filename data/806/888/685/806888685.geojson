@@ -2,9 +2,14 @@
   "id": 806888685,
   "type": "Feature",
   "properties": {
+    "addr:full":"2400 Goose Creek Byp Franklin TN 37064",
+    "addr:housenumber":"2400",
+    "addr:postcode":"37064",
+    "addr:street":"Goose Creek Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.831919,35.859511,-86.831919,35.859511",
     "geom:latitude":35.859511,
     "geom:longitude":-86.831919,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nULi65bI6kuj3ZHjvAgOt_35.859511_-86.831919@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462601919,
     "wof:geomhash":"1e0d0192f4d789e8d4874342dad1c929",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":806888685
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806888685,
-    "wof:lastmodified":1467083401,
+    "wof:lastmodified":1491930839,
     "wof:name":"Scot Market",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773788047,
   "type": "Feature",
   "properties": {
+    "addr:full":"19102 Alberta St Oneida TN 37841",
+    "addr:housenumber":"19102",
+    "addr:postcode":"37841",
+    "addr:street":"Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.496061,36.52532,-84.496061,36.52532",
     "geom:latitude":36.52532,
     "geom:longitude":-84.496061,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19102 Alberta St",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087113,
         420542103
     ],
+    "wof:brand_id":1125150927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MhDsDl6HCCpEJW5K6sH9t_36.525320_-84.496061@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588374,
-    "wof:geomhash":"d0bb30ddd07dd1d06c339c72baa2f6cd",
+    "wof:geomhash":"30c194fe1b1d14c69467ff86e7d548b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773788047,
-    "wof:lastmodified":1467082980,
+    "wof:lastmodified":1510694581,
     "wof:name":"American Home Patient Inc",
     "wof:parent_id":420542103,
     "wof:placetype":"venue",

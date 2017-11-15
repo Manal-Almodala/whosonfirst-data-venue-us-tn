@@ -2,14 +2,20 @@
   "id": 790284347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1102 Montvale Station Rd Maryville TN 37803",
+    "addr:housenumber":"1102",
+    "addr:postcode":"37803",
+    "addr:street":"Montvale Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.973853,35.738455,-83.973853,35.738455",
     "geom:latitude":35.738455,
     "geom:longitude":-83.973853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1102 Montvale Station Rd",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087017,
         420541413
     ],
+    "wof:brand_id":1125153287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_309RpDciDfZuykgrK2r9i4_35.738455_-83.973853@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594643,
-    "wof:geomhash":"5fdea20ab2ca34c6ca16d2d17ce35f96",
+    "wof:geomhash":"9d39323c4cbfb233e89ecc98ec0f2408",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790284347,
-    "wof:lastmodified":1467083163,
+    "wof:lastmodified":1510697656,
     "wof:name":"Crossroads Community Church",
     "wof:parent_id":420541413,
     "wof:placetype":"venue",

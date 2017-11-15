@@ -2,14 +2,20 @@
   "id": 773516589,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Towering Trl Crossville TN 38555",
+    "addr:housenumber":"68",
+    "addr:postcode":"38555",
+    "addr:street":"Towering Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.000192,35.934257,-85.000192,35.934257",
     "geom:latitude":35.934257,
     "geom:longitude":-85.000192,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68 Towering Trl",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":420575313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38wMel6QlGtNN2J1vfPGZa_35.934257_-85.000192@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586321,
-    "wof:geomhash":"4a2e58c5c695bd4513e3da02d6e49302",
+    "wof:geomhash":"c07f27ec812462226690e06945bb44a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773516589,
-    "wof:lastmodified":1467082914,
+    "wof:lastmodified":1510602734,
     "wof:name":"Hibbett Sporting Goods Inc",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

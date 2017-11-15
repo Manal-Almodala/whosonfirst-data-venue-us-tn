@@ -2,14 +2,20 @@
   "id": 789593737,
   "type": "Feature",
   "properties": {
+    "addr:full":"7526 Standifer Gap Rd Chattanooga TN 37421",
+    "addr:housenumber":"7526",
+    "addr:postcode":"37421",
+    "addr:street":"Standifer Gap Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.142524,35.051318,-85.142524,35.051318",
     "geom:latitude":35.051318,
     "geom:longitude":-85.142524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7526 Standifer Gap Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087185,
         85848781
     ],
+    "wof:brand_id":1125159085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_488nDwvGY53yz2SwLIRFmM_35.051318_-85.142524@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589012,
-    "wof:geomhash":"0bc50faf415fe4dd608b2695506c69b8",
+    "wof:geomhash":"79cf24dc2d5f15f7bfc8753705dc24e1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789593737,
-    "wof:lastmodified":1467082999,
+    "wof:lastmodified":1510693763,
     "wof:name":"St James AME Church",
     "wof:parent_id":85848781,
     "wof:placetype":"venue",

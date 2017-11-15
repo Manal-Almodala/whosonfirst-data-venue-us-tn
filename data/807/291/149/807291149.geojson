@@ -2,14 +2,20 @@
   "id": 807291149,
   "type": "Feature",
   "properties": {
+    "addr:full":"1506 Robin Hood Ln Johnson City TN 37604",
+    "addr:housenumber":"1506",
+    "addr:postcode":"37604",
+    "addr:street":"Robin Hood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.382352,36.322599,-82.382352,36.322599",
     "geom:latitude":36.322599,
     "geom:longitude":-82.382352,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1506 Robin Hood Ln",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086335,
         85851799
     ],
+    "wof:brand_id":1125151795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47AeguZqqFWSFXytJrqZyT_36.322599_-82.382352@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605757,
-    "wof:geomhash":"3109e0ccf8468c428e1b5376a3bde4fc",
+    "wof:geomhash":"f2af751ca70ad86dc668d40fba1eb23f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807291149,
-    "wof:lastmodified":1467083520,
+    "wof:lastmodified":1510699961,
     "wof:name":"National Society of Daugh",
     "wof:parent_id":85851799,
     "wof:placetype":"venue",

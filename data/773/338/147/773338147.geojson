@@ -2,14 +2,20 @@
   "id": 773338147,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 W Main St Lebanon TN 37087",
+    "addr:housenumber":"508",
+    "addr:postcode":"37087",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.302186,36.209039,-86.302186,36.209039",
     "geom:latitude":36.209039,
     "geom:longitude":-86.302186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"508 W Main St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125150451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ez6OIK9qyP1hUC4KBS8qB_36.209039_-86.302186@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584970,
-    "wof:geomhash":"30404fd10d0c0f36e4be6edfd9933627",
+    "wof:geomhash":"f811ef48ceba3de0c886669475978b2e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773338147,
-    "wof:lastmodified":1467082872,
+    "wof:lastmodified":1510695312,
     "wof:name":"World Finance Corp",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

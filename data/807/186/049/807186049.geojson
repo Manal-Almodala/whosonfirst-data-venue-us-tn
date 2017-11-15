@@ -2,14 +2,20 @@
   "id": 807186049,
   "type": "Feature",
   "properties": {
+    "addr:full":"609 W Iris Dr Nashville TN 37204",
+    "addr:housenumber":"609",
+    "addr:postcode":"37204",
+    "addr:street":"W Iris Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.76633,36.11669,-86.76633,36.11669",
     "geom:latitude":36.11669,
     "geom:longitude":-86.76633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"609 W Iris Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85893481
     ],
+    "wof:brand_id":1125151133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AFxdpTKwHV8X9EZwPYnzh_36.116690_-86.766330@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604650,
-    "wof:geomhash":"7be964e33d61db375c15c6e49f9f03ee",
+    "wof:geomhash":"bfa1a809915cda389bf23703a327ed89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807186049,
-    "wof:lastmodified":1467083485,
+    "wof:lastmodified":1510697549,
     "wof:name":"Assist 2 Sell",
     "wof:parent_id":85893481,
     "wof:placetype":"venue",

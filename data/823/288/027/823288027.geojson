@@ -2,14 +2,20 @@
   "id": 823288027,
   "type": "Feature",
   "properties": {
+    "addr:full":"585 N Perkins Rd Memphis TN 38122",
+    "addr:housenumber":"585",
+    "addr:postcode":"38122",
+    "addr:street":"N Perkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.907871,35.147366,-89.907871,35.147366",
     "geom:latitude":35.147366,
     "geom:longitude":-89.907871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"585 N Perkins Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":1125150303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31pIaj9Ha7go5PmDSXZFkl_35.147366_-89.907871@1303262743"
     },
     "wof:country":"US",
     "wof:created":1462610625,
-    "wof:geomhash":"5c4d00c0e86d4d13662af04f4fa154cd",
+    "wof:geomhash":"7dd55f413028eed71c7701b5cb8c7bf6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":823288027,
-    "wof:lastmodified":1467083680,
+    "wof:lastmodified":1510698848,
     "wof:name":"Lowe's? Home Improvement",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

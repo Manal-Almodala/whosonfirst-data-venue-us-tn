@@ -2,14 +2,20 @@
   "id": 773031939,
   "type": "Feature",
   "properties": {
+    "addr:full":"1339 W Main St Franklin TN 37064",
+    "addr:housenumber":"1339",
+    "addr:postcode":"37064",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.885492,35.913795,-86.885492,35.913795",
     "geom:latitude":35.913795,
     "geom:longitude":-86.885492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1339 W Main St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85826737
     ],
+    "wof:brand_id":1125150609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bE527ePULZwLKde7jJ6q4_35.913795_-86.885492@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582579,
-    "wof:geomhash":"960f10796d51daa09a170854e45da5a6",
+    "wof:geomhash":"5cfabffc7122abcccc0c3c0a4001d4cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773031939,
-    "wof:lastmodified":1467082784,
+    "wof:lastmodified":1510697773,
     "wof:name":"Premier Mortgage Funding",
     "wof:parent_id":85826737,
     "wof:placetype":"venue",

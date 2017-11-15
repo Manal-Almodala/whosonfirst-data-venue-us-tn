@@ -2,14 +2,20 @@
   "id": 807204639,
   "type": "Feature",
   "properties": {
+    "addr:full":"261 Co Rd 439 Athens TN 37303",
+    "addr:housenumber":"261",
+    "addr:postcode":"37303",
+    "addr:street":"Co Rd 439",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.560151,35.455172,-84.560151,35.455172",
     "geom:latitude":35.455172,
     "geom:longitude":-84.560151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"261 Co Rd 439",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086293,
         85835287
     ],
+    "wof:brand_id":1125154529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7PANqGEQYEmpLeBvLI3pxF_35.455172_-84.560151@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604842,
-    "wof:geomhash":"510877aad237e5bb9e9ce2b7923f6b1d",
+    "wof:geomhash":"a2e3d7366294baf2e122b23c813e3129",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807204639,
-    "wof:lastmodified":1467083491,
+    "wof:lastmodified":1510695740,
     "wof:name":"Fairview Baptist Church",
     "wof:parent_id":85835287,
     "wof:placetype":"venue",

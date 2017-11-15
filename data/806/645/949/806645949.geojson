@@ -2,9 +2,14 @@
   "id": 806645949,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Portland Rd White House TN 37188",
+    "addr:housenumber":"123",
+    "addr:postcode":"37188",
+    "addr:street":"Portland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.650651,36.470186,-86.650651,36.470186",
     "geom:latitude":36.470186,
     "geom:longitude":-86.650651,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ce8013b3a70bfb94107a480509438a9d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806645949,
-    "wof:lastmodified":1467083333,
+    "wof:lastmodified":1491939203,
     "wof:name":"Rock Church",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806706671,
   "type": "Feature",
   "properties": {
+    "addr:full":"3606 Austin Peay Hwy Memphis TN 38128",
+    "addr:housenumber":"3606",
+    "addr:postcode":"38128",
+    "addr:street":"Austin Peay Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.903116,35.227098,-89.903116,35.227098",
     "geom:latitude":35.227098,
     "geom:longitude":-89.903116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3606 Austin Peay Hwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125154433,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k6WczhGjCbyyrgGISupYV_35.227098_-89.903116@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600393,
-    "wof:geomhash":"4c409d35ed342e337cd45431e70fa3df",
+    "wof:geomhash":"9d664b934f80ff304ea29855171cb70e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806706671,
-    "wof:lastmodified":1467083350,
+    "wof:lastmodified":1510696747,
     "wof:name":"First Command Financial Plan",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

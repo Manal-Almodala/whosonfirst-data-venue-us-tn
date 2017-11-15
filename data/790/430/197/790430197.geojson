@@ -2,14 +2,20 @@
   "id": 790430197,
   "type": "Feature",
   "properties": {
+    "addr:full":"1034 W Main St Lebanon TN 37087",
+    "addr:housenumber":"1034",
+    "addr:postcode":"37087",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.316951,36.211805,-86.316951,36.211805",
     "geom:latitude":36.211805,
     "geom:longitude":-86.316951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1034 W Main St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125152939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lIE7gF3Typyzh9StN0ufD_36.211805_-86.316951@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595771,
-    "wof:geomhash":"110ebc9ef794c1ea45e6610c0ab69828",
+    "wof:geomhash":"8d0987d0b160a54605dc43a20cabc2a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790430197,
-    "wof:lastmodified":1467083199,
+    "wof:lastmodified":1510697467,
     "wof:name":"Farmers & Merchants Bank",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

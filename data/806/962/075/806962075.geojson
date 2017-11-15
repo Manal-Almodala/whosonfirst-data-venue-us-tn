@@ -2,14 +2,20 @@
   "id": 806962075,
   "type": "Feature",
   "properties": {
+    "addr:full":"3175 Players Club Pkwy Memphis TN 38125",
+    "addr:housenumber":"3175",
+    "addr:postcode":"38125",
+    "addr:street":"Players Club Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.791186,35.061738,-89.791186,35.061738",
     "geom:latitude":35.061738,
     "geom:longitude":-89.791186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3175 Players Club Pkwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85850355,
         102087213
     ],
+    "wof:brand_id":1125154649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uash6BzsHZcNJo81NgKDl_35.061738_-89.791186@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602541,
-    "wof:geomhash":"5675da26222104d9f9cc16783dc86e22",
+    "wof:geomhash":"ae73d638c701915475a91b9e1bb4e4bd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806962075,
-    "wof:lastmodified":1467083421,
+    "wof:lastmodified":1510699364,
     "wof:name":"Hewlett-Packard Co",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",

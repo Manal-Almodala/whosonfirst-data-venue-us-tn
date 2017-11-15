@@ -2,14 +2,20 @@
   "id": 807320215,
   "type": "Feature",
   "properties": {
+    "addr:full":"1171 Sweetwater Rd Newport TN 37821",
+    "addr:housenumber":"1171",
+    "addr:postcode":"37821",
+    "addr:street":"Sweetwater Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.157777,35.901466,-83.157777,35.901466",
     "geom:latitude":35.901466,
     "geom:longitude":-83.157777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1171 Sweetwater Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086241,
         85827351
     ],
+    "wof:brand_id":1125157251,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34kPTWuhzafGP9WjsYfgTv_35.901466_-83.157777@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606065,
-    "wof:geomhash":"ae5f40b0ee7eed8bb538012cfe931788",
+    "wof:geomhash":"8039173075f32211b425c98a4daeda0c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807320215,
-    "wof:lastmodified":1467083531,
+    "wof:lastmodified":1510697181,
     "wof:name":"Shady Grove Baptist Church",
     "wof:parent_id":85827351,
     "wof:placetype":"venue",

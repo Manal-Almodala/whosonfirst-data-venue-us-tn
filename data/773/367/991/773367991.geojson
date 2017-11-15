@@ -2,14 +2,20 @@
   "id": 773367991,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Sidco Dr Nashville TN 37204",
+    "addr:housenumber":"",
+    "addr:postcode":"4300;37204",
+    "addr:street":"Sidco Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.761625,36.083318,-86.761625,36.083318",
     "geom:latitude":36.083318,
     "geom:longitude":-86.761625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 Sidco Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85812955
     ],
+    "wof:brand_id":1125156377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22ikgIOPVsMOqYqnxUcd0W_36.083318_-86.761625@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585169,
-    "wof:geomhash":"706dd3c028c545887d08e194c0b3ae36",
+    "wof:geomhash":"88d3ea895b50852e071c6734c693a766",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773367991,
-    "wof:lastmodified":1467082879,
+    "wof:lastmodified":1510699358,
     "wof:name":"Concentra Medical Ctr",
     "wof:parent_id":85812955,
     "wof:placetype":"venue",

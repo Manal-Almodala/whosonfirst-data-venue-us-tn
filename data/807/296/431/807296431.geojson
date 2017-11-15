@@ -2,14 +2,20 @@
   "id": 807296431,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Franklin Rd Brentwood TN 37027",
+    "addr:housenumber":"330",
+    "addr:postcode":"37027",
+    "addr:street":"Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.792039,36.027179,-86.792039,36.027179",
     "geom:latitude":36.027179,
     "geom:longitude":-86.792039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 Franklin Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85807259
     ],
+    "wof:brand_id":1125154947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cyI5PI0eq234yuGx4vlch_36.027179_-86.792039@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605817,
-    "wof:geomhash":"413d20fb4944ca2940e9151f770326bd",
+    "wof:geomhash":"0bff06c8eb01561f94a2b514e0d3db06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807296431,
-    "wof:lastmodified":1467083522,
+    "wof:lastmodified":1510695742,
     "wof:name":"Wolf Camera & Video",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807359657,
   "type": "Feature",
   "properties": {
+    "addr:full":"917 Bowling Branch Rd Cottontown TN 37048",
+    "addr:housenumber":"917",
+    "addr:postcode":"37048",
+    "addr:street":"Branch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.616951,36.494831,-86.616951,36.494831",
     "geom:latitude":36.494831,
     "geom:longitude":-86.616951,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -45,6 +51,7 @@
     "wof:geomhash":"ab9313d09b3ece54ec5b01e9a0950570",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807359657,
-    "wof:lastmodified":1467083549,
+    "wof:lastmodified":1491939218,
     "wof:name":"Canyon Copies Inc",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

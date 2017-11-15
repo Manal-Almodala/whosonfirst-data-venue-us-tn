@@ -2,14 +2,20 @@
   "id": 806358379,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 International Plz Nashville TN 37217",
+    "addr:housenumber":"2",
+    "addr:postcode":"37217",
+    "addr:street":"International Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.693454,36.126792,-86.693454,36.126792",
     "geom:latitude":36.126792,
     "geom:longitude":-86.693454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 International Plz",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85853015
     ],
+    "wof:brand_id":1125153645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DFfQJz0VExETDPvauWQIC_36.126792_-86.693454@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597496,
-    "wof:geomhash":"9f98aade6cf6e00132719b7cca38c1d5",
+    "wof:geomhash":"0baaa88d1b9a002dc3538334b7e561af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806358379,
-    "wof:lastmodified":1467083253,
+    "wof:lastmodified":1510694638,
     "wof:name":"Snelling Personnel Svc",
     "wof:parent_id":85853015,
     "wof:placetype":"venue",

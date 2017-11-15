@@ -2,14 +2,20 @@
   "id": 823261129,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 Carriage House Dr Jackson TN 38305",
+    "addr:housenumber":"604",
+    "addr:postcode":"38305",
+    "addr:street":"Carriage House Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.850478,35.661974,-88.850478,35.661974",
     "geom:latitude":35.661974,
     "geom:longitude":-88.850478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"604 Carriage House Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Qc2WOXUMtHOV9SN0O6kdj_35.661811_-88.850543@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609572,
-    "wof:geomhash":"5af0954ecb6696eabbfac48861cd5784",
+    "wof:geomhash":"687cb81211523721bdb240bb6e012902",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823261129,
-    "wof:lastmodified":1467083643,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

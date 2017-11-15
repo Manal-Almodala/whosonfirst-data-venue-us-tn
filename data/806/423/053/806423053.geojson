@@ -2,14 +2,20 @@
   "id": 806423053,
   "type": "Feature",
   "properties": {
+    "addr:full":"5503 Brainerd Rd Chattanooga TN 37411",
+    "addr:housenumber":"5503",
+    "addr:postcode":"37411",
+    "addr:street":"Brainerd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.220723,35.010126,-85.220723,35.010126",
     "geom:latitude":35.010126,
     "geom:longitude":-85.220723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5503 Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         85876729
     ],
+    "wof:brand_id":1125151261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2uFomWmQ2GECCn8dBcOQaz_35.010126_-85.220723@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598028,
-    "wof:geomhash":"7b6ed537469e44ee46886d97e8a4bc7f",
+    "wof:geomhash":"99e69a378f05543538f9f814224721c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806423053,
-    "wof:lastmodified":1467083271,
+    "wof:lastmodified":1510699355,
     "wof:name":"Express Oil Change",
     "wof:parent_id":85876729,
     "wof:placetype":"venue",

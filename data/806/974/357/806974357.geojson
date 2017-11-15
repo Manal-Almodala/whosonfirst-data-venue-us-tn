@@ -2,9 +2,14 @@
   "id": 806974357,
   "type": "Feature",
   "properties": {
+    "addr:full":"4431 Dyke Bennett Rd Franklin TN 37064",
+    "addr:housenumber":"4431",
+    "addr:postcode":"37064",
+    "addr:street":"Dyke Bennett Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.815886,35.8406,-86.815886,35.8406",
     "geom:latitude":35.8406,
     "geom:longitude":-86.815886,
@@ -28,12 +33,7 @@
         "co"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rJGqwkyHNFACKhTiXRt0M_35.840600_-86.815886@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462602644,
     "wof:geomhash":"f4f794b19b1f021e592bdd987271f18a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":806974357
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806974357,
-    "wof:lastmodified":1467083425,
+    "wof:lastmodified":1491930840,
     "wof:name":"Quorum Broadcasting Company",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

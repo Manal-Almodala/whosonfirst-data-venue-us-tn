@@ -2,14 +2,20 @@
   "id": 807256537,
   "type": "Feature",
   "properties": {
+    "addr:full":"661 Fitzhugh Blvd Smyrna TN 37167",
+    "addr:housenumber":"661",
+    "addr:postcode":"37167",
+    "addr:street":"Fitzhugh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.511626,36.017125,-86.511626,36.017125",
     "geom:latitude":36.017125,
     "geom:longitude":-86.511626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"661 Fitzhugh Blvd",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         420542079
     ],
+    "wof:brand_id":1125152797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cAezuiKj19qskHCcuXa4R_36.017125_-86.511626@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605393,
-    "wof:geomhash":"ba8d67dbf59af63259fce5c27a68f510",
+    "wof:geomhash":"9efb215e59abb387b8e1cfa1f390f6e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807256537,
-    "wof:lastmodified":1467083508,
+    "wof:lastmodified":1510697598,
     "wof:name":"Molly Maids",
     "wof:parent_id":420542079,
     "wof:placetype":"venue",

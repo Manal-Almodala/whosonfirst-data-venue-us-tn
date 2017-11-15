@@ -2,14 +2,20 @@
   "id": 806720329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1506 Ash St Alcoa TN 37701",
+    "addr:housenumber":"1506",
+    "addr:postcode":"37701",
+    "addr:street":"Ash St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.956381,35.780627,-83.956381,35.780627",
     "geom:latitude":35.780627,
     "geom:longitude":-83.956381,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1506 Ash St",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087017,
         420541385
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5K0eEdeks9tIplXsqDTHIw_35.780627_-83.956381@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600503,
-    "wof:geomhash":"57f41b3b83f8df731ef8a6437f643d6e",
+    "wof:geomhash":"f7db3cc42cc6eff92573a4a277c8a2a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806720329,
-    "wof:lastmodified":1467083354,
+    "wof:lastmodified":1510602691,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":420541385,
     "wof:placetype":"venue",

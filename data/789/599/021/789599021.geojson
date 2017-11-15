@@ -2,9 +2,14 @@
   "id": 789599021,
   "type": "Feature",
   "properties": {
+    "addr:full":"3300 Hwy 31 W White House TN 37188",
+    "addr:housenumber":"3300",
+    "addr:postcode":"37188",
+    "addr:street":"Hwy 31 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.64551,36.483658,-86.64551,36.483658",
     "geom:latitude":36.483658,
     "geom:longitude":-86.64551,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -45,6 +51,7 @@
     "wof:geomhash":"d55c5d750cf8746d84552e6f533dae22",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -54,9 +61,9 @@
         }
     ],
     "wof:id":789599021,
-    "wof:lastmodified":1467083000,
+    "wof:lastmodified":1491939242,
     "wof:name":"Hollywood Grille & Fun Center",
-    "wof:parent_id":85825691,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

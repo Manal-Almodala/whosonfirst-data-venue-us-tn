@@ -2,14 +2,20 @@
   "id": 773099485,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 Rural Hill Rd Nashville TN 37217",
+    "addr:housenumber":"325",
+    "addr:postcode":"37217",
+    "addr:street":"Rural Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.634881,36.076591,-86.634881,36.076591",
     "geom:latitude":36.076591,
     "geom:longitude":-86.634881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 Rural Hill Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85846409,
         420541523
     ],
+    "wof:brand_id":1125159005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7bfHhThwYWeJZCzztCpIkR_36.076591_-86.634881@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583148,
-    "wof:geomhash":"641617bf2178f15bf9862e85ce2ae8f8",
+    "wof:geomhash":"3700546b05c92d9cc078a34d4e38ebc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":773099485,
-    "wof:lastmodified":1467082803,
+    "wof:lastmodified":1510697156,
     "wof:name":"Hair Palace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

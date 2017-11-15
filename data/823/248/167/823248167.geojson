@@ -2,14 +2,20 @@
   "id": 823248167,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 Rossville Blvd Chattanooga TN 37407",
+    "addr:housenumber":"3701",
+    "addr:postcode":"37407",
+    "addr:street":"Rossville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.292558,35.001029,-85.292558,35.001029",
     "geom:latitude":35.001029,
     "geom:longitude":-85.292558,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3701 Rossville Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         420541639
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jnYUTEf7KXBZH5uiUcywq_35.001029_-85.292558@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609299,
-    "wof:geomhash":"6eb0a375b04f29f7fa5ee77a1d02e564",
+    "wof:geomhash":"4b57b7df3e0e03aad7f392b479bde86e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823248167,
-    "wof:lastmodified":1467083634,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":420541639,
     "wof:placetype":"venue",

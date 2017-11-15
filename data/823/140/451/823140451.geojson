@@ -2,9 +2,14 @@
   "id": 823140451,
   "type": "Feature",
   "properties": {
+    "addr:full":"1022 Kendall Farms Dr Hendersonville TN 37075",
+    "addr:housenumber":"1022",
+    "addr:postcode":"37075",
+    "addr:street":"Kendall Farms Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.617345,36.386604,-86.617345,36.386604",
     "geom:latitude":36.386604,
     "geom:longitude":-86.617345,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"1726b8907bc5ff59aeab84a9245d7157",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823140451,
-    "wof:lastmodified":1467083572,
+    "wof:lastmodified":1491939204,
     "wof:name":"Thomas Webster & Assoc",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807245167,
   "type": "Feature",
   "properties": {
+    "addr:full":"3074 Reflecting Dr Chattanooga TN 37415",
+    "addr:housenumber":"3074",
+    "addr:postcode":"37415",
+    "addr:street":"Reflecting Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.271918,35.0958,-85.271918,35.0958",
     "geom:latitude":35.0958,
     "geom:longitude":-85.271918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3074 Reflecting Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541739
     ],
+    "wof:brand_id":420574659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1011bRPemLjIzftmxBaO7N_35.095800_-85.271918@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605278,
-    "wof:geomhash":"b2c605fa6ea6301665ce1c8a214e24ba",
+    "wof:geomhash":"f2b33d6b19cb6885d53d024279a3ade0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807245167,
-    "wof:lastmodified":1467083505,
+    "wof:lastmodified":1510604046,
     "wof:name":"Mail Boxes Etc",
     "wof:parent_id":420541739,
     "wof:placetype":"venue",

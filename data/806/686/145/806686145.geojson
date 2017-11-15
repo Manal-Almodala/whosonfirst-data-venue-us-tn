@@ -2,14 +2,20 @@
   "id": 806686145,
   "type": "Feature",
   "properties": {
+    "addr:full":"2857 Appling Way Memphis TN 38133",
+    "addr:housenumber":"2857",
+    "addr:postcode":"38133",
+    "addr:street":"Appling Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.810686,35.203195,-89.810686,35.203195",
     "geom:latitude":35.203195,
     "geom:longitude":-89.810686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2857 Appling Way",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YAyh972Lk6YVMShiRFXQy_35.203195_-89.810686@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600224,
-    "wof:geomhash":"140152f549ca9ba0bc46c158cd00444c",
+    "wof:geomhash":"9a3dd3abf56b8d43ac534a25def25459",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806686145,
-    "wof:lastmodified":1467083344,
+    "wof:lastmodified":1510697719,
     "wof:name":"International Union-Oper Engrs",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

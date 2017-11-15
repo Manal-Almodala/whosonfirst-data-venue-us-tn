@@ -2,14 +2,20 @@
   "id": 807200265,
   "type": "Feature",
   "properties": {
+    "addr:full":"3315 Guthrie Hwy Clarksville TN 37040",
+    "addr:housenumber":"3315",
+    "addr:postcode":"37040",
+    "addr:street":"Guthrie Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.270965,36.607592,-87.270965,36.607592",
     "geom:latitude":36.607592,
     "geom:longitude":-87.270965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3315 Guthrie Hwy",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         85805425
     ],
+    "wof:brand_id":420575241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cGUIZuFKUlturKd9AVbAn_36.607592_-87.270965@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604799,
-    "wof:geomhash":"72c6b8dc6e2b8adcc26d990c6df03669",
+    "wof:geomhash":"48154ca7209de3eab0a150bec40b3711",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807200265,
-    "wof:lastmodified":1467083490,
+    "wof:lastmodified":1510602380,
     "wof:name":"Sam's Club",
     "wof:parent_id":85805425,
     "wof:placetype":"venue",

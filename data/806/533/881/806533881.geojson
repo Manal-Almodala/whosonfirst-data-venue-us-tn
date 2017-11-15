@@ -2,14 +2,20 @@
   "id": 806533881,
   "type": "Feature",
   "properties": {
+    "addr:full":"5368 S Mendenhall Mall Memphis TN 38115",
+    "addr:housenumber":"5368",
+    "addr:postcode":"38115",
+    "addr:street":"S Mendenhall Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.884209,35.052852,-89.884209,35.052852",
     "geom:latitude":35.052852,
     "geom:longitude":-89.884209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5368 S Mendenhall Mall",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85870783,
         85870785
     ],
+    "wof:brand_id":1125155435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39zV6EeLcYa85U4AqBE8qA_35.052852_-89.884209@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598902,
-    "wof:geomhash":"3106aa4f6896a1b0159f77f121d5869a",
+    "wof:geomhash":"1dfc89993bf9d6584dc9d5ff9ed92130",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":806533881,
-    "wof:lastmodified":1467083301,
+    "wof:lastmodified":1510694940,
     "wof:name":"Unemployment Insurance",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

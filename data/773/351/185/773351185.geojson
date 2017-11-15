@@ -2,14 +2,20 @@
   "id": 773351185,
   "type": "Feature",
   "properties": {
+    "addr:full":"4801 Alabama Ave Nashville TN 37209",
+    "addr:housenumber":"4801",
+    "addr:postcode":"37209",
+    "addr:street":"Alabama Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.846058,36.153168,-86.846058,36.153168",
     "geom:latitude":36.153168,
     "geom:longitude":-86.846058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4801 Alabama Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85844411
     ],
+    "wof:brand_id":1125152915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FTGSbBBHKtYXXevZbNZPU_36.153168_-86.846058@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585053,
-    "wof:geomhash":"647af648e9937d147ccf6c2dc332e29a",
+    "wof:geomhash":"bb58d31d3f2a6c7543f05006b6f20277",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773351185,
-    "wof:lastmodified":1467082875,
+    "wof:lastmodified":1510697217,
     "wof:name":"Two Men & A Truck",
     "wof:parent_id":85844411,
     "wof:placetype":"venue",

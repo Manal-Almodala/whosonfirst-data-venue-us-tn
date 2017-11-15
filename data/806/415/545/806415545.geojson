@@ -2,14 +2,20 @@
   "id": 806415545,
   "type": "Feature",
   "properties": {
+    "addr:full":"1426 Pine Grove Rd Winfield TN 37892",
+    "addr:housenumber":"1426",
+    "addr:postcode":"37892",
+    "addr:street":"Pine Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.443069,36.53647,-84.443069,36.53647",
     "geom:latitude":36.53647,
     "geom:longitude":-84.443069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1426 Pine Grove Rd",
     "sg:city":"Winfield",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087113,
         420542105
     ],
+    "wof:brand_id":1125156621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2hQ8Qq3GeutMEf1ivZ6nWq_36.536470_-84.443069@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597977,
-    "wof:geomhash":"0c7ea8e5d74be99edac5f12fbc01375e",
+    "wof:geomhash":"35d77dacf256a4c4f35898e0479e83a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806415545,
-    "wof:lastmodified":1467083269,
+    "wof:lastmodified":1510698498,
     "wof:name":"Pine Grove Baptist Church",
     "wof:parent_id":420542105,
     "wof:placetype":"venue",

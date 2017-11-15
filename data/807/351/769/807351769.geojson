@@ -2,14 +2,20 @@
   "id": 807351769,
   "type": "Feature",
   "properties": {
+    "addr:full":"6060 Poplar Ave Memphis TN 38119",
+    "addr:housenumber":"6060",
+    "addr:postcode":"38119",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.860538,35.10217,-89.860538,35.10217",
     "geom:latitude":35.10217,
     "geom:longitude":-89.860538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6060 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087213,
         85857485
     ],
+    "wof:brand_id":420575915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xHY8sYQ5bVj52nOo0rg1T_35.102170_-89.860538@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606527,
-    "wof:geomhash":"c577dedca4b16c2dce26e70242bb5ca3",
+    "wof:geomhash":"ea8f703b709ca1a5fae479a24fa13aea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807351769,
-    "wof:lastmodified":1467083545,
+    "wof:lastmodified":1510602848,
     "wof:name":"Chicago Title Insurance Co",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773463587,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Meridian Ct Franklin TN 37069",
+    "addr:housenumber":"111",
+    "addr:postcode":"37069",
+    "addr:street":"Meridian Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.886914,35.964333,-86.886914,35.964333",
     "geom:latitude":35.964333,
     "geom:longitude":-86.886914,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -44,6 +50,7 @@
     "wof:geomhash":"305300efc4e39a45fecf936669793fc9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773463587,
-    "wof:lastmodified":1467082902,
+    "wof:lastmodified":1491924187,
     "wof:name":"Anderson Remodeling & Constr",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

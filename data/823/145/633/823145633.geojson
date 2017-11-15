@@ -2,14 +2,20 @@
   "id": 823145633,
   "type": "Feature",
   "properties": {
+    "addr:full":"2930 Dickerson Pike Nashville TN 37207",
+    "addr:housenumber":"2930",
+    "addr:postcode":"37207",
+    "addr:street":"Dickerson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.760527,36.22514,-86.760527,36.22514",
     "geom:latitude":36.22514,
     "geom:longitude":-86.760527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2930 Dickerson Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087061,
         85868503
     ],
+    "wof:brand_id":1125153677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3h3e8yQjG9TXzB0VW7qYoz_36.225140_-86.760527@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607615,
-    "wof:geomhash":"42293920c9f4e510cfcc23f385a022ef",
+    "wof:geomhash":"d9140b8ba67f881e39f64ebe3eac6e72",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":823145633,
-    "wof:lastmodified":1467083575,
+    "wof:lastmodified":1510697774,
     "wof:name":"Clayton Homes Inc",
     "wof:parent_id":85868503,
     "wof:placetype":"venue",

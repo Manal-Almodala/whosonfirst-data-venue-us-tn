@@ -2,14 +2,20 @@
   "id": 807224075,
   "type": "Feature",
   "properties": {
+    "addr:full":"4200 Old Hickory Blvd Old Hickory TN 37138",
+    "addr:housenumber":"4200",
+    "addr:postcode":"37138",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.625286,36.222182,-86.625286,36.222182",
     "geom:latitude":36.222182,
     "geom:longitude":-86.625286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4200 Old Hickory Blvd",
     "sg:city":"Old Hickory",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85839347
     ],
+    "wof:brand_id":1125158633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tLJYTreiFRVhShteBXCt7_36.222182_-86.625286@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605053,
-    "wof:geomhash":"cbb547418cfd80d505c782f3c0430596",
+    "wof:geomhash":"d68ee0611f974b7ce0fb51e29dccea01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807224075,
-    "wof:lastmodified":1467083498,
+    "wof:lastmodified":1510699373,
     "wof:name":"Shear Creations",
     "wof:parent_id":85839347,
     "wof:placetype":"venue",

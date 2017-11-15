@@ -2,14 +2,20 @@
   "id": 773289815,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Montrose Ave Kingsport TN 37664",
+    "addr:housenumber":"2101",
+    "addr:postcode":"37664",
+    "addr:street":"Montrose Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.528553,36.526315,-82.528553,36.526315",
     "geom:latitude":36.526315,
     "geom:longitude":-82.528553,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2101 Montrose Ave",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086471,
         85818419
     ],
+    "wof:brand_id":1125150523,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bOzNUkRSv8ymEEPcY7SdS_36.526315_-82.528553@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584598,
-    "wof:geomhash":"a89ba1e60170992cf50f82dcd021def3",
+    "wof:geomhash":"51f8a6eae9c403ec4af17ce817162a09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773289815,
-    "wof:lastmodified":1467082858,
+    "wof:lastmodified":1510696978,
     "wof:name":"Rack Room Shoes",
     "wof:parent_id":85818419,
     "wof:placetype":"venue",

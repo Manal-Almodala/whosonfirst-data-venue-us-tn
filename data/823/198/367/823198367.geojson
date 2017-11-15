@@ -2,14 +2,20 @@
   "id": 823198367,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Lynn Garden Dr Kingsport TN 37660",
+    "addr:housenumber":"333",
+    "addr:postcode":"37660",
+    "addr:street":"Lynn Garden Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.568588,36.554867,-82.568588,36.554867",
     "geom:latitude":36.554867,
     "geom:longitude":-82.568588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 Lynn Garden Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086471,
         85847837
     ],
+    "wof:brand_id":1125153745,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6stlkEPkexmNtV1hJ0uGnb_36.554867_-82.568588@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608316,
-    "wof:geomhash":"911ae09bffe1ec08fd3a3f87e40bacba",
+    "wof:geomhash":"bf601f104ec8d7d6fb039339b47c512b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823198367,
-    "wof:lastmodified":1467083599,
+    "wof:lastmodified":1510698500,
     "wof:name":"Better Homes and Gardens",
     "wof:parent_id":85847837,
     "wof:placetype":"venue",

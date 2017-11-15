@@ -2,14 +2,20 @@
   "id": 790264651,
   "type": "Feature",
   "properties": {
+    "addr:full":"2023 Corral Rd Signal Mountain TN 37377",
+    "addr:housenumber":"2023",
+    "addr:postcode":"37377",
+    "addr:street":"Corral Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.313864,35.204826,-85.313864,35.204826",
     "geom:latitude":35.204826,
     "geom:longitude":-85.313864,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2023 Corral Rd",
     "sg:city":"Signal Mountain",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         420541617
     ],
+    "wof:brand_id":1125153949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EpY1t5tRavrjhomPi76nK_35.204826_-85.313864@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594459,
-    "wof:geomhash":"77bca17a2a53459cc45c19f80b53f9f1",
+    "wof:geomhash":"6305ed41be7b03ff2da0539712a42831",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790264651,
-    "wof:lastmodified":1467083159,
+    "wof:lastmodified":1510695232,
     "wof:name":"Decorating Den Interiors",
     "wof:parent_id":420541617,
     "wof:placetype":"venue",

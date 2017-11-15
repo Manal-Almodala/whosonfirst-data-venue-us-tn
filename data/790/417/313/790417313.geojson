@@ -2,14 +2,20 @@
   "id": 790417313,
   "type": "Feature",
   "properties": {
+    "addr:full":"4501 Harding Pike Nashville TN 37205",
+    "addr:housenumber":"4501",
+    "addr:postcode":"37205",
+    "addr:street":"Harding Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.849643,36.12356,-86.849643,36.12356",
     "geom:latitude":36.12356,
     "geom:longitude":-86.849643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4501 Harding Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85844411
     ],
+    "wof:brand_id":1125158353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08YeORXi4QmwayTpI33ofK_36.123560_-86.849643@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595661,
-    "wof:geomhash":"fab57548a37233f476343dea8236ece1",
+    "wof:geomhash":"2bb83977be1a415e31166670dbd00b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790417313,
-    "wof:lastmodified":1467083195,
+    "wof:lastmodified":1510694185,
     "wof:name":"Moto Photo Inc",
     "wof:parent_id":85844411,
     "wof:placetype":"venue",

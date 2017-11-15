@@ -2,14 +2,20 @@
   "id": 773623337,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 Gunbarrel Rd Chattanooga TN 37421",
+    "addr:housenumber":"2111",
+    "addr:postcode":"37421",
+    "addr:street":"Gunbarrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.153315,35.034207,-85.153315,35.034207",
     "geom:latitude":35.034207,
     "geom:longitude":-85.153315,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2111 Gunbarrel Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087185,
         85815159
     ],
+    "wof:brand_id":1125153193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12h8tS69PqKhynzG3RhjDn_35.034207_-85.153315@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587119,
-    "wof:geomhash":"466f4ec430c637738745a57d814af56a",
+    "wof:geomhash":"776bc82a61c5b835a0063d70844fd042",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773623337,
-    "wof:lastmodified":1467082940,
+    "wof:lastmodified":1510694009,
     "wof:name":"AAA Travel Agency",
     "wof:parent_id":85815159,
     "wof:placetype":"venue",

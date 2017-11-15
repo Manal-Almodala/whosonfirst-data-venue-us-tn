@@ -2,14 +2,20 @@
   "id": 806550601,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 James Robertson Pkwy Nashville TN 37219",
+    "addr:housenumber":"404",
+    "addr:postcode":"37219",
+    "addr:street":"James Robertson Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.782037,36.168253,-86.782037,36.168253",
     "geom:latitude":36.168253,
     "geom:longitude":-86.782037,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"404 James Robertson Pkwy",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85893445
     ],
+    "wof:brand_id":1125150769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KIQhznHxcL4ir414dG26P_36.168253_-86.782037@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599039,
-    "wof:geomhash":"1b275b0b2d979f337f724a62df5a7125",
+    "wof:geomhash":"752ac348274b6e290f1f528dd52e247c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806550601,
-    "wof:lastmodified":1467083306,
+    "wof:lastmodified":1510697653,
     "wof:name":"Child Support Enforcement",
     "wof:parent_id":85893445,
     "wof:placetype":"venue",

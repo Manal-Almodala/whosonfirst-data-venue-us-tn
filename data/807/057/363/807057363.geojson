@@ -2,14 +2,20 @@
   "id": 807057363,
   "type": "Feature",
   "properties": {
+    "addr:full":"3194 Thomas St Memphis TN 38127",
+    "addr:housenumber":"3194",
+    "addr:postcode":"38127",
+    "addr:street":"Thomas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.03217,35.211904,-90.03217,35.211904",
     "geom:latitude":35.211904,
     "geom:longitude":-90.03217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3194 Thomas St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85820619
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7H4s4VTHwkvdudvgAUjlLH_35.211904_-90.032170@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603351,
-    "wof:geomhash":"f6038d418435e9addd4302ca987abe71",
+    "wof:geomhash":"64da3523fc9ba2b5e63d16f14d51cfdf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807057363,
-    "wof:lastmodified":1467083448,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":85820619,
     "wof:placetype":"venue",

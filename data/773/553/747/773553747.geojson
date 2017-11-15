@@ -2,14 +2,20 @@
   "id": 773553747,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 Bass Dr Columbia TN 38401",
+    "addr:housenumber":"101",
+    "addr:postcode":"38401",
+    "addr:street":"Bass Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.023428,35.63044,-87.023428,35.63044",
     "geom:latitude":35.63044,
     "geom:longitude":-87.023428,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Bass Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85844993,
         102087107
     ],
+    "wof:brand_id":1125151077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CWnGcw8g6odoHj2zGoxyL_35.630440_-87.023428@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586597,
-    "wof:geomhash":"f751c3e393b410317b4c5ba14d7bf06b",
+    "wof:geomhash":"94db7b1fdb2e83ed7254df80744a0c0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773553747,
-    "wof:lastmodified":1467082923,
+    "wof:lastmodified":1510696089,
     "wof:name":"Natural Rsrces Cnservation Svc",
     "wof:parent_id":85844993,
     "wof:placetype":"venue",

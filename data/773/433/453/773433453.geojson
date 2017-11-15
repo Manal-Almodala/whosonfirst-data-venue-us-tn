@@ -2,14 +2,20 @@
   "id": 773433453,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Newcastle Dr Franklin TN 37067",
+    "addr:housenumber":"113",
+    "addr:postcode":"37067",
+    "addr:street":"Newcastle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.838275,35.921059,-86.838275,35.921059",
     "geom:latitude":35.921059,
     "geom:longitude":-86.838275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"113 Newcastle Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85830431
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LZQ7c3G7Tu0JjYRUe3IPA_35.921059_-86.838275@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585696,
-    "wof:geomhash":"21e35e0fc38408cf9692075cbf91b61f",
+    "wof:geomhash":"98fc2c0b05cdf0180a9ea123bfe975ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773433453,
-    "wof:lastmodified":1467082895,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85830431,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790061443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1567 N Eastman Rd Kingsport TN 37664",
+    "addr:housenumber":"1567",
+    "addr:postcode":"37664",
+    "addr:street":"N Eastman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.525098,36.53718,-82.525098,36.53718",
     "geom:latitude":36.53718,
     "geom:longitude":-82.525098,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1567 N Eastman Rd",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         85818419
     ],
+    "wof:brand_id":1125159271,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fE5ktaomX3jFmLUFeRmCY_36.537180_-82.525098@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592831,
-    "wof:geomhash":"e60453b6ac18cad7d1c31876262fc237",
+    "wof:geomhash":"cba26db43d2a3d984da9f135cefa9a50",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790061443,
-    "wof:lastmodified":1467083111,
+    "wof:lastmodified":1510604898,
     "wof:name":"Guys & Dolls",
     "wof:parent_id":85818419,
     "wof:placetype":"venue",

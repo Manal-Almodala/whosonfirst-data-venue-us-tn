@@ -2,14 +2,20 @@
   "id": 790417399,
   "type": "Feature",
   "properties": {
+    "addr:full":"1630 Poplar Ave Memphis TN 38104",
+    "addr:housenumber":"1630",
+    "addr:postcode":"38104",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.006843,35.143235,-90.006843,35.143235",
     "geom:latitude":35.143235,
     "geom:longitude":-90.006843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1630 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85851159
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MdzjxMKmuE1ki1Lll2rtc_35.143235_-90.006843@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595662,
-    "wof:geomhash":"7d387e5f0b97c35033f4eb5c7ef0dce4",
+    "wof:geomhash":"eb6d93dce20b59445887a475c716c0cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790417399,
-    "wof:lastmodified":1467083195,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85851159,
     "wof:placetype":"venue",

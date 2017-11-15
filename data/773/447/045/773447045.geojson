@@ -2,14 +2,20 @@
   "id": 773447045,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Carter Blvd Elizabethton TN 37643",
+    "addr:housenumber":"500",
+    "addr:postcode":"37643",
+    "addr:street":"Carter Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.244269,36.338865,-82.244269,36.338865",
     "geom:latitude":36.338865,
     "geom:longitude":-82.244269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Carter Blvd",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087053,
         85844667
     ],
+    "wof:brand_id":1125159019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NJ6Or8YfEo5AhO2CnKian_36.338865_-82.244269@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585816,
-    "wof:geomhash":"333efb23708de8c1545ba01222dea97f",
+    "wof:geomhash":"3fe809f6f16a38619429cfa9c6313711",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773447045,
-    "wof:lastmodified":1467082898,
+    "wof:lastmodified":1510696617,
     "wof:name":"International Order of Ra",
     "wof:parent_id":85844667,
     "wof:placetype":"venue",

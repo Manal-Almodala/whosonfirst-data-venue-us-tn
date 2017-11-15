@@ -2,14 +2,20 @@
   "id": 807264317,
   "type": "Feature",
   "properties": {
+    "addr:full":"3419 Austin Peay Hwy Memphis TN 38135",
+    "addr:housenumber":"3419",
+    "addr:postcode":"38135",
+    "addr:street":"Austin Peay Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.911471,35.218864,-89.911471,35.218864",
     "geom:latitude":35.218864,
     "geom:longitude":-89.911471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3419 Austin Peay Hwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74EP0Kh0XGacaPWZizHRZK_35.218864_-89.911471@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605474,
-    "wof:geomhash":"709826f4d255b3dcdd55dddb345839f2",
+    "wof:geomhash":"113dc91942aa85ab0e4574ac1eb4caa0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807264317,
-    "wof:lastmodified":1467083511,
+    "wof:lastmodified":1510695265,
     "wof:name":"Citi Trends",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773295227,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Sherlake Ln Knoxville TN 37922",
+    "addr:housenumber":"112",
+    "addr:postcode":"37922",
+    "addr:street":"Sherlake Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.107475,35.908774,-84.107475,35.908774",
     "geom:latitude":35.908774,
     "geom:longitude":-84.107475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 Sherlake Ln",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":1125158223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44PYvzimZ3GWrW7snPW0my_35.908774_-84.107475@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584639,
-    "wof:geomhash":"ba171142b547e24135360708f216ea33",
+    "wof:geomhash":"3087cb9b986e3a7d5f4e6a0bf93d21a3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773295227,
-    "wof:lastmodified":1467082860,
+    "wof:lastmodified":1510613203,
     "wof:name":"Wesco Distribution Inc",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

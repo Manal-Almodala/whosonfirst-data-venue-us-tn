@@ -2,14 +2,20 @@
   "id": 773333191,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202 Campbell Rd Columbia TN 38401",
+    "addr:housenumber":"1202",
+    "addr:postcode":"38401",
+    "addr:street":"Campbell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.941803,35.763425,-86.941803,35.763425",
     "geom:latitude":35.763425,
     "geom:longitude":-86.941803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1202 Campbell Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087107,
         420541943
     ],
+    "wof:brand_id":1125158753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LjCZeYtgMbLDAdCYuTdD3_35.763425_-86.941803@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584934,
-    "wof:geomhash":"da15030686106d6577fb1b05518dd765",
+    "wof:geomhash":"b507e24a23a943b49a04c14741c0b33a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773333191,
-    "wof:lastmodified":1467082871,
+    "wof:lastmodified":1510695792,
     "wof:name":"Direct General Insurance Agcy",
     "wof:parent_id":420541943,
     "wof:placetype":"venue",

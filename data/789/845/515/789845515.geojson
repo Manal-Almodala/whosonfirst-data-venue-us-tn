@@ -2,14 +2,20 @@
   "id": 789845515,
   "type": "Feature",
   "properties": {
+    "addr:full":"699 Pleasant Hill Rd Sparta TN 38583",
+    "addr:housenumber":"699",
+    "addr:postcode":"38583",
+    "addr:street":"Pleasant Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.467071,35.883184,-85.467071,35.883184",
     "geom:latitude":35.883184,
     "geom:longitude":-85.467071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"699 Pleasant Hill Rd",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086369,
         85831481
     ],
+    "wof:brand_id":1125151189,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59PUkP5jTgYOjFOhqzGy8R_35.883184_-85.467071@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590996,
-    "wof:geomhash":"37f777376f8ff0fb805cd8c562d338df",
+    "wof:geomhash":"968df6953a6d130d36eb193aceee4a73",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789845515,
-    "wof:lastmodified":1467083059,
+    "wof:lastmodified":1510697194,
     "wof:name":"Pleasant Hill Baptist Church",
     "wof:parent_id":85831481,
     "wof:placetype":"venue",

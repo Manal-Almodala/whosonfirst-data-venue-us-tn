@@ -2,14 +2,20 @@
   "id": 790083931,
   "type": "Feature",
   "properties": {
+    "addr:full":"5124 Summer Ave Memphis TN 38122",
+    "addr:housenumber":"5124",
+    "addr:postcode":"38122",
+    "addr:street":"Summer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.890769,35.151302,-89.890769,35.151302",
     "geom:latitude":35.151302,
     "geom:longitude":-89.890769,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5124 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":1125150357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XHIMmP0M98tfFKLmGOkHY_35.151302_-89.890769@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592997,
-    "wof:geomhash":"a365d6fcf7b6e49c11a4a5abc3fd6dc7",
+    "wof:geomhash":"b7686ba8ceb4d3146f05d50f05a2d97a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790083931,
-    "wof:lastmodified":1467083116,
+    "wof:lastmodified":1510697020,
     "wof:name":"Kmart Pharmacies Inc",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

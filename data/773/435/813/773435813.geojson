@@ -2,14 +2,20 @@
   "id": 773435813,
   "type": "Feature",
   "properties": {
+    "addr:full":"951 Thomas St Memphis TN 38107",
+    "addr:housenumber":"951",
+    "addr:postcode":"38107",
+    "addr:street":"Thomas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.036334,35.16721,-90.036334,35.16721",
     "geom:latitude":35.16721,
     "geom:longitude":-90.036334,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"951 Thomas St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         420542121
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71466k2lfQYZGhiFYbUDxp_35.167210_-90.036334@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585723,
-    "wof:geomhash":"16b3b22541c421101b30b8d94d0f50d2",
+    "wof:geomhash":"fc7a5529617b0c8750d7ab452c34019e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773435813,
-    "wof:lastmodified":1467082895,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":420542121,
     "wof:placetype":"venue",

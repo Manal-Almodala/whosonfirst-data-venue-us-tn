@@ -2,14 +2,20 @@
   "id": 773480863,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Roby Dr Erin TN 37061",
+    "addr:housenumber":"501",
+    "addr:postcode":"37061",
+    "addr:street":"Roby Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.708574,36.314379,-87.708574,36.314379",
     "geom:latitude":36.314379,
     "geom:longitude":-87.708574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Roby Dr",
     "sg:city":"Erin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087075,
         85803529
     ],
+    "wof:brand_id":1125151039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2phOjf0yif5TvUSA3zsstZ_36.314379_-87.708574@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586078,
-    "wof:geomhash":"33f06ac2ff90f964c9f884ed8eca0ca9",
+    "wof:geomhash":"207fe549c4f3bd28e8597a129e246bae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773480863,
-    "wof:lastmodified":1467082906,
+    "wof:lastmodified":1510697385,
     "wof:name":"Human Service Dept",
     "wof:parent_id":85803529,
     "wof:placetype":"venue",

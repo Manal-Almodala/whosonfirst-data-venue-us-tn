@@ -2,14 +2,20 @@
   "id": 773162427,
   "type": "Feature",
   "properties": {
+    "addr:full":"207 E Main St Johnson City TN 37604",
+    "addr:housenumber":"207",
+    "addr:postcode":"37604",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.352585,36.316433,-82.352585,36.316433",
     "geom:latitude":36.316433,
     "geom:longitude":-82.352585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"207 E Main St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086335,
         420542299
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_19uNUD80kkMmOiOeUXjxGW_36.316433_-82.352585@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583612,
-    "wof:geomhash":"723e25b73fb45d48593fe8c03f1cacb1",
+    "wof:geomhash":"db1055702c0477dfec24a535bd855ee2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773162427,
-    "wof:lastmodified":1467082818,
+    "wof:lastmodified":1510693885,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":420542299,
     "wof:placetype":"venue",

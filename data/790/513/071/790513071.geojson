@@ -2,14 +2,20 @@
   "id": 790513071,
   "type": "Feature",
   "properties": {
+    "addr:full":"6763 Bainbridge Dr Memphis TN 38119",
+    "addr:housenumber":"6763",
+    "addr:postcode":"38119",
+    "addr:street":"Bainbridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.841554,35.07135,-89.841554,35.07135",
     "geom:latitude":35.07135,
     "geom:longitude":-89.841554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6763 Bainbridge Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125155135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Lp9lNXywyqUPtZYv4y0X7_35.071350_-89.841554@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596475,
-    "wof:geomhash":"4aeb254205c958af5e186f49abe9b3d0",
+    "wof:geomhash":"7dc900a6129551ed189e1f00fbd5fed9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790513071,
-    "wof:lastmodified":1467083221,
+    "wof:lastmodified":1510699323,
     "wof:name":"Great Wall Restaurant",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

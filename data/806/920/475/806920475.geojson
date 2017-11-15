@@ -2,14 +2,20 @@
   "id": 806920475,
   "type": "Feature",
   "properties": {
+    "addr:full":"605 Wilson Pike Brentwood TN 37027",
+    "addr:housenumber":"605",
+    "addr:postcode":"37027",
+    "addr:street":"Wilson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.781412,36.014155,-86.781412,36.014155",
     "geom:latitude":36.014155,
     "geom:longitude":-86.781412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"605 Wilson Pike",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85807259
     ],
+    "wof:brand_id":1125155037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38S0dXwAcDBKeci9OSou1K_36.014155_-86.781412@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602178,
-    "wof:geomhash":"3c07c9d89849ea13132d756107355b39",
+    "wof:geomhash":"ce9f08ef6ccb440fddeb875d2ba2691b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806920475,
-    "wof:lastmodified":1467083410,
+    "wof:lastmodified":1510694953,
     "wof:name":"New Hope Community Church",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",

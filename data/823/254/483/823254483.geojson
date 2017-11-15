@@ -2,14 +2,20 @@
   "id": 823254483,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 S Highland St Memphis TN 38111",
+    "addr:housenumber":"521",
+    "addr:postcode":"38111",
+    "addr:street":"S Highland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.945667,35.117272,-89.945667,35.117272",
     "geom:latitude":35.117272,
     "geom:longitude":-89.945667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"521 S Highland St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85837075
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wD429iQyLx7n3jGe3iDZi_35.117272_-89.945667@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609430,
-    "wof:geomhash":"24454cd733ce57bcaa9c14d3359eae28",
+    "wof:geomhash":"38d30be8898045834be7168ff83aec11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823254483,
-    "wof:lastmodified":1467083638,
+    "wof:lastmodified":1510696089,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85837075,
     "wof:placetype":"venue",

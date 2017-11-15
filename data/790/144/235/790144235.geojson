@@ -2,14 +2,20 @@
   "id": 790144235,
   "type": "Feature",
   "properties": {
+    "addr:full":"828 Royal Pkwy Nashville TN 37214",
+    "addr:housenumber":"828",
+    "addr:postcode":"37214",
+    "addr:street":"Royal Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.664859,36.145715,-86.664859,36.145715",
     "geom:latitude":36.145715,
     "geom:longitude":-86.664859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"828 Royal Pkwy",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85688701
     ],
+    "wof:brand_id":1125150877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZzJdVdHPEK7OqT08BXScx_36.145715_-86.664859@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593461,
-    "wof:geomhash":"57b8547ed7505621515aed474657cd52",
+    "wof:geomhash":"4b7e169294919d6ea9424aebbcc6ca04",
     "wof:hierarchy":[
         {
             "campus_id":102525035,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790144235,
-    "wof:lastmodified":1467083130,
+    "wof:lastmodified":1510613210,
     "wof:name":"R G I S Inventory Specialists",
     "wof:parent_id":102525035,
     "wof:placetype":"venue",

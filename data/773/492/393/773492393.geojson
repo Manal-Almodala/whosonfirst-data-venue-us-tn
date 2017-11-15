@@ -2,14 +2,20 @@
   "id": 773492393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1119 Davis Ave Morristown TN 37814",
+    "addr:housenumber":"1119",
+    "addr:postcode":"37814",
+    "addr:street":"Davis Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.295697,36.226231,-83.295697,36.226231",
     "geom:latitude":36.226231,
     "geom:longitude":-83.295697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1119 Davis Ave",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":1125159133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L6ZJefgJplbSEP9FOxNdS_36.226231_-83.295697@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586153,
-    "wof:geomhash":"aa56d14527d634ce64930b570631efb7",
+    "wof:geomhash":"ad9d9207c6797ec713ddb10abdf15f30",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773492393,
-    "wof:lastmodified":1467082908,
+    "wof:lastmodified":1510699711,
     "wof:name":"Abundant Life Church",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

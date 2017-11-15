@@ -2,14 +2,20 @@
   "id": 807027643,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 N Roane St Harriman TN 37748",
+    "addr:housenumber":"520",
+    "addr:postcode":"37748",
+    "addr:street":"N Roane St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.549376,35.935876,-84.549376,35.935876",
     "geom:latitude":35.935876,
     "geom:longitude":-84.549376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 N Roane St",
     "sg:city":"Harriman",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087051,
         85841801
     ],
+    "wof:brand_id":1125156875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1F38qUxgdkl4Q6aObgovat_35.935876_-84.549376@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603104,
-    "wof:geomhash":"922cf2648a5aed987ad88238a61d96e8",
+    "wof:geomhash":"3cf8cee041c5d135e2b6766da23bc6a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807027643,
-    "wof:lastmodified":1467083440,
+    "wof:lastmodified":1510696997,
     "wof:name":"Video Express",
     "wof:parent_id":85841801,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806829719,
   "type": "Feature",
   "properties": {
+    "addr:full":"5169 Hickory Hollow Pkwy Antioch TN 37013",
+    "addr:housenumber":"5169",
+    "addr:postcode":"37013",
+    "addr:street":"Hickory Hollow Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.663074,36.049644,-86.663074,36.049644",
     "geom:latitude":36.049644,
     "geom:longitude":-86.663074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5169 Hickory Hollow Pkwy",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85846409
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04rSrysAe5HKjtkXm4PxVM_36.049644_-86.663074@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601422,
-    "wof:geomhash":"4cfa38478d0dd5aa3d041b14a767b663",
+    "wof:geomhash":"ab0ac07a0720fd86df9f7156b80ac285",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806829719,
-    "wof:lastmodified":1467083385,
+    "wof:lastmodified":1510699751,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85846409,
     "wof:placetype":"venue",

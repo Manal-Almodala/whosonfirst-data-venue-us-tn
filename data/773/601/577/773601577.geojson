@@ -2,9 +2,14 @@
   "id": 773601577,
   "type": "Feature",
   "properties": {
+    "addr:full":"4671 Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"",
+    "addr:postcode":"4671;37064",
+    "addr:street":"Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79552,35.825506,-86.79552,35.825506",
     "geom:latitude":35.825506,
     "geom:longitude":-86.79552,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1adQLyU9ruBZ6cpLs4N3u4_35.825506_-86.795520@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462586953,
     "wof:geomhash":"b8774d7cf7c66c0724ee6496ddb034eb",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773601577
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773601577,
-    "wof:lastmodified":1467082934,
+    "wof:lastmodified":1491930841,
     "wof:name":"Saint Ignatius Orthodox Church",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

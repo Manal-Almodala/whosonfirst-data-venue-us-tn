@@ -2,9 +2,14 @@
   "id": 806572921,
   "type": "Feature",
   "properties": {
+    "addr:full":"1014 Hunts Ln Hendersonville TN 37075",
+    "addr:housenumber":"1014",
+    "addr:postcode":"37075",
+    "addr:street":"Hunts Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.64928,36.335488,-86.64928,36.335488",
     "geom:latitude":36.335488,
     "geom:longitude":-86.64928,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -50,6 +56,7 @@
     "wof:geomhash":"c34f7bc044cb804d0ecf70b4739ba91d",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":806572921,
-    "wof:lastmodified":1467083312,
+    "wof:lastmodified":1491939221,
     "wof:name":"Technical Services Company Inc",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

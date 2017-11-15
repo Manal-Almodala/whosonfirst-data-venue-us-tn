@@ -2,9 +2,14 @@
   "id": 773307921,
   "type": "Feature",
   "properties": {
+    "addr:full":"367 Bowling Branch Rd Cottontown TN 37048",
+    "addr:housenumber":"367",
+    "addr:postcode":"37048",
+    "addr:street":"Branch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.626934,36.508873,-86.626934,36.508873",
     "geom:latitude":36.508873,
     "geom:longitude":-86.626934,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"3a7a4630a5965d956eefb265e7e95899",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773307921,
-    "wof:lastmodified":1467082864,
+    "wof:lastmodified":1491939223,
     "wof:name":"Farm House Tomatoes",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

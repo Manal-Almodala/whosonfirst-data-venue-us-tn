@@ -2,14 +2,20 @@
   "id": 823268935,
   "type": "Feature",
   "properties": {
+    "addr:full":"5327 Highway 153 Hixson TN 37343",
+    "addr:housenumber":"5327",
+    "addr:postcode":"37343",
+    "addr:street":"Highway 153",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.243287,35.129081,-85.243287,35.129081",
     "geom:latitude":35.129081,
     "geom:longitude":-85.243287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5327 Highway 153",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102087185,
         85825769
     ],
+    "wof:brand_id":1125151691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BvvxkleEwPgxOizVUnCFN_35.129081_-85.243287@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609873,
-    "wof:geomhash":"8378d8fd89f761fc476d7387dc428a10",
+    "wof:geomhash":"8ba2bdc1dc76e1915aa798a31bae2153",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":823268935,
-    "wof:lastmodified":1467083653,
+    "wof:lastmodified":1510693900,
     "wof:name":"NTB - National Tire & Battery",
     "wof:parent_id":85825769,
     "wof:placetype":"venue",

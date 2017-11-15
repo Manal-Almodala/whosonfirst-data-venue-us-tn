@@ -2,14 +2,20 @@
   "id": 773711123,
   "type": "Feature",
   "properties": {
+    "addr:full":"8489 US Hwy 64 Memphis TN 38133",
+    "addr:housenumber":"8489",
+    "addr:postcode":"38133",
+    "addr:street":"Us Hwy 64",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.781683,35.204352,-89.781683,35.204352",
     "geom:latitude":35.204352,
     "geom:longitude":-89.781683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8489 US Hwy 64",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Vpqf0aVJlF7AtIN2lVM0E_35.204352_-89.781683@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587811,
-    "wof:geomhash":"88446860095f15514ac28b2d40a356b8",
+    "wof:geomhash":"770b803f3f2f2e2da4a298bd8b293516",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773711123,
-    "wof:lastmodified":1467082961,
+    "wof:lastmodified":1510695715,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

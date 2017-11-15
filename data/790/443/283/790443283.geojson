@@ -2,14 +2,20 @@
   "id": 790443283,
   "type": "Feature",
   "properties": {
+    "addr:full":"2828 Opryland Dr Nashville TN 37214",
+    "addr:housenumber":"2828",
+    "addr:postcode":"37214",
+    "addr:street":"Opryland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.693103,36.209202,-86.693103,36.209202",
     "geom:latitude":36.209202,
     "geom:longitude":-86.693103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2828 Opryland Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85893467
     ],
+    "wof:brand_id":1125151975,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fg3cd3BBQqX65vs1OXY8f_36.209202_-86.693103@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595869,
-    "wof:geomhash":"db4777ecb03f2fad7e02d3ea24f4afa9",
+    "wof:geomhash":"f7c9b6d16a0c5cca46348e778dc061a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790443283,
-    "wof:lastmodified":1467083202,
+    "wof:lastmodified":1510695908,
     "wof:name":"Chilis",
     "wof:parent_id":85893467,
     "wof:placetype":"venue",

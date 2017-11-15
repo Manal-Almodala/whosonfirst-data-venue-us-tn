@@ -2,14 +2,20 @@
   "id": 790618847,
   "type": "Feature",
   "properties": {
+    "addr:full":"493 E Main St Gallatin TN 37066",
+    "addr:housenumber":"493",
+    "addr:postcode":"37066",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.438125,36.390313,-86.438125,36.390313",
     "geom:latitude":36.390313,
     "geom:longitude":-86.438125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"493 E Main St",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086357,
         85852687
     ],
+    "wof:brand_id":1125157595,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1WJBSGWDEovCKo4OA1K46M_36.390313_-86.438125@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597403,
-    "wof:geomhash":"7ec10416747fb680e34d25a16e3fca3c",
+    "wof:geomhash":"7b361d25626d797d7f0da542b31671dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790618847,
-    "wof:lastmodified":1467083250,
+    "wof:lastmodified":1510695420,
     "wof:name":"Exotic Nails",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",

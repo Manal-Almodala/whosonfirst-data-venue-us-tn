@@ -2,14 +2,20 @@
   "id": 789875501,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 Cherry St Dayton TN 37321",
+    "addr:housenumber":"133",
+    "addr:postcode":"37321",
+    "addr:street":"Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.021417,35.484362,-85.021417,35.484362",
     "geom:latitude":35.484362,
     "geom:longitude":-85.021417,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"133 Cherry St",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086477,
         85811795
     ],
+    "wof:brand_id":1125151211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6n91tk53eWBD4vuUgEWpf7_35.484362_-85.021417@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591231,
-    "wof:geomhash":"1799e62c9c69de89dcc2f192c7afb5bc",
+    "wof:geomhash":"13e4d1a4c2bf43b529e2b77e52c2ba02",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789875501,
-    "wof:lastmodified":1467083066,
+    "wof:lastmodified":1510697573,
     "wof:name":"Charter Communications",
     "wof:parent_id":85811795,
     "wof:placetype":"venue",

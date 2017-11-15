@@ -2,14 +2,20 @@
   "id": 823263049,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 N Thompson Ln Murfreesboro TN 37129",
+    "addr:housenumber":"345",
+    "addr:postcode":"37129",
+    "addr:street":"N Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.430603,35.852582,-86.430603,35.852582",
     "geom:latitude":35.852582,
     "geom:longitude":-86.430603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"345 N Thompson Ln",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":420574873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jmfZK6VgT4i37bMn79q64_35.852582_-86.430603@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609643,
-    "wof:geomhash":"688606823d10e8c8eb47b754556d1f14",
+    "wof:geomhash":"df0e2d7ff80997d66a94a8f034db3230",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":823263049,
-    "wof:lastmodified":1467083645,
+    "wof:lastmodified":1510604218,
     "wof:name":"Firestone Complete Auto Care Store",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

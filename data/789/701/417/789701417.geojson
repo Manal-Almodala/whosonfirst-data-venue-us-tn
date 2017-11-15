@@ -2,6 +2,10 @@
   "id": 789701417,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Randolph Rd Oak Ridge TN 37830",
+    "addr:housenumber":"123",
+    "addr:postcode":"37830",
+    "addr:street":"Randolph Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789701417,
-    "wof:lastmodified":1467083025,
+    "wof:lastmodified":1472645180,
     "wof:name":"High Places Community Church",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

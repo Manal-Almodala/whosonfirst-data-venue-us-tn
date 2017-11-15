@@ -2,14 +2,20 @@
   "id": 790552807,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Glen Oak Blvd Hendersonville TN 37075",
+    "addr:housenumber":"102",
+    "addr:postcode":"37075",
+    "addr:street":"Glen Oak Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.61511,36.325781,-86.61511,36.325781",
     "geom:latitude":36.325781,
     "geom:longitude":-86.61511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Glen Oak Blvd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086357,
         420542237
     ],
+    "wof:brand_id":1125155759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iceVjtmICSBWnbEvRbN7R_36.325781_-86.615110@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596817,
-    "wof:geomhash":"3407b4d54b20cb94d54939974da9120d",
+    "wof:geomhash":"6ae56fd6c5eb7bb18a32461fecbec12c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790552807,
-    "wof:lastmodified":1467083232,
+    "wof:lastmodified":1510613244,
     "wof:name":"Hot Nails",
     "wof:parent_id":420542237,
     "wof:placetype":"venue",

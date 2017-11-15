@@ -2,14 +2,20 @@
   "id": 806609019,
   "type": "Feature",
   "properties": {
+    "addr:full":"3150 Lenox Park Blvd Memphis TN 38115",
+    "addr:housenumber":"3150",
+    "addr:postcode":"38115",
+    "addr:street":"Lenox Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.841854,35.062604,-89.841854,35.062604",
     "geom:latitude":35.062604,
     "geom:longitude":-89.841854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3150 Lenox Park Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lPvGrQi8ba5WRHGk0ji9W_35.062604_-89.841854@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599558,
-    "wof:geomhash":"5ea8396f25ed5b345ffb3ee245fc1342",
+    "wof:geomhash":"610dc7f572c5568e765d80cdc667d764",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806609019,
-    "wof:lastmodified":1467083322,
+    "wof:lastmodified":1510602526,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

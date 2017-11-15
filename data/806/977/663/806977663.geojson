@@ -2,9 +2,14 @@
   "id": 806977663,
   "type": "Feature",
   "properties": {
+    "addr:full":"1101 Wilson Pike Brentwood TN 37027",
+    "addr:housenumber":"1101",
+    "addr:postcode":"37027",
+    "addr:street":"Wilson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.778342,35.99107,-86.778342,35.99107",
     "geom:latitude":35.99107,
     "geom:longitude":-86.778342,
@@ -30,7 +35,7 @@
         85633793,
         101723097,
         102086337,
-        85820341
+        85893405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723097,
-            "neighbourhood_id":85820341,
+            "neighbourhood_id":85893405,
             "region_id":85688701,
             "venue_id":806977663
         }
     ],
     "wof:id":806977663,
-    "wof:lastmodified":1467083426,
+    "wof:lastmodified":1491905707,
     "wof:name":"Concord Corner Store",
-    "wof:parent_id":85820341,
+    "wof:parent_id":85893405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 806497127,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Tom Robinson Rd Franklin TN 37064",
+    "addr:housenumber":"307",
+    "addr:postcode":"37064",
+    "addr:street":"Tom Robinson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.854296,35.868676,-86.854296,35.868676",
     "geom:latitude":35.868676,
     "geom:longitude":-86.854296,
@@ -27,12 +32,7 @@
         "jeweler"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xTZ9hzgPTKiP0AfGXKYEb_35.868676_-86.854296@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462598602,
     "wof:geomhash":"eff13e87b2d7bccc54d9ce3a10939ebf",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":806497127
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806497127,
-    "wof:lastmodified":1467083291,
+    "wof:lastmodified":1491930832,
     "wof:name":"Cooper Jewelers",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773432875,
   "type": "Feature",
   "properties": {
+    "addr:full":"1986 E Brooks Rd Memphis TN 38109",
+    "addr:housenumber":"1986",
+    "addr:postcode":"38109",
+    "addr:street":"E Brooks Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.997589,35.06083,-89.997589,35.06083",
     "geom:latitude":35.06083,
     "geom:longitude":-89.997589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1986 E Brooks Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85837045
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lBFAkiQ8GtYPTNVD3i5r4_35.060830_-89.997589@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585692,
-    "wof:geomhash":"8041caaca9e7ac66d6d5c1ef17577612",
+    "wof:geomhash":"424cd2707f0de75c45100350bd17a602",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773432875,
-    "wof:lastmodified":1467082894,
+    "wof:lastmodified":1510697539,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85837045,
     "wof:placetype":"venue",

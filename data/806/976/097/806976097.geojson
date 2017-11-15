@@ -2,14 +2,20 @@
   "id": 806976097,
   "type": "Feature",
   "properties": {
+    "addr:full":"4720 Boeingshire Dr Memphis TN 38116",
+    "addr:housenumber":"4720",
+    "addr:postcode":"38116",
+    "addr:street":"Boeingshire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.996682,35.019683,-89.996682,35.019683",
     "geom:latitude":35.019683,
     "geom:longitude":-89.996682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4720 Boeingshire Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870785
     ],
+    "wof:brand_id":1125159863,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gZa4gTG3TdfaHPiEZ2wTv_35.019683_-89.996682@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602657,
-    "wof:geomhash":"5882990d47f82c9ccd151e3cfb3a1ad7",
+    "wof:geomhash":"7872b23cfa1f0e4ff8e9d01371322f06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806976097,
-    "wof:lastmodified":1467083425,
+    "wof:lastmodified":1510694981,
     "wof:name":"Freedom Baptist Church",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",

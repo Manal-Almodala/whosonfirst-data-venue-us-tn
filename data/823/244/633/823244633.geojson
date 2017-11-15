@@ -2,14 +2,20 @@
   "id": 823244633,
   "type": "Feature",
   "properties": {
+    "addr:full":"1668 Memorial Blvd Murfreesboro TN 37129",
+    "addr:housenumber":"1668",
+    "addr:postcode":"37129",
+    "addr:street":"Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.387554,35.867341,-86.387554,35.867341",
     "geom:latitude":35.867341,
     "geom:longitude":-86.387554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1668 Memorial Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086355,
         85824375
     ],
+    "wof:brand_id":420575223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2alKBm9qfWe69VfMZ5psyj_35.867341_-86.387554@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609230,
-    "wof:geomhash":"41e1f561ee1a8b52c4e7fa63ac125e3b",
+    "wof:geomhash":"ef42f38c29db203efaa67a2ac4329ccb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823244633,
-    "wof:lastmodified":1467083631,
+    "wof:lastmodified":1510602902,
     "wof:name":"China Wok",
     "wof:parent_id":85824375,
     "wof:placetype":"venue",

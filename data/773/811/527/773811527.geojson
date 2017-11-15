@@ -2,14 +2,20 @@
   "id": 773811527,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Central Church Rd Morristown TN 37814",
+    "addr:housenumber":"1100",
+    "addr:postcode":"37814",
+    "addr:street":"Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.357055,36.215119,-83.357055,36.215119",
     "geom:latitude":36.215119,
     "geom:longitude":-83.357055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 Central Church Rd",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086447,
         420541593
     ],
+    "wof:brand_id":420575435,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1l0u8iyxJnTDzIs7BF1QVx_36.215119_-83.357055@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588567,
-    "wof:geomhash":"ba8b6ff1a58726fa6c62ffa08adfff83",
+    "wof:geomhash":"7991ba9db313669209a38725d85c83ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773811527,
-    "wof:lastmodified":1467082986,
+    "wof:lastmodified":1510601919,
     "wof:name":"Central Baptist Church",
     "wof:parent_id":420541593,
     "wof:placetype":"venue",

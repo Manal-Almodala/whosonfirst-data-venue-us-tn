@@ -2,14 +2,20 @@
   "id": 823185127,
   "type": "Feature",
   "properties": {
+    "addr:full":"2148 Tipton Rd Atoka TN 38004",
+    "addr:housenumber":"2148",
+    "addr:postcode":"38004",
+    "addr:street":"Tipton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.819178,35.41493,-89.819178,35.41493",
     "geom:latitude":35.41493,
     "geom:longitude":-89.819178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2148 Tipton Rd",
     "sg:city":"Atoka",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125154645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NBnQ4TBRtparDUj66l5SZ_35.414930_-89.819178@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608133,
-    "wof:geomhash":"93b0177f06d70e453e5fe1c41624d4a0",
+    "wof:geomhash":"bc00153bbf16edbb13ea8b9cc4beea42",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823185127,
-    "wof:lastmodified":1467083593,
+    "wof:lastmodified":1510699362,
     "wof:name":"Helena Chemical Co",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

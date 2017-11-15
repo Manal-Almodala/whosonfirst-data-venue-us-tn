@@ -2,14 +2,20 @@
   "id": 806661561,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Bypass Rd Winchester TN 37398",
+    "addr:housenumber":"215",
+    "addr:postcode":"37398",
+    "addr:street":"Bypass Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.093861,35.19606,-86.093861,35.19606",
     "geom:latitude":35.19606,
     "geom:longitude":-86.093861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Bypass Rd",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086227,
         420541559
     ],
+    "wof:brand_id":1125156155,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Jjn270bm5mhOQgXSzAq6w_35.196060_-86.093861@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600015,
-    "wof:geomhash":"49be707f5ed4b71cbee724f4131eaae1",
+    "wof:geomhash":"00440b2fb037fb1511591b6195534580",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806661561,
-    "wof:lastmodified":1467083337,
+    "wof:lastmodified":1510696657,
     "wof:name":"Tropical Tan",
     "wof:parent_id":420541559,
     "wof:placetype":"venue",

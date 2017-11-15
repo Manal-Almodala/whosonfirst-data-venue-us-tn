@@ -2,9 +2,14 @@
   "id": 789966113,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Ridgewood Rd Franklin TN 37064",
+    "addr:housenumber":"116",
+    "addr:postcode":"37064",
+    "addr:street":"Ridgewood Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.85538,35.860444,-86.85538,35.860444",
     "geom:latitude":35.860444,
     "geom:longitude":-86.85538,
@@ -28,12 +33,7 @@
         "designer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44kJFFCfEwhp1pwffLQYpZ_35.860444_-86.855380@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462592048,
     "wof:geomhash":"f26cc7082193edbaca92e05648217976",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789966113
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789966113,
-    "wof:lastmodified":1467083088,
+    "wof:lastmodified":1491930837,
     "wof:name":"Neubauer Design Group",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

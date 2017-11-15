@@ -2,14 +2,20 @@
   "id": 807235005,
   "type": "Feature",
   "properties": {
+    "addr:full":"99 Seaboard Ln Brentwood TN 37027",
+    "addr:housenumber":"99",
+    "addr:postcode":"37027",
+    "addr:street":"Seaboard Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.820056,35.962388,-86.820056,35.962388",
     "geom:latitude":35.962388,
     "geom:longitude":-86.820056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"99 Seaboard Ln",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":1125152107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IxsKKivfqRSgeFGwRQFxp_35.962388_-86.820056@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605165,
-    "wof:geomhash":"9edfc04900f1ac96a3886c1f8e36c5ac",
+    "wof:geomhash":"ed5bc0dc2ebb0cde26c98849097783c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807235005,
-    "wof:lastmodified":1467083501,
+    "wof:lastmodified":1510694960,
     "wof:name":"Signs By Tomorrow",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

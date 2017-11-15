@@ -2,14 +2,20 @@
   "id": 789604921,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Chestnut St Chattanooga TN 37402",
+    "addr:housenumber":"401",
+    "addr:postcode":"37402",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.311775,35.052212,-85.311775,35.052212",
     "geom:latitude":35.052212,
     "geom:longitude":-85.311775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 Chestnut St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85876727
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0m7j84BEQzSNImj9uD3ow6_35.052212_-85.311775@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589103,
-    "wof:geomhash":"b873dcb1a24fb046ae010015e739d711",
+    "wof:geomhash":"083e46977ea15778ae48dca3d5ad9d77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789604921,
-    "wof:lastmodified":1467083001,
+    "wof:lastmodified":1510602714,
     "wof:name":"Central Parking System",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",

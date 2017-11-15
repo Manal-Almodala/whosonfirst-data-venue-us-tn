@@ -2,14 +2,20 @@
   "id": 807302293,
   "type": "Feature",
   "properties": {
+    "addr:full":"9231 Lee Hwy Ooltewah TN 37363",
+    "addr:housenumber":"9231",
+    "addr:postcode":"37363",
+    "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.059537,35.083277,-85.059537,35.083277",
     "geom:latitude":35.083277,
     "geom:longitude":-85.059537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9231 Lee Hwy",
     "sg:city":"Ooltewah",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087185,
         85848781
     ],
+    "wof:brand_id":1125150299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5b08TKomCUvNAkutU0WxEL_35.083277_-85.059537@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605875,
-    "wof:geomhash":"f766491d64e6e5d84955e2acf1da3e4d",
+    "wof:geomhash":"a7c68cddf89634d4265a0a6864becbd1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807302293,
-    "wof:lastmodified":1467083524,
+    "wof:lastmodified":1510699737,
     "wof:name":"Donut Palace",
     "wof:parent_id":85848781,
     "wof:placetype":"venue",

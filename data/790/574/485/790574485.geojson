@@ -2,14 +2,20 @@
   "id": 790574485,
   "type": "Feature",
   "properties": {
+    "addr:full":"2516 Mahala Ln Chattanooga TN 37421",
+    "addr:housenumber":"2516",
+    "addr:postcode":"37421",
+    "addr:street":"Mahala Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.173196,35.056071,-85.173196,35.056071",
     "geom:latitude":35.056071,
     "geom:longitude":-85.173196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2516 Mahala Ln",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         420541631
     ],
+    "wof:brand_id":1125151095,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zVa2rkejmLTDBW7uiH702_35.056071_-85.173196@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596995,
-    "wof:geomhash":"54dc5264d53f9dcfd08bd1f24e66027f",
+    "wof:geomhash":"840d54639c3505b47d0702d7fdbf3e20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790574485,
-    "wof:lastmodified":1467083238,
+    "wof:lastmodified":1510699971,
     "wof:name":"Stanley Home Products",
     "wof:parent_id":420541631,
     "wof:placetype":"venue",

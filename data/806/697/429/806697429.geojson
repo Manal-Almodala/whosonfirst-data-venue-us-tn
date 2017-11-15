@@ -2,14 +2,20 @@
   "id": 806697429,
   "type": "Feature",
   "properties": {
+    "addr:full":"11 Murray Guard Dr Jackson TN 38305",
+    "addr:housenumber":"11",
+    "addr:postcode":"38305",
+    "addr:street":"Murray Guard Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.854193,35.690716,-88.854193,35.690716",
     "geom:latitude":35.690716,
     "geom:longitude":-88.854193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11 Murray Guard Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7SBjrKpUsCCRfWfiwaY6Qq_35.690716_-88.854193@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600315,
-    "wof:geomhash":"193b613053dab98954ac776f5940c392",
+    "wof:geomhash":"f3d7c330d9299c121deeacb3f1c0ceab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806697429,
-    "wof:lastmodified":1467083347,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

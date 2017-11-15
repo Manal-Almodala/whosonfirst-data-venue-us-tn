@@ -2,9 +2,14 @@
   "id": 789834293,
   "type": "Feature",
   "properties": {
+    "addr:full":"4526 S Carothers Rd Franklin TN 37064",
+    "addr:housenumber":"4526",
+    "addr:postcode":"37064",
+    "addr:street":"S Carothers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.799801,35.879058,-86.799801,35.879058",
     "geom:latitude":35.879058,
     "geom:longitude":-86.799801,
@@ -25,12 +30,7 @@
     "sg:province":"TN",
     "sg:website":"www.trinityfranklin.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0prpe4J341cAU5fuI7RSUM_35.879058_-86.799801@1294204733"
@@ -38,17 +38,9 @@
     "wof:country":"US",
     "wof:created":1462590901,
     "wof:geomhash":"62fb89d933a923ae09b527f4abc5ff5e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":789834293
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789834293,
-    "wof:lastmodified":1467083056,
+    "wof:lastmodified":1491924955,
     "wof:name":"Trinity Baptist Church",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

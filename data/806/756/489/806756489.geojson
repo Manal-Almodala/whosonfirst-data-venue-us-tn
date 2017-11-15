@@ -2,14 +2,20 @@
   "id": 806756489,
   "type": "Feature",
   "properties": {
+    "addr:full":"531 Old Hwy 46 S Dickson TN 37055",
+    "addr:housenumber":"531",
+    "addr:postcode":"37055",
+    "addr:street":"Old Hwy 46 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.329879,36.001735,-87.329879,36.001735",
     "geom:latitude":36.001735,
     "geom:longitude":-87.329879,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"531 Old Hwy 46 S",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jR8FoAk03aB6yPiIBO3iL_36.001735_-87.329879@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600817,
-    "wof:geomhash":"7b1e36a8aca678a6b6916627ebfcc025",
+    "wof:geomhash":"c86b734fb12c88accf987fd0af89f4b2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806756489,
-    "wof:lastmodified":1467083365,
+    "wof:lastmodified":1510693723,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

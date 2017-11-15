@@ -2,9 +2,14 @@
   "id": 773283207,
   "type": "Feature",
   "properties": {
+    "addr:full":"4765 Harpeth-Peytonsville Rd Thompsons Station TN 37179",
+    "addr:housenumber":"4765",
+    "addr:postcode":"37179",
+    "addr:street":"Harpeth-Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.815229,35.798911,-86.815229,35.798911",
     "geom:latitude":35.798911,
     "geom:longitude":-86.815229,
@@ -24,12 +29,7 @@
     "sg:postcode":"37179",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73gZMEsp8ksxhyrPlovkUK_35.798911_-86.815229@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462584544,
     "wof:geomhash":"1962526cb6e01b9459dbc7e271629875",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773283207
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773283207,
-    "wof:lastmodified":1467082856,
+    "wof:lastmodified":1491930828,
     "wof:name":"Solid Surfaces Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789714247,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 W Bruce St Sevierville TN 37862",
+    "addr:housenumber":"130",
+    "addr:postcode":"37862",
+    "addr:street":"W Bruce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.565893,35.867382,-83.565893,35.867382",
     "geom:latitude":35.867382,
     "geom:longitude":-83.565893,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"130 W Bruce St",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086245,
         85841771
     ],
+    "wof:brand_id":1125150895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16HRkpOFQEPwh92OULF9WX_35.867382_-83.565893@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589968,
-    "wof:geomhash":"2661e8ca3c2243efa63d1cc670cdf76b",
+    "wof:geomhash":"dee89d958913f76c56798763e116ffee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789714247,
-    "wof:lastmodified":1467083028,
+    "wof:lastmodified":1510696671,
     "wof:name":"Citizens National Bank",
     "wof:parent_id":85841771,
     "wof:placetype":"venue",

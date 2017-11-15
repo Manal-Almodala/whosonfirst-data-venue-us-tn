@@ -2,14 +2,20 @@
   "id": 823213587,
   "type": "Feature",
   "properties": {
+    "addr:full":"77 Union Ave Memphis TN 38103",
+    "addr:housenumber":"77",
+    "addr:postcode":"38103",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.053621,35.143212,-90.053621,35.143212",
     "geom:latitude":35.143212,
     "geom:longitude":-90.053621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"77 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85867179
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pCDbltxzMy5Xp90jBIQun_35.143212_-90.053621@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608594,
-    "wof:geomhash":"6a7ec69bc316d4e7e3539bcae874c38a",
+    "wof:geomhash":"17ecef2edc5f9cfdf3c37f9ed1619fb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823213587,
-    "wof:lastmodified":1467083609,
+    "wof:lastmodified":1510602715,
     "wof:name":"Central Parking System",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",

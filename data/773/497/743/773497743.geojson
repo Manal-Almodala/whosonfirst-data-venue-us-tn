@@ -2,14 +2,20 @@
   "id": 773497743,
   "type": "Feature",
   "properties": {
+    "addr:full":"2620 Clarksville Pike Nashville TN 37208",
+    "addr:housenumber":"2620",
+    "addr:postcode":"37208",
+    "addr:street":"Clarksville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.821297,36.187889,-86.821297,36.187889",
     "geom:latitude":36.187889,
     "geom:longitude":-86.821297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2620 Clarksville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85806715
     ],
+    "wof:brand_id":420575233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13jXLLyyLE98mdAHJD183G_36.187889_-86.821297@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586190,
-    "wof:geomhash":"d8090a0b269a7c04c4d1196a69e8cee6",
+    "wof:geomhash":"86b9ce5f6d59f49fe1131821b74c95d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773497743,
-    "wof:lastmodified":1467082910,
+    "wof:lastmodified":1510602066,
     "wof:name":"IKON Office Solutions",
     "wof:parent_id":85806715,
     "wof:placetype":"venue",

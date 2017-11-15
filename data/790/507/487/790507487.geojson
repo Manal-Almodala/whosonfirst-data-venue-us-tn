@@ -2,14 +2,20 @@
   "id": 790507487,
   "type": "Feature",
   "properties": {
+    "addr:full":"835 Congress Pkwy NW Athens TN 37303",
+    "addr:housenumber":"835",
+    "addr:postcode":"37303",
+    "addr:street":"Congress Pkwy Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.615299,35.458513,-84.615299,35.458513",
     "geom:latitude":35.458513,
     "geom:longitude":-84.615299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"835 Congress Pkwy NW",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086293,
         85808247
     ],
+    "wof:brand_id":1125158291,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78vi4Jl3STidhn7XMH4XsT_35.458513_-84.615299@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596430,
-    "wof:geomhash":"318aaafb5b161e735b18653524be401f",
+    "wof:geomhash":"b53110f862bc5d95faca56af42658383",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790507487,
-    "wof:lastmodified":1467083219,
+    "wof:lastmodified":1510695814,
     "wof:name":"First Security Bank",
     "wof:parent_id":85808247,
     "wof:placetype":"venue",

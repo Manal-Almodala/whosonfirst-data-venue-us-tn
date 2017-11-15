@@ -2,14 +2,20 @@
   "id": 807081803,
   "type": "Feature",
   "properties": {
+    "addr:full":"4147 US Hwy 411 Ocoee TN 37361",
+    "addr:housenumber":"4147",
+    "addr:postcode":"37361",
+    "addr:street":"Us Hwy 411",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.715031,35.131276,-84.715031,35.131276",
     "geom:latitude":35.131276,
     "geom:longitude":-84.715031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4147 US Hwy 411",
     "sg:city":"Ocoee",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083599,
         420517825
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FLun7fFocxL6qkcxuVddI_35.131276_-84.715031@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603548,
-    "wof:geomhash":"b9ee286d018f7bd501ebe5ccdf1f0acc",
+    "wof:geomhash":"50e1bc31a2cc0e77f8176f5e3e3941c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807081803,
-    "wof:lastmodified":1467083455,
+    "wof:lastmodified":1510602936,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

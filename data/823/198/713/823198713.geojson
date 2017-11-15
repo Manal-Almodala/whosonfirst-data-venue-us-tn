@@ -2,14 +2,20 @@
   "id": 823198713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1595 Sumac Rd Pulaski TN 38478",
+    "addr:housenumber":"1595",
+    "addr:postcode":"38478",
+    "addr:street":"Sumac Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.931743,35.253371,-86.931743,35.253371",
     "geom:latitude":35.253371,
     "geom:longitude":-86.931743,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1595 Sumac Rd",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086333,
         420558609
     ],
+    "wof:brand_id":1125152965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0042yt5Bcq8vZrZCWo4sWo_35.253371_-86.931743@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608323,
-    "wof:geomhash":"3bbf1f56fb89a74d0ff5cdf93ffa46bf",
+    "wof:geomhash":"b5f39ea9d8c823943414bb95dfa54c2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823198713,
-    "wof:lastmodified":1467083599,
+    "wof:lastmodified":1510612914,
     "wof:name":"New Zion Baptist Church",
     "wof:parent_id":420558609,
     "wof:placetype":"venue",

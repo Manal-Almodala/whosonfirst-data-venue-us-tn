@@ -2,14 +2,20 @@
   "id": 789977569,
   "type": "Feature",
   "properties": {
+    "addr:full":"3014 Owen Dr Antioch TN 37013",
+    "addr:housenumber":"3014",
+    "addr:postcode":"37013",
+    "addr:street":"Owen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.620267,36.018312,-86.620267,36.018312",
     "geom:latitude":36.018312,
     "geom:longitude":-86.620267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3014 Owen Dr",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85828335
     ],
+    "wof:brand_id":1125159283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rxwRes3zEztphBXnYzo41_36.018312_-86.620267@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592148,
-    "wof:geomhash":"fa91da9e934b103f88a558602a174bd6",
+    "wof:geomhash":"6d06103f8e3e8e945f0d08a122c4c543",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789977569,
-    "wof:lastmodified":1467083091,
+    "wof:lastmodified":1510696630,
     "wof:name":"Keebler",
     "wof:parent_id":85828335,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773247091,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Morris Rd Clarksville TN 37040",
+    "addr:housenumber":"110",
+    "addr:postcode":"37040",
+    "addr:street":"Morris Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.288725,36.592783,-87.288725,36.592783",
     "geom:latitude":36.592783,
     "geom:longitude":-87.288725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Morris Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086353,
         85804513
     ],
+    "wof:brand_id":1125158611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Sq9FWlCPT2G7y97vPV9hI_36.592783_-87.288725@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584265,
-    "wof:geomhash":"f061db30924d59cb0d2eb3884179be98",
+    "wof:geomhash":"6a257570c9e8e598d28976250edaa55a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773247091,
-    "wof:lastmodified":1467082844,
+    "wof:lastmodified":1510697762,
     "wof:name":"Putt Putt Golf & Games",
     "wof:parent_id":85804513,
     "wof:placetype":"venue",

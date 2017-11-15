@@ -2,14 +2,20 @@
   "id": 790170853,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 W E H Crump Blvd Memphis TN 38106",
+    "addr:housenumber":"32",
+    "addr:postcode":"38106",
+    "addr:street":"W E H Crump Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.062792,35.124785,-90.062792,35.124785",
     "geom:latitude":35.124785,
     "geom:longitude":-90.062792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32 W E H Crump Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85893427
     ],
+    "wof:brand_id":1125154795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lixOB6hMZ5RhT7HrgBz3V_35.124785_-90.062792@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593701,
-    "wof:geomhash":"1e7ebe77d48dd1ef2755b426236a5caf",
+    "wof:geomhash":"e641e977b545ef6f06c3a19625e6c3cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790170853,
-    "wof:lastmodified":1467083137,
+    "wof:lastmodified":1510693704,
     "wof:name":"Probation & Parole Ofc",
     "wof:parent_id":85893427,
     "wof:placetype":"venue",

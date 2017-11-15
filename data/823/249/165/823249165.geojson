@@ -2,14 +2,20 @@
   "id": 823249165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 W Market St Johnson City TN 37604",
+    "addr:housenumber":"1800",
+    "addr:postcode":"37604",
+    "addr:street":"W Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.385873,36.312526,-82.385873,36.312526",
     "geom:latitude":36.312526,
     "geom:longitude":-82.385873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 W Market St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086335,
         420542269
     ],
+    "wof:brand_id":420575727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Q9Dejjj5bBixNw3Y0ko0D_36.312526_-82.385873@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609317,
-    "wof:geomhash":"9874870aa82e3b927c54816b45d35698",
+    "wof:geomhash":"b0b902e3ec41eff2b91399828de24afd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823249165,
-    "wof:lastmodified":1467083634,
+    "wof:lastmodified":1510607690,
     "wof:name":"Pizza Inn",
     "wof:parent_id":420542269,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773536033,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Broad St Kingsport TN 37660",
+    "addr:housenumber":"800",
+    "addr:postcode":"37660",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.553932,36.551753,-82.553932,36.551753",
     "geom:latitude":36.551753,
     "geom:longitude":-82.553932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Broad St",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086471,
         420560139
     ],
+    "wof:brand_id":1125152147,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TOv5O2sqYxp2JtWYUc4sY_36.551753_-82.553932@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586452,
-    "wof:geomhash":"74633bc6d140d8b479a4932e5337e952",
+    "wof:geomhash":"980190914f7c19ac701032659d2a624f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773536033,
-    "wof:lastmodified":1467082919,
+    "wof:lastmodified":1510693734,
     "wof:name":"Holy Trinity Lutheran Church",
     "wof:parent_id":420560139,
     "wof:placetype":"venue",

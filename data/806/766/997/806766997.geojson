@@ -2,14 +2,20 @@
   "id": 806766997,
   "type": "Feature",
   "properties": {
+    "addr:full":"297 Oak Ridge Tpke Oak Ridge TN 37830",
+    "addr:housenumber":"297",
+    "addr:postcode":"37830",
+    "addr:street":"Oak Ridge Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.217696,36.040326,-84.217696,36.040326",
     "geom:latitude":36.040326,
     "geom:longitude":-84.217696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"297 Oak Ridge Tpke",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086483,
         85818065
     ],
+    "wof:brand_id":1125150835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BnbevVNUrGP1Qm4K6ifiL_36.040326_-84.217696@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600905,
-    "wof:geomhash":"41e80486945664284248fa82ecc29ed0",
+    "wof:geomhash":"164ac4b7fa61ce9994fc8fc0c4e4bf43",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806766997,
-    "wof:lastmodified":1467083367,
+    "wof:lastmodified":1510695414,
     "wof:name":"Lincare Inc",
     "wof:parent_id":85818065,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790304773,
   "type": "Feature",
   "properties": {
+    "addr:full":"5710 Kingston Pike Knoxville TN 37919",
+    "addr:housenumber":"5710",
+    "addr:postcode":"37919",
+    "addr:street":"Kingston Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.997093,35.934079,-83.997093,35.934079",
     "geom:latitude":35.934079,
     "geom:longitude":-83.997093,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5710 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85805071
     ],
+    "wof:brand_id":1125150443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48HcRFEOoLWNVrejEUbIiW_35.934079_-83.997093@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594803,
-    "wof:geomhash":"4eafd75decb8ec8b28b5dc441da347da",
+    "wof:geomhash":"cd3574ff18b3f64c32c4b1ba6acc5794",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790304773,
-    "wof:lastmodified":1467083168,
+    "wof:lastmodified":1510697662,
     "wof:name":"Mattress Discounters",
     "wof:parent_id":85805071,
     "wof:placetype":"venue",

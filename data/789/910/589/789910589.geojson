@@ -2,14 +2,20 @@
   "id": 789910589,
   "type": "Feature",
   "properties": {
+    "addr:full":"219 Ward Cir Brentwood TN 37027",
+    "addr:housenumber":"219",
+    "addr:postcode":"37027",
+    "addr:street":"Ward Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802737,36.032699,-86.802737,36.032699",
     "geom:latitude":36.032699,
     "geom:longitude":-86.802737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"219 Ward Cir",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85833469
     ],
+    "wof:brand_id":1125155265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46TmcMw4Iy8O9EnkdFkILl_36.032699_-86.802737@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591544,
-    "wof:geomhash":"79cc701d2c0c2dd2f78cf025c463db41",
+    "wof:geomhash":"fe01df5085a33902905421b97d9fea15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789910589,
-    "wof:lastmodified":1467083075,
+    "wof:lastmodified":1510699739,
     "wof:name":"Juice Plus",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",

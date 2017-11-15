@@ -2,14 +2,20 @@
   "id": 790201315,
   "type": "Feature",
   "properties": {
+    "addr:full":"151 Chaffin Pl Murfreesboro TN 37129",
+    "addr:housenumber":"151",
+    "addr:postcode":"37129",
+    "addr:street":"Chaffin Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.430356,35.844794,-86.430356,35.844794",
     "geom:latitude":35.844794,
     "geom:longitude":-86.430356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"151 Chaffin Pl",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45uLQgbAuht32I64p1BFek_35.844794_-86.430356@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593969,
-    "wof:geomhash":"834093890aa49ff7f267e366e6d5ab75",
+    "wof:geomhash":"7366b17e5d0c93991a4aad6024463967",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790201315,
-    "wof:lastmodified":1467083144,
+    "wof:lastmodified":1510694887,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

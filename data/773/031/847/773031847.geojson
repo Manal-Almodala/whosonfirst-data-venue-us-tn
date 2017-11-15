@@ -2,14 +2,20 @@
   "id": 773031847,
   "type": "Feature",
   "properties": {
+    "addr:full":"7320 Chapman Hwy Knoxville TN 37920",
+    "addr:housenumber":"7320",
+    "addr:postcode":"37920",
+    "addr:street":"Chapman Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.847356,35.909072,-83.847356,35.909072",
     "geom:latitude":35.909072,
     "geom:longitude":-83.847356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7320 Chapman Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85833365
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KdYeLg23frFuJmvjAHC9o_35.909072_-83.847356@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582579,
-    "wof:geomhash":"f02b266396cdaf7f0180e2c7c93ebe77",
+    "wof:geomhash":"2c2813a86bfcfccdb3ba56b05dbbeb6a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773031847,
-    "wof:lastmodified":1467082784,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85833365,
     "wof:placetype":"venue",

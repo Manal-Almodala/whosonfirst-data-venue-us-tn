@@ -2,14 +2,20 @@
   "id": 789913055,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Beasley Dr Franklin TN 37064",
+    "addr:housenumber":"107",
+    "addr:postcode":"37064",
+    "addr:street":"Beasley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.8793,35.899183,-86.8793,35.899183",
     "geom:latitude":35.899183,
     "geom:longitude":-86.8793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 Beasley Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85851291
     ],
+    "wof:brand_id":1125152645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KHG8thIaptonnn6gVThzg_35.899183_-86.879300@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591565,
-    "wof:geomhash":"6aa7b3928d46fc92b990487b35a96730",
+    "wof:geomhash":"f39402729831ea0e9ed0d746facd71d9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789913055,
-    "wof:lastmodified":1467083075,
+    "wof:lastmodified":1510699628,
     "wof:name":"Computer Doctor",
     "wof:parent_id":85851291,
     "wof:placetype":"venue",

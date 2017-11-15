@@ -2,14 +2,20 @@
   "id": 823287531,
   "type": "Feature",
   "properties": {
+    "addr:full":"962 S Shady Grove Rd Memphis TN 38120",
+    "addr:housenumber":"962",
+    "addr:postcode":"38120",
+    "addr:street":"S Shady Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.85929,35.10548,-89.85929,35.10548",
     "geom:latitude":35.10548,
     "geom:longitude":-89.85929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"962 S Shady Grove Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85857485
     ],
+    "wof:brand_id":1125151431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QiXjfK1QipruQf6KJ7wbW_35.105480_-89.859290@1303262743"
     },
     "wof:country":"US",
     "wof:created":1462610607,
-    "wof:geomhash":"d452de7cc0b2f1aea357bd20d3c7e628",
+    "wof:geomhash":"038410b6c50a6225faa6fb398b872d93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823287531,
-    "wof:lastmodified":1467083680,
+    "wof:lastmodified":1510697097,
     "wof:name":"Hampton Inn and Suites",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807111897,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Long Hollow Ct Goodlettsville TN 37072",
+    "addr:housenumber":"104",
+    "addr:postcode":"37072",
+    "addr:street":"Long Hollow Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.652754,36.36655,-86.652754,36.36655",
     "geom:latitude":36.36655,
     "geom:longitude":-86.652754,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"2947b15728d2017bc6f30757a706aa73",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807111897,
-    "wof:lastmodified":1467083461,
+    "wof:lastmodified":1491939239,
     "wof:name":"Robert Black Inspections",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

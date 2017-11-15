@@ -2,14 +2,20 @@
   "id": 790416359,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Northgate Mall Chattanooga TN 37415",
+    "addr:housenumber":"301",
+    "addr:postcode":"37415",
+    "addr:street":"Northgate Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.244543,35.137475,-85.244543,35.137475",
     "geom:latitude":35.137475,
     "geom:longitude":-85.244543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Northgate Mall",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85825769
     ],
+    "wof:brand_id":1125151365,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7E0mPrh10a7VnoD8uQiG3Q_35.137475_-85.244543@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595655,
-    "wof:geomhash":"96a3a6274e193579682fedd134b0e1f2",
+    "wof:geomhash":"916b3fd7543a152a79389aff86e86031",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790416359,
-    "wof:lastmodified":1467083195,
+    "wof:lastmodified":1510696776,
     "wof:name":"J C Penney Optical",
     "wof:parent_id":85825769,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789644127,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 Sequoia Rd NW Cleveland TN 37312",
+    "addr:housenumber":"245",
+    "addr:postcode":"37312",
+    "addr:street":"Sequoia Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.8404,35.206967,-84.8404,35.206967",
     "geom:latitude":35.206967,
     "geom:longitude":-84.8404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"245 Sequoia Rd NW",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087043,
         85847789
     ],
+    "wof:brand_id":420575791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6h9LgGdkJNxZ79amYmjnFP_35.206967_-84.840400@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589403,
-    "wof:geomhash":"1be7570ec33569ca361e60b6fb5cdb43",
+    "wof:geomhash":"c2422c6a5da55b807825a58ff059f881",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789644127,
-    "wof:lastmodified":1467083011,
+    "wof:lastmodified":1510615107,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85847789,
     "wof:placetype":"venue",

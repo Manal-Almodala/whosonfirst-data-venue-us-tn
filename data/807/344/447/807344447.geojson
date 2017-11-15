@@ -2,14 +2,20 @@
   "id": 807344447,
   "type": "Feature",
   "properties": {
+    "addr:full":"3965 S Mendenhall Rd Memphis TN 38115",
+    "addr:housenumber":"3965",
+    "addr:postcode":"38115",
+    "addr:street":"S Mendenhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.885566,35.040229,-89.885566,35.040229",
     "geom:latitude":35.040229,
     "geom:longitude":-89.885566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3965 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         85870783,
         85870785
     ],
+    "wof:brand_id":1125155471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ljDw18EAzMWgWsf49Bkai_35.040229_-89.885566@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606413,
-    "wof:geomhash":"fa567f57fa1ef24738e7f046afbe491d",
+    "wof:geomhash":"1a18a4aa051b4faeb28c610e665c1c21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,7 +79,7 @@
         }
     ],
     "wof:id":807344447,
-    "wof:lastmodified":1467083542,
+    "wof:lastmodified":1510612912,
     "wof:name":"Concentra Medical Center",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

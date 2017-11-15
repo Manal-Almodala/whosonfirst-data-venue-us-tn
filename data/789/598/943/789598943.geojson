@@ -2,14 +2,20 @@
   "id": 789598943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1475 Old US Hwy 27 Robbins TN 37852",
+    "addr:housenumber":"1475",
+    "addr:postcode":"37852",
+    "addr:street":"Old Us Hwy 27",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.58313,36.382652,-84.58313,36.382652",
     "geom:latitude":36.382652,
     "geom:longitude":-84.58313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1475 Old US Hwy 27",
     "sg:city":"Robbins",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087113,
         420542103
     ],
+    "wof:brand_id":1125158359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23mueTQ87zNOU0yUKGNSaT_36.382652_-84.583130@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589056,
-    "wof:geomhash":"8fe269ed0e36555e5fcc0f161d86ed00",
+    "wof:geomhash":"a0f26990135a3e8244f4cc7233317b5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789598943,
-    "wof:lastmodified":1467083000,
+    "wof:lastmodified":1510694186,
     "wof:name":"Mountain View Baptist Church",
     "wof:parent_id":420542103,
     "wof:placetype":"venue",

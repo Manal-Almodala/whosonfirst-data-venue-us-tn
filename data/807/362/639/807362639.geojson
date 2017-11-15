@@ -2,14 +2,20 @@
   "id": 807362639,
   "type": "Feature",
   "properties": {
+    "addr:full":"1628 W Broadway Ave Maryville TN 37801",
+    "addr:housenumber":"1628",
+    "addr:postcode":"37801",
+    "addr:street":"W Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.990861,35.73766,-83.990861,35.73766",
     "geom:latitude":35.73766,
     "geom:longitude":-83.990861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1628 W Broadway Ave",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087017,
         420541405
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J2HcQwCZU4Y0Vfu1A16Ht_35.737660_-83.990861@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606691,
-    "wof:geomhash":"e650069ee76aee6739634f0d418ba33f",
+    "wof:geomhash":"092c0ac7c25d7931afd279bb9d8d8a06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807362639,
-    "wof:lastmodified":1467083550,
+    "wof:lastmodified":1510699574,
     "wof:name":"Pretty Nails",
     "wof:parent_id":420541405,
     "wof:placetype":"venue",

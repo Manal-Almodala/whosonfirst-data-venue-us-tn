@@ -2,14 +2,20 @@
   "id": 773791765,
   "type": "Feature",
   "properties": {
+    "addr:full":"7948 Winchester Rd Memphis TN 38125",
+    "addr:housenumber":"7948",
+    "addr:postcode":"38125",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.798711,35.048626,-89.798711,35.048626",
     "geom:latitude":35.048626,
     "geom:longitude":-89.798711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7948 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85850355,
         102087213
     ],
+    "wof:brand_id":1125151913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xc7Ao2it4nTSsF1j3d1H0_35.048626_-89.798711@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588401,
-    "wof:geomhash":"d1f021a78d5096c9b1618a87ed7a009b",
+    "wof:geomhash":"a86b25a888c4ea4958d288e9adf83147",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":773791765,
-    "wof:lastmodified":1467082980,
+    "wof:lastmodified":1510699396,
     "wof:name":"Steak Escape",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",

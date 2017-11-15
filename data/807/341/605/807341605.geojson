@@ -2,14 +2,20 @@
   "id": 807341605,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 S Liberty Hill Rd Morristown TN 37813",
+    "addr:housenumber":"410",
+    "addr:postcode":"37813",
+    "addr:street":"S Liberty Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.27805,36.214948,-83.27805,36.214948",
     "geom:latitude":36.214948,
     "geom:longitude":-83.27805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 S Liberty Hill Rd",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":1125155501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uk6rp0OIpfybXYROBHBQs_36.214948_-83.278050@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606371,
-    "wof:geomhash":"fb99aa0e3d0b5c3edc64317c63bccca0",
+    "wof:geomhash":"299c1075d0b5c9f29b41a35192ef4f25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807341605,
-    "wof:lastmodified":1467083540,
+    "wof:lastmodified":1510696758,
     "wof:name":"Hillcrest Baptist Church",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

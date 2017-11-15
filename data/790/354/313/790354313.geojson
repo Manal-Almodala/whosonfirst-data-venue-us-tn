@@ -2,14 +2,20 @@
   "id": 790354313,
   "type": "Feature",
   "properties": {
+    "addr:full":"4920 Hickory Hill Rd Memphis TN 38141",
+    "addr:housenumber":"4920",
+    "addr:postcode":"38141",
+    "addr:street":"Hickory Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.865985,35.015993,-89.865985,35.015993",
     "geom:latitude":35.015993,
     "geom:longitude":-89.865985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4920 Hickory Hill Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":1125159767,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_45OgnlMb4anfxdMhpXfYAg_35.015993_-89.865985@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595171,
-    "wof:geomhash":"465cb4798e520bcccc8c418690fd6f21",
+    "wof:geomhash":"1aae31bc929fbf31999b30fbb356f5bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790354313,
-    "wof:lastmodified":1467083180,
+    "wof:lastmodified":1510697203,
     "wof:name":"AAA Cooper Transportation",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

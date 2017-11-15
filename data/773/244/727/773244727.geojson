@@ -2,14 +2,20 @@
   "id": 773244727,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Fort Henry Dr Kingsport TN 37664",
+    "addr:housenumber":"1700",
+    "addr:postcode":"37664",
+    "addr:street":"Fort Henry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.527521,36.532474,-82.527521,36.532474",
     "geom:latitude":36.532474,
     "geom:longitude":-82.527521,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 Fort Henry Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086471,
         85818419
     ],
+    "wof:brand_id":1125154033,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MCg5FAMufLiB6mF6yVdxk_36.532474_-82.527521@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584248,
-    "wof:geomhash":"c4e5fcc12593013d2fcac3660a43190e",
+    "wof:geomhash":"617a69fb35c1bda47062eeffc3df7073",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773244727,
-    "wof:lastmodified":1467082843,
+    "wof:lastmodified":1510696082,
     "wof:name":"Concord Custom Cleaners",
     "wof:parent_id":85818419,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773390459,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 Market St Chattanooga TN 37405",
+    "addr:housenumber":"138",
+    "addr:postcode":"37405",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.308754,35.064239,-85.308754,35.064239",
     "geom:latitude":35.064239,
     "geom:longitude":-85.308754,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"138 Market St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85876743
     ],
+    "wof:brand_id":1125155899,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4KQY3thcmIfXE2ublHViOz_35.064239_-85.308754@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585334,
-    "wof:geomhash":"887985835a20bc6de2a68e01a7093d3d",
+    "wof:geomhash":"bdf6d7c25f77c0a13c8ba6103024abb0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773390459,
-    "wof:lastmodified":1467082884,
+    "wof:lastmodified":1510699292,
     "wof:name":"Cheeburger Cheeburger",
     "wof:parent_id":85876743,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806774617,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Crossings Pl Antioch TN 37013",
+    "addr:housenumber":"201",
+    "addr:postcode":"37013",
+    "addr:street":"Crossings Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.646728,36.04401,-86.646728,36.04401",
     "geom:latitude":36.04401,
     "geom:longitude":-86.646728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Crossings Pl",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85846409,
         85835767
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_18MbNGHNke778j8QRlDZL0_36.044010_-86.646728@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600973,
-    "wof:geomhash":"1d3d864c15a178c49ebf5fb76d9a2729",
+    "wof:geomhash":"9ce382991ae942ec9802185a35c31afb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":806774617,
-    "wof:lastmodified":1467083370,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

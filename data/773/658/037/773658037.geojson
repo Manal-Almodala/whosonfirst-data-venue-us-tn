@@ -2,14 +2,20 @@
   "id": 773658037,
   "type": "Feature",
   "properties": {
+    "addr:full":"6070 Carothers Pkwy Franklin TN 37067",
+    "addr:housenumber":"6070",
+    "addr:postcode":"37067",
+    "addr:street":"Carothers Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.810031,35.942592,-86.810031,35.942592",
     "geom:latitude":35.942592,
     "geom:longitude":-86.810031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6070 Carothers Pkwy",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85830431
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62tv3saju73IunouccCsSU_35.942592_-86.810031@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587379,
-    "wof:geomhash":"01cf25d909d96aa70457c784e850d6b1",
+    "wof:geomhash":"f04eb936cab18508d096486a01471b9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773658037,
-    "wof:lastmodified":1467082948,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85830431,
     "wof:placetype":"venue",

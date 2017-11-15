@@ -2,14 +2,20 @@
   "id": 789960797,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 W Railroad St Morrison TN 37357",
+    "addr:housenumber":"150",
+    "addr:postcode":"37357",
+    "addr:street":"W Railroad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.920318,35.60299,-85.920318,35.60299",
     "geom:latitude":35.60299,
     "geom:longitude":-85.920318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 W Railroad St",
     "sg:city":"Morrison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086399,
         420542245
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xrs3NHtOSiYmxyMFj6Z87_35.602990_-85.920318@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592005,
-    "wof:geomhash":"ad92881d62a9158ec0588959856a1309",
+    "wof:geomhash":"323d07232e834e24529a0e09152758a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789960797,
-    "wof:lastmodified":1467083087,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":420542245,
     "wof:placetype":"venue",

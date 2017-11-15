@@ -2,9 +2,14 @@
   "id": 807042121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1276 Lewisburg Pike Franklin TN 37064",
+    "addr:housenumber":"1276",
+    "addr:postcode":"37064",
+    "addr:street":"Lewisburg Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.845968,35.86604,-86.845968,35.86604",
     "geom:latitude":35.86604,
     "geom:longitude":-86.845968,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5glwaplJzbvA9P5Pkc5gmg_35.866040_-86.845968@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462603229,
     "wof:geomhash":"268954049a7b9e82e0f02447cec52b0a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807042121
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807042121,
-    "wof:lastmodified":1467083443,
+    "wof:lastmodified":1491930832,
     "wof:name":"James Lehnhart Insurance",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

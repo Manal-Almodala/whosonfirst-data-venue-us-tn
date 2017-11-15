@@ -2,14 +2,20 @@
   "id": 773065403,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Highland Ave Jackson TN 38301",
+    "addr:housenumber":"100",
+    "addr:postcode":"38301",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.819328,35.615172,-88.819328,35.615172",
     "geom:latitude":35.615172,
     "geom:longitude":-88.819328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 N Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087221,
         85868161
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00xe9JKmsenulsWS90qsdw_35.615172_-88.819328@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582896,
-    "wof:geomhash":"223ecb8c3d65dd3ab63f866186cb7429",
+    "wof:geomhash":"0f90066a5e02fcb3e05226f9fb2aa1a2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773065403,
-    "wof:lastmodified":1467082795,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85868161,
     "wof:placetype":"venue",

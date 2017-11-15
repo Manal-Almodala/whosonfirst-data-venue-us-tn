@@ -2,14 +2,20 @@
   "id": 790326559,
   "type": "Feature",
   "properties": {
+    "addr:full":"5704 Nolensville Pike Nashville TN 37211",
+    "addr:housenumber":"5704",
+    "addr:postcode":"37211",
+    "addr:street":"Nolensville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.713368,36.047179,-86.713368,36.047179",
     "geom:latitude":36.047179,
     "geom:longitude":-86.713368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5704 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85852849
     ],
+    "wof:brand_id":1125157567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i6ZpxvFaSi73Paq2ymKI9_36.047179_-86.713368@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594966,
-    "wof:geomhash":"763be7f36ebd03a631645e142784dd88",
+    "wof:geomhash":"697a78c2bc600516aaac60e84abd3f1c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790326559,
-    "wof:lastmodified":1467083173,
+    "wof:lastmodified":1510699302,
     "wof:name":"Beyond Fitness",
     "wof:parent_id":85852849,
     "wof:placetype":"venue",

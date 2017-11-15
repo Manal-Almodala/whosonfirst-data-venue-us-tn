@@ -2,14 +2,20 @@
   "id": 806414113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1512 E Millers Cove Rd Walland TN 37886",
+    "addr:housenumber":"1512",
+    "addr:postcode":"37886",
+    "addr:street":"E Millers Cove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.765565,35.742964,-83.765565,35.742964",
     "geom:latitude":35.742964,
     "geom:longitude":-83.765565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1512 E Millers Cove Rd",
     "sg:city":"Walland",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087017,
         85828507
     ],
+    "wof:brand_id":1125155607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33bQZUGZmNiiohXRSM79mn_35.742964_-83.765565@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597967,
-    "wof:geomhash":"d6dd93bb5e06a3ccdaaa7fb4e1d71cf3",
+    "wof:geomhash":"6848c05cfac1985ada168bd3d8b868c5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806414113,
-    "wof:lastmodified":1467083268,
+    "wof:lastmodified":1510613384,
     "wof:name":"Forestry Division",
     "wof:parent_id":85828507,
     "wof:placetype":"venue",

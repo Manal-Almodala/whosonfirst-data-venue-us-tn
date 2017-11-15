@@ -2,14 +2,20 @@
   "id": 806870477,
   "type": "Feature",
   "properties": {
+    "addr:full":"444 Greenwood St Lewisburg TN 37091",
+    "addr:housenumber":"444",
+    "addr:postcode":"37091",
+    "addr:street":"Greenwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791652,35.458709,-86.791652,35.458709",
     "geom:latitude":35.458709,
     "geom:longitude":-86.791652,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"444 Greenwood St",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087115,
         85811699
     ],
+    "wof:brand_id":1125154815,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3WACpvn7AdHQdlutzJFOdV_35.458709_-86.791652@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601775,
-    "wof:geomhash":"0d360c6f219ca9728dcde4fb0f1f45b7",
+    "wof:geomhash":"e25f11fab47c768dd6daa24754f26d09",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806870477,
-    "wof:lastmodified":1467083396,
+    "wof:lastmodified":1510695891,
     "wof:name":"Total Look",
     "wof:parent_id":85811699,
     "wof:placetype":"venue",

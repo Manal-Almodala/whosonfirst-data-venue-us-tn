@@ -2,14 +2,20 @@
   "id": 806363985,
   "type": "Feature",
   "properties": {
+    "addr:full":"2560 Somerset Dr Nashville TN 37217",
+    "addr:housenumber":"2560",
+    "addr:postcode":"37217",
+    "addr:street":"Somerset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.634975,36.083991,-86.634975,36.083991",
     "geom:latitude":36.083991,
     "geom:longitude":-86.634975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2560 Somerset Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85849085
     ],
+    "wof:brand_id":1125155581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bwlaaLrBus4SH0XWo74SS_36.083991_-86.634975@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597534,
-    "wof:geomhash":"d89a38482bf39d182c1821980d031d6f",
+    "wof:geomhash":"be1c0425c4d1c96c71760238d50b924b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806363985,
-    "wof:lastmodified":1467083254,
+    "wof:lastmodified":1510694030,
     "wof:name":"Certa Pro Painters",
     "wof:parent_id":85849085,
     "wof:placetype":"venue",

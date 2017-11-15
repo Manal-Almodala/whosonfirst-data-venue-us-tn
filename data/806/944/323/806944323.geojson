@@ -2,14 +2,20 @@
   "id": 806944323,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 Dover Rd Clarksville TN 37042",
+    "addr:housenumber":"251",
+    "addr:postcode":"37042",
+    "addr:street":"Dover Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.395206,36.551066,-87.395206,36.551066",
     "geom:latitude":36.551066,
     "geom:longitude":-87.395206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"251 Dover Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086353,
         420541975
     ],
+    "wof:brand_id":1125152939,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6qUsVrLuTMOTLZFiIXKVlo_36.551066_-87.395206@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602395,
-    "wof:geomhash":"eb7b75aceb445174e34f78b5daca94ba",
+    "wof:geomhash":"dccc27a6280ecc083404cc690ba7fdc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806944323,
-    "wof:lastmodified":1467083417,
+    "wof:lastmodified":1510697467,
     "wof:name":"Farmers & Merchants Bank",
     "wof:parent_id":420541975,
     "wof:placetype":"venue",

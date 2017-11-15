@@ -2,14 +2,20 @@
   "id": 773520295,
   "type": "Feature",
   "properties": {
+    "addr:full":"727 Hwy 68 Crossville TN 38555",
+    "addr:housenumber":"727",
+    "addr:postcode":"38555",
+    "addr:street":"Hwy 68",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.972346,35.906863,-84.972346,35.906863",
     "geom:latitude":35.906863,
     "geom:longitude":-84.972346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"727 Hwy 68",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85813779,
         102086961
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XP9RSdG3U8hXC2vcKcOwy_35.906863_-84.972346@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586345,
-    "wof:geomhash":"a819369d398f477560e2f5ccecaee931",
+    "wof:geomhash":"7b66df7730e05f4690294960b8ac76dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773520295,
-    "wof:lastmodified":1467082915,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85813779,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790420849,
   "type": "Feature",
   "properties": {
+    "addr:full":"188 Jimtown Rd Newport TN 37821",
+    "addr:housenumber":"188",
+    "addr:postcode":"37821",
+    "addr:street":"Jimtown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.170902,35.975307,-83.170902,35.975307",
     "geom:latitude":35.975307,
     "geom:longitude":-83.170902,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"188 Jimtown Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85838303,
         102086241
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0srv3Y0kO9OU6ID1IzZxmq_35.975307_-83.170902@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595684,
-    "wof:geomhash":"71f6e0545596af701905d8e782af3928",
+    "wof:geomhash":"ac92ecc717173f27675ad5e93bd628b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790420849,
-    "wof:lastmodified":1467083196,
+    "wof:lastmodified":1510694182,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":85838303,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806629879,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Cherokee Blvd Chattanooga TN 37405",
+    "addr:housenumber":"100",
+    "addr:postcode":"37405",
+    "addr:street":"Cherokee Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.311026,35.063983,-85.311026,35.063983",
     "geom:latitude":35.063983,
     "geom:longitude":-85.311026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Cherokee Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         85876743
     ],
+    "wof:brand_id":1125156007,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0WgueW08I4BUEIkKz4hLVb_35.063983_-85.311026@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599734,
-    "wof:geomhash":"fbc5df38749a0003b417953d888a1712",
+    "wof:geomhash":"e019fa8a2be59998a11b20f821977e8f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806629879,
-    "wof:lastmodified":1467083328,
+    "wof:lastmodified":1510697081,
     "wof:name":"US Small Business Adm",
     "wof:parent_id":85876743,
     "wof:placetype":"venue",

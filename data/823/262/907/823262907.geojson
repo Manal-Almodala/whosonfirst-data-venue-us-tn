@@ -2,14 +2,20 @@
   "id": 823262907,
   "type": "Feature",
   "properties": {
+    "addr:full":"439 Myatt Dr Madison TN 37115",
+    "addr:housenumber":"439",
+    "addr:postcode":"37115",
+    "addr:street":"Myatt Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.689444,36.274907,-86.689444,36.274907",
     "geom:latitude":36.274907,
     "geom:longitude":-86.689444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"439 Myatt Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087061,
         85803051
     ],
+    "wof:brand_id":1125150785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JXvwO3mjNxuHshayGlg5n_36.274907_-86.689444@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609638,
-    "wof:geomhash":"86c8c520a408951c7b6f3b4ec30f9185",
+    "wof:geomhash":"0022a35189c3bc3dec2a9974faaeb7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823262907,
-    "wof:lastmodified":1467083645,
+    "wof:lastmodified":1510698797,
     "wof:name":"SAFELITE AUTO GLASS",
     "wof:parent_id":85803051,
     "wof:placetype":"venue",

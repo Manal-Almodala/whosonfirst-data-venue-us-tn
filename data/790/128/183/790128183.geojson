@@ -2,14 +2,20 @@
   "id": 790128183,
   "type": "Feature",
   "properties": {
+    "addr:full":"4830 State Hwy 58 Chattanooga TN 37416",
+    "addr:housenumber":"4830",
+    "addr:postcode":"37416",
+    "addr:street":"State Hwy 58",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.182954,35.091864,-85.182954,35.091864",
     "geom:latitude":35.091864,
     "geom:longitude":-85.182954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4830 State Hwy 58",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85854017
     ],
+    "wof:brand_id":1125151879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YiCeC82Nxf4oqSM0YHWev_35.091864_-85.182954@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593348,
-    "wof:geomhash":"da2559e722af71f5c1bb871609047206",
+    "wof:geomhash":"9faf35ec0d4a9f6d23f74cbf58b54fe6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790128183,
-    "wof:lastmodified":1467083127,
+    "wof:lastmodified":1510698681,
     "wof:name":"Cellular Sales",
     "wof:parent_id":85854017,
     "wof:placetype":"venue",

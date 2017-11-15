@@ -2,14 +2,20 @@
   "id": 773488015,
   "type": "Feature",
   "properties": {
+    "addr:full":"2708 Wilma Rudolph Blvd Clarksville TN 37040",
+    "addr:housenumber":"2708",
+    "addr:postcode":"37040",
+    "addr:street":"Wilma Rudolph Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.295184,36.585178,-87.295184,36.585178",
     "geom:latitude":36.585178,
     "geom:longitude":-87.295184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2708 Wilma Rudolph Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086353,
         85819931
     ],
+    "wof:brand_id":1125159009,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44xLqcE0uemD6IRl7Xu0Tl_36.585178_-87.295184@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586126,
-    "wof:geomhash":"0df8e3c0e833dcd881a44394a2ec122f",
+    "wof:geomhash":"350f8d9af629d79e539c961c933d1da6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773488015,
-    "wof:lastmodified":1467082907,
+    "wof:lastmodified":1510697158,
     "wof:name":"Hobby Lobby Creative Center",
     "wof:parent_id":85819931,
     "wof:placetype":"venue",

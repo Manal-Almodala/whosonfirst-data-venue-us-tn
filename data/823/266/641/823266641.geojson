@@ -2,14 +2,20 @@
   "id": 823266641,
   "type": "Feature",
   "properties": {
+    "addr:full":"565 Marriott Dr Nashville TN 37214",
+    "addr:housenumber":"565",
+    "addr:postcode":"37214",
+    "addr:street":"Marriott Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.691162,36.145149,-86.691162,36.145149",
     "geom:latitude":36.145149,
     "geom:longitude":-86.691162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"565 Marriott Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087061,
         85833877
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s4GgqomrExzsou2xqIUl2_36.145149_-86.691162@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609777,
-    "wof:geomhash":"31a1aa3ef6977d53915b24cf8ea724c3",
+    "wof:geomhash":"abf49c36880257f474f3c157c4f9902c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":823266641,
-    "wof:lastmodified":1467083650,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85833877,
     "wof:placetype":"venue",

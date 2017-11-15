@@ -2,14 +2,20 @@
   "id": 806884027,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Jefferson St Clarksville TN 37040",
+    "addr:housenumber":"8",
+    "addr:postcode":"37040",
+    "addr:street":"Jefferson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.363332,36.530601,-87.363332,36.530601",
     "geom:latitude":36.530601,
     "geom:longitude":-87.363332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Jefferson St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85807343,
         102086353
     ],
+    "wof:brand_id":420575761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Vv04suMJg8KQp0eeaaQY4_36.530601_-87.363332@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601885,
-    "wof:geomhash":"b4323137dd4a2e3afca96927bd118b3e",
+    "wof:geomhash":"9aa730890846a64f674bac55a4e230e8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806884027,
-    "wof:lastmodified":1467083400,
+    "wof:lastmodified":1510602958,
     "wof:name":"Labor Ready",
     "wof:parent_id":85807343,
     "wof:placetype":"venue",

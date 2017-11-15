@@ -2,14 +2,20 @@
   "id": 790120051,
   "type": "Feature",
   "properties": {
+    "addr:full":"701 N State of Franklin Rd Johnson City TN 37604",
+    "addr:housenumber":"701",
+    "addr:postcode":"37604",
+    "addr:street":"N State Of Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.390571,36.316691,-82.390571,36.316691",
     "geom:latitude":36.316691,
     "geom:longitude":-82.390571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"701 N State of Franklin Rd",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086335,
         420542293
     ],
+    "wof:brand_id":1125154279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TSivQ848KBhrQhATD9hQX_36.316691_-82.390571@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593290,
-    "wof:geomhash":"68533e7e99bb79860a8426dfe1aed4b2",
+    "wof:geomhash":"e27ddb3cb955ce7ef2380e281a929006",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790120051,
-    "wof:lastmodified":1467083124,
+    "wof:lastmodified":1510695881,
     "wof:name":"Associates Financial",
     "wof:parent_id":420542293,
     "wof:placetype":"venue",

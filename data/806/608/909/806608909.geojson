@@ -2,14 +2,20 @@
   "id": 806608909,
   "type": "Feature",
   "properties": {
+    "addr:full":"612 S Cooper St Memphis TN 38104",
+    "addr:housenumber":"612",
+    "addr:postcode":"38104",
+    "addr:street":"S Cooper St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.990545,35.128561,-89.990545,35.128561",
     "geom:latitude":35.128561,
     "geom:longitude":-89.990545,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"612 S Cooper St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85830283
     ],
+    "wof:brand_id":1125157551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4e8tzqUAFXwS2h8eazbZ9C_35.128561_-89.990545@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599557,
-    "wof:geomhash":"2ba9e08842e18338368563f1ca00b62d",
+    "wof:geomhash":"f446fde51b3f6e5133c3750c515bea88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806608909,
-    "wof:lastmodified":1467083322,
+    "wof:lastmodified":1510697356,
     "wof:name":"American Gen Lf Accident Insur",
     "wof:parent_id":85830283,
     "wof:placetype":"venue",

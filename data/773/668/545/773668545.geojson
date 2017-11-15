@@ -2,9 +2,14 @@
   "id": 773668545,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 Downy Meade Dr Franklin TN 37064",
+    "addr:housenumber":"404",
+    "addr:postcode":"37064",
+    "addr:street":"Downy Meade Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.840631,35.854789,-86.840631,35.854789",
     "geom:latitude":35.854789,
     "geom:longitude":-86.840631,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IcIQavBaEso1DemgL7f3w_35.854789_-86.840631@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462587456,
     "wof:geomhash":"cec2c86e8d01f7cc11496818453992a0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773668545
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773668545,
-    "wof:lastmodified":1467082951,
+    "wof:lastmodified":1491930834,
     "wof:name":"GLOry&ron Exum",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790160825,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Adelynn Ct N Franklin TN 37064",
+    "addr:housenumber":"505",
+    "addr:postcode":"37064",
+    "addr:street":"Adelynn Ct N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.839043,35.878837,-86.839043,35.878837",
     "geom:latitude":35.878837,
     "geom:longitude":-86.839043,
@@ -27,12 +32,7 @@
         "medical"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0F26Gx0OsB3obm48tskzBF_35.878837_-86.839043@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462593601,
     "wof:geomhash":"82e9fb4fbb0fdb390e72d6c6cc6bdf64",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":790160825
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790160825,
-    "wof:lastmodified":1467083134,
+    "wof:lastmodified":1491930827,
     "wof:name":"Internal Balance Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

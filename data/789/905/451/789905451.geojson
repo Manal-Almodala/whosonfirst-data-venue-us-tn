@@ -2,14 +2,20 @@
   "id": 789905451,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Court Ave Memphis TN 38103",
+    "addr:housenumber":"201",
+    "addr:postcode":"38103",
+    "addr:street":"Court Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.048119,35.14498,-90.048119,35.14498",
     "geom:latitude":35.14498,
     "geom:longitude":-90.048119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Court Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85867179
     ],
+    "wof:brand_id":1125157561,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iHwrgO0lSYSxddLgqILsz_35.144980_-90.048119@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591486,
-    "wof:geomhash":"8841d6ac0319fc55858aa3472c88950e",
+    "wof:geomhash":"d5106300a47ad180aaff13434f1dcd4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789905451,
-    "wof:lastmodified":1467083074,
+    "wof:lastmodified":1510699303,
     "wof:name":"Bellsouth",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",

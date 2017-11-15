@@ -2,14 +2,20 @@
   "id": 806840437,
   "type": "Feature",
   "properties": {
+    "addr:full":"1997 Long Crescent Dr Bristol TN 24201",
+    "addr:housenumber":"1997",
+    "addr:postcode":"24201",
+    "addr:street":"Long Crescent Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.175901,36.624586,-82.175901,36.624586",
     "geom:latitude":36.624586,
     "geom:longitude":-82.175901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1997 Long Crescent Dr",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084925,
         85853971
     ],
+    "wof:brand_id":1125151339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60QPyw8ynfyseikBpIoqyg_36.624586_-82.175901@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601512,
-    "wof:geomhash":"cb1a20b10213b59483103c2ae8fb2507",
+    "wof:geomhash":"4334ece60e052520357043a31bdb7892",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806840437,
-    "wof:lastmodified":1467083388,
+    "wof:lastmodified":1510694950,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85853971,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823291013,
   "type": "Feature",
   "properties": {
+    "addr:full":"1660 Sycamore View Rd Memphis TN 38134",
+    "addr:housenumber":"1660",
+    "addr:postcode":"38134",
+    "addr:street":"Sycamore View Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.86735,35.171061,-89.86735,35.171061",
     "geom:latitude":35.171061,
     "geom:longitude":-89.86735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1660 Sycamore View Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -26,13 +32,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125152327,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vkF0sSefLwZYz4XBqKYiI_35.171061_-89.867350@1303262743"
     },
     "wof:country":"US",
     "wof:created":1462610737,
-    "wof:geomhash":"7d72cc8546b845f350f74d1b74b78367",
+    "wof:geomhash":"509a6b5307302bed669b7f7e8fafbf3c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":823291013,
-    "wof:lastmodified":1467083685,
+    "wof:lastmodified":1510604946,
     "wof:name":"Beautiful Nails",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

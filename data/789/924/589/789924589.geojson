@@ -2,14 +2,20 @@
   "id": 789924589,
   "type": "Feature",
   "properties": {
+    "addr:full":"2125 Gunbarrel Rd Chattanooga TN 37421",
+    "addr:housenumber":"2125",
+    "addr:postcode":"37421",
+    "addr:street":"Gunbarrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.152499,35.035845,-85.152499,35.035845",
     "geom:latitude":35.035845,
     "geom:longitude":-85.152499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2125 Gunbarrel Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85815159
     ],
+    "wof:brand_id":420575353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_250nXjZk6Fj8gWYd6iEIfK_35.035845_-85.152499@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591660,
-    "wof:geomhash":"ac14e2790a4bb8eea6998294a746c628",
+    "wof:geomhash":"734680bc86209c9c7e0a4dae432ebebf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789924589,
-    "wof:lastmodified":1467083078,
+    "wof:lastmodified":1510601964,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85815159,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773091867,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Patton Ln Ashland City TN 37075",
+    "addr:housenumber":"104",
+    "addr:postcode":"37075",
+    "addr:street":"Patton Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.638752,36.34536,-86.638752,36.34536",
     "geom:latitude":36.34536,
     "geom:longitude":-86.638752,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -45,6 +51,7 @@
     "wof:geomhash":"3e2c89dbcb60e225b6dbe6375cee06f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773091867,
-    "wof:lastmodified":1467082801,
+    "wof:lastmodified":1491939238,
     "wof:name":"Starr Galleries",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

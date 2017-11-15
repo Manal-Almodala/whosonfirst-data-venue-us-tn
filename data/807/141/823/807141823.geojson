@@ -2,14 +2,20 @@
   "id": 807141823,
   "type": "Feature",
   "properties": {
+    "addr:full":"245 Heritage Park Dr Murfreesboro TN 37129",
+    "addr:housenumber":"245",
+    "addr:postcode":"37129",
+    "addr:street":"Heritage Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.389869,35.87307,-86.389869,35.87307",
     "geom:latitude":35.87307,
     "geom:longitude":-86.389869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"245 Heritage Park Dr",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85824375
     ],
+    "wof:brand_id":420574765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51FgCHxdhnuJ08PPYgblvG_35.873070_-86.389869@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604177,
-    "wof:geomhash":"214a6be0c67c19a3a84deefbdbeaaf13",
+    "wof:geomhash":"51f1b437bcc5dba9f3a846032986f91a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807141823,
-    "wof:lastmodified":1467083471,
+    "wof:lastmodified":1510604126,
     "wof:name":"Social Security Administration",
     "wof:parent_id":85824375,
     "wof:placetype":"venue",

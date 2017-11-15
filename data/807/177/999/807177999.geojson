@@ -2,9 +2,14 @@
   "id": 807177999,
   "type": "Feature",
   "properties": {
+    "addr:full":"3209 Hwy 31 W White House TN 37188",
+    "addr:housenumber":"3209",
+    "addr:postcode":"37188",
+    "addr:street":"Hwy 31 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.648356,36.476159,-86.648356,36.476159",
     "geom:latitude":36.476159,
     "geom:longitude":-86.648356,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"92370d4a37d697d2d74f8dc85a63e8bc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807177999,
-    "wof:lastmodified":1467083482,
+    "wof:lastmodified":1491939194,
     "wof:name":"Whitehouse Lawn and Garden",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

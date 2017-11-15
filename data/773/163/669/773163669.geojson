@@ -2,14 +2,20 @@
   "id": 773163669,
   "type": "Feature",
   "properties": {
+    "addr:full":"172 Commerce Dr Hendersonville TN 37075",
+    "addr:housenumber":"172",
+    "addr:postcode":"37075",
+    "addr:street":"Commerce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.636026,36.310098,-86.636026,36.310098",
     "geom:latitude":36.310098,
     "geom:longitude":-86.636026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"172 Commerce Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086357,
         85825073
     ],
+    "wof:brand_id":1125154401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tQD5qGYd2jPwClayfMn4R_36.310098_-86.636026@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583621,
-    "wof:geomhash":"a3f31289247419a64d04161989043db1",
+    "wof:geomhash":"9630f9833fc7a3ad8c44d187b20980f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773163669,
-    "wof:lastmodified":1467082818,
+    "wof:lastmodified":1510697805,
     "wof:name":"Calvary Assembly Of God",
     "wof:parent_id":85825073,
     "wof:placetype":"venue",

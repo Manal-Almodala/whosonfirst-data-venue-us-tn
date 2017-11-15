@@ -2,14 +2,20 @@
   "id": 807221149,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Broyles Dr Johnson City TN 37659",
+    "addr:housenumber":"203",
+    "addr:postcode":"37659",
+    "addr:street":"Broyles Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.372265,36.344234,-82.372265,36.344234",
     "geom:latitude":36.344234,
     "geom:longitude":-82.372265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"203 Broyles Dr",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086335,
         420542257
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PLyVbVzFOSV4GuB65xzAy_36.344234_-82.372265@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605011,
-    "wof:geomhash":"750b5d84e7fb858da353ffb89eeaba88",
+    "wof:geomhash":"66b9e0a25d1d64a5626dab175d6734f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807221149,
-    "wof:lastmodified":1467083497,
+    "wof:lastmodified":1510608791,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":420542257,
     "wof:placetype":"venue",

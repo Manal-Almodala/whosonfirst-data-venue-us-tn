@@ -2,14 +2,20 @@
   "id": 806731779,
   "type": "Feature",
   "properties": {
+    "addr:full":"1031 S Riverside Dr Clarksville TN 37040",
+    "addr:housenumber":"1031",
+    "addr:postcode":"37040",
+    "addr:street":"S Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.366476,36.512424,-87.366476,36.512424",
     "geom:latitude":36.512424,
     "geom:longitude":-87.366476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1031 S Riverside Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         85813201
     ],
+    "wof:brand_id":1125152143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hwjPtkJ4vlT2a17Bs1GxW_36.512424_-87.366476@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600600,
-    "wof:geomhash":"8c12dcd46958f22fc0cb40828b87d40f",
+    "wof:geomhash":"49b4b3276eedb3ad726b4bed8eb23bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806731779,
-    "wof:lastmodified":1467083357,
+    "wof:lastmodified":1510693735,
     "wof:name":"Glamour Nails",
     "wof:parent_id":85813201,
     "wof:placetype":"venue",

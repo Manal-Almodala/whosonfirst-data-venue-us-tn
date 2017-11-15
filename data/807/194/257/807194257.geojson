@@ -2,14 +2,20 @@
   "id": 807194257,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 River Rd Hendersonville TN 37075",
+    "addr:housenumber":"110",
+    "addr:postcode":"37075",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.642503,36.300497,-86.642503,36.300497",
     "geom:latitude":36.300497,
     "geom:longitude":-86.642503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 River Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086357,
         85843909
     ],
+    "wof:brand_id":1125154569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1NBzeFbDnpgdS067OTnvvL_36.300497_-86.642503@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604735,
-    "wof:geomhash":"06756518a08dec60e91847a0f47865d6",
+    "wof:geomhash":"b630064fa0d263c6b1d931e791a3bccf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807194257,
-    "wof:lastmodified":1467083488,
+    "wof:lastmodified":1510695259,
     "wof:name":"St Paul Travelers",
     "wof:parent_id":85843909,
     "wof:placetype":"venue",

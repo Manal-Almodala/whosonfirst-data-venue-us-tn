@@ -2,14 +2,20 @@
   "id": 806890105,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 W Burton St Murfreesboro TN 37130",
+    "addr:housenumber":"420",
+    "addr:postcode":"37130",
+    "addr:street":"W Burton St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.394347,35.849485,-86.394347,35.849485",
     "geom:latitude":35.849485,
     "geom:longitude":-86.394347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"420 W Burton St",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086355,
         85835585
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mPApgiQZTyyeAIb3ZHGyj_35.849485_-86.394347@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601933,
-    "wof:geomhash":"00a58f7c76953a27efb549432e58b158",
+    "wof:geomhash":"6e571a1a2774b4cff7df37e69bdc7cac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806890105,
-    "wof:lastmodified":1467083402,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85835585,
     "wof:placetype":"venue",

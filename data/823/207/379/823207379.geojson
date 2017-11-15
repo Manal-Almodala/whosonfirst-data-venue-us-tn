@@ -2,14 +2,20 @@
   "id": 823207379,
   "type": "Feature",
   "properties": {
+    "addr:full":"5627 Charlotte Pike Nashville TN 37209",
+    "addr:housenumber":"5627",
+    "addr:postcode":"37209",
+    "addr:street":"Charlotte Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.857953,36.150155,-86.857953,36.150155",
     "geom:latitude":36.150155,
     "geom:longitude":-86.857953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5627 Charlotte Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85855987
     ],
+    "wof:brand_id":1125152585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46ApHSSRt73XsB8DP0s4sL_36.150155_-86.857953@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608485,
-    "wof:geomhash":"999ba2705764955a16e707d37cbb9703",
+    "wof:geomhash":"e9f872b061b03c9ab89531cf1981a1d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823207379,
-    "wof:lastmodified":1467083605,
+    "wof:lastmodified":1510695990,
     "wof:name":"Clip Joint",
     "wof:parent_id":85855987,
     "wof:placetype":"venue",

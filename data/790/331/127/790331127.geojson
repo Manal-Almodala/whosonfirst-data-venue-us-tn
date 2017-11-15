@@ -2,14 +2,20 @@
   "id": 790331127,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 E Elk Ave Elizabethton TN 37643",
+    "addr:housenumber":"412",
+    "addr:postcode":"37643",
+    "addr:street":"E Elk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.21707,36.347533,-82.21707,36.347533",
     "geom:latitude":36.347533,
     "geom:longitude":-82.21707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"412 E Elk Ave",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087053,
         85816779
     ],
+    "wof:brand_id":420573773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5r3jSn449Be7TGi6n3ESCG_36.347533_-82.217070@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595000,
-    "wof:geomhash":"9cefb94b96e258dd482d9399721cb243",
+    "wof:geomhash":"a71e5071e88bca9c34b16d0d692d88a1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790331127,
-    "wof:lastmodified":1467083175,
+    "wof:lastmodified":1510603021,
     "wof:name":"Radio Shack",
     "wof:parent_id":85816779,
     "wof:placetype":"venue",

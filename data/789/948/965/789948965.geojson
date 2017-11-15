@@ -2,14 +2,20 @@
   "id": 789948965,
   "type": "Feature",
   "properties": {
+    "addr:full":"2559 Murfreesboro Pike Nashville TN 37217",
+    "addr:housenumber":"2559",
+    "addr:postcode":"37217",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.6389,36.074689,-86.6389,36.074689",
     "geom:latitude":36.074689,
     "geom:longitude":-86.6389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2559 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85846409,
         85841041
     ],
+    "wof:brand_id":1125153419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gFSK7vZ2yAEzPCkIJw6Of_36.074689_-86.638900@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591901,
-    "wof:geomhash":"14601a03faff071881b247ef6e9fce9d",
+    "wof:geomhash":"620aac268c35394e34262778f6eadef8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":789948965,
-    "wof:lastmodified":1467083084,
+    "wof:lastmodified":1510695032,
     "wof:name":"Style America",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

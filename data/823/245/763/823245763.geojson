@@ -2,14 +2,20 @@
   "id": 823245763,
   "type": "Feature",
   "properties": {
+    "addr:full":"21 White Bridge Rd Nashville TN 37205",
+    "addr:housenumber":"21",
+    "addr:postcode":"37205",
+    "addr:street":"White Bridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.853088,36.128007,-86.853088,36.128007",
     "geom:latitude":36.128007,
     "geom:longitude":-86.853088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"21 White Bridge Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087061,
         85855987
     ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Qc6zDYiLG7NojXiwwCW8T_36.128007_-86.853088@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609256,
-    "wof:geomhash":"37c90e790ac2a4e12ed96fb760c85e59",
+    "wof:geomhash":"4793b408d5f355f3dbb69926894492cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823245763,
-    "wof:lastmodified":1467083632,
+    "wof:lastmodified":1510695721,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":85855987,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807148493,
   "type": "Feature",
   "properties": {
+    "addr:full":"5301 Old Hickory Blvd Hermitage TN 37076",
+    "addr:housenumber":"5301",
+    "addr:postcode":"37076",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.612227,36.184587,-86.612227,36.184587",
     "geom:latitude":36.184587,
     "geom:longitude":-86.612227,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5301 Old Hickory Blvd",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85852553
     ],
+    "wof:brand_id":1125154091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GVexRr8qr2EpmSojP0dcf_36.184587_-86.612227@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604260,
-    "wof:geomhash":"ee80afc2fc0a219c218e8edb1bb939cd",
+    "wof:geomhash":"87a809b7e7f6e99ef5b919193bc4e4e8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807148493,
-    "wof:lastmodified":1467083473,
+    "wof:lastmodified":1510699678,
     "wof:name":"Vulcan Materials Company",
     "wof:parent_id":85852553,
     "wof:placetype":"venue",

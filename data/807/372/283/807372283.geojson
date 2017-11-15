@@ -2,14 +2,20 @@
   "id": 807372283,
   "type": "Feature",
   "properties": {
+    "addr:full":"199 Co Rd 315 Sweetwater TN 37874",
+    "addr:housenumber":"199",
+    "addr:postcode":"37874",
+    "addr:street":"Co Rd 315",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.556108,35.586207,-84.556108,35.586207",
     "geom:latitude":35.586207,
     "geom:longitude":-84.556108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"199 Co Rd 315",
     "sg:city":"Sweetwater",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086293,
         85811277
     ],
+    "wof:brand_id":1125152867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MqhHGAqaRZvm5qgHoSGAk_35.586207_-84.556108@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606820,
-    "wof:geomhash":"3dfedeec886523a312b56e26f21610bf",
+    "wof:geomhash":"6934d13b128fc40c3834ce124395d5bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807372283,
-    "wof:lastmodified":1467083554,
+    "wof:lastmodified":1510613354,
     "wof:name":"Dollar Mart",
     "wof:parent_id":85811277,
     "wof:placetype":"venue",

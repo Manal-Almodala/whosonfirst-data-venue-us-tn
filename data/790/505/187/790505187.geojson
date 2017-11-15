@@ -2,14 +2,20 @@
   "id": 790505187,
   "type": "Feature",
   "properties": {
+    "addr:full":"10065 Jernigan Dr Somerville TN 38068",
+    "addr:housenumber":"10065",
+    "addr:postcode":"38068",
+    "addr:street":"Jernigan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.206937,35.204599,-89.206937,35.204599",
     "geom:latitude":35.204599,
     "geom:longitude":-89.206937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10065 Jernigan Dr",
     "sg:city":"Somerville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086439,
         420541553
     ],
+    "wof:brand_id":1125151277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bvrctG8cQivn0xtCrgX7A_35.204599_-89.206937@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596413,
-    "wof:geomhash":"8a72e16e25a82852b139b8eccfab6ec0",
+    "wof:geomhash":"f90024b47d8b1b7c39b117ca257a6a53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790505187,
-    "wof:lastmodified":1467083219,
+    "wof:lastmodified":1510699623,
     "wof:name":"Mount Olive Baptist Church",
     "wof:parent_id":420541553,
     "wof:placetype":"venue",

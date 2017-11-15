@@ -2,14 +2,20 @@
   "id": 807284173,
   "type": "Feature",
   "properties": {
+    "addr:full":"292 Keele Rd Manchester TN 37355",
+    "addr:housenumber":"292",
+    "addr:postcode":"37355",
+    "addr:street":"Keele Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.055747,35.509508,-86.055747,35.509508",
     "geom:latitude":35.509508,
     "geom:longitude":-86.055747,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"292 Keele Rd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087095,
         85855929
     ],
+    "wof:brand_id":1125155811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ya9bPbnehpyoNKWQbhOD0_35.509508_-86.055747@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605689,
-    "wof:geomhash":"42aec77abf2de2ec0936862743a13a0a",
+    "wof:geomhash":"d63b372dee980986b575be5300bc2c96",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807284173,
-    "wof:lastmodified":1467083518,
+    "wof:lastmodified":1510695385,
     "wof:name":"National Assoc of Retired",
     "wof:parent_id":85855929,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823244891,
   "type": "Feature",
   "properties": {
+    "addr:full":"2955 S Rutherford Blvd Murfreesboro TN 37130",
+    "addr:housenumber":"2955",
+    "addr:postcode":"37130",
+    "addr:street":"S Rutherford Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.351827,35.832871,-86.351827,35.832871",
     "geom:latitude":35.832871,
     "geom:longitude":-86.351827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2955 S Rutherford Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086355,
         85833237
     ],
+    "wof:brand_id":1125154777,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BSAMgeBnFS0fbNEdKEN3d_35.832871_-86.351827@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609234,
-    "wof:geomhash":"bb4d531c05c8eb27ff50d580a83c7ac1",
+    "wof:geomhash":"4a4dfcaa78d044290da69b6d8355b673",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823244891,
-    "wof:lastmodified":1467083631,
+    "wof:lastmodified":1510699041,
     "wof:name":"Mellow Mushroom",
     "wof:parent_id":85833237,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823275871,
   "type": "Feature",
   "properties": {
+    "addr:full":"2561 Plum Creek Dr Cordova TN 38016",
+    "addr:housenumber":"2561",
+    "addr:postcode":"38016",
+    "addr:street":"Plum Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.726036,35.196918,-89.726036,35.196918",
     "geom:latitude":35.196918,
     "geom:longitude":-89.726036,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2561 Plum Creek Dr",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":1125154191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IIp65oInsYBWJ7jUD0q1O_35.196918_-89.726036@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610148,
-    "wof:geomhash":"f322a65cbd35ea5da58ae9e7c507c0ab",
+    "wof:geomhash":"1b62c3d423ea0d9ad0e8b210894d5033",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823275871,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510613207,
     "wof:name":"Cricket Communications",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

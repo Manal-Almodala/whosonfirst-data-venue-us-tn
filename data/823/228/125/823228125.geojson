@@ -2,14 +2,20 @@
   "id": 823228125,
   "type": "Feature",
   "properties": {
+    "addr:full":"1411 E 41st St Chattanooga TN 37407",
+    "addr:housenumber":"1411",
+    "addr:postcode":"37407",
+    "addr:street":"E 41St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.294826,34.995998,-85.294826,34.995998",
     "geom:latitude":34.995998,
     "geom:longitude":-85.294826,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1411 E 41st St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[],
@@ -32,13 +38,14 @@
         102087185,
         420541639
     ],
+    "wof:brand_id":1125158981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1shBr1ZGY2AcxbPxXXZwUo_34.995998_-85.294826@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608915,
-    "wof:geomhash":"4a1184237143374a4bb506d7388df391",
+    "wof:geomhash":"92befce8cb1365f2454a695273a97dde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823228125,
-    "wof:lastmodified":1467083620,
+    "wof:lastmodified":1510698690,
     "wof:name":"Ferrellgas L P",
     "wof:parent_id":420541639,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807367355,
   "type": "Feature",
   "properties": {
+    "addr:full":"26 Lake of the Woods Cove Humboldt TN 38343",
+    "addr:housenumber":"26",
+    "addr:postcode":"38343",
+    "addr:street":"Lake;The Woods Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.824146,35.757868,-88.824146,35.757868",
     "geom:latitude":35.757868,
     "geom:longitude":-88.824146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26 Lake of the Woods Cove",
     "sg:city":"Humboldt",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125151377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5msYZepjrot9ULi0ICdi5Q_35.757868_-88.824146@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606757,
-    "wof:geomhash":"c744ef163989332aa43938a662dc9c7d",
+    "wof:geomhash":"7e1928d8937c7e635eadec206f1c3584",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807367355,
-    "wof:lastmodified":1467083552,
+    "wof:lastmodified":1510695795,
     "wof:name":"National Property Inspections",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

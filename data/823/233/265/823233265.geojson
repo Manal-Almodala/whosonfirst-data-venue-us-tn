@@ -2,14 +2,20 @@
   "id": 823233265,
   "type": "Feature",
   "properties": {
+    "addr:full":"7257 Winchester Rd Memphis TN 38125",
+    "addr:housenumber":"7257",
+    "addr:postcode":"38125",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.821418,35.049015,-89.821418,35.049015",
     "geom:latitude":35.049015,
     "geom:longitude":-89.821418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7257 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85850355,
         102087213
     ],
+    "wof:brand_id":420575725,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yNEN9lNVA1xWf4FMdR7xA_35.049038_-89.820905@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462609020,
-    "wof:geomhash":"3adb40f99cf566342e8d1dc664c45a86",
+    "wof:geomhash":"0419adf69db9ddfb90dac9b144083a38",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823233265,
-    "wof:lastmodified":1467083623,
+    "wof:lastmodified":1510602579,
     "wof:name":"Liberty Tax Service",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",

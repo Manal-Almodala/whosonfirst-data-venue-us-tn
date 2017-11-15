@@ -2,14 +2,20 @@
   "id": 789833293,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Milan Way Oak Ridge TN 37830",
+    "addr:housenumber":"119",
+    "addr:postcode":"37830",
+    "addr:street":"Milan Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.238991,36.024937,-84.238991,36.024937",
     "geom:latitude":36.024937,
     "geom:longitude":-84.238991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"119 Milan Way",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086483,
         85827263
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MGbcE7DWXGRFReNLUZbcO_36.024937_-84.238991@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590894,
-    "wof:geomhash":"b9a959aaa219d072573572e780381dbf",
+    "wof:geomhash":"3a49d58011b90efc1559316d8bc0eec7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789833293,
-    "wof:lastmodified":1467083056,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

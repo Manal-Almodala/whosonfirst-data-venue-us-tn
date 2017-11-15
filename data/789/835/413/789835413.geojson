@@ -2,14 +2,20 @@
   "id": 789835413,
   "type": "Feature",
   "properties": {
+    "addr:full":"811 Parkway Gatlinburg TN 37738",
+    "addr:housenumber":"811",
+    "addr:postcode":"37738",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.5183,35.711452,-83.5183,35.711452",
     "geom:latitude":35.711452,
     "geom:longitude":-83.5183,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"811 Parkway",
     "sg:city":"Gatlinburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086245,
         85823215
     ],
+    "wof:brand_id":420574159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WhL1UzES3NUfrRhRIT4uu_35.711452_-83.518300@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590910,
-    "wof:geomhash":"01aedd5cc6318ea18bca4032ed90a4e6",
+    "wof:geomhash":"4e805ab7099983c380e2a15010f1e1fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789835413,
-    "wof:lastmodified":1467083056,
+    "wof:lastmodified":1510603973,
     "wof:name":"B B & T",
     "wof:parent_id":85823215,
     "wof:placetype":"venue",

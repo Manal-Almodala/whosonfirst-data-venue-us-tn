@@ -2,9 +2,14 @@
   "id": 773568035,
   "type": "Feature",
   "properties": {
+    "addr:full":"2409 Douglass Glen Ln Franklin TN 37064",
+    "addr:housenumber":"2409",
+    "addr:postcode":"37064",
+    "addr:street":"Douglass Glen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.84671,35.875703,-86.84671,35.875703",
     "geom:latitude":35.875703,
     "geom:longitude":-86.84671,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FY6sUXZPysYPFAc2KKa8m_35.875703_-86.846710@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462586706,
     "wof:geomhash":"8209f7812c019614399d2eb214fdfcd1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773568035
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773568035,
-    "wof:lastmodified":1467082926,
+    "wof:lastmodified":1491930835,
     "wof:name":"Wiley Sexton",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

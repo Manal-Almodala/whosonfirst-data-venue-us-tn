@@ -2,14 +2,20 @@
   "id": 773792315,
   "type": "Feature",
   "properties": {
+    "addr:full":"242 Gill St Alcoa TN 37701",
+    "addr:housenumber":"242",
+    "addr:postcode":"37701",
+    "addr:street":"Gill St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.972695,35.761758,-83.972695,35.761758",
     "geom:latitude":35.761758,
     "geom:longitude":-83.972695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"242 Gill St",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087017,
         420541361
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5V9J0AtjmnuDLKnGqTzUOE_35.761758_-83.972695@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588406,
-    "wof:geomhash":"82df23a00703402308eae90ef8efdc12",
+    "wof:geomhash":"329ee2b11a0fe1ba39e4505d9e791dc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773792315,
-    "wof:lastmodified":1467082981,
+    "wof:lastmodified":1510699047,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":420541361,
     "wof:placetype":"venue",

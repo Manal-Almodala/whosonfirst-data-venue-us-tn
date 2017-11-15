@@ -2,9 +2,14 @@
   "id": 823198333,
   "type": "Feature",
   "properties": {
+    "addr:full":"1209 Gillette Ct Franklin TN 37069",
+    "addr:housenumber":"1209",
+    "addr:postcode":"37069",
+    "addr:street":"Gillette Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.909695,35.976114,-86.909695,35.976114",
     "geom:latitude":35.976114,
     "geom:longitude":-86.909695,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d8d3724815a0177f2f1ff34bd96f2d2c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823198333,
-    "wof:lastmodified":1467083599,
+    "wof:lastmodified":1491924162,
     "wof:name":"3rd Window LLC",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

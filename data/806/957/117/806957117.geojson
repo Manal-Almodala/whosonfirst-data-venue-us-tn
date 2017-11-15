@@ -2,14 +2,20 @@
   "id": 806957117,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 Piedmont Ave Bristol TN 24201",
+    "addr:housenumber":"305",
+    "addr:postcode":"24201",
+    "addr:street":"Piedmont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.183396,36.602972,-82.183396,36.602972",
     "geom:latitude":36.602972,
     "geom:longitude":-82.183396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 Piedmont Ave",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102084925,
         85827531
     ],
+    "wof:brand_id":1125158389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61m5FlJWsO8hydfo1e0Gu4_36.602972_-82.183396@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602504,
-    "wof:geomhash":"aabc4059afdbf9cfe5ec1e39b7de81a7",
+    "wof:geomhash":"29fda8a9656a562ce7ca448e3125abee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806957117,
-    "wof:lastmodified":1467083420,
+    "wof:lastmodified":1510699780,
     "wof:name":"Rexel Inc",
     "wof:parent_id":85827531,
     "wof:placetype":"venue",

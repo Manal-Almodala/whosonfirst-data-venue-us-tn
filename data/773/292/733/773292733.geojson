@@ -2,14 +2,20 @@
   "id": 773292733,
   "type": "Feature",
   "properties": {
+    "addr:full":"170 Rossview Rd Clarksville TN 37043",
+    "addr:housenumber":"170",
+    "addr:postcode":"37043",
+    "addr:street":"Rossview Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.303746,36.565639,-87.303746,36.565639",
     "geom:latitude":36.565639,
     "geom:longitude":-87.303746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"170 Rossview Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         420541999
     ],
+    "wof:brand_id":1125150427,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Qxn5vbF3VWFbbaibQgF8t_36.565639_-87.303746@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584620,
-    "wof:geomhash":"943e196792b1a9f6f37e52b3ee12ae9c",
+    "wof:geomhash":"55a42f9164eb03b55751b25ade9b5709",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773292733,
-    "wof:lastmodified":1467082859,
+    "wof:lastmodified":1510694662,
     "wof:name":"Vineyard Christian Fellowship",
     "wof:parent_id":420541999,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789778643,
   "type": "Feature",
   "properties": {
+    "addr:full":"265 W Trigg Ave Memphis TN 38106",
+    "addr:housenumber":"265",
+    "addr:postcode":"38106",
+    "addr:street":"W Trigg Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.069244,35.11263,-90.069244,35.11263",
     "geom:latitude":35.11263,
     "geom:longitude":-90.069244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"265 W Trigg Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         420542119
     ],
+    "wof:brand_id":1125154811,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6sgReKW2MGWRgQCTrtJbIb_35.112630_-90.069244@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590470,
-    "wof:geomhash":"16a6d471dbe3fe28218e5d83ce7e68d5",
+    "wof:geomhash":"2cbeedc26c3b1e549a0a7057c51069c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789778643,
-    "wof:lastmodified":1467083043,
+    "wof:lastmodified":1510695893,
     "wof:name":"Smurfit-Stone Container Corp",
     "wof:parent_id":420542119,
     "wof:placetype":"venue",

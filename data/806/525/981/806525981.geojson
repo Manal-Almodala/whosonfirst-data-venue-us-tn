@@ -2,14 +2,20 @@
   "id": 806525981,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 Dallas Rd Chattanooga TN 37405",
+    "addr:housenumber":"902",
+    "addr:postcode":"37405",
+    "addr:street":"Dallas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.30708,35.072278,-85.30708,35.072278",
     "geom:latitude":35.072278,
     "geom:longitude":-85.30708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"902 Dallas Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         420541665
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D3hUm4l2mcYfIQGRkRIXa_35.072278_-85.307080@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598835,
-    "wof:geomhash":"e64850ee66d4c7626d3d87d8f5d23efa",
+    "wof:geomhash":"17cc95f2bb1ad895f9c7695fb2bfd492",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806525981,
-    "wof:lastmodified":1467083299,
+    "wof:lastmodified":1510602936,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":420541665,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806670421,
   "type": "Feature",
   "properties": {
+    "addr:full":"2410 Highland Ave Columbia TN 38401",
+    "addr:housenumber":"2410",
+    "addr:postcode":"38401",
+    "addr:street":"Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.048294,35.591272,-87.048294,35.591272",
     "geom:latitude":35.591272,
     "geom:longitude":-87.048294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2410 Highland Ave",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087107,
         420541925
     ],
+    "wof:brand_id":1125159693,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SbTHsHXrR1KU1Xtk5gIxI_35.591272_-87.048294@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600088,
-    "wof:geomhash":"fbf34d3f91b79f09f324856aea5fdd19",
+    "wof:geomhash":"9c4160dd6cbb39e98bb263f3327b3abe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806670421,
-    "wof:lastmodified":1467083340,
+    "wof:lastmodified":1510695063,
     "wof:name":"Southern Pipe & Supply Co",
     "wof:parent_id":420541925,
     "wof:placetype":"venue",

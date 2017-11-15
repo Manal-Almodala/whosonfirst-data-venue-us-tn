@@ -2,9 +2,14 @@
   "id": 403846627,
   "type": "Feature",
   "properties": {
+    "addr:full":"6027 Walnut Grove Rd Memphis TN 38120",
+    "addr:housenumber":"6027",
+    "addr:postcode":"38120",
+    "addr:street":"Walnut Grove Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.855142,35.132789,-89.855142,35.132789",
     "geom:latitude":35.132789,
     "geom:longitude":-89.855142,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101722645,
         102087213,
@@ -43,7 +49,7 @@
     "wof:geomhash":"faf5906bf3c50e90b614195690fda082",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087213,
             "locality_id":101722645,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":403846627,
-    "wof:lastmodified":1467082782,
+    "wof:lastmodified":1491915063,
     "wof:name":"Stanley L Smith Jr MD",
     "wof:parent_id":85844747,
     "wof:placetype":"venue",

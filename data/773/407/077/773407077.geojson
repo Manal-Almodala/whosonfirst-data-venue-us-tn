@@ -2,14 +2,20 @@
   "id": 773407077,
   "type": "Feature",
   "properties": {
+    "addr:full":"3259 Millbranch Rd Memphis TN 38116",
+    "addr:housenumber":"3259",
+    "addr:postcode":"38116",
+    "addr:street":"Millbranch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.007404,35.058757,-90.007404,35.058757",
     "geom:latitude":35.058757,
     "geom:longitude":-90.007404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3259 Millbranch Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85867187
     ],
+    "wof:brand_id":1125154639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uwGpdEXKzsv6FQ84uJdBg_35.058757_-90.007404@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585467,
-    "wof:geomhash":"8352ddb9990d8e4a3c6134d378af09db",
+    "wof:geomhash":"f1a0c6cf34c811b245b5fad124f08476",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773407077,
-    "wof:lastmodified":1467082888,
+    "wof:lastmodified":1510697733,
     "wof:name":"Fleet Pride Inc",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806395413,
   "type": "Feature",
   "properties": {
+    "addr:full":"704 S Mendenhall Rd Memphis TN 38117",
+    "addr:housenumber":"704",
+    "addr:postcode":"38117",
+    "addr:street":"S Mendenhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.896124,35.112073,-89.896124,35.112073",
     "geom:latitude":35.112073,
     "geom:longitude":-89.896124,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"704 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":420575665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bTUD495MSx4TMs9XgBLRI_35.112073_-89.896124@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597795,
-    "wof:geomhash":"4f3608412ebec5dfdcff6b6f5e87fbfa",
+    "wof:geomhash":"6e9040aa34cbeff13379b6cc2818d3f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806395413,
-    "wof:lastmodified":1467083263,
+    "wof:lastmodified":1510602705,
     "wof:name":"Wild Birds Unlimited",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807401053,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"2301",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.682332,36.308452,-86.682332,36.308452",
     "geom:latitude":36.308452,
     "geom:longitude":-86.682332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4VYUPTjLCxnjtGZ0Qg6mQ5_36.308452_-86.682332@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607303,
-    "wof:geomhash":"4f911b0fe9c351e5bb2ea4965c0f10c1",
+    "wof:geomhash":"cb5fd2bad9537f804c837090880a99df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807401053,
-    "wof:lastmodified":1467083568,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

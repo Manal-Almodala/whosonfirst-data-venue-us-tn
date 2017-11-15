@@ -2,9 +2,14 @@
   "id": 790495823,
   "type": "Feature",
   "properties": {
+    "addr:full":"749 Happy Hollow Rd Goodlettsville TN 37072",
+    "addr:housenumber":"749",
+    "addr:postcode":"37072",
+    "addr:street":"Happy Hollow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.639385,36.369784,-86.639385,36.369784",
     "geom:latitude":36.369784,
     "geom:longitude":-86.639385,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9bec56414012bc5f0cd531136e258c18",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790495823,
-    "wof:lastmodified":1467083216,
+    "wof:lastmodified":1491939227,
     "wof:name":"Brown David Appliance Service",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

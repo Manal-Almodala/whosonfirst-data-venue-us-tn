@@ -2,14 +2,20 @@
   "id": 806736829,
   "type": "Feature",
   "properties": {
+    "addr:full":"15580 Old Hickory Blvd Nashville TN 37211",
+    "addr:housenumber":"15580",
+    "addr:postcode":"37211",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.740384,36.039871,-86.740384,36.039871",
     "geom:latitude":36.039871,
     "geom:longitude":-86.740384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15580 Old Hickory Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087061,
         85839247
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_34GcwgxK0BsJKgkpVpxwgK_36.039871_-86.740384@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600653,
-    "wof:geomhash":"7c99b0b6486810aaac76ad08b03f28a4",
+    "wof:geomhash":"f1342f9a1585d9e046e693f3ca4e5188",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806736829,
-    "wof:lastmodified":1467083359,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85839247,
     "wof:placetype":"venue",

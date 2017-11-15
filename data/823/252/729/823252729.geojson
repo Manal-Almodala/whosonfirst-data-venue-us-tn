@@ -2,14 +2,20 @@
   "id": 823252729,
   "type": "Feature",
   "properties": {
+    "addr:full":"7836 Kingston Pike Knoxville TN 37919",
+    "addr:housenumber":"7836",
+    "addr:postcode":"37919",
+    "addr:street":"Kingston Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.041076,35.927003,-84.041076,35.927003",
     "geom:latitude":35.927003,
     "geom:longitude":-84.041076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7836 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086455,
         85855645
     ],
+    "wof:brand_id":1125157721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2J4AnCVHLhZjnyIBjeArjG_35.927003_-84.041076@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609398,
-    "wof:geomhash":"4640ea8d98e69cdad18236a70fa69822",
+    "wof:geomhash":"bb38f48f3658758954d75eb9711fc878",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823252729,
-    "wof:lastmodified":1467083637,
+    "wof:lastmodified":1510699453,
     "wof:name":"Steak-Out",
     "wof:parent_id":85855645,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773465475,
   "type": "Feature",
   "properties": {
+    "addr:full":"6005 Superior Ct Morristown TN 37814",
+    "addr:housenumber":"6005",
+    "addr:postcode":"37814",
+    "addr:street":"Superior Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.403155,36.165148,-83.403155,36.165148",
     "geom:latitude":36.165148,
     "geom:longitude":-83.403155,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6005 Superior Ct",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086447,
         420541593
     ],
+    "wof:brand_id":1125151053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_51R5MjlUIXz6DXXhc3Tmul_36.165148_-83.403155@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585955,
-    "wof:geomhash":"02d669ef6b85c3bdc9c392ed7e5e1769",
+    "wof:geomhash":"5cc1f9c301863a68633d11ba85b547c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773465475,
-    "wof:lastmodified":1467082902,
+    "wof:lastmodified":1510613134,
     "wof:name":"Schwans Home Service Inc",
     "wof:parent_id":420541593,
     "wof:placetype":"venue",

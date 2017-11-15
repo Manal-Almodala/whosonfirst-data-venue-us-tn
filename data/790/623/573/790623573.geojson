@@ -2,14 +2,20 @@
   "id": 790623573,
   "type": "Feature",
   "properties": {
+    "addr:full":"988 Reddoch Cove Memphis TN 38119",
+    "addr:housenumber":"988",
+    "addr:postcode":"38119",
+    "addr:street":"Reddoch Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.879822,35.105731,-89.879822,35.105731",
     "geom:latitude":35.105731,
     "geom:longitude":-89.879822,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"988 Reddoch Cove",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087213,
         85807811
     ],
+    "wof:brand_id":420574973,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pIGjVTxWjmH5aoUrpvOZk_35.105731_-89.879822@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597446,
-    "wof:geomhash":"c45711c9141dd6277c5f752f73334df7",
+    "wof:geomhash":"cdefbe920cee5154804f5353e4824415",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790623573,
-    "wof:lastmodified":1467083251,
+    "wof:lastmodified":1510604483,
     "wof:name":"Home Instead Senior Care",
     "wof:parent_id":85807811,
     "wof:placetype":"venue",

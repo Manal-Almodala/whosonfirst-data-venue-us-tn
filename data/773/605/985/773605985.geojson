@@ -2,9 +2,14 @@
   "id": 773605985,
   "type": "Feature",
   "properties": {
+    "addr:full":"1304 Lewisburg Pike Franklin TN 37064",
+    "addr:housenumber":"1304",
+    "addr:postcode":"37064",
+    "addr:street":"Lewisburg Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.846103,35.865295,-86.846103,35.865295",
     "geom:latitude":35.865295,
     "geom:longitude":-86.846103,
@@ -29,12 +34,7 @@
         "or"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_624TKpbUouzzSvhKzdTyTc_35.865295_-86.846103@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462586982,
     "wof:geomhash":"5937da853f90df866df02817dd0bc870",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773605985
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773605985,
-    "wof:lastmodified":1467082935,
+    "wof:lastmodified":1491930836,
     "wof:name":"Martoccci Family Partnership",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

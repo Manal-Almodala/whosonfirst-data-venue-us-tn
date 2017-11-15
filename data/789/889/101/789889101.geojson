@@ -2,6 +2,10 @@
   "id": 789889101,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 Nicholas St Memphis TN 38107",
+    "addr:housenumber":"1337",
+    "addr:postcode":"38107",
+    "addr:street":"Nicholas St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789889101,
-    "wof:lastmodified":1467083070,
+    "wof:lastmodified":1472645256,
     "wof:name":"Holy Chapel Missionary Baptist",
     "wof:parent_id":420542117,
     "wof:placetype":"venue",

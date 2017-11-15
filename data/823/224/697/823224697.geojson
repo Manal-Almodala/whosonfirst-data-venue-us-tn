@@ -2,14 +2,20 @@
   "id": 823224697,
   "type": "Feature",
   "properties": {
+    "addr:full":"1407 Union Ave Memphis TN 38104",
+    "addr:housenumber":"1407",
+    "addr:postcode":"38104",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.014587,35.136639,-90.014587,35.136639",
     "geom:latitude":35.136639,
     "geom:longitude":-90.014587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1407 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087213,
         85846027
     ],
+    "wof:brand_id":1125153897,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0AdMJ3NO1qvrTv6c8WPT5a_35.136703_-90.015296@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462608833,
-    "wof:geomhash":"317a8be1a7070904ff32d4eedd3175a6",
+    "wof:geomhash":"56436d502b15154496fd2839f36deacd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":823224697,
-    "wof:lastmodified":1467083617,
+    "wof:lastmodified":1510698862,
     "wof:name":"Physiotherapy Associates",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",

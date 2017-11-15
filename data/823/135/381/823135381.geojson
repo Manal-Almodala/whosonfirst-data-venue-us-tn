@@ -2,9 +2,14 @@
   "id": 823135381,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 Arnetty Dr Cottontown TN 37048",
+    "addr:housenumber":"208",
+    "addr:postcode":"37048",
+    "addr:street":"Arnetty Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.613286,36.45212,-86.613286,36.45212",
     "geom:latitude":36.45212,
     "geom:longitude":-86.613286,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -46,6 +52,7 @@
     "wof:geomhash":"bfc0c7df8965a975dc0011e99d78b427",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823135381,
-    "wof:lastmodified":1467083570,
+    "wof:lastmodified":1491939204,
     "wof:name":"Training For Success",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823168901,
   "type": "Feature",
   "properties": {
+    "addr:full":"660 Eastern Star Rd Kingsport TN 37663",
+    "addr:housenumber":"660",
+    "addr:postcode":"37663",
+    "addr:street":"Eastern Star Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.521089,36.44031,-82.521089,36.44031",
     "geom:latitude":36.44031,
     "geom:longitude":-82.521089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"660 Eastern Star Rd",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086471,
         85826065
     ],
+    "wof:brand_id":1125157281,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xto2kbAxLhN0Iv8TopAT9_36.440310_-82.521089@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607916,
-    "wof:geomhash":"ae8f086ad5b9c620e03414eee31fc6ab",
+    "wof:geomhash":"8e7297bc1cd96a1c55ed38facc89c70e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823168901,
-    "wof:lastmodified":1467083585,
+    "wof:lastmodified":1510696752,
     "wof:name":"Trane Co",
     "wof:parent_id":85826065,
     "wof:placetype":"venue",

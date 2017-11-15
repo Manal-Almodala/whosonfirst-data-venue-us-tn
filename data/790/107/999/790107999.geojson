@@ -2,14 +2,20 @@
   "id": 790107999,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 Patrick Ave Franklin TN 37069",
+    "addr:housenumber":"104",
+    "addr:postcode":"37069",
+    "addr:street":"Patrick Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.887492,35.931855,-86.887492,35.931855",
     "geom:latitude":35.931855,
     "geom:longitude":-86.887492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 Patrick Ave",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85826737
     ],
+    "wof:brand_id":420575943,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0bNwne7RltZ1S6nJYJIhSB_35.931855_-86.887492@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593206,
-    "wof:geomhash":"6209cbfcdf7995ef85a335673145f772",
+    "wof:geomhash":"b35a64301b08a340c82cff322cb00f02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790107999,
-    "wof:lastmodified":1467083122,
+    "wof:lastmodified":1510602677,
     "wof:name":"Sears Roebuck and Co Inc",
     "wof:parent_id":85826737,
     "wof:placetype":"venue",

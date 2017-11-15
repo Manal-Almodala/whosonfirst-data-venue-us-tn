@@ -2,14 +2,20 @@
   "id": 807354709,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Jackson St Mt Pleasant TN 38474",
+    "addr:housenumber":"210",
+    "addr:postcode":"38474",
+    "addr:street":"Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.210923,35.518969,-87.210923,35.518969",
     "geom:latitude":35.518969,
     "geom:longitude":-87.210923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 Jackson St",
     "sg:city":"Mt Pleasant",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087107,
         85844095
     ],
+    "wof:brand_id":420575691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IGpTk3xyntUShFkWNsL7f_35.518969_-87.210923@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606568,
-    "wof:geomhash":"53894d6f7eb729d0aee6ec38219ec89b",
+    "wof:geomhash":"aa53ac02cb5d3ded0f0607b2cc150f03",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807354709,
-    "wof:lastmodified":1467083546,
+    "wof:lastmodified":1510602691,
     "wof:name":"Mothers Against Drunk Driving",
     "wof:parent_id":85844095,
     "wof:placetype":"venue",

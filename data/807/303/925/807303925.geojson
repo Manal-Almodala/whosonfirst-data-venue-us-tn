@@ -2,9 +2,14 @@
   "id": 807303925,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 Bowling Branch Rd Cottontown TN 37048",
+    "addr:housenumber":"231",
+    "addr:postcode":"37048",
+    "addr:street":"Branch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.631149,36.510007,-86.631149,36.510007",
     "geom:latitude":36.510007,
     "geom:longitude":-86.631149,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"edb8150d67d834cf8b6c09a691b1cc8e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807303925,
-    "wof:lastmodified":1467083525,
+    "wof:lastmodified":1491939216,
     "wof:name":"Ashwood Builder LLC",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

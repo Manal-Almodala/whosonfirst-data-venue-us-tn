@@ -2,14 +2,20 @@
   "id": 790106189,
   "type": "Feature",
   "properties": {
+    "addr:full":"5250 State Hwy 153 Hixson TN 37343",
+    "addr:housenumber":"5250",
+    "addr:postcode":"37343",
+    "addr:street":"State Hwy 153",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.241639,35.126554,-85.241639,35.126554",
     "geom:latitude":35.126554,
     "geom:longitude":-85.241639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5250 State Hwy 153",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         420541703
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ecAAsQfquy5p9w1Wi2onu_35.126554_-85.241639@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593193,
-    "wof:geomhash":"d6b49ba14db45d36990a8f3bac455352",
+    "wof:geomhash":"ec044004a5fc18eea2aefbb3db992bef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790106189,
-    "wof:lastmodified":1467083121,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":420541703,
     "wof:placetype":"venue",

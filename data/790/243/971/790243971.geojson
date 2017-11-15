@@ -2,14 +2,20 @@
   "id": 790243971,
   "type": "Feature",
   "properties": {
+    "addr:full":"745 Old Hickory Blvd Jackson TN 38305",
+    "addr:housenumber":"745",
+    "addr:postcode":"38305",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.856441,35.656134,-88.856441,35.656134",
     "geom:latitude":35.656134,
     "geom:longitude":-88.856441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"745 Old Hickory Blvd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QsEnhvFRDDkeDASyUbQDP_35.656134_-88.856441@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594276,
-    "wof:geomhash":"b955e4523c58d59717e655c75045e1c5",
+    "wof:geomhash":"cdde817b2e64bbb3473652c98e1903e5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790243971,
-    "wof:lastmodified":1467083154,
+    "wof:lastmodified":1510697539,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

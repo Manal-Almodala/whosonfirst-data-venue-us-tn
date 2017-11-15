@@ -2,14 +2,20 @@
   "id": 789937287,
   "type": "Feature",
   "properties": {
+    "addr:full":"249 E Main St Hendersonville TN 37075",
+    "addr:housenumber":"249",
+    "addr:postcode":"37075",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.603279,36.30878,-86.603279,36.30878",
     "geom:latitude":36.30878,
     "geom:longitude":-86.603279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"249 E Main St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086357,
         85837037
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0B8SmNyqZJioZm7oP86uEZ_36.308780_-86.603279@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591768,
-    "wof:geomhash":"e94646bfc5aed6e2e57b8507b6bed5ef",
+    "wof:geomhash":"d301513d06aad08da409ac9f06f87364",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789937287,
-    "wof:lastmodified":1467083081,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":85837037,
     "wof:placetype":"venue",

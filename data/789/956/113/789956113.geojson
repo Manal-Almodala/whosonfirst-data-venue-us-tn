@@ -2,14 +2,20 @@
   "id": 789956113,
   "type": "Feature",
   "properties": {
+    "addr:full":"3725 Modern Industries Pkwy Chattanooga TN 37419",
+    "addr:housenumber":"3725",
+    "addr:postcode":"37419",
+    "addr:street":"Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.384547,35.016094,-85.384547,35.016094",
     "geom:latitude":35.016094,
     "geom:longitude":-85.384547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3725 Modern Industries Pkwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087185,
         85846641
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tOJnJeGgOGzCEPNFgfwT5_35.016094_-85.384547@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591968,
-    "wof:geomhash":"6c7dc3df2caf83bd3908d5e71f179bf3",
+    "wof:geomhash":"b2b617b315b0e4278a7263eefa073834",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789956113,
-    "wof:lastmodified":1467083086,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85846641,
     "wof:placetype":"venue",

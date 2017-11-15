@@ -2,14 +2,20 @@
   "id": 789868263,
   "type": "Feature",
   "properties": {
+    "addr:full":"164 Old Johnson Rd SW Cleveland TN 37311",
+    "addr:housenumber":"164",
+    "addr:postcode":"37311",
+    "addr:street":"Old Johnson Rd Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.960717,35.057794,-84.960717,35.057794",
     "geom:latitude":35.057794,
     "geom:longitude":-84.960717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"164 Old Johnson Rd SW",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087043,
         85849565
     ],
+    "wof:brand_id":1125156399,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2aWXfTPn7nWLx6sjaHhbVW_35.057794_-84.960717@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591170,
-    "wof:geomhash":"ac07c4aea1c9facaf5275a11e2d1de95",
+    "wof:geomhash":"62c02f13ea9dd433c1c640f1317b07fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789868263,
-    "wof:lastmodified":1467083065,
+    "wof:lastmodified":1510699929,
     "wof:name":"Galilee Baptist Church",
     "wof:parent_id":85849565,
     "wof:placetype":"venue",

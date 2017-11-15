@@ -2,14 +2,20 @@
   "id": 806866801,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 Outlet Village Blvd Lebanon TN 37090",
+    "addr:housenumber":"410",
+    "addr:postcode":"37090",
+    "addr:street":"Outlet Village Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.303394,36.178433,-86.303394,36.178433",
     "geom:latitude":36.178433,
     "geom:longitude":-86.303394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 Outlet Village Blvd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125153085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gMS3qUDDSaPLmST0G0O1T_36.178433_-86.303394@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601747,
-    "wof:geomhash":"bc7162941db9b9daa4ee74721b0ed282",
+    "wof:geomhash":"4b4e92dc03615cc9cc11760aede47e19",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806866801,
-    "wof:lastmodified":1467083395,
+    "wof:lastmodified":1510695172,
     "wof:name":"Coach Store",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

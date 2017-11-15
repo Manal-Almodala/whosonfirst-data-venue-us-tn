@@ -2,14 +2,20 @@
   "id": 807163459,
   "type": "Feature",
   "properties": {
+    "addr:full":"2088 Wilma Rudolph Blvd Clarksville TN 37040",
+    "addr:housenumber":"2088",
+    "addr:postcode":"37040",
+    "addr:street":"Wilma Rudolph Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.314569,36.56137,-87.314569,36.56137",
     "geom:latitude":36.56137,
     "geom:longitude":-87.314569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2088 Wilma Rudolph Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086353,
         85833385
     ],
+    "wof:brand_id":1125152841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1cCHOQQnWhtky5o8vexvx0_36.561370_-87.314569@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604413,
-    "wof:geomhash":"be9045d5621cca2df5f3c795d28f7323",
+    "wof:geomhash":"20c3505f3c79f94bd544faba5cdd9ae4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807163459,
-    "wof:lastmodified":1467083477,
+    "wof:lastmodified":1510693748,
     "wof:name":"Amoco Food Mart",
     "wof:parent_id":85833385,
     "wof:placetype":"venue",

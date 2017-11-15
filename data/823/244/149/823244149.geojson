@@ -2,14 +2,20 @@
   "id": 823244149,
   "type": "Feature",
   "properties": {
+    "addr:full":"2151 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"2151",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.690543,36.303627,-86.690543,36.303627",
     "geom:latitude":36.303627,
     "geom:longitude":-86.690543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2151 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125150801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_132suhbmby1WfPCIkjH8R9_36.303627_-86.690543@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609222,
-    "wof:geomhash":"be9f3de0415ded9df21d5834bc1a2c13",
+    "wof:geomhash":"f634aae659ab3309e1d31b07d0cd9519",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823244149,
-    "wof:lastmodified":1467083631,
+    "wof:lastmodified":1510697335,
     "wof:name":"Hometown Buffet",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

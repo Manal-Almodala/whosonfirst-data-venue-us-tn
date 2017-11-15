@@ -2,9 +2,14 @@
   "id": 806773853,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Banbury Park Ln Franklin TN 37069",
+    "addr:housenumber":"301",
+    "addr:postcode":"37069",
+    "addr:street":"Banbury Park Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.87744,35.96273,-86.87744,35.96273",
     "geom:latitude":35.96273,
     "geom:longitude":-86.87744,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -40,6 +46,7 @@
     "wof:geomhash":"81e27f51ff1f9c8c1f354d4a199cbe8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806773853,
-    "wof:lastmodified":1467083370,
+    "wof:lastmodified":1491924169,
     "wof:name":"Franklin Management Group Inc",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

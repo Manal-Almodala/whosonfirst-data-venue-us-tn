@@ -2,14 +2,20 @@
   "id": 789975733,
   "type": "Feature",
   "properties": {
+    "addr:full":"2360 Murfreesboro Pike Nashville TN 37217",
+    "addr:housenumber":"2360",
+    "addr:postcode":"37217",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.647927,36.085677,-86.647927,36.085677",
     "geom:latitude":36.085677,
     "geom:longitude":-86.647927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2360 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85841041
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DQexXDaaPLlG0cUKnpZ1e_36.085677_-86.647927@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592135,
-    "wof:geomhash":"7f9c3ad938fde931ae9f7d694db2d9be",
+    "wof:geomhash":"a1697bc95782c30206f9a299b1beb086",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789975733,
-    "wof:lastmodified":1467083091,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85841041,
     "wof:placetype":"venue",

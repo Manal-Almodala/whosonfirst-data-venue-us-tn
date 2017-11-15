@@ -2,14 +2,20 @@
   "id": 823246347,
   "type": "Feature",
   "properties": {
+    "addr:full":"465 Opry Mills Dr Nashville TN 37214",
+    "addr:housenumber":"465",
+    "addr:postcode":"37214",
+    "addr:street":"Opry Mills Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.696257,36.205906,-86.696257,36.205906",
     "geom:latitude":36.205906,
     "geom:longitude":-86.696257,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"465 Opry Mills Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087061,
         85893467
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QjU7xYwDJ7kLBy5JoUbVZ_36.205906_-86.696257@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609266,
-    "wof:geomhash":"8b821c0476c95512bd3476c6aab62bc6",
+    "wof:geomhash":"f4faed10171122a4caca3f17a9f0aad7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823246347,
-    "wof:lastmodified":1467083632,
+    "wof:lastmodified":1510693709,
     "wof:name":"Tony Romas",
     "wof:parent_id":85893467,
     "wof:placetype":"venue",

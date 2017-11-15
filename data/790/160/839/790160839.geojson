@@ -2,14 +2,20 @@
   "id": 790160839,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Liberty Rd Fayetteville TN 37334",
+    "addr:housenumber":"3",
+    "addr:postcode":"37334",
+    "addr:street":"Liberty Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.565573,35.115386,-86.565573,35.115386",
     "geom:latitude":35.115386,
     "geom:longitude":-86.565573,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Liberty Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087119,
         85868159
     ],
+    "wof:brand_id":1125157531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SyHLBv1uJ6xWUmc7WA9XQ_35.115386_-86.565573@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593601,
-    "wof:geomhash":"05363b6413476b2571dc10946f44a084",
+    "wof:geomhash":"83da34eb22a105d7e13f2bbe9313e2b7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790160839,
-    "wof:lastmodified":1467083134,
+    "wof:lastmodified":1510695841,
     "wof:name":"Valley View Apartments",
     "wof:parent_id":85868159,
     "wof:placetype":"venue",

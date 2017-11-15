@@ -2,14 +2,20 @@
   "id": 773739115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1664 E Stone Dr Kingsport TN 37660",
+    "addr:housenumber":"1664",
+    "addr:postcode":"37660",
+    "addr:street":"E Stone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.518259,36.547875,-82.518259,36.547875",
     "geom:latitude":36.547875,
     "geom:longitude":-82.518259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1664 E Stone Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         85843109
     ],
+    "wof:brand_id":1125150835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69UoVhBRqPdgehlRBlvfFf_36.547875_-82.518259@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588015,
-    "wof:geomhash":"3bf86fdba90a672279c20642ec0d612c",
+    "wof:geomhash":"9dbcacdf405e3e80a5c4179c397b417b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773739115,
-    "wof:lastmodified":1467082968,
+    "wof:lastmodified":1510695414,
     "wof:name":"Lincare Inc",
     "wof:parent_id":85843109,
     "wof:placetype":"venue",

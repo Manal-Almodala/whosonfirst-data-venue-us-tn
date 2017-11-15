@@ -2,14 +2,20 @@
   "id": 773241151,
   "type": "Feature",
   "properties": {
+    "addr:full":"417 S 2nd St Clarksville TN 37040",
+    "addr:housenumber":"417",
+    "addr:postcode":"37040",
+    "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.357637,36.523436,-87.357637,36.523436",
     "geom:latitude":36.523436,
     "geom:longitude":-87.357637,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"417 S 2nd St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85807343,
         102086353
     ],
+    "wof:brand_id":420575849,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6B7OHQiLdKXxZkcbqrFgJb_36.523436_-87.357637@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584224,
-    "wof:geomhash":"f641eaaadb9fa785231ae040d2af2f63",
+    "wof:geomhash":"123157d934893a68fe9960750ee8e8a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773241151,
-    "wof:lastmodified":1467082842,
+    "wof:lastmodified":1510602945,
     "wof:name":"BellSouth",
     "wof:parent_id":85807343,
     "wof:placetype":"venue",

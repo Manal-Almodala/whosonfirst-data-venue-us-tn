@@ -2,14 +2,20 @@
   "id": 789891469,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 Downs Blvd Franklin TN 37064",
+    "addr:housenumber":"415",
+    "addr:postcode":"37064",
+    "addr:street":"Downs Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.883239,35.908183,-86.883239,35.908183",
     "geom:latitude":35.908183,
     "geom:longitude":-86.883239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"415 Downs Blvd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086337,
         85845729
     ],
+    "wof:brand_id":1125154023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MwgiQcHlO1w5bk2WPvwf5_35.908183_-86.883239@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591381,
-    "wof:geomhash":"94c1521da107acc5a0c9dd050abd4e57",
+    "wof:geomhash":"f45c1682e8b3c34589b3ca87938fd504",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789891469,
-    "wof:lastmodified":1467083070,
+    "wof:lastmodified":1510697398,
     "wof:name":"APAC",
     "wof:parent_id":85845729,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773315209,
   "type": "Feature",
   "properties": {
+    "addr:full":"4766 Tuggle Rd Memphis TN 38118",
+    "addr:housenumber":"4766",
+    "addr:postcode":"38118",
+    "addr:street":"Tuggle Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.8886,35.018771,-89.8886,35.018771",
     "geom:latitude":35.018771,
     "geom:longitude":-89.8886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4766 Tuggle Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85870783,
         85870781
     ],
+    "wof:brand_id":1125152099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zykbhOABtQVLxYm1X70Dn_35.018771_-89.888600@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584806,
-    "wof:geomhash":"f4285957071efb601bb15d48a7c528c1",
+    "wof:geomhash":"1690efb52fd111883f056a9979051a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":773315209,
-    "wof:lastmodified":1467082866,
+    "wof:lastmodified":1510696863,
     "wof:name":"Martin Marietta Aggregates",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

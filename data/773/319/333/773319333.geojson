@@ -2,14 +2,20 @@
   "id": 773319333,
   "type": "Feature",
   "properties": {
+    "addr:full":"4140 B F Goodrich Blvd Memphis TN 38118",
+    "addr:housenumber":"4140 b f",
+    "addr:postcode":"38118",
+    "addr:street":"Goodrich Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.921326,35.033236,-89.921326,35.033236",
     "geom:latitude":35.033236,
     "geom:longitude":-89.921326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4140 B F Goodrich Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870785
     ],
+    "wof:brand_id":1125152753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gAPseo1RabCpm2Iryjgmw_35.033236_-89.921326@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584838,
-    "wof:geomhash":"d1bf8b454f18041fac7073cf09d6f923",
+    "wof:geomhash":"ee9424541b75706fe5386a189c6101d7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773319333,
-    "wof:lastmodified":1467082867,
+    "wof:lastmodified":1510693927,
     "wof:name":"Xpedx",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",

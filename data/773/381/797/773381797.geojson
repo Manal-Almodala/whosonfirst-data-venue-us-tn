@@ -2,14 +2,20 @@
   "id": 773381797,
   "type": "Feature",
   "properties": {
+    "addr:full":"2333 Shellmound Rd Jasper TN 37347",
+    "addr:housenumber":"2333",
+    "addr:postcode":"37347",
+    "addr:street":"Shellmound Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.608308,35.023599,-85.608308,35.023599",
     "geom:latitude":35.023599,
     "geom:longitude":-85.608308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2333 Shellmound Rd",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086347,
         85814617
     ],
+    "wof:brand_id":1125150907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QkzARhMrUEhdew3OX3YB7_35.023599_-85.608308@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585265,
-    "wof:geomhash":"f3c5d3fd098cca75f8f4c3bfa13871ab",
+    "wof:geomhash":"b24e935015f29bde6693f701cd993cb8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773381797,
-    "wof:lastmodified":1467082882,
+    "wof:lastmodified":1510696730,
     "wof:name":"Tabernacle Baptist Church",
     "wof:parent_id":85814617,
     "wof:placetype":"venue",

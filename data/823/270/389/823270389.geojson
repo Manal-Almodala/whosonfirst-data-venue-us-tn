@@ -2,14 +2,20 @@
   "id": 823270389,
   "type": "Feature",
   "properties": {
+    "addr:full":"4051 Amnicola Hwy Chattanooga TN 37406",
+    "addr:housenumber":"4051",
+    "addr:postcode":"37406",
+    "addr:street":"Amnicola Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.253786,35.093819,-85.253786,35.093819",
     "geom:latitude":35.093819,
     "geom:longitude":-85.253786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4051 Amnicola Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102087185,
         420541739
     ],
+    "wof:brand_id":420575953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55PHcl47fin7jxmBRLuX7X_35.093819_-85.253786@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609929,
-    "wof:geomhash":"7fd0b93ccbb0e27e6aca45d6f67f1e05",
+    "wof:geomhash":"b60cf1e56f0c352dda80bb71aa749200",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":823270389,
-    "wof:lastmodified":1467083655,
+    "wof:lastmodified":1510602436,
     "wof:name":"United States Government",
     "wof:parent_id":420541739,
     "wof:placetype":"venue",

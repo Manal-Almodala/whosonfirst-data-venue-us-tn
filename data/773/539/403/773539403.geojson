@@ -2,9 +2,14 @@
   "id": 773539403,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Cavalcade Cir Franklin TN 37069",
+    "addr:housenumber":"200",
+    "addr:postcode":"37069",
+    "addr:street":"Cavalcade Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.885803,35.968071,-86.885803,35.968071",
     "geom:latitude":35.968071,
     "geom:longitude":-86.885803,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -40,6 +46,7 @@
     "wof:geomhash":"f492528d86aed390ac7d711bc4b36f7a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773539403,
-    "wof:lastmodified":1467082920,
+    "wof:lastmodified":1491924151,
     "wof:name":"Cubbys Music",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

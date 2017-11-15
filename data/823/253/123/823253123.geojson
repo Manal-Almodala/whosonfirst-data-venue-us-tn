@@ -2,14 +2,20 @@
   "id": 823253123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1039 N Cedar Bluff Rd Knoxville TN 37923",
+    "addr:housenumber":"1039",
+    "addr:postcode":"37923",
+    "addr:street":"N Cedar Bluff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.094331,35.941165,-84.094331,35.941165",
     "geom:latitude":35.941165,
     "geom:longitude":-84.094331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1039 N Cedar Bluff Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85810021
     ],
+    "wof:brand_id":1125150555,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Es30EnDqsLv1igvFRtwyL_35.941165_-84.094331@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609406,
-    "wof:geomhash":"c2d1e38150f66aec0c59764c83fc9d2c",
+    "wof:geomhash":"63bbb06fb636459c4d84501921d74a1c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823253123,
-    "wof:lastmodified":1467083637,
+    "wof:lastmodified":1510699446,
     "wof:name":"Super Suppers",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",

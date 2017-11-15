@@ -2,14 +2,20 @@
   "id": 790403109,
   "type": "Feature",
   "properties": {
+    "addr:full":"156 W University Pkwy Jackson TN 38305",
+    "addr:housenumber":"156",
+    "addr:postcode":"38305",
+    "addr:street":"W University Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.835803,35.696154,-88.835803,35.696154",
     "geom:latitude":35.696154,
     "geom:longitude":-88.835803,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"156 W University Pkwy",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E50aGG1rm6ctDWOixPqjX_35.696154_-88.835803@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595556,
-    "wof:geomhash":"e325f1f3a30ba7f0e108790b4fb2fe3b",
+    "wof:geomhash":"d78703dc55353172bae5a599c6ad3f71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790403109,
-    "wof:lastmodified":1467083192,
+    "wof:lastmodified":1510693886,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

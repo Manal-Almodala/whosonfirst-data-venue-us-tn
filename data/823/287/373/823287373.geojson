@@ -2,14 +2,20 @@
   "id": 823287373,
   "type": "Feature",
   "properties": {
+    "addr:full":"5323 Poplar Ave Memphis TN 38119",
+    "addr:housenumber":"5323",
+    "addr:postcode":"38119",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.884266,35.107508,-89.884266,35.107508",
     "geom:latitude":35.107508,
     "geom:longitude":-89.884266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5323 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102087213,
         85870777
     ],
+    "wof:brand_id":420573949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hXouGswzpDMUslDTyiMW2_35.107508_-89.884266@1303262742"
     },
     "wof:country":"US",
     "wof:created":1462610602,
-    "wof:geomhash":"5cdbf5ee91306ef4ce8c795d118f15de",
+    "wof:geomhash":"8bad4307bb40d28869886be228a2fa98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":823287373,
-    "wof:lastmodified":1467083679,
+    "wof:lastmodified":1510603285,
     "wof:name":"Verizon Wireless",
     "wof:parent_id":85870777,
     "wof:placetype":"venue",

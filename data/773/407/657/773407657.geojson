@@ -2,14 +2,20 @@
   "id": 773407657,
   "type": "Feature",
   "properties": {
+    "addr:full":"4409 Summer Ave Memphis TN 38122",
+    "addr:housenumber":"4409",
+    "addr:postcode":"38122",
+    "addr:street":"Summer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.91398,35.148767,-89.91398,35.148767",
     "geom:latitude":35.148767,
     "geom:longitude":-89.91398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4409 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":420574325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6N0D6ZBzyEgEniA2iv541k_35.148767_-89.913980@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585472,
-    "wof:geomhash":"ca291e1578d1c1a18173d74df5530dc4",
+    "wof:geomhash":"3caf039a18f163559a6577f79585b30c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773407657,
-    "wof:lastmodified":1467082888,
+    "wof:lastmodified":1510604360,
     "wof:name":"Public Storage Inc",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

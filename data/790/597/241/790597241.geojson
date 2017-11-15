@@ -2,9 +2,14 @@
   "id": 790597241,
   "type": "Feature",
   "properties": {
+    "addr:full":"1269 Lewisburg Pike Franklin TN 37064",
+    "addr:housenumber":"1269",
+    "addr:postcode":"37064",
+    "addr:street":"Lewisburg Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.845206,35.87018,-86.845206,35.87018",
     "geom:latitude":35.87018,
     "geom:longitude":-86.845206,
@@ -29,12 +34,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PNMm7rFX9VN2lIVRjV6dY_35.870180_-86.845206@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462597187,
     "wof:geomhash":"21c4af9f9f793be0b48825a845f102f5",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":790597241
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790597241,
-    "wof:lastmodified":1467083244,
+    "wof:lastmodified":1491930841,
     "wof:name":"Custom Classic Homes LLC",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

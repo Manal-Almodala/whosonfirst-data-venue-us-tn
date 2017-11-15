@@ -2,14 +2,20 @@
   "id": 823171879,
   "type": "Feature",
   "properties": {
+    "addr:full":"49 Cleveland St Crossville TN 38555",
+    "addr:housenumber":"49",
+    "addr:postcode":"38555",
+    "addr:street":"Cleveland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.022578,35.943871,-85.022578,35.943871",
     "geom:latitude":35.943871,
     "geom:longitude":-85.022578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"49 Cleveland St",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":1125158123,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72FpmSj6lVvBnfAxfHmvQj_35.943871_-85.022578@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607951,
-    "wof:geomhash":"680aeea25514cb51a9e7a1882a080111",
+    "wof:geomhash":"3b589567c022a134d000c4e30fb01d37",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823171879,
-    "wof:lastmodified":1467083586,
+    "wof:lastmodified":1510695053,
     "wof:name":"Lab Corp",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790146175,
   "type": "Feature",
   "properties": {
+    "addr:full":"7777 N Brother Blvd Memphis TN 38133",
+    "addr:housenumber":"7777",
+    "addr:postcode":"38133",
+    "addr:street":"N Brother Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.80522,35.216764,-89.80522,35.216764",
     "geom:latitude":35.216764,
     "geom:longitude":-89.80522,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7777 N Brother Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125150463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S5vxjBNueP33EoqG0ipY1_35.216764_-89.805220@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593480,
-    "wof:geomhash":"bef9eeb22798d989c3b83445177a11b2",
+    "wof:geomhash":"3e3f7f300213d389769011b8997b8052",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790146175,
-    "wof:lastmodified":1467083131,
+    "wof:lastmodified":1510694146,
     "wof:name":"Pitney Bowes",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

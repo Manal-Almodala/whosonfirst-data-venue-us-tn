@@ -2,14 +2,20 @@
   "id": 790622529,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 S Church St Mountain City TN 37683",
+    "addr:housenumber":"303",
+    "addr:postcode":"37683",
+    "addr:street":"S Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.8047,36.472414,-81.8047,36.472414",
     "geom:latitude":36.472414,
     "geom:longitude":-81.8047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"303 S Church St",
     "sg:city":"Mountain City",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086291,
         85830907
     ],
+    "wof:brand_id":1125154483,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Lk2IeIaloiJCBXo7k3NKE_36.472414_-81.804700@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597438,
-    "wof:geomhash":"0afefcf42bb83cc3540b1f04bbf35b0c",
+    "wof:geomhash":"4ea0ced36adbfc26db78f7cf05325f09",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790622529,
-    "wof:lastmodified":1467083251,
+    "wof:lastmodified":1510695957,
     "wof:name":"Shear Designs",
     "wof:parent_id":85830907,
     "wof:placetype":"venue",

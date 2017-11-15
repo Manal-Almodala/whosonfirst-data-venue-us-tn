@@ -2,14 +2,20 @@
   "id": 773303405,
   "type": "Feature",
   "properties": {
+    "addr:full":"1661 International Dr Memphis TN 38120",
+    "addr:housenumber":"1661",
+    "addr:postcode":"38120",
+    "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.848375,35.10395,-89.848375,35.10395",
     "geom:latitude":35.10395,
     "geom:longitude":-89.848375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1661 International Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870789
     ],
+    "wof:brand_id":420574961,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Qn8WtUdo4C2Xb9ysYimJ1_35.103950_-89.848375@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584710,
-    "wof:geomhash":"b3d468d2ca255da7409137a91e6fe04c",
+    "wof:geomhash":"0eea1435cb942ecb5425556567891b17",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773303405,
-    "wof:lastmodified":1467082863,
+    "wof:lastmodified":1510604134,
     "wof:name":"Smith Barney",
     "wof:parent_id":85870789,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773460399,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Midtown Ct Hendersonville TN 37075",
+    "addr:housenumber":"116",
+    "addr:postcode":"37075",
+    "addr:street":"Midtown Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.634407,36.304364,-86.634407,36.304364",
     "geom:latitude":36.304364,
     "geom:longitude":-86.634407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 Midtown Ct",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086357,
         85837037
     ],
+    "wof:brand_id":1125155643,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6mHFBSiCe61wT0KJcbmyYY_36.304364_-86.634407@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585919,
-    "wof:geomhash":"bc8999668b2d5e3f60f6f7cf625c6185",
+    "wof:geomhash":"102f9114fe6da04f0d6d1876582f9935",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773460399,
-    "wof:lastmodified":1467082901,
+    "wof:lastmodified":1510697976,
     "wof:name":"Nationsrent Inc",
     "wof:parent_id":85837037,
     "wof:placetype":"venue",

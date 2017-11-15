@@ -2,14 +2,20 @@
   "id": 790325351,
   "type": "Feature",
   "properties": {
+    "addr:full":"276 Morrell Rd Knoxville TN 37919",
+    "addr:housenumber":"276",
+    "addr:postcode":"37919",
+    "addr:street":"Morrell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.034596,35.926234,-84.034596,35.926234",
     "geom:latitude":35.926234,
     "geom:longitude":-84.034596,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"276 Morrell Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086455,
         85855645
     ],
+    "wof:brand_id":420575341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Dp3vu4GWs9xbpW5ntpMZP_35.926234_-84.034596@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594958,
-    "wof:geomhash":"30944f2574310dd728377b7491f9552f",
+    "wof:geomhash":"423928872731f70f3ff19cf5ece81a7b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790325351,
-    "wof:lastmodified":1467083173,
+    "wof:lastmodified":1510602401,
     "wof:name":"Stein Mart",
     "wof:parent_id":85855645,
     "wof:placetype":"venue",

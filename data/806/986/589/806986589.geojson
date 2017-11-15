@@ -2,14 +2,20 @@
   "id": 806986589,
   "type": "Feature",
   "properties": {
+    "addr:full":"755 Broad St NW Cleveland TN 37311",
+    "addr:housenumber":"755",
+    "addr:postcode":"37311",
+    "addr:street":"Broad St Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.874237,35.163151,-84.874237,35.163151",
     "geom:latitude":35.163151,
     "geom:longitude":-84.874237,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"755 Broad St NW",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087043,
         85803171
     ],
+    "wof:brand_id":420575439,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Y4JoMfPa95uZmGeEsXxYn_35.163151_-84.874237@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602749,
-    "wof:geomhash":"a6caa27bbefc33a727f1f96130192412",
+    "wof:geomhash":"a67aaf7fad168bd2de1ed3f02f314067",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806986589,
-    "wof:lastmodified":1467083428,
+    "wof:lastmodified":1510602977,
     "wof:name":"First American Cash Advance",
     "wof:parent_id":85803171,
     "wof:placetype":"venue",

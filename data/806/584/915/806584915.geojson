@@ -2,14 +2,20 @@
   "id": 806584915,
   "type": "Feature",
   "properties": {
+    "addr:full":"1951 Madison St Clarksville TN 37043",
+    "addr:housenumber":"1951",
+    "addr:postcode":"37043",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.29755,36.514379,-87.29755,36.514379",
     "geom:latitude":36.514379,
     "geom:longitude":-87.29755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1951 Madison St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         420541967
     ],
+    "wof:brand_id":1125150843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E2MM3z0aUoGl8jAT3EEIf_36.514379_-87.297550@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599353,
-    "wof:geomhash":"4c06fae01f671232112f4eac85490b50",
+    "wof:geomhash":"6bdd09fff4df99df78f90c747dd8fece",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806584915,
-    "wof:lastmodified":1467083315,
+    "wof:lastmodified":1510693807,
     "wof:name":"Tuesday Morning Inc",
     "wof:parent_id":420541967,
     "wof:placetype":"venue",

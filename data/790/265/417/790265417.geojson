@@ -2,14 +2,20 @@
   "id": 790265417,
   "type": "Feature",
   "properties": {
+    "addr:full":"8725 Dolph Dr Knoxville TN 37931",
+    "addr:housenumber":"",
+    "addr:postcode":"8725;37931",
+    "addr:street":"Dolph Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.120024,35.975287,-84.120024,35.975287",
     "geom:latitude":35.975287,
     "geom:longitude":-84.120024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8725 Dolph Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85856659,
         102086455
     ],
+    "wof:brand_id":1125153677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5R8TjDsmj7Jl5PPy4NthIM_35.975287_-84.120024@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594463,
-    "wof:geomhash":"8a49c44d9db5f917988f7d9b7cbf14c4",
+    "wof:geomhash":"c8422671439b5ae22365bdfb5610af0a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790265417,
-    "wof:lastmodified":1467083159,
+    "wof:lastmodified":1510697775,
     "wof:name":"Clayton Homes Inc",
     "wof:parent_id":85856659,
     "wof:placetype":"venue",

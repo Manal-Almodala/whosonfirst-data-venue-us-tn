@@ -2,14 +2,20 @@
   "id": 773446089,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 W Rickert Ave Dickson TN 37055",
+    "addr:housenumber":"110",
+    "addr:postcode":"37055",
+    "addr:street":"W Rickert Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.385806,36.078877,-87.385806,36.078877",
     "geom:latitude":36.078877,
     "geom:longitude":-87.385806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 W Rickert Ave",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125159085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PkHVjni5PmZE1dKSgi5Q4_36.078877_-87.385806@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585809,
-    "wof:geomhash":"411115805034bd8f61c1692095a6a390",
+    "wof:geomhash":"95a44a4551f9fc4603e13f7a7e047a9b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773446089,
-    "wof:lastmodified":1467082897,
+    "wof:lastmodified":1510693763,
     "wof:name":"St James AME Church",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

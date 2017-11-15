@@ -2,14 +2,20 @@
   "id": 806454787,
   "type": "Feature",
   "properties": {
+    "addr:full":"4213 Lebanon Pike Hermitage TN 37076",
+    "addr:housenumber":"4213",
+    "addr:postcode":"37076",
+    "addr:street":"Lebanon Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.614622,36.204654,-86.614622,36.204654",
     "geom:latitude":36.204654,
     "geom:longitude":-86.614622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4213 Lebanon Pike",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087061,
         85824673
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43t4D20eJgiAzrXuAX41cI_36.204654_-86.614622@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598276,
-    "wof:geomhash":"55ad96d1be859993f6063c6c640afd3c",
+    "wof:geomhash":"efc8040bc8a726aa586864928831ecee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":806454787,
-    "wof:lastmodified":1467083279,
+    "wof:lastmodified":1510693722,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85824673,
     "wof:placetype":"venue",

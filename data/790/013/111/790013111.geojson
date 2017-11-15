@@ -2,14 +2,20 @@
   "id": 790013111,
   "type": "Feature",
   "properties": {
+    "addr:full":"780 Truse Pkwy Memphis TN 38117",
+    "addr:housenumber":"780",
+    "addr:postcode":"38117",
+    "addr:street":"Truse Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.893478,35.110303,-89.893478,35.110303",
     "geom:latitude":35.110303,
     "geom:longitude":-89.893478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"780 Truse Pkwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125151241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DVUPkI8MMC5dNXvLf8Tnl_35.110303_-89.893478@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592428,
-    "wof:geomhash":"a0aed51597c7b17255a76f935c5c7cf5",
+    "wof:geomhash":"001fae65fb620cfea9b6e3673ed498bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790013111,
-    "wof:lastmodified":1467083100,
+    "wof:lastmodified":1510697264,
     "wof:name":"Vitamin Shoppe",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

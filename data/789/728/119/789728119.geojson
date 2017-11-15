@@ -2,9 +2,14 @@
   "id": 789728119,
   "type": "Feature",
   "properties": {
+    "addr:full":"4541 Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"4541",
+    "addr:postcode":"37064",
+    "addr:street":"Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797058,35.829082,-86.797058,35.829082",
     "geom:latitude":35.829082,
     "geom:longitude":-86.797058,
@@ -28,12 +33,7 @@
         "automobile"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56l5CMkXltIgsyj8a2GOnC_35.829082_-86.797058@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462590090,
     "wof:geomhash":"232e5b7b7493d37e4368543a2663ce70",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789728119
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789728119,
-    "wof:lastmodified":1467083031,
+    "wof:lastmodified":1491930833,
     "wof:name":"Autoglass To Go",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

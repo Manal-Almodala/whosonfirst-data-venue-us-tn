@@ -2,14 +2,20 @@
   "id": 807038745,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 Bethel Church Rd Townsend TN 37882",
+    "addr:housenumber":"132",
+    "addr:postcode":"37882",
+    "addr:street":"Bethel Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.73699,35.677591,-83.73699,35.677591",
     "geom:latitude":35.677591,
     "geom:longitude":-83.73699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"132 Bethel Church Rd",
     "sg:city":"Townsend",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087017,
         85828507
     ],
+    "wof:brand_id":420574663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wtSmhbwoJRjs5s8mrzPix_35.677591_-83.736990@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603193,
-    "wof:geomhash":"3e9b15b5873d2ce8b43ea9ecbfc7108c",
+    "wof:geomhash":"433ea6f884f2af01229a23f83931c378",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807038745,
-    "wof:lastmodified":1467083443,
+    "wof:lastmodified":1510604367,
     "wof:name":"Bethel Baptist Church",
     "wof:parent_id":85828507,
     "wof:placetype":"venue",

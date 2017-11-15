@@ -2,9 +2,14 @@
   "id": 789989385,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Moss Ln Franklin TN 37064",
+    "addr:housenumber":"304",
+    "addr:postcode":"37064",
+    "addr:street":"Moss Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.854443,35.863613,-86.854443,35.863613",
     "geom:latitude":35.863613,
     "geom:longitude":-86.854443,
@@ -27,12 +32,7 @@
         "fence"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0ctOECLfOMcVSVmpmdvjBd_35.863613_-86.854443@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462592241,
     "wof:geomhash":"b53bfe72a387f6177b412e2fc4e2e742",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789989385
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789989385,
-    "wof:lastmodified":1467083094,
+    "wof:lastmodified":1491930827,
     "wof:name":"B & B Fence & Landscaping Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

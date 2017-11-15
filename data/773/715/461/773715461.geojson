@@ -2,9 +2,14 @@
   "id": 773715461,
   "type": "Feature",
   "properties": {
+    "addr:full":"4532 S Carothers Rd Franklin TN 37064",
+    "addr:housenumber":"4532",
+    "addr:postcode":"37064",
+    "addr:street":"S Carothers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798128,35.878985,-86.798128,35.878985",
     "geom:latitude":35.878985,
     "geom:longitude":-86.798128,
@@ -28,12 +33,7 @@
         "surgeon"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jDvm9eqZcKz4TOmejkv3m_35.878985_-86.798128@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462587840,
     "wof:geomhash":"cb8b0cc92f3b469f71a72aa2b4dc0d77",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":773715461
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773715461,
-    "wof:lastmodified":1467082962,
+    "wof:lastmodified":1491924950,
     "wof:name":"Donaldson Family Practice",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

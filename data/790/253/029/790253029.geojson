@@ -2,14 +2,20 @@
   "id": 790253029,
   "type": "Feature",
   "properties": {
+    "addr:full":"2344 Ketchum Rd Memphis TN 38114",
+    "addr:housenumber":"2344",
+    "addr:postcode":"38114",
+    "addr:street":"Ketchum Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.98492,35.079322,-89.98492,35.079322",
     "geom:latitude":35.079322,
     "geom:longitude":-89.98492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2344 Ketchum Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85805535
     ],
+    "wof:brand_id":420575921,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tQlS6dy8qAEx3ql8d4K0S_35.079322_-89.984920@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594361,
-    "wof:geomhash":"b971f07cbf4fde905919de4e90c87340",
+    "wof:geomhash":"6350c241c95a27d3b5805b0799ff6be3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790253029,
-    "wof:lastmodified":1467083156,
+    "wof:lastmodified":1510714909,
     "wof:name":"Economy Inn",
     "wof:parent_id":85805535,
     "wof:placetype":"venue",

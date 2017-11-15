@@ -2,14 +2,20 @@
   "id": 789670813,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 Moreland Dr Kingsport TN 37660",
+    "addr:housenumber":"425",
+    "addr:postcode":"37660",
+    "addr:street":"Moreland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.547592,36.513512,-82.547592,36.513512",
     "geom:latitude":36.513512,
     "geom:longitude":-82.547592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"425 Moreland Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85850717,
         102086471
     ],
+    "wof:brand_id":1125158911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Y8IbvQcPDLas2RQ4LJycW_36.513512_-82.547592@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589632,
-    "wof:geomhash":"ba935e441d1285664b8f6ddb4730de51",
+    "wof:geomhash":"8530102edde21fa208d3e24b45378719",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789670813,
-    "wof:lastmodified":1467083017,
+    "wof:lastmodified":1510693914,
     "wof:name":"Air Products & Chemicals Inc",
     "wof:parent_id":85850717,
     "wof:placetype":"venue",

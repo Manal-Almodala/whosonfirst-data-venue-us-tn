@@ -2,14 +2,20 @@
   "id": 773234353,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 Hemlock St Mountain City TN 37683",
+    "addr:housenumber":"319",
+    "addr:postcode":"37683",
+    "addr:street":"Hemlock St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.819338,36.472597,-81.819338,36.472597",
     "geom:latitude":36.472597,
     "geom:longitude":-81.819338,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"319 Hemlock St",
     "sg:city":"Mountain City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086291,
         85830907
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ViOkuCNOK6gFWeFeOVR5q_36.472597_-81.819338@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584178,
-    "wof:geomhash":"8332d7abd5df741f382ac9f9e17fa8bf",
+    "wof:geomhash":"c58a9d4f5b475ec249c8dec49f1efd6e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773234353,
-    "wof:lastmodified":1467082840,
+    "wof:lastmodified":1510694183,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":85830907,
     "wof:placetype":"venue",

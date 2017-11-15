@@ -2,14 +2,20 @@
   "id": 806965489,
   "type": "Feature",
   "properties": {
+    "addr:full":"644 Carriage House Dr Jackson TN 38305",
+    "addr:housenumber":"644",
+    "addr:postcode":"38305",
+    "addr:street":"Carriage House Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.851608,35.660507,-88.851608,35.660507",
     "geom:latitude":35.660507,
     "geom:longitude":-88.851608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"644 Carriage House Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MDA4jvTYN1qlmiSw9YfCK_35.660507_-88.851608@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602567,
-    "wof:geomhash":"347f229843239752108ccabf74b19ed7",
+    "wof:geomhash":"4b4c76584c628c51a836a58e2918d93c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806965489,
-    "wof:lastmodified":1467083422,
+    "wof:lastmodified":1510694750,
     "wof:name":"O'Charley's",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

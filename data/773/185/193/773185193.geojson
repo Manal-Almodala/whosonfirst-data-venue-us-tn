@@ -2,14 +2,20 @@
   "id": 773185193,
   "type": "Feature",
   "properties": {
+    "addr:full":"5 S Byhalia Rd Collierville TN 38017",
+    "addr:housenumber":"5",
+    "addr:postcode":"38017",
+    "addr:street":"S Byhalia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.689067,35.038351,-89.689067,35.038351",
     "geom:latitude":35.038351,
     "geom:longitude":-89.689067,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5 S Byhalia Rd",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":1125156439,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25qFd0QQkFtq1mOz2gbmND_35.038351_-89.689067@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583802,
-    "wof:geomhash":"86bef76367bacf05bdc5ecb55a853222",
+    "wof:geomhash":"457184bd1145ebd7ac5a014cc62ddd4d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773185193,
-    "wof:lastmodified":1467082824,
+    "wof:lastmodified":1510696867,
     "wof:name":"Norfolk Southern Corporation",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

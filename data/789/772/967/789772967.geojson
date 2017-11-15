@@ -2,9 +2,14 @@
   "id": 789772967,
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 Hwy 31 W White House TN 37188",
+    "addr:housenumber":"3210",
+    "addr:postcode":"37188",
+    "addr:street":"Hwy 31 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.64836,36.47615,-86.64836,36.47615",
     "geom:latitude":36.47615,
     "geom:longitude":-86.64836,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"23f61ae6b8227923d553940095f8bbb2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789772967,
-    "wof:lastmodified":1467083041,
+    "wof:lastmodified":1491939198,
     "wof:name":"Sutherland Law",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

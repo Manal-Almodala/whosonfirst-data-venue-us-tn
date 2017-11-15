@@ -2,14 +2,20 @@
   "id": 790266329,
   "type": "Feature",
   "properties": {
+    "addr:full":"553 Dover Rd Clarksville TN 37042",
+    "addr:housenumber":"553",
+    "addr:postcode":"37042",
+    "addr:street":"Dover Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.414929,36.5518,-87.414929,36.5518",
     "geom:latitude":36.5518,
     "geom:longitude":-87.414929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"553 Dover Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         420541975
     ],
+    "wof:brand_id":1125152387,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pLaFzIiM4oAtqI5EYOPGy_36.551800_-87.414929@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594469,
-    "wof:geomhash":"5870af4bbb865be404c34717ad48861b",
+    "wof:geomhash":"c608816b137479493052fe6d50da7fd4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790266329,
-    "wof:lastmodified":1467083159,
+    "wof:lastmodified":1510713169,
     "wof:name":"All About Hair",
     "wof:parent_id":420541975,
     "wof:placetype":"venue",

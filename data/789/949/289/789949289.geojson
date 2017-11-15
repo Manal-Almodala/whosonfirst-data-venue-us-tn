@@ -2,14 +2,20 @@
   "id": 789949289,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 E Harbor Dr Hendersonville TN 37075",
+    "addr:housenumber":"129 e",
+    "addr:postcode":"37075",
+    "addr:street":"Harbor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.638451,36.298345,-86.638451,36.298345",
     "geom:latitude":36.298345,
     "geom:longitude":-86.638451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 E Harbor Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086357,
         85825073
     ],
+    "wof:brand_id":1125153707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6u7dqWmIiUzonVWZ3uPU7K_36.298345_-86.638451@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591905,
-    "wof:geomhash":"a497c8b3c15fa971d0299c4a379d1edd",
+    "wof:geomhash":"3c190b44c4dc66efa641f73a59275413",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789949289,
-    "wof:lastmodified":1467083084,
+    "wof:lastmodified":1510693862,
     "wof:name":"Pampered Chef",
     "wof:parent_id":85825073,
     "wof:placetype":"venue",

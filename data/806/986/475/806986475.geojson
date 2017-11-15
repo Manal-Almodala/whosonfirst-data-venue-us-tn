@@ -2,14 +2,20 @@
   "id": 806986475,
   "type": "Feature",
   "properties": {
+    "addr:full":"1832 Midpark Rd Knoxville TN 37921",
+    "addr:housenumber":"1832",
+    "addr:postcode":"37921",
+    "addr:street":"Midpark Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.012692,35.962999,-84.012692,35.962999",
     "geom:latitude":35.962999,
     "geom:longitude":-84.012692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1832 Midpark Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85878569
     ],
+    "wof:brand_id":1125156727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GpNS9OYzOC1N1z52jVttL_35.962999_-84.012692@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602748,
-    "wof:geomhash":"e4f021d53a158818cc731302611a97aa",
+    "wof:geomhash":"3cf73621ef793c9edb142eab0ff5492b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806986475,
-    "wof:lastmodified":1467083428,
+    "wof:lastmodified":1510699518,
     "wof:name":"Diebold Inc",
     "wof:parent_id":85878569,
     "wof:placetype":"venue",

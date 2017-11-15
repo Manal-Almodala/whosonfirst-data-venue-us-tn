@@ -2,14 +2,20 @@
   "id": 403886829,
   "type": "Feature",
   "properties": {
+    "addr:full":"1264 Wesley Dr Memphis TN 38116",
+    "addr:housenumber":"1264",
+    "addr:postcode":"38116",
+    "addr:street":"Wesley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.020854,35.032448,-90.020854,35.032448",
     "geom:latitude":35.032448,
     "geom:longitude":-90.020854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1264 Wesley Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102087213,
         85867187
     ],
+    "wof:brand_id":1125158993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5keQA0waGf0HnrpqY4klFP_35.032448_-90.020854@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"2bf1fb7c7b20c6e65a4f37d5a8df51fa",
+    "wof:geomhash":"29281c82aecbb4ff985bb40fd4c4ec9e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":403886829,
-    "wof:lastmodified":1467082782,
+    "wof:lastmodified":1510604934,
     "wof:name":"Gastroenterology Consultants",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",

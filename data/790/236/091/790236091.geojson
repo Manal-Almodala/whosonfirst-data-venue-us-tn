@@ -2,14 +2,20 @@
   "id": 790236091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2969 S Mendenhall Rd Memphis TN 38115",
+    "addr:housenumber":"2969",
+    "addr:postcode":"38115",
+    "addr:street":"S Mendenhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.885624,35.068201,-89.885624,35.068201",
     "geom:latitude":35.068201,
     "geom:longitude":-89.885624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2969 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         85870783,
         85870789
     ],
+    "wof:brand_id":1125152997,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xXxiLcDtC2CUckGP8IPFv_35.068201_-89.885624@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594217,
-    "wof:geomhash":"324445f14548e1ec7b0202a946797f66",
+    "wof:geomhash":"4b7da9f24095756c42756eba89c52828",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":790236091,
-    "wof:lastmodified":1467083152,
+    "wof:lastmodified":1510695007,
     "wof:name":"Asbury United Methodist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

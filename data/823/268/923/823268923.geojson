@@ -2,14 +2,20 @@
   "id": 823268923,
   "type": "Feature",
   "properties": {
+    "addr:full":"5450 Highway 153 Hixson TN 37343",
+    "addr:housenumber":"5450",
+    "addr:postcode":"37343",
+    "addr:street":"Highway 153",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.247914,35.13881,-85.247914,35.13881",
     "geom:latitude":35.13881,
     "geom:longitude":-85.247914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5450 Highway 153",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087185,
         85825769
     ],
+    "wof:brand_id":1125159009,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5N66kmOYJcRphifwoFYw6y_35.138810_-85.247914@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609872,
-    "wof:geomhash":"231a4b66b3eb8e2da7b6b4af41e28958",
+    "wof:geomhash":"87248963c98559c45cc7c884b68862dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823268923,
-    "wof:lastmodified":1467083653,
+    "wof:lastmodified":1510697158,
     "wof:name":"Hobby Lobby Creative Center",
     "wof:parent_id":85825769,
     "wof:placetype":"venue",

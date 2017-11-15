@@ -2,14 +2,20 @@
   "id": 807342063,
   "type": "Feature",
   "properties": {
+    "addr:full":"9100 Crockett Rd Brentwood TN 37027",
+    "addr:housenumber":"9100",
+    "addr:postcode":"37027",
+    "addr:street":"Crockett Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.762909,35.977093,-86.762909,35.977093",
     "geom:latitude":35.977093,
     "geom:longitude":-86.762909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9100 Crockett Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086337,
         85893405
     ],
+    "wof:brand_id":1125156975,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79H1Gi5TRxjbZ4Q3wLj7V9_35.977093_-86.762909@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606377,
-    "wof:geomhash":"bcb0c3fcce39047de276d54066733998",
+    "wof:geomhash":"14367c921dbec164cdf03594abdeb1a5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807342063,
-    "wof:lastmodified":1467083541,
+    "wof:lastmodified":1510699774,
     "wof:name":"Holy Family Catholic Church",
     "wof:parent_id":85893405,
     "wof:placetype":"venue",

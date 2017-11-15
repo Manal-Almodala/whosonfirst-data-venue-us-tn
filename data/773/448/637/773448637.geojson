@@ -2,9 +2,14 @@
   "id": 773448637,
   "type": "Feature",
   "properties": {
+    "addr:full":"9300 Hidden Oak Dr Brentwood TN 37027",
+    "addr:housenumber":"9300",
+    "addr:postcode":"37027",
+    "addr:street":"Hidden Oak Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.757461,36.001202,-86.757461,36.001202",
     "geom:latitude":36.001202,
     "geom:longitude":-86.757461,
@@ -30,8 +35,7 @@
         85633793,
         101723097,
         102086337,
-        420542349,
-        420541517
+        85893405
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,24 +50,15 @@
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723097,
-            "neighbourhood_id":420542349,
-            "region_id":85688701,
-            "venue_id":773448637
-        },
-        {
-            "continent_id":102191575,
-            "country_id":85633793,
-            "county_id":102086337,
-            "locality_id":101723097,
-            "neighbourhood_id":420541517,
+            "neighbourhood_id":85893405,
             "region_id":85688701,
             "venue_id":773448637
         }
     ],
     "wof:id":773448637,
-    "wof:lastmodified":1467082898,
+    "wof:lastmodified":1491905705,
     "wof:name":"Legacy Benefit Group",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

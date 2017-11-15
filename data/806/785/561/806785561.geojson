@@ -2,14 +2,20 @@
   "id": 806785561,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Humphreys Center Memphis TN 38120",
+    "addr:housenumber":"50",
+    "addr:postcode":"38120",
+    "addr:street":"Humphreys Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.857249,35.129372,-89.857249,35.129372",
     "geom:latitude":35.129372,
     "geom:longitude":-89.857249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 Humphreys Center",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85844747
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0QSAfypWTrdMbPnA0J2QSJ_35.129372_-89.857249@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601065,
-    "wof:geomhash":"b9569d2e7bdab33adcae57a9a40985e2",
+    "wof:geomhash":"c4da9c81b1daa58f29bb2ec2c71cd526",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806785561,
-    "wof:lastmodified":1467083373,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85844747,
     "wof:placetype":"venue",

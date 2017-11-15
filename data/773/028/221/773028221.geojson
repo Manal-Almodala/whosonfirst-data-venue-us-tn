@@ -2,9 +2,14 @@
   "id": 773028221,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Moss Ln Franklin TN 37064",
+    "addr:housenumber":"204",
+    "addr:postcode":"37064",
+    "addr:street":"Moss Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.852655,35.863223,-86.852655,35.863223",
     "geom:latitude":35.863223,
     "geom:longitude":-86.852655,
@@ -27,12 +32,7 @@
         "oil"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5LUF0Np0GOPWlHHhiuWxAY_35.863223_-86.852655@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462582551,
     "wof:geomhash":"e32da8d31ab5ab7cca7b26e779019589",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773028221
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773028221,
-    "wof:lastmodified":1467082783,
+    "wof:lastmodified":1491930831,
     "wof:name":"V R Resources",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

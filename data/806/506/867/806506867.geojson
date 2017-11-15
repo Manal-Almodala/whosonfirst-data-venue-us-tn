@@ -2,14 +2,20 @@
   "id": 806506867,
   "type": "Feature",
   "properties": {
+    "addr:full":"3950 Austin Peay Hwy Memphis TN 38135",
+    "addr:housenumber":"3950",
+    "addr:postcode":"38135",
+    "addr:street":"Austin Peay Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.896786,35.23363,-89.896786,35.23363",
     "geom:latitude":35.23363,
     "geom:longitude":-89.896786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3950 Austin Peay Hwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125155819,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wgdFuIDu5hesje1T7HzPp_35.233630_-89.896786@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598686,
-    "wof:geomhash":"5ca90dfab4ba5a9fdd7bd1c66e67308e",
+    "wof:geomhash":"d5d4460a8a45454b34cd0ebabc9b3e9a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806506867,
-    "wof:lastmodified":1467083294,
+    "wof:lastmodified":1510695386,
     "wof:name":"PCA International LLC",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

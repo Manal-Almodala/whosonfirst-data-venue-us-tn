@@ -2,9 +2,14 @@
   "id": 790397107,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 Springhouse Cir Franklin TN 37067",
+    "addr:housenumber":"315",
+    "addr:postcode":"37067",
+    "addr:street":"Springhouse Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806989,35.912609,-86.806989,35.912609",
     "geom:latitude":35.912609,
     "geom:longitude":-86.806989,
@@ -28,12 +33,7 @@
         "related"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qFOZqiYlthV4pwvtSXD5k_35.912609_-86.806989@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462595515,
     "wof:geomhash":"f9b00052dcf111e1e3ad5ff068e27f41",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":790397107
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790397107,
-    "wof:lastmodified":1467083191,
+    "wof:lastmodified":1491924951,
     "wof:name":"Mays & Associates Inc",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

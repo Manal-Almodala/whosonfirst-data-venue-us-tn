@@ -2,14 +2,20 @@
   "id": 790468519,
   "type": "Feature",
   "properties": {
+    "addr:full":"3835 Knight Rd Memphis TN 38118",
+    "addr:housenumber":"3835",
+    "addr:postcode":"38118",
+    "addr:street":"Knight Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.911274,35.044112,-89.911274,35.044112",
     "geom:latitude":35.044112,
     "geom:longitude":-89.911274,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3835 Knight Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870785
     ],
+    "wof:brand_id":1125152677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Lhx8T8O6kABKLp8W814e7_35.044112_-89.911274@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596079,
-    "wof:geomhash":"b04bf5356e90a0446a97f9406a0dadd0",
+    "wof:geomhash":"f9c72880cf442a48b5714df447c17c5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790468519,
-    "wof:lastmodified":1467083208,
+    "wof:lastmodified":1510697145,
     "wof:name":"Siemens Energy & Automation",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",

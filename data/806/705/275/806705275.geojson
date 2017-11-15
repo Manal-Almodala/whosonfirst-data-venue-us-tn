@@ -2,9 +2,14 @@
   "id": 806705275,
   "type": "Feature",
   "properties": {
+    "addr:full":"3508 New Hope Rd Hendersonville TN 37075",
+    "addr:housenumber":"3508",
+    "addr:postcode":"37075",
+    "addr:street":"New Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.616736,36.419573,-86.616736,36.419573",
     "geom:latitude":36.419573,
     "geom:longitude":-86.616736,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"2e05b93adeb76fca469fd51d49894395",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806705275,
-    "wof:lastmodified":1467083350,
+    "wof:lastmodified":1491939237,
     "wof:name":"Roberts Cleaning",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

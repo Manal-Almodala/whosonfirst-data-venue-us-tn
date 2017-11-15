@@ -2,9 +2,14 @@
   "id": 789989693,
   "type": "Feature",
   "properties": {
+    "addr:full":"3045 Trotters Ln Franklin TN 37067",
+    "addr:housenumber":"3045",
+    "addr:postcode":"37067",
+    "addr:street":"Trotters Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.796267,35.885145,-86.796267,35.885145",
     "geom:latitude":35.885145,
     "geom:longitude":-86.796267,
@@ -28,12 +33,7 @@
         "rug"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_495nuy2OwZ4nV3U8Tvne3K_35.885145_-86.796267@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462592244,
     "wof:geomhash":"85d07b0d0bf73e44ff80cd472340e721",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":789989693
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789989693,
-    "wof:lastmodified":1467083094,
+    "wof:lastmodified":1491924951,
     "wof:name":"Carpet Creations",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

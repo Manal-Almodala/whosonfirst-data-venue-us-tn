@@ -2,14 +2,20 @@
   "id": 789798907,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 S Calderwood St Alcoa TN 37701",
+    "addr:housenumber":"311",
+    "addr:postcode":"37701",
+    "addr:street":"S Calderwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.975444,35.75949,-83.975444,35.75949",
     "geom:latitude":35.75949,
     "geom:longitude":-83.975444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 S Calderwood St",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087017,
         420541361
     ],
+    "wof:brand_id":1125152495,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3MixtPmSV3fHTFrZ1QcUq4_35.759490_-83.975444@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590633,
-    "wof:geomhash":"9b0d700fee88dbdc2988e2bd1f94c46a",
+    "wof:geomhash":"5e7f63e8181aaffa13c5d2741c84c522",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789798907,
-    "wof:lastmodified":1467083048,
+    "wof:lastmodified":1510613139,
     "wof:name":"Team Tires Plus",
     "wof:parent_id":420541361,
     "wof:placetype":"venue",

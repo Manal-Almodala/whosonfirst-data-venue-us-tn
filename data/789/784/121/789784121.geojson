@@ -2,9 +2,14 @@
   "id": 789784121,
   "type": "Feature",
   "properties": {
+    "addr:full":"5063 Saddleview Dr Franklin TN 37067",
+    "addr:housenumber":"5063",
+    "addr:postcode":"37067",
+    "addr:street":"Saddleview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797432,35.893903,-86.797432,35.893903",
     "geom:latitude":35.893903,
     "geom:longitude":-86.797432,
@@ -29,12 +34,7 @@
         "manufacturer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UxW9Ej2jgPsNW9wusQfHq_35.893903_-86.797432@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462590521,
     "wof:geomhash":"674f172e6e5df96a57450cdf5e484d68",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":789784121
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789784121,
-    "wof:lastmodified":1467083044,
+    "wof:lastmodified":1491924954,
     "wof:name":"W G H Success Inc",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

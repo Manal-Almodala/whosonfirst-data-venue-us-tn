@@ -2,14 +2,20 @@
   "id": 789640303,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 S Hampton Pl Clarksville TN 37040",
+    "addr:housenumber":"125",
+    "addr:postcode":"37040",
+    "addr:street":"S Hampton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.2943,36.590727,-87.2943,36.590727",
     "geom:latitude":36.590727,
     "geom:longitude":-87.2943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 S Hampton Pl",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         85804513
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6jAMBkV6yprQHIypO8L6So_36.590727_-87.294300@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589376,
-    "wof:geomhash":"c3cd7c6d1f5679d8206380e3365b94d8",
+    "wof:geomhash":"539430a36d821a87acc85a38bbac4096",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789640303,
-    "wof:lastmodified":1467083010,
+    "wof:lastmodified":1510695762,
     "wof:name":"Books-A-Million",
     "wof:parent_id":85804513,
     "wof:placetype":"venue",

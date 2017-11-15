@@ -2,14 +2,20 @@
   "id": 773619733,
   "type": "Feature",
   "properties": {
+    "addr:full":"908 Gallatin Ave Nashville TN 37206",
+    "addr:housenumber":"908",
+    "addr:postcode":"37206",
+    "addr:street":"Gallatin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.747623,36.185699,-86.747623,36.185699",
     "geom:latitude":36.185699,
     "geom:longitude":-86.747623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"908 Gallatin Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85816591
     ],
+    "wof:brand_id":1125156151,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_031S3ZLfS4azAa9OOJk6nA_36.185699_-86.747623@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587096,
-    "wof:geomhash":"885163dc3ba65fe793ef808d6036e3df",
+    "wof:geomhash":"f34077c77678d8c12289de79bf74c5e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773619733,
-    "wof:lastmodified":1467082939,
+    "wof:lastmodified":1510696660,
     "wof:name":"Title Max",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

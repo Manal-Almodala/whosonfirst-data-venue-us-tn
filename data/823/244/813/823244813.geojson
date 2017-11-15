@@ -2,14 +2,20 @@
   "id": 823244813,
   "type": "Feature",
   "properties": {
+    "addr:full":"1741 S Rutherford Blvd Murfreesboro TN 37130",
+    "addr:housenumber":"1741",
+    "addr:postcode":"37130",
+    "addr:street":"S Rutherford Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.36617,35.81262,-86.36617,35.81262",
     "geom:latitude":35.81262,
     "geom:longitude":-86.36617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1741 S Rutherford Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85833237
     ],
+    "wof:brand_id":1125152509,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VaYWX7xuoR5bHtrQceWdc_35.812620_-86.366170@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609232,
-    "wof:geomhash":"0712713f006c6ff4a92e8451353d6665",
+    "wof:geomhash":"eb083e78677c221c242b789961d1ed04",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823244813,
-    "wof:lastmodified":1467083631,
+    "wof:lastmodified":1510697063,
     "wof:name":"Wing Zone",
     "wof:parent_id":85833237,
     "wof:placetype":"venue",

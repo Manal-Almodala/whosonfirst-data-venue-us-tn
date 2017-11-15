@@ -2,9 +2,14 @@
   "id": 807191399,
   "type": "Feature",
   "properties": {
+    "addr:full":"4356 Arno Rd Franklin TN 37064",
+    "addr:housenumber":"4356",
+    "addr:postcode":"37064",
+    "addr:street":"Arno Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.782822,35.869961,-86.782822,35.869961",
     "geom:latitude":35.869961,
     "geom:longitude":-86.782822,
@@ -27,12 +32,7 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kD6hcwL4aPHJakaYAqi8x_35.869961_-86.782822@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462604703,
     "wof:geomhash":"114364602b2ff30d0c6cb6137ca15863",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":807191399
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807191399,
-    "wof:lastmodified":1467083487,
+    "wof:lastmodified":1491924954,
     "wof:name":"GEC",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

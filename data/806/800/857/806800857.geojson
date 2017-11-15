@@ -2,14 +2,20 @@
   "id": 806800857,
   "type": "Feature",
   "properties": {
+    "addr:full":"3416 Rossville Blvd Chattanooga TN 37407",
+    "addr:housenumber":"3416",
+    "addr:postcode":"37407",
+    "addr:street":"Rossville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.292599,35.00397,-85.292599,35.00397",
     "geom:latitude":35.00397,
     "geom:longitude":-85.292599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3416 Rossville Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541639
     ],
+    "wof:brand_id":1125151847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aGO0MCQP6YpuZ3oEJd9ko_35.003970_-85.292599@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601191,
-    "wof:geomhash":"f6c0c5a2e012bc5e85d5cbc617db2bf8",
+    "wof:geomhash":"5e40397ad605079ec247f7eb8fa235e1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806800857,
-    "wof:lastmodified":1467083377,
+    "wof:lastmodified":1510697631,
     "wof:name":"Le Nails",
     "wof:parent_id":420541639,
     "wof:placetype":"venue",

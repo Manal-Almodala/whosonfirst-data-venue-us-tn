@@ -2,14 +2,20 @@
   "id": 807145815,
   "type": "Feature",
   "properties": {
+    "addr:full":"413 4th Ave N Nashville TN 37219",
+    "addr:housenumber":"413",
+    "addr:postcode":"37219",
+    "addr:street":"4Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.780258,36.165548,-86.780258,36.165548",
     "geom:latitude":36.165548,
     "geom:longitude":-86.780258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"413 4th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893445
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0l0IXLEcrHWRiTRsEfuT5S_36.165548_-86.780258@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604221,
-    "wof:geomhash":"29f92ea5041a5d2cd766f630cba8a051",
+    "wof:geomhash":"1fdde37b3515dd6733016016b5a5063a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807145815,
-    "wof:lastmodified":1467083472,
+    "wof:lastmodified":1510602716,
     "wof:name":"Central Parking System",
     "wof:parent_id":85893445,
     "wof:placetype":"venue",

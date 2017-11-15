@@ -2,14 +2,20 @@
   "id": 807113901,
   "type": "Feature",
   "properties": {
+    "addr:full":"560 Lucia St Newport TN 37821",
+    "addr:housenumber":"560",
+    "addr:postcode":"37821",
+    "addr:street":"Lucia St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.178412,35.976884,-83.178412,35.976884",
     "geom:latitude":35.976884,
     "geom:longitude":-83.178412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"560 Lucia St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85838303,
         102086241
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DivpSViUJHGRXLWFwAWQM_35.976884_-83.178412@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603879,
-    "wof:geomhash":"9dc4a6a4d9755975af3f97a5cc02cb29",
+    "wof:geomhash":"522655134c4c30d9e36f64c31c9c57d7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807113901,
-    "wof:lastmodified":1467083461,
+    "wof:lastmodified":1510694637,
     "wof:name":"Uswa",
     "wof:parent_id":85838303,
     "wof:placetype":"venue",

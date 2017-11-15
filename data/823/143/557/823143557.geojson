@@ -2,14 +2,20 @@
   "id": 823143557,
   "type": "Feature",
   "properties": {
+    "addr:full":"2504 W End Ave Nashville TN 37203",
+    "addr:housenumber":"2504",
+    "addr:postcode":"37203",
+    "addr:street":"W End Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.809782,36.146364,-86.809782,36.146364",
     "geom:latitude":36.146364,
     "geom:longitude":-86.809782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2504 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85893447
     ],
+    "wof:brand_id":420575377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MHpvcf4RJwIGXGkT5mWtz_36.146364_-86.809782@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607586,
-    "wof:geomhash":"47170931b40694c516a2d989293f3ca8",
+    "wof:geomhash":"5aa2e98cb387ca71f885dbecbc81909e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823143557,
-    "wof:lastmodified":1467083574,
+    "wof:lastmodified":1510602073,
     "wof:name":"Staffmark",
     "wof:parent_id":85893447,
     "wof:placetype":"venue",

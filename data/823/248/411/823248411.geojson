@@ -2,14 +2,20 @@
   "id": 823248411,
   "type": "Feature",
   "properties": {
+    "addr:full":"504a Northgate Mall Chattanooga TN 37415",
+    "addr:housenumber":"504a",
+    "addr:postcode":"37415",
+    "addr:street":"Northgate Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.24072,35.127417,-85.24072,35.127417",
     "geom:latitude":35.127417,
     "geom:longitude":-85.24072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504a Northgate Mall",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85825769
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iQb8dgpt9to0ycAXmLdEZ_35.127417_-85.240720@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609304,
-    "wof:geomhash":"325189b9afb56a21c68d2b445fc14ec8",
+    "wof:geomhash":"3e773279fcbfc3268b47bdde07605d6c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823248411,
-    "wof:lastmodified":1467083634,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85825769,
     "wof:placetype":"venue",

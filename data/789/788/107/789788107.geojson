@@ -2,14 +2,20 @@
   "id": 789788107,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 N 3rd St Memphis TN 38103",
+    "addr:housenumber":"61",
+    "addr:postcode":"38103",
+    "addr:street":"N 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.049632,35.146414,-90.049632,35.146414",
     "geom:latitude":35.146414,
     "geom:longitude":-90.049632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"61 N 3rd St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85867179
     ],
+    "wof:brand_id":420575703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GW76nz10nRa2JEQRGI2KO_35.146414_-90.049632@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590551,
-    "wof:geomhash":"5a74e56a58d722780f1c136374a5482f",
+    "wof:geomhash":"e69686b524260921c4da69e1276d0ed4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789788107,
-    "wof:lastmodified":1467083045,
+    "wof:lastmodified":1510602445,
     "wof:name":"US Naval Recruiting",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",

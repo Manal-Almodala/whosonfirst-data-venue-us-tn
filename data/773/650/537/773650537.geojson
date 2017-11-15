@@ -2,14 +2,20 @@
   "id": 773650537,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 E 14th St Columbia TN 38401",
+    "addr:housenumber":"201",
+    "addr:postcode":"38401",
+    "addr:street":"E 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.035034,35.604075,-87.035034,35.604075",
     "geom:latitude":35.604075,
     "geom:longitude":-87.035034,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 E 14th St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087107,
         85818757
     ],
+    "wof:brand_id":1125158051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5g9xHWMW7L41JoMYRDJQEX_35.604075_-87.035034@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587331,
-    "wof:geomhash":"0509a38b3a26346870834364583a8e59",
+    "wof:geomhash":"d73baf5a5b1056d5849b2d281763c042",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773650537,
-    "wof:lastmodified":1467082946,
+    "wof:lastmodified":1510694793,
     "wof:name":"CAM Bar",
     "wof:parent_id":85818757,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773743139,
   "type": "Feature",
   "properties": {
+    "addr:full":"905 E Trinity Ln Nashville TN 37207",
+    "addr:housenumber":"905",
+    "addr:postcode":"37207",
+    "addr:street":"E Trinity Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.750127,36.204671,-86.750127,36.204671",
     "geom:latitude":36.204671,
     "geom:longitude":-86.750127,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"905 E Trinity Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85816591
     ],
+    "wof:brand_id":1125158753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XaZiD8PXOhcxYTmah6Bt1_36.204671_-86.750127@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588049,
-    "wof:geomhash":"196f3fb1040941c0a9913943c574d85a",
+    "wof:geomhash":"d656496b796007c5c009b307efc2b63b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773743139,
-    "wof:lastmodified":1467082969,
+    "wof:lastmodified":1510695792,
     "wof:name":"Direct General Insurance Agcy",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

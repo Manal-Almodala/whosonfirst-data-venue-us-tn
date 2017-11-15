@@ -2,14 +2,20 @@
   "id": 806455545,
   "type": "Feature",
   "properties": {
+    "addr:full":"2135 S Church St Murfreesboro TN 37130",
+    "addr:housenumber":"2135",
+    "addr:postcode":"37130",
+    "addr:street":"S Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.397056,35.809106,-86.397056,35.809106",
     "geom:latitude":35.809106,
     "geom:longitude":-86.397056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2135 S Church St",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086355,
         85844771
     ],
+    "wof:brand_id":1125158927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5JGsfGbmMxujYQjYIntmRy_35.809106_-86.397056@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598281,
-    "wof:geomhash":"310f9b73bb192b58ef0a24e28ace1d7e",
+    "wof:geomhash":"dbca9f36dbdfa867d2e02af9b923b251",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806455545,
-    "wof:lastmodified":1467083280,
+    "wof:lastmodified":1510695733,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85844771,
     "wof:placetype":"venue",

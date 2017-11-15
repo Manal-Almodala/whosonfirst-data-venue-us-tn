@@ -2,14 +2,20 @@
   "id": 789676401,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Merchant Dr Knoxville TN 37912",
+    "addr:housenumber":"502",
+    "addr:postcode":"37912",
+    "addr:street":"Merchant Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.977749,36.006776,-83.977749,36.006776",
     "geom:latitude":36.006776,
     "geom:longitude":-83.977749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 Merchant Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086455,
         85826965
     ],
+    "wof:brand_id":1125159249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0d5kGGZyWWvol3o3UrNmLJ_36.006776_-83.977749@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589673,
-    "wof:geomhash":"df3d06a463cd250ae1471117dae55c9f",
+    "wof:geomhash":"aa15cc955bb44107ce319e5df9d3a4ac",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789676401,
-    "wof:lastmodified":1467083019,
+    "wof:lastmodified":1510693879,
     "wof:name":"First Tennessee",
     "wof:parent_id":85826965,
     "wof:placetype":"venue",

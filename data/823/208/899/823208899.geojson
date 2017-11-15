@@ -2,14 +2,20 @@
   "id": 823208899,
   "type": "Feature",
   "properties": {
+    "addr:full":"6616 Winchester Rd Memphis TN 38115",
+    "addr:housenumber":"6616",
+    "addr:postcode":"38115",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.843529,35.04958,-89.843529,35.04958",
     "geom:latitude":35.04958,
     "geom:longitude":-89.843529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6616 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_647mndWWwOxodHnUMM4D7a_35.049580_-89.843529@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608512,
-    "wof:geomhash":"969a08e8245e9bfdd50a7ba868ea7881",
+    "wof:geomhash":"fdc3e6391b0b6ad9b92e0b96682db60a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823208899,
-    "wof:lastmodified":1467083606,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

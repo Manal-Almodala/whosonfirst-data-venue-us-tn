@@ -2,14 +2,20 @@
   "id": 773547571,
   "type": "Feature",
   "properties": {
+    "addr:full":"3906 Dayton Blvd Chattanooga TN 37415",
+    "addr:housenumber":"3906",
+    "addr:postcode":"37415",
+    "addr:street":"Dayton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.289607,35.119514,-85.289607,35.119514",
     "geom:latitude":35.119514,
     "geom:longitude":-85.289607,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3906 Dayton Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541607
     ],
+    "wof:brand_id":1125155245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LDTX4PD1rBKa3H85kwqNw_35.119514_-85.289607@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586549,
-    "wof:geomhash":"c0de9dd1dac213804bf68f00ce89c0b2",
+    "wof:geomhash":"6fc213574fec2a1e123ea6926ca0fac4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773547571,
-    "wof:lastmodified":1467082922,
+    "wof:lastmodified":1510697006,
     "wof:name":"Don's Barber Shop",
     "wof:parent_id":420541607,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790093345,
   "type": "Feature",
   "properties": {
+    "addr:full":"8801 State Hwy 58 Harrison TN 37341",
+    "addr:housenumber":"8801",
+    "addr:postcode":"37341",
+    "addr:street":"State Hwy 58",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.070268,35.176973,-85.070268,35.176973",
     "geom:latitude":35.176973,
     "geom:longitude":-85.070268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8801 State Hwy 58",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85843021
     ],
+    "wof:brand_id":1125159773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00vHvQwkgVSgUEib38S5Fz_35.176973_-85.070268@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593078,
-    "wof:geomhash":"6eb3c0222ffa14d415eb5c79a1338ae5",
+    "wof:geomhash":"2aa1d39d71ccc641f7cfddd9e7d2264d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790093345,
-    "wof:lastmodified":1467083118,
+    "wof:lastmodified":1510699930,
     "wof:name":"Affordable Plumbing",
     "wof:parent_id":85843021,
     "wof:placetype":"venue",

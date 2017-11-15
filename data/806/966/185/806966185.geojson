@@ -2,14 +2,20 @@
   "id": 806966185,
   "type": "Feature",
   "properties": {
+    "addr:full":"2047 US Hwy 51 S Covington TN 38019",
+    "addr:housenumber":"2047",
+    "addr:postcode":"38019",
+    "addr:street":"Us Hwy 51 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.679755,35.532439,-89.679755,35.532439",
     "geom:latitude":35.532439,
     "geom:longitude":-89.679755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2047 US Hwy 51 S",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125152277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nNjwUn6JrIc7No5gxvYXg_35.532439_-89.679755@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602577,
-    "wof:geomhash":"c08b9d4815e6d55850b980817383f3f3",
+    "wof:geomhash":"12565f19b062e906463b5ec28d9ac21d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806966185,
-    "wof:lastmodified":1467083422,
+    "wof:lastmodified":1510613251,
     "wof:name":"Fresenius Medical Care",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

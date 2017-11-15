@@ -2,14 +2,20 @@
   "id": 823255797,
   "type": "Feature",
   "properties": {
+    "addr:full":"7424 Stage Rd Memphis TN 38133",
+    "addr:housenumber":"7424",
+    "addr:postcode":"38133",
+    "addr:street":"Stage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.816285,35.204653,-89.816285,35.204653",
     "geom:latitude":35.204653,
     "geom:longitude":-89.816285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7424 Stage Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tgoh84FJGb8nSD2KT7fUf_35.204653_-89.816285@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609455,
-    "wof:geomhash":"697ad6ea387551aa5df973c34b34d9ec",
+    "wof:geomhash":"db58766a64683c4c1bb7052e56a544f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823255797,
-    "wof:lastmodified":1467083639,
+    "wof:lastmodified":1510696090,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773423373,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Rockwell Dr Morristown TN 37813",
+    "addr:housenumber":"1",
+    "addr:postcode":"37813",
+    "addr:street":"Rockwell Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.201241,36.24981,-83.201241,36.24981",
     "geom:latitude":36.24981,
     "geom:longitude":-83.201241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Rockwell Dr",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":1125158051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fVCDd0V9qD0PtUHr42gXi_36.249810_-83.201241@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585603,
-    "wof:geomhash":"09323805057702afe8ed1aeac8e671b3",
+    "wof:geomhash":"986054e2d3e560951813ab2546974eae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773423373,
-    "wof:lastmodified":1467082892,
+    "wof:lastmodified":1510694793,
     "wof:name":"CAM Bar",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

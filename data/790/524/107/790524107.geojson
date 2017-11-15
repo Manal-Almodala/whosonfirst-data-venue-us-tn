@@ -2,14 +2,20 @@
   "id": 790524107,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 Molino Rd Fayetteville TN 37334",
+    "addr:housenumber":"161",
+    "addr:postcode":"37334",
+    "addr:street":"Molino Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.591872,35.128111,-86.591872,35.128111",
     "geom:latitude":35.128111,
     "geom:longitude":-86.591872,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"161 Molino Rd",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087119,
         85868159
     ],
+    "wof:brand_id":1125157407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oc8LgjAW4QQ506S5M3m9U_35.128111_-86.591872@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596577,
-    "wof:geomhash":"cf55b52e65a9a7949abaffc37b2c33e9",
+    "wof:geomhash":"f9c6e783f84b9a8fed580cadbb97af2d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790524107,
-    "wof:lastmodified":1467083224,
+    "wof:lastmodified":1510697475,
     "wof:name":"Highway Garage",
     "wof:parent_id":85868159,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807341133,
   "type": "Feature",
   "properties": {
+    "addr:full":"1980 Greystone Rd Greeneville TN 37743",
+    "addr:housenumber":"1980",
+    "addr:postcode":"37743",
+    "addr:street":"Greystone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.745397,36.097867,-82.745397,36.097867",
     "geom:latitude":36.097867,
     "geom:longitude":-82.745397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1980 Greystone Rd",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086377,
         85842363
     ],
+    "wof:brand_id":1125157299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vdj3Mc7ARtpRAZU3jnD6J_36.097867_-82.745397@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606365,
-    "wof:geomhash":"76727f931b9a0736257400b29d883eb8",
+    "wof:geomhash":"e347a6f9ea563437f7a4a5f7e2004a23",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807341133,
-    "wof:lastmodified":1467083540,
+    "wof:lastmodified":1510694604,
     "wof:name":"Vulcan Materials Co",
     "wof:parent_id":85842363,
     "wof:placetype":"venue",

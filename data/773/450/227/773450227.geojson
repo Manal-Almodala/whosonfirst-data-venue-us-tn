@@ -2,14 +2,20 @@
   "id": 773450227,
   "type": "Feature",
   "properties": {
+    "addr:full":"4440 Elvis Presley Blvd Memphis TN 38116",
+    "addr:housenumber":"",
+    "addr:postcode":"4440;38116",
+    "addr:street":"Elvis Presley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.025104,35.028896,-90.025104,35.028896",
     "geom:latitude":35.028896,
     "geom:longitude":-90.025104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4440 Elvis Presley Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85867187
     ],
+    "wof:brand_id":1125156151,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_252S2C9xn0bzjDP7fsOT1E_35.028896_-90.025104@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585837,
-    "wof:geomhash":"f74a65b3b7e7b84f4c651feb56650638",
+    "wof:geomhash":"10bcf88b63dd1cd27aa4b454b8d5dd2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773450227,
-    "wof:lastmodified":1467082898,
+    "wof:lastmodified":1510696660,
     "wof:name":"Title Max",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",

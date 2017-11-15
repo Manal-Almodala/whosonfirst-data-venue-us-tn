@@ -2,14 +2,20 @@
   "id": 790462461,
   "type": "Feature",
   "properties": {
+    "addr:full":"484 N Thompson Ln Murfreesboro TN 37129",
+    "addr:housenumber":"484",
+    "addr:postcode":"37129",
+    "addr:street":"N Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.429882,35.858592,-86.429882,35.858592",
     "geom:latitude":35.858592,
     "geom:longitude":-86.429882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"484 N Thompson Ln",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125151823,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q1qX7CbGRDq8D5dqSaNpp_35.858592_-86.429882@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596030,
-    "wof:geomhash":"d8c576a592a7afa742611a3c89977b57",
+    "wof:geomhash":"241fd90fe9db9c3c1117498083b4c261",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790462461,
-    "wof:lastmodified":1467083207,
+    "wof:lastmodified":1510694568,
     "wof:name":"Bed Bath & Beyond Inc",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

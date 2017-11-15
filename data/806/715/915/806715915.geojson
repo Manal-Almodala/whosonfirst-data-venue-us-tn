@@ -2,14 +2,20 @@
   "id": 806715915,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Whitson Dr Elizabethton TN 37643",
+    "addr:housenumber":"115",
+    "addr:postcode":"37643",
+    "addr:street":"Whitson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.253895,36.311455,-82.253895,36.311455",
     "geom:latitude":36.311455,
     "geom:longitude":-82.253895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Whitson Dr",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087053,
         85844667
     ],
+    "wof:brand_id":1125153707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zsdEeMKy4F3429c7s2klC_36.311455_-82.253895@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600468,
-    "wof:geomhash":"f3146e74452b0f00a30884c069ac27ad",
+    "wof:geomhash":"86c7524afc0e6965fca8868d2d343379",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806715915,
-    "wof:lastmodified":1467083353,
+    "wof:lastmodified":1510693862,
     "wof:name":"Pampered Chef",
     "wof:parent_id":85844667,
     "wof:placetype":"venue",

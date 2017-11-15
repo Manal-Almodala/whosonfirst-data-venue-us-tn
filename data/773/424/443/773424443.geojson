@@ -2,14 +2,20 @@
   "id": 773424443,
   "type": "Feature",
   "properties": {
+    "addr:full":"4050 Nolensville Pike Nashville TN 37211",
+    "addr:housenumber":"4050",
+    "addr:postcode":"37211",
+    "addr:street":"Nolensville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.726751,36.081239,-86.726751,36.081239",
     "geom:latitude":36.081239,
     "geom:longitude":-86.726751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4050 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         420541539
     ],
+    "wof:brand_id":1125155665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eFKdg4UkyOkMm0hpIQPrF_36.081239_-86.726751@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585613,
-    "wof:geomhash":"af442134c263c6328ca18c72e4359e72",
+    "wof:geomhash":"717ec9a11ced84e5756928c599c44b60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773424443,
-    "wof:lastmodified":1467082892,
+    "wof:lastmodified":1510698984,
     "wof:name":"Rack Room Shoes Inc",
     "wof:parent_id":420541539,
     "wof:placetype":"venue",

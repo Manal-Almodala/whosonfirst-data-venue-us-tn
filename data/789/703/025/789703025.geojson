@@ -2,14 +2,20 @@
   "id": 789703025,
   "type": "Feature",
   "properties": {
+    "addr:full":"14 N McLean Blvd Memphis TN 38104",
+    "addr:housenumber":"14",
+    "addr:postcode":"38104",
+    "addr:street":"N Mclean Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.999475,35.13854,-89.999475,35.13854",
     "geom:latitude":35.13854,
     "geom:longitude":-89.999475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14 N McLean Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85867189
     ],
+    "wof:brand_id":1125153913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cZi9e7POrptjt0Ve7BNag_35.138540_-89.999475@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589878,
-    "wof:geomhash":"16b9fdc8dbd9616176cdec63ce6db83a",
+    "wof:geomhash":"8c9768c8623f74098e5e2ac4715ebc63",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789703025,
-    "wof:lastmodified":1467083025,
+    "wof:lastmodified":1510699415,
     "wof:name":"Wolf Camera and Video",
     "wof:parent_id":85867189,
     "wof:placetype":"venue",

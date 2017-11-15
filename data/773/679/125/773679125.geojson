@@ -2,9 +2,14 @@
   "id": 773679125,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 High Cliff Dr Hendersonville TN 37075",
+    "addr:housenumber":"103",
+    "addr:postcode":"37075",
+    "addr:street":"High Cliff Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.623796,36.388876,-86.623796,36.388876",
     "geom:latitude":36.388876,
     "geom:longitude":-86.623796,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"7864f0456a87f1509ae885a33ea8505c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773679125,
-    "wof:lastmodified":1467082953,
+    "wof:lastmodified":1491939201,
     "wof:name":"Big Harpeth Prim Baptist Ch",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

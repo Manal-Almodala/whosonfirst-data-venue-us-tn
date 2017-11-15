@@ -2,14 +2,20 @@
   "id": 823141397,
   "type": "Feature",
   "properties": {
+    "addr:full":"1202 S James Campbell Blvd Columbia TN 38401",
+    "addr:housenumber":"1202",
+    "addr:postcode":"38401",
+    "addr:street":"S James Campbell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.063021,35.601119,-87.063021,35.601119",
     "geom:latitude":35.601119,
     "geom:longitude":-87.063021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1202 S James Campbell Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087107,
         420541937
     ],
+    "wof:brand_id":1125152867,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4TO1cHKjPf5fEBF89wvmSc_35.601119_-87.063021@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607539,
-    "wof:geomhash":"40d1f9b3a69c59867401b018b5c0e5a8",
+    "wof:geomhash":"0802b8b5bb51edc6343bac298f212b28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823141397,
-    "wof:lastmodified":1467083573,
+    "wof:lastmodified":1510613354,
     "wof:name":"Dollar Mart",
     "wof:parent_id":420541937,
     "wof:placetype":"venue",

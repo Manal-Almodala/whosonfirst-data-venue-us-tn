@@ -2,14 +2,20 @@
   "id": 790459895,
   "type": "Feature",
   "properties": {
+    "addr:full":"1405 N Highland Ave Jackson TN 38301",
+    "addr:housenumber":"1405",
+    "addr:postcode":"38301",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.823455,35.637214,-88.823455,35.637214",
     "geom:latitude":35.637214,
     "geom:longitude":-88.823455,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1405 N Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087221,
         85824843
     ],
+    "wof:brand_id":1125153619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mS6AMDtonzyKyozFOYEJK_35.637214_-88.823455@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596011,
-    "wof:geomhash":"6485187ee44b96ffeb69f7b83492a002",
+    "wof:geomhash":"b5d495c0805b7ca6d9b393b6d8cd118e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790459895,
-    "wof:lastmodified":1467083206,
+    "wof:lastmodified":1510697974,
     "wof:name":"Kansas City Life Insurance Co",
     "wof:parent_id":85824843,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773796973,
   "type": "Feature",
   "properties": {
+    "addr:full":"536 Mont Ridge Ct Franklin TN 37067",
+    "addr:housenumber":"536",
+    "addr:postcode":"37067",
+    "addr:street":"Mont Ridge Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79029,35.911398,-86.79029,35.911398",
     "geom:latitude":35.911398,
     "geom:longitude":-86.79029,
@@ -27,12 +32,7 @@
         "shop"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HpE0L1h7HaFepeR1PmYxd_35.911398_-86.790290@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462588443,
     "wof:geomhash":"aaf34d55ac00af428e9bd2e01f05bba1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":773796973
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773796973,
-    "wof:lastmodified":1467082982,
+    "wof:lastmodified":1491924953,
     "wof:name":"A Holiday & Company Inc",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

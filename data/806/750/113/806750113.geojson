@@ -2,14 +2,20 @@
   "id": 806750113,
   "type": "Feature",
   "properties": {
+    "addr:full":"812 Meadowlark Ln Goodlettsville TN 37072",
+    "addr:housenumber":"812",
+    "addr:postcode":"37072",
+    "addr:street":"Meadowlark Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.70407,36.299737,-86.70407,36.299737",
     "geom:latitude":36.299737,
     "geom:longitude":-86.70407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"812 Meadowlark Ln",
     "sg:city":"Goodlettsville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lwBWjxHbaAAtVz2ozrWcd_36.299737_-86.704070@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600763,
-    "wof:geomhash":"072131fe693fd732e9c5feaba9c17274",
+    "wof:geomhash":"81ebcc95d0b150d50bba1570bf9c2611",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806750113,
-    "wof:lastmodified":1467083363,
+    "wof:lastmodified":1510696788,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823291069,
   "type": "Feature",
   "properties": {
+    "addr:full":"5855 Summer Ave Memphis TN 38134",
+    "addr:housenumber":"5855",
+    "addr:postcode":"38134",
+    "addr:street":"Summer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.867571,35.17283,-89.867571,35.17283",
     "geom:latitude":35.17283,
     "geom:longitude":-89.867571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5855 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,13 +57,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":420575635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Wm0CGYZxgRN7Vt7jV7lNn_35.172830_-89.867571@1303262743"
     },
     "wof:country":"US",
     "wof:created":1462610739,
-    "wof:geomhash":"82f1d955532a729b14419d90e853b5f4",
+    "wof:geomhash":"36cc63b8f9f0a42054b9c9ce6451c0d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":823291069,
-    "wof:lastmodified":1467083685,
+    "wof:lastmodified":1510602487,
     "wof:name":"Fred's Store",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

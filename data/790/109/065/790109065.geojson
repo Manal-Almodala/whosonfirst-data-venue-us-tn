@@ -2,14 +2,20 @@
   "id": 790109065,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 N White St Athens TN 37303",
+    "addr:housenumber":"320",
+    "addr:postcode":"37303",
+    "addr:street":"N White St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.594441,35.444139,-84.594441,35.444139",
     "geom:latitude":35.444139,
     "geom:longitude":-84.594441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"320 N White St",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086293,
         85835287
     ],
+    "wof:brand_id":1125151039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OgziRb3n1aHF284BSPP0c_35.444139_-84.594441@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593213,
-    "wof:geomhash":"2c24c83a52dca338625ebac0192a26ce",
+    "wof:geomhash":"b9e45e9ad00e9cb56cd884853624c194",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790109065,
-    "wof:lastmodified":1467083122,
+    "wof:lastmodified":1510697385,
     "wof:name":"Human Service Dept",
     "wof:parent_id":85835287,
     "wof:placetype":"venue",

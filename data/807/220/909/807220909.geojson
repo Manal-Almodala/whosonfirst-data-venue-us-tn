@@ -2,14 +2,20 @@
   "id": 807220909,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 S David Ln Knoxville TN 37922",
+    "addr:housenumber":"120",
+    "addr:postcode":"37922",
+    "addr:street":"S David Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.124988,35.898262,-84.124988,35.898262",
     "geom:latitude":35.898262,
     "geom:longitude":-84.124988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 S David Ln",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":420574901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6umbMjpAThJ02ILFqkqpWx_35.898262_-84.124988@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605009,
-    "wof:geomhash":"becb4b8832d541f6896e617f17c3054b",
+    "wof:geomhash":"326f3a19493bc12089cedecc07221b72",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807220909,
-    "wof:lastmodified":1467083497,
+    "wof:lastmodified":1510604240,
     "wof:name":"Comfort Keepers",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823273513,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Stadium Dr Kodak TN 37764",
+    "addr:housenumber":"105",
+    "addr:postcode":"37764",
+    "addr:street":"Stadium Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.607508,35.988373,-83.607508,35.988373",
     "geom:latitude":35.988373,
     "geom:longitude":-83.607508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Stadium Dr",
     "sg:city":"Kodak",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086245,
         85824615
     ],
+    "wof:brand_id":1125151431,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UUSmwmN9sAWA0aQSSbr3M_35.988373_-83.607508@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610054,
-    "wof:geomhash":"445a2eb41cc99cf2214cf9f37c7fba79",
+    "wof:geomhash":"9afbff61a9264756214d14e2b2a4a003",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823273513,
-    "wof:lastmodified":1467083659,
+    "wof:lastmodified":1510697097,
     "wof:name":"Hampton Inn and Suites",
     "wof:parent_id":85824615,
     "wof:placetype":"venue",

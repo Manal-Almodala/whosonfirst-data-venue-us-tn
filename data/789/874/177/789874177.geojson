@@ -2,14 +2,20 @@
   "id": 789874177,
   "type": "Feature",
   "properties": {
+    "addr:full":"712 Signal Mountain Blvd Chattanooga TN 37405",
+    "addr:housenumber":"712",
+    "addr:postcode":"37405",
+    "addr:street":"Signal Mountain Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.327999,35.098563,-85.327999,35.098563",
     "geom:latitude":35.098563,
     "geom:longitude":-85.327999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"712 Signal Mountain Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85876741
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0v4wXk9rqoBoS6r1ZRcQvO_35.098563_-85.327999@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591218,
-    "wof:geomhash":"9c151edcb09d7434b1dce182b32695f5",
+    "wof:geomhash":"a50c95dab83843d7d1525e523b948a66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789874177,
-    "wof:lastmodified":1467083066,
+    "wof:lastmodified":1510602937,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":85876741,
     "wof:placetype":"venue",

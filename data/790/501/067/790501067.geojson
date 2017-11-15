@@ -2,14 +2,20 @@
   "id": 790501067,
   "type": "Feature",
   "properties": {
+    "addr:full":"5853 River Rd Nashville TN 37209",
+    "addr:housenumber":"5853",
+    "addr:postcode":"37209",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.920491,36.131336,-86.920491,36.131336",
     "geom:latitude":36.131336,
     "geom:longitude":-86.920491,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5853 River Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85855925
     ],
+    "wof:brand_id":1125157299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6QoMr5lQkM85lbL90WFcRT_36.131336_-86.920491@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596376,
-    "wof:geomhash":"9f3d13401501662183d1ab9cc6d38695",
+    "wof:geomhash":"15c7a591c2b0b161deaa306af04ebce3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790501067,
-    "wof:lastmodified":1467083218,
+    "wof:lastmodified":1510694604,
     "wof:name":"Vulcan Materials Co",
     "wof:parent_id":85855925,
     "wof:placetype":"venue",

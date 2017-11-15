@@ -2,14 +2,20 @@
   "id": 806584949,
   "type": "Feature",
   "properties": {
+    "addr:full":"1433 Donelson Pike Nashville TN 37214",
+    "addr:housenumber":"1433",
+    "addr:postcode":"37214",
+    "addr:street":"Donelson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.678024,36.094555,-86.678024,36.094555",
     "geom:latitude":36.094555,
     "geom:longitude":-86.678024,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1433 Donelson Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2d0XI2CeCyL4rG6Q5xx088_36.094555_-86.678024@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599353,
-    "wof:geomhash":"7cb325acafc096309060d5a92deef966",
+    "wof:geomhash":"0ea9aa0d28f0e127caa6b3a19c5aa38e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806584949,
-    "wof:lastmodified":1467083315,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

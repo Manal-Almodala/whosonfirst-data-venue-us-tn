@@ -2,14 +2,20 @@
   "id": 807338435,
   "type": "Feature",
   "properties": {
+    "addr:full":"130 Keenburg Rd Elizabethton TN 37643",
+    "addr:housenumber":"130",
+    "addr:postcode":"37643",
+    "addr:street":"Keenburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.21899,36.377128,-82.21899,36.377128",
     "geom:latitude":36.377128,
     "geom:longitude":-82.21899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"130 Keenburg Rd",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087053,
         85816779
     ],
+    "wof:brand_id":1125154885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jiqNxhDw1cwa5B8dg5DFc_36.377128_-82.218990@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606326,
-    "wof:geomhash":"7329e4c62e44b45ba2d3ae36ead9acd9",
+    "wof:geomhash":"69a1a887b65702e925e5c61ae7a038a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807338435,
-    "wof:lastmodified":1467083539,
+    "wof:lastmodified":1510697716,
     "wof:name":"Harmony Baptist Church",
     "wof:parent_id":85816779,
     "wof:placetype":"venue",

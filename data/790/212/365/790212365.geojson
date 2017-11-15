@@ -2,14 +2,20 @@
   "id": 790212365,
   "type": "Feature",
   "properties": {
+    "addr:full":"2808 Smith Springs Rd Nashville TN 37217",
+    "addr:housenumber":"2808",
+    "addr:postcode":"37217",
+    "addr:street":"Smith Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.607234,36.087815,-86.607234,36.087815",
     "geom:latitude":36.087815,
     "geom:longitude":-86.607234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2808 Smith Springs Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85849085
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Wd7uaecwCogIA3hyYX26I_36.087815_-86.607234@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594042,
-    "wof:geomhash":"d34a9ff59783c563236fb75588ee9c9c",
+    "wof:geomhash":"dfe0b083cf2bc57e55182f3fefc158f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790212365,
-    "wof:lastmodified":1467083147,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85849085,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773600001,
   "type": "Feature",
   "properties": {
+    "addr:full":"3915 Moss Rd Chattanooga TN 37406",
+    "addr:housenumber":"",
+    "addr:postcode":"3915;37406",
+    "addr:street":"Moss Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.206437,35.0755,-85.206437,35.0755",
     "geom:latitude":35.0755,
     "geom:longitude":-85.206437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3915 Moss Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85810631
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ke2cGmGqin2gqptoWSapv_35.075500_-85.206437@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586943,
-    "wof:geomhash":"d6bb37a3c0b4f4cea95ae51862dcb0ea",
+    "wof:geomhash":"e60e6eae77f768dc4cf58695df0dfe4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773600001,
-    "wof:lastmodified":1467082934,
+    "wof:lastmodified":1510693885,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85810631,
     "wof:placetype":"venue",

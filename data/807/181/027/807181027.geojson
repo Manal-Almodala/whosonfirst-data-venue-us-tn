@@ -2,14 +2,20 @@
   "id": 807181027,
   "type": "Feature",
   "properties": {
+    "addr:full":"251 Holiday Dr Clarksville TN 37040",
+    "addr:housenumber":"251",
+    "addr:postcode":"37040",
+    "addr:street":"Holiday Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.281339,36.595679,-87.281339,36.595679",
     "geom:latitude":36.595679,
     "geom:longitude":-87.281339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"251 Holiday Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         85804513
     ],
+    "wof:brand_id":1125156173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i5mMXHa127L4zj7JXmQJD_36.595679_-87.281339@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604595,
-    "wof:geomhash":"ea5e107883fb1800ba0800f185e517fd",
+    "wof:geomhash":"49dc94b5970b994c56de9fa7514b900f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807181027,
-    "wof:lastmodified":1467083483,
+    "wof:lastmodified":1510697593,
     "wof:name":"Wingate Inn",
     "wof:parent_id":85804513,
     "wof:placetype":"venue",

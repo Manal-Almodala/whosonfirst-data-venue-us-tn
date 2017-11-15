@@ -2,14 +2,20 @@
   "id": 773117769,
   "type": "Feature",
   "properties": {
+    "addr:full":"2680 Rental Rd Memphis TN 38118",
+    "addr:housenumber":"2680",
+    "addr:postcode":"38118",
+    "addr:street":"Rental Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.97682,35.069518,-89.97682,35.069518",
     "geom:latitude":35.069518,
     "geom:longitude":-89.97682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2680 Rental Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85805535
     ],
+    "wof:brand_id":420575289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Ow8XmErZuPhkb6QSf12Px_35.069518_-89.976820@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583281,
-    "wof:geomhash":"93b59e06f43eeab91397143db62c8733",
+    "wof:geomhash":"cdb57bab86e28af84ebf478014d2d68d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773117769,
-    "wof:lastmodified":1467082807,
+    "wof:lastmodified":1510603006,
     "wof:name":"National Car Rental",
     "wof:parent_id":85805535,
     "wof:placetype":"venue",

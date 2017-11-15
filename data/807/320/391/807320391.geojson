@@ -2,14 +2,20 @@
   "id": 807320391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2153 N Ocoee St Cleveland TN 37311",
+    "addr:housenumber":"2153",
+    "addr:postcode":"37311",
+    "addr:street":"N Ocoee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.868974,35.173709,-84.868974,35.173709",
     "geom:latitude":35.173709,
     "geom:longitude":-84.868974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2153 N Ocoee St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087043,
         85837507
     ],
+    "wof:brand_id":1125150835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XJUrObZbwedz2wmIAIlEY_35.173709_-84.868974@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606068,
-    "wof:geomhash":"029b5293e0edb2cead9b3342e3bd864a",
+    "wof:geomhash":"98d10dafca90975843dbfb9c4bb015f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807320391,
-    "wof:lastmodified":1467083531,
+    "wof:lastmodified":1510695414,
     "wof:name":"Lincare Inc",
     "wof:parent_id":85837507,
     "wof:placetype":"venue",

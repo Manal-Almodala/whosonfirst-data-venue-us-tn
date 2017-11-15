@@ -2,14 +2,20 @@
   "id": 790179887,
   "type": "Feature",
   "properties": {
+    "addr:full":"4550 Swinnea Rd Memphis TN 38118",
+    "addr:housenumber":"4550",
+    "addr:postcode":"38118",
+    "addr:street":"Swinnea Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.963674,35.024145,-89.963674,35.024145",
     "geom:latitude":35.024145,
     "geom:longitude":-89.963674,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4550 Swinnea Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870785
     ],
+    "wof:brand_id":1125156721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HVk4qHhnpWUvgrsruoq9B_35.024145_-89.963674@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593773,
-    "wof:geomhash":"e8329d12c7e7ec5934b2adc558222a97",
+    "wof:geomhash":"28f27d88b6632eee9014761b4de75c62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790179887,
-    "wof:lastmodified":1467083139,
+    "wof:lastmodified":1510699520,
     "wof:name":"Computer Sciences Corp",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",

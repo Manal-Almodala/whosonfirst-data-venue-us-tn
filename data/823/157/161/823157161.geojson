@@ -2,14 +2,20 @@
   "id": 823157161,
   "type": "Feature",
   "properties": {
+    "addr:full":"1909 Shady Brook St Columbia TN 38401",
+    "addr:housenumber":"1909",
+    "addr:postcode":"38401",
+    "addr:street":"Shady Brook St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.057635,35.601127,-87.057635,35.601127",
     "geom:latitude":35.601127,
     "geom:longitude":-87.057635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1909 Shady Brook St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087107,
         420541937
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eMTiVzdPQdQfAj1RjkE56_35.601127_-87.057635@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607765,
-    "wof:geomhash":"50a633980770607ff1a448d03df4b2ca",
+    "wof:geomhash":"bb2bd2812752b67dd0e68d1801177bfe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823157161,
-    "wof:lastmodified":1467083580,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":420541937,
     "wof:placetype":"venue",

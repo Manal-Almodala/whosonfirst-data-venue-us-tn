@@ -2,14 +2,20 @@
   "id": 790208963,
   "type": "Feature",
   "properties": {
+    "addr:full":"1947 S 3rd St Memphis TN 38109",
+    "addr:housenumber":"1947",
+    "addr:postcode":"38109",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.05597,35.094452,-90.05597,35.094452",
     "geom:latitude":35.094452,
     "geom:longitude":-90.05597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1947 S 3rd St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         420542137
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Wa0enIsq4v3beMt6QNyS0_35.094452_-90.055970@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594021,
-    "wof:geomhash":"6acaebdd23991d15c7c92b866e8c6046",
+    "wof:geomhash":"3a36d612c311e043980a10f821241cdc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790208963,
-    "wof:lastmodified":1467083146,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":420542137,
     "wof:placetype":"venue",

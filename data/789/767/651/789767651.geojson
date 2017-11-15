@@ -2,14 +2,20 @@
   "id": 789767651,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Meridian St Nashville TN 37207",
+    "addr:housenumber":"400",
+    "addr:postcode":"37207",
+    "addr:street":"Meridian St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.770069,36.179063,-86.770069,36.179063",
     "geom:latitude":36.179063,
     "geom:longitude":-86.770069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Meridian St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893449
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5urpPEdivd0Cf032FkNd1g_36.179063_-86.770069@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590385,
-    "wof:geomhash":"43f644410718821af9c4c305243b5d76",
+    "wof:geomhash":"68a2066d007ae504519827c4189cb3a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789767651,
-    "wof:lastmodified":1467083040,
+    "wof:lastmodified":1510604738,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85893449,
     "wof:placetype":"venue",

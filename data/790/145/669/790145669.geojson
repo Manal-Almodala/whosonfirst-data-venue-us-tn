@@ -2,14 +2,20 @@
   "id": 790145669,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Lynoak Cove Jackson TN 38305",
+    "addr:housenumber":"68",
+    "addr:postcode":"38305",
+    "addr:street":"Lynoak Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.847161,35.647771,-88.847161,35.647771",
     "geom:latitude":35.647771,
     "geom:longitude":-88.847161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68 Lynoak Cove",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125151127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mu9927vwVj2K8DulqVQj3_35.647771_-88.847161@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593470,
-    "wof:geomhash":"b46f031266b415b3dd0f0ca54d90b7c1",
+    "wof:geomhash":"5c9457c4abb625d4d4dea067ba764358",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790145669,
-    "wof:lastmodified":1467083131,
+    "wof:lastmodified":1510696833,
     "wof:name":"UBS Financial Services Inc",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

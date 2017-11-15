@@ -2,14 +2,20 @@
   "id": 773471841,
   "type": "Feature",
   "properties": {
+    "addr:full":"5798 Brainerd Rd Chattanooga TN 37411",
+    "addr:housenumber":"5798",
+    "addr:postcode":"37411",
+    "addr:street":"Brainerd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.210781,35.014198,-85.210781,35.014198",
     "geom:latitude":35.014198,
     "geom:longitude":-85.210781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5798 Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85876729
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_31M7skMKPeCoSyxraKXdLV_35.014198_-85.210781@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586002,
-    "wof:geomhash":"724c2c5875f638c037a3c9a17cd61e6b",
+    "wof:geomhash":"ad92ac267187606d199758282b239a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773471841,
-    "wof:lastmodified":1467082903,
+    "wof:lastmodified":1510698853,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85876729,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790170429,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 N Germantown Pkwy Cordova TN 38018",
+    "addr:housenumber":"900",
+    "addr:postcode":"38018",
+    "addr:street":"N Germantown Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.795184,35.149773,-89.795184,35.149773",
     "geom:latitude":35.149773,
     "geom:longitude":-89.795184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 N Germantown Pkwy",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":420575993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tDo8BdcQppEkAnY6lIlE7_35.149773_-89.795184@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593696,
-    "wof:geomhash":"c1666f2e8a9f4532f804022189dcad04",
+    "wof:geomhash":"13866c256e0c8a9cbed41910bf6f1732",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790170429,
-    "wof:lastmodified":1467083137,
+    "wof:lastmodified":1510602056,
     "wof:name":"Storage USA",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

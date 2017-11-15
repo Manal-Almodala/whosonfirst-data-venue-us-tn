@@ -2,9 +2,14 @@
   "id": 823202351,
   "type": "Feature",
   "properties": {
+    "addr:full":"1032 28th Ave N Nashville TN 37208",
+    "addr:housenumber":"1032",
+    "addr:postcode":"37208",
+    "addr:street":"28Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.820236,36.165609,-86.820236,36.165609",
     "geom:latitude":36.165609,
     "geom:longitude":-86.820236,
@@ -34,7 +39,7 @@
         85633793,
         101723183,
         102087061,
-        85893459
+        85893469
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -49,15 +54,15 @@
             "country_id":85633793,
             "county_id":102087061,
             "locality_id":101723183,
-            "neighbourhood_id":85893459,
+            "neighbourhood_id":85893469,
             "region_id":85688701,
             "venue_id":823202351
         }
     ],
     "wof:id":823202351,
-    "wof:lastmodified":1467083602,
+    "wof:lastmodified":1491895386,
     "wof:name":"Fuller Construction Svc",
-    "wof:parent_id":85893459,
+    "wof:parent_id":85893469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

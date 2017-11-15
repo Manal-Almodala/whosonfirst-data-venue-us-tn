@@ -2,14 +2,20 @@
   "id": 806358103,
   "type": "Feature",
   "properties": {
+    "addr:full":"2932 Lamar Ave Memphis TN 38114",
+    "addr:housenumber":"2932",
+    "addr:postcode":"38114",
+    "addr:street":"Lamar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.965502,35.089872,-89.965502,35.089872",
     "geom:latitude":35.089872,
     "geom:longitude":-89.965502,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2932 Lamar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85805535
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BHQHxqfCIWmRLYCUNZpL5_35.089872_-89.965502@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597494,
-    "wof:geomhash":"50d61f98523927210258a9c9bb7271ee",
+    "wof:geomhash":"ccc4de3c9be8f790535e99238f8a94c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806358103,
-    "wof:lastmodified":1467083253,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":85805535,
     "wof:placetype":"venue",

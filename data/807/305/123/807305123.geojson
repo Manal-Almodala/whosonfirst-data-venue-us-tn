@@ -2,14 +2,20 @@
   "id": 807305123,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 Euclid Ave Bristol TN 24201",
+    "addr:housenumber":"1315",
+    "addr:postcode":"24201",
+    "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.192279,36.602738,-82.192279,36.602738",
     "geom:latitude":36.602738,
     "geom:longitude":-82.192279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1315 Euclid Ave",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102084925,
         85805449
     ],
+    "wof:brand_id":1125151753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KJ9yJIE1wIO71hkX4XkGg_36.602738_-82.192279@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605905,
-    "wof:geomhash":"a148cb9ec0d9e9e6cff3c240dcb4dce4",
+    "wof:geomhash":"efbf699a8d08dfa52a1f7ba92d741449",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807305123,
-    "wof:lastmodified":1467083525,
+    "wof:lastmodified":1510697321,
     "wof:name":"Aaron's Rental Purchase",
     "wof:parent_id":85805449,
     "wof:placetype":"venue",

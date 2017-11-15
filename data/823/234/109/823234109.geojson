@@ -2,14 +2,20 @@
   "id": 823234109,
   "type": "Feature",
   "properties": {
+    "addr:full":"3887 Park Ave Memphis TN 38111",
+    "addr:housenumber":"3887",
+    "addr:postcode":"38111",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.933082,35.107567,-89.933082,35.107567",
     "geom:latitude":35.107567,
     "geom:longitude":-89.933082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3887 Park Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087213,
         85837075
     ],
+    "wof:brand_id":420573891,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dLd8DGwzusLxOLdn3M4iB_35.107477_-89.932823@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462609035,
-    "wof:geomhash":"9e9874e8927634eda6f902dd2122b536",
+    "wof:geomhash":"f49ae169033921d56f67b4ed8d3fe3b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":823234109,
-    "wof:lastmodified":1467083624,
+    "wof:lastmodified":1510603149,
     "wof:name":"Rite Aid",
     "wof:parent_id":85837075,
     "wof:placetype":"venue",

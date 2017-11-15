@@ -2,14 +2,20 @@
   "id": 790115251,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Steelman Rd Mulberry TN 37359",
+    "addr:housenumber":"2",
+    "addr:postcode":"37359",
+    "addr:street":"Steelman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.427959,35.223061,-86.427959,35.223061",
     "geom:latitude":35.223061,
     "geom:longitude":-86.427959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Steelman Rd",
     "sg:city":"Mulberry",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087119,
         85868159
     ],
+    "wof:brand_id":1125151339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1crkP7P07Vbvu7zkJRrBcl_35.223061_-86.427959@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593254,
-    "wof:geomhash":"be5a1db13291f055e2a2d6e7b36af70c",
+    "wof:geomhash":"ade40664ee07e0c8fc0361eebfc425d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790115251,
-    "wof:lastmodified":1467083123,
+    "wof:lastmodified":1510694950,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85868159,
     "wof:placetype":"venue",

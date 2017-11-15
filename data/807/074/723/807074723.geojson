@@ -2,14 +2,20 @@
   "id": 807074723,
   "type": "Feature",
   "properties": {
+    "addr:full":"2643 Gap Creek Rd Hampton TN 37658",
+    "addr:housenumber":"",
+    "addr:postcode":"2643;37658",
+    "addr:street":"Gap Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.220385,36.260367,-82.220385,36.260367",
     "geom:latitude":36.260367,
     "geom:longitude":-82.220385,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2643 Gap Creek Rd",
     "sg:city":"Hampton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087053,
         85851527
     ],
+    "wof:brand_id":1125155607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4BQP3Q6YtME42f6ZrZpr5k_36.260367_-82.220385@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603493,
-    "wof:geomhash":"4b14b4dff763491e033a91572f2f5e94",
+    "wof:geomhash":"b88f41e90d42e105415a4862e0ea6fc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807074723,
-    "wof:lastmodified":1467083453,
+    "wof:lastmodified":1510613384,
     "wof:name":"Forestry Division",
     "wof:parent_id":85851527,
     "wof:placetype":"venue",

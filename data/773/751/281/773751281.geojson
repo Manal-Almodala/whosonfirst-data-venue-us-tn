@@ -2,9 +2,14 @@
   "id": 773751281,
   "type": "Feature",
   "properties": {
+    "addr:full":"3576 New Hope Rd Hendersonville TN 37075",
+    "addr:housenumber":"3576",
+    "addr:postcode":"37075",
+    "addr:street":"New Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.610476,36.433955,-86.610476,36.433955",
     "geom:latitude":36.433955,
     "geom:longitude":-86.610476,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"c32e3cdc3f87d91a7b4eabc074c535c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773751281,
-    "wof:lastmodified":1467082971,
+    "wof:lastmodified":1491939190,
     "wof:name":"Crabtree Aluminum Co",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

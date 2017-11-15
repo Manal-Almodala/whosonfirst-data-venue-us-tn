@@ -2,14 +2,20 @@
   "id": 773847591,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 Broadway Nashville TN 37203",
+    "addr:housenumber":"810",
+    "addr:postcode":"37203",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.782634,36.158754,-86.782634,36.158754",
     "geom:latitude":36.158754,
     "geom:longitude":-86.782634,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"810 Broadway",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85871389
     ],
+    "wof:brand_id":1125157601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Hdp2eFqzgBf2bZ5HgA5F1_36.158754_-86.782634@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588878,
-    "wof:geomhash":"bf025c36db0e5e5e676b8590acfda986",
+    "wof:geomhash":"8fe33bdad744300b06f9d0b0d84a1ed1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773847591,
-    "wof:lastmodified":1467082995,
+    "wof:lastmodified":1510695443,
     "wof:name":"Federal Public Defender",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773403871,
   "type": "Feature",
   "properties": {
+    "addr:full":"1060 Brookfield Rd Memphis TN 38119",
+    "addr:housenumber":"1060",
+    "addr:postcode":"38119",
+    "addr:street":"Brookfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.873727,35.102477,-89.873727,35.102477",
     "geom:latitude":35.102477,
     "geom:longitude":-89.873727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1060 Brookfield Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85807811
     ],
+    "wof:brand_id":1125151021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OsElScW5HI7wLuf5R8ovs_35.102477_-89.873727@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585429,
-    "wof:geomhash":"d2d0bd34384d680b96913c195bdd4e52",
+    "wof:geomhash":"ce14c9127f40c4df4e7d17340255fd1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773403871,
-    "wof:lastmodified":1467082887,
+    "wof:lastmodified":1510699657,
     "wof:name":"Standard Register Company",
     "wof:parent_id":85807811,
     "wof:placetype":"venue",

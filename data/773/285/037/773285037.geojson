@@ -2,14 +2,20 @@
   "id": 773285037,
   "type": "Feature",
   "properties": {
+    "addr:full":"995 Springplace Rd Lewisburg TN 37091",
+    "addr:housenumber":"995",
+    "addr:postcode":"37091",
+    "addr:street":"Springplace Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.776157,35.435814,-86.776157,35.435814",
     "geom:latitude":35.435814,
     "geom:longitude":-86.776157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"995 Springplace Rd",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087115,
         85811699
     ],
+    "wof:brand_id":1125154735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NHGFbHxGA5YsoK5tEqR8T_35.435814_-86.776157@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584562,
-    "wof:geomhash":"74fbd180e841457d79c0a692e227c573",
+    "wof:geomhash":"0762efd22072d123ff906b80eeb0e7b8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773285037,
-    "wof:lastmodified":1467082856,
+    "wof:lastmodified":1510695211,
     "wof:name":"Fedex Freight East Inc",
     "wof:parent_id":85811699,
     "wof:placetype":"venue",

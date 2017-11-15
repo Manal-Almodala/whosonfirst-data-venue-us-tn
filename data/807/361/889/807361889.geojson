@@ -2,14 +2,20 @@
   "id": 807361889,
   "type": "Feature",
   "properties": {
+    "addr:full":"3206 Austin Peay Hwy Memphis TN 38128",
+    "addr:housenumber":"3206",
+    "addr:postcode":"38128",
+    "addr:street":"Austin Peay Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.917963,35.212169,-89.917963,35.212169",
     "geom:latitude":35.212169,
     "geom:longitude":-89.917963,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3206 Austin Peay Hwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":420574533,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5A8XIbEsWvx09MF6WIBy40_35.212169_-89.917963@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606683,
-    "wof:geomhash":"ccc9c5469d18ab0cc7bb1928a9294676",
+    "wof:geomhash":"ba04db1f66f9518a9172eac1e4a0ddd6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807361889,
-    "wof:lastmodified":1467083550,
+    "wof:lastmodified":1510604288,
     "wof:name":"Valvoline Instant Oil Change",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

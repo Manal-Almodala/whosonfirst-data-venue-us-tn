@@ -2,14 +2,20 @@
   "id": 773060891,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Fergus Rd La Vergne TN 37086",
+    "addr:housenumber":"107",
+    "addr:postcode":"37086",
+    "addr:street":"Fergus Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.543861,36.011664,-86.543861,36.011664",
     "geom:latitude":36.011664,
     "geom:longitude":-86.543861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 Fergus Rd",
     "sg:city":"La Vergne",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086355,
         420542079
     ],
+    "wof:brand_id":1125154111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46QlnYlAutH1ICpsb2rgfo_36.011664_-86.543861@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582851,
-    "wof:geomhash":"9e87a72fe5a95d8640739160cf747244",
+    "wof:geomhash":"ccaf2af9765dc8849a7d38f4a814d113",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773060891,
-    "wof:lastmodified":1467082793,
+    "wof:lastmodified":1510700130,
     "wof:name":"Clayton Homes",
     "wof:parent_id":420542079,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823253739,
   "type": "Feature",
   "properties": {
+    "addr:full":"1016 W Poplar Ave Collierville TN 38017",
+    "addr:housenumber":"1016",
+    "addr:postcode":"38017",
+    "addr:street":"W Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.695919,35.046298,-89.695919,35.046298",
     "geom:latitude":35.046298,
     "geom:longitude":-89.695919,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1016 W Poplar Ave",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7a0wWwsn03foM7cYYI7gLm_35.046298_-89.695919@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609417,
-    "wof:geomhash":"df561d52af8c86cf1fa7f37564d0dbdd",
+    "wof:geomhash":"6775771446ef233c2e46a21350055f45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823253739,
-    "wof:lastmodified":1467083638,
+    "wof:lastmodified":1510696090,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

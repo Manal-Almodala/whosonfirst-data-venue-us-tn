@@ -2,14 +2,20 @@
   "id": 773051483,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 Abbott Martin Rd Nashville TN 37215",
+    "addr:housenumber":"2111",
+    "addr:postcode":"37215",
+    "addr:street":"Abbott Martin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816384,36.106095,-86.816384,36.106095",
     "geom:latitude":36.106095,
     "geom:longitude":-86.816384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2111 Abbott Martin Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85893463
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jEGZrRcPRJoP8LR6WRtby_36.106095_-86.816384@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582770,
-    "wof:geomhash":"0de0f73bae7656dc36fe950be7b4ea54",
+    "wof:geomhash":"a20c8acc6cd44e8513387354d6fd6dde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773051483,
-    "wof:lastmodified":1467082791,
+    "wof:lastmodified":1510681766,
     "wof:name":"AM South Bank",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",

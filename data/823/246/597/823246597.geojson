@@ -2,14 +2,20 @@
   "id": 823246597,
   "type": "Feature",
   "properties": {
+    "addr:full":"874 Murfreesboro Pike Nashville TN 37217",
+    "addr:housenumber":"874",
+    "addr:postcode":"37217",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.718301,36.132812,-86.718301,36.132812",
     "geom:latitude":36.132812,
     "geom:longitude":-86.718301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"874 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85822001
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IhTvPRexFGSJ8pKXhYiZA_36.132812_-86.718301@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609270,
-    "wof:geomhash":"dd4e1477229f7f5ccec267bde5562e51",
+    "wof:geomhash":"0f335f0986a8089b1ba08263515a81db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823246597,
-    "wof:lastmodified":1467083633,
+    "wof:lastmodified":1510698852,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85822001,
     "wof:placetype":"venue",

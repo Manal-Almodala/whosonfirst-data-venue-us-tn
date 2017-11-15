@@ -2,14 +2,20 @@
   "id": 773222467,
   "type": "Feature",
   "properties": {
+    "addr:full":"3570 Ebenezer Loop Somerville TN 38068",
+    "addr:housenumber":"3570",
+    "addr:postcode":"38068",
+    "addr:street":"Ebenezer Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.346516,35.141527,-89.346516,35.141527",
     "geom:latitude":35.141527,
     "geom:longitude":-89.346516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3570 Ebenezer Loop",
     "sg:city":"Somerville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086439,
         420541553
     ],
+    "wof:brand_id":1125155607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ObEV0pRsU8qc9URsE9Kva_35.141527_-89.346516@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584091,
-    "wof:geomhash":"47ba78ee8201f58e0003fef0dd5251fc",
+    "wof:geomhash":"ac7ab155005a0dd3a9bcbc0b1f4015eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773222467,
-    "wof:lastmodified":1467082836,
+    "wof:lastmodified":1510613384,
     "wof:name":"Forestry Division",
     "wof:parent_id":420541553,
     "wof:placetype":"venue",

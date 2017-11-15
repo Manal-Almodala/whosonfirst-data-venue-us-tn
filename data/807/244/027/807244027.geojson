@@ -2,14 +2,20 @@
   "id": 807244027,
   "type": "Feature",
   "properties": {
+    "addr:full":"660 Cherry Rd Eads TN 38028",
+    "addr:housenumber":"660",
+    "addr:postcode":"38028",
+    "addr:street":"Cherry Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.609268,35.241605,-89.609268,35.241605",
     "geom:latitude":35.241605,
     "geom:longitude":-89.609268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"660 Cherry Rd",
     "sg:city":"Eads",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85846193,
         102086439
     ],
+    "wof:brand_id":1125157925,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fj4DvAOYRbtF6nUsB0exY_35.241605_-89.609268@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605262,
-    "wof:geomhash":"ea51528ca263fdf6444323df4267f732",
+    "wof:geomhash":"195545df8b0ea63bfc0ecf40be6b4f20",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807244027,
-    "wof:lastmodified":1467083504,
+    "wof:lastmodified":1510696667,
     "wof:name":"New Life Fellowship",
     "wof:parent_id":85846193,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789618727,
   "type": "Feature",
   "properties": {
+    "addr:full":"2250 Lamar Ave Memphis TN 38114",
+    "addr:housenumber":"2250",
+    "addr:postcode":"38114",
+    "addr:street":"Lamar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.98697,35.106514,-89.98697,35.106514",
     "geom:latitude":35.106514,
     "geom:longitude":-89.98697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2250 Lamar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         420542111
     ],
+    "wof:brand_id":1125150401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EeDq0QnTwaSp0DcHY6xGT_35.106514_-89.986970@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589208,
-    "wof:geomhash":"b5ce68c8a26be46bf1d931f280219598",
+    "wof:geomhash":"9d313d4a63bdaa6dee0aaf826a9f0935",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789618727,
-    "wof:lastmodified":1467083005,
+    "wof:lastmodified":1510693889,
     "wof:name":"Athlete's Foot",
     "wof:parent_id":420542111,
     "wof:placetype":"venue",

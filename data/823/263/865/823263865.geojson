@@ -2,14 +2,20 @@
   "id": 823263865,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 Commerce St Nashville TN 37203",
+    "addr:housenumber":"611",
+    "addr:postcode":"37203",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.780711,36.161248,-86.780711,36.161248",
     "geom:latitude":36.161248,
     "geom:longitude":-86.780711,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 Commerce St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85871389
     ],
+    "wof:brand_id":1125155005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yQo2MV4v48csaHx0Tb7Yd_36.161248_-86.780711@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609674,
-    "wof:geomhash":"16b6ccd994db60d49b35b8511a02f6a3",
+    "wof:geomhash":"e4a4825fdf66a2946370ae2c751b8891",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823263865,
-    "wof:lastmodified":1467083646,
+    "wof:lastmodified":1510699951,
     "wof:name":"Great Expectations",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",

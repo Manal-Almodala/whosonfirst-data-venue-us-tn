@@ -2,14 +2,20 @@
   "id": 773746603,
   "type": "Feature",
   "properties": {
+    "addr:full":"8355 US Hwy 64 Memphis TN 38133",
+    "addr:housenumber":"8355",
+    "addr:postcode":"38133",
+    "addr:street":"Us Hwy 64",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.783444,35.204369,-89.783444,35.204369",
     "geom:latitude":35.204369,
     "geom:longitude":-89.783444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8355 US Hwy 64",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125156839,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N04UMr0goewbAbXJu9mXC_35.204369_-89.783444@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588073,
-    "wof:geomhash":"43d7e22c81ef2e58ae12d24f11e3cf66",
+    "wof:geomhash":"62fc14481f061ccd9a547afed9594c2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773746603,
-    "wof:lastmodified":1467082970,
+    "wof:lastmodified":1510693844,
     "wof:name":"Sears Auto & Tire Ctr",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773196535,
   "type": "Feature",
   "properties": {
+    "addr:full":"5134 Elmore Rd Memphis TN 38134",
+    "addr:housenumber":"5134",
+    "addr:postcode":"38134",
+    "addr:street":"Elmore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.892494,35.185368,-89.892494,35.185368",
     "geom:latitude":35.185368,
     "geom:longitude":-89.892494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5134 Elmore Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":1125155999,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1HXhq5CPOeVplM7vwKttm2_35.185368_-89.892494@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583907,
-    "wof:geomhash":"1d2f5e2f49fdc02acab750f978a0007f",
+    "wof:geomhash":"530148ce4df253fe7f5a395b6234d6bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773196535,
-    "wof:lastmodified":1467082827,
+    "wof:lastmodified":1510694034,
     "wof:name":"Storagetek",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790207693,
   "type": "Feature",
   "properties": {
+    "addr:full":"2924 Lee Hwy Athens TN 37303",
+    "addr:housenumber":"2924",
+    "addr:postcode":"37303",
+    "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.583359,35.481941,-84.583359,35.481941",
     "geom:latitude":35.481941,
     "geom:longitude":-84.583359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2924 Lee Hwy",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086293,
         85811277
     ],
+    "wof:brand_id":1125157335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7j33j3NhumangICYDWKkAa_35.481941_-84.583359@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594012,
-    "wof:geomhash":"1203c09634c1eade5f8d448fa789df3c",
+    "wof:geomhash":"3f9c4db899059001e150da66da048239",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790207693,
-    "wof:lastmodified":1467083146,
+    "wof:lastmodified":1510696994,
     "wof:name":"Bargain Barn",
     "wof:parent_id":85811277,
     "wof:placetype":"venue",

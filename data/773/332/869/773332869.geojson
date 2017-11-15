@@ -2,14 +2,20 @@
   "id": 773332869,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 Thompson Ln Nashville TN 37211",
+    "addr:housenumber":"304",
+    "addr:postcode":"37211",
+    "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.745137,36.111011,-86.745137,36.111011",
     "geom:latitude":36.111011,
     "geom:longitude":-86.745137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"304 Thompson Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087061,
         85843601
     ],
+    "wof:brand_id":1125159069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1C4E2F9GWu0MoJKDoNU8Jq_36.111011_-86.745137@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584932,
-    "wof:geomhash":"bad6a26ac442c2d3e94de918a84b6b92",
+    "wof:geomhash":"64094ec4245a275b73bf86f4c1c53505",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":773332869,
-    "wof:lastmodified":1467082871,
+    "wof:lastmodified":1510694261,
     "wof:name":"Prestige Cleaners",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",

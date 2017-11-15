@@ -2,14 +2,20 @@
   "id": 790571671,
   "type": "Feature",
   "properties": {
+    "addr:full":"4557 Millbranch Rd Memphis TN 38116",
+    "addr:housenumber":"4557",
+    "addr:postcode":"38116",
+    "addr:street":"Millbranch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.007605,35.023718,-90.007605,35.023718",
     "geom:latitude":35.023718,
     "geom:longitude":-90.007605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4557 Millbranch Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         420542123
     ],
+    "wof:brand_id":1125159551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TbPJK6hz7foQdH8fcQWL1_35.023718_-90.007605@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596973,
-    "wof:geomhash":"6b92c26a9be472a7e4711f8618fb605d",
+    "wof:geomhash":"2d43c8096d239617a7e76079df169626",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790571671,
-    "wof:lastmodified":1467083237,
+    "wof:lastmodified":1510696651,
     "wof:name":"Family Vision Care",
     "wof:parent_id":420542123,
     "wof:placetype":"venue",

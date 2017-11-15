@@ -2,14 +2,20 @@
   "id": 806754281,
   "type": "Feature",
   "properties": {
+    "addr:full":"262 Boy Scout Rd Andersonville TN 37705",
+    "addr:housenumber":"262",
+    "addr:postcode":"37705",
+    "addr:street":"Boy Scout Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.00668,36.264535,-84.00668,36.264535",
     "geom:latitude":36.264535,
     "geom:longitude":-84.00668,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"262 Boy Scout Rd",
     "sg:city":"Andersonville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086483,
         85825681
     ],
+    "wof:brand_id":420575027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22LPOlWb45TBKqCEoy4iOX_36.264535_-84.006680@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600797,
-    "wof:geomhash":"966a4d60eb6ebe06ff0a42cd2270cbe3",
+    "wof:geomhash":"ae32f372bb303f8066a34e35a66829f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806754281,
-    "wof:lastmodified":1467083364,
+    "wof:lastmodified":1510602891,
     "wof:name":"Boy Scouts Of America",
     "wof:parent_id":85825681,
     "wof:placetype":"venue",

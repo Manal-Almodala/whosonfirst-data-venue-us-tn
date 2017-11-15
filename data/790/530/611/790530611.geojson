@@ -2,14 +2,20 @@
   "id": 790530611,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Lovell Rd Knoxville TN 37934",
+    "addr:housenumber":"114",
+    "addr:postcode":"37934",
+    "addr:street":"Lovell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.13812,35.896207,-84.13812,35.896207",
     "geom:latitude":35.896207,
     "geom:longitude":-84.13812,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"114 Lovell Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85852201
     ],
+    "wof:brand_id":1125152051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yuUMMHJYbkwVmZYHWcIku_35.896207_-84.138120@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596628,
-    "wof:geomhash":"b9c931d3d15f233ccd42ea7a2519c4b5",
+    "wof:geomhash":"5812e3753b8d92aac6fe9b3dfaac3ee6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790530611,
-    "wof:lastmodified":1467083226,
+    "wof:lastmodified":1510697078,
     "wof:name":"Manpower Inc",
     "wof:parent_id":85852201,
     "wof:placetype":"venue",

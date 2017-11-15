@@ -2,9 +2,14 @@
   "id": 773809171,
   "type": "Feature",
   "properties": {
+    "addr:full":"2390 Henpeck Ln Franklin TN 37064",
+    "addr:housenumber":"2390",
+    "addr:postcode":"37064",
+    "addr:street":"Henpeck Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.849387,35.871844,-86.849387,35.871844",
     "geom:latitude":35.871844,
     "geom:longitude":-86.849387,
@@ -25,12 +30,7 @@
     "sg:province":"TN",
     "sg:website":"www.wcs.edu",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5x19IDxmPSe63hXxSz3SNA_35.871844_-86.849387@1294204733"
@@ -38,17 +38,9 @@
     "wof:country":"US",
     "wof:created":1462588549,
     "wof:geomhash":"39df292d0e281b5a64e30dc2ffa9e872",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773809171
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773809171,
-    "wof:lastmodified":1467082985,
+    "wof:lastmodified":1491930827,
     "wof:name":"Oak View Elementary School",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

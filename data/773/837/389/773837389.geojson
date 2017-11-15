@@ -2,9 +2,14 @@
   "id": 773837389,
   "type": "Feature",
   "properties": {
+    "addr:full":"4430 Buchanan Ln Franklin TN 37064",
+    "addr:housenumber":"4430",
+    "addr:postcode":"37064",
+    "addr:street":"Buchanan Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791277,35.814809,-86.791277,35.814809",
     "geom:latitude":35.814809,
     "geom:longitude":-86.791277,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71Wrv3wXaszSwMatXqi0Wr_35.814809_-86.791277@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462588782,
     "wof:geomhash":"7ec524f9c5530f30b70ddebb1d6070d0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773837389
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773837389,
-    "wof:lastmodified":1467082992,
+    "wof:lastmodified":1491930833,
     "wof:name":"Michael D Green",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

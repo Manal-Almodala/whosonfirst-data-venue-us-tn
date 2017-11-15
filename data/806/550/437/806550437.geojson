@@ -2,14 +2,20 @@
   "id": 806550437,
   "type": "Feature",
   "properties": {
+    "addr:full":"305 W Economy Rd Morristown TN 37814",
+    "addr:housenumber":"305",
+    "addr:postcode":"37814",
+    "addr:street":"W Economy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.335114,36.202718,-83.335114,36.202718",
     "geom:latitude":36.202718,
     "geom:longitude":-83.335114,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"305 W Economy Rd",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086447,
         420541593
     ],
+    "wof:brand_id":1125150159,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47JLzb4FAw85wlHCyozawX_36.202718_-83.335114@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599037,
-    "wof:geomhash":"185d76437a8970b2a077448a08a5baca",
+    "wof:geomhash":"886068ba8db190d663fe266fabb9afab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806550437,
-    "wof:lastmodified":1467083306,
+    "wof:lastmodified":1510604959,
     "wof:name":"Kmart Stores",
     "wof:parent_id":420541593,
     "wof:placetype":"venue",

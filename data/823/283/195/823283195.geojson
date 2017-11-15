@@ -2,14 +2,20 @@
   "id": 823283195,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 N Alicia Dr Memphis TN 38112",
+    "addr:housenumber":"107",
+    "addr:postcode":"38112",
+    "addr:street":"N Alicia Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.977642,35.137213,-89.977642,35.137213",
     "geom:latitude":35.137213,
     "geom:longitude":-89.977642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"107 N Alicia Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85803961
     ],
+    "wof:brand_id":1125156697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jFuKZsB0J0bqm1iQLdDrY_35.137213_-89.977642@1303262741"
     },
     "wof:country":"US",
     "wof:created":1462610442,
-    "wof:geomhash":"666155a0b6c669f73133e82e728d84c5",
+    "wof:geomhash":"aeecf4c76fbdcd06834d2fe5bf43dde1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823283195,
-    "wof:lastmodified":1467083673,
+    "wof:lastmodified":1510697125,
     "wof:name":"American Nails",
     "wof:parent_id":85803961,
     "wof:placetype":"venue",

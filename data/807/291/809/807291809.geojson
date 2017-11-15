@@ -2,6 +2,10 @@
   "id": 807291809,
   "type": "Feature",
   "properties": {
+    "addr:full":"456 N Main St Crossville TN 38555",
+    "addr:housenumber":"456",
+    "addr:postcode":"38555",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":807291809,
-    "wof:lastmodified":1467083521,
+    "wof:lastmodified":1472645948,
     "wof:name":"York Title Agency",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

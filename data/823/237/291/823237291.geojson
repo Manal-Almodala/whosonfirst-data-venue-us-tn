@@ -2,9 +2,14 @@
   "id": 823237291,
   "type": "Feature",
   "properties": {
+    "addr:full":"4551 Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"4551",
+    "addr:postcode":"37064",
+    "addr:street":"Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.796947,35.828816,-86.796947,35.828816",
     "geom:latitude":35.828816,
     "geom:longitude":-86.796947,
@@ -22,12 +27,7 @@
         "corn"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OoQH4hJtcFU8WwBrEkv0p_35.828816_-86.796947@1294204733"
@@ -35,17 +35,9 @@
     "wof:country":"US",
     "wof:created":1462609091,
     "wof:geomhash":"b54f20c5c5d96b95532916c89f2f1654",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":823237291
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823237291,
-    "wof:lastmodified":1467083626,
+    "wof:lastmodified":1491930831,
     "wof:name":"McKee Cliften",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

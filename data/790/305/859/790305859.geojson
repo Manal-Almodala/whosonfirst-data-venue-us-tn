@@ -2,14 +2,20 @@
   "id": 790305859,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 Buffalo Valley Rd Cookeville TN 38501",
+    "addr:housenumber":"235",
+    "addr:postcode":"38501",
+    "addr:street":"Buffalo Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.511719,36.161173,-85.511719,36.161173",
     "geom:latitude":36.161173,
     "geom:longitude":-85.511719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"235 Buffalo Valley Rd",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086339,
         85822779
     ],
+    "wof:brand_id":420575551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1G9VEsgtIqF0D9r0pdOmhC_36.161173_-85.511719@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594810,
-    "wof:geomhash":"ac70379c80a31f842c53e54bc101ef28",
+    "wof:geomhash":"c2733e371f3ffc3d6a5c92e85a8f196c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790305859,
-    "wof:lastmodified":1467083168,
+    "wof:lastmodified":1510602968,
     "wof:name":"Aerus Electrolux",
     "wof:parent_id":85822779,
     "wof:placetype":"venue",

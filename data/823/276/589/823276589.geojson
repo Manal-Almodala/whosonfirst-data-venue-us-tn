@@ -2,14 +2,20 @@
   "id": 823276589,
   "type": "Feature",
   "properties": {
+    "addr:full":"815 Exocet Dr Ste 105 Cordova TN 38018",
+    "addr:housenumber":"815",
+    "addr:postcode":"38018",
+    "addr:street":"Exocet Dr Ste 105",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.796612,35.147318,-89.796612,35.147318",
     "geom:latitude":35.147318,
     "geom:longitude":-89.796612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"815 Exocet Dr Ste 105",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":1125158371,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ncyfxVnvUjzqWHIDRb93p_35.147318_-89.796612@1303262740"
     },
     "wof:country":"US",
     "wof:created":1462610173,
-    "wof:geomhash":"6f14e5aaf31d1f410e84ecd47e537e29",
+    "wof:geomhash":"28fc562e051a1280558e0c6e205d58ee",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":823276589,
-    "wof:lastmodified":1467083664,
+    "wof:lastmodified":1510696922,
     "wof:name":"Nextel Communications",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

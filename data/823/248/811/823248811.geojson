@@ -2,14 +2,20 @@
   "id": 823248811,
   "type": "Feature",
   "properties": {
+    "addr:full":"6119 Lee Hwy Chattanooga TN 37421",
+    "addr:housenumber":"6119",
+    "addr:postcode":"37421",
+    "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.187479,35.029236,-85.187479,35.029236",
     "geom:latitude":35.029236,
     "geom:longitude":-85.187479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6119 Lee Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         85817719
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WbkwZ6SWBKc2Lud7DKRXS_35.029236_-85.187479@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609311,
-    "wof:geomhash":"3482ff574aa9cb08ad36fc9e7d1b08bc",
+    "wof:geomhash":"6ec53ac15c5630b48a8f279c9f957c95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823248811,
-    "wof:lastmodified":1467083634,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":85817719,
     "wof:placetype":"venue",

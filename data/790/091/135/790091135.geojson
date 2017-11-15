@@ -2,14 +2,20 @@
   "id": 790091135,
   "type": "Feature",
   "properties": {
+    "addr:full":"366 Northgate Mall Chattanooga TN 37415",
+    "addr:housenumber":"366",
+    "addr:postcode":"37415",
+    "addr:street":"Northgate Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.244614,35.137717,-85.244614,35.137717",
     "geom:latitude":35.137717,
     "geom:longitude":-85.244614,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"366 Northgate Mall",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087185,
         85825769
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6gZ088Sf25fcvA7fOwTcPa_35.137717_-85.244614@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593064,
-    "wof:geomhash":"3d00aa35af8475469f64a6a0f2c103bf",
+    "wof:geomhash":"56f4b46995e3f9b58bdaf23f80034288",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790091135,
-    "wof:lastmodified":1467083118,
+    "wof:lastmodified":1510698853,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85825769,
     "wof:placetype":"venue",

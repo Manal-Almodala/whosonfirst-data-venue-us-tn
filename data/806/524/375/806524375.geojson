@@ -2,14 +2,20 @@
   "id": 806524375,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Antioch Rd Mountain City TN 37683",
+    "addr:housenumber":"117",
+    "addr:postcode":"37683",
+    "addr:street":"Antioch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.769527,36.419779,-81.769527,36.419779",
     "geom:latitude":36.419779,
     "geom:longitude":-81.769527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 Antioch Rd",
     "sg:city":"Mountain City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086291,
         85830907
     ],
+    "wof:brand_id":420575777,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2H0aUSkC0DhXVd5V134ikW_36.419779_-81.769527@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598818,
-    "wof:geomhash":"4b98c7a813cd70c4143bfd2b80b8a0a6",
+    "wof:geomhash":"a07415cc27bb2d349c6061b8170b0c13",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806524375,
-    "wof:lastmodified":1467083299,
+    "wof:lastmodified":1510602622,
     "wof:name":"Antioch Baptist Church",
     "wof:parent_id":85830907,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823173879,
   "type": "Feature",
   "properties": {
+    "addr:full":"3580 Kirby Pkwy Memphis TN 38115",
+    "addr:housenumber":"3580",
+    "addr:postcode":"38115",
+    "addr:street":"Kirby Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.843786,35.050819,-89.843786,35.050819",
     "geom:latitude":35.050819,
     "geom:longitude":-89.843786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3580 Kirby Pkwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125155843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qrZe3nyvg6Lqapt4TMX7b_35.050819_-89.843786@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607980,
-    "wof:geomhash":"4818e21d50ae7788a4ef882fe5e3280d",
+    "wof:geomhash":"5595204b832d4b680a08e6cc02f8af2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823173879,
-    "wof:lastmodified":1467083587,
+    "wof:lastmodified":1510697487,
     "wof:name":"Shear Image",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

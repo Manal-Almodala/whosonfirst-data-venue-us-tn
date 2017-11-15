@@ -2,14 +2,20 @@
   "id": 773405561,
   "type": "Feature",
   "properties": {
+    "addr:full":"6400 Poplar Ave Memphis TN 38119",
+    "addr:housenumber":"6400",
+    "addr:postcode":"38119",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.848854,35.100028,-89.848854,35.100028",
     "geom:latitude":35.100028,
     "geom:longitude":-89.848854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6400 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087213,
         85870789
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_79KepOHYOPfYv4xd34UvfP_35.100028_-89.848854@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585440,
-    "wof:geomhash":"206904cbf8e44b44026204d81b2915d5",
+    "wof:geomhash":"d5ac9b75fcbab66ffb19e54e726db718",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":773405561,
-    "wof:lastmodified":1467082888,
+    "wof:lastmodified":1510696927,
     "wof:name":"International Paper Co",
     "wof:parent_id":85870789,
     "wof:placetype":"venue",

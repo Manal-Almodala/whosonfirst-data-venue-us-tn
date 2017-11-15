@@ -2,9 +2,14 @@
   "id": 823220259,
   "type": "Feature",
   "properties": {
+    "addr:full":"2408 Goose Creek Byp Franklin TN 37064",
+    "addr:housenumber":"2408",
+    "addr:postcode":"37064",
+    "addr:street":"Goose Creek Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.832677,35.859511,-86.832677,35.859511",
     "geom:latitude":35.859511,
     "geom:longitude":-86.832677,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7WQfL4OprbWUGJyg9gaP3X_35.859511_-86.832677@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462608719,
     "wof:geomhash":"36ee33158c28b4fc10ccb77b26e1ad05",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":823220259
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823220259,
-    "wof:lastmodified":1467083614,
+    "wof:lastmodified":1491930841,
     "wof:name":"Mapco",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

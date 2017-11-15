@@ -2,14 +2,20 @@
   "id": 773558225,
   "type": "Feature",
   "properties": {
+    "addr:full":"5320 E Morris Blvd Morristown TN 37813",
+    "addr:housenumber":"5320",
+    "addr:postcode":"37813",
+    "addr:street":"E Morris Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.213518,36.246739,-83.213518,36.246739",
     "geom:latitude":36.246739,
     "geom:longitude":-83.213518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5320 E Morris Blvd",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":420575377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43PAp16CJVoKq42tgcnkdL_36.246739_-83.213518@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586635,
-    "wof:geomhash":"37d4edf44ac66a6313bca5935a9151da",
+    "wof:geomhash":"8f5e19dd84abebae217d79922ed76c9c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773558225,
-    "wof:lastmodified":1467082924,
+    "wof:lastmodified":1510602072,
     "wof:name":"Staffmark",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

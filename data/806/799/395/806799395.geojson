@@ -2,14 +2,20 @@
   "id": 806799395,
   "type": "Feature",
   "properties": {
+    "addr:full":"1067 N Main St Crossville TN 38555",
+    "addr:housenumber":"1067",
+    "addr:postcode":"38555",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.035013,35.960474,-85.035013,35.960474",
     "geom:latitude":35.960474,
     "geom:longitude":-85.035013,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1067 N Main St",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":1125159359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KuJNbNhobbdkyst88QEHb_35.960474_-85.035013@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601180,
-    "wof:geomhash":"5a026e1d95c82818c1b42ee4468b12cb",
+    "wof:geomhash":"86e5dfbf14e0db59ef75479a3a9d08b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806799395,
-    "wof:lastmodified":1467083377,
+    "wof:lastmodified":1510699283,
     "wof:name":"Ryder Integrated Logistics Inc",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

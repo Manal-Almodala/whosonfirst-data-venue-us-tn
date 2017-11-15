@@ -2,14 +2,20 @@
   "id": 823279391,
   "type": "Feature",
   "properties": {
+    "addr:full":"1055 Madison Ave Memphis TN 38104",
+    "addr:housenumber":"1055",
+    "addr:postcode":"38104",
+    "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.02649,35.139876,-90.02649,35.139876",
     "geom:latitude":35.139876,
     "geom:longitude":-90.02649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1055 Madison Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087213,
         85893411
     ],
+    "wof:brand_id":420574873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17IhztadH4vN5N4XQ5WYe4_35.139876_-90.026490@1303262740"
     },
     "wof:country":"US",
     "wof:created":1462610291,
-    "wof:geomhash":"8ea3581e057e8e4383e8e62b14c52a50",
+    "wof:geomhash":"5e866dfb77f9b2c5caa41756bcf91758",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823279391,
-    "wof:lastmodified":1467083668,
+    "wof:lastmodified":1510604217,
     "wof:name":"Firestone Complete Auto Care Store",
     "wof:parent_id":85893411,
     "wof:placetype":"venue",

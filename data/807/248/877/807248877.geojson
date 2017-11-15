@@ -2,14 +2,20 @@
   "id": 807248877,
   "type": "Feature",
   "properties": {
+    "addr:full":"531 Island Ford Rd Jacksboro TN 37757",
+    "addr:housenumber":"531",
+    "addr:postcode":"37757",
+    "addr:street":"Island Ford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.181339,36.319241,-84.181339,36.319241",
     "geom:latitude":36.319241,
     "geom:longitude":-84.181339,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"531 Island Ford Rd",
     "sg:city":"Jacksboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086391,
         85841731
     ],
+    "wof:brand_id":1125150929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15ypXvq0sHx5Y4RXJeeTNU_36.319241_-84.181339@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605313,
-    "wof:geomhash":"9a00c0a8c81baecc191b9e65975387c0",
+    "wof:geomhash":"241c171100f908fae5310b90adffff36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807248877,
-    "wof:lastmodified":1467083506,
+    "wof:lastmodified":1510694586,
     "wof:name":"CSX",
     "wof:parent_id":85841731,
     "wof:placetype":"venue",

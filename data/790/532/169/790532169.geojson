@@ -2,14 +2,20 @@
   "id": 790532169,
   "type": "Feature",
   "properties": {
+    "addr:full":"6046 Knight Arnold Rd Exd Memphis TN 38115",
+    "addr:housenumber":"6046",
+    "addr:postcode":"38115",
+    "addr:street":"Knight Arnold Rd Exd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.865916,35.060738,-89.865916,35.060738",
     "geom:latitude":35.060738,
     "geom:longitude":-89.865916,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6046 Knight Arnold Rd Exd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":1125153759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YLVnKdB2dqhEA02bs7rRF_35.060738_-89.865916@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596640,
-    "wof:geomhash":"57a84a4740b503526bee37f6b2c6fc65",
+    "wof:geomhash":"af1eb671ac82c31097b06f63d4c320c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790532169,
-    "wof:lastmodified":1467083226,
+    "wof:lastmodified":1510693814,
     "wof:name":"Coverall Cleaning Concepts",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

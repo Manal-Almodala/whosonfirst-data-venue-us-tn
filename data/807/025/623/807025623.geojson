@@ -2,14 +2,20 @@
   "id": 807025623,
   "type": "Feature",
   "properties": {
+    "addr:full":"526 E Elk Ave Elizabethton TN 37643",
+    "addr:housenumber":"526",
+    "addr:postcode":"37643",
+    "addr:street":"E Elk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.215386,36.347787,-82.215386,36.347787",
     "geom:latitude":36.347787,
     "geom:longitude":-82.215386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"526 E Elk Ave",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087053,
         85816779
     ],
+    "wof:brand_id":1125150451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EPgqOvpJqsiLiYGfUgVC2_36.347787_-82.215386@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603082,
-    "wof:geomhash":"50209dc5275f2ad1a996e7620d96033c",
+    "wof:geomhash":"8076f8f274069e0db7509cd1ff7ec3b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807025623,
-    "wof:lastmodified":1467083439,
+    "wof:lastmodified":1510695312,
     "wof:name":"World Finance Corp",
     "wof:parent_id":85816779,
     "wof:placetype":"venue",

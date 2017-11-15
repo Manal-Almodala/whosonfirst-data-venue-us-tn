@@ -2,14 +2,20 @@
   "id": 807042055,
   "type": "Feature",
   "properties": {
+    "addr:full":"4105 Lebanon Pike Hermitage TN 37076",
+    "addr:housenumber":"4105",
+    "addr:postcode":"37076",
+    "addr:street":"Lebanon Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.619401,36.199352,-86.619401,36.199352",
     "geom:latitude":36.199352,
     "geom:longitude":-86.619401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4105 Lebanon Pike",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85824673
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fLoEG3LVXPcpIEOl1iNDi_36.199352_-86.619401@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603229,
-    "wof:geomhash":"50c0ded6efabe04f1cfe22649eefff0d",
+    "wof:geomhash":"79ab1f0c85c63eb08b2aef3e4ac7e7d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807042055,
-    "wof:lastmodified":1467083443,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85824673,
     "wof:placetype":"venue",

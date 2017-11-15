@@ -2,14 +2,20 @@
   "id": 823241145,
   "type": "Feature",
   "properties": {
+    "addr:full":"926 Carthage Hwy Lebanon TN 37087",
+    "addr:housenumber":"926",
+    "addr:postcode":"37087",
+    "addr:street":"Carthage Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.26956,36.211883,-86.26956,36.211883",
     "geom:latitude":36.211883,
     "geom:longitude":-86.26956,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"926 Carthage Hwy",
     "sg:city":"Lebanon",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":420575555,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JgccM9ouZcoBmFuPL9T2D_36.211883_-86.269560@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609170,
-    "wof:geomhash":"5f4b600b4cbc28f88d0c347f567cb209",
+    "wof:geomhash":"b08822d4648efe805021c8e895867926",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":823241145,
-    "wof:lastmodified":1467083629,
+    "wof:lastmodified":1510602867,
     "wof:name":"Ameri Gas Inc",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

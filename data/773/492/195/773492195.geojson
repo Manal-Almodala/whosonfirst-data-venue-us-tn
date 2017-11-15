@@ -2,14 +2,20 @@
   "id": 773492195,
   "type": "Feature",
   "properties": {
+    "addr:full":"188 Old Georgetown Rd Cleveland TN 37312",
+    "addr:housenumber":"188",
+    "addr:postcode":"37312",
+    "addr:street":"Old Georgetown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.887344,35.240737,-84.887344,35.240737",
     "geom:latitude":35.240737,
     "geom:longitude":-84.887344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"188 Old Georgetown Rd",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087043,
         85808527
     ],
+    "wof:brand_id":1125156255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XmrBV1VjbE2lHNSn1PNVl_35.240737_-84.887344@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586152,
-    "wof:geomhash":"44894bfab22ee2eae8bc9d14f8efd73a",
+    "wof:geomhash":"e382d783ef8347b24b64f8b3942ea7f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773492195,
-    "wof:lastmodified":1467082908,
+    "wof:lastmodified":1510696913,
     "wof:name":"Hopewell Baptist Church",
     "wof:parent_id":85808527,
     "wof:placetype":"venue",

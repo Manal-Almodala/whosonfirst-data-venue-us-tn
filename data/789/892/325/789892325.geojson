@@ -2,14 +2,20 @@
   "id": 789892325,
   "type": "Feature",
   "properties": {
+    "addr:full":"1821 Allenby Green Germantown TN 38139",
+    "addr:housenumber":"1821",
+    "addr:postcode":"38139",
+    "addr:street":"Allenby Green",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.782852,35.098675,-89.782852,35.098675",
     "geom:latitude":35.098675,
     "geom:longitude":-89.782852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1821 Allenby Green",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85819859
     ],
+    "wof:brand_id":1125153331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TfOMqqWWfbheT33kPwG8y_35.098675_-89.782852@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591387,
-    "wof:geomhash":"0989a79747cc6d4e52f5ac37b022b5e5",
+    "wof:geomhash":"bd22c29e81ba1ecbd4f12692a3e0dd3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789892325,
-    "wof:lastmodified":1467083070,
+    "wof:lastmodified":1510699016,
     "wof:name":"Premier Mortgage Funding Inc",
     "wof:parent_id":85819859,
     "wof:placetype":"venue",

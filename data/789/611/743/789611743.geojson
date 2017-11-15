@@ -2,14 +2,20 @@
   "id": 789611743,
   "type": "Feature",
   "properties": {
+    "addr:full":"4523 Millbranch Rd Memphis TN 38116",
+    "addr:housenumber":"4523",
+    "addr:postcode":"38116",
+    "addr:street":"Millbranch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.007605,35.025344,-90.007605,35.025344",
     "geom:latitude":35.025344,
     "geom:longitude":-90.007605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4523 Millbranch Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         420542123
     ],
+    "wof:brand_id":1125152743,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2fyGb2BQbGCT8T4RSBl1Li_35.025344_-90.007605@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589150,
-    "wof:geomhash":"31ac7ed1e845b197d9fbeb36f8192ff8",
+    "wof:geomhash":"2cfa602781a0c7091c336acf6e450aab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789611743,
-    "wof:lastmodified":1467083003,
+    "wof:lastmodified":1510613102,
     "wof:name":"Super Nails",
     "wof:parent_id":420542123,
     "wof:placetype":"venue",

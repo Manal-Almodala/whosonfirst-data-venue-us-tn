@@ -2,14 +2,20 @@
   "id": 806510319,
   "type": "Feature",
   "properties": {
+    "addr:full":"545 Mainstream Dr Nashville TN 37228",
+    "addr:housenumber":"545",
+    "addr:postcode":"37228",
+    "addr:street":"Mainstream Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811386,36.200021,-86.811386,36.200021",
     "geom:latitude":36.200021,
     "geom:longitude":-86.811386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"545 Mainstream Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893475
     ],
+    "wof:brand_id":1125154289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58p8JgfKtn1Lk9Lsf2nDUP_36.200021_-86.811386@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598719,
-    "wof:geomhash":"5eb4cf89dbe7dd6b6182cd7708db713c",
+    "wof:geomhash":"3de129ba00009e15c11597a349d38532",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806510319,
-    "wof:lastmodified":1467083295,
+    "wof:lastmodified":1510693860,
     "wof:name":"Charter Cmmnctons Holdings LLC",
     "wof:parent_id":85893475,
     "wof:placetype":"venue",

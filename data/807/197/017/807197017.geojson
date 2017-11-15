@@ -2,9 +2,14 @@
   "id": 807197017,
   "type": "Feature",
   "properties": {
+    "addr:full":"137 Circle Dr Cottontown TN 37048",
+    "addr:housenumber":"137",
+    "addr:postcode":"37048",
+    "addr:street":"Circle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.635784,36.477465,-86.635784,36.477465",
     "geom:latitude":36.477465,
     "geom:longitude":-86.635784,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"86807ef7ced07e4d66dcf7f05db67398",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807197017,
-    "wof:lastmodified":1467083489,
+    "wof:lastmodified":1491939223,
     "wof:name":"Drummond American",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

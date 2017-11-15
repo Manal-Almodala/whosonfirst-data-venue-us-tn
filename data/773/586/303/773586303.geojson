@@ -2,14 +2,20 @@
   "id": 773586303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1409 51st Ave N Nashville TN 37209",
+    "addr:housenumber":"1409",
+    "addr:postcode":"37209",
+    "addr:street":"51St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.849275,36.163642,-86.849275,36.163642",
     "geom:latitude":36.163642,
     "geom:longitude":-86.849275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1409 51st Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893485
     ],
+    "wof:brand_id":1125152765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q85CDFrVleZPqLbsYtNRA_36.163642_-86.849275@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586846,
-    "wof:geomhash":"41edded78185070bfcd625c1ea2c7129",
+    "wof:geomhash":"e2b7b0be783db9cfb08407ca8fcbd2d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773586303,
-    "wof:lastmodified":1467082931,
+    "wof:lastmodified":1510697159,
     "wof:name":"BP Oil Co",
     "wof:parent_id":85893485,
     "wof:placetype":"venue",

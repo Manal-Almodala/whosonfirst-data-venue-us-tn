@@ -2,14 +2,20 @@
   "id": 790562119,
   "type": "Feature",
   "properties": {
+    "addr:full":"4052 Nolensville Pike Nashville TN 37211",
+    "addr:housenumber":"4052",
+    "addr:postcode":"37211",
+    "addr:street":"Nolensville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.72677,36.081321,-86.72677,36.081321",
     "geom:latitude":36.081321,
     "geom:longitude":-86.72677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4052 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         420541539
     ],
+    "wof:brand_id":1125150401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0c7O8uJDqVkBAIBtF72qbS_36.081321_-86.726770@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596891,
-    "wof:geomhash":"64abe9ce0eac1173aa7b7485f809da1b",
+    "wof:geomhash":"56590697cc298ca882ddc7a2be4ee1af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790562119,
-    "wof:lastmodified":1467083235,
+    "wof:lastmodified":1510693889,
     "wof:name":"Athlete's Foot",
     "wof:parent_id":420541539,
     "wof:placetype":"venue",

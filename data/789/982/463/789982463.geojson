@@ -2,14 +2,20 @@
   "id": 789982463,
   "type": "Feature",
   "properties": {
+    "addr:full":"2510 Old Fort Pkwy Murfreesboro TN 37128",
+    "addr:housenumber":"2510",
+    "addr:postcode":"37128",
+    "addr:street":"Old Fort Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.44863,35.845055,-86.44863,35.845055",
     "geom:latitude":35.845055,
     "geom:longitude":-86.44863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2510 Old Fort Pkwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125151261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EjlZ9G6j6qD5tm9n9SUJG_35.845055_-86.448630@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592190,
-    "wof:geomhash":"72675f51617f018839773d98046f52ab",
+    "wof:geomhash":"84b3db63aba9669c075969f4c5b096a9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789982463,
-    "wof:lastmodified":1467083092,
+    "wof:lastmodified":1510699355,
     "wof:name":"Express Oil Change",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

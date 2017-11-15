@@ -2,14 +2,20 @@
   "id": 806356745,
   "type": "Feature",
   "properties": {
+    "addr:full":"159 Fitzsimmons Hill Rd Elizabethton TN 37643",
+    "addr:housenumber":"159",
+    "addr:postcode":"37643",
+    "addr:street":"Fitzsimmons Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.210835,36.36106,-82.210835,36.36106",
     "geom:latitude":36.36106,
     "geom:longitude":-82.210835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"159 Fitzsimmons Hill Rd",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087053,
         85816779
     ],
+    "wof:brand_id":1125150947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EHumnY9fFIIcy56Yx8sS2_36.361060_-82.210835@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597484,
-    "wof:geomhash":"b83fbfc9b5bee14437be76a229fb6520",
+    "wof:geomhash":"8557cc6640f582cdec1d0aa32516d574",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806356745,
-    "wof:lastmodified":1467083253,
+    "wof:lastmodified":1510693716,
     "wof:name":"Northside Baptist Church",
     "wof:parent_id":85816779,
     "wof:placetype":"venue",

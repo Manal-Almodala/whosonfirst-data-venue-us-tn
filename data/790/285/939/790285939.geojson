@@ -2,14 +2,20 @@
   "id": 790285939,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 Helberg St Dickson TN 37055",
+    "addr:housenumber":"112",
+    "addr:postcode":"37055",
+    "addr:street":"Helberg St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.385026,36.084451,-87.385026,36.084451",
     "geom:latitude":36.084451,
     "geom:longitude":-87.385026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 Helberg St",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125159621,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yqQ07UxNoFQlgvyGHuPJR_36.084451_-87.385026@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594653,
-    "wof:geomhash":"7947bc1a1527f6da458d005c50c98fea",
+    "wof:geomhash":"22b1cbeaf2bc3cc746f773987b53a10d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790285939,
-    "wof:lastmodified":1467083164,
+    "wof:lastmodified":1510696712,
     "wof:name":"Mt Sinai Baptist Church",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

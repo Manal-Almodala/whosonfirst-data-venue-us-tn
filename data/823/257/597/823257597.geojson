@@ -2,14 +2,20 @@
   "id": 823257597,
   "type": "Feature",
   "properties": {
+    "addr:full":"541 E Bockman Way Sparta TN 38583",
+    "addr:housenumber":"541",
+    "addr:postcode":"38583",
+    "addr:street":"E Bockman Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.450138,35.92428,-85.450138,35.92428",
     "geom:latitude":35.92428,
     "geom:longitude":-85.450138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"541 E Bockman Way",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086369,
         85831481
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KKZT0euVerCmdVie9MSqF_35.924280_-85.450138@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609487,
-    "wof:geomhash":"895717c805ab3f14f921c9fea413e931",
+    "wof:geomhash":"d25777d52dd4595d9e81a22671cb39cb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823257597,
-    "wof:lastmodified":1467083640,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":85831481,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773328205,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 Haven St Hendersonville TN 37075",
+    "addr:housenumber":"129",
+    "addr:postcode":"37075",
+    "addr:street":"Haven St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.616483,36.300028,-86.616483,36.300028",
     "geom:latitude":36.300028,
     "geom:longitude":-86.616483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 Haven St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086357,
         85837037
     ],
+    "wof:brand_id":1125153331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05eNTlloHk4UHHIGLZgCOf_36.300028_-86.616483@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584895,
-    "wof:geomhash":"25bb0c60109b9c7fe63e1a5bdbc49f27",
+    "wof:geomhash":"45c5a6de5424d0bb702b70131ca2c530",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773328205,
-    "wof:lastmodified":1467082870,
+    "wof:lastmodified":1510699016,
     "wof:name":"Premier Mortgage Funding Inc",
     "wof:parent_id":85837037,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773342581,
   "type": "Feature",
   "properties": {
+    "addr:full":"2435 S Bellah Ct Murfreesboro TN 37127",
+    "addr:housenumber":"2435",
+    "addr:postcode":"37127",
+    "addr:street":"S Bellah Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.352177,35.802441,-86.352177,35.802441",
     "geom:latitude":35.802441,
     "geom:longitude":-86.352177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2435 S Bellah Ct",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086355,
         85833237
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BPp4mv3B5dlPQcd2XZRRD_35.802441_-86.352177@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584998,
-    "wof:geomhash":"68b814192d0aea731c6109d299a999e6",
+    "wof:geomhash":"e7c2ae282fca8cb8feb8bfaac3f8bd17",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773342581,
-    "wof:lastmodified":1467082873,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85833237,
     "wof:placetype":"venue",

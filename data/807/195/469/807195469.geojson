@@ -2,14 +2,20 @@
   "id": 807195469,
   "type": "Feature",
   "properties": {
+    "addr:full":"1755 Eldridge Ave Memphis TN 38108",
+    "addr:housenumber":"1755",
+    "addr:postcode":"38108",
+    "addr:street":"Eldridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.99836,35.170828,-89.99836,35.170828",
     "geom:latitude":35.170828,
     "geom:longitude":-89.99836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1755 Eldridge Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         420542135
     ],
+    "wof:brand_id":1125150611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hpqsqZOb40iw5DsPzvEjg_35.170828_-89.998360@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604746,
-    "wof:geomhash":"996237b5d3c2290b7b5dad4f50d6c9ba",
+    "wof:geomhash":"1f71e140f1e42de0db818e977a971800",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807195469,
-    "wof:lastmodified":1467083488,
+    "wof:lastmodified":1510604905,
     "wof:name":"Quest Diagnotics",
     "wof:parent_id":420542135,
     "wof:placetype":"venue",

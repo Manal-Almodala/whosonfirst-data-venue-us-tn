@@ -2,9 +2,14 @@
   "id": 823150151,
   "type": "Feature",
   "properties": {
+    "addr:full":"154 S Palmers Chapel Rd White House TN 37188",
+    "addr:housenumber":"154",
+    "addr:postcode":"37188",
+    "addr:street":"S;Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.637232,36.447208,-86.637232,36.447208",
     "geom:latitude":36.447208,
     "geom:longitude":-86.637232,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"bededd159237af8f7123348e9d3ac5b8",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823150151,
-    "wof:lastmodified":1467083577,
+    "wof:lastmodified":1491939217,
     "wof:name":"Creative Closets",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773355903,
   "type": "Feature",
   "properties": {
+    "addr:full":"589 Cove Ln Savannah TN 38372",
+    "addr:housenumber":"589",
+    "addr:postcode":"38372",
+    "addr:street":"Cove Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.236792,35.269533,-88.236792,35.269533",
     "geom:latitude":35.269533,
     "geom:longitude":-88.236792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"589 Cove Ln",
     "sg:city":"Savannah",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086329,
         85836765
     ],
+    "wof:brand_id":1125152297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4loDZFl9rLVB5cKB1ifKW5_35.269533_-88.236792@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585090,
-    "wof:geomhash":"5e5c9c449a7b0aacf4b9c82a09369c95",
+    "wof:geomhash":"3f4d7e21bb739871d8e8d48f532a97f4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773355903,
-    "wof:lastmodified":1467082876,
+    "wof:lastmodified":1510695695,
     "wof:name":"Pace International Union",
     "wof:parent_id":85836765,
     "wof:placetype":"venue",

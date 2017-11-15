@@ -2,14 +2,20 @@
   "id": 807072979,
   "type": "Feature",
   "properties": {
+    "addr:full":"319 Vann Dr Jackson TN 38305",
+    "addr:housenumber":"319",
+    "addr:postcode":"38305",
+    "addr:street":"Vann Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.837885,35.66956,-88.837885,35.66956",
     "geom:latitude":35.66956,
     "geom:longitude":-88.837885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"319 Vann Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FCaZPNEKMgmkHz8A9OBcZ_35.669560_-88.837885@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603480,
-    "wof:geomhash":"13f78fd41b49628d829c5a48c8d165bc",
+    "wof:geomhash":"89038a5f73b554b92f2b352cd201d979",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807072979,
-    "wof:lastmodified":1467083452,
+    "wof:lastmodified":1510602525,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

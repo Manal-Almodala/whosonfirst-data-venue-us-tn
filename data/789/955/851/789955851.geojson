@@ -2,14 +2,20 @@
   "id": 789955851,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 W Jackson St Cookeville TN 38501",
+    "addr:housenumber":"105",
+    "addr:postcode":"38501",
+    "addr:street":"W Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.510787,36.154381,-85.510787,36.154381",
     "geom:latitude":36.154381,
     "geom:longitude":-85.510787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 W Jackson St",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086339,
         85822779
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OtR5Obv2rzKAfFTh1RFur_36.154381_-85.510787@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591965,
-    "wof:geomhash":"92109a7b3e43e3c6bf35958a99341ba0",
+    "wof:geomhash":"9de7304e9042acb9b3bfe4cf73520273",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789955851,
-    "wof:lastmodified":1467083086,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85822779,
     "wof:placetype":"venue",

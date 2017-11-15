@@ -2,14 +2,20 @@
   "id": 789952921,
   "type": "Feature",
   "properties": {
+    "addr:full":"1616 Brentridge Cir Antioch TN 37013",
+    "addr:housenumber":"1616",
+    "addr:postcode":"37013",
+    "addr:street":"Brentridge Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.681399,36.047463,-86.681399,36.047463",
     "geom:latitude":36.047463,
     "geom:longitude":-86.681399,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1616 Brentridge Cir",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85852849
     ],
+    "wof:brand_id":1125155195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73LoME0WH21YMQv0bk5jKB_36.047463_-86.681399@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591943,
-    "wof:geomhash":"b64cad1aaaafacc6938bc6de22bc4639",
+    "wof:geomhash":"9f2195e3cedd5222986c9f4464ff8df1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789952921,
-    "wof:lastmodified":1467083085,
+    "wof:lastmodified":1510699646,
     "wof:name":"Total Lawn Care",
     "wof:parent_id":85852849,
     "wof:placetype":"venue",

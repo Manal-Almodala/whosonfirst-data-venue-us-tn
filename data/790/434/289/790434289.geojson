@@ -2,14 +2,20 @@
   "id": 790434289,
   "type": "Feature",
   "properties": {
+    "addr:full":"190 Woodmere Mall Crossville TN 38555",
+    "addr:housenumber":"190",
+    "addr:postcode":"38555",
+    "addr:street":"Woodmere Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.030255,35.957181,-85.030255,35.957181",
     "geom:latitude":35.957181,
     "geom:longitude":-85.030255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"190 Woodmere Mall",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":1125152309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aqz6XFjsqEOo4MdCKj6I9_35.957181_-85.030255@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595801,
-    "wof:geomhash":"344ea8fd6695d6b2b3570b4544d9800c",
+    "wof:geomhash":"d0b29c83ebe7a32cfa9fb6728acd501e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790434289,
-    "wof:lastmodified":1467083200,
+    "wof:lastmodified":1510696019,
     "wof:name":"Sun Loan Co",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

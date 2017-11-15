@@ -2,14 +2,20 @@
   "id": 773062797,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Murfreesboro Rd Lebanon TN 37090",
+    "addr:housenumber":"1901",
+    "addr:postcode":"37090",
+    "addr:street":"Murfreesboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.314736,36.145198,-86.314736,36.145198",
     "geom:latitude":36.145198,
     "geom:longitude":-86.314736,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 Murfreesboro Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125151719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Xa5BtcDMqnkzwa8LWBp5h_36.145198_-86.314736@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582868,
-    "wof:geomhash":"3a8da88ab310f8c27b608212425c14ac",
+    "wof:geomhash":"d15fda39e9fea35b28af9b0c581e8d4c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773062797,
-    "wof:lastmodified":1467082794,
+    "wof:lastmodified":1510696790,
     "wof:name":"Brooks Brothers",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

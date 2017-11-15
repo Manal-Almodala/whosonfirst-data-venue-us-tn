@@ -2,14 +2,20 @@
   "id": 806769667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1207 Clinton Pl Mount Juliet TN 37122",
+    "addr:housenumber":"1207",
+    "addr:postcode":"37122",
+    "addr:street":"Clinton Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.55437,36.182171,-86.55437,36.182171",
     "geom:latitude":36.182171,
     "geom:longitude":-86.55437,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1207 Clinton Pl",
     "sg:city":"Mount Juliet",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087205,
         85851335
     ],
+    "wof:brand_id":1125153127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35EzYtKNByI9xzc7S3XI94_36.182171_-86.554370@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600927,
-    "wof:geomhash":"8afcd661254e3c0e4b862fd22469a062",
+    "wof:geomhash":"fd1fe03601356a7d27aabafb3961c212",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806769667,
-    "wof:lastmodified":1467083368,
+    "wof:lastmodified":1510699544,
     "wof:name":"Timeless Treasures",
     "wof:parent_id":85851335,
     "wof:placetype":"venue",

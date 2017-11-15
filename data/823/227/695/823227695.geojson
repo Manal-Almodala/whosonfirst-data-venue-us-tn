@@ -2,14 +2,20 @@
   "id": 823227695,
   "type": "Feature",
   "properties": {
+    "addr:full":"3288 Jackson Ave Memphis TN 38122",
+    "addr:housenumber":"3288",
+    "addr:postcode":"38122",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.951176,35.166155,-89.951176,35.166155",
     "geom:latitude":35.166155,
     "geom:longitude":-89.951176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3288 Jackson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870771
     ],
+    "wof:brand_id":1125152327,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mYNUgEEC26Xj5UzfJYq7H_35.166146_-89.951021@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462608907,
-    "wof:geomhash":"3052893495785f26cfbe47ae51541984",
+    "wof:geomhash":"4088033e498c8204f5f7befc48d09f52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823227695,
-    "wof:lastmodified":1467083620,
+    "wof:lastmodified":1510604947,
     "wof:name":"Beautiful Nails",
     "wof:parent_id":85870771,
     "wof:placetype":"venue",

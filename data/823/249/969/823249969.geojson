@@ -2,14 +2,20 @@
   "id": 823249969,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Fort Henry Dr Kingsport TN 37664",
+    "addr:housenumber":"2101",
+    "addr:postcode":"37664",
+    "addr:street":"Fort Henry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.519757,36.5285,-82.519757,36.5285",
     "geom:latitude":36.5285,
     "geom:longitude":-82.519757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2101 Fort Henry Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086471,
         85820455
     ],
+    "wof:brand_id":1125158299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RgKhL7Pn8P3TWNg2pKMIq_36.528500_-82.519757@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609331,
-    "wof:geomhash":"f20c26932984c383f8208b1290e1cec2",
+    "wof:geomhash":"7642c6a52cf6569375ede226f0f7b063",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823249969,
-    "wof:lastmodified":1467083635,
+    "wof:lastmodified":1510695815,
     "wof:name":"Garfield's Restaurant & Pub",
     "wof:parent_id":85820455,
     "wof:placetype":"venue",

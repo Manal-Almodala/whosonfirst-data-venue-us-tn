@@ -2,14 +2,20 @@
   "id": 807299825,
   "type": "Feature",
   "properties": {
+    "addr:full":"1520 Memorial Blvd Murfreesboro TN 37129",
+    "addr:housenumber":"1520",
+    "addr:postcode":"37129",
+    "addr:street":"Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.3966,35.852958,-86.3966,35.852958",
     "geom:latitude":35.852958,
     "geom:longitude":-86.3966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1520 Memorial Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85835585
     ],
+    "wof:brand_id":1125151415,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r1KRRlbcq9ZXLXA8wPDHi_35.852958_-86.396600@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605848,
-    "wof:geomhash":"dd718d3e51121e9ce3bd0bc2a6dbdf0d",
+    "wof:geomhash":"d4e3eddb5565d5724b56867e82cbbd65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807299825,
-    "wof:lastmodified":1467083524,
+    "wof:lastmodified":1510698992,
     "wof:name":"Duron Paints & Wallcoverings",
     "wof:parent_id":85835585,
     "wof:placetype":"venue",

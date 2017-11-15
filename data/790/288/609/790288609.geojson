@@ -2,14 +2,20 @@
   "id": 790288609,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Oil Well Rd Jackson TN 38305",
+    "addr:housenumber":"222",
+    "addr:postcode":"38305",
+    "addr:street":"Oil Well Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.853175,35.68962,-88.853175,35.68962",
     "geom:latitude":35.68962,
     "geom:longitude":-88.853175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"222 Oil Well Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gW65QsZs5YA7MHG6LoLKv_35.689620_-88.853175@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594672,
-    "wof:geomhash":"4f43e8ba64a8ecdd7ccf2d2715865c38",
+    "wof:geomhash":"60f6e901304a88d23bb6e5c2e786f51b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790288609,
-    "wof:lastmodified":1467083164,
+    "wof:lastmodified":1510697539,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

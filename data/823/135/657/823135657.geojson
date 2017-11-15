@@ -2,14 +2,20 @@
   "id": 823135657,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Murfreesboro Pike Nashville TN 37217",
+    "addr:housenumber":"1100",
+    "addr:postcode":"37217",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.7104,36.126132,-86.7104,36.126132",
     "geom:latitude":36.126132,
     "geom:longitude":-86.7104,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85821799
     ],
+    "wof:brand_id":1125153913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zMYEcLAPNsjgTJxN3vOMA_36.126132_-86.710400@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607428,
-    "wof:geomhash":"4c651d2fa4ce5bb58ac16d98bf42660b",
+    "wof:geomhash":"3d0958985742cb3fc6b6aa73424117b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823135657,
-    "wof:lastmodified":1467083570,
+    "wof:lastmodified":1510699415,
     "wof:name":"Wolf Camera and Video",
     "wof:parent_id":85821799,
     "wof:placetype":"venue",

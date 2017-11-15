@@ -2,14 +2,20 @@
   "id": 823273783,
   "type": "Feature",
   "properties": {
+    "addr:full":"265 E Main St Newport TN 37821",
+    "addr:housenumber":"265",
+    "addr:postcode":"37821",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.186894,35.96775,-83.186894,35.96775",
     "geom:latitude":35.96775,
     "geom:longitude":-83.186894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"265 E Main St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85838303,
         102086241
     ],
+    "wof:brand_id":1125152049,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ux8jUHndWN5Fpou1DwALh_35.967750_-83.186894@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610063,
-    "wof:geomhash":"701d7ebc879ef4816c5e340b166db6c7",
+    "wof:geomhash":"61dbc0fb7535205aefe0e7f528b16238",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823273783,
-    "wof:lastmodified":1467083660,
+    "wof:lastmodified":1510694909,
     "wof:name":"Main Street Cafe",
     "wof:parent_id":85838303,
     "wof:placetype":"venue",

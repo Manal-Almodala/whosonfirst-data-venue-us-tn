@@ -2,14 +2,20 @@
   "id": 790158037,
   "type": "Feature",
   "properties": {
+    "addr:full":"3175 N Germantown Rd Memphis TN 38133",
+    "addr:housenumber":"3175",
+    "addr:postcode":"38133",
+    "addr:street":"N Germantown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.791725,35.216278,-89.791725,35.216278",
     "geom:latitude":35.216278,
     "geom:longitude":-89.791725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3175 N Germantown Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":420575993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47Bjmi1BOHQUp0yFnDhEno_35.216278_-89.791725@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593578,
-    "wof:geomhash":"ab68543f5c07bcdc78554b59cce3c72c",
+    "wof:geomhash":"232952e9288d499c9cb6002624275897",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790158037,
-    "wof:lastmodified":1467083134,
+    "wof:lastmodified":1510602055,
     "wof:name":"Storage USA",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823283759,
   "type": "Feature",
   "properties": {
+    "addr:full":"6073 Mount Moriah Road Ext Ste 4 Memphis TN 38115",
+    "addr:housenumber":"6073",
+    "addr:postcode":"38115",
+    "addr:street":"Mount Moriah Road Ext Ste 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.860643,35.071293,-89.860643,35.071293",
     "geom:latitude":35.071293,
     "geom:longitude":-89.860643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6073 Mount Moriah Road Ext Ste 4",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125152003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_52bavOqNIYZe0JT8hYmEJX_35.071293_-89.860643@1303262741"
     },
     "wof:country":"US",
     "wof:created":1462610461,
-    "wof:geomhash":"7d7fad160e7ad9365f35c3938027e688",
+    "wof:geomhash":"386bbdb4d4915236ef8eded28e4faa04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823283759,
-    "wof:lastmodified":1467083674,
+    "wof:lastmodified":1510694863,
     "wof:name":"Maid Brigade",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

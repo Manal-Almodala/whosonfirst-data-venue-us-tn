@@ -2,14 +2,20 @@
   "id": 773734281,
   "type": "Feature",
   "properties": {
+    "addr:full":"5856 Summer Ave Memphis TN 38134",
+    "addr:housenumber":"5856",
+    "addr:postcode":"38134",
+    "addr:street":"Summer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.86529,35.1751,-89.86529,35.1751",
     "geom:latitude":35.1751,
     "geom:longitude":-89.86529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5856 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3SNmzpMX4WwGbYNETJGKpI_35.175100_-89.865290@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587982,
-    "wof:geomhash":"8dfc85d807f4ec9b9a41cd092c4ff5e7",
+    "wof:geomhash":"2b091b056c033e8321626559e87cfb93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773734281,
-    "wof:lastmodified":1467082967,
+    "wof:lastmodified":1510697539,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

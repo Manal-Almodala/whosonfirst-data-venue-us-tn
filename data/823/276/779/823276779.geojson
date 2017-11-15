@@ -2,14 +2,20 @@
   "id": 823276779,
   "type": "Feature",
   "properties": {
+    "addr:full":"5123 Highway 179 Covington TN 38019",
+    "addr:housenumber":"5123",
+    "addr:postcode":"38019",
+    "addr:street":"Highway 179",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.563562,35.516403,-89.563562,35.516403",
     "geom:latitude":35.516403,
     "geom:longitude":-89.563562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5123 Highway 179",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125152801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xsx9d9yNTWR8C0YIOQaof_35.516403_-89.563562@1303262740"
     },
     "wof:country":"US",
     "wof:created":1462610181,
-    "wof:geomhash":"24e107719a7a115858ebd7575d4cfae0",
+    "wof:geomhash":"cfe34afad1754cf429d43f9c808046c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":823276779,
-    "wof:lastmodified":1467083664,
+    "wof:lastmodified":1510696884,
     "wof:name":"New Life Community Church",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

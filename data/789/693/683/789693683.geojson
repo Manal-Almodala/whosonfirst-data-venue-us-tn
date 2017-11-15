@@ -2,14 +2,20 @@
   "id": 789693683,
   "type": "Feature",
   "properties": {
+    "addr:full":"1555 Lynnfield Rd Memphis TN 38119",
+    "addr:housenumber":"1555",
+    "addr:postcode":"38119",
+    "addr:street":"Lynnfield Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.868869,35.0931,-89.868869,35.0931",
     "geom:latitude":35.0931,
     "geom:longitude":-89.868869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1555 Lynnfield Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85857485
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eQeUGWkSrPD975p6UDkcv_35.093100_-89.868869@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589808,
-    "wof:geomhash":"26e87f8c18bc7b48903d9e8a154d99f5",
+    "wof:geomhash":"7534eabd0e53aa8201ae77a64c6e8d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789693683,
-    "wof:lastmodified":1467083023,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",

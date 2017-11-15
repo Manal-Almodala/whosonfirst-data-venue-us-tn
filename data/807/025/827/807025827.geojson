@@ -2,14 +2,20 @@
   "id": 807025827,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 N Main St Brighton TN 38011",
+    "addr:housenumber":"89",
+    "addr:postcode":"38011",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.722786,35.485295,-89.722786,35.485295",
     "geom:latitude":35.485295,
     "geom:longitude":-89.722786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"89 N Main St",
     "sg:city":"Brighton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125158575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ziYcnBd6SZZXn2ICjqKLn_35.485295_-89.722786@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603085,
-    "wof:geomhash":"444754617bf728bc07d2448ee9ef362c",
+    "wof:geomhash":"ecc75ca0dcba8c97edfce34f322210ef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807025827,
-    "wof:lastmodified":1467083439,
+    "wof:lastmodified":1510697291,
     "wof:name":"Main Street Barber Shop",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

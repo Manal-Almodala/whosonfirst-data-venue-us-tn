@@ -2,14 +2,20 @@
   "id": 806892701,
   "type": "Feature",
   "properties": {
+    "addr:full":"2080 Lakeside St NE Knoxville TN 37914",
+    "addr:housenumber":"2080",
+    "addr:postcode":"37914",
+    "addr:street":"Lakeside St Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.883375,36.001916,-83.883375,36.001916",
     "geom:latitude":36.001916,
     "geom:longitude":-83.883375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2080 Lakeside St NE",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85808509
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0vcDBiUJMyyCqCdmV7cXrN_36.001916_-83.883375@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601952,
-    "wof:geomhash":"b49042b97c163473173af5d3fb74c62c",
+    "wof:geomhash":"289b1ccb571e2910cf30282e209ff13a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806892701,
-    "wof:lastmodified":1467083403,
+    "wof:lastmodified":1510604738,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85808509,
     "wof:placetype":"venue",

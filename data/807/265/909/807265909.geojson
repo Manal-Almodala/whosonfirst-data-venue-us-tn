@@ -2,14 +2,20 @@
   "id": 807265909,
   "type": "Feature",
   "properties": {
+    "addr:full":"535 Murfreesboro Pike Nashville TN 37210",
+    "addr:housenumber":"535",
+    "addr:postcode":"37210",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.744265,36.142702,-86.744265,36.142702",
     "geom:latitude":36.142702,
     "geom:longitude":-86.744265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"535 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85866801
     ],
+    "wof:brand_id":1125150679,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mhP3yTH0vDEKvQH7yMXUI_36.142702_-86.744265@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605497,
-    "wof:geomhash":"2353af4cc7f9280d709bb04ca1465483",
+    "wof:geomhash":"f1180576d7e2e3a60e2c443cc4f03981",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807265909,
-    "wof:lastmodified":1467083511,
+    "wof:lastmodified":1510696930,
     "wof:name":"Nations Rent",
     "wof:parent_id":85866801,
     "wof:placetype":"venue",

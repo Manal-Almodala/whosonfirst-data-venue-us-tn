@@ -2,14 +2,20 @@
   "id": 789604147,
   "type": "Feature",
   "properties": {
+    "addr:full":"4143 Ringgold Rd Chattanooga TN 37412",
+    "addr:housenumber":"4143",
+    "addr:postcode":"37412",
+    "addr:street":"Ringgold Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.243139,34.997172,-85.243139,34.997172",
     "geom:latitude":34.997172,
     "geom:longitude":-85.243139,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4143 Ringgold Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85805687
     ],
+    "wof:brand_id":1125150877,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yGQjGMu4xeHrQTbX9NaBv_34.997172_-85.243139@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589098,
-    "wof:geomhash":"81e221ef7b24d9d3c997fe5569e75eb2",
+    "wof:geomhash":"ecfbaa24f81115116ebc34fba9ff9b01",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789604147,
-    "wof:lastmodified":1467083001,
+    "wof:lastmodified":1510613210,
     "wof:name":"R G I S Inventory Specialists",
     "wof:parent_id":85805687,
     "wof:placetype":"venue",

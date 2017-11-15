@@ -2,14 +2,20 @@
   "id": 823248109,
   "type": "Feature",
   "properties": {
+    "addr:full":"541 Signal Mountain Rd Chattanooga TN 37405",
+    "addr:housenumber":"541",
+    "addr:postcode":"37405",
+    "addr:street":"Signal Mountain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.329764,35.09334,-85.329764,35.09334",
     "geom:latitude":35.09334,
     "geom:longitude":-85.329764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"541 Signal Mountain Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         85876741
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iV6MlSmFDlWEfv04jH58Z_35.093340_-85.329764@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609298,
-    "wof:geomhash":"63835009953d6ec5fa7bb150d69d16b8",
+    "wof:geomhash":"98dbc754c27bc51711e333e1b587558c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823248109,
-    "wof:lastmodified":1467083634,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85876741,
     "wof:placetype":"venue",

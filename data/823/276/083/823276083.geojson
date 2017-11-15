@@ -2,14 +2,20 @@
   "id": 823276083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 W Poplar Ave Collierville TN 38017",
+    "addr:housenumber":"1100",
+    "addr:postcode":"38017",
+    "addr:street":"W Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.698328,35.04638,-89.698328,35.04638",
     "geom:latitude":35.04638,
     "geom:longitude":-89.698328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 W Poplar Ave",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":420574873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bUm8Rb3Djv7QZqHpTyAab_35.046380_-89.698328@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610155,
-    "wof:geomhash":"dd53fe3810efe70cb902e2e23dcee5d1",
+    "wof:geomhash":"79cee9b79ad8c2efeb4e0184ce555285",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823276083,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510604216,
     "wof:name":"Firestone Complete Auto Care Store",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

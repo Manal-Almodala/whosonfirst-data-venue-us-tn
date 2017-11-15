@@ -2,14 +2,20 @@
   "id": 823270109,
   "type": "Feature",
   "properties": {
+    "addr:full":"531 Signal Mountain Rd Chattanooga TN 37405",
+    "addr:housenumber":"531",
+    "addr:postcode":"37405",
+    "addr:street":"Signal Mountain Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.331089,35.090973,-85.331089,35.090973",
     "geom:latitude":35.090973,
     "geom:longitude":-85.331089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"531 Signal Mountain Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85876741
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FbEf9z1adm8eLXaSOxpN5_35.090973_-85.331089@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609919,
-    "wof:geomhash":"dc6bacf9120bc00341de1760a872757f",
+    "wof:geomhash":"665000487beb33af96b0560d8bbc9eaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823270109,
-    "wof:lastmodified":1467083655,
+    "wof:lastmodified":1510699574,
     "wof:name":"Pretty Nails",
     "wof:parent_id":85876741,
     "wof:placetype":"venue",

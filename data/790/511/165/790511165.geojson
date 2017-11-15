@@ -2,9 +2,14 @@
   "id": 790511165,
   "type": "Feature",
   "properties": {
+    "addr:full":"4371 Murfreesboro Rd Franklin TN 37067",
+    "addr:housenumber":"4371",
+    "addr:postcode":"37067",
+    "addr:street":"Murfreesboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.77804,35.89746,-86.77804,35.89746",
     "geom:latitude":35.89746,
     "geom:longitude":-86.77804,
@@ -29,12 +34,7 @@
         "painting"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fHHsR0H0I3d4ij98tSmVl_35.897460_-86.778040@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462596461,
     "wof:geomhash":"7869912b5e0b9389183ffb1939c4c9d4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":790511165
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790511165,
-    "wof:lastmodified":1467083220,
+    "wof:lastmodified":1491924957,
     "wof:name":"Usher's Towing",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

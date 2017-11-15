@@ -2,14 +2,20 @@
   "id": 823252951,
   "type": "Feature",
   "properties": {
+    "addr:full":"3910 Western Ave Knoxville TN 37921",
+    "addr:housenumber":"3910",
+    "addr:postcode":"37921",
+    "addr:street":"Western Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.976006,35.974282,-83.976006,35.974282",
     "geom:latitude":35.974282,
     "geom:longitude":-83.976006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3910 Western Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086455,
         420541825
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iy4Xyo1UzktRz6aq4kHLS_35.974282_-83.976006@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609402,
-    "wof:geomhash":"c2841f0958d97cea9e28aa4bd2b6c1f4",
+    "wof:geomhash":"a8766312fec2c9fac5446b9d1b7e3cd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823252951,
-    "wof:lastmodified":1467083637,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":420541825,
     "wof:placetype":"venue",

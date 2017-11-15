@@ -2,14 +2,20 @@
   "id": 773345359,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 S Sunswept Dr Union City TN 38261",
+    "addr:housenumber":"1105",
+    "addr:postcode":"38261",
+    "addr:street":"S Sunswept Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.039035,36.413064,-89.039035,36.413064",
     "geom:latitude":36.413064,
     "geom:longitude":-89.039035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1105 S Sunswept Dr",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084541,
         85844377
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FFo9726wyZ8VWTWs5mUOl_36.413064_-89.039035@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585014,
-    "wof:geomhash":"cee0737d2e27370919cac6957a32bc11",
+    "wof:geomhash":"7cca401cce6ae555b0d69d8636eff142",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773345359,
-    "wof:lastmodified":1467082874,
+    "wof:lastmodified":1510613330,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",

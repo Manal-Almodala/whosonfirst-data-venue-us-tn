@@ -2,14 +2,20 @@
   "id": 823246957,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Paul Huff Pkwy NW Cleveland TN 37312",
+    "addr:housenumber":"200",
+    "addr:postcode":"37312",
+    "addr:street":"Paul Huff Pkwy Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.849628,35.204692,-84.849628,35.204692",
     "geom:latitude":35.204692,
     "geom:longitude":-84.849628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Paul Huff Pkwy NW",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087043,
         85847789
     ],
+    "wof:brand_id":1125150491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YDF9uht5s4jtmoWw3c1ir_35.204692_-84.849628@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609276,
-    "wof:geomhash":"b6b3139c5cb194191803774ae7b39a3a",
+    "wof:geomhash":"4df16a07ca685d9d90e91c1567b71f73",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823246957,
-    "wof:lastmodified":1467083633,
+    "wof:lastmodified":1510697199,
     "wof:name":"Great American Cookies",
     "wof:parent_id":85847789,
     "wof:placetype":"venue",

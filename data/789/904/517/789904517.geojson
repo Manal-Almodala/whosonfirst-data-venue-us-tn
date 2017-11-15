@@ -2,9 +2,14 @@
   "id": 789904517,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"",
+    "addr:postcode":"4400;37064",
+    "addr:street":"Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798099,35.83156,-86.798099,35.83156",
     "geom:latitude":35.83156,
     "geom:longitude":-86.798099,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2crdUIHh9ccoO1cYSE1ylV_35.831560_-86.798099@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462591479,
     "wof:geomhash":"61d87ae3d2321295ba33f93cc22e0d9d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789904517
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789904517,
-    "wof:lastmodified":1467083073,
+    "wof:lastmodified":1491930837,
     "wof:name":"Apple Creek Family Restaurant",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823254479,
   "type": "Feature",
   "properties": {
+    "addr:full":"2893 Poplar Ave Memphis TN 38111",
+    "addr:housenumber":"2893",
+    "addr:postcode":"38111",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.96479,35.133918,-89.96479,35.133918",
     "geom:latitude":35.133918,
     "geom:longitude":-89.96479,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2893 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85803961
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4gyucVC7oUP8J82JZZGogm_35.133918_-89.964790@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609430,
-    "wof:geomhash":"194902c6b157997c10b7eb90eaf66740",
+    "wof:geomhash":"e79584fc70aaa2f1ceec350c9e33894f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823254479,
-    "wof:lastmodified":1467083638,
+    "wof:lastmodified":1510696089,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85803961,
     "wof:placetype":"venue",

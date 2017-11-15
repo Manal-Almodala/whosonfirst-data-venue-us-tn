@@ -2,14 +2,20 @@
   "id": 823290691,
   "type": "Feature",
   "properties": {
+    "addr:full":"2165 Hillshire Cir Memphis TN 38133",
+    "addr:housenumber":"2165",
+    "addr:postcode":"38133",
+    "addr:street":"Hillshire Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.838095,35.183465,-89.838095,35.183465",
     "geom:latitude":35.183465,
     "geom:longitude":-89.838095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2165 Hillshire Cir",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125151471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Leo1ugBWPemCcoU8sOy6n_35.183465_-89.838095@1303262743"
     },
     "wof:country":"US",
     "wof:created":1462610726,
-    "wof:geomhash":"792b569079beb92879cc6d6186e902cb",
+    "wof:geomhash":"5bf2493df630659c9c594ace3c3b81da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823290691,
-    "wof:lastmodified":1467083684,
+    "wof:lastmodified":1510698972,
     "wof:name":"Hertz Equipment Rental",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

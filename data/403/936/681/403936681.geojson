@@ -2,14 +2,20 @@
   "id": 403936681,
   "type": "Feature",
   "properties": {
+    "addr:full":"3127 Parkway Pigeon Forge TN 37863",
+    "addr:housenumber":"3127",
+    "addr:postcode":"37863",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.560488,35.793397,-83.560488,35.793397",
     "geom:latitude":35.793397,
     "geom:longitude":-83.560488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3127 Parkway",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102086245,
         85854207
     ],
+    "wof:brand_id":1125156047,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3w10uEx742gio4PKY9XTV0_35.793397_-83.560488@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"f4769c94117a4e0fb31eb29a7eb9a1d8",
+    "wof:geomhash":"7eac957cab22f728a644804d4a7f784e",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403936681,
-    "wof:lastmodified":1467082782,
+    "wof:lastmodified":1510695018,
     "wof:name":"Book Warehouse",
     "wof:parent_id":85854207,
     "wof:placetype":"venue",

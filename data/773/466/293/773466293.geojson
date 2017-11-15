@@ -2,14 +2,20 @@
   "id": 773466293,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 S Main St Waynesboro TN 38485",
+    "addr:housenumber":"725",
+    "addr:postcode":"38485",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.762407,35.30262,-87.762407,35.30262",
     "geom:latitude":35.30262,
     "geom:longitude":-87.762407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 S Main St",
     "sg:city":"Waynesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85814781,
         102087175
     ],
+    "wof:brand_id":1125150673,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2w6MPh6WduS2o6ZCHhvERD_35.302620_-87.762407@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585960,
-    "wof:geomhash":"0d536acb83c5a275059104211198306a",
+    "wof:geomhash":"d51ac08a3ff2c2e1f4e9bcd5840e1dc1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773466293,
-    "wof:lastmodified":1467082902,
+    "wof:lastmodified":1510696927,
     "wof:name":"International Paper Co",
     "wof:parent_id":85814781,
     "wof:placetype":"venue",

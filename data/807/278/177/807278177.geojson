@@ -2,14 +2,20 @@
   "id": 807278177,
   "type": "Feature",
   "properties": {
+    "addr:full":"1459 Interstate Dr Cookeville TN 38501",
+    "addr:housenumber":"1459",
+    "addr:postcode":"38501",
+    "addr:street":"Interstate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.518599,36.138377,-85.518599,36.138377",
     "geom:latitude":36.138377,
     "geom:longitude":-85.518599,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1459 Interstate Dr",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086339,
         85851797
     ],
+    "wof:brand_id":1125155069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CA5LOgAKYhUcmZBTSRtMn_36.138377_-85.518599@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605628,
-    "wof:geomhash":"6f2bbecc2461422cd6d234bd5ebc1ef9",
+    "wof:geomhash":"2ab7b894e02c4f1ccaad5ef93d6314e1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807278177,
-    "wof:lastmodified":1467083516,
+    "wof:lastmodified":1510695206,
     "wof:name":"Unique Nails",
     "wof:parent_id":85851797,
     "wof:placetype":"venue",

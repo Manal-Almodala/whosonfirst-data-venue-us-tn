@@ -2,14 +2,20 @@
   "id": 773367463,
   "type": "Feature",
   "properties": {
+    "addr:full":"2524 N Mount Juliet Rd Mt Juliet TN 37122",
+    "addr:housenumber":"2524",
+    "addr:postcode":"37122",
+    "addr:street":"N Mount Juliet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.518199,36.204816,-86.518199,36.204816",
     "geom:latitude":36.204816,
     "geom:longitude":-86.518199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2524 N Mount Juliet Rd",
     "sg:city":"Mt Juliet",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087205,
         85851335
     ],
+    "wof:brand_id":1125151979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UNXrFI8Njhh0TLarFvT9V_36.204816_-86.518199@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585165,
-    "wof:geomhash":"30afbca2d84332d3fee9c2131faca8fb",
+    "wof:geomhash":"c2e65703b7dc4d92511a6679e0e081e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773367463,
-    "wof:lastmodified":1467082879,
+    "wof:lastmodified":1510695913,
     "wof:name":"Cleaning Authority",
     "wof:parent_id":85851335,
     "wof:placetype":"venue",

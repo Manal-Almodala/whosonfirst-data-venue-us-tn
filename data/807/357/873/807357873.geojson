@@ -2,14 +2,20 @@
   "id": 807357873,
   "type": "Feature",
   "properties": {
+    "addr:full":"3665 S Perkins Rd Memphis TN 38118",
+    "addr:housenumber":"3665",
+    "addr:postcode":"38118",
+    "addr:street":"S Perkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.908015,35.046933,-89.908015,35.046933",
     "geom:latitude":35.046933,
     "geom:longitude":-89.908015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3665 S Perkins Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870785
     ],
+    "wof:brand_id":1125150463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vVOcWGX53EaCs9m8WnrED_35.046933_-89.908015@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606621,
-    "wof:geomhash":"3463f0e8fcea3112e160b3f6208c4f9e",
+    "wof:geomhash":"941796f3c0c7ecb9bad8e8240325b5aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807357873,
-    "wof:lastmodified":1467083548,
+    "wof:lastmodified":1510694146,
     "wof:name":"Pitney Bowes",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",

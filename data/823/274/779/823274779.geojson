@@ -2,14 +2,20 @@
   "id": 823274779,
   "type": "Feature",
   "properties": {
+    "addr:full":"9641 Kingston Pike Knoxville TN 37922",
+    "addr:housenumber":"9641",
+    "addr:postcode":"37922",
+    "addr:street":"Kingston Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.106325,35.907687,-84.106325,35.907687",
     "geom:latitude":35.907687,
     "geom:longitude":-84.106325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9641 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":1125155141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IG0EP7xih2tI31WbJKBIw_35.907687_-84.106325@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610099,
-    "wof:geomhash":"b1f22c3496d4208c618ee74ed766bb34",
+    "wof:geomhash":"a533db0e420e2553ed6f967d7bcfd2ed",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":823274779,
-    "wof:lastmodified":1467083661,
+    "wof:lastmodified":1510699634,
     "wof:name":"Havertys Furniture",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

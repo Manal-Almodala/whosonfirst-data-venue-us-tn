@@ -2,9 +2,14 @@
   "id": 773449545,
   "type": "Feature",
   "properties": {
+    "addr:full":"609 Meadowgreen Dr Franklin TN 37069",
+    "addr:housenumber":"609",
+    "addr:postcode":"37069",
+    "addr:street":"Meadowgreen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893471,35.978034,-86.893471,35.978034",
     "geom:latitude":35.978034,
     "geom:longitude":-86.893471,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -40,6 +46,7 @@
     "wof:geomhash":"a0ce4b598e43a61f069edfa452f4bdc1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773449545,
-    "wof:lastmodified":1467082898,
+    "wof:lastmodified":1491924150,
     "wof:name":"Carolyn Pewett",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

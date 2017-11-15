@@ -2,14 +2,20 @@
   "id": 773536233,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 S Lowry St Smyrna TN 37167",
+    "addr:housenumber":"301",
+    "addr:postcode":"37167",
+    "addr:street":"S Lowry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.497256,35.958344,-86.497256,35.958344",
     "geom:latitude":35.958344,
     "geom:longitude":-86.497256,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 S Lowry St",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086355,
         85838833
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CKti2aLtgefKLwdaGAsUd_35.958344_-86.497256@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586454,
-    "wof:geomhash":"0ba9c47d357363556be69ea30f55a64d",
+    "wof:geomhash":"b764f8ab4cdf8b1173f70b75a2d1f7fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773536233,
-    "wof:lastmodified":1467082919,
+    "wof:lastmodified":1510681766,
     "wof:name":"AM South Bank",
     "wof:parent_id":85838833,
     "wof:placetype":"venue",

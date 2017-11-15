@@ -2,6 +2,10 @@
   "id": 789965473,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Main St Nashville TN 37206",
+    "addr:housenumber":"116",
+    "addr:postcode":"37206",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789965473,
-    "wof:lastmodified":1467083088,
+    "wof:lastmodified":1472645306,
     "wof:name":"Eckerd",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773062529,
   "type": "Feature",
   "properties": {
+    "addr:full":"87 Dellwood Dr Jackson TN 38301",
+    "addr:housenumber":"87",
+    "addr:postcode":"38301",
+    "addr:street":"Dellwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.814022,35.549973,-88.814022,35.549973",
     "geom:latitude":35.549973,
     "geom:longitude":-88.814022,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"87 Dellwood Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087221,
         85868161
     ],
+    "wof:brand_id":1125153143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73BI0ivLtFODkTRR7A7dBN_35.549973_-88.814022@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582865,
-    "wof:geomhash":"d31d96308234bedfbce41414dbcfe833",
+    "wof:geomhash":"db7539985ad7bfe678c3b7c5451318db",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773062529,
-    "wof:lastmodified":1467082794,
+    "wof:lastmodified":1510613263,
     "wof:name":"Civitan International",
     "wof:parent_id":85868161,
     "wof:placetype":"venue",

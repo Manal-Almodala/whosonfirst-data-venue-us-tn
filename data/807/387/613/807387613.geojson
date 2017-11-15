@@ -2,9 +2,14 @@
   "id": 807387613,
   "type": "Feature",
   "properties": {
+    "addr:full":"988 Hogans Branch Rd Hendersonville TN 37075",
+    "addr:housenumber":"988",
+    "addr:postcode":"37075",
+    "addr:street":"Hogans Branch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.661487,36.39316,-86.661487,36.39316",
     "geom:latitude":36.39316,
     "geom:longitude":-86.661487,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"187b5b50870a0e8320046db1f56226a7",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807387613,
-    "wof:lastmodified":1467083561,
+    "wof:lastmodified":1491939204,
     "wof:name":"Sam Chaffin Realty",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

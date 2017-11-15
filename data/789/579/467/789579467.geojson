@@ -2,14 +2,20 @@
   "id": 789579467,
   "type": "Feature",
   "properties": {
+    "addr:full":"159 Mall Circle Dr Murfreesboro TN 37129",
+    "addr:housenumber":"159",
+    "addr:postcode":"37129",
+    "addr:street":"Mall Circle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.420784,35.846971,-86.420784,35.846971",
     "geom:latitude":35.846971,
     "geom:longitude":-86.420784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"159 Mall Circle Dr",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6COOzXt5x12jP4V4HDWNX4_35.846971_-86.420784@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588899,
-    "wof:geomhash":"47f4a502708e995bfa897fcc9f23dc84",
+    "wof:geomhash":"4373839565fda5f4348c60484f3cf4ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789579467,
-    "wof:lastmodified":1467082996,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

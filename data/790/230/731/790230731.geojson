@@ -2,14 +2,20 @@
   "id": 790230731,
   "type": "Feature",
   "properties": {
+    "addr:full":"276 Ralph Edwards Rd Erwin TN 37650",
+    "addr:housenumber":"276",
+    "addr:postcode":"37650",
+    "addr:street":"Ralph Edwards Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.525062,36.041347,-82.525062,36.041347",
     "geom:latitude":36.041347,
     "geom:longitude":-82.525062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"276 Ralph Edwards Rd",
     "sg:city":"Erwin",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086427,
         85804403
     ],
+    "wof:brand_id":1125159019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JPG4iVYPym60NFXQXXN1v_36.041347_-82.525062@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594175,
-    "wof:geomhash":"b25fca7171d8a7a61eab3f0128169922",
+    "wof:geomhash":"98df1925f233c90a4f249837309b28ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790230731,
-    "wof:lastmodified":1467083151,
+    "wof:lastmodified":1510696617,
     "wof:name":"International Order of Ra",
     "wof:parent_id":85804403,
     "wof:placetype":"venue",

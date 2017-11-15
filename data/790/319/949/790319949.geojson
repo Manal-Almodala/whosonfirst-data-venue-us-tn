@@ -2,14 +2,20 @@
   "id": 790319949,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Swan Dr Smyrna TN 37167",
+    "addr:housenumber":"1",
+    "addr:postcode":"37167",
+    "addr:street":"Swan Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.490512,36.000544,-86.490512,36.000544",
     "geom:latitude":36.000544,
     "geom:longitude":-86.490512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Swan Dr",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85823525
     ],
+    "wof:brand_id":1125158051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1f1FMFfwh2sTV1Q2T0dxzN_36.000544_-86.490512@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594914,
-    "wof:geomhash":"da79194eef886eaa3d0f5a18ff1a9ae1",
+    "wof:geomhash":"463bf8f95713051b16326079f894b98d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790319949,
-    "wof:lastmodified":1467083172,
+    "wof:lastmodified":1510694793,
     "wof:name":"CAM Bar",
     "wof:parent_id":85823525,
     "wof:placetype":"venue",

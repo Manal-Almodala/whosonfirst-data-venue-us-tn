@@ -2,14 +2,20 @@
   "id": 773047435,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Alpha Dr Franklin TN 37064",
+    "addr:housenumber":"116",
+    "addr:postcode":"37064",
+    "addr:street":"Alpha Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.874895,35.896489,-86.874895,35.896489",
     "geom:latitude":35.896489,
     "geom:longitude":-86.874895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 Alpha Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086337,
         85851291
     ],
+    "wof:brand_id":1125153357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Pc154BWAvLUMrZdfEzklV_35.896489_-86.874895@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582720,
-    "wof:geomhash":"a5ea69588a074659db5a6c07efc595c6",
+    "wof:geomhash":"af5b29860b80df67e31e3680e1538d05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773047435,
-    "wof:lastmodified":1467082790,
+    "wof:lastmodified":1510695783,
     "wof:name":"Black & Decker",
     "wof:parent_id":85851291,
     "wof:placetype":"venue",

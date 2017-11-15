@@ -2,14 +2,20 @@
   "id": 773525365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1831 Hwy 45 Byp Jackson TN 38305",
+    "addr:housenumber":"1831",
+    "addr:postcode":"38305",
+    "addr:street":"Hwy 45 Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.853594,35.65963,-88.853594,35.65963",
     "geom:latitude":35.65963,
     "geom:longitude":-88.853594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1831 Hwy 45 Byp",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125158055,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TX0KUxZQK3VcARBzRgHmb_35.659630_-88.853594@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586380,
-    "wof:geomhash":"7d2be7a9e20c81d39ff4aded1b727515",
+    "wof:geomhash":"742dc46e401aed382aec8832f44fc866",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773525365,
-    "wof:lastmodified":1467082916,
+    "wof:lastmodified":1510694791,
     "wof:name":"Cardtronics",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

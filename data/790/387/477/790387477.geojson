@@ -2,14 +2,20 @@
   "id": 790387477,
   "type": "Feature",
   "properties": {
+    "addr:full":"6299 Finde Naifeh Dr Mason TN 38049",
+    "addr:housenumber":"6299",
+    "addr:postcode":"38049",
+    "addr:street":"Finde Naifeh Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.551063,35.40895,-89.551063,35.40895",
     "geom:latitude":35.40895,
     "geom:longitude":-89.551063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6299 Finde Naifeh Dr",
     "sg:city":"Mason",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125150611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RHXc88HhYaAQ60HIpWdSA_35.408950_-89.551063@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595440,
-    "wof:geomhash":"39d9e0818ef6e9531f4ebb27d5a1d845",
+    "wof:geomhash":"273c0e3ef9eaaa3716c3148cd917bc18",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790387477,
-    "wof:lastmodified":1467083188,
+    "wof:lastmodified":1510604906,
     "wof:name":"Quest Diagnotics",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

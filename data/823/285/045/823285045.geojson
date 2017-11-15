@@ -2,14 +2,20 @@
   "id": 823285045,
   "type": "Feature",
   "properties": {
+    "addr:full":"4155 Eastwind Dr Ste 11 Memphis TN 38116",
+    "addr:housenumber":"4155;11",
+    "addr:postcode":"38116",
+    "addr:street":"Eastwind Dr Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017324,35.034329,-90.017324,35.034329",
     "geom:latitude":35.034329,
     "geom:longitude":-90.017324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4155 Eastwind Dr Ste 11",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102087213,
         85867187
     ],
+    "wof:brand_id":1125157631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15hyxOmRGTSBWeUsr1oi4v_35.034329_-90.017324@1303262742"
     },
     "wof:country":"US",
     "wof:created":1462610515,
-    "wof:geomhash":"f3a7cff7b093583fd31fd0869e3cb315",
+    "wof:geomhash":"3e6dc56fe74960cc130f3287e9d25749",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":823285045,
-    "wof:lastmodified":1467083676,
+    "wof:lastmodified":1510698489,
     "wof:name":"Hillcrest Apartments",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",

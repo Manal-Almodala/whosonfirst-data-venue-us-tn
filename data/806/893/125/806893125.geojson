@@ -2,14 +2,20 @@
   "id": 806893125,
   "type": "Feature",
   "properties": {
+    "addr:full":"2430 Hillsboro Blvd Manchester TN 37355",
+    "addr:housenumber":"2430",
+    "addr:postcode":"37355",
+    "addr:street":"Hillsboro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.047296,35.455736,-86.047296,35.455736",
     "geom:latitude":35.455736,
     "geom:longitude":-86.047296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2430 Hillsboro Blvd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85857461,
         102087095
     ],
+    "wof:brand_id":420573963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03D8cM4KLKXfznsuq5zGqn_35.455736_-86.047296@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601956,
-    "wof:geomhash":"3bfac207e14ccb9639e882f7cb3b6ba5",
+    "wof:geomhash":"c6b4349939651783c095440aae4eaaf4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806893125,
-    "wof:lastmodified":1467083403,
+    "wof:lastmodified":1510603290,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85857461,
     "wof:placetype":"venue",

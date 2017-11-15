@@ -2,14 +2,20 @@
   "id": 773802597,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 New Hope Rd Hendersonville TN 37075",
+    "addr:housenumber":"2905",
+    "addr:postcode":"37075",
+    "addr:street":"New Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.634213,36.408995,-86.634213,36.408995",
     "geom:latitude":36.408995,
     "geom:longitude":-86.634213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2905 New Hope Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -26,20 +32,23 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
         85825691
     ],
+    "wof:brand_id":420574737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K8GCYvlSpb9rThzZevCJu_36.408995_-86.634213@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588491,
-    "wof:geomhash":"c1f7087a4bef24b41d711d7366d8bf85",
+    "wof:geomhash":"030260d064c5df6b09a2ab0ccf28e839",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +58,7 @@
         }
     ],
     "wof:id":773802597,
-    "wof:lastmodified":1467082983,
+    "wof:lastmodified":1510604523,
     "wof:name":"New Hope Baptist Church",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

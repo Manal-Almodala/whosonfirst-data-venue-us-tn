@@ -2,14 +2,20 @@
   "id": 806364677,
   "type": "Feature",
   "properties": {
+    "addr:full":"316 E Broad St Cookeville TN 38501",
+    "addr:housenumber":"316",
+    "addr:postcode":"38501",
+    "addr:street":"E Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.499985,36.162826,-85.499985,36.162826",
     "geom:latitude":36.162826,
     "geom:longitude":-85.499985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"316 E Broad St",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086339,
         85809425
     ],
+    "wof:brand_id":1125154641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wOhObT7diKU0k9uvh961c_36.162826_-85.499985@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597539,
-    "wof:geomhash":"f5d482182503ff30cea2b2a48b80d414",
+    "wof:geomhash":"f47abee5e3d0cb1bf1ad262d4b645c98",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806364677,
-    "wof:lastmodified":1467083255,
+    "wof:lastmodified":1510699363,
     "wof:name":"Grace Presbyterian Church",
     "wof:parent_id":85809425,
     "wof:placetype":"venue",

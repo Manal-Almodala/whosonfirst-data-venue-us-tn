@@ -2,14 +2,20 @@
   "id": 823255109,
   "type": "Feature",
   "properties": {
+    "addr:full":"5101 Sanderlin Ave Memphis TN 38117",
+    "addr:housenumber":"5101",
+    "addr:postcode":"38117",
+    "addr:street":"Sanderlin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.89202,35.117206,-89.89202,35.117206",
     "geom:latitude":35.117206,
     "geom:longitude":-89.89202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5101 Sanderlin Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125159261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6iJ2okfnJiprcFyg5J2fUk_35.117206_-89.892020@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609443,
-    "wof:geomhash":"9db589eb80e25a4d7ba35893b5b05066",
+    "wof:geomhash":"6fe4b2828f762729b9f19a186f8adaac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823255109,
-    "wof:lastmodified":1467083639,
+    "wof:lastmodified":1510699645,
     "wof:name":"Fox and Hound",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

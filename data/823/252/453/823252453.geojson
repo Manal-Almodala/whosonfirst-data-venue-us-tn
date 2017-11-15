@@ -2,14 +2,20 @@
   "id": 823252453,
   "type": "Feature",
   "properties": {
+    "addr:full":"6724 Maynardville Pike Knoxville TN 37918",
+    "addr:housenumber":"6724",
+    "addr:postcode":"37918",
+    "addr:street":"Maynardville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.926268,36.066712,-83.926268,36.066712",
     "geom:latitude":36.066712,
     "geom:longitude":-83.926268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6724 Maynardville Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086455,
         85820307
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j8jUoe127ZcEnZz7RX6q1_36.066712_-83.926268@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609393,
-    "wof:geomhash":"42b7a471e4d2f3dea3db57394fd3bcb1",
+    "wof:geomhash":"f4b96871e20ca7d833085006f867d3ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823252453,
-    "wof:lastmodified":1467083637,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":85820307,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790101659,
   "type": "Feature",
   "properties": {
+    "addr:full":"2340 Jackson Downs Blvd Nashville TN 37214",
+    "addr:housenumber":"2340",
+    "addr:postcode":"37214",
+    "addr:street":"Jackson Downs Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.639151,36.178085,-86.639151,36.178085",
     "geom:latitude":36.178085,
     "geom:longitude":-86.639151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2340 Jackson Downs Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087061,
         85824679
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kyzAfYMpLupIIeckdVY2n_36.178085_-86.639151@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593145,
-    "wof:geomhash":"626f7bac49137eb5a809903639fbf843",
+    "wof:geomhash":"6432e68fdf93c5007958b7c9f2e7f379",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790101659,
-    "wof:lastmodified":1467083120,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85824679,
     "wof:placetype":"venue",

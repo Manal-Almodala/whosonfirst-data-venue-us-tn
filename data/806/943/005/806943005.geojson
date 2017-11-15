@@ -2,14 +2,20 @@
   "id": 806943005,
   "type": "Feature",
   "properties": {
+    "addr:full":"2063 New Lascassas Hwy Murfreesboro TN 37130",
+    "addr:housenumber":"2063",
+    "addr:postcode":"37130",
+    "addr:street":"New Lascassas Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.360983,35.866271,-86.360983,35.866271",
     "geom:latitude":35.866271,
     "geom:longitude":-86.360983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2063 New Lascassas Hwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85829867
     ],
+    "wof:brand_id":1125155751,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YHNXJrqdDQ5pnbrsOc2IB_35.866271_-86.360983@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602384,
-    "wof:geomhash":"e7e84af7cd97712629739338d1a3601d",
+    "wof:geomhash":"6d89b2e08cbaeace6ad03df4c6b21202",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806943005,
-    "wof:lastmodified":1467083416,
+    "wof:lastmodified":1510613243,
     "wof:name":"Fantasy Nails",
     "wof:parent_id":85829867,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773456525,
   "type": "Feature",
   "properties": {
+    "addr:full":"570 Rivergate Dr Memphis TN 38109",
+    "addr:housenumber":"570",
+    "addr:postcode":"38109",
+    "addr:street":"Rivergate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.073499,35.073623,-90.073499,35.073623",
     "geom:latitude":35.073623,
     "geom:longitude":-90.073499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"570 Rivergate Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         420542147
     ],
+    "wof:brand_id":1125155081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2UgPeGE8E8kq4ykcAcd9Vd_35.073623_-90.073499@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585888,
-    "wof:geomhash":"877a49343dfe3601f0fb983328b93e78",
+    "wof:geomhash":"8f0d0e31563a5d71d30582cea6ab8bd6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773456525,
-    "wof:lastmodified":1467082900,
+    "wof:lastmodified":1510696899,
     "wof:name":"Wonder Bread & Hostess Cakes",
     "wof:parent_id":420542147,
     "wof:placetype":"venue",

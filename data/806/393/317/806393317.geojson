@@ -2,14 +2,20 @@
   "id": 806393317,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Hickerson St Manchester TN 37355",
+    "addr:housenumber":"607",
+    "addr:postcode":"37355",
+    "addr:street":"Hickerson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.082651,35.4766,-86.082651,35.4766",
     "geom:latitude":35.4766,
     "geom:longitude":-86.082651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"607 Hickerson St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087095,
         85821997
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iUEuRF9Q1mBQsDtZNJTLb_35.476600_-86.082651@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597780,
-    "wof:geomhash":"665b423409c29f51d8f0d6d2cbf828bc",
+    "wof:geomhash":"defdf107449436face47634f618f9061",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806393317,
-    "wof:lastmodified":1467083263,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85821997,
     "wof:placetype":"venue",

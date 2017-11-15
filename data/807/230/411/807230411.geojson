@@ -2,14 +2,20 @@
   "id": 807230411,
   "type": "Feature",
   "properties": {
+    "addr:full":"3407 Amnicola Hwy Chattanooga TN 37406",
+    "addr:housenumber":"3407",
+    "addr:postcode":"37406",
+    "addr:street":"Amnicola Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.262436,35.084561,-85.262436,35.084561",
     "geom:latitude":35.084561,
     "geom:longitude":-85.262436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3407 Amnicola Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85806903
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6dV4vaFYkFpgaVSPkOQLib_35.084561_-85.262436@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605121,
-    "wof:geomhash":"cad7e86c3687157c55e2b63a9b690e87",
+    "wof:geomhash":"6653eb1733a36e90a82f13c397568906",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807230411,
-    "wof:lastmodified":1467083500,
+    "wof:lastmodified":1510602936,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":85806903,
     "wof:placetype":"venue",

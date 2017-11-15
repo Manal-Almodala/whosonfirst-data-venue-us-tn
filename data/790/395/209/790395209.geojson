@@ -2,14 +2,20 @@
   "id": 790395209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2722 Lascassas Pike Murfreesboro TN 37130",
+    "addr:housenumber":"2722",
+    "addr:postcode":"37130",
+    "addr:street":"Lascassas Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.34136,35.888402,-86.34136,35.888402",
     "geom:latitude":35.888402,
     "geom:longitude":-86.34136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2722 Lascassas Pike",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85843385
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4rqcjtK0vzpGWzyUrrbxwE_35.888402_-86.341360@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595502,
-    "wof:geomhash":"634676d3324f57dc1a7c4f0704f42994",
+    "wof:geomhash":"71dbb8d36a0e8609ded7b8e703a596f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790395209,
-    "wof:lastmodified":1467083190,
+    "wof:lastmodified":1510695269,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85843385,
     "wof:placetype":"venue",

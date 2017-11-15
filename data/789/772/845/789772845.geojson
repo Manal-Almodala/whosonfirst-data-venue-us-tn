@@ -2,14 +2,20 @@
   "id": 789772845,
   "type": "Feature",
   "properties": {
+    "addr:full":"2122 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"2122",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.69235,36.30225,-86.69235,36.30225",
     "geom:latitude":36.30225,
     "geom:longitude":-86.69235,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2122 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125150195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54bUnCkh5g8pPoPZHKjRvR_36.302250_-86.692350@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590421,
-    "wof:geomhash":"baea7bf5dfb66b5bb99adeb55aed8b07",
+    "wof:geomhash":"15597577d34f008e1069489e4132a5eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789772845,
-    "wof:lastmodified":1467083041,
+    "wof:lastmodified":1510694266,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806793977,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Regional Park Dr Kingsport TN 37660",
+    "addr:housenumber":"109",
+    "addr:postcode":"37660",
+    "addr:street":"Regional Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.562513,36.493134,-82.562513,36.493134",
     "geom:latitude":36.493134,
     "geom:longitude":-82.562513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"109 Regional Park Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85850717,
         102086471
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kxN2oPqttH156WL5QzmNI_36.493134_-82.562513@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601135,
-    "wof:geomhash":"bd22d939b9330b81a2a6aced1c11cb16",
+    "wof:geomhash":"cd7a13d25be25c744537849c96d5eb70",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806793977,
-    "wof:lastmodified":1467083375,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":85850717,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790073373,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Bernard Ave Knoxville TN 37917",
+    "addr:housenumber":"201",
+    "addr:postcode":"37917",
+    "addr:street":"Bernard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.928174,35.976075,-83.928174,35.976075",
     "geom:latitude":35.976075,
     "geom:longitude":-83.928174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Bernard Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85878541
     ],
+    "wof:brand_id":1125150947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aMBpyJj7NyvYXVDxIeQ1a_35.976075_-83.928174@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592919,
-    "wof:geomhash":"1ce14e5a3eecb1c8567927aa19df9573",
+    "wof:geomhash":"05d5e1e160f4e09f4d5146c3785fd1c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790073373,
-    "wof:lastmodified":1467083114,
+    "wof:lastmodified":1510693715,
     "wof:name":"Northside Baptist Church",
     "wof:parent_id":85878541,
     "wof:placetype":"venue",

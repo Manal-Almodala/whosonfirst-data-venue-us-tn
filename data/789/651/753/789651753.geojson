@@ -2,9 +2,14 @@
   "id": 789651753,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Hillside Dr Franklin TN 37067",
+    "addr:housenumber":"215",
+    "addr:postcode":"37067",
+    "addr:street":"Hillside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806118,35.885526,-86.806118,35.885526",
     "geom:latitude":35.885526,
     "geom:longitude":-86.806118,
@@ -27,12 +32,7 @@
         "communications"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7MEccXGsBzSQz9isNImVy1_35.885526_-86.806118@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462589469,
     "wof:geomhash":"2dfb5add3a0fd15f0cc7776d049a989d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":789651753
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789651753,
-    "wof:lastmodified":1467083013,
+    "wof:lastmodified":1491924957,
     "wof:name":"Advanced Performance Products",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

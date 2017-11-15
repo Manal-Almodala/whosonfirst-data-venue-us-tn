@@ -2,14 +2,20 @@
   "id": 807023737,
   "type": "Feature",
   "properties": {
+    "addr:full":"4361 Bluff City Hwy Bluff City TN 37618",
+    "addr:housenumber":"4361",
+    "addr:postcode":"37618",
+    "addr:street":"Bluff City Hwy Bluff",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.269351,36.471804,-82.269351,36.471804",
     "geom:latitude":36.471804,
     "geom:longitude":-82.269351,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4361 Bluff City Hwy",
     "sg:city":"Bluff City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         85825439
     ],
+    "wof:brand_id":1125155219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rFV4GoMB7oYfiG3eughop_36.471804_-82.269351@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603067,
-    "wof:geomhash":"841d8c9d2b2ddd16ca209572cf1f755f",
+    "wof:geomhash":"7ab7629b893643ca33f33e25471b7e84",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807023737,
-    "wof:lastmodified":1467083439,
+    "wof:lastmodified":1510695371,
     "wof:name":"Asplundh Tree Expert Co",
     "wof:parent_id":85825439,
     "wof:placetype":"venue",

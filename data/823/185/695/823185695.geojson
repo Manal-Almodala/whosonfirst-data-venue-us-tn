@@ -2,14 +2,20 @@
   "id": 823185695,
   "type": "Feature",
   "properties": {
+    "addr:full":"1768 W Northfield Blvd Murfreesboro TN 37129",
+    "addr:housenumber":"1768",
+    "addr:postcode":"37129",
+    "addr:street":"W Northfield Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.411759,35.871865,-86.411759,35.871865",
     "geom:latitude":35.871865,
     "geom:longitude":-86.411759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1768 W Northfield Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125152035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HHmYNufFQ5igqL68gzKS1_35.871865_-86.411759@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608140,
-    "wof:geomhash":"4ab154bc67897dad8d229e6a0b14e329",
+    "wof:geomhash":"55906df97318969c16d474d5e0a29ccd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":823185695,
-    "wof:lastmodified":1467083593,
+    "wof:lastmodified":1510694991,
     "wof:name":"Embroidme",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

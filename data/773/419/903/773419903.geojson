@@ -2,14 +2,20 @@
   "id": 773419903,
   "type": "Feature",
   "properties": {
+    "addr:full":"3660 Austin Peay Hwy Memphis TN 38128",
+    "addr:housenumber":"3660",
+    "addr:postcode":"38128",
+    "addr:street":"Austin Peay Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.904495,35.225519,-89.904495,35.225519",
     "geom:latitude":35.225519,
     "geom:longitude":-89.904495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3660 Austin Peay Hwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125151019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lXsdBq1SA024vP69S6vlh_35.225519_-89.904495@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585574,
-    "wof:geomhash":"f0e312e711f1639c0c5933b5bfbda972",
+    "wof:geomhash":"66296cdc9bde0db89f4e2f80b971e5ef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773419903,
-    "wof:lastmodified":1467082891,
+    "wof:lastmodified":1510693725,
     "wof:name":"Popeye's Chicken & Biscuits",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

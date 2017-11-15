@@ -2,14 +2,20 @@
   "id": 806740565,
   "type": "Feature",
   "properties": {
+    "addr:full":"354 Shadowtown Rd Blountville TN 37617",
+    "addr:housenumber":"354",
+    "addr:postcode":"37617",
+    "addr:street":"Shadowtown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.394376,36.530134,-82.394376,36.530134",
     "geom:latitude":36.530134,
     "geom:longitude":-82.394376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"354 Shadowtown Rd",
     "sg:city":"Blountville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85823355,
         102086471
     ],
+    "wof:brand_id":420574915,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E60yV25nIni9kZt1PDkze_36.530134_-82.394376@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600684,
-    "wof:geomhash":"396fdd72ea7b2bfe585e9dd022fdaec8",
+    "wof:geomhash":"318ee48db2becd672516a679b5425e07",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806740565,
-    "wof:lastmodified":1467083360,
+    "wof:lastmodified":1510604706,
     "wof:name":"Kb Toys",
     "wof:parent_id":85823355,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773344691,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W Broadway Ave Maryville TN 37801",
+    "addr:housenumber":"101",
+    "addr:postcode":"37801",
+    "addr:street":"W Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.971177,35.756021,-83.971177,35.756021",
     "geom:latitude":35.756021,
     "geom:longitude":-83.971177,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 W Broadway Ave",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087017,
         420541361
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73z33HOXSBjhWaNfO3bFqX_35.756021_-83.971177@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585010,
-    "wof:geomhash":"b8770144bac91acc879cdee03497634f",
+    "wof:geomhash":"148195e33f4950de700b2b803bc85ec2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773344691,
-    "wof:lastmodified":1467082874,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":420541361,
     "wof:placetype":"venue",

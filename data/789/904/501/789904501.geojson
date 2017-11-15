@@ -2,14 +2,20 @@
   "id": 789904501,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Gothic Ct Franklin TN 37067",
+    "addr:housenumber":"206",
+    "addr:postcode":"37067",
+    "addr:street":"Gothic Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.824169,35.951515,-86.824169,35.951515",
     "geom:latitude":35.951515,
     "geom:longitude":-86.824169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 Gothic Ct",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":1125155927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cVw1Cfm1bxPLa06sSYewJ_35.951515_-86.824169@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591479,
-    "wof:geomhash":"a1e4a047e0d874585ab8c614b397d8df",
+    "wof:geomhash":"08c713f82f0f5dc80c18a21699c85070",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789904501,
-    "wof:lastmodified":1467083073,
+    "wof:lastmodified":1510697678,
     "wof:name":"G A B Robins",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

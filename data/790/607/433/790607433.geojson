@@ -2,14 +2,20 @@
   "id": 790607433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1337 E Weisgarber Rd Knoxville TN 37909",
+    "addr:housenumber":"1337",
+    "addr:postcode":"37909",
+    "addr:street":"E Weisgarber Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.017131,35.952799,-84.017131,35.952799",
     "geom:latitude":35.952799,
     "geom:longitude":-84.017131,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1337 E Weisgarber Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         420541855
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7O2qjClwHYmtegqChuhBgv_35.952799_-84.017131@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597282,
-    "wof:geomhash":"7bee06dd1353f29040de15a9c95b72b9",
+    "wof:geomhash":"d82322839bea82f584bcc9dc3bba2e9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790607433,
-    "wof:lastmodified":1467083247,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":420541855,
     "wof:placetype":"venue",

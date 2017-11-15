@@ -2,14 +2,20 @@
   "id": 773177105,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 Darnell Rd Oakfield TN 38362",
+    "addr:housenumber":"224",
+    "addr:postcode":"38362",
+    "addr:street":"Darnell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.755785,35.730845,-88.755785,35.730845",
     "geom:latitude":35.730845,
     "geom:longitude":-88.755785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"224 Darnell Rd",
     "sg:city":"Oakfield",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85830001,
         102087221
     ],
+    "wof:brand_id":420574209,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DqaOucJWNe9AR5wJ8GGvI_35.730845_-88.755785@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583715,
-    "wof:geomhash":"178a383e0fe83dd0ba0300b9c57035bb",
+    "wof:geomhash":"312dddfa6e09a4c0527fd2dd73062a56",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773177105,
-    "wof:lastmodified":1467082822,
+    "wof:lastmodified":1510604311,
     "wof:name":"Corporation of President of Th",
     "wof:parent_id":85830001,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807140755,
   "type": "Feature",
   "properties": {
+    "addr:full":"3211 Regal Dr Alcoa TN 37701",
+    "addr:housenumber":"3211",
+    "addr:postcode":"37701",
+    "addr:street":"Regal Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.968757,35.832843,-83.968757,35.832843",
     "geom:latitude":35.832843,
     "geom:longitude":-83.968757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3211 Regal Dr",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087017,
         420541377
     ],
+    "wof:brand_id":420575145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46rrJgvSr3ZuJHtukUh9io_35.832843_-83.968757@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604166,
-    "wof:geomhash":"8fffe3e0cafec7b967492d32e4b25782",
+    "wof:geomhash":"61df3421479348e7bc3613aa8a920bce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807140755,
-    "wof:lastmodified":1467083470,
+    "wof:lastmodified":1510602992,
     "wof:name":"IBEW",
     "wof:parent_id":420541377,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790557811,
   "type": "Feature",
   "properties": {
+    "addr:full":"508 Downy Meade Dr Franklin TN 37064",
+    "addr:housenumber":"508",
+    "addr:postcode":"37064",
+    "addr:street":"Downy Meade Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.843044,35.854997,-86.843044,35.854997",
     "geom:latitude":35.854997,
     "geom:longitude":-86.843044,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LwjlDOD5LI0pxkve3o5zk_35.854997_-86.843044@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462596860,
     "wof:geomhash":"2be0ba96b93aaa3712f87307a9311b13",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":790557811
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790557811,
-    "wof:lastmodified":1467083234,
+    "wof:lastmodified":1491930838,
     "wof:name":"Shells Place",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

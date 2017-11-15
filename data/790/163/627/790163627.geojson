@@ -2,14 +2,20 @@
   "id": 790163627,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 N Highland Ave Jackson TN 38305",
+    "addr:housenumber":"2021",
+    "addr:postcode":"38305",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.828042,35.655954,-88.828042,35.655954",
     "geom:latitude":35.655954,
     "geom:longitude":-88.828042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2021 N Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087221,
         85824843
     ],
+    "wof:brand_id":1125151963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3lfo27sF8NKCqV7hmEBPm7_35.655954_-88.828042@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593632,
-    "wof:geomhash":"6dc3da2263fdc5916dc39adf522d5e84",
+    "wof:geomhash":"dcb87c846792552f18de52d9433f9091",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790163627,
-    "wof:lastmodified":1467083135,
+    "wof:lastmodified":1510613284,
     "wof:name":"Suncoast Motion Picture Co",
     "wof:parent_id":85824843,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790518647,
   "type": "Feature",
   "properties": {
+    "addr:full":"1102 Sparta Pike Lebanon TN 37087",
+    "addr:housenumber":"1102",
+    "addr:postcode":"37087",
+    "addr:street":"Sparta Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.273786,36.193505,-86.273786,36.193505",
     "geom:latitude":36.193505,
     "geom:longitude":-86.273786,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1102 Sparta Pike",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":420574441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5B6UoonLpSJVe4Y0maqyPf_36.193505_-86.273786@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596532,
-    "wof:geomhash":"c012c3cb3064a2d849d7433b27e82b2c",
+    "wof:geomhash":"922c5ca64baee5b4bf1b09f49079834a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790518647,
-    "wof:lastmodified":1467083223,
+    "wof:lastmodified":1510604893,
     "wof:name":"Greyhound Bus Lines",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

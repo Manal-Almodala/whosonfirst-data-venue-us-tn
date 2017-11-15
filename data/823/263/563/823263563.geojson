@@ -2,14 +2,20 @@
   "id": 823263563,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 W End Ave Nashville TN 37203",
+    "addr:housenumber":"2100",
+    "addr:postcode":"37203",
+    "addr:street":"W End Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801208,36.15044,-86.801208,36.15044",
     "geom:latitude":36.15044,
     "geom:longitude":-86.801208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102087061,
         85893455
     ],
+    "wof:brand_id":1125153473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2T3tyOs15bv1Ohx0F8alKY_36.150440_-86.801208@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609663,
-    "wof:geomhash":"42ec3d74ebebf834d256ff1cfa5e9d8f",
+    "wof:geomhash":"05de20135dd3a3b4492a36029e12ae53",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":823263563,
-    "wof:lastmodified":1467083646,
+    "wof:lastmodified":1510699665,
     "wof:name":"Renal Care Group",
     "wof:parent_id":85893455,
     "wof:placetype":"venue",

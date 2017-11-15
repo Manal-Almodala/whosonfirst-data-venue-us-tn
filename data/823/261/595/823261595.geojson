@@ -2,14 +2,20 @@
   "id": 823261595,
   "type": "Feature",
   "properties": {
+    "addr:full":"5201 Hickory Hollow Pkwy Antioch TN 37013",
+    "addr:housenumber":"5201",
+    "addr:postcode":"37013",
+    "addr:street":"Hickory Hollow Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.661278,36.04892,-86.661278,36.04892",
     "geom:latitude":36.04892,
     "geom:longitude":-86.661278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5201 Hickory Hollow Pkwy",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102087061,
         85846409
     ],
+    "wof:brand_id":1125151691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bYDZLJbOmW8FQmeRCMyt2_36.048920_-86.661278@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609581,
-    "wof:geomhash":"c5519ca856225af8b8b164bcd40a68a1",
+    "wof:geomhash":"d12736e11950857ef110074a2e45f531",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":823261595,
-    "wof:lastmodified":1467083643,
+    "wof:lastmodified":1510693900,
     "wof:name":"NTB - National Tire & Battery",
     "wof:parent_id":85846409,
     "wof:placetype":"venue",

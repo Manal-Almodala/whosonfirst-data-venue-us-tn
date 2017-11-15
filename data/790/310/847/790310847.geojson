@@ -2,14 +2,20 @@
   "id": 790310847,
   "type": "Feature",
   "properties": {
+    "addr:full":"231 New Byhalia Rd Collierville TN 38017",
+    "addr:housenumber":"231",
+    "addr:postcode":"38017",
+    "addr:street":"New Byhalia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.689174,35.047025,-89.689174,35.047025",
     "geom:latitude":35.047025,
     "geom:longitude":-89.689174,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"231 New Byhalia Rd",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":1125155409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07PqJQ6eucCBdVaZA5sDo8_35.047025_-89.689174@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594852,
-    "wof:geomhash":"11fa2fc85abf33e555a43a2cae80fe82",
+    "wof:geomhash":"06e2aea7ed94562cd8e097023cc21896",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790310847,
-    "wof:lastmodified":1467083170,
+    "wof:lastmodified":1510695076,
     "wof:name":"Palm Beach Tan",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807369243,
   "type": "Feature",
   "properties": {
+    "addr:full":"3905 Redding Rd Chattanooga TN 37415",
+    "addr:housenumber":"3905",
+    "addr:postcode":"37415",
+    "addr:street":"Redding Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.288487,35.119855,-85.288487,35.119855",
     "geom:latitude":35.119855,
     "geom:longitude":-85.288487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3905 Redding Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         420541607
     ],
+    "wof:brand_id":1125158131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yPTdjmRM51Y7EteWcVQA5_35.119855_-85.288487@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606780,
-    "wof:geomhash":"81ddfdb1a40a45d53de639c11228528c",
+    "wof:geomhash":"d99da51d9e62b4efce7b2ac5506d85f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807369243,
-    "wof:lastmodified":1467083553,
+    "wof:lastmodified":1510698909,
     "wof:name":"Magic Mirror",
     "wof:parent_id":420541607,
     "wof:placetype":"venue",

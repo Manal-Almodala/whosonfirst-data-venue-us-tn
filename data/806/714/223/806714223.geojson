@@ -2,9 +2,14 @@
   "id": 806714223,
   "type": "Feature",
   "properties": {
+    "addr:full":"5059 Saddleview Dr Franklin TN 37067",
+    "addr:housenumber":"5059",
+    "addr:postcode":"37067",
+    "addr:street":"Saddleview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797409,35.893457,-86.797409,35.893457",
     "geom:latitude":35.893457,
     "geom:longitude":-86.797409,
@@ -37,12 +42,7 @@
         "special"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_027YaAZ9yaqRQnOV2nAeh8_35.893457_-86.797409@1294204733"
@@ -50,17 +50,9 @@
     "wof:country":"US",
     "wof:created":1462600451,
     "wof:geomhash":"3f6d989dfb01f584700dd0db23819bf6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":806714223
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806714223,
-    "wof:lastmodified":1467083352,
+    "wof:lastmodified":1491924949,
     "wof:name":"An Affair To Remember Inc",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

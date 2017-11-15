@@ -2,9 +2,14 @@
   "id": 790025223,
   "type": "Feature",
   "properties": {
+    "addr:full":"536 Mont Ridge Ct Franklin TN 37067",
+    "addr:housenumber":"536",
+    "addr:postcode":"37067",
+    "addr:street":"Mont Ridge Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79029,35.911398,-86.79029,35.911398",
     "geom:latitude":35.911398,
     "geom:longitude":-86.79029,
@@ -28,12 +33,7 @@
         "software"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wh0fjTvJBUPBFkHOMSYBr_35.911398_-86.790290@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462592533,
     "wof:geomhash":"aaf34d55ac00af428e9bd2e01f05bba1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":790025223
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790025223,
-    "wof:lastmodified":1467083102,
+    "wof:lastmodified":1491924956,
     "wof:name":"Intercept Solutions",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

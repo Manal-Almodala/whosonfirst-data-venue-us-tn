@@ -2,14 +2,20 @@
   "id": 823216723,
   "type": "Feature",
   "properties": {
+    "addr:full":"518 3rd Ave S Nashville TN 37210",
+    "addr:housenumber":"518",
+    "addr:postcode":"37210",
+    "addr:street":"3Rd Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.77231,36.156141,-86.77231,36.156141",
     "geom:latitude":36.156141,
     "geom:longitude":-86.77231,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"518 3rd Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85871389
     ],
+    "wof:brand_id":1125152527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tQS7NkrLEk0cFSChWSeXl_36.156141_-86.772310@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608655,
-    "wof:geomhash":"514f8fbd20af1289d32b7aba833899a1",
+    "wof:geomhash":"dd8ffeab423cb756eec91a5a1d73e354",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823216723,
-    "wof:lastmodified":1467083611,
+    "wof:lastmodified":1510698919,
     "wof:name":"Federated Insurance Co",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",

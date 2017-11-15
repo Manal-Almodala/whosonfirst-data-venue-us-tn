@@ -2,9 +2,14 @@
   "id": 806851621,
   "type": "Feature",
   "properties": {
+    "addr:full":"824 McCurdy Rd White House TN 37188",
+    "addr:housenumber":"824",
+    "addr:postcode":"37188",
+    "addr:street":"Mccurdy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.659777,36.443901,-86.659777,36.443901",
     "geom:latitude":36.443901,
     "geom:longitude":-86.659777,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"7ddd64089ee4d7a2fd0453b3fad8dd1b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806851621,
-    "wof:lastmodified":1467083391,
+    "wof:lastmodified":1491939212,
     "wof:name":"Taylors Plumbing",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

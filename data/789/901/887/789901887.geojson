@@ -2,6 +2,10 @@
   "id": 789901887,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Mayo Dr Morrison TN 37357",
+    "addr:housenumber":"123",
+    "addr:postcode":"37357",
+    "addr:street":"Mayo Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789901887,
-    "wof:lastmodified":1467083073,
+    "wof:lastmodified":1472645277,
     "wof:name":"Cowans Drywall",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",

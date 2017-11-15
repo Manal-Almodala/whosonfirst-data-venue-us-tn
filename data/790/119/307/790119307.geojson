@@ -2,14 +2,20 @@
   "id": 790119307,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 Gunbarrel Rd Chattanooga TN 37421",
+    "addr:housenumber":"",
+    "addr:postcode":"37421",
+    "addr:street":"2020 Gunbarrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.154815,35.031394,-85.154815,35.031394",
     "geom:latitude":35.031394,
     "geom:longitude":-85.154815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2020 Gunbarrel Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85805409
     ],
+    "wof:brand_id":1125150311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57bGfH77eg4Dcc7WL7453A_35.031394_-85.154815@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593282,
-    "wof:geomhash":"a47184b29929542f6fb156bc907ca9df",
+    "wof:geomhash":"bd76b8eacb248cfe46b1571aec9affc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790119307,
-    "wof:lastmodified":1467083124,
+    "wof:lastmodified":1510697393,
     "wof:name":"OfficeMax",
     "wof:parent_id":85805409,
     "wof:placetype":"venue",

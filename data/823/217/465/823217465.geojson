@@ -2,14 +2,20 @@
   "id": 823217465,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 Charter Pl La Vergne TN 37086",
+    "addr:housenumber":"140",
+    "addr:postcode":"37086",
+    "addr:street":"Charter Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.592395,35.991009,-86.592395,35.991009",
     "geom:latitude":35.991009,
     "geom:longitude":-86.592395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 Charter Pl",
     "sg:city":"La Vergne",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85845521
     ],
+    "wof:brand_id":1125153723,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bEYxLJCIjTQfgPLUhweQk_35.991009_-86.592395@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608668,
-    "wof:geomhash":"253a7f721250a0b55219b4a7e20be57e",
+    "wof:geomhash":"f5a9a2f503cd32acedb424467deb8bd0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823217465,
-    "wof:lastmodified":1467083612,
+    "wof:lastmodified":1510695748,
     "wof:name":"Sunbelt Rentals Inc",
     "wof:parent_id":85845521,
     "wof:placetype":"venue",

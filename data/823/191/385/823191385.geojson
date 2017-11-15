@@ -2,14 +2,20 @@
   "id": 823191385,
   "type": "Feature",
   "properties": {
+    "addr:full":"2650 Memorial Blvd Murfreesboro TN 37129",
+    "addr:housenumber":"2650",
+    "addr:postcode":"37129",
+    "addr:street":"Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.394449,35.85598,-86.394449,35.85598",
     "geom:latitude":35.85598,
     "geom:longitude":-86.394449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2650 Memorial Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85835585
     ],
+    "wof:brand_id":1125152131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3FQlYenfQrR0a9VLyFHzpV_35.855980_-86.394449@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608207,
-    "wof:geomhash":"559a98206102c2d282ff767df30291bf",
+    "wof:geomhash":"1679d909c4b36788c255733c41ce4a66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823191385,
-    "wof:lastmodified":1467083595,
+    "wof:lastmodified":1510695269,
     "wof:name":"CTX Mortgage Co",
     "wof:parent_id":85835585,
     "wof:placetype":"venue",

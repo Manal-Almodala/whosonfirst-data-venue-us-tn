@@ -2,9 +2,14 @@
   "id": 773341555,
   "type": "Feature",
   "properties": {
+    "addr:full":"225 Thompson Ln Goodlettsville TN 37072",
+    "addr:housenumber":"225",
+    "addr:postcode":"37072",
+    "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.643188,36.382457,-86.643188,36.382457",
     "geom:latitude":36.382457,
     "geom:longitude":-86.643188,
@@ -36,6 +41,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -50,6 +56,7 @@
     "wof:geomhash":"99aee2eb8eb5cd9adcab9af8d5e3f564",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773341555,
-    "wof:lastmodified":1467082873,
+    "wof:lastmodified":1491939240,
     "wof:name":"Shackle Island Meats",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806618319,
   "type": "Feature",
   "properties": {
+    "addr:full":"2801 Wilma Rudolph Blvd Clarksville TN 37040",
+    "addr:housenumber":"2801",
+    "addr:postcode":"37040",
+    "addr:street":"Wilma Rudolph Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.293587,36.588066,-87.293587,36.588066",
     "geom:latitude":36.588066,
     "geom:longitude":-87.293587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2801 Wilma Rudolph Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086353,
         85819931
     ],
+    "wof:brand_id":1125155953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5CwnmvYwtcracMLMDpSCPy_36.588066_-87.293587@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599639,
-    "wof:geomhash":"619ea5f6cd86d3718f3a449a31ae65b1",
+    "wof:geomhash":"9e586272129dbad83dfba1d62eea8c02",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806618319,
-    "wof:lastmodified":1467083325,
+    "wof:lastmodified":1510698915,
     "wof:name":"Mrs Fields Original Cookies",
     "wof:parent_id":85819931,
     "wof:placetype":"venue",

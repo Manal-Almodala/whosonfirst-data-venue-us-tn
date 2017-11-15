@@ -2,9 +2,14 @@
   "id": 789617929,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Beechlawn Dr Franklin TN 37064",
+    "addr:housenumber":"108",
+    "addr:postcode":"37064",
+    "addr:street":"Beechlawn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.841164,35.874518,-86.841164,35.874518",
     "geom:latitude":35.874518,
     "geom:longitude":-86.841164,
@@ -27,12 +32,7 @@
         "control"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R6jWumLpIY0wAjS1t5R4y_35.874518_-86.841164@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462589203,
     "wof:geomhash":"90bea5af317fbdb00d2f6680c13792ce",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789617929
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789617929,
-    "wof:lastmodified":1467083005,
+    "wof:lastmodified":1491930838,
     "wof:name":"C & C Engineering",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

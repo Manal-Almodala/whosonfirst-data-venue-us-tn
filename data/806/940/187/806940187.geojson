@@ -2,14 +2,20 @@
   "id": 806940187,
   "type": "Feature",
   "properties": {
+    "addr:full":"1619 E Raines Rd Memphis TN 38116",
+    "addr:housenumber":"1619",
+    "addr:postcode":"38116",
+    "addr:street":"E Raines Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.010488,35.03549,-90.010488,35.03549",
     "geom:latitude":35.03549,
     "geom:longitude":-90.010488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1619 E Raines Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85867187
     ],
+    "wof:brand_id":420575759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rCGj6KyutQ5HgkSUnl7tq_35.035490_-90.010488@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602362,
-    "wof:geomhash":"9e7e8c3a0e3dfb0aec1b969d8d9e369a",
+    "wof:geomhash":"51e7511ab8f14314bdf72f8e67ae5b60",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806940187,
-    "wof:lastmodified":1467083415,
+    "wof:lastmodified":1510602450,
     "wof:name":"Grace United Methodist Church",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",

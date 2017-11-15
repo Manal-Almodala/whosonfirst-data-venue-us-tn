@@ -2,14 +2,20 @@
   "id": 790001035,
   "type": "Feature",
   "properties": {
+    "addr:full":"5122 Adams Rd Hixson TN 37343",
+    "addr:housenumber":"5122",
+    "addr:postcode":"37343",
+    "addr:street":"Adams Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.233891,35.1417,-85.233891,35.1417",
     "geom:latitude":35.1417,
     "geom:longitude":-85.233891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5122 Adams Rd",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         85876737
     ],
+    "wof:brand_id":420575299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Sgf0mxBo5adodOrMb8s3E_35.141700_-85.233891@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592336,
-    "wof:geomhash":"664a90baa1c052c4369ca1c39c5eb68f",
+    "wof:geomhash":"b9c0de9ba9aeb0df4b5b2ff44b3f95fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790001035,
-    "wof:lastmodified":1467083097,
+    "wof:lastmodified":1510602398,
     "wof:name":"Ameriprise Financial",
     "wof:parent_id":85876737,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773796607,
   "type": "Feature",
   "properties": {
+    "addr:full":"2942 Kirby Whitten Rd Memphis TN 38134",
+    "addr:housenumber":"2942",
+    "addr:postcode":"38134",
+    "addr:street":"Kirby Whitten Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.840436,35.205079,-89.840436,35.205079",
     "geom:latitude":35.205079,
     "geom:longitude":-89.840436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2942 Kirby Whitten Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VPndzbbHIS46EsvbhWUeX_35.205079_-89.840436@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588441,
-    "wof:geomhash":"be9b71017a269d2b1ca555992409f5bb",
+    "wof:geomhash":"7168bc64bf51a12b95f4ee3c03c841fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773796607,
-    "wof:lastmodified":1467082982,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

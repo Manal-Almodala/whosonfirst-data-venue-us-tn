@@ -2,14 +2,20 @@
   "id": 823247579,
   "type": "Feature",
   "properties": {
+    "addr:full":"2258 Hillsboro Blvd Manchester TN 37355",
+    "addr:housenumber":"2258",
+    "addr:postcode":"37355",
+    "addr:street":"Hillsboro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.055992,35.458452,-86.055992,35.458452",
     "geom:latitude":35.458452,
     "geom:longitude":-86.055992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2258 Hillsboro Blvd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85857461,
         102087095
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1joVzwUAvuZrKSpUbnXvOO_35.458452_-86.055992@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609287,
-    "wof:geomhash":"7b3c4fc32660fea8c3b34b22fecc96a0",
+    "wof:geomhash":"b08c015c70d932d230b59680b01cbc1d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823247579,
-    "wof:lastmodified":1467083633,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":85857461,
     "wof:placetype":"venue",

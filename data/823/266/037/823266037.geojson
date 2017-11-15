@@ -2,14 +2,20 @@
   "id": 823266037,
   "type": "Feature",
   "properties": {
+    "addr:full":"5211 Linbar Dr Ste. 500, Bldg. 5 Nashville TN 37211",
+    "addr:housenumber":"5211",
+    "addr:postcode":"37211",
+    "addr:street":"Linbar Dr Ste. 500 Bldg. 5",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.696856,36.078945,-86.696856,36.078945",
     "geom:latitude":36.078945,
     "geom:longitude":-86.696856,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5211 Linbar Dr Ste. 500, Bldg. 5",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":1125150655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_20Welmulp2Gaae2vMp9YIM_36.078945_-86.696856@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609754,
-    "wof:geomhash":"4d02de6099cd30ce76b8e4f9a2d1e9c1",
+    "wof:geomhash":"4641e889f2d6060ae7b6aa5d1ada46a9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823266037,
-    "wof:lastmodified":1467083649,
+    "wof:lastmodified":1510695185,
     "wof:name":"Aerotek",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

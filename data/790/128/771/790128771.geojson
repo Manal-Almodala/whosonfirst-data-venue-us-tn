@@ -2,9 +2,14 @@
   "id": 790128771,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 Cedarmont Dr Franklin TN 37067",
+    "addr:housenumber":"2021",
+    "addr:postcode":"37067",
+    "addr:street":"Cedarmont Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801384,35.898156,-86.801384,35.898156",
     "geom:latitude":35.898156,
     "geom:longitude":-86.801384,
@@ -27,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12Ox7cvWecU2rdkWyDyRjq_35.898156_-86.801384@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462593352,
     "wof:geomhash":"37cf7fb41388652f7cfa80c2919e45b6",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":790128771
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790128771,
-    "wof:lastmodified":1467083127,
+    "wof:lastmodified":1491924957,
     "wof:name":"Smithson Builders",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

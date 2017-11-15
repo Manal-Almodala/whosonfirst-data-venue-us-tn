@@ -2,14 +2,20 @@
   "id": 806979493,
   "type": "Feature",
   "properties": {
+    "addr:full":"1945 Mallory Ln Franklin TN 37067",
+    "addr:housenumber":"1945",
+    "addr:postcode":"37067",
+    "addr:street":"Mallory Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.817605,35.954517,-86.817605,35.954517",
     "geom:latitude":35.954517,
     "geom:longitude":-86.817605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1945 Mallory Ln",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":1125152035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gmHNd8jHCNrz2TFabIHkv_35.954517_-86.817605@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602685,
-    "wof:geomhash":"7cba581c7ed2a4715fb173b9844364e9",
+    "wof:geomhash":"d82b9aaac7952e91282e9d2b62232b81",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806979493,
-    "wof:lastmodified":1467083426,
+    "wof:lastmodified":1510694991,
     "wof:name":"Embroidme",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

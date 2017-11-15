@@ -2,14 +2,20 @@
   "id": 823290661,
   "type": "Feature",
   "properties": {
+    "addr:full":"9012 Pembroke Ellis Dr Memphis TN 38133",
+    "addr:housenumber":"9012",
+    "addr:postcode":"38133",
+    "addr:street":"Pembroke Ellis Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.762752,35.21895,-89.762752,35.21895",
     "geom:latitude":35.21895,
     "geom:longitude":-89.762752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9012 Pembroke Ellis Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125155581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2AzKsOosUjEJbpTessBAXr_35.218950_-89.762752@1303262743"
     },
     "wof:country":"US",
     "wof:created":1462610725,
-    "wof:geomhash":"5dcb2fceb410e1c2e16eb6468df4ee94",
+    "wof:geomhash":"ef134fc53d9fbb71a0beeac88e425825",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823290661,
-    "wof:lastmodified":1467083684,
+    "wof:lastmodified":1510694030,
     "wof:name":"Certa Pro Painters",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

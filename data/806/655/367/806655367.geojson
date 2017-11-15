@@ -2,14 +2,20 @@
   "id": 806655367,
   "type": "Feature",
   "properties": {
+    "addr:full":"1477 N Mount Juliet Rd Mt Juliet TN 37122",
+    "addr:housenumber":"1477",
+    "addr:postcode":"37122",
+    "addr:street":"N Mount Juliet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.516097,36.192718,-86.516097,36.192718",
     "geom:latitude":36.192718,
     "geom:longitude":-86.516097,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1477 N Mount Juliet Rd",
     "sg:city":"Mt Juliet",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087205,
         85805387
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rovt3ZIoL71uDu9i6pfsK_36.192718_-86.516097@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599953,
-    "wof:geomhash":"b2888cdc33c3d77ad2f7dac6bea99756",
+    "wof:geomhash":"c80702de10eaf6afeff6207d7d9b2216",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806655367,
-    "wof:lastmodified":1467083335,
+    "wof:lastmodified":1510604189,
     "wof:name":"AM South Bank",
     "wof:parent_id":85805387,
     "wof:placetype":"venue",

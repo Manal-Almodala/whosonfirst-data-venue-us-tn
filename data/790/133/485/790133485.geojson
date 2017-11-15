@@ -2,14 +2,20 @@
   "id": 790133485,
   "type": "Feature",
   "properties": {
+    "addr:full":"1574 Yager Rd Mc Minnville TN 37110",
+    "addr:housenumber":"1574",
+    "addr:postcode":"37110",
+    "addr:street":"Yager Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.793745,35.710802,-85.793745,35.710802",
     "geom:latitude":35.710802,
     "geom:longitude":-85.793745,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1574 Yager Rd",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086399,
         420542243
     ],
+    "wof:brand_id":1125150947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BUZE8eOGtyFrU2rODrJHh_35.710802_-85.793745@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593384,
-    "wof:geomhash":"94c91417f81a42ee5b509c7c165e85c2",
+    "wof:geomhash":"4b84a52fcc3d6719faf79ee9edd1440b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790133485,
-    "wof:lastmodified":1467083128,
+    "wof:lastmodified":1510693716,
     "wof:name":"Northside Baptist Church",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",

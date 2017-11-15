@@ -2,14 +2,20 @@
   "id": 790207195,
   "type": "Feature",
   "properties": {
+    "addr:full":"1917 Clifton Tpke Waynesboro TN 38485",
+    "addr:housenumber":"1917",
+    "addr:postcode":"38485",
+    "addr:street":"Clifton Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.851014,35.350838,-87.851014,35.350838",
     "geom:latitude":35.350838,
     "geom:longitude":-87.851014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1917 Clifton Tpke",
     "sg:city":"Waynesboro",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85814781,
         102087175
     ],
+    "wof:brand_id":420574783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DPOnQeo2GtDApwpTTT5kr_35.350838_-87.851014@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594009,
-    "wof:geomhash":"b9dd90cbb7603465d468a61265ccb30d",
+    "wof:geomhash":"1f50cdc3a0f6f281c44c88cc0c39eec9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790207195,
-    "wof:lastmodified":1467083145,
+    "wof:lastmodified":1510604674,
     "wof:name":"Friendship Baptist Church",
     "wof:parent_id":85814781,
     "wof:placetype":"venue",

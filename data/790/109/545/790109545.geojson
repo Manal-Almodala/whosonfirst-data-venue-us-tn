@@ -2,9 +2,14 @@
   "id": 790109545,
   "type": "Feature",
   "properties": {
+    "addr:full":"4360 Long Ln Franklin TN 37064",
+    "addr:housenumber":"4360",
+    "addr:postcode":"37064",
+    "addr:street":"Long Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.812282,35.861762,-86.812282,35.861762",
     "geom:latitude":35.861762,
     "geom:longitude":-86.812282,
@@ -32,12 +37,7 @@
         "feedlot"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55THdLawv0NwkOYkG0kMAR_35.861762_-86.812282@1294204733"
@@ -45,17 +45,9 @@
     "wof:country":"US",
     "wof:created":1462593216,
     "wof:geomhash":"59f31fc56add9e635d6f9c9d7af8c21c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":790109545
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790109545,
-    "wof:lastmodified":1467083122,
+    "wof:lastmodified":1491930829,
     "wof:name":"Barry Moss",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

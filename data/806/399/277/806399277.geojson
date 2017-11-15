@@ -2,14 +2,20 @@
   "id": 806399277,
   "type": "Feature",
   "properties": {
+    "addr:full":"2170 Bus Center Dr Memphis TN 38134",
+    "addr:housenumber":"2170",
+    "addr:postcode":"38134",
+    "addr:street":"Bus Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.891603,35.184739,-89.891603,35.184739",
     "geom:latitude":35.184739,
     "geom:longitude":-89.891603,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2170 Bus Center Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":1125159971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WqBD7knvsOcHSpARaJpKH_35.184739_-89.891603@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597835,
-    "wof:geomhash":"6a662af65f429fa195e6b925c3fc592c",
+    "wof:geomhash":"8b6b24fe6e27b027bf5a1733d06bbe45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806399277,
-    "wof:lastmodified":1467083264,
+    "wof:lastmodified":1510698870,
     "wof:name":"Orkin Exterminating Co Inc",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

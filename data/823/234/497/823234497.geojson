@@ -2,6 +2,10 @@
   "id": 823234497,
   "type": "Feature",
   "properties": {
+    "addr:full":"42 Smith Rd Fayetteville TN 37334",
+    "addr:housenumber":"42",
+    "addr:postcode":"37334",
+    "addr:street":"Smith Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -48,7 +52,7 @@
         }
     ],
     "wof:id":823234497,
-    "wof:lastmodified":1467083624,
+    "wof:lastmodified":1472645623,
     "wof:name":"George Monks",
     "wof:parent_id":85868159,
     "wof:placetype":"venue",

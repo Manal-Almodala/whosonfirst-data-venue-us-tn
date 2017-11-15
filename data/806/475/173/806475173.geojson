@@ -2,14 +2,20 @@
   "id": 806475173,
   "type": "Feature",
   "properties": {
+    "addr:full":"806 Carrolton Ave Memphis TN 38127",
+    "addr:housenumber":"806",
+    "addr:postcode":"38127",
+    "addr:street":"Carrolton Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.03748,35.225844,-90.03748,35.225844",
     "geom:latitude":35.225844,
     "geom:longitude":-90.03748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"806 Carrolton Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85820619
     ],
+    "wof:brand_id":1125155157,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MEl8W6TfiAs24PAN2t44z_35.225844_-90.037480@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598424,
-    "wof:geomhash":"7316368bb0eb5b2ae11c8a8563186819",
+    "wof:geomhash":"772965a913c05a0d3a201ed0506c1c6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806475173,
-    "wof:lastmodified":1467083285,
+    "wof:lastmodified":1510697623,
     "wof:name":"Maranatha Baptist Church",
     "wof:parent_id":85820619,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790400935,
   "type": "Feature",
   "properties": {
+    "addr:full":"5670 Fort Henry Dr Kingsport TN 37663",
+    "addr:housenumber":"5670",
+    "addr:postcode":"37663",
+    "addr:street":"Fort Henry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.462331,36.448381,-82.462331,36.448381",
     "geom:latitude":36.448381,
     "geom:longitude":-82.462331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5670 Fort Henry Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086471,
         85826065
     ],
+    "wof:brand_id":1125150699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lkbuCZRrg5qJpsvKmin01_36.448381_-82.462331@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595540,
-    "wof:geomhash":"84174def5b59c52ce94b8e82b6b514d2",
+    "wof:geomhash":"6bd1bd83d54266dd544b60516f9550b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790400935,
-    "wof:lastmodified":1467083192,
+    "wof:lastmodified":1510697256,
     "wof:name":"A Plus Mini Market",
     "wof:parent_id":85826065,
     "wof:placetype":"venue",

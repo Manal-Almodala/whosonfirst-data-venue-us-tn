@@ -2,14 +2,20 @@
   "id": 823262263,
   "type": "Feature",
   "properties": {
+    "addr:full":"920A Rivergate Pkwy Goodlettsville TN 37072",
+    "addr:housenumber":"920a",
+    "addr:postcode":"37072",
+    "addr:street":"Rivergate Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.700095,36.298898,-86.700095,36.298898",
     "geom:latitude":36.298898,
     "geom:longitude":-86.700095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"920A Rivergate Pkwy",
     "sg:city":"Goodlettsville",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":420574873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PdIiZH33drik1zSvqJ9k7_36.298898_-86.700095@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609606,
-    "wof:geomhash":"fe3d3d395c0b75bf93af2c77a958bf2e",
+    "wof:geomhash":"d3dbe7ac06453b52613b30dd3c629cd7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823262263,
-    "wof:lastmodified":1467083644,
+    "wof:lastmodified":1510604217,
     "wof:name":"Firestone Complete Auto Care Store",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

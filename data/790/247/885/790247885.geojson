@@ -2,14 +2,20 @@
   "id": 790247885,
   "type": "Feature",
   "properties": {
+    "addr:full":"181 Prosser Rd Lawrenceburg TN 38464",
+    "addr:housenumber":"181",
+    "addr:postcode":"38464",
+    "addr:street":"Prosser Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.338692,35.224951,-87.338692,35.224951",
     "geom:latitude":35.224951,
     "geom:longitude":-87.338692,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"181 Prosser Rd",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086349,
         85805627
     ],
+    "wof:brand_id":420574099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M6DiQqWSw98KJaBKLNqtv_35.224951_-87.338692@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594325,
-    "wof:geomhash":"c976622c7ff44cdff70946b2634425b6",
+    "wof:geomhash":"b1af56d228524040d4f355cf3560c6f5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790247885,
-    "wof:lastmodified":1467083155,
+    "wof:lastmodified":1510604881,
     "wof:name":"American Red Cross",
     "wof:parent_id":85805627,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789981275,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 S Walker Ln Oak Ridge TN 37830",
+    "addr:housenumber":"123",
+    "addr:postcode":"37830",
+    "addr:street":"S Walker Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789981275,
-    "wof:lastmodified":1467083092,
+    "wof:lastmodified":1472645295,
     "wof:name":"Premier Computer Svc Of Tn",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

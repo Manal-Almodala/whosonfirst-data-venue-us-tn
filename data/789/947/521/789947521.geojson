@@ -2,14 +2,20 @@
   "id": 789947521,
   "type": "Feature",
   "properties": {
+    "addr:full":"4710 N Broadway St Knoxville TN 37918",
+    "addr:housenumber":"4710",
+    "addr:postcode":"37918",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.923211,36.020861,-83.923211,36.020861",
     "geom:latitude":36.020861,
     "geom:longitude":-83.923211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4710 N Broadway St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85820307
     ],
+    "wof:brand_id":420575353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T2srzd88cHvqqV5StCjGb_36.020861_-83.923211@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591878,
-    "wof:geomhash":"7afab415c57c69e93d49d68b9de680a9",
+    "wof:geomhash":"9fdaf44609647f22f5e4277017083169",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789947521,
-    "wof:lastmodified":1467083084,
+    "wof:lastmodified":1510601965,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85820307,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404098867,
   "type": "Feature",
   "properties": {
+    "addr:full":"25 W Broad St Cookeville TN 38501",
+    "addr:housenumber":"25",
+    "addr:postcode":"38501",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.507647,36.164141,-85.507647,36.164141",
     "geom:latitude":36.164141,
     "geom:longitude":-85.507647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"25 W Broad St",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -36,12 +42,13 @@
         102086339,
         85852063
     ],
+    "wof:brand_id":1125156947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aTstKmgLEGhWvMlx03BH9_36.164141_-85.507647@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"5beb713f000b88ef93d614870d7b1a9b",
+    "wof:geomhash":"a6a16447518f952959d57d3f1cac0b3a",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":404098867,
-    "wof:lastmodified":1467082780,
+    "wof:lastmodified":1510613429,
     "wof:name":"Danka",
     "wof:parent_id":85852063,
     "wof:placetype":"venue",

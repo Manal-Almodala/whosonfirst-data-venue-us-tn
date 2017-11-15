@@ -2,14 +2,20 @@
   "id": 823248713,
   "type": "Feature",
   "properties": {
+    "addr:full":"2119 Gunbarrel Rd Chattanooga TN 37421",
+    "addr:housenumber":"",
+    "addr:postcode":"37421",
+    "addr:street":"2119 Gunbarrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.153126,35.035536,-85.153126,35.035536",
     "geom:latitude":35.035536,
     "geom:longitude":-85.153126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2119 Gunbarrel Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85815159
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ai7kPLFg1LXsOsQfiYoEM_35.035536_-85.153126@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609310,
-    "wof:geomhash":"f8e0a103e4bf6175e38858aa51dc0a4b",
+    "wof:geomhash":"36a381fbc07c4e1f3ea18c63db0aa340",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823248713,
-    "wof:lastmodified":1467083634,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85815159,
     "wof:placetype":"venue",

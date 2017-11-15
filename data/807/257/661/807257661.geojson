@@ -2,14 +2,20 @@
   "id": 807257661,
   "type": "Feature",
   "properties": {
+    "addr:full":"3935 Volunteer Dr Chattanooga TN 37416",
+    "addr:housenumber":"3935",
+    "addr:postcode":"37416",
+    "addr:street":"Volunteer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.200589,35.073359,-85.200589,35.073359",
     "geom:latitude":35.073359,
     "geom:longitude":-85.200589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3935 Volunteer Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85810631
     ],
+    "wof:brand_id":1125153323,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x2eJ1wuIJ4Fq36rdwXtj2_35.073359_-85.200589@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605407,
-    "wof:geomhash":"4b16c7b09d6f692e5677f5818e0065d7",
+    "wof:geomhash":"f8a2505d18adc088fa2b9e551b16e02c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807257661,
-    "wof:lastmodified":1467083509,
+    "wof:lastmodified":1510693791,
     "wof:name":"Nabisco",
     "wof:parent_id":85810631,
     "wof:placetype":"venue",

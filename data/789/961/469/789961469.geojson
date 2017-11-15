@@ -2,6 +2,10 @@
   "id": 789961469,
   "type": "Feature",
   "properties": {
+    "addr:full":"1234 Berclair Rd Memphis TN 38122",
+    "addr:housenumber":"1234",
+    "addr:postcode":"38122",
+    "addr:street":"Berclair Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789961469,
-    "wof:lastmodified":1467083087,
+    "wof:lastmodified":1472645308,
     "wof:name":"Jerry Hindle",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

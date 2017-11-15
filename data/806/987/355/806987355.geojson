@@ -2,14 +2,20 @@
   "id": 806987355,
   "type": "Feature",
   "properties": {
+    "addr:full":"5455 Nolensville Pike Nashville TN 37211",
+    "addr:housenumber":"5455",
+    "addr:postcode":"37211",
+    "addr:street":"Nolensville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.714154,36.050621,-86.714154,36.050621",
     "geom:latitude":36.050621,
     "geom:longitude":-86.714154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5455 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85852849
     ],
+    "wof:brand_id":1125152841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_011ugAywhmUeVTp433ex3C_36.050621_-86.714154@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602754,
-    "wof:geomhash":"8270c4028243b8664be2302329d10f0a",
+    "wof:geomhash":"c988c1be7ec147b95fcdea751297fd5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806987355,
-    "wof:lastmodified":1467083428,
+    "wof:lastmodified":1510693748,
     "wof:name":"Amoco Food Mart",
     "wof:parent_id":85852849,
     "wof:placetype":"venue",

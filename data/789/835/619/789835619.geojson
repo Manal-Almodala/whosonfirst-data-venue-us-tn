@@ -2,14 +2,20 @@
   "id": 789835619,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 Randolph Rd Oak Ridge TN 37830",
+    "addr:housenumber":"129",
+    "addr:postcode":"37830",
+    "addr:street":"Randolph Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.266823,36.014291,-84.266823,36.014291",
     "geom:latitude":36.014291,
     "geom:longitude":-84.266823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 Randolph Rd",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086483,
         85827263
     ],
+    "wof:brand_id":1125152085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WddoZqoogU9bakngh5Wzc_36.014291_-84.266823@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590911,
-    "wof:geomhash":"790b5b9ceb6358d48d91780e4dc6847c",
+    "wof:geomhash":"aca387a272cb10749afe202014f62984",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789835619,
-    "wof:lastmodified":1467083056,
+    "wof:lastmodified":1510695086,
     "wof:name":"Creative Cuts",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

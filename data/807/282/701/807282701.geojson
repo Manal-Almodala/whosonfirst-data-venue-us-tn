@@ -2,14 +2,20 @@
   "id": 807282701,
   "type": "Feature",
   "properties": {
+    "addr:full":"551 S Lowry St Smyrna TN 37167",
+    "addr:housenumber":"551",
+    "addr:postcode":"37167",
+    "addr:street":"S Lowry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.495418,35.956336,-86.495418,35.956336",
     "geom:latitude":35.956336,
     "geom:longitude":-86.495418,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"551 S Lowry St",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85838833
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4F5Q8HwrWRnVEooWIiKAJc_35.956336_-86.495418@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605675,
-    "wof:geomhash":"a4f5385e816d800eec6e6addeb60ff0b",
+    "wof:geomhash":"dcdb999f8ce8721ce34db2a50f61e11a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807282701,
-    "wof:lastmodified":1467083517,
+    "wof:lastmodified":1510602990,
     "wof:name":"Labor Finders",
     "wof:parent_id":85838833,
     "wof:placetype":"venue",

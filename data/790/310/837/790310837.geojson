@@ -2,14 +2,20 @@
   "id": 790310837,
   "type": "Feature",
   "properties": {
+    "addr:full":"6821 Maynardville Pike Knoxville TN 37918",
+    "addr:housenumber":"6821",
+    "addr:postcode":"37918",
+    "addr:street":"Maynardville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.927446,36.070313,-83.927446,36.070313",
     "geom:latitude":36.070313,
     "geom:longitude":-83.927446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6821 Maynardville Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85820307
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dz0VFvQ8JcVeltfKlFNY6_36.070313_-83.927446@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594852,
-    "wof:geomhash":"f5cb04c02ba99b3b79e03dce85614a7e",
+    "wof:geomhash":"b2a30dea4efd85f61b82897fbd3f60ed",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790310837,
-    "wof:lastmodified":1467083170,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":85820307,
     "wof:placetype":"venue",

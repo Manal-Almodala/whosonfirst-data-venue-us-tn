@@ -2,14 +2,20 @@
   "id": 790325175,
   "type": "Feature",
   "properties": {
+    "addr:full":"193 Henslee Dr Dickson TN 37055",
+    "addr:housenumber":"193",
+    "addr:postcode":"37055",
+    "addr:street":"Henslee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.374202,36.076919,-87.374202,36.076919",
     "geom:latitude":36.076919,
     "geom:longitude":-87.374202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"193 Henslee Dr",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125158653,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XdtMe3GO3rpjRjXjdcRff_36.076919_-87.374202@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594956,
-    "wof:geomhash":"310daee098903d28ee6a3f1aacf2e7d1",
+    "wof:geomhash":"cb1600a9f12fc15dc9c91d7f67901236",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790325175,
-    "wof:lastmodified":1467083173,
+    "wof:lastmodified":1510696842,
     "wof:name":"Tip Top Nails",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

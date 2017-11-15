@@ -2,14 +2,20 @@
   "id": 790298203,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 N Main St Greeneville TN 37745",
+    "addr:housenumber":"120",
+    "addr:postcode":"37745",
+    "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.83038,36.163947,-82.83038,36.163947",
     "geom:latitude":36.163947,
     "geom:longitude":-82.83038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 N Main St",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086377,
         85826147
     ],
+    "wof:brand_id":1125154165,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jqPwYk2f3Z8zU9UXXJHNq_36.163947_-82.830380@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594754,
-    "wof:geomhash":"95fb90a39ff85ab44331336c01dfd303",
+    "wof:geomhash":"4398e2e07071a8ee6b0fd29c3e153969",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790298203,
-    "wof:lastmodified":1467083167,
+    "wof:lastmodified":1510697576,
     "wof:name":"Western-Southern Life Ins Co",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",

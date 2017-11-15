@@ -2,14 +2,20 @@
   "id": 790587611,
   "type": "Feature",
   "properties": {
+    "addr:full":"359 Livingston Rd Crossville TN 38555",
+    "addr:housenumber":"359",
+    "addr:postcode":"38555",
+    "addr:street":"Livingston Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.034555,35.956192,-85.034555,35.956192",
     "geom:latitude":35.956192,
     "geom:longitude":-85.034555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"359 Livingston Rd",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":1125158093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k8Rr5l4eXrbraA8QOQeqm_35.956192_-85.034555@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597104,
-    "wof:geomhash":"0e8585a3c2d2495bc29539490ea30e48",
+    "wof:geomhash":"f18f516d455d126a42f4462d2bed574e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790587611,
-    "wof:lastmodified":1467083242,
+    "wof:lastmodified":1510697779,
     "wof:name":"Furniture Warehouse",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

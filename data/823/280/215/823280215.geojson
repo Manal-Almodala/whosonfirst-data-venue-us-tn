@@ -2,14 +2,20 @@
   "id": 823280215,
   "type": "Feature",
   "properties": {
+    "addr:full":"296 N Cleveland St Memphis TN 38104",
+    "addr:housenumber":"296",
+    "addr:postcode":"38104",
+    "addr:street":"N Cleveland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.014805,35.146439,-90.014805,35.146439",
     "geom:latitude":35.146439,
     "geom:longitude":-90.014805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"296 N Cleveland St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85851159
     ],
+    "wof:brand_id":1125152327,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tVA6Ym3NY52WCOyBUCaSs_35.146439_-90.014805@1303262741"
     },
     "wof:country":"US",
     "wof:created":1462610318,
-    "wof:geomhash":"bfe4c9e8182b00d1bf2ec2780caad059",
+    "wof:geomhash":"e45181f4bdec309a7e2adcb8ce6bfead",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823280215,
-    "wof:lastmodified":1467083669,
+    "wof:lastmodified":1510604947,
     "wof:name":"Beautiful Nails",
     "wof:parent_id":85851159,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823284035,
   "type": "Feature",
   "properties": {
+    "addr:full":"3601 Riverdale Rd Memphis TN 38115",
+    "addr:housenumber":"3601",
+    "addr:postcode":"38115",
+    "addr:street":"Riverdale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.830009,35.049101,-89.830009,35.049101",
     "geom:latitude":35.049101,
     "geom:longitude":-89.830009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3601 Riverdale Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125157049,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iLUzS7gfdfvfrcpfZL56L_35.049101_-89.830009@1303262742"
     },
     "wof:country":"US",
     "wof:created":1462610474,
-    "wof:geomhash":"1ead85e2b3ec72fc69c3d4bd74108a9f",
+    "wof:geomhash":"86c6f7c8a7fb6b86b989a53bbc251702",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":823284035,
-    "wof:lastmodified":1467083675,
+    "wof:lastmodified":1510699026,
     "wof:name":"Ross Dress for Less",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773235913,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 S Seminole Dr Chattanooga TN 37412",
+    "addr:housenumber":"1212",
+    "addr:postcode":"37412",
+    "addr:street":"S Seminole Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.266252,34.997483,-85.266252,34.997483",
     "geom:latitude":34.997483,
     "geom:longitude":-85.266252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1212 S Seminole Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85834185
     ],
+    "wof:brand_id":1125154401,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ItK7ACKR0sbta82DRTvtf_34.997483_-85.266252@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584188,
-    "wof:geomhash":"c93cb51192e4714d6b35b3f07544a3c2",
+    "wof:geomhash":"f4e7c476049021e155c6169b6be12019",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773235913,
-    "wof:lastmodified":1467082840,
+    "wof:lastmodified":1510697805,
     "wof:name":"Calvary Assembly Of God",
     "wof:parent_id":85834185,
     "wof:placetype":"venue",

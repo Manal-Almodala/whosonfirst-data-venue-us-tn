@@ -2,14 +2,20 @@
   "id": 806777661,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 S Illinois Ave Oak Ridge TN 37830",
+    "addr:housenumber":"310",
+    "addr:postcode":"37830",
+    "addr:street":"S Illinois Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.256458,36.006617,-84.256458,36.006617",
     "geom:latitude":36.006617,
     "geom:longitude":-84.256458,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 S Illinois Ave",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086483,
         85827263
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LJOzK4wrYUuyDx23gFJzF_36.006617_-84.256458@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600996,
-    "wof:geomhash":"21ccea5fad759365eb4a6c01f1f9e5d3",
+    "wof:geomhash":"4dbb4d50814f831bdaf08eaa3291cb2e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806777661,
-    "wof:lastmodified":1467083371,
+    "wof:lastmodified":1510695762,
     "wof:name":"Books-A-Million",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

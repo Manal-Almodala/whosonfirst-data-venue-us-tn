@@ -2,14 +2,20 @@
   "id": 807157939,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 Carriage House Dr Jackson TN 38305",
+    "addr:housenumber":"185",
+    "addr:postcode":"38305",
+    "addr:street":"Carriage House Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.837697,35.668512,-88.837697,35.668512",
     "geom:latitude":35.668512,
     "geom:longitude":-88.837697,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"185 Carriage House Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125155407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fVR7D774gzAYon1ywLcGG_35.668512_-88.837697@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604347,
-    "wof:geomhash":"a4909843b379c886dcf5ae2ad2b599e2",
+    "wof:geomhash":"aceee744e2ce377a6672ae9e36fa701a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807157939,
-    "wof:lastmodified":1467083476,
+    "wof:lastmodified":1510695073,
     "wof:name":"New Horizons Computer Learning",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

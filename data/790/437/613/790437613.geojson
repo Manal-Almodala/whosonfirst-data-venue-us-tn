@@ -2,14 +2,20 @@
   "id": 790437613,
   "type": "Feature",
   "properties": {
+    "addr:full":"3358 Austin Peay Hwy Memphis TN 38128",
+    "addr:housenumber":"3358",
+    "addr:postcode":"38128",
+    "addr:street":"Austin Peay Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.914904,35.215377,-89.914904,35.215377",
     "geom:latitude":35.215377,
     "geom:longitude":-89.914904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3358 Austin Peay Hwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125151655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PSFuXYUsyl49mnaNRvrBe_35.215377_-89.914904@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595825,
-    "wof:geomhash":"6e711b9d94ffbc676cde23f88abb61e9",
+    "wof:geomhash":"f3cb696e6f40464c86b57282212fbd69",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790437613,
-    "wof:lastmodified":1467083200,
+    "wof:lastmodified":1510695897,
     "wof:name":"Lenscrafters Inc",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

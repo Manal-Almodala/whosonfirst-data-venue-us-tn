@@ -2,14 +2,20 @@
   "id": 773381127,
   "type": "Feature",
   "properties": {
+    "addr:full":"6242 W Andrew Johnson Hwy Talbott TN 37877",
+    "addr:housenumber":"6242",
+    "addr:postcode":"37877",
+    "addr:street":"W Andrew Johnson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.398449,36.175385,-83.398449,36.175385",
     "geom:latitude":36.175385,
     "geom:longitude":-83.398449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6242 W Andrew Johnson Hwy",
     "sg:city":"Talbott",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086447,
         420541581
     ],
+    "wof:brand_id":1125154111,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hnIjTF4PIs1KgiWVJnSqr_36.175385_-83.398449@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585259,
-    "wof:geomhash":"14a76f448594872d4094cc1e74fe0dca",
+    "wof:geomhash":"65bda9e747a86473386ee34a11b04648",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773381127,
-    "wof:lastmodified":1467082882,
+    "wof:lastmodified":1510700130,
     "wof:name":"Clayton Homes",
     "wof:parent_id":420541581,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806919535,
   "type": "Feature",
   "properties": {
+    "addr:full":"3218 Carrington Ln Columbia TN 38401",
+    "addr:housenumber":"3218",
+    "addr:postcode":"38401",
+    "addr:street":"Carrington Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.064211,35.580147,-87.064211,35.580147",
     "geom:latitude":35.580147,
     "geom:longitude":-87.064211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3218 Carrington Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087107,
         420541937
     ],
+    "wof:brand_id":1125152527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OZ600VP62dfTbzgQF5Yv4_35.580147_-87.064211@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602170,
-    "wof:geomhash":"5d32638a7aa1109b70390cbb118f1e9b",
+    "wof:geomhash":"ba9b81dc5692d56af727b841e110d9fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806919535,
-    "wof:lastmodified":1467083410,
+    "wof:lastmodified":1510698919,
     "wof:name":"Federated Insurance Co",
     "wof:parent_id":420541937,
     "wof:placetype":"venue",

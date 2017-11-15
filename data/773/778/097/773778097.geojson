@@ -2,14 +2,20 @@
   "id": 773778097,
   "type": "Feature",
   "properties": {
+    "addr:full":"1483 Nashville Pike Gallatin TN 37066",
+    "addr:housenumber":"1483",
+    "addr:postcode":"37066",
+    "addr:street":"Nashville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.489688,36.366135,-86.489688,36.366135",
     "geom:latitude":36.366135,
     "geom:longitude":-86.489688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1483 Nashville Pike",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086357,
         85852687
     ],
+    "wof:brand_id":1125151879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l1gqSrLE1UGz6v4mZpfdK_36.366135_-86.489688@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588305,
-    "wof:geomhash":"725cc5bf65e9fbeaf09fd25488a26b71",
+    "wof:geomhash":"685286d29872d4d37020c313be21d5c0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773778097,
-    "wof:lastmodified":1467082977,
+    "wof:lastmodified":1510698680,
     "wof:name":"Cellular Sales",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",

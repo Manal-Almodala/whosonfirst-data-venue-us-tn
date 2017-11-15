@@ -2,14 +2,20 @@
   "id": 790288801,
   "type": "Feature",
   "properties": {
+    "addr:full":"768 W Elk Ave Elizabethton TN 37643",
+    "addr:housenumber":"768",
+    "addr:postcode":"37643",
+    "addr:street":"W Elk Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.23295,36.351477,-82.23295,36.351477",
     "geom:latitude":36.351477,
     "geom:longitude":-82.23295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"768 W Elk Ave",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087053,
         85816779
     ],
+    "wof:brand_id":420575313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aauxugyame47HVQ74mDvQ_36.351477_-82.232950@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594673,
-    "wof:geomhash":"c768bdf0001306de05cbe21d866ec18f",
+    "wof:geomhash":"c2a2d9ca93b51e5e1d16f4bd6a068723",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790288801,
-    "wof:lastmodified":1467083164,
+    "wof:lastmodified":1510602734,
     "wof:name":"Hibbett Sporting Goods Inc",
     "wof:parent_id":85816779,
     "wof:placetype":"venue",

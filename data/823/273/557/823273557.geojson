@@ -2,14 +2,20 @@
   "id": 823273557,
   "type": "Feature",
   "properties": {
+    "addr:full":"1716 Triangle Park Dr Maryville TN 37801",
+    "addr:housenumber":"1716",
+    "addr:postcode":"37801",
+    "addr:street":"Triangle Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.013462,35.755556,-84.013462,35.755556",
     "geom:latitude":35.755556,
     "geom:longitude":-84.013462,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1716 Triangle Park Dr",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -52,13 +58,14 @@
         102087017,
         85851593
     ],
+    "wof:brand_id":1125150951,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4sBbcz6488hmpsEzfkoncx_35.755556_-84.013462@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610055,
-    "wof:geomhash":"be6577be67243d5f85215c7ff7801a23",
+    "wof:geomhash":"3fe589e52fb5c26996793f5e00cfcaf6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":823273557,
-    "wof:lastmodified":1467083659,
+    "wof:lastmodified":1510696095,
     "wof:name":"Orkin Pest & Termite Control",
     "wof:parent_id":85851593,
     "wof:placetype":"venue",

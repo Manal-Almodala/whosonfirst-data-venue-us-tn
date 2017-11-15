@@ -2,14 +2,20 @@
   "id": 806629089,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 Melpark Dr Nashville TN 37204",
+    "addr:housenumber":"725",
+    "addr:postcode":"37204",
+    "addr:street":"Melpark Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.77688,36.127548,-86.77688,36.127548",
     "geom:latitude":36.127548,
     "geom:longitude":-86.77688,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 Melpark Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85893439
     ],
+    "wof:brand_id":1125156947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5bIiGaQMqfINSgLfdQbeLQ_36.127548_-86.776880@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599728,
-    "wof:geomhash":"50760af1ec8ec339aa02a480e9723158",
+    "wof:geomhash":"992fc1e7979789c01971a55823d06cf8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806629089,
-    "wof:lastmodified":1467083328,
+    "wof:lastmodified":1510628094,
     "wof:name":"Danka",
     "wof:parent_id":85893439,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789579481,
   "type": "Feature",
   "properties": {
+    "addr:full":"2340 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"2340",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.683869,36.307581,-86.683869,36.307581",
     "geom:latitude":36.307581,
     "geom:longitude":-86.683869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2340 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125154275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yuQP8Sdc7KA03QrTPadKl_36.307581_-86.683869@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588899,
-    "wof:geomhash":"044e7438ba4f9dfe09dc79ae47f394dc",
+    "wof:geomhash":"3ea9d37bfe6d6a690459e3cc00e1bdcd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789579481,
-    "wof:lastmodified":1467082996,
+    "wof:lastmodified":1510695875,
     "wof:name":"Alamo Rent-A-Car LLC",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

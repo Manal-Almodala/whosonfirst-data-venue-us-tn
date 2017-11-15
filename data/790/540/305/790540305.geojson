@@ -2,14 +2,20 @@
   "id": 790540305,
   "type": "Feature",
   "properties": {
+    "addr:full":"1406 Bunker Hill Rd Chattanooga TN 37421",
+    "addr:housenumber":"1406",
+    "addr:postcode":"37421",
+    "addr:street":"Bunker Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.167519,35.018999,-85.167519,35.018999",
     "geom:latitude":35.018999,
     "geom:longitude":-85.167519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1406 Bunker Hill Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         85805409
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5O6uLJvrhFYWoIfPlRl5eE_35.018999_-85.167519@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596707,
-    "wof:geomhash":"85acfe4b5e697e89d5e56addba0560c5",
+    "wof:geomhash":"60b3d244d566df9617ca4b56127a6568",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790540305,
-    "wof:lastmodified":1467083229,
+    "wof:lastmodified":1510693818,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85805409,
     "wof:placetype":"venue",

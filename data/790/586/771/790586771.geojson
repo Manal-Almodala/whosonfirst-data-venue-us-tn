@@ -2,14 +2,20 @@
   "id": 790586771,
   "type": "Feature",
   "properties": {
+    "addr:full":"190 S Willow Ave Cookeville TN 38501",
+    "addr:housenumber":"190",
+    "addr:postcode":"38501",
+    "addr:street":"S Willow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.513193,36.159172,-85.513193,36.159172",
     "geom:latitude":36.159172,
     "geom:longitude":-85.513193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"190 S Willow Ave",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086339,
         85822779
     ],
+    "wof:brand_id":1125158977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_717fBmHULQBam2qKTh8VkV_36.159172_-85.513193@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597099,
-    "wof:geomhash":"cd088d0e44c3d0bf0674518cbb4f947b",
+    "wof:geomhash":"becaddabaa007ccaf1f1244f6c99f483",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790586771,
-    "wof:lastmodified":1467083242,
+    "wof:lastmodified":1510696033,
     "wof:name":"El Tapatio",
     "wof:parent_id":85822779,
     "wof:placetype":"venue",

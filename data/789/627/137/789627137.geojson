@@ -2,14 +2,20 @@
   "id": 789627137,
   "type": "Feature",
   "properties": {
+    "addr:full":"7735 Farmington Blvd Germantown TN 38138",
+    "addr:housenumber":"7735",
+    "addr:postcode":"38138",
+    "addr:street":"Farmington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.80554,35.095335,-89.80554,35.095335",
     "geom:latitude":35.095335,
     "geom:longitude":-89.80554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7735 Farmington Blvd",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85823035
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1ZudBvvyfV6fHAD4vOZmUa_35.095335_-89.805540@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589271,
-    "wof:geomhash":"f7bb5436e0e11261779759321cd36bef",
+    "wof:geomhash":"b99a65f9b39e277882c33a123edc2e8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789627137,
-    "wof:lastmodified":1467083007,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85823035,
     "wof:placetype":"venue",

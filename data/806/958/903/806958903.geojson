@@ -2,14 +2,20 @@
   "id": 806958903,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 E Old Hickory Blvd Madison TN 37115",
+    "addr:housenumber":"500",
+    "addr:postcode":"37115",
+    "addr:street":"E Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.704364,36.262722,-86.704364,36.262722",
     "geom:latitude":36.262722,
     "geom:longitude":-86.704364,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 E Old Hickory Blvd",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85831883
     ],
+    "wof:brand_id":1125154067,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KlLl0F0pORHeoVGTV39q2_36.262722_-86.704364@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602516,
-    "wof:geomhash":"215ed1d869b9a5e32eaf3cae56eed98a",
+    "wof:geomhash":"56d9ce83394ecbac822ee0438a48c838",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806958903,
-    "wof:lastmodified":1467083420,
+    "wof:lastmodified":1510695322,
     "wof:name":"Pantry Inc",
     "wof:parent_id":85831883,
     "wof:placetype":"venue",

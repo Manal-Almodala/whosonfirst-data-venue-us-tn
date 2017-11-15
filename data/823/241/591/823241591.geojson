@@ -2,14 +2,20 @@
   "id": 823241591,
   "type": "Feature",
   "properties": {
+    "addr:full":"2228 Falcon Creek Dr Franklin TN 37067",
+    "addr:housenumber":"2228",
+    "addr:postcode":"37067",
+    "addr:street":"Falcon Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.821157,35.899475,-86.821157,35.899475",
     "geom:latitude":35.899475,
     "geom:longitude":-86.821157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2228 Falcon Creek Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[],
@@ -28,13 +34,14 @@
         85813009,
         102086337
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TQOzaIReHczZU6iJimC8E_35.899475_-86.821157@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609177,
-    "wof:geomhash":"8f4840e0f0f6afbedef0c6a775159a12",
+    "wof:geomhash":"92a837c15d8b71b5f14ba27eb86fd3a5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -45,7 +52,7 @@
         }
     ],
     "wof:id":823241591,
-    "wof:lastmodified":1467083629,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85813009,
     "wof:placetype":"venue",

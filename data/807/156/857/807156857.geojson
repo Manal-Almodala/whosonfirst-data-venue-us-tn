@@ -2,14 +2,20 @@
   "id": 807156857,
   "type": "Feature",
   "properties": {
+    "addr:full":"1013 Luttrell St Knoxville TN 37917",
+    "addr:housenumber":"1013",
+    "addr:postcode":"37917",
+    "addr:street":"Luttrell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.920756,35.9822,-83.920756,35.9822",
     "geom:latitude":35.9822,
     "geom:longitude":-83.920756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1013 Luttrell St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086455,
         85878559
     ],
+    "wof:brand_id":1125151377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12kFUdcfPmcHxSsLWtWyD4_35.982200_-83.920756@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604338,
-    "wof:geomhash":"b956b1a35b2442c69f33fca7729e6a5c",
+    "wof:geomhash":"6460a5b78592b55fdab4cdc52eb8931c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807156857,
-    "wof:lastmodified":1467083475,
+    "wof:lastmodified":1510695795,
     "wof:name":"National Property Inspections",
     "wof:parent_id":85878559,
     "wof:placetype":"venue",

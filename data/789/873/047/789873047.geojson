@@ -2,9 +2,14 @@
   "id": 789873047,
   "type": "Feature",
   "properties": {
+    "addr:full":"1771 Charity Dr Brentwood TN 37027",
+    "addr:housenumber":"1771",
+    "addr:postcode":"37027",
+    "addr:street":"Charity Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.759148,35.951595,-86.759148,35.951595",
     "geom:latitude":35.951595,
     "geom:longitude":-86.759148,
@@ -24,7 +29,14 @@
     "sg:postcode":"37027",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101723097,
+        102086337,
+        85893405
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UVFNV9H4P1A8wz6YH4Yse_35.951595_-86.759148@1294204733"
@@ -32,11 +44,21 @@
     "wof:country":"US",
     "wof:created":1462591210,
     "wof:geomhash":"fa534508addcf4a9646082e2a3b0dbd6",
-    "wof:hierarchy":[],
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086337,
+            "locality_id":101723097,
+            "neighbourhood_id":85893405,
+            "region_id":85688701,
+            "venue_id":789873047
+        }
+    ],
     "wof:id":789873047,
-    "wof:lastmodified":1467083066,
+    "wof:lastmodified":1491905706,
     "wof:name":"Giuliano Recruiting Group LLC",
-    "wof:parent_id":-1,
+    "wof:parent_id":85893405,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

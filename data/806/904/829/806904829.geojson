@@ -2,14 +2,20 @@
   "id": 806904829,
   "type": "Feature",
   "properties": {
+    "addr:full":"436 Main St Franklin TN 37064",
+    "addr:housenumber":"436",
+    "addr:postcode":"37064",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.870808,35.924395,-86.870808,35.924395",
     "geom:latitude":35.924395,
     "geom:longitude":-86.870808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"436 Main St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85845733
     ],
+    "wof:brand_id":420575423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z9BpODkGaetrfgb3CF9Qx_35.924395_-86.870808@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602045,
-    "wof:geomhash":"42b16d9d480f0a9bb919d7f2cd6c6d3c",
+    "wof:geomhash":"6b2632ca76f491459a88b2ac08347411",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806904829,
-    "wof:lastmodified":1467083406,
+    "wof:lastmodified":1510602382,
     "wof:name":"PIP Printing",
     "wof:parent_id":85845733,
     "wof:placetype":"venue",

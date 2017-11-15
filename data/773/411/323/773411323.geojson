@@ -2,14 +2,20 @@
   "id": 773411323,
   "type": "Feature",
   "properties": {
+    "addr:full":"7215 US Hwy 64 Bartlett TN 38133",
+    "addr:housenumber":"7215",
+    "addr:postcode":"38133",
+    "addr:street":"Us Hwy 64",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.823486,35.203991,-89.823486,35.203991",
     "geom:latitude":35.203991,
     "geom:longitude":-89.823486,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7215 US Hwy 64",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125155409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S3tsEYKoHVBkyJEQpOCrO_35.203991_-89.823486@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585498,
-    "wof:geomhash":"f1faed25f89db04d293eacf2ee26c4c9",
+    "wof:geomhash":"51c2e65992f8df4916979a8855498bc5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773411323,
-    "wof:lastmodified":1467082889,
+    "wof:lastmodified":1510695076,
     "wof:name":"Palm Beach Tan",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

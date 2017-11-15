@@ -2,14 +2,20 @@
   "id": 806704651,
   "type": "Feature",
   "properties": {
+    "addr:full":"133 E Lake Ct Franklin TN 37067",
+    "addr:housenumber":"133",
+    "addr:postcode":"37067",
+    "addr:street":"E Lake Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.830205,35.926233,-86.830205,35.926233",
     "geom:latitude":35.926233,
     "geom:longitude":-86.830205,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"133 E Lake Ct",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086337,
         85830431
     ],
+    "wof:brand_id":1125152103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43Sfl3VjAZRSaZLnWGUAs3_35.926233_-86.830205@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600374,
-    "wof:geomhash":"db0116df3dd9281774cf9f160a85e98a",
+    "wof:geomhash":"e3fa2a64fb2ba76891c9a07547bf84eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806704651,
-    "wof:lastmodified":1467083349,
+    "wof:lastmodified":1510694960,
     "wof:name":"Planet Beach",
     "wof:parent_id":85830431,
     "wof:placetype":"venue",

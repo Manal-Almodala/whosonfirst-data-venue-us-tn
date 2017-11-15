@@ -2,14 +2,20 @@
   "id": 773599123,
   "type": "Feature",
   "properties": {
+    "addr:full":"4177 Gann Store Rd Hixson TN 37343",
+    "addr:housenumber":"4177",
+    "addr:postcode":"37343",
+    "addr:street":"Gann Store Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.199472,35.121362,-85.199472,35.121362",
     "geom:latitude":35.121362,
     "geom:longitude":-85.199472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4177 Gann Store Rd",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         420541701
     ],
+    "wof:brand_id":1125152735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6o28Ai5mKTlEjvnhTKl7DJ_35.121362_-85.199472@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586937,
-    "wof:geomhash":"e1af9f96b310ded5bd4528c85a009e47",
+    "wof:geomhash":"5bc3a71c9e56ee7182e4ca8fc5f68ac3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773599123,
-    "wof:lastmodified":1467082934,
+    "wof:lastmodified":1510696653,
     "wof:name":"Property Damage Appraisers Inc",
     "wof:parent_id":420541701,
     "wof:placetype":"venue",

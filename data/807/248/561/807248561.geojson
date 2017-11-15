@@ -2,14 +2,20 @@
   "id": 807248561,
   "type": "Feature",
   "properties": {
+    "addr:full":"1238 Hillsboro Blvd Manchester TN 37355",
+    "addr:housenumber":"1238",
+    "addr:postcode":"37355",
+    "addr:street":"Hillsboro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.076049,35.471858,-86.076049,35.471858",
     "geom:latitude":35.471858,
     "geom:longitude":-86.076049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1238 Hillsboro Blvd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087095,
         85821997
     ],
+    "wof:brand_id":1125155923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4b7suHZi6WTdanX7ywGcc6_35.471858_-86.076049@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605310,
-    "wof:geomhash":"7a0326e4ee4ccbc70aa21bbe7826b9bf",
+    "wof:geomhash":"1e35e6f5fffd0841ceaea528800915b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807248561,
-    "wof:lastmodified":1467083506,
+    "wof:lastmodified":1510697679,
     "wof:name":"Factory Connection",
     "wof:parent_id":85821997,
     "wof:placetype":"venue",

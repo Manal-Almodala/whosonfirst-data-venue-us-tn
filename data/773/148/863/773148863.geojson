@@ -2,14 +2,20 @@
   "id": 773148863,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 W Broad St Cookeville TN 38501",
+    "addr:housenumber":"38",
+    "addr:postcode":"38501",
+    "addr:street":"W Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.507539,36.163945,-85.507539,36.163945",
     "geom:latitude":36.163945,
     "geom:longitude":-85.507539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"38 W Broad St",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086339,
         85852063
     ],
+    "wof:brand_id":1125154289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04T9etzghjNDGi6fFg68Bn_36.163945_-85.507539@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583496,
-    "wof:geomhash":"5a8fdaac11b3f69d43221407332a0c75",
+    "wof:geomhash":"062575c61d1a5291d1f6b9f039f16253",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773148863,
-    "wof:lastmodified":1467082815,
+    "wof:lastmodified":1510693860,
     "wof:name":"Charter Cmmnctons Holdings LLC",
     "wof:parent_id":85852063,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773151765,
   "type": "Feature",
   "properties": {
+    "addr:full":"221 Alhambra Rd Oak Ridge TN 37830",
+    "addr:housenumber":"221",
+    "addr:postcode":"37830",
+    "addr:street":"Alhambra Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.221847,36.046156,-84.221847,36.046156",
     "geom:latitude":36.046156,
     "geom:longitude":-84.221847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"221 Alhambra Rd",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086483,
         85818065
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4g6MGWljlhYTSOTv29kRhA_36.046156_-84.221847@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583536,
-    "wof:geomhash":"0c87ab4bad44e20b8cf763d6de606554",
+    "wof:geomhash":"4bea6198e92b2540a893c9a8eceb8ad2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773151765,
-    "wof:lastmodified":1467082815,
+    "wof:lastmodified":1510693998,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85818065,
     "wof:placetype":"venue",

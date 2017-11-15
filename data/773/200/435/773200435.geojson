@@ -2,14 +2,20 @@
   "id": 773200435,
   "type": "Feature",
   "properties": {
+    "addr:full":"2905 N Mount Juliet Rd Mt Juliet TN 37122",
+    "addr:housenumber":"2905",
+    "addr:postcode":"37122",
+    "addr:street":"N Mount Juliet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.516121,36.212668,-86.516121,36.212668",
     "geom:latitude":36.212668,
     "geom:longitude":-86.516121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2905 N Mount Juliet Rd",
     "sg:city":"Mt Juliet",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087205,
         85805387
     ],
+    "wof:brand_id":420575759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eRfkhStydioyddsOvHiqW_36.212668_-86.516121@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583934,
-    "wof:geomhash":"e98722d44f9cdea257024e0de9d5eac5",
+    "wof:geomhash":"b86568f53e058609bd4d84da2f22895b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773200435,
-    "wof:lastmodified":1467082828,
+    "wof:lastmodified":1510602450,
     "wof:name":"Grace United Methodist Church",
     "wof:parent_id":85805387,
     "wof:placetype":"venue",

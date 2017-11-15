@@ -2,14 +2,20 @@
   "id": 790003177,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 Chapman Hwy Knoxville TN 37920",
+    "addr:housenumber":"3120",
+    "addr:postcode":"37920",
+    "addr:street":"Chapman Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.911623,35.944822,-83.911623,35.944822",
     "geom:latitude":35.944822,
     "geom:longitude":-83.911623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3120 Chapman Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85878565
     ],
+    "wof:brand_id":1125152765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4t0c2VemiTaXe9AmrWiLWa_35.944822_-83.911623@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592351,
-    "wof:geomhash":"8271f4abb153be4058d5599dd5377a10",
+    "wof:geomhash":"1ac8348b326a8a8f63cc63923a7ccb62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790003177,
-    "wof:lastmodified":1467083097,
+    "wof:lastmodified":1510697159,
     "wof:name":"BP Oil Co",
     "wof:parent_id":85878565,
     "wof:placetype":"venue",

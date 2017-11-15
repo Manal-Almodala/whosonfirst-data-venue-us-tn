@@ -2,14 +2,20 @@
   "id": 823285841,
   "type": "Feature",
   "properties": {
+    "addr:full":"580 S Mendenhall Rd Memphis TN 38117",
+    "addr:housenumber":"580",
+    "addr:postcode":"38117",
+    "addr:street":"S Mendenhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.895897,35.115206,-89.895897,35.115206",
     "geom:latitude":35.115206,
     "geom:longitude":-89.895897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"580 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -55,13 +61,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05IYd2uqMUbyEXcPBhVRf6_35.115206_-89.895897@1303262742"
     },
     "wof:country":"US",
     "wof:created":1462610543,
-    "wof:geomhash":"1ae740e8453c2e840900f0da80760aa7",
+    "wof:geomhash":"a6724e556dc8c7950d782ba79ed8585b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,7 +81,7 @@
         }
     ],
     "wof:id":823285841,
-    "wof:lastmodified":1467083677,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

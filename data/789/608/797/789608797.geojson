@@ -2,14 +2,20 @@
   "id": 789608797,
   "type": "Feature",
   "properties": {
+    "addr:full":"9130 Sawyer Brown Rd Nashville TN 37221",
+    "addr:housenumber":"9130",
+    "addr:postcode":"37221",
+    "addr:street":"Sawyer Brown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.944299,36.063156,-86.944299,36.063156",
     "geom:latitude":36.063156,
     "geom:longitude":-86.944299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9130 Sawyer Brown Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85854361
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3p3VGoLzS8JCvLLrH8gdTR_36.063156_-86.944299@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589130,
-    "wof:geomhash":"3f5ada1dbd59a39c39a7c342c542a5c8",
+    "wof:geomhash":"896fd04b969ee1b530bb1d32a84aa040",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789608797,
-    "wof:lastmodified":1467083002,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85854361,
     "wof:placetype":"venue",

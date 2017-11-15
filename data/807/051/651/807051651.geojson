@@ -2,14 +2,20 @@
   "id": 807051651,
   "type": "Feature",
   "properties": {
+    "addr:full":"2105 Test Dr Chattanooga TN 37421",
+    "addr:housenumber":"2105",
+    "addr:postcode":"37421",
+    "addr:street":"Test Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.189942,35.060546,-85.189942,35.060546",
     "geom:latitude":35.060546,
     "geom:longitude":-85.189942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2105 Test Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541645
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JvmBOjiarelimJtXJwb6d_35.060546_-85.189942@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603300,
-    "wof:geomhash":"b5f042288ccfdef9658f3189e5d3753d",
+    "wof:geomhash":"7f9633b746df726306ae8cb419b4b229",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807051651,
-    "wof:lastmodified":1467083446,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":420541645,
     "wof:placetype":"venue",

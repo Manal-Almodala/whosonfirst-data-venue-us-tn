@@ -2,14 +2,20 @@
   "id": 790139199,
   "type": "Feature",
   "properties": {
+    "addr:full":"6830 Lee Pkwy W Chattanooga TN 37421",
+    "addr:housenumber":"6830",
+    "addr:postcode":"37421",
+    "addr:street":"Lee Pkwy W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.162684,35.047579,-85.162684,35.047579",
     "geom:latitude":35.047579,
     "geom:longitude":-85.162684,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6830 Lee Pkwy W",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087185,
         85824831
     ],
+    "wof:brand_id":1125154889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0g8MUU8O8IDI6Hl06DGoeh_35.047579_-85.162684@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593425,
-    "wof:geomhash":"ff964f4389d6de179babe903a4147620",
+    "wof:geomhash":"e65c6ad8499bac26c52e2611b13f7951",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790139199,
-    "wof:lastmodified":1467083129,
+    "wof:lastmodified":1510697719,
     "wof:name":"International Union-Oper Engrs",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",

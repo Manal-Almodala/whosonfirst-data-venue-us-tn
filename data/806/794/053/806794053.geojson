@@ -2,14 +2,20 @@
   "id": 806794053,
   "type": "Feature",
   "properties": {
+    "addr:full":"410 W Gaines St Lawrenceburg TN 38464",
+    "addr:housenumber":"410",
+    "addr:postcode":"38464",
+    "addr:street":"W Gaines St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.340407,35.243776,-87.340407,35.243776",
     "geom:latitude":35.243776,
     "geom:longitude":-87.340407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"410 W Gaines St",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086349,
         85805627
     ],
+    "wof:brand_id":1125151039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wceExWkvqn8J6JGc1AQnf_35.243776_-87.340407@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601135,
-    "wof:geomhash":"4613099827e8e146f99dfd7b185dbed5",
+    "wof:geomhash":"595dcb694c734499033e563ff6bab0db",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806794053,
-    "wof:lastmodified":1467083375,
+    "wof:lastmodified":1510697385,
     "wof:name":"Human Service Dept",
     "wof:parent_id":85805627,
     "wof:placetype":"venue",

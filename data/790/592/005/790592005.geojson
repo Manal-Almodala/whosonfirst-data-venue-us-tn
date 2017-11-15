@@ -2,14 +2,20 @@
   "id": 790592005,
   "type": "Feature",
   "properties": {
+    "addr:full":"9942 Maupin Rd Brentwood TN 37027",
+    "addr:housenumber":"9942",
+    "addr:postcode":"37027",
+    "addr:street":"Maupin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.698569,35.982842,-86.698569,35.982842",
     "geom:latitude":35.982842,
     "geom:longitude":-86.698569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9942 Maupin Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85859149
     ],
+    "wof:brand_id":1125151841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LBUE0CUvwNegHsHwwErJp_35.982842_-86.698569@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597144,
-    "wof:geomhash":"bf2272e1e9b1f6889a00c19f2643f3bf",
+    "wof:geomhash":"3b88bf59d05442e20b63a2a9289686a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790592005,
-    "wof:lastmodified":1467083243,
+    "wof:lastmodified":1510697642,
     "wof:name":"Floor Coverings International",
     "wof:parent_id":85859149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806932749,
   "type": "Feature",
   "properties": {
+    "addr:full":"9720 Parkside Dr Knoxville TN 37922",
+    "addr:housenumber":"9720",
+    "addr:postcode":"37922",
+    "addr:street":"Parkside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.110006,35.911388,-84.110006,35.911388",
     "geom:latitude":35.911388,
     "geom:longitude":-84.110006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9720 Parkside Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":1125155307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JPV99DilWT2E4vjTAU2WO_35.911388_-84.110006@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602296,
-    "wof:geomhash":"3905050c1ce86a8e25eacea8d98721ea",
+    "wof:geomhash":"38f5871832c66efcce0e15755f19b839",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":806932749,
-    "wof:lastmodified":1467083413,
+    "wof:lastmodified":1510699917,
     "wof:name":"Shoney's",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

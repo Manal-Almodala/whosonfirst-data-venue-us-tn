@@ -2,14 +2,20 @@
   "id": 806949503,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 W Poplar Ave Collierville TN 38017",
+    "addr:housenumber":"1500",
+    "addr:postcode":"38017",
+    "addr:street":"W Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.712136,35.047246,-89.712136,35.047246",
     "geom:latitude":35.047246,
     "geom:longitude":-89.712136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 W Poplar Ave",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2czZ9j5cuTvDvrCBbYuUGX_35.047246_-89.712136@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602434,
-    "wof:geomhash":"4f9bf468f5702e9f7c3e7c4e9a4738ce",
+    "wof:geomhash":"7ca53fd1b7a36440510e8e3660b0098e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806949503,
-    "wof:lastmodified":1467083418,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

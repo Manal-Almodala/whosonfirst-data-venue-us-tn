@@ -2,6 +2,10 @@
   "id": 789889733,
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 Crowe Dr Nashville TN 37218",
+    "addr:housenumber":"3210",
+    "addr:postcode":"37218",
+    "addr:street":"Crowe Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":789889733,
-    "wof:lastmodified":1467083070,
+    "wof:lastmodified":1472645253,
     "wof:name":"DMP",
     "wof:parent_id":85806715,
     "wof:placetype":"venue",

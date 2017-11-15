@@ -2,14 +2,20 @@
   "id": 807377819,
   "type": "Feature",
   "properties": {
+    "addr:full":"2350 S Lee Hwy Cleveland TN 37311",
+    "addr:housenumber":"2350",
+    "addr:postcode":"37311",
+    "addr:street":"S Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.910358,35.151106,-84.910358,35.151106",
     "geom:latitude":35.151106,
     "geom:longitude":-84.910358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2350 S Lee Hwy",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087043,
         85849565
     ],
+    "wof:brand_id":1125152853,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qyVQV5rm5wNusklLQvh5w_35.151106_-84.910358@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606894,
-    "wof:geomhash":"7fe56b3d0f69d6e930c239cd96a0ee0b",
+    "wof:geomhash":"695dc9c3bcd1f464d7858ebe6816e4f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807377819,
-    "wof:lastmodified":1467083557,
+    "wof:lastmodified":1510613159,
     "wof:name":"CMH",
     "wof:parent_id":85849565,
     "wof:placetype":"venue",

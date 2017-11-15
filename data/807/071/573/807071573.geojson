@@ -2,14 +2,20 @@
   "id": 807071573,
   "type": "Feature",
   "properties": {
+    "addr:full":"709 Franklin St Clarksville TN 37040",
+    "addr:housenumber":"709",
+    "addr:postcode":"37040",
+    "addr:street":"Franklin St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.34903,36.529728,-87.34903,36.529728",
     "geom:latitude":36.529728,
     "geom:longitude":-87.34903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"709 Franklin St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         85857915
     ],
+    "wof:brand_id":420574609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JMShQPAJHovRCgeVsLMmE_36.529728_-87.349030@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603458,
-    "wof:geomhash":"e835413dd75f817a88c5e939cd18d279",
+    "wof:geomhash":"e2e104c734d145dd2f359f2aedaf1823",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807071573,
-    "wof:lastmodified":1467083452,
+    "wof:lastmodified":1510604113,
     "wof:name":"Catholic Charities",
     "wof:parent_id":85857915,
     "wof:placetype":"venue",

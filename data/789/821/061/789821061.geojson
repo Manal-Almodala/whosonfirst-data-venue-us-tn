@@ -2,14 +2,20 @@
   "id": 789821061,
   "type": "Feature",
   "properties": {
+    "addr:full":"2267 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"2267",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.68693,36.306143,-86.68693,36.306143",
     "geom:latitude":36.306143,
     "geom:longitude":-86.68693,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2267 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125152141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PBB7OgFHaRf5Ckl5NXfaw_36.306143_-86.686930@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590796,
-    "wof:geomhash":"2a503a74afc8fd6eafbd74dc3af49246",
+    "wof:geomhash":"93dd2087232df821a6ad957d192243b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789821061,
-    "wof:lastmodified":1467083053,
+    "wof:lastmodified":1510693738,
     "wof:name":"Cookie Bouquet",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

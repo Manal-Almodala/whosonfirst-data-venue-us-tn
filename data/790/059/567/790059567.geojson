@@ -2,14 +2,20 @@
   "id": 790059567,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 S Main St Memphis TN 38103",
+    "addr:housenumber":"421",
+    "addr:postcode":"38103",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.058656,35.135113,-90.058656,35.135113",
     "geom:latitude":35.135113,
     "geom:longitude":-90.058656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"421 S Main St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85893431
     ],
+    "wof:brand_id":1125150789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6G50LPXFricCUpIPlNSTYi_35.135113_-90.058656@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592818,
-    "wof:geomhash":"5a6692fc2c10b0b557cb1d4897f722b4",
+    "wof:geomhash":"2fd77b2f176b0f284c7e5e1c1bd26700",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790059567,
-    "wof:lastmodified":1467083110,
+    "wof:lastmodified":1510698804,
     "wof:name":"Shurgard Storage Ctr",
     "wof:parent_id":85893431,
     "wof:placetype":"venue",

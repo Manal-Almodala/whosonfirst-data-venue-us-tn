@@ -2,14 +2,20 @@
   "id": 789897595,
   "type": "Feature",
   "properties": {
+    "addr:full":"8006 E Brainerd Rd Chattanooga TN 37421",
+    "addr:housenumber":"8006",
+    "addr:postcode":"37421",
+    "addr:street":"E Brainerd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.150279,35.00418,-85.150279,35.00418",
     "geom:latitude":35.00418,
     "geom:longitude":-85.150279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8006 E Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85818115
     ],
+    "wof:brand_id":1125152655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74Yb4GCC16F3WynwxxAOfy_35.004180_-85.150279@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591424,
-    "wof:geomhash":"85f83ac3a286782f1cc5b411fd4dfc17",
+    "wof:geomhash":"3dd61df5ec7753ee26713f442a8abca6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789897595,
-    "wof:lastmodified":1467083072,
+    "wof:lastmodified":1510698890,
     "wof:name":"Great Harvest Bread Co",
     "wof:parent_id":85818115,
     "wof:placetype":"venue",

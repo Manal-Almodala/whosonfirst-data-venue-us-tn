@@ -2,9 +2,14 @@
   "id": 773347299,
   "type": "Feature",
   "properties": {
+    "addr:full":"1308 Lewisburg Pike Franklin TN 37064",
+    "addr:housenumber":"1308",
+    "addr:postcode":"37064",
+    "addr:street":"Lewisburg Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.84606,35.865179,-86.84606,35.865179",
     "geom:latitude":35.865179,
     "geom:longitude":-86.84606,
@@ -28,12 +33,7 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2012R6WMG5rucq6hGzoZ7R_35.865179_-86.846060@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462585026,
     "wof:geomhash":"4bea7aaa06f58e21da294dace2ac1e43",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773347299
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773347299,
-    "wof:lastmodified":1467082874,
+    "wof:lastmodified":1491930834,
     "wof:name":"Nestledown Farms Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806562287,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Old Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"400",
+    "addr:postcode":"37064",
+    "addr:street":"Old Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.835415,35.868953,-86.835415,35.868953",
     "geom:latitude":35.868953,
     "geom:longitude":-86.835415,
@@ -27,12 +32,7 @@
         "ornamental"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Lvkc2vjVDocAjiDtGFH2G_35.868953_-86.835415@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462599145,
     "wof:geomhash":"cb64d9c2143bd2b529cdc7f911c546a7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":806562287
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806562287,
-    "wof:lastmodified":1467083309,
+    "wof:lastmodified":1491930841,
     "wof:name":"Green Valley Gardens",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

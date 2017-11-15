@@ -2,14 +2,20 @@
   "id": 789963207,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Gallatin Ave Nashville TN 37206",
+    "addr:housenumber":"311",
+    "addr:postcode":"37206",
+    "addr:street":"Gallatin Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.750296,36.179217,-86.750296,36.179217",
     "geom:latitude":36.179217,
     "geom:longitude":-86.750296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Gallatin Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85816591
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0rjVCRPVD4d1lgzmvtypom_36.179217_-86.750296@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592024,
-    "wof:geomhash":"628017f1f58e123c770c2074790f7edc",
+    "wof:geomhash":"f24fbedad903ab3de61af94a50c71d37",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789963207,
-    "wof:lastmodified":1467083087,
+    "wof:lastmodified":1510697539,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

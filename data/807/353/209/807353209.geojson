@@ -2,9 +2,14 @@
   "id": 807353209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 Cedarmont Dr Franklin TN 37067",
+    "addr:housenumber":"2010",
+    "addr:postcode":"37067",
+    "addr:street":"Cedarmont Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801436,35.899072,-86.801436,35.899072",
     "geom:latitude":35.899072,
     "geom:longitude":-86.801436,
@@ -24,12 +29,7 @@
     "sg:postcode":"37067",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58RTTqOSAwy2Iok8FkL2Q2_35.899072_-86.801436@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462606544,
     "wof:geomhash":"9070fed54d5d7d32b0d6bfdeab837d34",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":807353209
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807353209,
-    "wof:lastmodified":1467083546,
+    "wof:lastmodified":1491924953,
     "wof:name":"Sledge Insurance",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

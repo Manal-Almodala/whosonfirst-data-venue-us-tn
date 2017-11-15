@@ -2,14 +2,20 @@
   "id": 823138651,
   "type": "Feature",
   "properties": {
+    "addr:full":"2001 E 23rd St Chattanooga TN 37408",
+    "addr:housenumber":"2001",
+    "addr:postcode":"37408",
+    "addr:street":"E 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.280813,35.018357,-85.280813,35.018357",
     "geom:latitude":35.018357,
     "geom:longitude":-85.280813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2001 E 23rd St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85838687
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zrlCpDTMsdqg5PHdXuaG9_35.018357_-85.280813@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607479,
-    "wof:geomhash":"3511b2a3fd7a2b1c5250d0e3bd8fce1f",
+    "wof:geomhash":"add79480da6be94aded86684d82e371d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823138651,
-    "wof:lastmodified":1467083571,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85838687,
     "wof:placetype":"venue",

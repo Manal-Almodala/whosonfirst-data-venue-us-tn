@@ -2,14 +2,20 @@
   "id": 403896695,
   "type": "Feature",
   "properties": {
+    "addr:full":"1241 Volunteer Pkwy Bristol TN 37620",
+    "addr:housenumber":"1241",
+    "addr:postcode":"37620",
+    "addr:street":"Volunteer Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.202225,36.566136,-82.202225,36.566136",
     "geom:latitude":36.566136,
     "geom:longitude":-82.202225,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1241 Volunteer Pkwy",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         85807313,
         85815249
     ],
+    "wof:brand_id":1125151127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LozAPdBxI52KpqHd2CQql_36.566136_-82.202225@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"aff7d4638da149c48f8f5d26fa238b4c",
+    "wof:geomhash":"ea1f829a4639539ff0d782b1511a57e9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":403896695,
-    "wof:lastmodified":1467082782,
+    "wof:lastmodified":1510696833,
     "wof:name":"UBS Financial Services Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

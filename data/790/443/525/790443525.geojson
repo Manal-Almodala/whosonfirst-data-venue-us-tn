@@ -2,14 +2,20 @@
   "id": 790443525,
   "type": "Feature",
   "properties": {
+    "addr:full":"6254 US Hwy 411 Benton TN 37307",
+    "addr:housenumber":"6254",
+    "addr:postcode":"37307",
+    "addr:street":"Us Hwy 411",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.652343,35.173785,-84.652343,35.173785",
     "geom:latitude":35.173785,
     "geom:longitude":-84.652343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6254 US Hwy 411",
     "sg:city":"Benton",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083599,
         420517825
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2RDudP6dLoZ1euscYHJV42_35.173785_-84.652343@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595871,
-    "wof:geomhash":"05fd926cb98781955c9d78e72bf0dcef",
+    "wof:geomhash":"3cd2b75c82be27d54336297344fc4145",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790443525,
-    "wof:lastmodified":1467083202,
+    "wof:lastmodified":1510602936,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

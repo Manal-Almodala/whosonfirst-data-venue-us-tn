@@ -2,14 +2,20 @@
   "id": 790526257,
   "type": "Feature",
   "properties": {
+    "addr:full":"4011 Rossville Blvd Chattanooga TN 37407",
+    "addr:housenumber":"4011",
+    "addr:postcode":"37407",
+    "addr:street":"Rossville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.291278,34.996523,-85.291278,34.996523",
     "geom:latitude":34.996523,
     "geom:longitude":-85.291278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4011 Rossville Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         420541639
     ],
+    "wof:brand_id":1125157805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N5nTeoVoTaJbvaSpzPvgE_34.996523_-85.291278@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596592,
-    "wof:geomhash":"8c59130749efce71f758789504bc7681",
+    "wof:geomhash":"0c05ffa62553a1d68a137b2fab600410",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790526257,
-    "wof:lastmodified":1467083225,
+    "wof:lastmodified":1510694856,
     "wof:name":"Church's Fried Chicken",
     "wof:parent_id":420541639,
     "wof:placetype":"venue",

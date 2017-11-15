@@ -2,14 +2,20 @@
   "id": 773212909,
   "type": "Feature",
   "properties": {
+    "addr:full":"6238 Lee Hwy Chattanooga TN 37421",
+    "addr:housenumber":"6238",
+    "addr:postcode":"37421",
+    "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.185055,35.030554,-85.185055,35.030554",
     "geom:latitude":35.030554,
     "geom:longitude":-85.185055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6238 Lee Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85817719
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_654TRjlBZx72KKxZ1JSbqH_35.030554_-85.185055@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584017,
-    "wof:geomhash":"b1d61a47989f640817f4bc80d646db92",
+    "wof:geomhash":"efd453fcff532f0b520ff0397bedae04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773212909,
-    "wof:lastmodified":1467082832,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85817719,
     "wof:placetype":"venue",

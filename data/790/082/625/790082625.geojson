@@ -2,14 +2,20 @@
   "id": 790082625,
   "type": "Feature",
   "properties": {
+    "addr:full":"6109 Lee Hwy Chattanooga TN 37421",
+    "addr:housenumber":"6109",
+    "addr:postcode":"37421",
+    "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.191216,35.026963,-85.191216,35.026963",
     "geom:latitude":35.026963,
     "geom:longitude":-85.191216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6109 Lee Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85851775,
         85817719
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IDJksp0gpnoScKnMmuCTe_35.026963_-85.191216@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592988,
-    "wof:geomhash":"58d0217ec021d395c4181838f5bc5072",
+    "wof:geomhash":"405ad616819d8341ed34188ff79c0a59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":790082625,
-    "wof:lastmodified":1467083116,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

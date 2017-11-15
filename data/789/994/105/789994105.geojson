@@ -2,9 +2,14 @@
   "id": 789994105,
   "type": "Feature",
   "properties": {
+    "addr:full":"4564 Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"4564",
+    "addr:postcode":"37064",
+    "addr:street":"Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797772,35.83069,-86.797772,35.83069",
     "geom:latitude":35.83069,
     "geom:longitude":-86.797772,
@@ -27,12 +32,7 @@
         "social"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3n6VX4hR3X90GsCJvrPCed_35.830690_-86.797772@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462592281,
     "wof:geomhash":"22be9251571e92cbe009c6b9071f7435",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789994105
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789994105,
-    "wof:lastmodified":1467083095,
+    "wof:lastmodified":1491930832,
     "wof:name":"Nehemiah Foundation Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790214405,
   "type": "Feature",
   "properties": {
+    "addr:full":"926 Columbia Ave Franklin TN 37064",
+    "addr:housenumber":"926",
+    "addr:postcode":"37064",
+    "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.872749,35.919483,-86.872749,35.919483",
     "geom:latitude":35.919483,
     "geom:longitude":-86.872749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"926 Columbia Ave",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086337,
         85845733
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_382BWbK4VY26RkE7TxpIA0_35.919483_-86.872749@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594060,
-    "wof:geomhash":"84e215e5556a9953095e6aafa5ecf222",
+    "wof:geomhash":"044e6c8d1c16def986be3e0d80d201c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":790214405,
-    "wof:lastmodified":1467083147,
+    "wof:lastmodified":1510693723,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85845733,
     "wof:placetype":"venue",

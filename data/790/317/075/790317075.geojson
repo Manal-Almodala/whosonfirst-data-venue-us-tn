@@ -2,14 +2,20 @@
   "id": 790317075,
   "type": "Feature",
   "properties": {
+    "addr:full":"3865 Beaver Rd Munford TN 38058",
+    "addr:housenumber":"3865",
+    "addr:postcode":"38058",
+    "addr:street":"Beaver Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.800597,35.500249,-89.800597,35.500249",
     "geom:latitude":35.500249,
     "geom:longitude":-89.800597,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3865 Beaver Rd",
     "sg:city":"Munford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125153287,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7LvxhkxXwuq6KDCkfVs2lP_35.500249_-89.800597@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594896,
-    "wof:geomhash":"b7f14015f32d5eee634c563b1d42c93e",
+    "wof:geomhash":"da826511fe4ced03790a79d86e687105",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790317075,
-    "wof:lastmodified":1467083171,
+    "wof:lastmodified":1510697655,
     "wof:name":"Crossroads Community Church",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

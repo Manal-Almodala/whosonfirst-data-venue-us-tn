@@ -2,6 +2,10 @@
   "id": 789683105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1985 Thomas Rd Memphis TN 38134",
+    "addr:housenumber":"1985",
+    "addr:postcode":"38134",
+    "addr:street":"Thomas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":789683105,
-    "wof:lastmodified":1467083020,
+    "wof:lastmodified":1472645156,
     "wof:name":"Performance Contracting Inc",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

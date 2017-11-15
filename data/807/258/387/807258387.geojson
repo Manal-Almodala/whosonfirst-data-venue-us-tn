@@ -2,14 +2,20 @@
   "id": 807258387,
   "type": "Feature",
   "properties": {
+    "addr:full":"4823 State Hwy 58 Chattanooga TN 37416",
+    "addr:housenumber":"4823",
+    "addr:postcode":"37416",
+    "addr:street":"State Hwy 58",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.182611,35.092168,-85.182611,35.092168",
     "geom:latitude":35.092168,
     "geom:longitude":-85.182611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4823 State Hwy 58",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85831217
     ],
+    "wof:brand_id":1125157841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EBYGa1DjnD2AATn3b353b_35.092168_-85.182611@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605415,
-    "wof:geomhash":"0a7662d1a0ad5c59d89f206bed0a1f70",
+    "wof:geomhash":"150a8cc3fe1ff4f362c6fd37fa68fb31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807258387,
-    "wof:lastmodified":1467083509,
+    "wof:lastmodified":1510699507,
     "wof:name":"El Rodeo",
     "wof:parent_id":85831217,
     "wof:placetype":"venue",

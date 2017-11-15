@@ -2,14 +2,20 @@
   "id": 807001915,
   "type": "Feature",
   "properties": {
+    "addr:full":"6500 Winchester Rd Memphis TN 38115",
+    "addr:housenumber":"6500",
+    "addr:postcode":"38115",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.847774,35.049666,-89.847774,35.049666",
     "geom:latitude":35.049666,
     "geom:longitude":-89.847774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6500 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":1125152327,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0R0xDZA5t3br4gxg5D3BYT_35.049666_-89.847774@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602875,
-    "wof:geomhash":"37b66e52abb1795f5cea7c8787596b02",
+    "wof:geomhash":"227905fa5aa84eacee32639160d0a6ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807001915,
-    "wof:lastmodified":1467083432,
+    "wof:lastmodified":1510604947,
     "wof:name":"Beautiful Nails",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

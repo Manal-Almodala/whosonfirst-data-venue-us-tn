@@ -2,14 +2,20 @@
   "id": 806941177,
   "type": "Feature",
   "properties": {
+    "addr:full":"5014 Hixson Pike Hixson TN 37343",
+    "addr:housenumber":"5014",
+    "addr:postcode":"37343",
+    "addr:street":"Hixson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.242345,35.133201,-85.242345,35.133201",
     "geom:latitude":35.133201,
     "geom:longitude":-85.242345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5014 Hixson Pike",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85825769
     ],
+    "wof:brand_id":1125151261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5q57UdfduayUt1HeMiGJua_35.133201_-85.242345@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602370,
-    "wof:geomhash":"a0555c16c67e546bb2a25d13ba69c898",
+    "wof:geomhash":"06f51c2abf1ff56e1cecacf95766b82e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806941177,
-    "wof:lastmodified":1467083416,
+    "wof:lastmodified":1510699355,
     "wof:name":"Express Oil Change",
     "wof:parent_id":85825769,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773724415,
   "type": "Feature",
   "properties": {
+    "addr:full":"540 Manufacturers Rd Chattanooga TN 37405",
+    "addr:housenumber":"540",
+    "addr:postcode":"37405",
+    "addr:street":"Manufacturers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.31621,35.061828,-85.31621,35.061828",
     "geom:latitude":35.061828,
     "geom:longitude":-85.31621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"540 Manufacturers Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85876743
     ],
+    "wof:brand_id":1125154091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bY0nEd6HgUN8zzvnL9SPe_35.061828_-85.316210@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587902,
-    "wof:geomhash":"b97c8a425c2ce640fd5b4aa225680577",
+    "wof:geomhash":"eda548519d8900cf4d9e11ba4ec00701",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773724415,
-    "wof:lastmodified":1467082964,
+    "wof:lastmodified":1510699677,
     "wof:name":"Vulcan Materials Company",
     "wof:parent_id":85876743,
     "wof:placetype":"venue",

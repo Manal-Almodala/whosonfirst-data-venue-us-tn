@@ -2,9 +2,14 @@
   "id": 773822229,
   "type": "Feature",
   "properties": {
+    "addr:full":"4237 Warren Rd Franklin TN 37067",
+    "addr:housenumber":"4237",
+    "addr:postcode":"37067",
+    "addr:street":"Warren Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806331,35.895807,-86.806331,35.895807",
     "geom:latitude":35.895807,
     "geom:longitude":-86.806331,
@@ -27,12 +32,7 @@
         "notion"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QLuI9LAGcJocrYmUKwsNH_35.895807_-86.806331@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462588650,
     "wof:geomhash":"74551b7a51d033f6adbf991eae3a12d1",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":773822229
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773822229,
-    "wof:lastmodified":1467082988,
+    "wof:lastmodified":1491924955,
     "wof:name":"J & G Trading",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

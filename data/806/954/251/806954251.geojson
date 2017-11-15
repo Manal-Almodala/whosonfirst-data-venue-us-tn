@@ -2,14 +2,20 @@
   "id": 806954251,
   "type": "Feature",
   "properties": {
+    "addr:full":"1503 E Magnolia Ave Knoxville TN 37917",
+    "addr:housenumber":"1503",
+    "addr:postcode":"37917",
+    "addr:street":"E Magnolia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.908954,35.978438,-83.908954,35.978438",
     "geom:latitude":35.978438,
     "geom:longitude":-83.908954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1503 E Magnolia Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         420541841
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QX6EEpcvXnsYYCb1r7ZAV_35.978438_-83.908954@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602479,
-    "wof:geomhash":"bcef1674d4934f6add5443572c1051fb",
+    "wof:geomhash":"283853c881271e6e2fe4cda881a29907",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806954251,
-    "wof:lastmodified":1467083419,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":420541841,
     "wof:placetype":"venue",

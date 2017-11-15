@@ -2,14 +2,20 @@
   "id": 773205701,
   "type": "Feature",
   "properties": {
+    "addr:full":"63 Thompson Ln Nashville TN 37211",
+    "addr:housenumber":"63",
+    "addr:postcode":"37211",
+    "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.725991,36.110802,-86.725991,36.110802",
     "geom:latitude":36.110802,
     "geom:longitude":-86.725991,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"63 Thompson Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85821799
     ],
+    "wof:brand_id":420575923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Itvmr2FzGRymh1sVaZbYh_36.110802_-86.725991@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583969,
-    "wof:geomhash":"13cbc656fa0209a8686dfbdc240f45d0",
+    "wof:geomhash":"857422a85cec96eab886b8dce3c1aede",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773205701,
-    "wof:lastmodified":1467082830,
+    "wof:lastmodified":1510602880,
     "wof:name":"Fancy Nails",
     "wof:parent_id":85821799,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789765907,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Main St W Knoxville TN 37902",
+    "addr:housenumber":"400",
+    "addr:postcode":"37902",
+    "addr:street":"Main St W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789765907,
-    "wof:lastmodified":1467083040,
+    "wof:lastmodified":1472645245,
     "wof:name":"KNOX County Circuit Court Clrk",
     "wof:parent_id":85878551,
     "wof:placetype":"venue",

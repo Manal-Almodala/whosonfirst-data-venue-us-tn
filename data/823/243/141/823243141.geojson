@@ -2,14 +2,20 @@
   "id": 823243141,
   "type": "Feature",
   "properties": {
+    "addr:full":"3010 Mallory Ln Franklin TN 37067",
+    "addr:housenumber":"3010",
+    "addr:postcode":"37067",
+    "addr:street":"Mallory Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818122,35.95141,-86.818122,35.95141",
     "geom:latitude":35.95141,
     "geom:longitude":-86.818122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3010 Mallory Ln",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":1125150821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48KMOcqUSJ8bVoXZYvW0M7_35.951410_-86.818122@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609205,
-    "wof:geomhash":"b832c94a6158c48dc78434fbf1f94967",
+    "wof:geomhash":"31062eb59b71b4b9b4afd3cb0963a915",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823243141,
-    "wof:lastmodified":1467083630,
+    "wof:lastmodified":1510613438,
     "wof:name":"Bonefish Grill",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

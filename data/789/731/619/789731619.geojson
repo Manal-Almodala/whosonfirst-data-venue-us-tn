@@ -2,14 +2,20 @@
   "id": 789731619,
   "type": "Feature",
   "properties": {
+    "addr:full":"7047 Lee Hwy Chattanooga TN 37421",
+    "addr:housenumber":"7047",
+    "addr:postcode":"37421",
+    "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.159899,35.046491,-85.159899,35.046491",
     "geom:latitude":35.046491,
     "geom:longitude":-85.159899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7047 Lee Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85824831
     ],
+    "wof:brand_id":1125150405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_57H96TluCL1hrmz3kNm3EX_35.046491_-85.159899@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590114,
-    "wof:geomhash":"66e2ee613358cc4be0ecaa9491304bd0",
+    "wof:geomhash":"0cf199ff97b9805b1907620f4b1b216f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789731619,
-    "wof:lastmodified":1467083032,
+    "wof:lastmodified":1510693882,
     "wof:name":"Check Advance",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",

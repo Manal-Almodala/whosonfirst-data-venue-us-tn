@@ -2,9 +2,14 @@
   "id": 807243987,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Chester Stevens Rd Franklin TN 37067",
+    "addr:housenumber":"114",
+    "addr:postcode":"37067",
+    "addr:street":"Chester Stevens Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805618,35.910263,-86.805618,35.910263",
     "geom:latitude":35.910263,
     "geom:longitude":-86.805618,
@@ -26,9 +31,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
-        85813009,
-        102086337
+        101723093,
+        102086337,
+        85813009
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -39,17 +46,19 @@
     "wof:geomhash":"3b7f0b1181630b70155568d200e2858c",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
+            "locality_id":101723093,
             "neighbourhood_id":85813009,
             "region_id":85688701,
             "venue_id":807243987
         }
     ],
     "wof:id":807243987,
-    "wof:lastmodified":1467083504,
+    "wof:lastmodified":1491924950,
     "wof:name":"Terri King",
-    "wof:parent_id":85813009,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

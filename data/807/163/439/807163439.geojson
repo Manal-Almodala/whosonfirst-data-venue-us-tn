@@ -2,14 +2,20 @@
   "id": 807163439,
   "type": "Feature",
   "properties": {
+    "addr:full":"1980 Getwell Rd Memphis TN 38111",
+    "addr:housenumber":"1980",
+    "addr:postcode":"38111",
+    "addr:street":"Getwell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.931401,35.077769,-89.931401,35.077769",
     "geom:latitude":35.077769,
     "geom:longitude":-89.931401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1980 Getwell Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125151917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xXIPQ3ADn3aqEaye1y0Rh_35.077769_-89.931401@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604413,
-    "wof:geomhash":"88d86655b9919cc30ff14ddd5191c3fe",
+    "wof:geomhash":"68cc207c4f8547e7acb44cf98947fd64",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807163439,
-    "wof:lastmodified":1467083477,
+    "wof:lastmodified":1510699395,
     "wof:name":"USFreightways",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

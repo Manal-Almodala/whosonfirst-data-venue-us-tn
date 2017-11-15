@@ -2,14 +2,20 @@
   "id": 823189699,
   "type": "Feature",
   "properties": {
+    "addr:full":"174 Cemetary Dr Dover TN 37055",
+    "addr:housenumber":"174",
+    "addr:postcode":"37055",
+    "addr:street":"Cemetary Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.386712,36.082173,-87.386712,36.082173",
     "geom:latitude":36.082173,
     "geom:longitude":-87.386712,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"174 Cemetary Dr",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125155405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1uXzg9VZIbAVRDTPb9B5dH_36.082173_-87.386712@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608187,
-    "wof:geomhash":"0b0ea64d27e56dcaa83d0bb69f5472f4",
+    "wof:geomhash":"d897826ab3e3a793d9f98cee19c44fc9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823189699,
-    "wof:lastmodified":1467083595,
+    "wof:lastmodified":1510695072,
     "wof:name":"National Park Svc",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

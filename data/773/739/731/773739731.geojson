@@ -2,14 +2,20 @@
   "id": 773739731,
   "type": "Feature",
   "properties": {
+    "addr:full":"5959 Shallowford Rd Chattanooga TN 37421",
+    "addr:housenumber":"5959",
+    "addr:postcode":"37421",
+    "addr:street":"Shallowford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.193823,35.054628,-85.193823,35.054628",
     "geom:latitude":35.054628,
     "geom:longitude":-85.193823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5959 Shallowford Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         420541685
     ],
+    "wof:brand_id":1125153655,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TndwDM1cXQNo9NSOlvB8F_35.054628_-85.193823@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588019,
-    "wof:geomhash":"1c95fb06efff604d0b087c5a40ebcc91",
+    "wof:geomhash":"386c39bd98852a430a62f3dcb5499478",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773739731,
-    "wof:lastmodified":1467082968,
+    "wof:lastmodified":1510697208,
     "wof:name":"Yellow Book USA",
     "wof:parent_id":420541685,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789606517,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Main St W Knoxville TN 37902",
+    "addr:housenumber":"400",
+    "addr:postcode":"37902",
+    "addr:street":"Main St W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":789606517,
-    "wof:lastmodified":1467083002,
+    "wof:lastmodified":1472645087,
     "wof:name":"Knoxville Solid Waste Adm",
     "wof:parent_id":85878551,
     "wof:placetype":"venue",

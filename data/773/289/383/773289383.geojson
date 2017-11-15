@@ -2,14 +2,20 @@
   "id": 773289383,
   "type": "Feature",
   "properties": {
+    "addr:full":"1708 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"1708",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.700643,36.294877,-86.700643,36.294877",
     "geom:latitude":36.294877,
     "geom:longitude":-86.700643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1708 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125157881,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R4OdSzV7DyzqDOTUtVgX0_36.294877_-86.700643@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584595,
-    "wof:geomhash":"744760d05d6f629fb228dc9153e44954",
+    "wof:geomhash":"945d9718e6a282fe976ccee3e0cf3d26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773289383,
-    "wof:lastmodified":1467082858,
+    "wof:lastmodified":1510693912,
     "wof:name":"La Weight Loss Centers Inc",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

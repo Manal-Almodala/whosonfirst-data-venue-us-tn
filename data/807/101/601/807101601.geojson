@@ -2,14 +2,20 @@
   "id": 807101601,
   "type": "Feature",
   "properties": {
+    "addr:full":"339 Simmons Rd Pinson TN 38366",
+    "addr:housenumber":"339",
+    "addr:postcode":"38366",
+    "addr:street":"Simmons Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.731804,35.496093,-88.731804,35.496093",
     "geom:latitude":35.496093,
     "geom:longitude":-88.731804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"339 Simmons Rd",
     "sg:city":"Pinson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087221,
         85868161
     ],
+    "wof:brand_id":1125159619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2GFZEs7zisTpcLGIzgzITN_35.496093_-88.731804@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603750,
-    "wof:geomhash":"08e161ab2bc8c870d595ad6f2a8125dd",
+    "wof:geomhash":"2b22ef494675462944d18aa09e77a91c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807101601,
-    "wof:lastmodified":1467083457,
+    "wof:lastmodified":1510695302,
     "wof:name":"Mount Pleasant Baptist Church",
     "wof:parent_id":85868161,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823248591,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 Hamilton Place Blvd Chattanooga TN 37421",
+    "addr:housenumber":"2110",
+    "addr:postcode":"37421",
+    "addr:street":"Hamilton Place Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.159879,35.037825,-85.159879,35.037825",
     "geom:latitude":35.037825,
     "geom:longitude":-85.159879,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2110 Hamilton Place Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         85824831
     ],
+    "wof:brand_id":1125151851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3m3V04IYLItYUDwxEHzeCG_35.037825_-85.159879@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609307,
-    "wof:geomhash":"2826e0b5c8f7b82dc655df5f4b48ea88",
+    "wof:geomhash":"c3c774e3488b446c7aa10e47b73541e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823248591,
-    "wof:lastmodified":1467083634,
+    "wof:lastmodified":1510696691,
     "wof:name":"P.F. Chang's",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",

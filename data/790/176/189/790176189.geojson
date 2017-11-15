@@ -2,9 +2,14 @@
   "id": 790176189,
   "type": "Feature",
   "properties": {
+    "addr:full":"4851 Jonquil Dr Nashville TN 37211",
+    "addr:housenumber":"4851",
+    "addr:postcode":"37211",
+    "addr:street":"Jonquil Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.718093,36.08095,-86.718093,36.08095",
     "geom:latitude":36.08095,
     "geom:longitude":-86.718093,
@@ -30,7 +35,8 @@
         85633793,
         101723183,
         102087061,
-        420541539
+        420541539,
+        85840471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,12 +54,21 @@
             "neighbourhood_id":420541539,
             "region_id":85688701,
             "venue_id":790176189
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85840471,
+            "region_id":85688701,
+            "venue_id":790176189
         }
     ],
     "wof:id":790176189,
-    "wof:lastmodified":1467083138,
+    "wof:lastmodified":1491901725,
     "wof:name":"New Hertge Minstr of Royl Chrs",
-    "wof:parent_id":420541539,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

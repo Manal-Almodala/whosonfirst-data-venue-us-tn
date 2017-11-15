@@ -2,14 +2,20 @@
   "id": 823292329,
   "type": "Feature",
   "properties": {
+    "addr:full":"8570 Cordes Cir Germantown TN 38139",
+    "addr:housenumber":"",
+    "addr:postcode":"8570;38139",
+    "addr:street":"Cordes Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.777706,35.097958,-89.777706,35.097958",
     "geom:latitude":35.097958,
     "geom:longitude":-89.777706,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8570 Cordes Cir",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85819859
     ],
+    "wof:brand_id":1125154625,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1F0pHWz9Kec8wGu7R6xBOM_35.097958_-89.777706@1303262744"
     },
     "wof:country":"US",
     "wof:created":1462610798,
-    "wof:geomhash":"09bd473a2d227f2358776276a221da46",
+    "wof:geomhash":"c9b0f3f9fbc748e12a401d87bebcf9a1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823292329,
-    "wof:lastmodified":1467083686,
+    "wof:lastmodified":1510695409,
     "wof:name":"Critter Control",
     "wof:parent_id":85819859,
     "wof:placetype":"venue",

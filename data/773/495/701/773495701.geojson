@@ -2,14 +2,20 @@
   "id": 773495701,
   "type": "Feature",
   "properties": {
+    "addr:full":"9833 Hixson Pike Soddy Daisy TN 37379",
+    "addr:housenumber":"9833",
+    "addr:postcode":"37379",
+    "addr:street":"Hixson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.116694,35.217093,-85.116694,35.217093",
     "geom:latitude":35.217093,
     "geom:longitude":-85.116694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9833 Hixson Pike",
     "sg:city":"Soddy Daisy",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087185,
         85843021
     ],
+    "wof:brand_id":420575759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LL8zgIyhphvSwif3twIoC_35.217093_-85.116694@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586178,
-    "wof:geomhash":"42ad46a44d6ab7c40602a03d2ead53c2",
+    "wof:geomhash":"3c4be7269612d183cda1982452d4f461",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773495701,
-    "wof:lastmodified":1467082909,
+    "wof:lastmodified":1510602450,
     "wof:name":"Grace United Methodist Church",
     "wof:parent_id":85843021,
     "wof:placetype":"venue",

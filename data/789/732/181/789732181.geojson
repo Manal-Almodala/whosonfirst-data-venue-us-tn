@@ -2,14 +2,20 @@
   "id": 789732181,
   "type": "Feature",
   "properties": {
+    "addr:full":"1328 S John B Dennis Hwy Kingsport TN 37660",
+    "addr:housenumber":"1328",
+    "addr:postcode":"37660",
+    "addr:street":"S John B Dennis Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.553635,36.506031,-82.553635,36.506031",
     "geom:latitude":36.506031,
     "geom:longitude":-82.553635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1328 S John B Dennis Hwy",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85850717,
         102086471
     ],
+    "wof:brand_id":420574901,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ykCdibqQXfiUFTKKXecFo_36.506031_-82.553635@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590118,
-    "wof:geomhash":"36a13d82ae3bbb059b5fdf3c5513cca3",
+    "wof:geomhash":"c01d44cea1e37aeedf9285965fc7ff47",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789732181,
-    "wof:lastmodified":1467083032,
+    "wof:lastmodified":1510604240,
     "wof:name":"Comfort Keepers",
     "wof:parent_id":85850717,
     "wof:placetype":"venue",

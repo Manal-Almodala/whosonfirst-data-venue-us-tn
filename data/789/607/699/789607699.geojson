@@ -2,14 +2,20 @@
   "id": 789607699,
   "type": "Feature",
   "properties": {
+    "addr:full":"7047 US Hwy 70 S Nashville TN 37221",
+    "addr:housenumber":"7047",
+    "addr:postcode":"37221",
+    "addr:street":"Us Hwy 70 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.917113,36.0756,-86.917113,36.0756",
     "geom:latitude":36.0756,
     "geom:longitude":-86.917113,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7047 US Hwy 70 S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087061,
         85854361
     ],
+    "wof:brand_id":1125153913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BJEHKzcnjAC2JR6BSGTn3_36.075600_-86.917113@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589123,
-    "wof:geomhash":"d5226c93713467dff9065bb91e34b807",
+    "wof:geomhash":"9675c88fb36ae5d91cb907003e9fe267",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":789607699,
-    "wof:lastmodified":1467083002,
+    "wof:lastmodified":1510699414,
     "wof:name":"Wolf Camera and Video",
     "wof:parent_id":85854361,
     "wof:placetype":"venue",

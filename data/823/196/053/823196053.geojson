@@ -2,14 +2,20 @@
   "id": 823196053,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Dogwood Dr Lebanon TN 37087",
+    "addr:housenumber":"215",
+    "addr:postcode":"37087",
+    "addr:street":"Dogwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.341727,36.211612,-86.341727,36.211612",
     "geom:latitude":36.211612,
     "geom:longitude":-86.341727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Dogwood Dr",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125155947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6uqAGoGfXqmuXWeHugm8Lp_36.211612_-86.341727@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608276,
-    "wof:geomhash":"b7be3ff9e63fe9d2a43c46195a81eb26",
+    "wof:geomhash":"ccb3df58a76eb983f081cc8bcf936596",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823196053,
-    "wof:lastmodified":1467083597,
+    "wof:lastmodified":1510699782,
     "wof:name":"Mary Kay Consultant",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

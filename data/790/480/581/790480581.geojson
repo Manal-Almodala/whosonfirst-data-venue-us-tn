@@ -2,14 +2,20 @@
   "id": 790480581,
   "type": "Feature",
   "properties": {
+    "addr:full":"1730 W Northfield Blvd Murfreesboro TN 37129",
+    "addr:housenumber":"1730",
+    "addr:postcode":"37129",
+    "addr:street":"W Northfield Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.411501,35.872257,-86.411501,35.872257",
     "geom:latitude":35.872257,
     "geom:longitude":-86.411501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1730 W Northfield Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125159097,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BrnCOJNrEpXMe8QQdPen7_35.872257_-86.411501@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596199,
-    "wof:geomhash":"ac9646b060b2fc6fa4683f69ecf70de9",
+    "wof:geomhash":"0ff65187a5f70503acc2cc0d218bac1c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790480581,
-    "wof:lastmodified":1467083212,
+    "wof:lastmodified":1510697790,
     "wof:name":"Taste Of China",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

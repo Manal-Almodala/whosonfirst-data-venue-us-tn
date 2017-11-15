@@ -2,14 +2,20 @@
   "id": 806836773,
   "type": "Feature",
   "properties": {
+    "addr:full":"2450 Old Fort Pkwy Murfreesboro TN 37128",
+    "addr:housenumber":"2450",
+    "addr:postcode":"37128",
+    "addr:street":"Old Fort Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.448473,35.845063,-86.448473,35.845063",
     "geom:latitude":35.845063,
     "geom:longitude":-86.448473,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2450 Old Fort Pkwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MPf9Ryhm6s3K1UOhHk4So_35.845063_-86.448473@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601481,
-    "wof:geomhash":"8f28ce94ab795035c968b88a0c4ae5a1",
+    "wof:geomhash":"6389f89c3ca0721e68dfb14044c317c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806836773,
-    "wof:lastmodified":1467083387,
+    "wof:lastmodified":1510694750,
     "wof:name":"O'Charley's",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

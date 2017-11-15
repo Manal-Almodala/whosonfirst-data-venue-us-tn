@@ -2,14 +2,20 @@
   "id": 790069099,
   "type": "Feature",
   "properties": {
+    "addr:full":"3441 Lebanon Pike Hermitage TN 37076",
+    "addr:housenumber":"3441",
+    "addr:postcode":"37076",
+    "addr:street":"Lebanon Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.625869,36.190545,-86.625869,36.190545",
     "geom:latitude":36.190545,
     "geom:longitude":-86.625869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3441 Lebanon Pike",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85824679
     ],
+    "wof:brand_id":1125158441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uZUnf5Bg4V2YZFBnA07EE_36.190545_-86.625869@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592884,
-    "wof:geomhash":"db0fe999311a268ebec4e040e8387cdb",
+    "wof:geomhash":"ceff58e753d4c7049f06471911ca886f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790069099,
-    "wof:lastmodified":1467083113,
+    "wof:lastmodified":1510694226,
     "wof:name":"American Classifieds",
     "wof:parent_id":85824679,
     "wof:placetype":"venue",

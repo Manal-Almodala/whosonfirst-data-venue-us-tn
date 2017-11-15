@@ -2,9 +2,14 @@
   "id": 789801621,
   "type": "Feature",
   "properties": {
+    "addr:full":"2600 New Hope Rd Hendersonville TN 37075",
+    "addr:housenumber":"2600",
+    "addr:postcode":"37075",
+    "addr:street":"New Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.624114,36.389497,-86.624114,36.389497",
     "geom:latitude":36.389497,
     "geom:longitude":-86.624114,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"dbffbe3e0670d4b5f0391188cf1f4240",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789801621,
-    "wof:lastmodified":1467083048,
+    "wof:lastmodified":1491939199,
     "wof:name":"New Hope Road Church Of Christ",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

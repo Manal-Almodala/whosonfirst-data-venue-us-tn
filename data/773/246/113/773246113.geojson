@@ -2,14 +2,20 @@
   "id": 773246113,
   "type": "Feature",
   "properties": {
+    "addr:full":"5112 Murfreesboro Rd Lebanon TN 37090",
+    "addr:housenumber":"5112",
+    "addr:postcode":"37090",
+    "addr:street":"Murfreesboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.335715,36.0939,-86.335715,36.0939",
     "geom:latitude":36.0939,
     "geom:longitude":-86.335715,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5112 Murfreesboro Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125155607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hrIy3Wp9TDzziIXbsIMzl_36.093900_-86.335715@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584257,
-    "wof:geomhash":"185c33bacd652a573ecbc0f596a4e87a",
+    "wof:geomhash":"4ba5cf9333b7636abe46e32169dfe6e1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773246113,
-    "wof:lastmodified":1467082844,
+    "wof:lastmodified":1510613384,
     "wof:name":"Forestry Division",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

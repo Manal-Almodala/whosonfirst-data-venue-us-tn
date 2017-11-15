@@ -2,14 +2,20 @@
   "id": 806470887,
   "type": "Feature",
   "properties": {
+    "addr:full":"2225 E 23rd St Chattanooga TN 37408",
+    "addr:housenumber":"2225",
+    "addr:postcode":"37408",
+    "addr:street":"E 23Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.27835,35.017529,-85.27835,35.017529",
     "geom:latitude":35.017529,
     "geom:longitude":-85.27835,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2225 E 23rd St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85838687
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dkKRaJFnBeQ4goMvRcjsp_35.017529_-85.278350@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598395,
-    "wof:geomhash":"d15dac5127bb602fcfa04eb716f5b6bd",
+    "wof:geomhash":"94cad87f1fcfa893281a884c22dadce5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806470887,
-    "wof:lastmodified":1467083284,
+    "wof:lastmodified":1510695390,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85838687,
     "wof:placetype":"venue",

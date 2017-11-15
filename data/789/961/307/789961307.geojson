@@ -2,14 +2,20 @@
   "id": 789961307,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Central Ave Oak Ridge TN 37830",
+    "addr:housenumber":"119",
+    "addr:postcode":"37830",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.238611,36.027685,-84.238611,36.027685",
     "geom:latitude":36.027685,
     "geom:longitude":-84.238611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"119 Central Ave",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086483,
         85827263
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60VC7MTleYlgA4FxWNYRqq_36.027685_-84.238611@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592009,
-    "wof:geomhash":"6ae0959712e4b363a5cc06d9f6eb5ff6",
+    "wof:geomhash":"e7dca20dd7bf33738b5fe338a0697093",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789961307,
-    "wof:lastmodified":1467083087,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

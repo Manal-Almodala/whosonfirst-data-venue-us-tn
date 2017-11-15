@@ -2,14 +2,20 @@
   "id": 790086187,
   "type": "Feature",
   "properties": {
+    "addr:full":"6891 US Hwy 70 Memphis TN 38133",
+    "addr:housenumber":"6891",
+    "addr:postcode":"38133",
+    "addr:street":"Us Hwy 70",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.832666,35.206977,-89.832666,35.206977",
     "geom:latitude":35.206977,
     "geom:longitude":-89.832666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6891 US Hwy 70",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cKxHtqtWsXGYbyCgJ97gC_35.206977_-89.832666@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593012,
-    "wof:geomhash":"cde8070c4c853012543242b39f14148d",
+    "wof:geomhash":"ae9a7248af438125a284a962464570c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790086187,
-    "wof:lastmodified":1467083117,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

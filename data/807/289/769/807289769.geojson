@@ -2,14 +2,20 @@
   "id": 807289769,
   "type": "Feature",
   "properties": {
+    "addr:full":"2515 Winchester Rd Memphis TN 38116",
+    "addr:housenumber":"2515",
+    "addr:postcode":"38116",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.973001,35.052773,-89.973001,35.052773",
     "geom:latitude":35.052773,
     "geom:longitude":-89.973001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2515 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85688701
     ],
+    "wof:brand_id":1125153727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1KvxbvwCQSv5lt7CjG9aIY_35.052773_-89.973001@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605744,
-    "wof:geomhash":"eb30321da57b294c3003dbf6e3072bcd",
+    "wof:geomhash":"dac22305e927e549abb8c0db48fa065e",
     "wof:hierarchy":[
         {
             "campus_id":102527185,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":807289769,
-    "wof:lastmodified":1467083520,
+    "wof:lastmodified":1510695746,
     "wof:name":"System Support Center",
     "wof:parent_id":102527185,
     "wof:placetype":"venue",

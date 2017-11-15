@@ -2,14 +2,20 @@
   "id": 790336155,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Directors Row Jackson TN 38305",
+    "addr:housenumber":"50",
+    "addr:postcode":"38305",
+    "addr:street":"Directors Row",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.824224,35.670031,-88.824224,35.670031",
     "geom:latitude":35.670031,
     "geom:longitude":-88.824224,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 Directors Row",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125158443,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xKQ38db0n27J8iP2nW8Hj_35.670031_-88.824224@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595034,
-    "wof:geomhash":"a6b4c8f2ffd0285977e054dfbe0655b4",
+    "wof:geomhash":"6339c52e7168c7a783e11df5f861dbc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790336155,
-    "wof:lastmodified":1467083176,
+    "wof:lastmodified":1510694226,
     "wof:name":"American General Life & Accdnt",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

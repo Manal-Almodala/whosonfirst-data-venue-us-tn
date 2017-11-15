@@ -2,6 +2,10 @@
   "id": 789984447,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 N Eastman Rd Kingsport TN 37664",
+    "addr:housenumber":"1001",
+    "addr:postcode":"37664",
+    "addr:street":"N Eastman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":789984447,
-    "wof:lastmodified":1467083093,
+    "wof:lastmodified":1472645308,
     "wof:name":"Tuesday Morning",
     "wof:parent_id":85818419,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773489393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1208 Gallatin Pike S Madison TN 37115",
+    "addr:housenumber":"1208",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.720683,36.247434,-86.720683,36.247434",
     "geom:latitude":36.247434,
     "geom:longitude":-86.720683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1208 Gallatin Pike S",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85834867
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aA45UISOanoWpaqUuP2Zr_36.247434_-86.720683@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586134,
-    "wof:geomhash":"3922aec8cb9fe395d990cd0116cb9302",
+    "wof:geomhash":"e36e2b52bdb349b857283f9c4ad648c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773489393,
-    "wof:lastmodified":1467082908,
+    "wof:lastmodified":1510693722,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85834867,
     "wof:placetype":"venue",

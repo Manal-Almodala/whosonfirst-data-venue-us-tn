@@ -2,14 +2,20 @@
   "id": 789774601,
   "type": "Feature",
   "properties": {
+    "addr:full":"1640 N Wrights Ln Gallatin TN 37066",
+    "addr:housenumber":"1640",
+    "addr:postcode":"37066",
+    "addr:street":"N Wrights Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.390347,36.45903,-86.390347,36.45903",
     "geom:latitude":36.45903,
     "geom:longitude":-86.390347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1640 N Wrights Ln",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086357,
         85852687
     ],
+    "wof:brand_id":1125150549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5KSRKq490tkBk5DrhmUxO4_36.459030_-86.390347@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590437,
-    "wof:geomhash":"2a3f14fd129f863f2d5cf5ffca2c6ea0",
+    "wof:geomhash":"b7853f6db5f9d3d60d2f138cd641d3e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789774601,
-    "wof:lastmodified":1467083042,
+    "wof:lastmodified":1510695854,
     "wof:name":"Free & Accepted Masons of",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",

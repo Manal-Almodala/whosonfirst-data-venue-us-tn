@@ -2,9 +2,14 @@
   "id": 773601719,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 S Palmers Chapel Rd White House TN 37188",
+    "addr:housenumber":"115",
+    "addr:postcode":"37188",
+    "addr:street":"S;Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.64094,36.447776,-86.64094,36.447776",
     "geom:latitude":36.447776,
     "geom:longitude":-86.64094,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -41,6 +47,7 @@
     "wof:geomhash":"095332ef033a33a9520641594e8d07d4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773601719,
-    "wof:lastmodified":1467082934,
+    "wof:lastmodified":1491939220,
     "wof:name":"H B Williams Elementary",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

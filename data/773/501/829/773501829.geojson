@@ -2,14 +2,20 @@
   "id": 773501829,
   "type": "Feature",
   "properties": {
+    "addr:full":"2159 S Highland Ave Jackson TN 38301",
+    "addr:housenumber":"2159",
+    "addr:postcode":"38301",
+    "addr:street":"S Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.806784,35.550067,-88.806784,35.550067",
     "geom:latitude":35.550067,
     "geom:longitude":-88.806784,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2159 S Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087221,
         85868161
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3eQa9LI928ALEqbwLyFLDF_35.550067_-88.806784@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586217,
-    "wof:geomhash":"ef8f0c6f1b7f81208c0c51a6cde9b6f7",
+    "wof:geomhash":"a26a04f37c672ab0a7ccb874f0b23a08",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773501829,
-    "wof:lastmodified":1467082911,
+    "wof:lastmodified":1510602609,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85868161,
     "wof:placetype":"venue",

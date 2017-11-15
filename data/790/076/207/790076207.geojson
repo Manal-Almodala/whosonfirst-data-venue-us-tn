@@ -2,14 +2,20 @@
   "id": 790076207,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 Endsley Quarry Ln Friendsville TN 37737",
+    "addr:housenumber":"412",
+    "addr:postcode":"37737",
+    "addr:street":"Endsley Quarry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.131232,35.754748,-84.131232,35.754748",
     "geom:latitude":35.754748,
     "geom:longitude":-84.131232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"412 Endsley Quarry Ln",
     "sg:city":"Friendsville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087017,
         85808753
     ],
+    "wof:brand_id":1125157299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2idINd1Bw9XvZwoRdiwezn_35.754748_-84.131232@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592946,
-    "wof:geomhash":"c43dc2166417d22bba5e1f464a333d3a",
+    "wof:geomhash":"9bc4a1f011f3f4f27cf13b30940e2139",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790076207,
-    "wof:lastmodified":1467083114,
+    "wof:lastmodified":1510694604,
     "wof:name":"Vulcan Materials Co",
     "wof:parent_id":85808753,
     "wof:placetype":"venue",

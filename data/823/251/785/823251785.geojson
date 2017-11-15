@@ -2,14 +2,20 @@
   "id": 823251785,
   "type": "Feature",
   "properties": {
+    "addr:full":"136 Community Center Dr Pigeon Forge TN 37863",
+    "addr:housenumber":"136",
+    "addr:postcode":"37863",
+    "addr:street":"Community Center Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.579529,35.807552,-83.579529,35.807552",
     "geom:latitude":35.807552,
     "geom:longitude":-83.579529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"136 Community Center Dr",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086245,
         85854207
     ],
+    "wof:brand_id":1125154847,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BhwGXHSbv6B1qi3kOVfbm_35.807552_-83.579529@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609379,
-    "wof:geomhash":"eab632d2a8622ca76cd1492210e79889",
+    "wof:geomhash":"ad1e1f65d232137533820f96a68496d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":823251785,
-    "wof:lastmodified":1467083636,
+    "wof:lastmodified":1510695721,
     "wof:name":"Bellacino's Pizza & Grinders",
     "wof:parent_id":85854207,
     "wof:placetype":"venue",

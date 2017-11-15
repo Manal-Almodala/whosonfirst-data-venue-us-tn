@@ -2,14 +2,20 @@
   "id": 773573033,
   "type": "Feature",
   "properties": {
+    "addr:full":"1915 Glen Echo Rd Nashville TN 37215",
+    "addr:housenumber":"1915",
+    "addr:postcode":"37215",
+    "addr:street":"Glen Echo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811284,36.108345,-86.811284,36.108345",
     "geom:latitude":36.108345,
     "geom:longitude":-86.811284,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1915 Glen Echo Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85893463
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2kpqUNUsA3qVj3IDspO3jV_36.108345_-86.811284@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586748,
-    "wof:geomhash":"682f1aea7259fd048392e4f8c13461e7",
+    "wof:geomhash":"a4452352b53ca30d1bea5ab28696a55b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773573033,
-    "wof:lastmodified":1467082928,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",

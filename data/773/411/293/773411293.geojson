@@ -2,14 +2,20 @@
   "id": 773411293,
   "type": "Feature",
   "properties": {
+    "addr:full":"5270 Harding Pl Nashville TN 37217",
+    "addr:housenumber":"5270",
+    "addr:postcode":"37217",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.680341,36.092943,-86.680341,36.092943",
     "geom:latitude":36.092943,
     "geom:longitude":-86.680341,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5270 Harding Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":1125151817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4E5Rrnwo3iLgk8fQQqmQK3_36.092943_-86.680341@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585498,
-    "wof:geomhash":"c51385937bace7d876a6115c807d2dc8",
+    "wof:geomhash":"8387f46a0f4c2a90ea06f303b7734d1b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773411293,
-    "wof:lastmodified":1467082889,
+    "wof:lastmodified":1510699271,
     "wof:name":"Airborne",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

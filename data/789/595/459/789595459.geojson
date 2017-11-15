@@ -2,9 +2,14 @@
   "id": 789595459,
   "type": "Feature",
   "properties": {
+    "addr:full":"117 Stable Rd Franklin TN 37069",
+    "addr:housenumber":"117",
+    "addr:postcode":"37069",
+    "addr:street":"Stable Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.887215,35.974806,-86.887215,35.974806",
     "geom:latitude":35.974806,
     "geom:longitude":-86.887215,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -43,6 +49,7 @@
     "wof:geomhash":"e063b048b5e4f95707ba6e3224161f13",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789595459,
-    "wof:lastmodified":1467082999,
+    "wof:lastmodified":1491924187,
     "wof:name":"Stone Grove Coffee Co Inc",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

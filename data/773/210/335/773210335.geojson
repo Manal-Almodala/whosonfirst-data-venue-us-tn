@@ -2,14 +2,20 @@
   "id": 773210335,
   "type": "Feature",
   "properties": {
+    "addr:full":"3615 Chapman Hwy Knoxville TN 37920",
+    "addr:housenumber":"3615",
+    "addr:postcode":"37920",
+    "addr:street":"Chapman Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.909707,35.940151,-83.909707,35.940151",
     "geom:latitude":35.940151,
     "geom:longitude":-83.909707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3615 Chapman Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85878565
     ],
+    "wof:brand_id":1125157351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bpSmClgzHDu2izbIJbBzv_35.940151_-83.909707@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583999,
-    "wof:geomhash":"4cffd36fb3251770e3ff76bd6fdfdbf0",
+    "wof:geomhash":"8e4efca12acb5721447f5fef0ea0a3da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773210335,
-    "wof:lastmodified":1467082831,
+    "wof:lastmodified":1510694855,
     "wof:name":"Cash Connection",
     "wof:parent_id":85878565,
     "wof:placetype":"venue",

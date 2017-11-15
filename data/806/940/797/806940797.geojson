@@ -2,14 +2,20 @@
   "id": 806940797,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Commerce St Nashville TN 37201",
+    "addr:housenumber":"210",
+    "addr:postcode":"37201",
+    "addr:street":"Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.77641,36.163188,-86.77641,36.163188",
     "geom:latitude":36.163188,
     "geom:longitude":-86.77641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 Commerce St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893483
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oZoQWUPStbqkommT2trSC_36.163188_-86.776410@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602367,
-    "wof:geomhash":"2f51c21476b56c407ad0842869064ce9",
+    "wof:geomhash":"3fa67f48fddb01148918fffda88bdb26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806940797,
-    "wof:lastmodified":1467083416,
+    "wof:lastmodified":1510602714,
     "wof:name":"Central Parking System",
     "wof:parent_id":85893483,
     "wof:placetype":"venue",

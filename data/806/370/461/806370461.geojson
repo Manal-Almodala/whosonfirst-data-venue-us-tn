@@ -2,14 +2,20 @@
   "id": 806370461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1914 Columbia Ave Franklin TN 37064",
+    "addr:housenumber":"1914",
+    "addr:postcode":"37064",
+    "addr:street":"Columbia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.876435,35.897537,-86.876435,35.897537",
     "geom:latitude":35.897537,
     "geom:longitude":-86.876435,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1914 Columbia Ave",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086337,
         85851291
     ],
+    "wof:brand_id":1125153043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OqkziAw4eKOHzTNuMCGeH_35.897537_-86.876435@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597601,
-    "wof:geomhash":"67a14a9a2074a24fafa270303ccc4ae3",
+    "wof:geomhash":"be7719dcd75f398144434f5d951cfd20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806370461,
-    "wof:lastmodified":1467083256,
+    "wof:lastmodified":1510697674,
     "wof:name":"Mane Event",
     "wof:parent_id":85851291,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790620713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1501 Straightway Ave Nashville TN 37206",
+    "addr:housenumber":"1501",
+    "addr:postcode":"37206",
+    "addr:street":"Straightway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.740082,36.193374,-86.740082,36.193374",
     "geom:latitude":36.193374,
     "geom:longitude":-86.740082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1501 Straightway Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85816591
     ],
+    "wof:brand_id":1125159085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KtpUYmRjad0ltLvMKJ5Ct_36.193374_-86.740082@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597419,
-    "wof:geomhash":"7989fc19af03fd953da89216627575b9",
+    "wof:geomhash":"b636fe1d5c93e0e9ed73e19d73d3aa70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790620713,
-    "wof:lastmodified":1467083251,
+    "wof:lastmodified":1510693763,
     "wof:name":"St James AME Church",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

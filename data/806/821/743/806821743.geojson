@@ -2,6 +2,10 @@
   "id": 806821743,
   "type": "Feature",
   "properties": {
+    "addr:full":"3500 John A Merritt Blvd Nashville TN 37209",
+    "addr:housenumber":"3500",
+    "addr:postcode":"37209",
+    "addr:street":"John;Merritt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":806821743,
-    "wof:lastmodified":1467083383,
+    "wof:lastmodified":1472646154,
     "wof:name":"Tennesse State University Rotc",
     "wof:parent_id":85893459,
     "wof:placetype":"venue",

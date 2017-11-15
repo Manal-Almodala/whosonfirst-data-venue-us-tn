@@ -2,9 +2,14 @@
   "id": 790505819,
   "type": "Feature",
   "properties": {
+    "addr:full":"4020 Laurawood Ln Franklin TN 37067",
+    "addr:housenumber":"4020",
+    "addr:postcode":"37067",
+    "addr:street":"Laurawood Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.758657,35.882323,-86.758657,35.882323",
     "geom:latitude":35.882323,
     "geom:longitude":-86.758657,
@@ -24,12 +29,7 @@
     "sg:postcode":"37067",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_354gTk6T5ahHuHrJvptgwU_35.882323_-86.758657@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462596418,
     "wof:geomhash":"c6f717b3a1f5fe2e29012b8472afabc0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":790505819
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790505819,
-    "wof:lastmodified":1467083219,
+    "wof:lastmodified":1491924954,
     "wof:name":"LMS Group Inc",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

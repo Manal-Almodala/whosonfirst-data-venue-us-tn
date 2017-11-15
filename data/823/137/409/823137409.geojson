@@ -2,14 +2,20 @@
   "id": 823137409,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 Shelby Ave Nashville TN 37206",
+    "addr:housenumber":"611",
+    "addr:postcode":"37206",
+    "addr:street":"Shelby Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.758043,36.16926,-86.758043,36.16926",
     "geom:latitude":36.16926,
     "geom:longitude":-86.758043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 Shelby Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85816591
     ],
+    "wof:brand_id":1125159859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6zcpy36AA3ylUgol2rIHr8_36.169260_-86.758043@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607462,
-    "wof:geomhash":"7141ea8d95ed48253d4a293da01e5465",
+    "wof:geomhash":"050989214cd77d01b2205aa911b64921",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823137409,
-    "wof:lastmodified":1467083571,
+    "wof:lastmodified":1510696724,
     "wof:name":"First Wesleyan Church",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806566819,
   "type": "Feature",
   "properties": {
+    "addr:full":"4508 Old Samburg Rd Hornbeak TN 38232",
+    "addr:housenumber":"4508",
+    "addr:postcode":"38232",
+    "addr:street":"Old Samburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.317911,36.397158,-89.317911,36.397158",
     "geom:latitude":36.397158,
     "geom:longitude":-89.317911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4508 Old Samburg Rd",
     "sg:city":"Hornbeak",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084541,
         85844377
     ],
+    "wof:brand_id":1125150645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DjacwMH3lIe1Q1fms6Wmb_36.397158_-89.317911@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599181,
-    "wof:geomhash":"a5dcef9acea5fd67be00b86d60176566",
+    "wof:geomhash":"3f325993bc699b81c9844c9240878f5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806566819,
-    "wof:lastmodified":1467083310,
+    "wof:lastmodified":1510613316,
     "wof:name":"Us Faa",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",

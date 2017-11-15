@@ -2,14 +2,20 @@
   "id": 807334705,
   "type": "Feature",
   "properties": {
+    "addr:full":"7641 Lee Hwy Chattanooga TN 37421",
+    "addr:housenumber":"7641",
+    "addr:postcode":"37421",
+    "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.135101,35.060243,-85.135101,35.060243",
     "geom:latitude":35.060243,
     "geom:longitude":-85.135101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7641 Lee Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087185,
         85848781
     ],
+    "wof:brand_id":420575279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dY66Y7jiouKm9xx6p7r1O_35.060243_-85.135101@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606261,
-    "wof:geomhash":"9f6a8cf9a1d4719c6fd7f70e2bf394b5",
+    "wof:geomhash":"007191176ca112fc44351c5b81b48cb5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807334705,
-    "wof:lastmodified":1467083537,
+    "wof:lastmodified":1510602643,
     "wof:name":"Dennys",
     "wof:parent_id":85848781,
     "wof:placetype":"venue",

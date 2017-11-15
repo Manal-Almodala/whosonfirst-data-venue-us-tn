@@ -2,14 +2,20 @@
   "id": 806817683,
   "type": "Feature",
   "properties": {
+    "addr:full":"2256 Mount Lebanon Rd Covington TN 38019",
+    "addr:housenumber":"2256",
+    "addr:postcode":"38019",
+    "addr:street":"Mount Lebanon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.706915,35.607669,-89.706915,35.607669",
     "geom:latitude":35.607669,
     "geom:longitude":-89.706915,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2256 Mount Lebanon Rd",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125157397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37aCClnWGxelsYwww25eyN_35.607669_-89.706915@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601323,
-    "wof:geomhash":"ceb0b6dd55c345ed097638725144f549",
+    "wof:geomhash":"bf5526a3dfec087d08e70effb1d4511d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806817683,
-    "wof:lastmodified":1467083382,
+    "wof:lastmodified":1510695888,
     "wof:name":"Gethsemane Baptist Church",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

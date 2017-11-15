@@ -2,14 +2,20 @@
   "id": 806650493,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 S Main St Greeneville TN 37743",
+    "addr:housenumber":"307",
+    "addr:postcode":"37743",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.83258,36.160121,-82.83258,36.160121",
     "geom:latitude":36.160121,
     "geom:longitude":-82.83258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"307 S Main St",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086377,
         85826147
     ],
+    "wof:brand_id":1125150351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DJMFL9itWePLjbU3qidm9_36.160121_-82.832580@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599910,
-    "wof:geomhash":"acfe64da0f0ecadb49eec5079bb41e38",
+    "wof:geomhash":"5b473fc1090a13da42671ab188218cad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806650493,
-    "wof:lastmodified":1467083334,
+    "wof:lastmodified":1510697027,
     "wof:name":"Christ United Methodist Church",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",

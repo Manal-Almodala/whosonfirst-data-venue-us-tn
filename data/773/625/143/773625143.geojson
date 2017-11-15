@@ -2,14 +2,20 @@
   "id": 773625143,
   "type": "Feature",
   "properties": {
+    "addr:full":"4991 Sequoia Rd Memphis TN 38117",
+    "addr:housenumber":"4991",
+    "addr:postcode":"38117",
+    "addr:street":"Sequoia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.896449,35.142251,-89.896449,35.142251",
     "geom:latitude":35.142251,
     "geom:longitude":-89.896449,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4991 Sequoia Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85893437
     ],
+    "wof:brand_id":1125158933,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1mdty5uHL1vPw8hs7g5uC0_35.142251_-89.896449@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587130,
-    "wof:geomhash":"54460930080bf424139e3b07315642f7",
+    "wof:geomhash":"3999c3b843d6eb664c5f14b28055eea6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773625143,
-    "wof:lastmodified":1467082940,
+    "wof:lastmodified":1510694264,
     "wof:name":"Bloomers",
     "wof:parent_id":85893437,
     "wof:placetype":"venue",

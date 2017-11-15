@@ -2,14 +2,20 @@
   "id": 807180767,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Lakeview St Newport TN 37821",
+    "addr:housenumber":"103",
+    "addr:postcode":"37821",
+    "addr:street":"Lakeview St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.193112,35.964809,-83.193112,35.964809",
     "geom:latitude":35.964809,
     "geom:longitude":-83.193112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Lakeview St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086241,
         85827351
     ],
+    "wof:brand_id":420574099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UNOVJkysJYmZp2HuMsi7C_35.964809_-83.193112@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604592,
-    "wof:geomhash":"44c1b702d9b76f579ff3ee604da58f7d",
+    "wof:geomhash":"cd902ae4bcdb5236dd99d9723cedea8e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807180767,
-    "wof:lastmodified":1467083483,
+    "wof:lastmodified":1510604881,
     "wof:name":"American Red Cross",
     "wof:parent_id":85827351,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773059853,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Meadows Rd White House TN 37188",
+    "addr:housenumber":"111",
+    "addr:postcode":"37188",
+    "addr:street":"Meadows Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.6468,36.457992,-86.6468,36.457992",
     "geom:latitude":36.457992,
     "geom:longitude":-86.6468,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"9631a0ccae52f3f69beaca995fc96beb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773059853,
-    "wof:lastmodified":1467082793,
+    "wof:lastmodified":1491939241,
     "wof:name":"White House Middle School",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

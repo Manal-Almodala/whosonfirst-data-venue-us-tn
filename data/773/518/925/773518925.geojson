@@ -2,14 +2,20 @@
   "id": 773518925,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W Summer St Greeneville TN 37743",
+    "addr:housenumber":"101",
+    "addr:postcode":"37743",
+    "addr:street":"W Summer St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.831966,36.162428,-82.831966,36.162428",
     "geom:latitude":36.162428,
     "geom:longitude":-82.831966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 W Summer St",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086377,
         85826147
     ],
+    "wof:brand_id":1125156497,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aK9N1yqboU1s6PH7uOA0T_36.162428_-82.831966@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586336,
-    "wof:geomhash":"6ad973cd6d22911e79c30dac10057c49",
+    "wof:geomhash":"0c3474e559d123512471b0228e306b10",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773518925,
-    "wof:lastmodified":1467082915,
+    "wof:lastmodified":1510693939,
     "wof:name":"US District Court Clerk",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",

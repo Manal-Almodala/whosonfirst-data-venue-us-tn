@@ -2,14 +2,20 @@
   "id": 823275717,
   "type": "Feature",
   "properties": {
+    "addr:full":"8132 Cordova Rd Suite 101 Cordova TN 38016",
+    "addr:housenumber":"8132",
+    "addr:postcode":"38016",
+    "addr:street":"Cordova Rd Suite 101",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.791168,35.157641,-89.791168,35.157641",
     "geom:latitude":35.157641,
     "geom:longitude":-89.791168,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8132 Cordova Rd Suite 101",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":1125158703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EU5p0wYTHg7n0EQ0sI4JX_35.157641_-89.791168@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610137,
-    "wof:geomhash":"92d1cb384d165f946f259a8c3ff57677",
+    "wof:geomhash":"9cffc5a41d3f736cda10e076b580466e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823275717,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510613308,
     "wof:name":"AppleOne",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

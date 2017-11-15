@@ -2,14 +2,20 @@
   "id": 790483521,
   "type": "Feature",
   "properties": {
+    "addr:full":"2195 State Line Rd Elizabethton TN 37643",
+    "addr:housenumber":"2195",
+    "addr:postcode":"37643",
+    "addr:street":"State Line Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.205792,36.325286,-82.205792,36.325286",
     "geom:latitude":36.325286,
     "geom:longitude":-82.205792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2195 State Line Rd",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087053,
         85816779
     ],
+    "wof:brand_id":1125155989,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cJuaDQ2vbBRQHQlds1pLm_36.325286_-82.205792@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596221,
-    "wof:geomhash":"96c58e835a994c7d32abec6b7e0c9d77",
+    "wof:geomhash":"a8b420df003c65920fec82cca3b94f27",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":790483521,
-    "wof:lastmodified":1467083213,
+    "wof:lastmodified":1510697366,
     "wof:name":"Snap-On Tools Co",
     "wof:parent_id":85816779,
     "wof:placetype":"venue",

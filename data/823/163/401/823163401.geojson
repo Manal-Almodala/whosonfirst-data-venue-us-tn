@@ -2,14 +2,20 @@
   "id": 823163401,
   "type": "Feature",
   "properties": {
+    "addr:full":"2837 Hickory Valley Rd Chattanooga TN 37421",
+    "addr:housenumber":"2837",
+    "addr:postcode":"37421",
+    "addr:street":"Hickory Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.157137,35.06522,-85.157137,35.06522",
     "geom:latitude":35.06522,
     "geom:longitude":-85.157137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2837 Hickory Valley Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         420541631
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zyuPYy5bqJWh9LaOKyWcP_35.065220_-85.157137@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607846,
-    "wof:geomhash":"c85dc9847a1ea3f1d01727c9bd9750a7",
+    "wof:geomhash":"ee45567050009eef4ea1e0afdfb57037",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823163401,
-    "wof:lastmodified":1467083582,
+    "wof:lastmodified":1510698896,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":420541631,
     "wof:placetype":"venue",

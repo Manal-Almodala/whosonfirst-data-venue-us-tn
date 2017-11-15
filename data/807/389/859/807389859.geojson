@@ -2,14 +2,20 @@
   "id": 807389859,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 Hudson Rd Chattanooga TN 37405",
+    "addr:housenumber":"611",
+    "addr:postcode":"37405",
+    "addr:street":"Hudson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.335512,35.079231,-85.335512,35.079231",
     "geom:latitude":35.079231,
     "geom:longitude":-85.335512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 Hudson Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85858703
     ],
+    "wof:brand_id":1125155735,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MfhAZoS69w0DLuk924CZu_35.079231_-85.335512@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607071,
-    "wof:geomhash":"5268b11aa5e3801258f1b77ea3b275f6",
+    "wof:geomhash":"d7a02dbf8056630b709044ac15527175",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807389859,
-    "wof:lastmodified":1467083562,
+    "wof:lastmodified":1510699770,
     "wof:name":"Cemex",
     "wof:parent_id":85858703,
     "wof:placetype":"venue",

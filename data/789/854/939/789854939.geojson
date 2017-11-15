@@ -2,14 +2,20 @@
   "id": 789854939,
   "type": "Feature",
   "properties": {
+    "addr:full":"540 McCallie Ave Chattanooga TN 37402",
+    "addr:housenumber":"540",
+    "addr:postcode":"37402",
+    "addr:street":"Mccallie Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.302628,35.046286,-85.302628,35.046286",
     "geom:latitude":35.046286,
     "geom:longitude":-85.302628,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"540 McCallie Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541693
     ],
+    "wof:brand_id":420575583,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78Av4nQkEjuFPD33DVZ9PD_35.046286_-85.302628@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591066,
-    "wof:geomhash":"574f3284ae76dd65b30d1fbc3c302063",
+    "wof:geomhash":"069761774ff453f33a96c9da147021dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789854939,
-    "wof:lastmodified":1467083061,
+    "wof:lastmodified":1510601957,
     "wof:name":"Probation Dept",
     "wof:parent_id":420541693,
     "wof:placetype":"venue",

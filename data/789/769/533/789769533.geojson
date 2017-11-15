@@ -2,14 +2,20 @@
   "id": 789769533,
   "type": "Feature",
   "properties": {
+    "addr:full":"1063 Nashville Hwy Lewisburg TN 37091",
+    "addr:housenumber":"1063",
+    "addr:postcode":"37091",
+    "addr:street":"Nashville Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.781354,35.461823,-86.781354,35.461823",
     "geom:latitude":35.461823,
     "geom:longitude":-86.781354,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1063 Nashville Hwy",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087115,
         85811699
     ],
+    "wof:brand_id":1125157911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ek2BklmSNEOJXaVzvhmda_35.461823_-86.781354@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590398,
-    "wof:geomhash":"99bad1bd3b3c6c71c4de799a1b68ad0b",
+    "wof:geomhash":"ba4324e8d8b97058b268185eecc8c0e0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789769533,
-    "wof:lastmodified":1467083041,
+    "wof:lastmodified":1510697541,
     "wof:name":"Mexico Lindo",
     "wof:parent_id":85811699,
     "wof:placetype":"venue",

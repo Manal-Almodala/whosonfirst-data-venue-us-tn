@@ -2,9 +2,14 @@
   "id": 789746295,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Norvich Ct Franklin TN 37069",
+    "addr:housenumber":"307",
+    "addr:postcode":"37069",
+    "addr:street":"Norvich Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.890164,35.9649,-86.890164,35.9649",
     "geom:latitude":35.9649,
     "geom:longitude":-86.890164,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -40,6 +46,7 @@
     "wof:geomhash":"377a01dde199bf517c2fe3b192de6b39",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789746295,
-    "wof:lastmodified":1467083035,
+    "wof:lastmodified":1491924183,
     "wof:name":"Navarre Corporation",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

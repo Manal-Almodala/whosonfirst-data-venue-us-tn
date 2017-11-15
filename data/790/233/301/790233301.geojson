@@ -2,14 +2,20 @@
   "id": 790233301,
   "type": "Feature",
   "properties": {
+    "addr:full":"7608 Shallowford Rd Chattanooga TN 37421",
+    "addr:housenumber":"7608",
+    "addr:postcode":"37421",
+    "addr:street":"Shallowford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.139673,35.036463,-85.139673,35.036463",
     "geom:latitude":35.036463,
     "geom:longitude":-85.139673,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7608 Shallowford Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85805409
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XL31vaaBp5jBP8Wtx8Ot2_35.036463_-85.139673@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594198,
-    "wof:geomhash":"6771c7ff163cb8bd1d72116472f800a2",
+    "wof:geomhash":"b18f65c31f8e0ab7d3d6d936a2f3f016",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790233301,
-    "wof:lastmodified":1467083151,
+    "wof:lastmodified":1510698754,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85805409,
     "wof:placetype":"venue",

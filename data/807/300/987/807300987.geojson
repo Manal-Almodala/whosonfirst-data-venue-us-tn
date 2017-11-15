@@ -2,14 +2,20 @@
   "id": 807300987,
   "type": "Feature",
   "properties": {
+    "addr:full":"3585 Workman Rd Knoxville TN 37921",
+    "addr:housenumber":"3585",
+    "addr:postcode":"37921",
+    "addr:street":"Workman Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.014063,35.961657,-84.014063,35.961657",
     "geom:latitude":35.961657,
     "geom:longitude":-84.014063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3585 Workman Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         420541859
     ],
+    "wof:brand_id":420575297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QzEbdyOjXhujrwCEV0F3A_35.961657_-84.014063@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605864,
-    "wof:geomhash":"6b5f4e1602088cc4e54dd8017883d7d9",
+    "wof:geomhash":"33695adc5e4d2d810956ea4cacf25cd2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807300987,
-    "wof:lastmodified":1467083524,
+    "wof:lastmodified":1510602930,
     "wof:name":"AT&T Wireless",
     "wof:parent_id":420541859,
     "wof:placetype":"venue",

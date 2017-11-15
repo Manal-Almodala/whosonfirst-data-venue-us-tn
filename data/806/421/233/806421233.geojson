@@ -2,14 +2,20 @@
   "id": 806421233,
   "type": "Feature",
   "properties": {
+    "addr:full":"7856 Mc Crory Ln Nashville TN 37221",
+    "addr:housenumber":"7856",
+    "addr:postcode":"37221",
+    "addr:street":"Mc Crory Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.025138,36.084112,-87.025138,36.084112",
     "geom:latitude":36.084112,
     "geom:longitude":-87.025138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7856 Mc Crory Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85836869
     ],
+    "wof:brand_id":1125155219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ABlcXlK7RPqXacdbvyN0a_36.084112_-87.025138@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598016,
-    "wof:geomhash":"563d2c7d6cb497d81589239d6dbca0ab",
+    "wof:geomhash":"12f40cead8db370df5ee243e5baf72a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806421233,
-    "wof:lastmodified":1467083270,
+    "wof:lastmodified":1510695371,
     "wof:name":"Asplundh Tree Expert Co",
     "wof:parent_id":85836869,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 790527203,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Patton Ln Ashland City TN 37075",
+    "addr:housenumber":"120",
+    "addr:postcode":"37075",
+    "addr:street":"Patton Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.639051,36.345054,-86.639051,36.345054",
     "geom:latitude":36.345054,
     "geom:longitude":-86.639051,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"da72dc91809fa81116bd6256dd89639b",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790527203,
-    "wof:lastmodified":1467083225,
+    "wof:lastmodified":1491939227,
     "wof:name":"Custom Drapery Design",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

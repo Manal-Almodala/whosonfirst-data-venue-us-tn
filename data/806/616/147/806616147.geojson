@@ -2,14 +2,20 @@
   "id": 806616147,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 S Cedar Ln Pulaski TN 38478",
+    "addr:housenumber":"209",
+    "addr:postcode":"38478",
+    "addr:street":"S Cedar Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.021941,35.195874,-87.021941,35.195874",
     "geom:latitude":35.195874,
     "geom:longitude":-87.021941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"209 S Cedar Ln",
     "sg:city":"Pulaski",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         420558609,
         85843973
     ],
+    "wof:brand_id":420575639,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1dgTzJlaK2NsMXl3mTkoMD_35.195874_-87.021941@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599622,
-    "wof:geomhash":"e66f72ab0afabc568f3bd616595aa1c8",
+    "wof:geomhash":"b29b62886082f220cd616dbd42c0e348",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":806616147,
-    "wof:lastmodified":1467083324,
+    "wof:lastmodified":1510602840,
     "wof:name":"Health Dept",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

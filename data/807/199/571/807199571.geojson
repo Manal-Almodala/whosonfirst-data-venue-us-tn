@@ -2,9 +2,14 @@
   "id": 807199571,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Lee Rd Cottontown TN 37048",
+    "addr:housenumber":"515",
+    "addr:postcode":"37048",
+    "addr:street":"Lee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.636243,36.496664,-86.636243,36.496664",
     "geom:latitude":36.496664,
     "geom:longitude":-86.636243,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"97eb00a6ef5c2d0d1f9474d47dfd7492",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807199571,
-    "wof:lastmodified":1467083489,
+    "wof:lastmodified":1491939207,
     "wof:name":"Berry Patch Landscaping",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

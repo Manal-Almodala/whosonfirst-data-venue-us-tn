@@ -2,6 +2,10 @@
   "id": 823264951,
   "type": "Feature",
   "properties": {
+    "addr:full":"1201 Dr Db Todd Jr Blvd Nashville TN 37208",
+    "addr:housenumber":"1201",
+    "addr:postcode":"37208",
+    "addr:street":"Dr;Jr Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -61,7 +65,7 @@
         }
     ],
     "wof:id":823264951,
-    "wof:lastmodified":1467083648,
+    "wof:lastmodified":1472645680,
     "wof:name":"SunTrust Bank - North Nashville",
     "wof:parent_id":85893469,
     "wof:placetype":"venue",

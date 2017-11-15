@@ -2,14 +2,20 @@
   "id": 807336937,
   "type": "Feature",
   "properties": {
+    "addr:full":"1211 Foster Ave Nashville TN 37210",
+    "addr:housenumber":"1211",
+    "addr:postcode":"37210",
+    "addr:street":"Foster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.741654,36.132531,-86.741654,36.132531",
     "geom:latitude":36.132531,
     "geom:longitude":-86.741654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1211 Foster Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85858535,
         85893481
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29t52Q3e945IkJa0rJBJ3v_36.132531_-86.741654@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606308,
-    "wof:geomhash":"982ed70500baa0619ca8d51e27efd24b",
+    "wof:geomhash":"ada9fcc264c587ef84e7efed54eec3f7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":807336937,
-    "wof:lastmodified":1467083538,
+    "wof:lastmodified":1510699751,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

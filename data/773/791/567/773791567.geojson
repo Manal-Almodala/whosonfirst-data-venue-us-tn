@@ -2,14 +2,20 @@
   "id": 773791567,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Serral Dr Greeneville TN 37745",
+    "addr:housenumber":"128",
+    "addr:postcode":"37745",
+    "addr:street":"Serral Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.766402,36.189044,-82.766402,36.189044",
     "geom:latitude":36.189044,
     "geom:longitude":-82.766402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"128 Serral Dr",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086377,
         85811803
     ],
+    "wof:brand_id":1125151039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4bqds4b9sHdYTK03WVgGRj_36.189044_-82.766402@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588400,
-    "wof:geomhash":"fe394b445f4575070c59c24f7e7a3e3a",
+    "wof:geomhash":"789abc45b61364af97ddb10113dc8426",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773791567,
-    "wof:lastmodified":1467082980,
+    "wof:lastmodified":1510697385,
     "wof:name":"Human Service Dept",
     "wof:parent_id":85811803,
     "wof:placetype":"venue",

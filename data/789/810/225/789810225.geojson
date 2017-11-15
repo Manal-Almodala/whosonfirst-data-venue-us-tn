@@ -2,6 +2,10 @@
   "id": 789810225,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Main Ave Dayton TN 37321",
+    "addr:housenumber":"400",
+    "addr:postcode":"37321",
+    "addr:street":"Main Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":789810225,
-    "wof:lastmodified":1467083050,
+    "wof:lastmodified":1472645204,
     "wof:name":"Dayton City Of Utility Billing",
     "wof:parent_id":85811795,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790204605,
   "type": "Feature",
   "properties": {
+    "addr:full":"374 Forks of the River Pkwy Sevierville TN 37862",
+    "addr:housenumber":"374",
+    "addr:postcode":"37862",
+    "addr:street":"Forks Of The River Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.567047,35.8634,-83.567047,35.8634",
     "geom:latitude":35.8634,
     "geom:longitude":-83.567047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"374 Forks of the River Pkwy",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086245,
         85841771
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Wlhtz3MWyrG5ZrWuclm6A_35.863400_-83.567047@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593991,
-    "wof:geomhash":"63beb7258f41e690066a2290491beb1a",
+    "wof:geomhash":"356d606ffa1f208683acfed22adb5c41",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790204605,
-    "wof:lastmodified":1467083145,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85841771,
     "wof:placetype":"venue",

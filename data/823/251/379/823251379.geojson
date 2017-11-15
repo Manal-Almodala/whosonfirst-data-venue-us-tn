@@ -2,14 +2,20 @@
   "id": 823251379,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 E Emory Rd Powell TN 37849",
+    "addr:housenumber":"405",
+    "addr:postcode":"37849",
+    "addr:street":"E Emory Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.999921,36.049113,-83.999921,36.049113",
     "geom:latitude":36.049113,
     "geom:longitude":-83.999921,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"405 E Emory Rd",
     "sg:city":"Powell",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086455,
         85826965
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HiHzCTrgOptDEbhx3J4vQ_36.049113_-83.999921@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609361,
-    "wof:geomhash":"4191378354e715ba61e17368f002a5a8",
+    "wof:geomhash":"741e3efa9e4f69a19380c74ffede25ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823251379,
-    "wof:lastmodified":1467083636,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":85826965,
     "wof:placetype":"venue",

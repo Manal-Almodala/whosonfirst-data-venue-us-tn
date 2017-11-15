@@ -2,14 +2,20 @@
   "id": 806901145,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 W Main St Morristown TN 37814",
+    "addr:housenumber":"717",
+    "addr:postcode":"37814",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.299887,36.209744,-83.299887,36.209744",
     "geom:latitude":36.209744,
     "geom:longitude":-83.299887,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"717 W Main St",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UyDCSEw4iO2TEqnOyJWjo_36.209744_-83.299887@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602017,
-    "wof:geomhash":"65a2c9cc007189b7f556c826907e9d99",
+    "wof:geomhash":"727e9cce891839f68168ab55e05cd64c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806901145,
-    "wof:lastmodified":1467083405,
+    "wof:lastmodified":1510604738,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

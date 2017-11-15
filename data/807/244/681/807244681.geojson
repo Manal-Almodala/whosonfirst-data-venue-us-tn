@@ -2,14 +2,20 @@
   "id": 807244681,
   "type": "Feature",
   "properties": {
+    "addr:full":"3481 Poplar Ave Memphis TN 38111",
+    "addr:housenumber":"3481",
+    "addr:postcode":"38111",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.94766,35.128359,-89.94766,35.128359",
     "geom:latitude":35.128359,
     "geom:longitude":-89.94766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3481 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85837075
     ],
+    "wof:brand_id":1125156335,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58RwevVj9N4vu7GJgXfzTF_35.128359_-89.947660@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605271,
-    "wof:geomhash":"62680d127ded9dc454f95da5c2092a31",
+    "wof:geomhash":"583ee978d907567f8362dc87d3e259b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807244681,
-    "wof:lastmodified":1467083505,
+    "wof:lastmodified":1510697029,
     "wof:name":"Affordable Dentures",
     "wof:parent_id":85837075,
     "wof:placetype":"venue",

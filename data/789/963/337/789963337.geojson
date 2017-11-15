@@ -2,14 +2,20 @@
   "id": 789963337,
   "type": "Feature",
   "properties": {
+    "addr:full":"2410 Franklin Pike Nashville TN 37204",
+    "addr:housenumber":"2410",
+    "addr:postcode":"37204",
+    "addr:street":"Franklin Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.776699,36.125325,-86.776699,36.125325",
     "geom:latitude":36.125325,
     "geom:longitude":-86.776699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2410 Franklin Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893439
     ],
+    "wof:brand_id":1125156377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N2vgvI6kVGcLDITHak4sP_36.125325_-86.776699@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592025,
-    "wof:geomhash":"fa6c5b9b4cc2f1c727c4781c0eb694bb",
+    "wof:geomhash":"a9d6ffb74bf929a78e52eaf44753ab80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789963337,
-    "wof:lastmodified":1467083087,
+    "wof:lastmodified":1510699357,
     "wof:name":"Concentra Medical Ctr",
     "wof:parent_id":85893439,
     "wof:placetype":"venue",

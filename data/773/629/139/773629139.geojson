@@ -2,14 +2,20 @@
   "id": 773629139,
   "type": "Feature",
   "properties": {
+    "addr:full":"2207 Airbase Rd Louisville TN 37777",
+    "addr:housenumber":"2207",
+    "addr:postcode":"37777",
+    "addr:street":"Airbase Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.00178,35.817669,-84.00178,35.817669",
     "geom:latitude":35.817669,
     "geom:longitude":-84.00178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2207 Airbase Rd",
     "sg:city":"Louisville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087017,
         85819017
     ],
+    "wof:brand_id":1125150599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1EECW1P4rciNhoXyuAo1Kd_35.817669_-84.001780@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587165,
-    "wof:geomhash":"e5c4baf709fdc90efa9a73e99751d677",
+    "wof:geomhash":"e334abd03a6256cb8fad775901715867",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773629139,
-    "wof:lastmodified":1467082941,
+    "wof:lastmodified":1510613425,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":85819017,
     "wof:placetype":"venue",

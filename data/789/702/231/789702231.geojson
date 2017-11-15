@@ -2,14 +2,20 @@
   "id": 789702231,
   "type": "Feature",
   "properties": {
+    "addr:full":"3035 Darrow St Memphis TN 38118",
+    "addr:housenumber":"3035",
+    "addr:postcode":"38118",
+    "addr:street":"Darrow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.887833,35.066119,-89.887833,35.066119",
     "geom:latitude":35.066119,
     "geom:longitude":-89.887833,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3035 Darrow St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85870783,
         85870785
     ],
+    "wof:brand_id":1125157551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UPgDQMo6RnAziB0YF2ufc_35.066119_-89.887833@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589873,
-    "wof:geomhash":"8d90ca3b4b4ecab4cf05c8872a96e737",
+    "wof:geomhash":"7f830497c1d885ba2fcb075ec5fcfa6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":789702231,
-    "wof:lastmodified":1467083025,
+    "wof:lastmodified":1510697356,
     "wof:name":"American Gen Lf Accident Insur",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

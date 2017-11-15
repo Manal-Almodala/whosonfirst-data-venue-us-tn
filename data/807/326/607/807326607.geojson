@@ -2,14 +2,20 @@
   "id": 807326607,
   "type": "Feature",
   "properties": {
+    "addr:full":"602 S Riverside Dr Clarksville TN 37040",
+    "addr:housenumber":"602",
+    "addr:postcode":"37040",
+    "addr:street":"S Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.363184,36.519239,-87.363184,36.519239",
     "geom:latitude":36.519239,
     "geom:longitude":-87.363184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"602 S Riverside Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85807343,
         102086353
     ],
+    "wof:brand_id":420575889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zTrqHIBsGWDO2rRO1lU4p_36.519239_-87.363184@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606150,
-    "wof:geomhash":"78ac50cbc5eb443d05bf898f4b5fb06b",
+    "wof:geomhash":"cf4d385c719c6b5260f8cd1f3f71d7bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807326607,
-    "wof:lastmodified":1467083534,
+    "wof:lastmodified":1510602989,
     "wof:name":"Labor Finders",
     "wof:parent_id":85807343,
     "wof:placetype":"venue",

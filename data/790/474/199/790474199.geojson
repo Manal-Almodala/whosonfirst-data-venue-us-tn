@@ -2,14 +2,20 @@
   "id": 790474199,
   "type": "Feature",
   "properties": {
+    "addr:full":"8700 Hopemont Way Knoxville TN 37923",
+    "addr:housenumber":"",
+    "addr:postcode":"8700;37923",
+    "addr:street":"Hopemont Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.060296,35.896322,-84.060296,35.896322",
     "geom:latitude":35.896322,
     "geom:longitude":-84.060296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8700 Hopemont Way",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85810021
     ],
+    "wof:brand_id":1125154129,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72kKIHyBipgGA31IUpATel_35.896322_-84.060296@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596144,
-    "wof:geomhash":"8967c03cb02dafae2b7d301de8101d92",
+    "wof:geomhash":"67c1e47c15a222b139118ab73a47c159",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790474199,
-    "wof:lastmodified":1467083210,
+    "wof:lastmodified":1510697510,
     "wof:name":"Medtronic",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806947149,
   "type": "Feature",
   "properties": {
+    "addr:full":"5700 Brainerd Rd Chattanooga TN 37411",
+    "addr:housenumber":"",
+    "addr:postcode":"5700;37411",
+    "addr:street":"Brainerd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.213959,35.011708,-85.213959,35.011708",
     "geom:latitude":35.011708,
     "geom:longitude":-85.213959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5700 Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         85876729
     ],
+    "wof:brand_id":420575201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_665ffXxtOGzZy4Y0dCjDqI_35.011708_-85.213959@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602415,
-    "wof:geomhash":"c3fde7a925f7e15546898858987a9d8b",
+    "wof:geomhash":"0ebf29510f88ce1be9e4da5fee5e34b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806947149,
-    "wof:lastmodified":1467083417,
+    "wof:lastmodified":1510602699,
     "wof:name":"Consumer Credit Counseling Svc",
     "wof:parent_id":85876729,
     "wof:placetype":"venue",

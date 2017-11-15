@@ -2,9 +2,14 @@
   "id": 823182587,
   "type": "Feature",
   "properties": {
+    "addr:full":"4276 Warren Rd Franklin TN 37067",
+    "addr:housenumber":"4276",
+    "addr:postcode":"37067",
+    "addr:street":"Warren Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807195,35.894034,-86.807195,35.894034",
     "geom:latitude":35.894034,
     "geom:longitude":-86.807195,
@@ -24,12 +29,7 @@
     "sg:postcode":"37067",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0P3QafEB9Qgnb4g9a4ljWT_35.894034_-86.807195@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462608098,
     "wof:geomhash":"1d7bb85e680e0597543a3a97cc5a539d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":823182587
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823182587,
-    "wof:lastmodified":1467083591,
+    "wof:lastmodified":1491924957,
     "wof:name":"Bright Stone Inc",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

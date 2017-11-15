@@ -2,14 +2,20 @@
   "id": 790151141,
   "type": "Feature",
   "properties": {
+    "addr:full":"7986 US Hwy 64 Memphis TN 38133",
+    "addr:housenumber":"7986",
+    "addr:postcode":"38133",
+    "addr:street":"Us Hwy 64",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.796565,35.204823,-89.796565,35.204823",
     "geom:latitude":35.204823,
     "geom:longitude":-89.796565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7986 US Hwy 64",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125150325,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RSAPqNLbdSy3m5etOnn2O_35.204823_-89.796565@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593513,
-    "wof:geomhash":"0b8784e1ef055d66ba4e771a4bdcc54a",
+    "wof:geomhash":"d91a68f098da178e77f82488479db910",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790151141,
-    "wof:lastmodified":1467083132,
+    "wof:lastmodified":1510694570,
     "wof:name":"Hobby Lobby Creative Ctr",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

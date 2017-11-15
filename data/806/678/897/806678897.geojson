@@ -2,14 +2,20 @@
   "id": 806678897,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Elmore Rd Crossville TN 38555",
+    "addr:housenumber":"139",
+    "addr:postcode":"38555",
+    "addr:street":"Elmore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.038441,35.961379,-85.038441,35.961379",
     "geom:latitude":35.961379,
     "geom:longitude":-85.038441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"139 Elmore Rd",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_74A5FT4Gav5IUtDZhzCfyu_35.961379_-85.038441@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600162,
-    "wof:geomhash":"e69a3b2ddb1b03e9b9b7a952422bbca3",
+    "wof:geomhash":"7fdad290c62df914fab5b803a998934b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806678897,
-    "wof:lastmodified":1467083342,
+    "wof:lastmodified":1510681766,
     "wof:name":"AM South Bank",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

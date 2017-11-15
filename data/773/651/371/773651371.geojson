@@ -2,14 +2,20 @@
   "id": 773651371,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 Woodside Ct Franklin TN 37067",
+    "addr:housenumber":"308",
+    "addr:postcode":"37067",
+    "addr:street":"Woodside Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.835726,35.930357,-86.835726,35.930357",
     "geom:latitude":35.930357,
     "geom:longitude":-86.835726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"308 Woodside Ct",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         420542355
     ],
+    "wof:brand_id":420574487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NUV785fd5qzFOZ0BfaehG_35.930357_-86.835726@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587337,
-    "wof:geomhash":"bab2162774aecb6f14f03b9d1540182e",
+    "wof:geomhash":"fdc86f84a8eaee278158fbc571d77b57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773651371,
-    "wof:lastmodified":1467082946,
+    "wof:lastmodified":1510604317,
     "wof:name":"Aramark",
     "wof:parent_id":420542355,
     "wof:placetype":"venue",

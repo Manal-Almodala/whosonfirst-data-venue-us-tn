@@ -2,14 +2,20 @@
   "id": 790624459,
   "type": "Feature",
   "properties": {
+    "addr:full":"1525 Market St Dayton TN 37321",
+    "addr:housenumber":"1525",
+    "addr:postcode":"37321",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.011877,35.495419,-85.011877,35.495419",
     "geom:latitude":35.495419,
     "geom:longitude":-85.011877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1525 Market St",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086477,
         85808219
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2wgEfJx3fsRruqseNabK3Y_35.495419_-85.011877@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597457,
-    "wof:geomhash":"ba47dc6ae5e6955e0e3ddd4cb68683df",
+    "wof:geomhash":"277c7fe774379fa10b15ecc2117af38b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790624459,
-    "wof:lastmodified":1467083252,
+    "wof:lastmodified":1510608504,
     "wof:name":"AM South Bank",
     "wof:parent_id":85808219,
     "wof:placetype":"venue",

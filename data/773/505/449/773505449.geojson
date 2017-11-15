@@ -2,14 +2,20 @@
   "id": 773505449,
   "type": "Feature",
   "properties": {
+    "addr:full":"5181 State Hwy 58 Chattanooga TN 37416",
+    "addr:housenumber":"5181",
+    "addr:postcode":"37416",
+    "addr:street":"State Hwy 58",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.173625,35.096954,-85.173625,35.096954",
     "geom:latitude":35.096954,
     "geom:longitude":-85.173625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5181 State Hwy 58",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85831217
     ],
+    "wof:brand_id":1125153791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HgO7JMx3xvxFCT9w7w3z2_35.096954_-85.173625@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586243,
-    "wof:geomhash":"b438a6fc3ec389ef558261f3b60d60d3",
+    "wof:geomhash":"a4be9aeff18f48e70bf09762329ec056",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773505449,
-    "wof:lastmodified":1467082912,
+    "wof:lastmodified":1510699996,
     "wof:name":"Mt Calvary Baptist Church",
     "wof:parent_id":85831217,
     "wof:placetype":"venue",

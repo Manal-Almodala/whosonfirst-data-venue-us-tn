@@ -2,14 +2,20 @@
   "id": 790055983,
   "type": "Feature",
   "properties": {
+    "addr:full":"2225 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"2225",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.685264,36.307157,-86.685264,36.307157",
     "geom:latitude":36.307157,
     "geom:longitude":-86.685264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2225 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125151241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55GM8eE4xRAw1JcSEws8yo_36.307157_-86.685264@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592786,
-    "wof:geomhash":"725899c984ef1ab8869185ff10e0e79b",
+    "wof:geomhash":"0f308a16951e3e849b777aac03d6de05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790055983,
-    "wof:lastmodified":1467083109,
+    "wof:lastmodified":1510697264,
     "wof:name":"Vitamin Shoppe",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

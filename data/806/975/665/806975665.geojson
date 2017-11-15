@@ -2,14 +2,20 @@
   "id": 806975665,
   "type": "Feature",
   "properties": {
+    "addr:full":"4175 Winchester Rd Memphis TN 38118",
+    "addr:housenumber":"4175",
+    "addr:postcode":"38118",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.923938,35.051558,-89.923938,35.051558",
     "geom:latitude":35.051558,
     "geom:longitude":-89.923938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4175 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":420575993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_36iJrNIDVcFDUtilSZ23LL_35.051558_-89.923938@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602654,
-    "wof:geomhash":"874f73f3730b60fc7d273564fd857787",
+    "wof:geomhash":"4fa9832ed3eec9e9a97115b5ae359e04",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806975665,
-    "wof:lastmodified":1467083425,
+    "wof:lastmodified":1510602055,
     "wof:name":"Storage USA",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

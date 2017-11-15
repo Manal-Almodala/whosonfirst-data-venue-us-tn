@@ -2,14 +2,20 @@
   "id": 823147107,
   "type": "Feature",
   "properties": {
+    "addr:full":"4225 Winchester Rd Memphis TN 38118",
+    "addr:housenumber":"4225",
+    "addr:postcode":"38118",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.922831,35.05153,-89.922831,35.05153",
     "geom:latitude":35.05153,
     "geom:longitude":-89.922831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4225 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gtdaO08ltdnv4yAYkR2VA_35.051530_-89.922831@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607633,
-    "wof:geomhash":"8b68540b421fa745f83442dcace5eef1",
+    "wof:geomhash":"4ecb66fbadf0506b9c54efd4a9735823",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823147107,
-    "wof:lastmodified":1467083575,
+    "wof:lastmodified":1510697538,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

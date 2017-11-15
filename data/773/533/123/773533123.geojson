@@ -2,14 +2,20 @@
   "id": 773533123,
   "type": "Feature",
   "properties": {
+    "addr:full":"5733 Raleigh Lagrange Rd Memphis TN 38134",
+    "addr:housenumber":"5733",
+    "addr:postcode":"38134",
+    "addr:street":"Raleigh Lagrange Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.872245,35.182846,-89.872245,35.182846",
     "geom:latitude":35.182846,
     "geom:longitude":-89.872245,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5733 Raleigh Lagrange Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125155731,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xgXv6lec4KWTp3nGZ7rpj_35.182846_-89.872245@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586435,
-    "wof:geomhash":"8e2462c525b68bbf98c8d3cc01c47380",
+    "wof:geomhash":"1d7f82f9e12727b3f60cd8b3d25af536",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773533123,
-    "wof:lastmodified":1467082918,
+    "wof:lastmodified":1510699772,
     "wof:name":"Cash Tyme",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

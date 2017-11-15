@@ -2,14 +2,20 @@
   "id": 806389417,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 21st Ave N Nashville TN 37203",
+    "addr:housenumber":"400",
+    "addr:postcode":"37203",
+    "addr:street":"21St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806615,36.15705,-86.806615,36.15705",
     "geom:latitude":36.15705,
     "geom:longitude":-86.806615,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 21st Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85893455
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BDsIRpX8wZa0D6GMUw4l9_36.157050_-86.806615@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597748,
-    "wof:geomhash":"c78ece71d798607e35de8f61d82ceea6",
+    "wof:geomhash":"236fec07fdb8891342c9112578b1f497",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806389417,
-    "wof:lastmodified":1467083262,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85893455,
     "wof:placetype":"venue",

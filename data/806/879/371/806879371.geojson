@@ -2,9 +2,14 @@
   "id": 806879371,
   "type": "Feature",
   "properties": {
+    "addr:full":"3578 Long Hollow Pike Goodlettsville TN 37072",
+    "addr:housenumber":"3578",
+    "addr:postcode":"37072",
+    "addr:street":"Long Hollow Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.623628,36.370335,-86.623628,36.370335",
     "geom:latitude":36.370335,
     "geom:longitude":-86.623628,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"629bd9b5199927ce4811bbc167c8884f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806879371,
-    "wof:lastmodified":1467083399,
+    "wof:lastmodified":1491939238,
     "wof:name":"Shackle Island Church Christ",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

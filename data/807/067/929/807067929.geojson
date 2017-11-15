@@ -2,14 +2,20 @@
   "id": 807067929,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Harding Industrial Dr Nashville TN 37211",
+    "addr:housenumber":"405",
+    "addr:postcode":"37211",
+    "addr:street":"Harding Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.698954,36.096813,-86.698954,36.096813",
     "geom:latitude":36.096813,
     "geom:longitude":-86.698954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"405 Harding Industrial Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":1125152705,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tHH3GQAEF7cz8T3aylsQS_36.096813_-86.698954@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603430,
-    "wof:geomhash":"fccc20b48bd5999586efd280918f81d7",
+    "wof:geomhash":"da07d30487d12271bd32eb0fb23e54cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807067929,
-    "wof:lastmodified":1467083451,
+    "wof:lastmodified":1510697049,
     "wof:name":"Cort Furniture Rental",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790062557,
   "type": "Feature",
   "properties": {
+    "addr:full":"2484 Old Fort Pkwy Murfreesboro TN 37128",
+    "addr:housenumber":"2484",
+    "addr:postcode":"37128",
+    "addr:street":"Old Fort Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.448562,35.845058,-86.448562,35.845058",
     "geom:latitude":35.845058,
     "geom:longitude":-86.448562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2484 Old Fort Pkwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125152141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XxeTntWogJ4J8LmGiMthM_35.845058_-86.448562@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592840,
-    "wof:geomhash":"c48afd652b77d2da6349853fc90a6281",
+    "wof:geomhash":"80149d3577cdeb94f163716e90d9bcf2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790062557,
-    "wof:lastmodified":1467083111,
+    "wof:lastmodified":1510693737,
     "wof:name":"Cookie Bouquet",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

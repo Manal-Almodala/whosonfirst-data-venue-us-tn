@@ -2,14 +2,20 @@
   "id": 773285927,
   "type": "Feature",
   "properties": {
+    "addr:full":"345 Harding Pl Nashville TN 37211",
+    "addr:housenumber":"345",
+    "addr:postcode":"37211",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.696687,36.086808,-86.696687,36.086808",
     "geom:latitude":36.086808,
     "geom:longitude":-86.696687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"345 Harding Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":420575279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26HwCefdi538bp0UfW2M6r_36.086808_-86.696687@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584570,
-    "wof:geomhash":"be0a89e993736eb4526bca5089b1c903",
+    "wof:geomhash":"f5701f4cc2935d0ba829dce031e16878",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773285927,
-    "wof:lastmodified":1467082857,
+    "wof:lastmodified":1510602643,
     "wof:name":"Dennys",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

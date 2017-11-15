@@ -2,9 +2,14 @@
   "id": 790245581,
   "type": "Feature",
   "properties": {
+    "addr:full":"4364 S Carothers Rd Franklin TN 37064",
+    "addr:housenumber":"4364",
+    "addr:postcode":"37064",
+    "addr:street":"S Carothers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816976,35.888092,-86.816976,35.888092",
     "geom:latitude":35.888092,
     "geom:longitude":-86.816976,
@@ -27,12 +32,7 @@
         "body"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3DbtdpusLpmtsv04nycKxb_35.888092_-86.816976@1294204733"
@@ -40,19 +40,11 @@
     "wof:country":"US",
     "wof:created":1462594289,
     "wof:geomhash":"124645f99c63bd9bebe652a5e0a37dc0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":790245581
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790245581,
-    "wof:lastmodified":1467083154,
+    "wof:lastmodified":1491924951,
     "wof:name":"J H Body Shop",
-    "wof:parent_id":85830149,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

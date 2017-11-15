@@ -2,14 +2,20 @@
   "id": 789704889,
   "type": "Feature",
   "properties": {
+    "addr:full":"7279 Blue Springs Pkwy Mosheim TN 37818",
+    "addr:housenumber":"7279",
+    "addr:postcode":"37818",
+    "addr:street":"Blue Springs Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.946744,36.197128,-82.946744,36.197128",
     "geom:latitude":36.197128,
     "geom:longitude":-82.946744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7279 Blue Springs Pkwy",
     "sg:city":"Mosheim",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85851539,
         102086377
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vcDEL7za0Xk4hB5LbNTMt_36.197128_-82.946744@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589891,
-    "wof:geomhash":"d986d77a41475f3fff4ddf1f2080ea27",
+    "wof:geomhash":"e4d63487b26261eaf8f420cb492e6fd3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789704889,
-    "wof:lastmodified":1467083026,
+    "wof:lastmodified":1510601964,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":85851539,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773163049,
   "type": "Feature",
   "properties": {
+    "addr:full":"2041 Murfreesboro Rd Lebanon TN 37090",
+    "addr:housenumber":"2041",
+    "addr:postcode":"37090",
+    "addr:street":"Murfreesboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.31744,36.141698,-86.31744,36.141698",
     "geom:latitude":36.141698,
     "geom:longitude":-86.31744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2041 Murfreesboro Rd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125154091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4UhFdHUAnzkfX5rCiV0Q5Z_36.141698_-86.317440@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583616,
-    "wof:geomhash":"f000f7a8cae6391e42d618f886b30acb",
+    "wof:geomhash":"22ecd02970f77929d8709b94ef7429f2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773163049,
-    "wof:lastmodified":1467082818,
+    "wof:lastmodified":1510699678,
     "wof:name":"Vulcan Materials Company",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

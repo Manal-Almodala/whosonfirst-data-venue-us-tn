@@ -2,9 +2,14 @@
   "id": 790284885,
   "type": "Feature",
   "properties": {
+    "addr:full":"189 Cottonwood Dr Franklin TN 37069",
+    "addr:housenumber":"189",
+    "addr:postcode":"37069",
+    "addr:street":"Cottonwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.910577,35.970721,-86.910577,35.970721",
     "geom:latitude":35.970721,
     "geom:longitude":-86.910577,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -44,6 +50,7 @@
     "wof:geomhash":"14c2e8d1c8580ecc5708cd51f37d7ea2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790284885,
-    "wof:lastmodified":1467083163,
+    "wof:lastmodified":1491924176,
     "wof:name":"Plageman Associates",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

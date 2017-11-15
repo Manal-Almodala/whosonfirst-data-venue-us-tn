@@ -2,14 +2,20 @@
   "id": 773380061,
   "type": "Feature",
   "properties": {
+    "addr:full":"3450 Fescue Ln Memphis TN 38115",
+    "addr:housenumber":"3450",
+    "addr:postcode":"38115",
+    "addr:street":"Fescue Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.855244,35.054724,-89.855244,35.054724",
     "geom:latitude":35.054724,
     "geom:longitude":-89.855244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3450 Fescue Ln",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":1125158215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7L0wjlxrF2QXXkTzJ3O7Wi_35.054724_-89.855244@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585251,
-    "wof:geomhash":"96436eb7be51f8fa209d9ecb8129437a",
+    "wof:geomhash":"f9b0a56a38045a0bcb2d76312b676791",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773380061,
-    "wof:lastmodified":1467082882,
+    "wof:lastmodified":1510699387,
     "wof:name":"Village Green Apartments",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

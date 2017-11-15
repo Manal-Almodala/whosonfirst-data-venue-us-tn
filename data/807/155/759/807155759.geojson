@@ -2,14 +2,20 @@
   "id": 807155759,
   "type": "Feature",
   "properties": {
+    "addr:full":"767 Boeing Rd Oak Ridge TN 37830",
+    "addr:housenumber":"767",
+    "addr:postcode":"37830",
+    "addr:street":"Boeing Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.231297,36.005458,-84.231297,36.005458",
     "geom:latitude":36.005458,
     "geom:longitude":-84.231297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"767 Boeing Rd",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086483,
         85818065
     ],
+    "wof:brand_id":1125157787,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LfnOl3ubxZ8TUpFqd4G3W_36.005458_-84.231297@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604328,
-    "wof:geomhash":"c168be1c8ef8f8af56c027b25c9d2e02",
+    "wof:geomhash":"2283cac6aa66466a6e91df380e1641e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807155759,
-    "wof:lastmodified":1467083475,
+    "wof:lastmodified":1510697451,
     "wof:name":"Boeing",
     "wof:parent_id":85818065,
     "wof:placetype":"venue",

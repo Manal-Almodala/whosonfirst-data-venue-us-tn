@@ -2,9 +2,14 @@
   "id": 773309027,
   "type": "Feature",
   "properties": {
+    "addr:full":"4039 Hwy 76 Cottontown TN 37048",
+    "addr:housenumber":"4039",
+    "addr:postcode":"37048",
+    "addr:street":"Hwy 76",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.608178,36.485479,-86.608178,36.485479",
     "geom:latitude":36.485479,
     "geom:longitude":-86.608178,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"9d4e37cedba0285f8d064104875318b5",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773309027,
-    "wof:lastmodified":1467082865,
+    "wof:lastmodified":1491939230,
     "wof:name":"Pretty In Pink",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

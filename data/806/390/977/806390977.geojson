@@ -2,9 +2,14 @@
   "id": 806390977,
   "type": "Feature",
   "properties": {
+    "addr:full":"4004 Oxford Glen Dr Franklin TN 37067",
+    "addr:housenumber":"4004",
+    "addr:postcode":"37067",
+    "addr:street":"Oxford Glen Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.791434,35.915746,-86.791434,35.915746",
     "geom:latitude":35.915746,
     "geom:longitude":-86.791434,
@@ -24,12 +29,7 @@
     "sg:postcode":"37067",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nozsshlC3KBnUsCpMfVxN_35.915746_-86.791434@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462597760,
     "wof:geomhash":"7a9adbd665125c225e283beed611e9d9",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":806390977
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806390977,
-    "wof:lastmodified":1467083262,
+    "wof:lastmodified":1491924950,
     "wof:name":"Full House Home Inspections",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

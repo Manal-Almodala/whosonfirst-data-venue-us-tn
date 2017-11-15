@@ -2,14 +2,20 @@
   "id": 790392481,
   "type": "Feature",
   "properties": {
+    "addr:full":"4924 Fort Henry Dr Kingsport TN 37663",
+    "addr:housenumber":"4924",
+    "addr:postcode":"37663",
+    "addr:street":"Fort Henry Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.48359,36.467672,-82.48359,36.467672",
     "geom:latitude":36.467672,
     "geom:longitude":-82.48359,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4924 Fort Henry Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086471,
         85826065
     ],
+    "wof:brand_id":1125156973,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_23RKz5pQyo1bkH65HrK3e3_36.467672_-82.483590@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595484,
-    "wof:geomhash":"383766b9ce01190d72af70a10c4c0d5d",
+    "wof:geomhash":"ff74f670f42127c106065f5896b320d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790392481,
-    "wof:lastmodified":1467083190,
+    "wof:lastmodified":1510699775,
     "wof:name":"Hair Biz",
     "wof:parent_id":85826065,
     "wof:placetype":"venue",

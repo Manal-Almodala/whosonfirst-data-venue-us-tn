@@ -2,14 +2,20 @@
   "id": 806445685,
   "type": "Feature",
   "properties": {
+    "addr:full":"5272 Mount Moriah Vw Memphis TN 38115",
+    "addr:housenumber":"5272",
+    "addr:postcode":"38115",
+    "addr:street":"Mount Moriah Vw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.88632,35.080594,-89.88632,35.080594",
     "geom:latitude":35.080594,
     "geom:longitude":-89.88632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5272 Mount Moriah Vw",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5yQp9AaLN0gc3pq6fsAU2e_35.080594_-89.886320@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598215,
-    "wof:geomhash":"3eed06fc50f7bda84260f8c788f5143d",
+    "wof:geomhash":"213f1accdb7316f6fa50482a6272f60d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806445685,
-    "wof:lastmodified":1467083277,
+    "wof:lastmodified":1510698853,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

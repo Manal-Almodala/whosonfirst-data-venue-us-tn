@@ -2,14 +2,20 @@
   "id": 807045735,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 de Lee Dr Kingsport TN 37663",
+    "addr:housenumber":"230",
+    "addr:postcode":"37663",
+    "addr:street":"De Lee Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.502152,36.480882,-82.502152,36.480882",
     "geom:latitude":36.480882,
     "geom:longitude":-82.502152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"230 de Lee Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         85826065
     ],
+    "wof:brand_id":1125151339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5lOFhRRNahTJzeRzRicGKk_36.480882_-82.502152@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603255,
-    "wof:geomhash":"7beae4a8a36f68adf6b02f296795afc5",
+    "wof:geomhash":"0df2dc6eeeeb8f824c5055cc9411e6dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807045735,
-    "wof:lastmodified":1467083444,
+    "wof:lastmodified":1510694951,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85826065,
     "wof:placetype":"venue",

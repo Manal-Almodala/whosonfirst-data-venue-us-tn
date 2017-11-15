@@ -2,14 +2,20 @@
   "id": 773839909,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 Prairie Plains Rd Hillsboro TN 37342",
+    "addr:housenumber":"222",
+    "addr:postcode":"37342",
+    "addr:street":"Prairie Plains Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.974266,35.403613,-85.974266,35.403613",
     "geom:latitude":35.403613,
     "geom:longitude":-85.974266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"222 Prairie Plains Rd",
     "sg:city":"Hillsboro",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85857461,
         102087095
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6UrjFKjEqYr2TYBjfxtYrI_35.403613_-85.974266@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588814,
-    "wof:geomhash":"95f1a716959ca7d082833752749f248d",
+    "wof:geomhash":"1fe5ee8fb3647190a66ab07768138158",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773839909,
-    "wof:lastmodified":1467082993,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85857461,
     "wof:placetype":"venue",

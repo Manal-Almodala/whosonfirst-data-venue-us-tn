@@ -2,9 +2,14 @@
   "id": 773581783,
   "type": "Feature",
   "properties": {
+    "addr:full":"35 Ashwood Ct Franklin TN 37064",
+    "addr:housenumber":"35",
+    "addr:postcode":"37064",
+    "addr:street":"Ashwood Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.858278,35.866258,-86.858278,35.866258",
     "geom:latitude":35.866258,
     "geom:longitude":-86.858278,
@@ -27,12 +32,7 @@
         "eating"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ToGRw2Gbdo1KuZxoHoQvB_35.866258_-86.858278@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462586816,
     "wof:geomhash":"2a2483e8284bc36737f41125f7365eed",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773581783
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773581783,
-    "wof:lastmodified":1467082930,
+    "wof:lastmodified":1491930836,
     "wof:name":"Barrett Catering",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789857485,
   "type": "Feature",
   "properties": {
+    "addr:full":"7201 US Hwy 70 S Nashville TN 37221",
+    "addr:housenumber":"7201",
+    "addr:postcode":"37221",
+    "addr:street":"Us Hwy 70 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.927461,36.073896,-86.927461,36.073896",
     "geom:latitude":36.073896,
     "geom:longitude":-86.927461,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7201 US Hwy 70 S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85854361
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1lUHmaI4S7tH3AVizOv91I_36.073896_-86.927461@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591085,
-    "wof:geomhash":"7bbeae909b2b6ab565a60d3b0f2fb17d",
+    "wof:geomhash":"0865dd4fa6d2bfeb55043d07f55de766",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789857485,
-    "wof:lastmodified":1467083062,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85854361,
     "wof:placetype":"venue",

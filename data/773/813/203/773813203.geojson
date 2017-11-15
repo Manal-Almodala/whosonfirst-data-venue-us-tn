@@ -2,14 +2,20 @@
   "id": 773813203,
   "type": "Feature",
   "properties": {
+    "addr:full":"2826 Hwy 31 W White House TN 37188",
+    "addr:housenumber":"2826",
+    "addr:postcode":"37188",
+    "addr:street":"Hwy 31 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.667444,36.456964,-86.667444,36.456964",
     "geom:latitude":36.456964,
     "geom:longitude":-86.667444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2826 Hwy 31 W",
     "sg:city":"White House",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         420541507,
         420542223
     ],
+    "wof:brand_id":1125158603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DUa4nX3Mt5YUEttqIQDl1_36.456964_-86.667444@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588578,
-    "wof:geomhash":"94a73def27b568fe1b8bbe764b7bebf6",
+    "wof:geomhash":"fc10e2e4e5829434c660b90a09242fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":773813203,
-    "wof:lastmodified":1467082986,
+    "wof:lastmodified":1510698785,
     "wof:name":"Prince Of Peace Lutheran Chr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

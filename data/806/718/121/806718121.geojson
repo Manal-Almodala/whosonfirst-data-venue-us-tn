@@ -2,14 +2,20 @@
   "id": 806718121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 E Washington Ave Athens TN 37303",
+    "addr:housenumber":"1",
+    "addr:postcode":"37303",
+    "addr:street":"E Washington Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.592903,35.442982,-84.592903,35.442982",
     "geom:latitude":35.442982,
     "geom:longitude":-84.592903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 E Washington Ave",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086293,
         85835287
     ],
+    "wof:brand_id":1125154903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eBQtS5xVfY91ZZnsRCTD5_35.442982_-84.592903@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600485,
-    "wof:geomhash":"7dec33f2c1364fc9f20f37088d5441ed",
+    "wof:geomhash":"3a35c3a36a33882b7d391274dbb94e39",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806718121,
-    "wof:lastmodified":1467083353,
+    "wof:lastmodified":1510697536,
     "wof:name":"Massachusetts Mutual-Blue Chip",
     "wof:parent_id":85835287,
     "wof:placetype":"venue",

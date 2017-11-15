@@ -2,9 +2,14 @@
   "id": 773101565,
   "type": "Feature",
   "properties": {
+    "addr:full":"2077 Goose Creek Dr Franklin TN 37064",
+    "addr:housenumber":"2077",
+    "addr:postcode":"37064",
+    "addr:street":"Goose Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.843046,35.85487,-86.843046,35.85487",
     "geom:latitude":35.85487,
     "geom:longitude":-86.843046,
@@ -27,12 +32,7 @@
         "attorney"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kdLwsKxKFKraIWCn0pS31_35.854870_-86.843046@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462583166,
     "wof:geomhash":"6f808ca0969c59628ad278f8e3e94d2f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773101565
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773101565,
-    "wof:lastmodified":1467082803,
+    "wof:lastmodified":1491930829,
     "wof:name":"Mark H Maxwell",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

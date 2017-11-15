@@ -2,14 +2,20 @@
   "id": 790032953,
   "type": "Feature",
   "properties": {
+    "addr:full":"1980 S Germantown Rd Germantown TN 38138",
+    "addr:housenumber":"1980",
+    "addr:postcode":"38138",
+    "addr:street":"S Germantown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.808389,35.093443,-89.808389,35.093443",
     "geom:latitude":35.093443,
     "geom:longitude":-89.808389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1980 S Germantown Rd",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85823035
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7AjeldCoZ7VDkia2BAmXRO_35.093443_-89.808389@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592594,
-    "wof:geomhash":"ab977c6cb6f03de47ac825bd892903ca",
+    "wof:geomhash":"fce5878faaea9d6eb2652b4146f88216",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790032953,
-    "wof:lastmodified":1467083104,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85823035,
     "wof:placetype":"venue",

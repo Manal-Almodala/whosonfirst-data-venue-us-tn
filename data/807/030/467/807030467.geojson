@@ -2,9 +2,14 @@
   "id": 807030467,
   "type": "Feature",
   "properties": {
+    "addr:full":"229 High Cliff Dr Hendersonville TN 37075",
+    "addr:housenumber":"229",
+    "addr:postcode":"37075",
+    "addr:street":"High Cliff Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.638405,36.383594,-86.638405,36.383594",
     "geom:latitude":36.383594,
     "geom:longitude":-86.638405,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -45,6 +51,7 @@
     "wof:geomhash":"f174484441076144c4a002de4973ae8f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807030467,
-    "wof:lastmodified":1467083440,
+    "wof:lastmodified":1491939192,
     "wof:name":"Quality Management Services",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773605373,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 E Pkwy S Memphis TN 38104",
+    "addr:housenumber":"650",
+    "addr:postcode":"38104",
+    "addr:street":"E Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.983995,35.128949,-89.983995,35.128949",
     "geom:latitude":35.128949,
     "geom:longitude":-89.983995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 E Pkwy S",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85830283
     ],
+    "wof:brand_id":1125153491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1aZnwXCUyQj9II4TvXhrCd_35.128949_-89.983995@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586977,
-    "wof:geomhash":"70d2844de8cb4f73b67158aa96c96131",
+    "wof:geomhash":"71763e11cc59ade8dc8c5f497106bc45",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773605373,
-    "wof:lastmodified":1467082935,
+    "wof:lastmodified":1510699351,
     "wof:name":"US Commerce Dept",
     "wof:parent_id":85830283,
     "wof:placetype":"venue",

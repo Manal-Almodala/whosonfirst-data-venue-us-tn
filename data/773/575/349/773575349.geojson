@@ -2,14 +2,20 @@
   "id": 773575349,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 S Calderwood St Alcoa TN 37701",
+    "addr:housenumber":"232",
+    "addr:postcode":"37701",
+    "addr:street":"S Calderwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.976829,35.760795,-83.976829,35.760795",
     "geom:latitude":35.760795,
     "geom:longitude":-83.976829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"232 S Calderwood St",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087017,
         420541361
     ],
+    "wof:brand_id":1125151249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ksLThGZ8ZbH11l61jmbOI_35.760795_-83.976829@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586770,
-    "wof:geomhash":"b6efbfb25ba19392b61421940a0d01a5",
+    "wof:geomhash":"cfc75460c036938a16996cd7a7f83b6b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773575349,
-    "wof:lastmodified":1467082928,
+    "wof:lastmodified":1510697265,
     "wof:name":"Angel Nails",
     "wof:parent_id":420541361,
     "wof:placetype":"venue",

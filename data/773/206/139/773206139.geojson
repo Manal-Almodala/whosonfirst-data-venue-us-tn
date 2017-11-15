@@ -2,14 +2,20 @@
   "id": 773206139,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 E Shelby Dr Memphis TN 38109",
+    "addr:housenumber":"700",
+    "addr:postcode":"38109",
+    "addr:street":"E Shelby Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.040982,35.021024,-90.040982,35.021024",
     "geom:latitude":35.021024,
     "geom:longitude":-90.040982,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 E Shelby Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         420542123
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5dJWMS2PxGXqSdYEh4lUz1_35.021024_-90.040982@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583972,
-    "wof:geomhash":"be32a13123e6de4de66bb4ea518bc29d",
+    "wof:geomhash":"966d2115e77d8661b6d852541b398c2d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773206139,
-    "wof:lastmodified":1467082830,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":420542123,
     "wof:placetype":"venue",

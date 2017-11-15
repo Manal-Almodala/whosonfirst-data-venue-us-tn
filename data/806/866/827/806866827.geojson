@@ -2,14 +2,20 @@
   "id": 806866827,
   "type": "Feature",
   "properties": {
+    "addr:full":"3900 Hillsboro Pike Nashville TN 37215",
+    "addr:housenumber":"3900",
+    "addr:postcode":"37215",
+    "addr:street":"Hillsboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814601,36.1048,-86.814601,36.1048",
     "geom:latitude":36.1048,
     "geom:longitude":-86.814601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3900 Hillsboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893463
     ],
+    "wof:brand_id":1125157083,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1iJOm7dOWnqvshRzFS97o0_36.104800_-86.814601@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601747,
-    "wof:geomhash":"b316e17c1b85c260b09340c90b385777",
+    "wof:geomhash":"642e33961d9148c72af8a6caf2f9fc2b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806866827,
-    "wof:lastmodified":1467083395,
+    "wof:lastmodified":1510693786,
     "wof:name":"Ten Thousand Villages",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",

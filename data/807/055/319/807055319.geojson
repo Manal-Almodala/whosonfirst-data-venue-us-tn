@@ -2,14 +2,20 @@
   "id": 807055319,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 W Oakland Ave Johnson City TN 37604",
+    "addr:housenumber":"525",
+    "addr:postcode":"37604",
+    "addr:street":"W Oakland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.391933,36.357739,-82.391933,36.357739",
     "geom:latitude":36.357739,
     "geom:longitude":-82.391933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"525 W Oakland Ave",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086335,
         85837155
     ],
+    "wof:brand_id":1125152141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6X3s504lPJGWcsjLtQGI3w_36.357739_-82.391933@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603329,
-    "wof:geomhash":"d9e4b93c52c94aa0175eef44a58f5d60",
+    "wof:geomhash":"47886c81ad842170e4a3c18a3d3d4c2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807055319,
-    "wof:lastmodified":1467083447,
+    "wof:lastmodified":1510693738,
     "wof:name":"Cookie Bouquet",
     "wof:parent_id":85837155,
     "wof:placetype":"venue",

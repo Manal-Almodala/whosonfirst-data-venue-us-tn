@@ -2,14 +2,20 @@
   "id": 773132413,
   "type": "Feature",
   "properties": {
+    "addr:full":"237 Hermitage Ave Nashville TN 37210",
+    "addr:housenumber":"237",
+    "addr:postcode":"37210",
+    "addr:street":"Hermitage Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.755068,36.153762,-86.755068,36.153762",
     "geom:latitude":36.153762,
     "geom:longitude":-86.755068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"237 Hermitage Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85871389
     ],
+    "wof:brand_id":420575761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63k8Q2lEwtoH2PGUJemMto_36.153762_-86.755068@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583374,
-    "wof:geomhash":"878d497b5958c80f94c2e59807785842",
+    "wof:geomhash":"12ed35ada42ff7e949f9678e73502921",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773132413,
-    "wof:lastmodified":1467082811,
+    "wof:lastmodified":1510602958,
     "wof:name":"Labor Ready",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",

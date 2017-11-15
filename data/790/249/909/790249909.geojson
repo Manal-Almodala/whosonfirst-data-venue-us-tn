@@ -2,9 +2,14 @@
   "id": 790249909,
   "type": "Feature",
   "properties": {
+    "addr:full":"1000 Burnham Cir Hendersonville TN 37075",
+    "addr:housenumber":"1000",
+    "addr:postcode":"37075",
+    "addr:street":"Burnham Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.633575,36.330467,-86.633575,36.330467",
     "geom:latitude":36.330467,
     "geom:longitude":-86.633575,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"65a51085e6a033821f480d96bdf25a13",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790249909,
-    "wof:lastmodified":1467083155,
+    "wof:lastmodified":1491939237,
     "wof:name":"Discount Fence Co",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

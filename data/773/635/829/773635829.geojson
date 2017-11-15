@@ -2,14 +2,20 @@
   "id": 773635829,
   "type": "Feature",
   "properties": {
+    "addr:full":"607 Bus Park Ln Knoxville TN 37932",
+    "addr:housenumber":"607",
+    "addr:postcode":"37932",
+    "addr:street":"Bus Park Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.137079,35.916289,-84.137079,35.916289",
     "geom:latitude":35.916289,
     "geom:longitude":-84.137079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"607 Bus Park Ln",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086455,
         85852201
     ],
+    "wof:brand_id":1125159843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6a71wciwGZsZSMJcLnpuVx_35.916289_-84.137079@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587214,
-    "wof:geomhash":"f997169de9135fb3f48549d41c0256f1",
+    "wof:geomhash":"a9cfcc3cac0cfd669f90d4ae8ea7b2bd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773635829,
-    "wof:lastmodified":1467082943,
+    "wof:lastmodified":1510694243,
     "wof:name":"Corporate Express Inc",
     "wof:parent_id":85852201,
     "wof:placetype":"venue",

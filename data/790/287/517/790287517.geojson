@@ -2,14 +2,20 @@
   "id": 790287517,
   "type": "Feature",
   "properties": {
+    "addr:full":"480 Wiley Parker Rd Jackson TN 38305",
+    "addr:housenumber":"480",
+    "addr:postcode":"38305",
+    "addr:street":"Wiley Parker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.848757,35.662369,-88.848757,35.662369",
     "geom:latitude":35.662369,
     "geom:longitude":-88.848757,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"480 Wiley Parker Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125151309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44MEJke976teP6xFabtAzC_35.662369_-88.848757@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594665,
-    "wof:geomhash":"f7cf2a693ae12e659cd17a35144afdce",
+    "wof:geomhash":"dc7d33711c7d899a81d72e2628cdebea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790287517,
-    "wof:lastmodified":1467083164,
+    "wof:lastmodified":1510693910,
     "wof:name":"Heavenly Ham",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

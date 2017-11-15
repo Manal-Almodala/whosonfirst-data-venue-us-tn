@@ -2,14 +2,20 @@
   "id": 807148829,
   "type": "Feature",
   "properties": {
+    "addr:full":"3573 Oak Rd Memphis TN 38135",
+    "addr:housenumber":"3573",
+    "addr:postcode":"38135",
+    "addr:street":"Oak Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.825783,35.224394,-89.825783,35.224394",
     "geom:latitude":35.224394,
     "geom:longitude":-89.825783,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3573 Oak Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":420575737,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hUWFDgTsA74ZK1QOxLM97_35.224394_-89.825783@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604263,
-    "wof:geomhash":"65dbff12d2df88e0e2616eb3063c0121",
+    "wof:geomhash":"448649ea0f1c6cd15e54934b9c643ec0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807148829,
-    "wof:lastmodified":1467083473,
+    "wof:lastmodified":1510602696,
     "wof:name":"YWCA",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

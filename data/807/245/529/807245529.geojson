@@ -2,14 +2,20 @@
   "id": 807245529,
   "type": "Feature",
   "properties": {
+    "addr:full":"12017 Lebanon Rd Mount Juliet TN 37122",
+    "addr:housenumber":"12017",
+    "addr:postcode":"37122",
+    "addr:street":"Lebanon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.527863,36.231119,-86.527863,36.231119",
     "geom:latitude":36.231119,
     "geom:longitude":-86.527863,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12017 Lebanon Rd",
     "sg:city":"Mount Juliet",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85826879,
         102087205
     ],
+    "wof:brand_id":420575357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cc557xrQVjBlvxrbqMYVw_36.231119_-86.527863@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605281,
-    "wof:geomhash":"eed10b0b0f282854396943fb114f2638",
+    "wof:geomhash":"883542b60af0eadbfdf681889eb495f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807245529,
-    "wof:lastmodified":1467083505,
+    "wof:lastmodified":1510602999,
     "wof:name":"ServiceMaster",
     "wof:parent_id":85826879,
     "wof:placetype":"venue",

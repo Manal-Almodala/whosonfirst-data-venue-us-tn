@@ -2,14 +2,20 @@
   "id": 790108999,
   "type": "Feature",
   "properties": {
+    "addr:full":"5545 Runway Dr NW Cleveland TN 37312",
+    "addr:housenumber":"5545",
+    "addr:postcode":"37312",
+    "addr:street":"Runway Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.827427,35.221675,-84.827427,35.221675",
     "geom:latitude":35.221675,
     "geom:longitude":-84.827427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5545 Runway Dr NW",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85818697,
         85847789
     ],
+    "wof:brand_id":1125154529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DX98U3l9u3rIpiUNDwqhe_35.221675_-84.827427@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593213,
-    "wof:geomhash":"c0acbb1b213396f20bafa5fc479c6369",
+    "wof:geomhash":"7899f950f3533e75939a274886de380f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":790108999,
-    "wof:lastmodified":1467083122,
+    "wof:lastmodified":1510695740,
     "wof:name":"Fairview Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807389655,
   "type": "Feature",
   "properties": {
+    "addr:full":"5865 Ridgeway Center Pkwy Memphis TN 38120",
+    "addr:housenumber":"5865",
+    "addr:postcode":"38120",
+    "addr:street":"Ridgeway Center Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.865944,35.104807,-89.865944,35.104807",
     "geom:latitude":35.104807,
     "geom:longitude":-89.865944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5865 Ridgeway Center Pkwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85870777
     ],
+    "wof:brand_id":1125157641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JgsRFTFr6te5Kl7UJErdr_35.104807_-89.865944@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607068,
-    "wof:geomhash":"c2b6c07e87125a0b560699ac4df3e355",
+    "wof:geomhash":"7d56a3f4936da34607a4a4eef72967f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807389655,
-    "wof:lastmodified":1467083562,
+    "wof:lastmodified":1510613448,
     "wof:name":"Imagistics International Inc",
     "wof:parent_id":85870777,
     "wof:placetype":"venue",

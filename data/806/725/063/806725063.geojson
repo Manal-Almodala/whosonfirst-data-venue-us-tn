@@ -2,14 +2,20 @@
   "id": 806725063,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 Franklin Rd Brentwood TN 37027",
+    "addr:housenumber":"210",
+    "addr:postcode":"37027",
+    "addr:street":"Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.788891,36.032878,-86.788891,36.032878",
     "geom:latitude":36.032878,
     "geom:longitude":-86.788891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 Franklin Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102086337,
         85807259
     ],
+    "wof:brand_id":420575575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_019WWvBgIAFvBz5F3L0nVi_36.032878_-86.788891@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600544,
-    "wof:geomhash":"3ede8c418f42f49ebfb6ca3607a3e1c7",
+    "wof:geomhash":"e41695c4694c4e71b4ec237e6e5deaf1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":806725063,
-    "wof:lastmodified":1467083355,
+    "wof:lastmodified":1510601946,
     "wof:name":"Leslie's Swimming Pool Supply",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",

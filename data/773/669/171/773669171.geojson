@@ -2,14 +2,20 @@
   "id": 773669171,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 W Ridge Dr Hendersonville TN 37075",
+    "addr:housenumber":"106",
+    "addr:postcode":"37075",
+    "addr:street":"W Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.595427,36.267382,-86.595427,36.267382",
     "geom:latitude":36.267382,
     "geom:longitude":-86.595427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 W Ridge Dr",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086357,
         85826807
     ],
+    "wof:brand_id":1125150293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6g5M8Fh2QBesi95QoPvKoa_36.267382_-86.595427@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587461,
-    "wof:geomhash":"3c7f1b79d1cc66b598e91d0bec0a590e",
+    "wof:geomhash":"9988f161e417767d334c8e3851d7f737",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773669171,
-    "wof:lastmodified":1467082951,
+    "wof:lastmodified":1510713007,
     "wof:name":"Beazer Homes",
     "wof:parent_id":85826807,
     "wof:placetype":"venue",

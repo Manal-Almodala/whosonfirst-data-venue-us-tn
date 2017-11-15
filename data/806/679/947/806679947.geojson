@@ -2,9 +2,14 @@
   "id": 806679947,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 Township Dr Hendersonville TN 37075",
+    "addr:housenumber":"252",
+    "addr:postcode":"37075",
+    "addr:street":"Township Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.634654,36.320321,-86.634654,36.320321",
     "geom:latitude":36.320321,
     "geom:longitude":-86.634654,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"610306715c2548ab1441fbc9c241515f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806679947,
-    "wof:lastmodified":1467083342,
+    "wof:lastmodified":1491939233,
     "wof:name":"Arels",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

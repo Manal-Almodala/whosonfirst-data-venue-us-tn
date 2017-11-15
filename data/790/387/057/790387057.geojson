@@ -2,14 +2,20 @@
   "id": 790387057,
   "type": "Feature",
   "properties": {
+    "addr:full":"2435 S Rutherford Blvd Murfreesboro TN 37130",
+    "addr:housenumber":"2435",
+    "addr:postcode":"37130",
+    "addr:street":"S Rutherford Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.39184,35.818945,-86.39184,35.818945",
     "geom:latitude":35.818945,
     "geom:longitude":-86.39184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2435 S Rutherford Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85844887
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nxT6e9NEk8ACKAnGrzrvT_35.818945_-86.391840@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595436,
-    "wof:geomhash":"0fdf471aa71a6168007c857376720af2",
+    "wof:geomhash":"7fdd23a84a680c6c00b270308089bc86",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790387057,
-    "wof:lastmodified":1467083188,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85844887,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789766445,
   "type": "Feature",
   "properties": {
+    "addr:full":"717 S White Station Rd Memphis TN 38117",
+    "addr:housenumber":"717",
+    "addr:postcode":"38117",
+    "addr:street":"S White Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.888286,35.110493,-89.888286,35.110493",
     "geom:latitude":35.110493,
     "geom:longitude":-89.888286,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"717 S White Station Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":420574719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3t7Y8FN6oPGuEcSvWRIuTd_35.110493_-89.888286@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590377,
-    "wof:geomhash":"23dc750ed3bc52c08ab4ee547db95347",
+    "wof:geomhash":"8e64419c7fd19db8472bacfd31f305cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789766445,
-    "wof:lastmodified":1467083040,
+    "wof:lastmodified":1510608791,
     "wof:name":"A G Edwards & Sons Inc",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807056317,
   "type": "Feature",
   "properties": {
+    "addr:full":"2976 Peavine Rd Crossville TN 38571",
+    "addr:housenumber":"2976",
+    "addr:postcode":"38571",
+    "addr:street":"Peavine Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.948251,35.99085,-84.948251,35.99085",
     "geom:latitude":35.99085,
     "geom:longitude":-84.948251,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2976 Peavine Rd",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85813779,
         102086961
     ],
+    "wof:brand_id":1125155005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DEeWGqJULIEsT7S79yMe3_35.990850_-84.948251@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603336,
-    "wof:geomhash":"49022b04f27e602b3a57e6b38daaa88c",
+    "wof:geomhash":"2375f2f4ef00863f8195835945f865e4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807056317,
-    "wof:lastmodified":1467083447,
+    "wof:lastmodified":1510699951,
     "wof:name":"Great Expectations",
     "wof:parent_id":85813779,
     "wof:placetype":"venue",

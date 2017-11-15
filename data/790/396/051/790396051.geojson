@@ -2,14 +2,20 @@
   "id": 790396051,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 Overlook Ct Brentwood TN 37027",
+    "addr:housenumber":"214",
+    "addr:postcode":"37027",
+    "addr:street":"Overlook Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.776813,36.031131,-86.776813,36.031131",
     "geom:latitude":36.031131,
     "geom:longitude":-86.776813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"214 Overlook Ct",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086337,
         85805711
     ],
+    "wof:brand_id":1125153661,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4zilXzMJcjaWAmveznQAkf_36.031131_-86.776813@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595507,
-    "wof:geomhash":"144c3d6bcb9507bdfb2cc9c62168386c",
+    "wof:geomhash":"93d372233485493920832818f376a9db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790396051,
-    "wof:lastmodified":1467083191,
+    "wof:lastmodified":1510697472,
     "wof:name":"Abbott Laboratories",
     "wof:parent_id":85805711,
     "wof:placetype":"venue",

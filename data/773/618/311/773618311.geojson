@@ -2,14 +2,20 @@
   "id": 773618311,
   "type": "Feature",
   "properties": {
+    "addr:full":"299 S Main St Memphis TN 38103",
+    "addr:housenumber":"299",
+    "addr:postcode":"38103",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.055742,35.138956,-90.055742,35.138956",
     "geom:latitude":35.138956,
     "geom:longitude":-90.055742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"299 S Main St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85893429
     ],
+    "wof:brand_id":1125155697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56YRU4LKj9I8l2gJHY93AA_35.138956_-90.055742@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587087,
-    "wof:geomhash":"289b8bb4757dcdbc6baf08837f845c7d",
+    "wof:geomhash":"fa63f8c7ffb003c4a8b132178911e7e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773618311,
-    "wof:lastmodified":1467082938,
+    "wof:lastmodified":1510693832,
     "wof:name":"Twice As Nice",
     "wof:parent_id":85893429,
     "wof:placetype":"venue",

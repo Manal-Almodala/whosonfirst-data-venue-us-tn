@@ -2,14 +2,20 @@
   "id": 823259125,
   "type": "Feature",
   "properties": {
+    "addr:full":"2115 Gunbarrel Rd Chattanooga TN 37421",
+    "addr:housenumber":"",
+    "addr:postcode":"37421",
+    "addr:street":"2115 Gunbarrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.153535,35.03388,-85.153535,35.03388",
     "geom:latitude":35.03388,
     "geom:longitude":-85.153535,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2115 Gunbarrel Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         85815159
     ],
+    "wof:brand_id":1125150821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0gs0OgpkHLYRiC2b7KehTM_35.033980_-85.153416@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609533,
-    "wof:geomhash":"e6d791a5a999e0fb342a0e8e9dca3320",
+    "wof:geomhash":"1dfc4cd76cced23171a4471fe91ea3ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823259125,
-    "wof:lastmodified":1467083641,
+    "wof:lastmodified":1510613438,
     "wof:name":"Bonefish Grill",
     "wof:parent_id":85815159,
     "wof:placetype":"venue",

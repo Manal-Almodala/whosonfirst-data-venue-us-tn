@@ -2,14 +2,20 @@
   "id": 773412441,
   "type": "Feature",
   "properties": {
+    "addr:full":"68 Ridgecrest Rd Jackson TN 38305",
+    "addr:housenumber":"68",
+    "addr:postcode":"38305",
+    "addr:street":"Ridgecrest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.826057,35.667486,-88.826057,35.667486",
     "geom:latitude":35.667486,
     "geom:longitude":-88.826057,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"68 Ridgecrest Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0DrF1bVVJMbE3CMBgfbQKU_35.667486_-88.826057@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585507,
-    "wof:geomhash":"912b078a8869ff09098b9a8d31b1266e",
+    "wof:geomhash":"77d6d9df363f678262e832b344be629d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773412441,
-    "wof:lastmodified":1467082890,
+    "wof:lastmodified":1510602525,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

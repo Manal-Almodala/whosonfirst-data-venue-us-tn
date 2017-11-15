@@ -2,14 +2,20 @@
   "id": 773727061,
   "type": "Feature",
   "properties": {
+    "addr:full":"1931 Air Lane Dr Nashville TN 37210",
+    "addr:housenumber":"1931",
+    "addr:postcode":"37210",
+    "addr:street":"Air Lane Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.70154,36.145618,-86.70154,36.145618",
     "geom:latitude":36.145618,
     "geom:longitude":-86.70154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1931 Air Lane Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85835935
     ],
+    "wof:brand_id":1125159247,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rDY3lMaPfkC2CGzgdOGmy_36.145618_-86.701540@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587928,
-    "wof:geomhash":"2634f4e408302b6870a00888ad1914e6",
+    "wof:geomhash":"d3da3c51d4163a246cd81e1c284b72af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773727061,
-    "wof:lastmodified":1467082965,
+    "wof:lastmodified":1510693876,
     "wof:name":"Fed Ex World Service Ctr",
     "wof:parent_id":85835935,
     "wof:placetype":"venue",

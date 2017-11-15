@@ -2,14 +2,20 @@
   "id": 789760559,
   "type": "Feature",
   "properties": {
+    "addr:full":"274 Ramey Rd Bristol TN 37620",
+    "addr:housenumber":"274",
+    "addr:postcode":"37620",
+    "addr:street":"Ramey Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.286557,36.556252,-82.286557,36.556252",
     "geom:latitude":36.556252,
     "geom:longitude":-82.286557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"274 Ramey Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85825325,
         102086471
     ],
+    "wof:brand_id":420575271,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S9cRT69ClAOtovEiKMkWQ_36.556252_-82.286557@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590333,
-    "wof:geomhash":"16ef0b91a7a2aff92c6a9e04dc6ea63e",
+    "wof:geomhash":"70dd5c857879bdd5092789881690ac84",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789760559,
-    "wof:lastmodified":1467083038,
+    "wof:lastmodified":1510602527,
     "wof:name":"Servpro",
     "wof:parent_id":85825325,
     "wof:placetype":"venue",

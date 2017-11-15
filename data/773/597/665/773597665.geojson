@@ -2,14 +2,20 @@
   "id": 773597665,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Riverside Dr Chattanooga TN 37406",
+    "addr:housenumber":"2301",
+    "addr:postcode":"37406",
+    "addr:street":"Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.2631,35.068642,-85.2631,35.068642",
     "geom:latitude":35.068642,
     "geom:longitude":-85.2631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 Riverside Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         85806903
     ],
+    "wof:brand_id":1125156821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56kdZtT8OjMUyNEnRvgSaN_35.068642_-85.263100@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586927,
-    "wof:geomhash":"bb794bfd806a14c0705981473b8fe185",
+    "wof:geomhash":"467d2e60a8a01d4b05a43ddcfd9a50f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773597665,
-    "wof:lastmodified":1467082933,
+    "wof:lastmodified":1510613405,
     "wof:name":"R E Michel Co",
     "wof:parent_id":85806903,
     "wof:placetype":"venue",

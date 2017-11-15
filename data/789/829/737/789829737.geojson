@@ -2,14 +2,20 @@
   "id": 789829737,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 E Bransford St Union City TN 38261",
+    "addr:housenumber":"211",
+    "addr:postcode":"38261",
+    "addr:street":"E Bransford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.056719,36.419007,-89.056719,36.419007",
     "geom:latitude":36.419007,
     "geom:longitude":-89.056719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 E Bransford St",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084541,
         85844377
     ],
+    "wof:brand_id":1125150757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QLy6VpH25MsXkTGhzO5Ub_36.419007_-89.056719@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590869,
-    "wof:geomhash":"d227ee5687c71f6e245c04a1fdfeec22",
+    "wof:geomhash":"b7346d1a22ab5421fb57a90761398efe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789829737,
-    "wof:lastmodified":1467083055,
+    "wof:lastmodified":1510697588,
     "wof:name":"American Homepatient",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",

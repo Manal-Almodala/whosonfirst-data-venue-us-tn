@@ -2,14 +2,20 @@
   "id": 807304771,
   "type": "Feature",
   "properties": {
+    "addr:full":"904 Perkins St Union City TN 38261",
+    "addr:housenumber":"904",
+    "addr:postcode":"38261",
+    "addr:street":"Perkins St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.056742,36.419233,-89.056742,36.419233",
     "geom:latitude":36.419233,
     "geom:longitude":-89.056742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"904 Perkins St",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084541,
         85844377
     ],
+    "wof:brand_id":1125159321,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qIHBLieovkviNlgldp9Or_36.419233_-89.056742@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605902,
-    "wof:geomhash":"5c608b063c290de3e5dabaf9de29b1a7",
+    "wof:geomhash":"1e9da81fb096144635d4fa8f90e3266b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807304771,
-    "wof:lastmodified":1467083525,
+    "wof:lastmodified":1510697463,
     "wof:name":"New Dimensions",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",

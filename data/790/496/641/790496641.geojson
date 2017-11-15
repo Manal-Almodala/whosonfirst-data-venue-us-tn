@@ -2,14 +2,20 @@
   "id": 790496641,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Dodds Ave Chattanooga TN 37407",
+    "addr:housenumber":"2501",
+    "addr:postcode":"37407",
+    "addr:street":"Dodds Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.275722,35.011928,-85.275722,35.011928",
     "geom:latitude":35.011928,
     "geom:longitude":-85.275722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2501 Dodds Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541681
     ],
+    "wof:brand_id":1125152345,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7d5Z3YDPxuit8SzYT4TNOO_35.011928_-85.275722@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596343,
-    "wof:geomhash":"2f03349cb32b1839f79db59685f56e02",
+    "wof:geomhash":"0f4f6e9b926a05371d55b977ba7dba90",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790496641,
-    "wof:lastmodified":1467083216,
+    "wof:lastmodified":1510613372,
     "wof:name":"First Student Inc",
     "wof:parent_id":420541681,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773276935,
   "type": "Feature",
   "properties": {
+    "addr:full":"3544 Hickory Hill Rd Memphis TN 38115",
+    "addr:housenumber":"3544",
+    "addr:postcode":"38115",
+    "addr:street":"Hickory Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.866133,35.052343,-89.866133,35.052343",
     "geom:latitude":35.052343,
     "geom:longitude":-89.866133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3544 Hickory Hill Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":1125157681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17SRTdTrAuXRweSFLRvNaL_35.052343_-89.866133@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584493,
-    "wof:geomhash":"d1d22eceb12a8556c0b056cd8f95993d",
+    "wof:geomhash":"27333f575e68510b45dca4ba027ee027",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773276935,
-    "wof:lastmodified":1467082854,
+    "wof:lastmodified":1510699515,
     "wof:name":"Nail Gallery",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

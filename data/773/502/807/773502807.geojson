@@ -2,14 +2,20 @@
   "id": 773502807,
   "type": "Feature",
   "properties": {
+    "addr:full":"3025 Kirby Whitten Rd Bartlett TN 38134",
+    "addr:housenumber":"3025",
+    "addr:postcode":"38134",
+    "addr:street":"Kirby Whitten Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.840724,35.20721,-89.840724,35.20721",
     "geom:latitude":35.20721,
     "geom:longitude":-89.840724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3025 Kirby Whitten Rd",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125156265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jRb8Z1KTnjmmHNbh5T5Lk_35.207210_-89.840724@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586223,
-    "wof:geomhash":"9e5f4976fd0e3538316d92723323f73b",
+    "wof:geomhash":"63b33ccc707b572a17413ee2c062513c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773502807,
-    "wof:lastmodified":1467082911,
+    "wof:lastmodified":1510699968,
     "wof:name":"Kim's Nails",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

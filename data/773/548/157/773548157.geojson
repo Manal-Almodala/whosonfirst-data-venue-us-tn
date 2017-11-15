@@ -2,14 +2,20 @@
   "id": 773548157,
   "type": "Feature",
   "properties": {
+    "addr:full":"6020 Shallowford Rd Chattanooga TN 37421",
+    "addr:housenumber":"6020",
+    "addr:postcode":"37421",
+    "addr:street":"Shallowford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.189537,35.053959,-85.189537,35.053959",
     "geom:latitude":35.053959,
     "geom:longitude":-85.189537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6020 Shallowford Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85817413
     ],
+    "wof:brand_id":420575151,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vH10nuBN3u2zMC61goKLU_35.053959_-85.189537@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586554,
-    "wof:geomhash":"e37f288891af1d98e3435914e6674d4c",
+    "wof:geomhash":"9953ff0ff40df910c546ff4abfc59536",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773548157,
-    "wof:lastmodified":1467082922,
+    "wof:lastmodified":1510602104,
     "wof:name":"Nextel",
     "wof:parent_id":85817413,
     "wof:placetype":"venue",

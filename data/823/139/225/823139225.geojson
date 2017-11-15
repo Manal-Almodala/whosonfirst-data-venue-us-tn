@@ -2,9 +2,14 @@
   "id": 823139225,
   "type": "Feature",
   "properties": {
+    "addr:full":"4465 Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"4465",
+    "addr:postcode":"37064",
+    "addr:street":"Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.80896,35.836713,-86.80896,35.836713",
     "geom:latitude":35.836713,
     "geom:longitude":-86.80896,
@@ -27,12 +32,7 @@
         "heavy"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4LiPRB782i5RN68NO7DazY_35.836713_-86.808960@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462607490,
     "wof:geomhash":"95e5895b34ef19b483d9a242284f6c05",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":823139225
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823139225,
-    "wof:lastmodified":1467083572,
+    "wof:lastmodified":1491930841,
     "wof:name":"Safety Fence Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

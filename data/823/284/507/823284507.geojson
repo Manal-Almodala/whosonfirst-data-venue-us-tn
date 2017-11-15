@@ -2,14 +2,20 @@
   "id": 823284507,
   "type": "Feature",
   "properties": {
+    "addr:full":"1215 Southland Mall Memphis TN 38116",
+    "addr:housenumber":"1215",
+    "addr:postcode":"38116",
+    "addr:street":"Southland Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.022552,35.019821,-90.022552,35.019821",
     "geom:latitude":35.019821,
     "geom:longitude":-90.022552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1215 Southland Mall",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087213,
         85847303
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Kcrq4WF132Cd6GrPwVeb3_35.019821_-90.022552@1303262742"
     },
     "wof:country":"US",
     "wof:created":1462610491,
-    "wof:geomhash":"02a1956fe38211d877b9b41ed23e772e",
+    "wof:geomhash":"420b1f128d38c3bd1c2ce663ff1985a7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":823284507,
-    "wof:lastmodified":1467083675,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":85847303,
     "wof:placetype":"venue",

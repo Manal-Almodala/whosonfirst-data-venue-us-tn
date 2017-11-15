@@ -2,14 +2,20 @@
   "id": 807244469,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 Bethel Rd Clinton TN 37716",
+    "addr:housenumber":"610",
+    "addr:postcode":"37716",
+    "addr:street":"Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.073375,36.168544,-84.073375,36.168544",
     "geom:latitude":36.168544,
     "geom:longitude":-84.073375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"610 Bethel Rd",
     "sg:city":"Clinton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086483,
         85825681
     ],
+    "wof:brand_id":420574663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2F8vlaYlHlZbuf7A73NIoh_36.168544_-84.073375@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605268,
-    "wof:geomhash":"1ce36dee070da23fc362119fd549a522",
+    "wof:geomhash":"3d53485fcb2b14c19ba5e32a06281629",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807244469,
-    "wof:lastmodified":1467083504,
+    "wof:lastmodified":1510604367,
     "wof:name":"Bethel Baptist Church",
     "wof:parent_id":85825681,
     "wof:placetype":"venue",

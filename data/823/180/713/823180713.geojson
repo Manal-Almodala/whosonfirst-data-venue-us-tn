@@ -2,14 +2,20 @@
   "id": 823180713,
   "type": "Feature",
   "properties": {
+    "addr:full":"1243 Ridgeway Rd Memphis TN 38119",
+    "addr:housenumber":"1243",
+    "addr:postcode":"38119",
+    "addr:street":"Ridgeway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.858645,35.097543,-89.858645,35.097543",
     "geom:latitude":35.097543,
     "geom:longitude":-89.858645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1243 Ridgeway Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85870789
     ],
+    "wof:brand_id":1125153913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2K1dXrwOUp8IDEOkXP98pJ_35.097543_-89.858645@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608071,
-    "wof:geomhash":"83ecfb610e76d9035318d3a9ca1b2ad7",
+    "wof:geomhash":"e293f6efd8ac83e88148a10be0beacaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823180713,
-    "wof:lastmodified":1467083590,
+    "wof:lastmodified":1510699415,
     "wof:name":"Wolf Camera and Video",
     "wof:parent_id":85870789,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823276321,
   "type": "Feature",
   "properties": {
+    "addr:full":"430 S Germantown Pkwy Cordova TN 38018",
+    "addr:housenumber":"430",
+    "addr:postcode":"38018",
+    "addr:street":"S Germantown Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.800236,35.119678,-89.800236,35.119678",
     "geom:latitude":35.119678,
     "geom:longitude":-89.800236,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"430 S Germantown Pkwy",
     "sg:city":"Cordova",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102087213,
         85844747
     ],
+    "wof:brand_id":1125150303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HSovxwg5lbwefaXaPqiCe_35.119678_-89.800236@1303262740"
     },
     "wof:country":"US",
     "wof:created":1462610164,
-    "wof:geomhash":"34f7df279f8f1589b723b92cb367f30e",
+    "wof:geomhash":"793bd8a6028dcdc36d7909892b892d75",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":823276321,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510698848,
     "wof:name":"Lowe's? Home Improvement",
     "wof:parent_id":85844747,
     "wof:placetype":"venue",

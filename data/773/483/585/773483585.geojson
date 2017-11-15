@@ -2,9 +2,14 @@
   "id": 773483585,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 Monticello Rd Franklin TN 37064",
+    "addr:housenumber":"303",
+    "addr:postcode":"37064",
+    "addr:street":"Monticello Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.876031,35.950007,-86.876031,35.950007",
     "geom:latitude":35.950007,
     "geom:longitude":-86.876031,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -45,6 +51,7 @@
     "wof:geomhash":"98bcd0e11d782674110ae2764d2c0a00",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773483585,
-    "wof:lastmodified":1467082906,
+    "wof:lastmodified":1491924183,
     "wof:name":"Devan Metal Deck",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

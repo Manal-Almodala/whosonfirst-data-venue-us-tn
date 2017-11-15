@@ -2,9 +2,14 @@
   "id": 790268059,
   "type": "Feature",
   "properties": {
+    "addr:full":"4720 Harpeth-Peytonsville Rd Thompsons Station TN 37064",
+    "addr:housenumber":"4720",
+    "addr:postcode":"37064",
+    "addr:street":"Harpeth-Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.838791,35.798145,-86.838791,35.798145",
     "geom:latitude":35.798145,
     "geom:longitude":-86.838791,
@@ -28,12 +33,7 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1p0DZofHBG1UdJw0UhBeTy_35.798145_-86.838791@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462594483,
     "wof:geomhash":"fb78eb23770bf85d328dc97e29b88c3b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":790268059
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790268059,
-    "wof:lastmodified":1467083160,
+    "wof:lastmodified":1491930830,
     "wof:name":"James Buford",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

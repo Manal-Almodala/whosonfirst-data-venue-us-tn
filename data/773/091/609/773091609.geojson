@@ -2,9 +2,14 @@
   "id": 773091609,
   "type": "Feature",
   "properties": {
+    "addr:full":"553 N Palmers Chapel Rd White House TN 37188",
+    "addr:housenumber":"553",
+    "addr:postcode":"37188",
+    "addr:street":"N Palmers Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.633065,36.457376,-86.633065,36.457376",
     "geom:latitude":36.457376,
     "geom:longitude":-86.633065,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"8fd29899d8ca8dcd1412aef6580400fd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773091609,
-    "wof:lastmodified":1467082801,
+    "wof:lastmodified":1491939220,
     "wof:name":"Kk S",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

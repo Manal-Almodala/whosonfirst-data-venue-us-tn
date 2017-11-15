@@ -2,14 +2,20 @@
   "id": 790404461,
   "type": "Feature",
   "properties": {
+    "addr:full":"1951 Wilma Rudolph Blvd Clarksville TN 37040",
+    "addr:housenumber":"1951",
+    "addr:postcode":"37040",
+    "addr:street":"Wilma Rudolph Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.320929,36.556418,-87.320929,36.556418",
     "geom:latitude":36.556418,
     "geom:longitude":-87.320929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1951 Wilma Rudolph Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086353,
         85833385
     ],
+    "wof:brand_id":1125153723,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4y61stxlGlPjQtGKzj98CU_36.556418_-87.320929@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595566,
-    "wof:geomhash":"65403f27a0da49b293ffdbc061fb2efd",
+    "wof:geomhash":"ccad5898f78fb943cb9f1eb987b8b98c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790404461,
-    "wof:lastmodified":1467083192,
+    "wof:lastmodified":1510695748,
     "wof:name":"Sunbelt Rentals Inc",
     "wof:parent_id":85833385,
     "wof:placetype":"venue",

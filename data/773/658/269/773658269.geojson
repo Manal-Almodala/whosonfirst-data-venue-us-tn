@@ -2,14 +2,20 @@
   "id": 773658269,
   "type": "Feature",
   "properties": {
+    "addr:full":"2182 Old Russellville Pike Clarksville TN 37043",
+    "addr:housenumber":"2182",
+    "addr:postcode":"37043",
+    "addr:street":"Old Russellville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.30282,36.563919,-87.30282,36.563919",
     "geom:latitude":36.563919,
     "geom:longitude":-87.30282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2182 Old Russellville Pike",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         420541999
     ],
+    "wof:brand_id":1125150427,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MkaeJKiWeKePj9x80GPot_36.563919_-87.302820@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587380,
-    "wof:geomhash":"86c09cf5f9100e43a041abc38a22ddb9",
+    "wof:geomhash":"b9d676debbdcf84128d561c22e11b7af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773658269,
-    "wof:lastmodified":1467082948,
+    "wof:lastmodified":1510694662,
     "wof:name":"Vineyard Christian Fellowship",
     "wof:parent_id":420541999,
     "wof:placetype":"venue",

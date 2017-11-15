@@ -2,9 +2,14 @@
   "id": 790243085,
   "type": "Feature",
   "properties": {
+    "addr:full":"2204 Crossway Dr Franklin TN 37064",
+    "addr:housenumber":"2204",
+    "addr:postcode":"37064",
+    "addr:street":"Crossway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.854073,35.881749,-86.854073,35.881749",
     "geom:latitude":35.881749,
     "geom:longitude":-86.854073,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7FaO84nCK1xp8JePtOB22m_35.881749_-86.854073@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462594269,
     "wof:geomhash":"43d65ada3326092f0ac88a2d54301086",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":790243085
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790243085,
-    "wof:lastmodified":1467083154,
+    "wof:lastmodified":1491930841,
     "wof:name":"Preservation Construction Co",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

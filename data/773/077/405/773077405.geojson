@@ -2,14 +2,20 @@
   "id": 773077405,
   "type": "Feature",
   "properties": {
+    "addr:full":"4450 Distriplex Cove Memphis TN 38118",
+    "addr:housenumber":"4450",
+    "addr:postcode":"38118",
+    "addr:street":"Distriplex Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.939538,35.026302,-89.939538,35.026302",
     "geom:latitude":35.026302,
     "geom:longitude":-89.939538,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4450 Distriplex Cove",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870785
     ],
+    "wof:brand_id":1125152341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LdpKOD9yuFxQV2nxutrbJ_35.026302_-89.939538@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582986,
-    "wof:geomhash":"59f4114e13438515a433e5bcdddff9f5",
+    "wof:geomhash":"454481c22b7cde8d801274fae04a0629",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773077405,
-    "wof:lastmodified":1467082798,
+    "wof:lastmodified":1510613375,
     "wof:name":"Federal Express Corporation",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",

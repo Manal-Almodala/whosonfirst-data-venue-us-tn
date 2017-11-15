@@ -2,14 +2,20 @@
   "id": 807045581,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 Outlet Village Blvd Lebanon TN 37090",
+    "addr:housenumber":"350",
+    "addr:postcode":"37090",
+    "addr:street":"Outlet Village Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.303587,36.178465,-86.303587,36.178465",
     "geom:latitude":36.178465,
     "geom:longitude":-86.303587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 Outlet Village Blvd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125159519,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5P01d6Up0Fx8AGjVzj11eV_36.178465_-86.303587@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603254,
-    "wof:geomhash":"695228d80184a26e068778cbd8ba1d64",
+    "wof:geomhash":"8a39fd9148eef4f89509672aedb272b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807045581,
-    "wof:lastmodified":1467083444,
+    "wof:lastmodified":1510698880,
     "wof:name":"Corning Revere Factory Store",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823198597,
   "type": "Feature",
   "properties": {
+    "addr:full":"217 Co Rd 852 Delano TN 37325",
+    "addr:housenumber":"217",
+    "addr:postcode":"37325",
+    "addr:street":"Co Rd 852",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.545703,35.266732,-84.545703,35.266732",
     "geom:latitude":35.266732,
     "geom:longitude":-84.545703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"217 Co Rd 852",
     "sg:city":"Delano",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083599,
         420517825
     ],
+    "wof:brand_id":1125159773,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nbP4k6yBaqmly519EwCgQ_35.266732_-84.545703@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608321,
-    "wof:geomhash":"1f5fe41a3ccbcbab43f9330ef3073835",
+    "wof:geomhash":"30cf030b6c021d0ad8785b36502dc6ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823198597,
-    "wof:lastmodified":1467083599,
+    "wof:lastmodified":1510699930,
     "wof:name":"Affordable Plumbing",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

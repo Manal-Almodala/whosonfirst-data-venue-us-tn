@@ -2,14 +2,20 @@
   "id": 807363175,
   "type": "Feature",
   "properties": {
+    "addr:full":"3298 Democrat Rd Memphis TN 38118",
+    "addr:housenumber":"3298",
+    "addr:postcode":"38118",
+    "addr:street":"Democrat Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.959074,35.06896,-89.959074,35.06896",
     "geom:latitude":35.06896,
     "geom:longitude":-89.959074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3298 Democrat Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125156577,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pNdHibpgIS2C1LJLAldmg_35.068960_-89.959074@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606698,
-    "wof:geomhash":"be6ce2a0ea553ca2d60c85c18ed474e2",
+    "wof:geomhash":"54f7825c98d58047df9ed635d84a8b16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807363175,
-    "wof:lastmodified":1467083550,
+    "wof:lastmodified":1510696822,
     "wof:name":"Hagemeyer",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

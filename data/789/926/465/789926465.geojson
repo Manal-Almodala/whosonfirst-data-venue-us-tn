@@ -2,14 +2,20 @@
   "id": 789926465,
   "type": "Feature",
   "properties": {
+    "addr:full":"5142 Carters Valley Rd Church Hill TN 37645",
+    "addr:housenumber":"5142",
+    "addr:postcode":"37645",
+    "addr:street":"Carters Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.662076,36.582992,-82.662076,36.582992",
     "geom:latitude":36.582992,
     "geom:longitude":-82.662076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5142 Carters Valley Rd",
     "sg:city":"Church Hill",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087101,
         85802727
     ],
+    "wof:brand_id":1125150135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Oi7sRCIObjJB5J29ekJJu_36.582992_-82.662076@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591678,
-    "wof:geomhash":"b522f46e96a33041885db213390307cd",
+    "wof:geomhash":"8d342e0dc09f0f5da3909a9e8e379adf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789926465,
-    "wof:lastmodified":1467083079,
+    "wof:lastmodified":1510696872,
     "wof:name":"Mane Attraction",
     "wof:parent_id":85802727,
     "wof:placetype":"venue",

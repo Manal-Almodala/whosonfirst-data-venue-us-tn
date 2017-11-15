@@ -2,14 +2,20 @@
   "id": 823272167,
   "type": "Feature",
   "properties": {
+    "addr:full":"7997 Shallowford Rd Chattanooga TN 37421",
+    "addr:housenumber":"7997",
+    "addr:postcode":"37421",
+    "addr:street":"Shallowford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.129663,35.032916,-85.129663,35.032916",
     "geom:latitude":35.032916,
     "geom:longitude":-85.129663,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7997 Shallowford Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         85826071,
         102087185
     ],
+    "wof:brand_id":1125150427,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6C6F6Zq7pi0hUbO0Daj2hb_35.032916_-85.129663@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609992,
-    "wof:geomhash":"996064820a3f8482e6366b132eae6974",
+    "wof:geomhash":"ae12aae7e5e89ce376e2cbb86e066dad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823272167,
-    "wof:lastmodified":1467083658,
+    "wof:lastmodified":1510694663,
     "wof:name":"Vineyard Christian Fellowship",
     "wof:parent_id":85826071,
     "wof:placetype":"venue",

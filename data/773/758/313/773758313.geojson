@@ -2,9 +2,14 @@
   "id": 773758313,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Poplar St Franklin TN 37064",
+    "addr:housenumber":"107",
+    "addr:postcode":"37064",
+    "addr:street":"Poplar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.851513,35.864331,-86.851513,35.864331",
     "geom:latitude":35.864331,
     "geom:longitude":-86.851513,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KouqpjAA1oSSlVujBlptD_35.864331_-86.851513@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462588155,
     "wof:geomhash":"1666905b162b91026b9d265c48e6597f",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773758313
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773758313,
-    "wof:lastmodified":1467082972,
+    "wof:lastmodified":1491930831,
     "wof:name":"Michael D Swinea",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

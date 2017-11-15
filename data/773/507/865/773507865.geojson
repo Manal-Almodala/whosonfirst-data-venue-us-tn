@@ -2,14 +2,20 @@
   "id": 773507865,
   "type": "Feature",
   "properties": {
+    "addr:full":"5005 N National Dr Knoxville TN 37914",
+    "addr:housenumber":"5005",
+    "addr:postcode":"37914",
+    "addr:street":"N National Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.8361,35.94871,-83.8361,35.94871",
     "geom:latitude":35.94871,
     "geom:longitude":-83.8361,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5005 N National Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85833365
     ],
+    "wof:brand_id":1125159647,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hfccmcMMxT59rhBb8FweB_35.948710_-83.836100@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586258,
-    "wof:geomhash":"ee9627b77fa40140054a876d0f9972a7",
+    "wof:geomhash":"5eaaf02cf3ca03c07273c947762b818c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773507865,
-    "wof:lastmodified":1467082912,
+    "wof:lastmodified":1510709412,
     "wof:name":"Pepsi-Cola Co",
     "wof:parent_id":85833365,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773653575,
   "type": "Feature",
   "properties": {
+    "addr:full":"970 N Germantown Pkwy Cordova TN 38018",
+    "addr:housenumber":"970",
+    "addr:postcode":"38018",
+    "addr:street":"N Germantown Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.795128,35.151855,-89.795128,35.151855",
     "geom:latitude":35.151855,
     "geom:longitude":-89.795128,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"970 N Germantown Pkwy",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":1125151391,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1pu3tZjRIMcrTgEIDsmZ8J_35.151855_-89.795128@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587351,
-    "wof:geomhash":"09fad4c40325d7dafbbf4f71a5175d41",
+    "wof:geomhash":"284a34ab67607ba51cc2d4f7fb44f8b0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773653575,
-    "wof:lastmodified":1467082947,
+    "wof:lastmodified":1510613543,
     "wof:name":"Schlotzsky's Deli",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

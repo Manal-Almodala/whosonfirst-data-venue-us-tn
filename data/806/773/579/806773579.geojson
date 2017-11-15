@@ -2,14 +2,20 @@
   "id": 806773579,
   "type": "Feature",
   "properties": {
+    "addr:full":"340 Poplar View Ln E Collierville TN 38017",
+    "addr:housenumber":"340",
+    "addr:postcode":"38017",
+    "addr:street":"Poplar View Ln E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.698756,35.048969,-89.698756,35.048969",
     "geom:latitude":35.048969,
     "geom:longitude":-89.698756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"340 Poplar View Ln E",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":1125154225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hoqWCkCoj1RRDl7es7Z75_35.048969_-89.698756@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600958,
-    "wof:geomhash":"314cbdc72ba5e4d9e26046496fb12916",
+    "wof:geomhash":"579389560fb8f649d5942464e6834d92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806773579,
-    "wof:lastmodified":1467083369,
+    "wof:lastmodified":1510693988,
     "wof:name":"Juvenile Diabetes Foundation",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

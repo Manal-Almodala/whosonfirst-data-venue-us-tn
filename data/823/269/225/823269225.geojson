@@ -2,14 +2,20 @@
   "id": 823269225,
   "type": "Feature",
   "properties": {
+    "addr:full":"4725 Rosemary Ln Ooltewah TN 37363",
+    "addr:housenumber":"4725",
+    "addr:postcode":"37363",
+    "addr:street":"Rosemary Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.105686,35.061083,-85.105686,35.061083",
     "geom:latitude":35.061083,
     "geom:longitude":-85.105686,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4725 Rosemary Ln",
     "sg:city":"Ooltewah",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087185,
         85848781
     ],
+    "wof:brand_id":1125157085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1m4iJTr7I3W4VN4vsWWD9J_35.061083_-85.105686@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609885,
-    "wof:geomhash":"fc5d73cd5760ed40f9af5b3de37ac3f7",
+    "wof:geomhash":"9216ec3821aff1c84cc92892ef8be830",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":823269225,
-    "wof:lastmodified":1467083653,
+    "wof:lastmodified":1510693785,
     "wof:name":"The Corp Of Church Of Christ Latter-Day St",
     "wof:parent_id":85848781,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823224589,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Hillsboro Blvd Manchester TN 37355",
+    "addr:housenumber":"400",
+    "addr:postcode":"37355",
+    "addr:street":"Hillsboro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.083618,35.478519,-86.083618,35.478519",
     "geom:latitude":35.478519,
     "geom:longitude":-86.083618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Hillsboro Blvd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087095,
         85821997
     ],
+    "wof:brand_id":1125152841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_07MsxjaaNntlMAQUYqH2Rh_35.478507_-86.083598@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462608831,
-    "wof:geomhash":"e637cf6bdebf09cf1efbb7ace8f79da4",
+    "wof:geomhash":"499d3ba26808fb67646057b3aea3f2d6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823224589,
-    "wof:lastmodified":1467083617,
+    "wof:lastmodified":1510693748,
     "wof:name":"Amoco Food Mart",
     "wof:parent_id":85821997,
     "wof:placetype":"venue",

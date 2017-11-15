@@ -2,14 +2,20 @@
   "id": 823203269,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 W Summit Hill Dr Knoxville TN 37902",
+    "addr:housenumber":"601",
+    "addr:postcode":"37902",
+    "addr:street":"W Summit Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.923587,35.964791,-83.923587,35.964791",
     "geom:latitude":35.964791,
     "geom:longitude":-83.923587,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 W Summit Hill Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086455,
         85867175
     ],
+    "wof:brand_id":1125153491,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ybUzuzPi5s89KPDLJ7XI6_35.964791_-83.923587@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608413,
-    "wof:geomhash":"6030284307a58d10ab22b3701c6e055f",
+    "wof:geomhash":"5909a05576a48287d0efc99a9c7398ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823203269,
-    "wof:lastmodified":1467083602,
+    "wof:lastmodified":1510712764,
     "wof:name":"US Commerce Dept",
     "wof:parent_id":85867175,
     "wof:placetype":"venue",

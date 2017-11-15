@@ -2,14 +2,20 @@
   "id": 807326213,
   "type": "Feature",
   "properties": {
+    "addr:full":"6077 Apple Tree Dr Memphis TN 38115",
+    "addr:housenumber":"6077",
+    "addr:postcode":"38115",
+    "addr:street":"Apple Tree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.860931,35.069043,-89.860931,35.069043",
     "geom:latitude":35.069043,
     "geom:longitude":-89.860931,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6077 Apple Tree Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125153859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PRBqgy41JbmH0PJNWlyXP_35.069043_-89.860931@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606145,
-    "wof:geomhash":"210a3a103e5cde5569970b1c205de462",
+    "wof:geomhash":"08d0e01d6789cb0e58e848ec5af8b49f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807326213,
-    "wof:lastmodified":1467083534,
+    "wof:lastmodified":1510697170,
     "wof:name":"Dale Carnegie Training",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

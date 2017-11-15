@@ -2,14 +2,20 @@
   "id": 807379829,
   "type": "Feature",
   "properties": {
+    "addr:full":"3465 Lamar Ave Memphis TN 38118",
+    "addr:housenumber":"3465",
+    "addr:postcode":"38118",
+    "addr:street":"Lamar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.947456,35.072765,-89.947456,35.072765",
     "geom:latitude":35.072765,
     "geom:longitude":-89.947456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3465 Lamar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125152841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66wRg515oChJX8Y3oFddnu_35.072765_-89.947456@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606918,
-    "wof:geomhash":"55d8ebec7f7a2c545bd57944bfe48446",
+    "wof:geomhash":"5624434eef90558e02449291ccd07c2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807379829,
-    "wof:lastmodified":1467083558,
+    "wof:lastmodified":1510693748,
     "wof:name":"Amoco Food Mart",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

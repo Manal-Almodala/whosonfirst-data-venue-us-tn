@@ -2,14 +2,20 @@
   "id": 773548331,
   "type": "Feature",
   "properties": {
+    "addr:full":"2415 Parkway Pigeon Forge TN 37863",
+    "addr:housenumber":"2415",
+    "addr:postcode":"37863",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.577731,35.809081,-83.577731,35.809081",
     "geom:latitude":35.809081,
     "geom:longitude":-83.577731,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2415 Parkway",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086245,
         85854207
     ],
+    "wof:brand_id":420573805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iZk5I0yOhv9KdgwfR4slH_35.809081_-83.577731@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586555,
-    "wof:geomhash":"c95dc0caa1f3a27a308943a0b112b1e0",
+    "wof:geomhash":"89f9fdbb86b39df3910cd85198dd2fb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773548331,
-    "wof:lastmodified":1467082922,
+    "wof:lastmodified":1510603218,
     "wof:name":"CVS Pharmacy",
     "wof:parent_id":85854207,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806835775,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 N Cherry St Knoxville TN 37917",
+    "addr:housenumber":"1500",
+    "addr:postcode":"37917",
+    "addr:street":"N Cherry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.900621,35.992018,-83.900621,35.992018",
     "geom:latitude":35.992018,
     "geom:longitude":-83.900621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 N Cherry St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         420541841
     ],
+    "wof:brand_id":1125154077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KGz1dZcQQn9tozIaskjcN_35.992018_-83.900621@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601474,
-    "wof:geomhash":"e28e27dd4a313384aceee3d6bae93f79",
+    "wof:geomhash":"72e0ec901ba302d383532a852d48c013",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806835775,
-    "wof:lastmodified":1467083387,
+    "wof:lastmodified":1510697259,
     "wof:name":"Red Carpet Inn",
     "wof:parent_id":420541841,
     "wof:placetype":"venue",

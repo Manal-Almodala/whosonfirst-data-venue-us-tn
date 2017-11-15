@@ -2,14 +2,20 @@
   "id": 807230665,
   "type": "Feature",
   "properties": {
+    "addr:full":"519 E 4th St Chattanooga TN 37403",
+    "addr:housenumber":"519",
+    "addr:postcode":"37403",
+    "addr:street":"E 4Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.30436,35.052407,-85.30436,35.052407",
     "geom:latitude":35.052407,
     "geom:longitude":-85.30436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"519 E 4th St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087185,
         85876727
     ],
+    "wof:brand_id":1125153835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2mWHjJ5FaLCezEDofwnuTZ_35.052407_-85.304360@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605123,
-    "wof:geomhash":"344564271d45eb9d56b31c13dce63ad3",
+    "wof:geomhash":"232473f79cc3a940e91dd292849d3c31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807230665,
-    "wof:lastmodified":1467083500,
+    "wof:lastmodified":1510696917,
     "wof:name":"American Heart Association",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",

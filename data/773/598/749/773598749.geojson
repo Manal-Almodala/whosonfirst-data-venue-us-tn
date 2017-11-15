@@ -2,14 +2,20 @@
   "id": 773598749,
   "type": "Feature",
   "properties": {
+    "addr:full":"387 Lawrence Switch Rd Jackson TN 38305",
+    "addr:housenumber":"387",
+    "addr:postcode":"38305",
+    "addr:street":"Lawrence Switch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.772604,35.649067,-88.772604,35.649067",
     "geom:latitude":35.649067,
     "geom:longitude":-88.772604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"387 Lawrence Switch Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85830001,
         102087221
     ],
+    "wof:brand_id":1125159051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HOd6frUIxCDVDxeKCyBdD_35.649067_-88.772604@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586935,
-    "wof:geomhash":"062f5aabc4fec2302aa3be36f236c575",
+    "wof:geomhash":"c897eb2ccdb1d46887b090ff4c0825ba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773598749,
-    "wof:lastmodified":1467082934,
+    "wof:lastmodified":1510697216,
     "wof:name":"New Life Tabernacle",
     "wof:parent_id":85830001,
     "wof:placetype":"venue",

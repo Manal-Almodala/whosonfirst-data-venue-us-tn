@@ -2,14 +2,20 @@
   "id": 789949173,
   "type": "Feature",
   "properties": {
+    "addr:full":"1508 S White Station Rd Memphis TN 38117",
+    "addr:housenumber":"1508",
+    "addr:postcode":"38117",
+    "addr:street":"S White Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.890744,35.090558,-89.890744,35.090558",
     "geom:latitude":35.090558,
     "geom:longitude":-89.890744,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1508 S White Station Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125151925,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27NbW9tGN6evVB70ZtqcA4_35.090558_-89.890744@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591904,
-    "wof:geomhash":"6b49f020731e6c6179183ac50a685753",
+    "wof:geomhash":"45dd807f5f87069a62b339f7a1854c82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789949173,
-    "wof:lastmodified":1467083084,
+    "wof:lastmodified":1510694644,
     "wof:name":"All Saints Episcopal Church",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790080071,
   "type": "Feature",
   "properties": {
+    "addr:full":"11833 Kingston Pike Knoxville TN 37934",
+    "addr:housenumber":"11833",
+    "addr:postcode":"37934",
+    "addr:street":"Kingston Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.176206,35.874191,-84.176206,35.874191",
     "geom:latitude":35.874191,
     "geom:longitude":-84.176206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"11833 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086455,
         85853837
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3bGknSfq29ZGhwasHrJWeX_35.874191_-84.176206@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592971,
-    "wof:geomhash":"4b93a1cb9d655ececb79242f8c3760bb",
+    "wof:geomhash":"f4a23e422f117b92c8b2a4fa2c39e366",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790080071,
-    "wof:lastmodified":1467083115,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85853837,
     "wof:placetype":"venue",

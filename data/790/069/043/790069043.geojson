@@ -2,14 +2,20 @@
   "id": 790069043,
   "type": "Feature",
   "properties": {
+    "addr:full":"110 Lebanon Rd Kingsport TN 37663",
+    "addr:housenumber":"110",
+    "addr:postcode":"37663",
+    "addr:street":"Lebanon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.504413,36.484047,-82.504413,36.484047",
     "geom:latitude":36.484047,
     "geom:longitude":-82.504413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"110 Lebanon Rd",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086471,
         85826065
     ],
+    "wof:brand_id":1125154815,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ktN0JQWq7y9cpglPRRQ7p_36.484047_-82.504413@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592884,
-    "wof:geomhash":"b956332405ee5ffaa91a73e9920b154b",
+    "wof:geomhash":"a4d51fb9696137d5b0869d0e93cbb748",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790069043,
-    "wof:lastmodified":1467083113,
+    "wof:lastmodified":1510695891,
     "wof:name":"Total Look",
     "wof:parent_id":85826065,
     "wof:placetype":"venue",

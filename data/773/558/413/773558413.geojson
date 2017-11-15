@@ -2,14 +2,20 @@
   "id": 773558413,
   "type": "Feature",
   "properties": {
+    "addr:full":"3519 Valley Trl Chattanooga TN 37415",
+    "addr:housenumber":"3519",
+    "addr:postcode":"37415",
+    "addr:street":"Valley Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.312434,35.121895,-85.312434,35.121895",
     "geom:latitude":35.121895,
     "geom:longitude":-85.312434,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3519 Valley Trl",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         420541683
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3onjo7qZ9hGgprk5HVGRoD_35.121895_-85.312434@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586636,
-    "wof:geomhash":"a28fc38f919c1c333bc92d261bb9934a",
+    "wof:geomhash":"3369013ae06f9e668c106bbfbacf4744",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773558413,
-    "wof:lastmodified":1467082924,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":420541683,
     "wof:placetype":"venue",

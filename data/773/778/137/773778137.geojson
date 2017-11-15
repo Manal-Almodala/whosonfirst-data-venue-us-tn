@@ -2,14 +2,20 @@
   "id": 773778137,
   "type": "Feature",
   "properties": {
+    "addr:full":"3129 McGavock Pike Nashville TN 37214",
+    "addr:housenumber":"3129",
+    "addr:postcode":"37214",
+    "addr:street":"Mcgavock Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.674759,36.188916,-86.674759,36.188916",
     "geom:latitude":36.188916,
     "geom:longitude":-86.674759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3129 McGavock Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85814869
     ],
+    "wof:brand_id":1125154201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cfaNkG9hCw1qnnrVYECPi_36.188916_-86.674759@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588305,
-    "wof:geomhash":"a6ff8191e2634a6c9142ae25b423b1ef",
+    "wof:geomhash":"513b966ded4a7dbd8ae9391d22601d44",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773778137,
-    "wof:lastmodified":1467082977,
+    "wof:lastmodified":1510694738,
     "wof:name":"Family Worship Ctr",
     "wof:parent_id":85814869,
     "wof:placetype":"venue",

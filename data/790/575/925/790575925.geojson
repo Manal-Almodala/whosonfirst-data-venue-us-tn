@@ -2,14 +2,20 @@
   "id": 790575925,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Park Ave Mc Minnville TN 37110",
+    "addr:housenumber":"220",
+    "addr:postcode":"37110",
+    "addr:street":"Park Ave Mc Minnville",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.791531,35.698782,-85.791531,35.698782",
     "geom:latitude":35.698782,
     "geom:longitude":-85.791531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 Park Ave",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086399,
         420542243
     ],
+    "wof:brand_id":1125154727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Rulo77QIDRDeBtTYhuUW7_35.698782_-85.791531@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597006,
-    "wof:geomhash":"7c70fdd44a84f5bd5edd8d8738866fce",
+    "wof:geomhash":"87258918d83870326735fdb1a765ebca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790575925,
-    "wof:lastmodified":1467083239,
+    "wof:lastmodified":1510695868,
     "wof:name":"Eastside Baptist Church",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",

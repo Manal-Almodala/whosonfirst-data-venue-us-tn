@@ -2,14 +2,20 @@
   "id": 773322733,
   "type": "Feature",
   "properties": {
+    "addr:full":"2858 Hickory Hill Rd Memphis TN 38115",
+    "addr:housenumber":"2858",
+    "addr:postcode":"38115",
+    "addr:street":"Hickory Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.863456,35.072082,-89.863456,35.072082",
     "geom:latitude":35.072082,
     "geom:longitude":-89.863456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2858 Hickory Hill Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Muwng8e3GxTLu2DKaehcq_35.072082_-89.863456@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584861,
-    "wof:geomhash":"4b51906c7e6629c35d10fd506ca1b2c5",
+    "wof:geomhash":"c8b7034f8acc67481c71c1770409ca5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773322733,
-    "wof:lastmodified":1467082868,
+    "wof:lastmodified":1510602609,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

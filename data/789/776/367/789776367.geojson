@@ -2,9 +2,14 @@
   "id": 789776367,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Twickenham Pl Franklin TN 37069",
+    "addr:housenumber":"401",
+    "addr:postcode":"37069",
+    "addr:street":"Twickenham Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.877487,35.960128,-86.877487,35.960128",
     "geom:latitude":35.960128,
     "geom:longitude":-86.877487,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -44,6 +50,7 @@
     "wof:geomhash":"a1d1da5360c029c34d08d7648dc9fb97",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789776367,
-    "wof:lastmodified":1467083042,
+    "wof:lastmodified":1491924190,
     "wof:name":"J & J Specialty Advertising",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

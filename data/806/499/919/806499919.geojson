@@ -2,14 +2,20 @@
   "id": 806499919,
   "type": "Feature",
   "properties": {
+    "addr:full":"1117 S Miles Ave Union City TN 38261",
+    "addr:housenumber":"1117",
+    "addr:postcode":"38261",
+    "addr:street":"S Miles Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.040915,36.416037,-89.040915,36.416037",
     "geom:latitude":36.416037,
     "geom:longitude":-89.040915,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1117 S Miles Ave",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102084541,
         85844377
     ],
+    "wof:brand_id":1125155929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2izWYb0wY0FR4ZpFMF5OLn_36.416037_-89.040915@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598622,
-    "wof:geomhash":"3f99c678ab7dfb97c26fbbabf3a60df1",
+    "wof:geomhash":"855bae2ddc0437d57484ca45f53c18e4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806499919,
-    "wof:lastmodified":1467083292,
+    "wof:lastmodified":1510697681,
     "wof:name":"Gambro Hlthcare Ptent Svcs Inc",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",

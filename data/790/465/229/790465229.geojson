@@ -2,14 +2,20 @@
   "id": 790465229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1934 Co Rd 206 Bridgeport TN 35740",
+    "addr:housenumber":"1934",
+    "addr:postcode":"35740",
+    "addr:street":"Co Rd 206",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.75307,34.957877,-85.75307,34.957877",
     "geom:latitude":34.957877,
     "geom:longitude":-85.75307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1934 Co Rd 206",
     "sg:city":"Bridgeport",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102085607,
         420510197
     ],
+    "wof:brand_id":1125156255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0scLpm6e51cSJHz9YXIbQL_34.957877_-85.753070@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596051,
-    "wof:geomhash":"36ab15d5fb00bb30e9c1e6270e07ccdf",
+    "wof:geomhash":"5dc03b918aed1ed4d3464d62049ae0e4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":790465229,
-    "wof:lastmodified":1467083208,
+    "wof:lastmodified":1510696913,
     "wof:name":"Hopewell Baptist Church",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

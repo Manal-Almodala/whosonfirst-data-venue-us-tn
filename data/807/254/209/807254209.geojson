@@ -2,9 +2,14 @@
   "id": 807254209,
   "type": "Feature",
   "properties": {
+    "addr:full":"2235 Avery Valley Dr Franklin TN 37067",
+    "addr:housenumber":"2235",
+    "addr:postcode":"37067",
+    "addr:street":"Avery Valley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79597,35.895738,-86.79597,35.895738",
     "geom:latitude":35.895738,
     "geom:longitude":-86.79597,
@@ -27,12 +32,7 @@
         "broker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DlOjDj7NuV1YAT3aT4yJI_35.895738_-86.795970@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462605372,
     "wof:geomhash":"6764c87e913e0bb2a91502a82367168c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":807254209
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807254209,
-    "wof:lastmodified":1467083508,
+    "wof:lastmodified":1491924951,
     "wof:name":"Peerless Pinnacle Co",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

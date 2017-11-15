@@ -2,9 +2,14 @@
   "id": 807280945,
   "type": "Feature",
   "properties": {
+    "addr:full":"403 Springview Dr Franklin TN 37064",
+    "addr:housenumber":"403",
+    "addr:postcode":"37064",
+    "addr:street":"Springview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.853742,35.869379,-86.853742,35.869379",
     "geom:latitude":35.869379,
     "geom:longitude":-86.853742,
@@ -27,12 +32,7 @@
         "business"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2l2zmavtfXgn1VKgzAhxOV_35.869379_-86.853742@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462605659,
     "wof:geomhash":"a7be11b0c4125ed26075272b419e702a",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807280945
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807280945,
-    "wof:lastmodified":1467083517,
+    "wof:lastmodified":1491930832,
     "wof:name":"Tom Hunt Textile Consultant",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

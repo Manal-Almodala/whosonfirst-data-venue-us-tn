@@ -2,9 +2,14 @@
   "id": 807340387,
   "type": "Feature",
   "properties": {
+    "addr:full":"1033 Hogans Branch Rd Hendersonville TN 37075",
+    "addr:housenumber":"1033",
+    "addr:postcode":"37075",
+    "addr:street":"Hogans Branch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.640176,36.394216,-86.640176,36.394216",
     "geom:latitude":36.394216,
     "geom:longitude":-86.640176,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"545c566e122c0bf2fa60d934b4e6f19e",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807340387,
-    "wof:lastmodified":1467083540,
+    "wof:lastmodified":1491939206,
     "wof:name":"Brinkley Backhoe",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

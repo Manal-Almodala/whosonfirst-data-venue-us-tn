@@ -2,14 +2,20 @@
   "id": 790598951,
   "type": "Feature",
   "properties": {
+    "addr:full":"9185 Rhea County Hwy Dayton TN 37321",
+    "addr:housenumber":"9185",
+    "addr:postcode":"37321",
+    "addr:street":"Rhea County Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.984586,35.528473,-84.984586,35.528473",
     "geom:latitude":35.528473,
     "geom:longitude":-84.984586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9185 Rhea County Hwy",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086477,
         85808219
     ],
+    "wof:brand_id":1125153677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xaupdwimRR60e1gvKrERv_35.528473_-84.984586@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597214,
-    "wof:geomhash":"d8e36e8f5fac0d2bcb884c1b015ed48c",
+    "wof:geomhash":"2dc4521ea534e4aed2739a637cfb5dea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790598951,
-    "wof:lastmodified":1467083245,
+    "wof:lastmodified":1510697774,
     "wof:name":"Clayton Homes Inc",
     "wof:parent_id":85808219,
     "wof:placetype":"venue",

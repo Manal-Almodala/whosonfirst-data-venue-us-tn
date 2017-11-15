@@ -2,14 +2,20 @@
   "id": 823255865,
   "type": "Feature",
   "properties": {
+    "addr:full":"8101 Giacosa Pl Memphis TN 38133",
+    "addr:housenumber":"8101",
+    "addr:postcode":"38133",
+    "addr:street":"Giacosa Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.796401,35.197388,-89.796401,35.197388",
     "geom:latitude":35.197388,
     "geom:longitude":-89.796401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8101 Giacosa Pl",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125151697,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z60gtvVDMeCFS5F2KrJdh_35.197388_-89.796401@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609457,
-    "wof:geomhash":"079cabec7dda6e19e277c7b0b047d74d",
+    "wof:geomhash":"542ca24055ef2287e929bbbfc9b1388a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823255865,
-    "wof:lastmodified":1467083639,
+    "wof:lastmodified":1510693896,
     "wof:name":"On The Border",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

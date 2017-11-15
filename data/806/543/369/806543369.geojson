@@ -2,14 +2,20 @@
   "id": 806543369,
   "type": "Feature",
   "properties": {
+    "addr:full":"10505 US Hwy 64 Arlington TN 38002",
+    "addr:housenumber":"10505",
+    "addr:postcode":"38002",
+    "addr:street":"Us Hwy 64",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.719412,35.204938,-89.719412,35.204938",
     "geom:latitude":35.204938,
     "geom:longitude":-89.719412,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10505 US Hwy 64",
     "sg:city":"Arlington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":1125150789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6abNQPD4Cl4Jv6HIQK9kWl_35.204938_-89.719412@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598986,
-    "wof:geomhash":"06c613d5de9f02e61ccbc74b00178f4e",
+    "wof:geomhash":"15855088d0e1c73ce928c198ca2a7bdc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806543369,
-    "wof:lastmodified":1467083304,
+    "wof:lastmodified":1510698805,
     "wof:name":"Shurgard Storage Ctr",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

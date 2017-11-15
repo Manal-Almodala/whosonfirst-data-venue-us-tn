@@ -2,9 +2,14 @@
   "id": 773360567,
   "type": "Feature",
   "properties": {
+    "addr:full":"6015 Saddleview Dr Franklin TN 37067",
+    "addr:housenumber":"6015",
+    "addr:postcode":"37067",
+    "addr:street":"Saddleview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798378,35.88842,-86.798378,35.88842",
     "geom:latitude":35.88842,
     "geom:longitude":-86.798378,
@@ -24,12 +29,7 @@
     "sg:postcode":"37067",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qUfQgN3mxFxnUEdgJSz3j_35.888420_-86.798378@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462585118,
     "wof:geomhash":"d9d1246413937680a5d3d5ca62f4f9a2",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":773360567
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773360567,
-    "wof:lastmodified":1467082877,
+    "wof:lastmodified":1491924953,
     "wof:name":"Samuel E Lynch",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

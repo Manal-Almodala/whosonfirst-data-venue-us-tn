@@ -2,14 +2,20 @@
   "id": 807085057,
   "type": "Feature",
   "properties": {
+    "addr:full":"3311 W End Ave Nashville TN 37203",
+    "addr:housenumber":"3311",
+    "addr:postcode":"37203",
+    "addr:street":"W End Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818989,36.139366,-86.818989,36.139366",
     "geom:latitude":36.139366,
     "geom:longitude":-86.818989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3311 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893447
     ],
+    "wof:brand_id":1125152471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6y3spIGjA65VcuI48wxgbF_36.139366_-86.818989@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603574,
-    "wof:geomhash":"4830da434e5913e1d7a3fc56ec776244",
+    "wof:geomhash":"cf37e603950203f83ddc71175e9bc100",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807085057,
-    "wof:lastmodified":1467083456,
+    "wof:lastmodified":1510696665,
     "wof:name":"Extended Stay America",
     "wof:parent_id":85893447,
     "wof:placetype":"venue",

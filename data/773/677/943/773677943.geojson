@@ -2,14 +2,20 @@
   "id": 773677943,
   "type": "Feature",
   "properties": {
+    "addr:full":"1227 9th Ave N Nashville TN 37208",
+    "addr:housenumber":"1227",
+    "addr:postcode":"37208",
+    "addr:street":"9Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.793675,36.174613,-86.793675,36.174613",
     "geom:latitude":36.174613,
     "geom:longitude":-86.793675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1227 9th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85893457
     ],
+    "wof:brand_id":1125150905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65EKRqXW6kK2gZoHwb0Jox_36.174613_-86.793675@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587522,
-    "wof:geomhash":"b155f685801e5e8ad33bf9d79c1de7c3",
+    "wof:geomhash":"26ef21cdac48742c8dadab0c46aa7883",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773677943,
-    "wof:lastmodified":1467082953,
+    "wof:lastmodified":1510696729,
     "wof:name":"Small Business Development Ctr",
     "wof:parent_id":85893457,
     "wof:placetype":"venue",

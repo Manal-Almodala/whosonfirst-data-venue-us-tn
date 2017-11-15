@@ -2,14 +2,20 @@
   "id": 790504999,
   "type": "Feature",
   "properties": {
+    "addr:full":"3409 Brick Church Pike Nashville TN 37207",
+    "addr:housenumber":"3409",
+    "addr:postcode":"37207",
+    "addr:street":"Brick Church Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.779794,36.245435,-86.779794,36.245435",
     "geom:latitude":36.245435,
     "geom:longitude":-86.779794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3409 Brick Church Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85830901
     ],
+    "wof:brand_id":1125157397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3yHajqf3P9Ig1qPR2pBut1_36.245435_-86.779794@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596411,
-    "wof:geomhash":"baf2da28d300acd0c064f0d7f2b596b8",
+    "wof:geomhash":"3a1170debcb97621ee001503c02b247f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790504999,
-    "wof:lastmodified":1467083219,
+    "wof:lastmodified":1510695887,
     "wof:name":"Gethsemane Baptist Church",
     "wof:parent_id":85830901,
     "wof:placetype":"venue",

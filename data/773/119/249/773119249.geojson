@@ -2,14 +2,20 @@
   "id": 773119249,
   "type": "Feature",
   "properties": {
+    "addr:full":"3397 Austin Peay Hwy Memphis TN 38135",
+    "addr:housenumber":"3397",
+    "addr:postcode":"38135",
+    "addr:street":"Austin Peay Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.911954,35.218346,-89.911954,35.218346",
     "geom:latitude":35.218346,
     "geom:longitude":-89.911954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3397 Austin Peay Hwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125155953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7GAGw5TLQmb3USAgCkBu98_35.218346_-89.911954@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583290,
-    "wof:geomhash":"575c3efe0b8e1169570d828d1a7df6ec",
+    "wof:geomhash":"57d08df4a33011d0458bd80781352929",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773119249,
-    "wof:lastmodified":1467082807,
+    "wof:lastmodified":1510698914,
     "wof:name":"Mrs Fields Original Cookies",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

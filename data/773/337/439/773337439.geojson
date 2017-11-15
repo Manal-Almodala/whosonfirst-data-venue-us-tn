@@ -2,14 +2,20 @@
   "id": 773337439,
   "type": "Feature",
   "properties": {
+    "addr:full":"1393 N Hollywood St Memphis TN 38108",
+    "addr:housenumber":"1393",
+    "addr:postcode":"38108",
+    "addr:street":"N Hollywood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.975516,35.173769,-89.975516,35.173769",
     "geom:latitude":35.173769,
     "geom:longitude":-89.975516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1393 N Hollywood St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087213,
         85826023
     ],
+    "wof:brand_id":1125153517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3sOHRjK2ROQgmyp8ltrZaS_35.173769_-89.975516@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584965,
-    "wof:geomhash":"706d631dff697d7fce945fae6eae779c",
+    "wof:geomhash":"1019d1f6f91e2b61d240431ef8fa2885",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773337439,
-    "wof:lastmodified":1467082872,
+    "wof:lastmodified":1510698961,
     "wof:name":"Fatburger",
     "wof:parent_id":85826023,
     "wof:placetype":"venue",

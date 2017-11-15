@@ -2,14 +2,20 @@
   "id": 773589045,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 3rd St South Pittsburg TN 37380",
+    "addr:housenumber":"302",
+    "addr:postcode":"37380",
+    "addr:street":"3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.707714,35.013465,-85.707714,35.013465",
     "geom:latitude":35.013465,
     "geom:longitude":-85.707714,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"302 3rd St",
     "sg:city":"South Pittsburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086347,
         85823635
     ],
+    "wof:brand_id":1125150541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fmpxHpdd2bPYNLCN5NKTo_35.013465_-85.707714@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586865,
-    "wof:geomhash":"c0a785eaa7344c663cf561139016dd8b",
+    "wof:geomhash":"1d7295c4f7d722332b7918a14bc529e3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773589045,
-    "wof:lastmodified":1467082931,
+    "wof:lastmodified":1510695852,
     "wof:name":"Christ Episcopal Church",
     "wof:parent_id":85823635,
     "wof:placetype":"venue",

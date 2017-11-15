@@ -2,14 +2,20 @@
   "id": 807048665,
   "type": "Feature",
   "properties": {
+    "addr:full":"306 Orlando Ave Nashville TN 37209",
+    "addr:housenumber":"306",
+    "addr:postcode":"37209",
+    "addr:street":"Orlando Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.856981,36.149388,-86.856981,36.149388",
     "geom:latitude":36.149388,
     "geom:longitude":-86.856981,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"306 Orlando Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85855987
     ],
+    "wof:brand_id":1125152585,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0o8TrNe4ZnNAjgrQVPGjDn_36.149388_-86.856981@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603278,
-    "wof:geomhash":"10ce87f642f2539e3c25574657a3c1f9",
+    "wof:geomhash":"14c465a213745ac10023efaf2544d9d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807048665,
-    "wof:lastmodified":1467083445,
+    "wof:lastmodified":1510695990,
     "wof:name":"Clip Joint",
     "wof:parent_id":85855987,
     "wof:placetype":"venue",

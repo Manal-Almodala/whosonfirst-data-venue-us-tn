@@ -2,14 +2,20 @@
   "id": 789833499,
   "type": "Feature",
   "properties": {
+    "addr:full":"499 Old Denmark Rd Jackson TN 38301",
+    "addr:housenumber":"499",
+    "addr:postcode":"38301",
+    "addr:street":"Old Denmark Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.888998,35.597868,-88.888998,35.597868",
     "geom:latitude":35.597868,
     "geom:longitude":-88.888998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"499 Old Denmark Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087221,
         85868161
     ],
+    "wof:brand_id":1125158665,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qNq6QNwd8bJYOaVQnJJeg_35.597868_-88.888998@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590896,
-    "wof:geomhash":"0a9fad9326d1fca7c7c9e230886dc1d2",
+    "wof:geomhash":"95b10d14107071fc3d926a062f09118e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789833499,
-    "wof:lastmodified":1467083056,
+    "wof:lastmodified":1510694739,
     "wof:name":"Unique Creations",
     "wof:parent_id":85868161,
     "wof:placetype":"venue",

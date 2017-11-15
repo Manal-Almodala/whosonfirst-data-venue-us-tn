@@ -2,14 +2,20 @@
   "id": 773057005,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Merchants Dr Knoxville TN 37912",
+    "addr:housenumber":"300",
+    "addr:postcode":"37912",
+    "addr:street":"Merchants Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.974196,36.009363,-83.974196,36.009363",
     "geom:latitude":36.009363,
     "geom:longitude":-83.974196,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Merchants Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086455,
         85826965
     ],
+    "wof:brand_id":1125153199,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1eKPW92Syls58fsVLRzH3F_36.009363_-83.974196@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582821,
-    "wof:geomhash":"541ce9a4ac9807240e685320fd829c71",
+    "wof:geomhash":"71cf5fd935d0367c2aa4064e1ed05211",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773057005,
-    "wof:lastmodified":1467082792,
+    "wof:lastmodified":1510694010,
     "wof:name":"Best Value Inn",
     "wof:parent_id":85826965,
     "wof:placetype":"venue",

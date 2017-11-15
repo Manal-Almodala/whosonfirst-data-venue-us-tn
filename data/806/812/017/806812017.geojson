@@ -2,14 +2,20 @@
   "id": 806812017,
   "type": "Feature",
   "properties": {
+    "addr:full":"10517 Kingston Pike Knoxville TN 37922",
+    "addr:housenumber":"10517",
+    "addr:postcode":"37922",
+    "addr:street":"Kingston Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.13282,35.897028,-84.13282,35.897028",
     "geom:latitude":35.897028,
     "geom:longitude":-84.13282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10517 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85852201
     ],
+    "wof:brand_id":1125150611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24nYKZHYiQDJmytXXhsmkl_35.897028_-84.132820@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601280,
-    "wof:geomhash":"3ea4576be974ba2ac79c4e5eb4564a7d",
+    "wof:geomhash":"b27504cea7fdaf6d0f03429d0b1e94da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806812017,
-    "wof:lastmodified":1467083380,
+    "wof:lastmodified":1510604905,
     "wof:name":"Quest Diagnotics",
     "wof:parent_id":85852201,
     "wof:placetype":"venue",

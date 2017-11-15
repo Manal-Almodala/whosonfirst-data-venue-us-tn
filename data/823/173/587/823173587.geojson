@@ -2,14 +2,20 @@
   "id": 823173587,
   "type": "Feature",
   "properties": {
+    "addr:full":"3906 Apache Trl Antioch TN 37013",
+    "addr:housenumber":"3906",
+    "addr:postcode":"37013",
+    "addr:street":"Apache Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.693719,36.068383,-86.693719,36.068383",
     "geom:latitude":36.068383,
     "geom:longitude":-86.693719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3906 Apache Trl",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85839117,
         420558709
     ],
+    "wof:brand_id":1125152741,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2u8sYCQQK5HXAIfhBqYfET_36.068383_-86.693719@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607976,
-    "wof:geomhash":"20815486ede8f6ead455646cd9fe6025",
+    "wof:geomhash":"add4d9dc24de83a267daeaccc5371e3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":823173587,
-    "wof:lastmodified":1467083587,
+    "wof:lastmodified":1510613104,
     "wof:name":"Speedway Superamerica LLC",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

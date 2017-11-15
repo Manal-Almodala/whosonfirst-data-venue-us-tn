@@ -2,14 +2,20 @@
   "id": 789783747,
   "type": "Feature",
   "properties": {
+    "addr:full":"477 Trentham Rd Newport TN 37821",
+    "addr:housenumber":"477",
+    "addr:postcode":"37821",
+    "addr:street":"Trentham Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.233559,35.955376,-83.233559,35.955376",
     "geom:latitude":35.955376,
     "geom:longitude":-83.233559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"477 Trentham Rd",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086241,
         85827351
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1whfjc76ujtk7YmUkgSN61_35.955376_-83.233559@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590519,
-    "wof:geomhash":"789bf4f41e3030f303e6a124f7820203",
+    "wof:geomhash":"578704aea4f6223c017a744bf19124a8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789783747,
-    "wof:lastmodified":1467083044,
+    "wof:lastmodified":1510693998,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85827351,
     "wof:placetype":"venue",

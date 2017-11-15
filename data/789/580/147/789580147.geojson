@@ -2,14 +2,20 @@
   "id": 789580147,
   "type": "Feature",
   "properties": {
+    "addr:full":"849 E Stone Dr Kingsport TN 37660",
+    "addr:housenumber":"849",
+    "addr:postcode":"37660",
+    "addr:street":"E Stone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.542837,36.558406,-82.542837,36.558406",
     "geom:latitude":36.558406,
     "geom:longitude":-82.542837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"849 E Stone Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086471,
         85818419
     ],
+    "wof:brand_id":1125156569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kqHvCT2B9SZ4tWF0oCFxb_36.558406_-82.542837@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588904,
-    "wof:geomhash":"d0ecc26054139a7645c8222171ee324b",
+    "wof:geomhash":"6db4a433ce2a313c7930b7dcf4537ad7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789580147,
-    "wof:lastmodified":1467082996,
+    "wof:lastmodified":1510695193,
     "wof:name":"Fleetwood Homes",
     "wof:parent_id":85818419,
     "wof:placetype":"venue",

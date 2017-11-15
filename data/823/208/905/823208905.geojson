@@ -2,14 +2,20 @@
   "id": 823208905,
   "type": "Feature",
   "properties": {
+    "addr:full":"3176 Austin Peay Hwy Memphis TN 38128",
+    "addr:housenumber":"3176",
+    "addr:postcode":"38128",
+    "addr:street":"Austin Peay Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.918718,35.211393,-89.918718,35.211393",
     "geom:latitude":35.211393,
     "geom:longitude":-89.918718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3176 Austin Peay Hwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67BPsmsOdzY30Xkus8FZ8y_35.211393_-89.918718@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608512,
-    "wof:geomhash":"2fa1be6d5cb42ced348abddf38a7573f",
+    "wof:geomhash":"7193bd497e0670ff7b2cdfcb3971f630",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823208905,
-    "wof:lastmodified":1467083606,
+    "wof:lastmodified":1510698853,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807332557,
   "type": "Feature",
   "properties": {
+    "addr:full":"388 Harding Pl Nashville TN 37211",
+    "addr:housenumber":"388",
+    "addr:postcode":"37211",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.721642,36.080479,-86.721642,36.080479",
     "geom:latitude":36.080479,
     "geom:longitude":-86.721642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"388 Harding Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         420541539
     ],
+    "wof:brand_id":1125156283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2nlD1ER1SiFatYdmNi3PIz_36.080479_-86.721642@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606226,
-    "wof:geomhash":"8c937f88bcbcec0b897c8de1a4fe6d5c",
+    "wof:geomhash":"5288ca0dc3d832fc5638a645e8edeac2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807332557,
-    "wof:lastmodified":1467083537,
+    "wof:lastmodified":1510693208,
     "wof:name":"Overeaters Anonymous",
     "wof:parent_id":420541539,
     "wof:placetype":"venue",

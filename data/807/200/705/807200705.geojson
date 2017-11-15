@@ -2,9 +2,14 @@
   "id": 807200705,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Portland Rd White House TN 37188",
+    "addr:housenumber":"116",
+    "addr:postcode":"37188",
+    "addr:street":"Portland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.650446,36.470322,-86.650446,36.470322",
     "geom:latitude":36.470322,
     "geom:longitude":-86.650446,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -46,6 +52,7 @@
     "wof:geomhash":"a93bbb6858b36df7c024fa26db7ba437",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807200705,
-    "wof:lastmodified":1467083490,
+    "wof:lastmodified":1491939205,
     "wof:name":"C-Tech Inc",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

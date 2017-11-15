@@ -2,14 +2,20 @@
   "id": 823208261,
   "type": "Feature",
   "properties": {
+    "addr:full":"1131 S Jefferson Ave Cookeville TN 38506",
+    "addr:housenumber":"1131",
+    "addr:postcode":"38506",
+    "addr:street":"S Jefferson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.503661,36.133291,-85.503661,36.133291",
     "geom:latitude":36.133291,
     "geom:longitude":-85.503661,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1131 S Jefferson Ave",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086339,
         420542021
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3pFzS2Mq7kz978cRmqofZa_36.133291_-85.503661@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608501,
-    "wof:geomhash":"ba60865188ed258cde74785b2264639a",
+    "wof:geomhash":"0f46a5b87e158926a049b5e52aa5652e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823208261,
-    "wof:lastmodified":1467083606,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":420542021,
     "wof:placetype":"venue",

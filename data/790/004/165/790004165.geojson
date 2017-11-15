@@ -2,14 +2,20 @@
   "id": 790004165,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Central Ave Chattanooga TN 37403",
+    "addr:housenumber":"200",
+    "addr:postcode":"37403",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.288213,35.046893,-85.288213,35.046893",
     "geom:latitude":35.046893,
     "geom:longitude":-85.288213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Central Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087185,
         85876735
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54cQuZegb4vzTfaZvxrt1y_35.046893_-85.288213@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592358,
-    "wof:geomhash":"e789dee50370af8fe06af370a31369d3",
+    "wof:geomhash":"cf4fd391ca48078b87a9cfaac5114793",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790004165,
-    "wof:lastmodified":1467083097,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":85876735,
     "wof:placetype":"venue",

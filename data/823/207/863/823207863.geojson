@@ -2,14 +2,20 @@
   "id": 823207863,
   "type": "Feature",
   "properties": {
+    "addr:full":"3335 Ringgold Rd Chattanooga TN 37412",
+    "addr:housenumber":"3335",
+    "addr:postcode":"37412",
+    "addr:street":"Ringgold Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.262084,35.006762,-85.262084,35.006762",
     "geom:latitude":35.006762,
     "geom:longitude":-85.262084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3335 Ringgold Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541601
     ],
+    "wof:brand_id":1125153353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Mq5ETnGgmaccnXI5H8Rn0_35.006762_-85.262084@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608494,
-    "wof:geomhash":"626baa2582cefbfe773f380d25869db7",
+    "wof:geomhash":"fc26c4f973f7d6d9ae9bf05e810265e9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823207863,
-    "wof:lastmodified":1467083605,
+    "wof:lastmodified":1510695784,
     "wof:name":"All Fund Mortgage",
     "wof:parent_id":420541601,
     "wof:placetype":"venue",

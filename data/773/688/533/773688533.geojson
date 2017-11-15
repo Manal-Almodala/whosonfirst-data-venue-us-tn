@@ -2,14 +2,20 @@
   "id": 773688533,
   "type": "Feature",
   "properties": {
+    "addr:full":"5012 Dayton Blvd Chattanooga TN 37415",
+    "addr:housenumber":"5012",
+    "addr:postcode":"37415",
+    "addr:street":"Dayton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.275415,35.143892,-85.275415,35.143892",
     "geom:latitude":35.143892,
     "geom:longitude":-85.275415,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5012 Dayton Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541745
     ],
+    "wof:brand_id":1125158831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ayHSFAxCvGX1vaSQLqVwI_35.143892_-85.275415@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587605,
-    "wof:geomhash":"ad3539e27704c485a97fcbfff3a57bae",
+    "wof:geomhash":"2e7089468a7aa04ec2386c19c186af26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773688533,
-    "wof:lastmodified":1467082955,
+    "wof:lastmodified":1510695708,
     "wof:name":"Open Door Baptist Church",
     "wof:parent_id":420541745,
     "wof:placetype":"venue",

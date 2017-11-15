@@ -2,14 +2,20 @@
   "id": 806367061,
   "type": "Feature",
   "properties": {
+    "addr:full":"1945 Northpoint Blvd Hixson TN 37343",
+    "addr:housenumber":"1945",
+    "addr:postcode":"37343",
+    "addr:street":"Northpoint Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.241818,35.137396,-85.241818,35.137396",
     "geom:latitude":35.137396,
     "geom:longitude":-85.241818,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1945 Northpoint Blvd",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85825769
     ],
+    "wof:brand_id":1125152699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_797nJE6wppLPy2n0VVQJzL_35.137396_-85.241818@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597572,
-    "wof:geomhash":"7ddf08b689f3264d12a31931ddce8964",
+    "wof:geomhash":"56c32fc2a8b4da739b0bfb893b3868af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806367061,
-    "wof:lastmodified":1467083255,
+    "wof:lastmodified":1510696807,
     "wof:name":"Bank of America NA",
     "wof:parent_id":85825769,
     "wof:placetype":"venue",

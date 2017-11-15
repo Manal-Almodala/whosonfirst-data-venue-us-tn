@@ -2,14 +2,20 @@
   "id": 807383271,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 N Spring St Mc Minnville TN 37110",
+    "addr:housenumber":"121",
+    "addr:postcode":"37110",
+    "addr:street":"N Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.771618,35.681792,-85.771618,35.681792",
     "geom:latitude":35.681792,
     "geom:longitude":-85.771618,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 N Spring St",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086399,
         420542243
     ],
+    "wof:brand_id":1125159515,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6JPAGvlA5Y3wA4f3FgMa6X_35.681792_-85.771618@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606970,
-    "wof:geomhash":"89d7ebfd4ab5926ace5de0fbe441191b",
+    "wof:geomhash":"2400b471231c5f75e2bea1cd79cc7f4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807383271,
-    "wof:lastmodified":1467083559,
+    "wof:lastmodified":1510698877,
     "wof:name":"Computers Plus",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",

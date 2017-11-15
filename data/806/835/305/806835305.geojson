@@ -2,9 +2,14 @@
   "id": 806835305,
   "type": "Feature",
   "properties": {
+    "addr:full":"1003 The Hollows Ct W Hendersonville TN 37075",
+    "addr:housenumber":"1003",
+    "addr:postcode":"37075",
+    "addr:street":"The Hollows Ct W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.603467,36.378778,-86.603467,36.378778",
     "geom:latitude":36.378778,
     "geom:longitude":-86.603467,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"158ef646ce2a8dab7d565aa6b427c9de",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806835305,
-    "wof:lastmodified":1467083387,
+    "wof:lastmodified":1491939214,
     "wof:name":"Larry Draper Construction",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

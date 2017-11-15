@@ -2,14 +2,20 @@
   "id": 807130207,
   "type": "Feature",
   "properties": {
+    "addr:full":"629 Myatt Dr Madison TN 37115",
+    "addr:housenumber":"629",
+    "addr:postcode":"37115",
+    "addr:street":"Myatt Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.694683,36.292294,-86.694683,36.292294",
     "geom:latitude":36.292294,
     "geom:longitude":-86.694683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"629 Myatt Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125152473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SnohRTfSZop2MbnPBkXGm_36.292294_-86.694683@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604050,
-    "wof:geomhash":"ef311b994e6a094faa8833e3583d8467",
+    "wof:geomhash":"7c20904e53d81105a7d9159da9650bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807130207,
-    "wof:lastmodified":1467083467,
+    "wof:lastmodified":1510696664,
     "wof:name":"Finders Keepers",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

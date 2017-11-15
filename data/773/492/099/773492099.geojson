@@ -2,14 +2,20 @@
   "id": 773492099,
   "type": "Feature",
   "properties": {
+    "addr:full":"1784 Madison St Clarksville TN 37043",
+    "addr:housenumber":"1784",
+    "addr:postcode":"37043",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.313369,36.513784,-87.313369,36.513784",
     "geom:latitude":36.513784,
     "geom:longitude":-87.313369,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1784 Madison St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         85811909
     ],
+    "wof:brand_id":1125150783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qm6PSfXxLudsR6EP1nqyQ_36.513784_-87.313369@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586151,
-    "wof:geomhash":"1a13089830f442025ce22771e762241b",
+    "wof:geomhash":"31aada0821e5a47d8efe28250bdaee08",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773492099,
-    "wof:lastmodified":1467082908,
+    "wof:lastmodified":1510698801,
     "wof:name":"Royal Cleaners",
     "wof:parent_id":85811909,
     "wof:placetype":"venue",

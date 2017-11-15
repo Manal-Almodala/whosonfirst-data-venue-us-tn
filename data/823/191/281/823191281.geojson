@@ -2,14 +2,20 @@
   "id": 823191281,
   "type": "Feature",
   "properties": {
+    "addr:full":"6733 Quince Rd Memphis TN 38119",
+    "addr:housenumber":"6733",
+    "addr:postcode":"38119",
+    "addr:street":"Quince Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.839094,35.066292,-89.839094,35.066292",
     "geom:latitude":35.066292,
     "geom:longitude":-89.839094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6733 Quince Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125153077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1FAFbUwQ06bdomVIDGakzC_35.066292_-89.839094@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608206,
-    "wof:geomhash":"0a0d6f24dc3c397ead68b87092e7220f",
+    "wof:geomhash":"ba973694c6a580196b0d8dc42b8f4ba3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823191281,
-    "wof:lastmodified":1467083595,
+    "wof:lastmodified":1510613330,
     "wof:name":"Beverly Healthcare",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806597889,
   "type": "Feature",
   "properties": {
+    "addr:full":"2450 E 40th St Chattanooga TN 37407",
+    "addr:housenumber":"2450",
+    "addr:postcode":"37407",
+    "addr:street":"E 40Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.288021,34.99716,-85.288021,34.99716",
     "geom:latitude":34.99716,
     "geom:longitude":-85.288021,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2450 E 40th St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         420541639
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vbUdwZTQpCXF4a1SMm23Z_34.997160_-85.288021@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599471,
-    "wof:geomhash":"f790057ff0544f3c77443e528a69adc2",
+    "wof:geomhash":"44698c1f5cac907af5639270cf976bc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806597889,
-    "wof:lastmodified":1467083319,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":420541639,
     "wof:placetype":"venue",

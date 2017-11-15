@@ -2,14 +2,20 @@
   "id": 773760333,
   "type": "Feature",
   "properties": {
+    "addr:full":"7070 US Hwy 70 S Nashville TN 37221",
+    "addr:housenumber":"7070",
+    "addr:postcode":"37221",
+    "addr:street":"Us Hwy 70 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.919816,36.074837,-86.919816,36.074837",
     "geom:latitude":36.074837,
     "geom:longitude":-86.919816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7070 US Hwy 70 S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85854361
     ],
+    "wof:brand_id":1125159241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wJyQs3Ij9AeFsxiVG765e_36.074837_-86.919816@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588173,
-    "wof:geomhash":"06943a8ffd9803f7fd2c78b84c2a06d7",
+    "wof:geomhash":"ceabe5c4c79a40a0a48f4248adf8429c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773760333,
-    "wof:lastmodified":1467082973,
+    "wof:lastmodified":1510693878,
     "wof:name":"Exxon Food Mart",
     "wof:parent_id":85854361,
     "wof:placetype":"venue",

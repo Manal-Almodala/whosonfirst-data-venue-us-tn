@@ -2,14 +2,20 @@
   "id": 807393435,
   "type": "Feature",
   "properties": {
+    "addr:full":"8152 W Andrew Johnson Hwy Mosheim TN 37818",
+    "addr:housenumber":"8152",
+    "addr:postcode":"37818",
+    "addr:street":"W Andrew Johnson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.939102,36.186425,-82.939102,36.186425",
     "geom:latitude":36.186425,
     "geom:longitude":-82.939102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8152 W Andrew Johnson Hwy",
     "sg:city":"Mosheim",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85851539,
         102086377
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Mbhmn9hl4lZyMQqfjCYlW_36.186425_-82.939102@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607128,
-    "wof:geomhash":"ba63669467f5feb2748abc92d851bcda",
+    "wof:geomhash":"db38688fffa05668d47b3c71eea96677",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807393435,
-    "wof:lastmodified":1467083564,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85851539,
     "wof:placetype":"venue",

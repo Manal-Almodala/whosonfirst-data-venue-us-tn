@@ -2,14 +2,20 @@
   "id": 807102379,
   "type": "Feature",
   "properties": {
+    "addr:full":"7770 Poplar Ave Germantown TN 38138",
+    "addr:housenumber":"7770",
+    "addr:postcode":"38138",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.807895,35.092431,-89.807895,35.092431",
     "geom:latitude":35.092431,
     "geom:longitude":-89.807895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7770 Poplar Ave",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85823035
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BTX5bCqkDOtrk3RdXliHH_35.092431_-89.807895@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603757,
-    "wof:geomhash":"82a5702ad5ca13715788ce20b26bf072",
+    "wof:geomhash":"cd942aaeaf4a64fa5b580974d4de685c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807102379,
-    "wof:lastmodified":1467083457,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85823035,
     "wof:placetype":"venue",

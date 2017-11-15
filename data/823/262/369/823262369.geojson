@@ -2,14 +2,20 @@
   "id": 823262369,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 N Anderson Ln Hendersonville TN 37075",
+    "addr:housenumber":"202",
+    "addr:postcode":"37075",
+    "addr:street":"N Anderson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.596611,36.319809,-86.596611,36.319809",
     "geom:latitude":36.319809,
     "geom:longitude":-86.596611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 N Anderson Ln",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086357,
         85811901
     ],
+    "wof:brand_id":1125158253,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03t2i9ie94dpEakGKbuA3O_36.319809_-86.596611@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609609,
-    "wof:geomhash":"2335408197288367e3a8c082904266d3",
+    "wof:geomhash":"1943ce76de705c7237482936ea964142",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":823262369,
-    "wof:lastmodified":1467083644,
+    "wof:lastmodified":1510698667,
     "wof:name":"Carrabba's Italian Grill",
     "wof:parent_id":85811901,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 152697387,
   "type": "Feature",
   "properties": {
+    "addr:full":"30010 Ardmore Ave Ardmore AL 35739",
+    "addr:housenumber":"30010",
+    "addr:postcode":"35739",
+    "addr:street":"Ardmore Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.846528,34.98431,-86.846528,34.98431",
     "geom:latitude":34.98431,
     "geom:longitude":-86.846528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"30010 Ardmore Ave",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -30,12 +36,13 @@
         85817801,
         102086333
     ],
+    "wof:brand_id":1125152203,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AZy8avUkO03HZYkqZFTaB_34.984310_-86.846528@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"b68ae575a5af4bd94f4416fb6b2aa64f",
+    "wof:geomhash":"c890b7430a1184a04aecc341cdf69995",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":152697387,
-    "wof:lastmodified":1467082781,
+    "wof:lastmodified":1510695058,
     "wof:name":"First American Bank",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",

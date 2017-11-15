@@ -2,14 +2,20 @@
   "id": 789938593,
   "type": "Feature",
   "properties": {
+    "addr:full":"3021 W End Ave Nashville TN 37203",
+    "addr:housenumber":"3021",
+    "addr:postcode":"37203",
+    "addr:street":"W End Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814426,36.143421,-86.814426,36.143421",
     "geom:latitude":36.143421,
     "geom:longitude":-86.814426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3021 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85893447
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6wNJJDRyrAfPeIAE9U7YPW_36.143421_-86.814426@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591777,
-    "wof:geomhash":"4b3296e8bcbec60239ea82445553d2a2",
+    "wof:geomhash":"4a02abd280e72b04153b7dd02d27d868",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789938593,
-    "wof:lastmodified":1467083082,
+    "wof:lastmodified":1510604189,
     "wof:name":"AM South Bank",
     "wof:parent_id":85893447,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773836943,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Spicer Ct White House TN 37188",
+    "addr:housenumber":"103",
+    "addr:postcode":"37188",
+    "addr:street":"Spicer Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.640046,36.455419,-86.640046,36.455419",
     "geom:latitude":36.455419,
     "geom:longitude":-86.640046,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -44,6 +50,7 @@
     "wof:geomhash":"ef6a3dc20ebf28040219dc1b68a9ec37",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773836943,
-    "wof:lastmodified":1467082992,
+    "wof:lastmodified":1491939243,
     "wof:name":"Delta Maintenance Solutions",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

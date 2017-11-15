@@ -2,14 +2,20 @@
   "id": 806654849,
   "type": "Feature",
   "properties": {
+    "addr:full":"533 Haymarket Cove Memphis TN 38120",
+    "addr:housenumber":"533",
+    "addr:postcode":"38120",
+    "addr:street":"Haymarket Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.866696,35.116353,-89.866696,35.116353",
     "geom:latitude":35.116353,
     "geom:longitude":-89.866696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"533 Haymarket Cove",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870777
     ],
+    "wof:brand_id":1125154675,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26Kf7zPcMfD28gOZDZRFzQ_35.116353_-89.866696@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599948,
-    "wof:geomhash":"5b65578fa25db4e237e5f1c62d316135",
+    "wof:geomhash":"c498be99a77113d11d94699149a8d282",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806654849,
-    "wof:lastmodified":1467083335,
+    "wof:lastmodified":1510693215,
     "wof:name":"Personally Yours",
     "wof:parent_id":85870777,
     "wof:placetype":"venue",

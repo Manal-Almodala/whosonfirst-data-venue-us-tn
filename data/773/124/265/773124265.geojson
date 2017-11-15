@@ -2,14 +2,20 @@
   "id": 773124265,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 S Willow Ave Cookeville TN 38501",
+    "addr:housenumber":"124",
+    "addr:postcode":"38501",
+    "addr:street":"S Willow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.512987,36.160793,-85.512987,36.160793",
     "geom:latitude":36.160793,
     "geom:longitude":-85.512987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"124 S Willow Ave",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086339,
         85822779
     ],
+    "wof:brand_id":1125152309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3fHBfXrWq72a9tAgftXKo2_36.160793_-85.512987@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583324,
-    "wof:geomhash":"5a065360235d04a5b4d3cd0b95820e2c",
+    "wof:geomhash":"f8980f00d7097955e89d8e6648bce738",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773124265,
-    "wof:lastmodified":1467082809,
+    "wof:lastmodified":1510696020,
     "wof:name":"Sun Loan Co",
     "wof:parent_id":85822779,
     "wof:placetype":"venue",

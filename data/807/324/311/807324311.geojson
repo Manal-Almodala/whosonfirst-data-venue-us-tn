@@ -2,14 +2,20 @@
   "id": 807324311,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Eatherly Dr Carthage TN 37087",
+    "addr:housenumber":"105",
+    "addr:postcode":"37087",
+    "addr:street":"Eatherly Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.260145,36.219499,-86.260145,36.219499",
     "geom:latitude":36.219499,
     "geom:longitude":-86.260145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Eatherly Dr",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125151039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BYugfLiZb57N7dAcUFY2X_36.219499_-86.260145@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606120,
-    "wof:geomhash":"2a4bfaf028c50e4d2c42281f943ad70d",
+    "wof:geomhash":"296c70d28d9f3a349fdcce7333d8ffe2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":807324311,
-    "wof:lastmodified":1467083533,
+    "wof:lastmodified":1510697385,
     "wof:name":"Human Service Dept",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807308099,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Clay St Kingsport TN 37660",
+    "addr:housenumber":"120",
+    "addr:postcode":"37660",
+    "addr:street":"Clay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.56318,36.547423,-82.56318,36.547423",
     "geom:latitude":36.547423,
     "geom:longitude":-82.56318,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Clay St",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086471,
         420542161
     ],
+    "wof:brand_id":1125155067,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xcdpy2TdmHNNBk6fnLNcO_36.547423_-82.563180@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605938,
-    "wof:geomhash":"64ef3f12c8bb0846969c0e4bf8ff4eb8",
+    "wof:geomhash":"01f669dfe780b4bec2264276218b8270",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807308099,
-    "wof:lastmodified":1467083526,
+    "wof:lastmodified":1510695204,
     "wof:name":"US Social Security Admin",
     "wof:parent_id":420542161,
     "wof:placetype":"venue",

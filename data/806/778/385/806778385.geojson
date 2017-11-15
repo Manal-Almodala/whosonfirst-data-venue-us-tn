@@ -2,9 +2,14 @@
   "id": 806778385,
   "type": "Feature",
   "properties": {
+    "addr:full":"2485 Goose Creek Byp Franklin TN 37064",
+    "addr:housenumber":"2485",
+    "addr:postcode":"37064",
+    "addr:street":"Goose Creek Byp",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.853732,35.859221,-86.853732,35.859221",
     "geom:latitude":35.859221,
     "geom:longitude":-86.853732,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Lnj7jhFFbqV7wEKo51br2_35.859221_-86.853732@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462601002,
     "wof:geomhash":"25c61968335d762701ddecc3d1ed05b0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":806778385
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806778385,
-    "wof:lastmodified":1467083371,
+    "wof:lastmodified":1491930832,
     "wof:name":"A & Mt Work From Home",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

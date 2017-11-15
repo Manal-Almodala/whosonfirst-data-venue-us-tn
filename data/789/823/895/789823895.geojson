@@ -2,14 +2,20 @@
   "id": 789823895,
   "type": "Feature",
   "properties": {
+    "addr:full":"3478 Winhoma Dr Memphis TN 38118",
+    "addr:housenumber":"3478",
+    "addr:postcode":"38118",
+    "addr:street":"Winhoma Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.949678,35.052757,-89.949678,35.052757",
     "geom:latitude":35.052757,
     "geom:longitude":-89.949678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3478 Winhoma Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125158851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7apRkYJMwXevSoaJ0Lxaqf_35.052757_-89.949678@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590824,
-    "wof:geomhash":"4c58adff9df964dc01d6da06fb464eb7",
+    "wof:geomhash":"378654809e070ce2b0e2e87baa3d41a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":789823895,
-    "wof:lastmodified":1467083054,
+    "wof:lastmodified":1510695068,
     "wof:name":"Rockwell Automation",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

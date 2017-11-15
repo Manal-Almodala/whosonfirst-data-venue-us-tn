@@ -2,14 +2,20 @@
   "id": 806735521,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 W Poplar Ave Collierville TN 38017",
+    "addr:housenumber":"1105",
+    "addr:postcode":"38017",
+    "addr:street":"W Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.696078,35.046223,-89.696078,35.046223",
     "geom:latitude":35.046223,
     "geom:longitude":-89.696078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1105 W Poplar Ave",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":1125151019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6l4cY54lVnoXekiJKDQe3w_35.046223_-89.696078@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600628,
-    "wof:geomhash":"0d2b3106bee09dc9cca501f8f70177cb",
+    "wof:geomhash":"291e9d5d02024c7fd45b7df06e1921d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806735521,
-    "wof:lastmodified":1467083358,
+    "wof:lastmodified":1510693726,
     "wof:name":"Popeye's Chicken & Biscuits",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

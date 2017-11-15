@@ -2,14 +2,20 @@
   "id": 789845647,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Cosby Hwy Newport TN 37821",
+    "addr:housenumber":"301",
+    "addr:postcode":"37821",
+    "addr:street":"Cosby Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.19411,35.964014,-83.19411,35.964014",
     "geom:latitude":35.964014,
     "geom:longitude":-83.19411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Cosby Hwy",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086241,
         85827351
     ],
+    "wof:brand_id":1125152309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_75PuVmQakrB6luD9UOnpSe_35.964014_-83.194110@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590996,
-    "wof:geomhash":"5866cd0d54ee1e31e35fd5fe0b4e545c",
+    "wof:geomhash":"db5b970ad217735341ebbf252eb2378c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789845647,
-    "wof:lastmodified":1467083059,
+    "wof:lastmodified":1510696020,
     "wof:name":"Sun Loan Co",
     "wof:parent_id":85827351,
     "wof:placetype":"venue",

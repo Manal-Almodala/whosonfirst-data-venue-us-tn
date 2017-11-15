@@ -2,14 +2,20 @@
   "id": 790324377,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 N Kentucky St Kingston TN 37763",
+    "addr:housenumber":"421",
+    "addr:postcode":"37763",
+    "addr:street":"N Kentucky St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.513512,35.875557,-84.513512,35.875557",
     "geom:latitude":35.875557,
     "geom:longitude":-84.513512,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"421 N Kentucky St",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087051,
         85838767
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04CdfiMSWlhuMWxWfU6CEa_35.875557_-84.513512@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594950,
-    "wof:geomhash":"d0576129835cb677012f77f313f020cb",
+    "wof:geomhash":"00422b682b29527a34f24b466f37b6bb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790324377,
-    "wof:lastmodified":1467083173,
+    "wof:lastmodified":1510693206,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":85838767,
     "wof:placetype":"venue",

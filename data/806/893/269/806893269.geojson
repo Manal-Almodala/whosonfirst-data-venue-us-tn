@@ -2,14 +2,20 @@
   "id": 806893269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1751 Jardco Dr Clarksville TN 37040",
+    "addr:housenumber":"1751",
+    "addr:postcode":"37040",
+    "addr:street":"Jardco Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.327793,36.555409,-87.327793,36.555409",
     "geom:latitude":36.555409,
     "geom:longitude":-87.327793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1751 Jardco Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         85810049
     ],
+    "wof:brand_id":1125153619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5MVBla5pZVn4qUQH1YJEtr_36.555409_-87.327793@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601957,
-    "wof:geomhash":"0a8ec16063ce97e2368fde726b9710eb",
+    "wof:geomhash":"3c8b010c27dd8f20450e93a080308add",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806893269,
-    "wof:lastmodified":1467083403,
+    "wof:lastmodified":1510697973,
     "wof:name":"Kansas City Life Insurance Co",
     "wof:parent_id":85810049,
     "wof:placetype":"venue",

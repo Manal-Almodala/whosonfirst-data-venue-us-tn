@@ -2,14 +2,20 @@
   "id": 773183049,
   "type": "Feature",
   "properties": {
+    "addr:full":"5240 Summer Ave Memphis TN 38122",
+    "addr:housenumber":"5240",
+    "addr:postcode":"38122",
+    "addr:street":"Summer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.884246,35.157082,-89.884246,35.157082",
     "geom:latitude":35.157082,
     "geom:longitude":-89.884246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5240 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":1125158129,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_124TmtzEkcmzDhZgfMJ3hX_35.157082_-89.884246@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583775,
-    "wof:geomhash":"a9cb4df31ce13f3d4b3fe2d043f58fff",
+    "wof:geomhash":"f1b7fa865857bbcb0361341d3a458dba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773183049,
-    "wof:lastmodified":1467082824,
+    "wof:lastmodified":1510695054,
     "wof:name":"Luby's Cafeteria",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

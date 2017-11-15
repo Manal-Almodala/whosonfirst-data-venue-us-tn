@@ -2,14 +2,20 @@
   "id": 823275727,
   "type": "Feature",
   "properties": {
+    "addr:full":"1132 N Germantown Pkwy Cordova TN 38016",
+    "addr:housenumber":"1132",
+    "addr:postcode":"38016",
+    "addr:street":"N Germantown Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.795317,35.156996,-89.795317,35.156996",
     "geom:latitude":35.156996,
     "geom:longitude":-89.795317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1132 N Germantown Pkwy",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":1125155663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cwrmd0xngxFRVe7F8akoV_35.156996_-89.795317@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610138,
-    "wof:geomhash":"469bc992f3561e7007623d203dead6bb",
+    "wof:geomhash":"a2b86eb5509e4cda32bc0d8f9ac5ea05",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823275727,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510698985,
     "wof:name":"Princess Nails",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

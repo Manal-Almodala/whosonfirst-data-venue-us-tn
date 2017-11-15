@@ -2,14 +2,20 @@
   "id": 823220045,
   "type": "Feature",
   "properties": {
+    "addr:full":"327 Plus Park Blvd Nashville TN 37217",
+    "addr:housenumber":"327",
+    "addr:postcode":"37217",
+    "addr:street":"Plus Park Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.722696,36.13394,-86.722696,36.13394",
     "geom:latitude":36.13394,
     "geom:longitude":-86.722696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"327 Plus Park Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85822001
     ],
+    "wof:brand_id":1125157551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nlICPZoehTqOIsuD3Bf8d_36.133940_-86.722696@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608714,
-    "wof:geomhash":"bb46f8dc52004b0e95a57fe7d0420947",
+    "wof:geomhash":"791cae0d3b1611bc3c1c848658560874",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823220045,
-    "wof:lastmodified":1467083614,
+    "wof:lastmodified":1510697356,
     "wof:name":"American Gen Lf Accident Insur",
     "wof:parent_id":85822001,
     "wof:placetype":"venue",

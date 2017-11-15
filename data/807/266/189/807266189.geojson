@@ -2,14 +2,20 @@
   "id": 807266189,
   "type": "Feature",
   "properties": {
+    "addr:full":"402 N Jackson St Tullahoma TN 37388",
+    "addr:housenumber":"402",
+    "addr:postcode":"37388",
+    "addr:street":"N Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.214983,35.365776,-86.214983,35.365776",
     "geom:latitude":35.365776,
     "geom:longitude":-86.214983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"402 N Jackson St",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087095,
         85807337
     ],
+    "wof:brand_id":1125159719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5z7HRq5IWZu5dUiW1WKK5X_35.365776_-86.214983@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605499,
-    "wof:geomhash":"2d4dea2d14a9781b883e6e2367b5971a",
+    "wof:geomhash":"ee4c94096e7c99862ed96740a0708f05",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807266189,
-    "wof:lastmodified":1467083511,
+    "wof:lastmodified":1510613171,
     "wof:name":"Title Cash",
     "wof:parent_id":85807337,
     "wof:placetype":"venue",

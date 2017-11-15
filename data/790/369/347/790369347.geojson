@@ -2,14 +2,20 @@
   "id": 790369347,
   "type": "Feature",
   "properties": {
+    "addr:full":"393 E Main St Hendersonville TN 37075",
+    "addr:housenumber":"393",
+    "addr:postcode":"37075",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.593241,36.313392,-86.593241,36.313392",
     "geom:latitude":36.313392,
     "geom:longitude":-86.593241,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"393 E Main St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086357,
         85852065
     ],
+    "wof:brand_id":1125153043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2EQelX0s2bZr7iWo7tNnsr_36.313392_-86.593241@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595300,
-    "wof:geomhash":"b276603417cfcc61fb11d2d46678522e",
+    "wof:geomhash":"25d80806d433ac7100940901db9fb26c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790369347,
-    "wof:lastmodified":1467083184,
+    "wof:lastmodified":1510697674,
     "wof:name":"Mane Event",
     "wof:parent_id":85852065,
     "wof:placetype":"venue",

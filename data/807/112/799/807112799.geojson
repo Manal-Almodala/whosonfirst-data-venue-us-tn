@@ -2,14 +2,20 @@
   "id": 807112799,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 Memorial Blvd Kingsport TN 37664",
+    "addr:housenumber":"4001",
+    "addr:postcode":"37664",
+    "addr:street":"Memorial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.494293,36.531234,-82.494293,36.531234",
     "geom:latitude":36.531234,
     "geom:longitude":-82.494293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4001 Memorial Blvd",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         85820455
     ],
+    "wof:brand_id":1125159367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DcYLjsn07znWHKfikYa3F_36.531234_-82.494293@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603869,
-    "wof:geomhash":"356cd411236fefdde9c1bad093cc5963",
+    "wof:geomhash":"4d37e3885c01be0b9ed0f8130fecfde6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807112799,
-    "wof:lastmodified":1467083461,
+    "wof:lastmodified":1510693225,
     "wof:name":"Shear Pleasure",
     "wof:parent_id":85820455,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807243361,
   "type": "Feature",
   "properties": {
+    "addr:full":"916 Market St Dayton TN 37321",
+    "addr:housenumber":"916",
+    "addr:postcode":"37321",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.01852,35.488312,-85.01852,35.488312",
     "geom:latitude":35.488312,
     "geom:longitude":-85.01852,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"916 Market St",
     "sg:city":"Dayton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086477,
         85811795
     ],
+    "wof:brand_id":1125152779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04BH2puMt1jUHKDGAkrX2T_35.488312_-85.018520@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605256,
-    "wof:geomhash":"cc3442c66e843ff10179eaf7804d47a2",
+    "wof:geomhash":"10d3912bfa004a336cd1ab76c8565230",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807243361,
-    "wof:lastmodified":1467083504,
+    "wof:lastmodified":1510697072,
     "wof:name":"Dialysis Clinic Inc",
     "wof:parent_id":85811795,
     "wof:placetype":"venue",

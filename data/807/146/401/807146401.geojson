@@ -2,14 +2,20 @@
   "id": 807146401,
   "type": "Feature",
   "properties": {
+    "addr:full":"2277 Gunbarrel Rd Chattanooga TN 37421",
+    "addr:housenumber":"2277",
+    "addr:postcode":"37421",
+    "addr:street":"Gunbarrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.151194,35.037932,-85.151194,35.037932",
     "geom:latitude":35.037932,
     "geom:longitude":-85.151194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2277 Gunbarrel Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087185,
         85805409
     ],
+    "wof:brand_id":1125156127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3PrHa6mxNiGD0PoiOypmkg_35.037932_-85.151194@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604233,
-    "wof:geomhash":"838b60144ccb085c5053728d04e15b53",
+    "wof:geomhash":"49cd5f74d01b45699da190ee38f07d6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807146401,
-    "wof:lastmodified":1467083472,
+    "wof:lastmodified":1510613401,
     "wof:name":"Rooms To Go",
     "wof:parent_id":85805409,
     "wof:placetype":"venue",

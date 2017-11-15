@@ -2,14 +2,20 @@
   "id": 773510091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2005 Exeter Rd Germantown TN 38138",
+    "addr:housenumber":"2005",
+    "addr:postcode":"38138",
+    "addr:street":"Exeter Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.802321,35.094691,-89.802321,35.094691",
     "geom:latitude":35.094691,
     "geom:longitude":-89.802321,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2005 Exeter Rd",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85823035
     ],
+    "wof:brand_id":1125155971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0w30KbJPUgmyAm64CDxp2Z_35.094691_-89.802321@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586272,
-    "wof:geomhash":"5e9b61be6390d97b66c756719b1d5a20",
+    "wof:geomhash":"e0c4dd8ba6ae4cebfd10d59f9759f9f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773510091,
-    "wof:lastmodified":1467082913,
+    "wof:lastmodified":1510613349,
     "wof:name":"Pump It Up",
     "wof:parent_id":85823035,
     "wof:placetype":"venue",

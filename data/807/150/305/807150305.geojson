@@ -2,9 +2,14 @@
   "id": 807150305,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 New Hope Rd Hendersonville TN 37072",
+    "addr:housenumber":"2101",
+    "addr:postcode":"37072",
+    "addr:street":"New Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.617451,36.374458,-86.617451,36.374458",
     "geom:latitude":36.374458,
     "geom:longitude":-86.617451,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -41,6 +47,7 @@
     "wof:geomhash":"3c4c3745b1c61aec8e210c4fe3551be4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807150305,
-    "wof:lastmodified":1467083473,
+    "wof:lastmodified":1491939224,
     "wof:name":"Hunter Middle School",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

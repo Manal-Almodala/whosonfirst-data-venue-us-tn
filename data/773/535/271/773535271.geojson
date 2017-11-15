@@ -2,14 +2,20 @@
   "id": 773535271,
   "type": "Feature",
   "properties": {
+    "addr:full":"3633 Lake City Hwy Lake City TN 37769",
+    "addr:housenumber":"3633",
+    "addr:postcode":"37769",
+    "addr:street":"Lake City Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.144145,36.202156,-84.144145,36.202156",
     "geom:latitude":36.202156,
     "geom:longitude":-84.144145,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3633 Lake City Hwy",
     "sg:city":"Lake City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086483,
         85825681
     ],
+    "wof:brand_id":1125151393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7jFNhGdB1JqLjnZOsKhOj2_36.202156_-84.144145@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586448,
-    "wof:geomhash":"eca390bf5ccb5550646f6f9a24a244bc",
+    "wof:geomhash":"7bfe75b21abf028e5deb224d637a3c35",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773535271,
-    "wof:lastmodified":1467082919,
+    "wof:lastmodified":1510613541,
     "wof:name":"Styles Unlimited",
     "wof:parent_id":85825681,
     "wof:placetype":"venue",

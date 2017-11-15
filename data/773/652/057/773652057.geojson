@@ -2,14 +2,20 @@
   "id": 773652057,
   "type": "Feature",
   "properties": {
+    "addr:full":"438 Munford-Atoka Ave Munford TN 38058",
+    "addr:housenumber":"438",
+    "addr:postcode":"38058",
+    "addr:street":"Munford-Atoka Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.796592,35.446274,-89.796592,35.446274",
     "geom:latitude":35.446274,
     "geom:longitude":-89.796592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"438 Munford-Atoka Ave",
     "sg:city":"Munford",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125153677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KmjZFrHOU31F3UuhYBK6I_35.446274_-89.796592@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587341,
-    "wof:geomhash":"d345765652dd874962a57e3b1ea114f7",
+    "wof:geomhash":"987e4ec0bda9e2cc36cbf15398c78636",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773652057,
-    "wof:lastmodified":1467082947,
+    "wof:lastmodified":1510697774,
     "wof:name":"Clayton Homes Inc",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

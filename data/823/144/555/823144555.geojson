@@ -2,14 +2,20 @@
   "id": 823144555,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Tarrytown Dr Smyrna TN 37167",
+    "addr:housenumber":"205",
+    "addr:postcode":"37167",
+    "addr:street":"Tarrytown Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.529453,35.949905,-86.529453,35.949905",
     "geom:latitude":35.949905,
     "geom:longitude":-86.529453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Tarrytown Dr",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086355,
         85813663
     ],
+    "wof:brand_id":1125150873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OtCpcJbcmSFffJwaVvbap_35.949905_-86.529453@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607597,
-    "wof:geomhash":"2c627795af0275bf34116cccda4ddfce",
+    "wof:geomhash":"92efce59ddf510ed5b17b960be467f3b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823144555,
-    "wof:lastmodified":1467083574,
+    "wof:lastmodified":1510613213,
     "wof:name":"Picture This",
     "wof:parent_id":85813663,
     "wof:placetype":"venue",

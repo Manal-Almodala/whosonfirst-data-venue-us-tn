@@ -2,9 +2,14 @@
   "id": 806695423,
   "type": "Feature",
   "properties": {
+    "addr:full":"1703 Leaton Ct Franklin TN 37069",
+    "addr:housenumber":"1703",
+    "addr:postcode":"37069",
+    "addr:street":"Leaton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.893038,36.009486,-86.893038,36.009486",
     "geom:latitude":36.009486,
     "geom:longitude":-86.893038,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -43,6 +49,7 @@
     "wof:geomhash":"bd71c91ab1351418f0e6a3b5b139e569",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806695423,
-    "wof:lastmodified":1467083347,
+    "wof:lastmodified":1491924178,
     "wof:name":"Kendall Financial Service",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

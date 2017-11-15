@@ -2,14 +2,20 @@
   "id": 773034763,
   "type": "Feature",
   "properties": {
+    "addr:full":"550 Metroplex Dr Nashville TN 37211",
+    "addr:housenumber":"550",
+    "addr:postcode":"37211",
+    "addr:street":"Metroplex Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.702495,36.09267,-86.702495,36.09267",
     "geom:latitude":36.09267,
     "geom:longitude":-86.702495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"550 Metroplex Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7BGZmOzYp084ANpCwi5WXz_36.092670_-86.702495@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582619,
-    "wof:geomhash":"3c9ef07c413506f30d6a06bb58cd5968",
+    "wof:geomhash":"fe109a0ac18e8099337c9a05b9fc9765",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773034763,
-    "wof:lastmodified":1467082785,
+    "wof:lastmodified":1510604189,
     "wof:name":"AM South Bank",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

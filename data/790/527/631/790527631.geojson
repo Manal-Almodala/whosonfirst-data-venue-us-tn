@@ -2,14 +2,20 @@
   "id": 790527631,
   "type": "Feature",
   "properties": {
+    "addr:full":"1212 E Shelby Dr Memphis TN 38116",
+    "addr:housenumber":"1212",
+    "addr:postcode":"38116",
+    "addr:street":"E Shelby Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.024569,35.020949,-90.024569,35.020949",
     "geom:latitude":35.020949,
     "geom:longitude":-90.024569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1212 E Shelby Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         420542123
     ],
+    "wof:brand_id":1125159249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_715JTUeiCDKw49oQGWDfhi_35.020949_-90.024569@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596603,
-    "wof:geomhash":"ee4c82065cccc2252bc4952a23640535",
+    "wof:geomhash":"31e2b0215370675c7a47ce3f11dc9ea7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790527631,
-    "wof:lastmodified":1467083225,
+    "wof:lastmodified":1510693879,
     "wof:name":"First Tennessee",
     "wof:parent_id":420542123,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823284453,
   "type": "Feature",
   "properties": {
+    "addr:full":"4561 Elvis Presley Blvd Memphis TN 38116",
+    "addr:housenumber":"4561",
+    "addr:postcode":"38116",
+    "addr:street":"Elvis Presley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.0252,35.024263,-90.0252,35.024263",
     "geom:latitude":35.024263,
     "geom:longitude":-90.0252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4561 Elvis Presley Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087213,
         420542123
     ],
+    "wof:brand_id":420574873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zeinMTc4VYItjuc4j0NvH_35.024263_-90.025200@1303262742"
     },
     "wof:country":"US",
     "wof:created":1462610489,
-    "wof:geomhash":"cb3f890ec0aa01515adc322f24d1d363",
+    "wof:geomhash":"ddb58ee563fa7cf949a46ca9b03ea910",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823284453,
-    "wof:lastmodified":1467083675,
+    "wof:lastmodified":1510604217,
     "wof:name":"Firestone Complete Auto Care Store",
     "wof:parent_id":420542123,
     "wof:placetype":"venue",

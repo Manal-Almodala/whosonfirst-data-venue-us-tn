@@ -2,14 +2,20 @@
   "id": 823282241,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 S Prescott St Memphis TN 38111",
+    "addr:housenumber":"1740",
+    "addr:postcode":"38111",
+    "addr:street":"S Prescott St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.953161,35.083859,-89.953161,35.083859",
     "geom:latitude":35.083859,
     "geom:longitude":-89.953161,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1740 S Prescott St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125155389,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6kjFa5d5mQcq4bK9w54Pjj_35.083859_-89.953161@1303262741"
     },
     "wof:country":"US",
     "wof:created":1462610401,
-    "wof:geomhash":"5a3dd921c8b6c694df10da6a9202976b",
+    "wof:geomhash":"ccfe33439245f772aecc7c27158442b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":823282241,
-    "wof:lastmodified":1467083672,
+    "wof:lastmodified":1510613260,
     "wof:name":"Lumber Liquidators",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

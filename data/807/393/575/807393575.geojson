@@ -2,14 +2,20 @@
   "id": 807393575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1621 Service Merchandise Blvd Brentwood TN 37027",
+    "addr:housenumber":"1621",
+    "addr:postcode":"37027",
+    "addr:street":"Service Merchandise Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.809636,35.969499,-86.809636,35.969499",
     "geom:latitude":35.969499,
     "geom:longitude":-86.809636,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1621 Service Merchandise Blvd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":1125156383,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_24wj2QS93ucRKDK77gIEic_35.969499_-86.809636@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607130,
-    "wof:geomhash":"a577d6525ae43eccbcb5cadb423c9b44",
+    "wof:geomhash":"303e78a395126a7fe8678092e6f320c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807393575,
-    "wof:lastmodified":1467083564,
+    "wof:lastmodified":1510698492,
     "wof:name":"Eaton Corporation",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

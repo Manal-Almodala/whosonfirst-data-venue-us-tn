@@ -2,14 +2,20 @@
   "id": 789692127,
   "type": "Feature",
   "properties": {
+    "addr:full":"138 W Bernard Ave Greeneville TN 37743",
+    "addr:housenumber":"138",
+    "addr:postcode":"37743",
+    "addr:street":"W Bernard Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.822007,36.160284,-82.822007,36.160284",
     "geom:latitude":36.160284,
     "geom:longitude":-82.822007,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"138 W Bernard Ave",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086377,
         85826147
     ],
+    "wof:brand_id":1125159005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4e6cWUs7W6NQSQUV2okiRr_36.160284_-82.822007@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589792,
-    "wof:geomhash":"98e50e03c231e86d94908a6debb86bec",
+    "wof:geomhash":"fb87ab1ceea76cf6d9812dd23045fb14",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789692127,
-    "wof:lastmodified":1467083023,
+    "wof:lastmodified":1510697156,
     "wof:name":"Hair Palace",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",

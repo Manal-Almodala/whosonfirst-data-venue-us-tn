@@ -2,9 +2,14 @@
   "id": 790209743,
   "type": "Feature",
   "properties": {
+    "addr:full":"4225 Warren Rd Franklin TN 37067",
+    "addr:housenumber":"4225",
+    "addr:postcode":"37067",
+    "addr:street":"Warren Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805126,35.900842,-86.805126,35.900842",
     "geom:latitude":35.900842,
     "geom:longitude":-86.805126,
@@ -29,12 +34,7 @@
         "accessory"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6073CylRYtqxovpRFwyhWC_35.900842_-86.805126@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462594026,
     "wof:geomhash":"75268ff46298a03fa50ade4bfc3d09fd",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":790209743
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790209743,
-    "wof:lastmodified":1467083146,
+    "wof:lastmodified":1491924956,
     "wof:name":"Noble Carothers Co The",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

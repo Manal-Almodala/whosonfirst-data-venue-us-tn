@@ -2,14 +2,20 @@
   "id": 807131965,
   "type": "Feature",
   "properties": {
+    "addr:full":"5252 Hickory Hollow Pkwy Antioch TN 37013",
+    "addr:housenumber":"5252",
+    "addr:postcode":"37013",
+    "addr:street":"Hickory Hollow Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.6574,36.048417,-86.6574,36.048417",
     "geom:latitude":36.048417,
     "geom:longitude":-86.6574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5252 Hickory Hollow Pkwy",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85846409
     ],
+    "wof:brand_id":1125153349,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1tXOyMcZoZCmpsvNBomchw_36.048417_-86.657400@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604072,
-    "wof:geomhash":"b052a452569911fd43d728c59415042f",
+    "wof:geomhash":"ac82348cb856892175929f5ef7c4bca3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807131965,
-    "wof:lastmodified":1467083467,
+    "wof:lastmodified":1510699318,
     "wof:name":"Whitehall Co Jewellers",
     "wof:parent_id":85846409,
     "wof:placetype":"venue",

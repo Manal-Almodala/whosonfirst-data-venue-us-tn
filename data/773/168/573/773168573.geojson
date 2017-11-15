@@ -2,9 +2,14 @@
   "id": 773168573,
   "type": "Feature",
   "properties": {
+    "addr:full":"392 Harding Pl Nashville TN 37211",
+    "addr:housenumber":"392",
+    "addr:postcode":"37211",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.71793,36.080406,-86.71793,36.080406",
     "geom:latitude":36.080406,
     "geom:longitude":-86.71793,
@@ -33,7 +38,8 @@
         85633793,
         101723183,
         102087061,
-        420541539
+        420541539,
+        85840471
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -51,12 +57,21 @@
             "neighbourhood_id":420541539,
             "region_id":85688701,
             "venue_id":773168573
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087061,
+            "locality_id":101723183,
+            "neighbourhood_id":85840471,
+            "region_id":85688701,
+            "venue_id":773168573
         }
     ],
     "wof:id":773168573,
-    "wof:lastmodified":1467082819,
+    "wof:lastmodified":1491901733,
     "wof:name":"Hatton Hardison CPA",
-    "wof:parent_id":420541539,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

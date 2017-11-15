@@ -2,14 +2,20 @@
   "id": 823271953,
   "type": "Feature",
   "properties": {
+    "addr:full":"521 Pine Grove Trl Chattanooga TN 37421",
+    "addr:housenumber":"521",
+    "addr:postcode":"37421",
+    "addr:street":"Pine Grove Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.202297,35.024194,-85.202297,35.024194",
     "geom:latitude":35.024194,
     "geom:longitude":-85.202297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"521 Pine Grove Trl",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         85817719
     ],
+    "wof:brand_id":1125153727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Xp1rqmDITe764YXty9HNs_35.024194_-85.202297@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609981,
-    "wof:geomhash":"2cf99eabac9aa797f289bd8a2dd74f5b",
+    "wof:geomhash":"7dd4882ea94f7e30b89a6b1d68f777cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823271953,
-    "wof:lastmodified":1467083657,
+    "wof:lastmodified":1510695747,
     "wof:name":"System Support Center",
     "wof:parent_id":85817719,
     "wof:placetype":"venue",

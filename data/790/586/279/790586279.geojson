@@ -2,14 +2,20 @@
   "id": 790586279,
   "type": "Feature",
   "properties": {
+    "addr:full":"558 S Willow Ave Cookeville TN 38501",
+    "addr:housenumber":"558",
+    "addr:postcode":"38501",
+    "addr:street":"S Willow Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.515017,36.152363,-85.515017,36.152363",
     "geom:latitude":36.152363,
     "geom:longitude":-85.515017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"558 S Willow Ave",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086339,
         85822779
     ],
+    "wof:brand_id":420575865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PvX7gcDGjZmojq1Zvs9n7_36.152363_-85.515017@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597095,
-    "wof:geomhash":"e80086099333f26a4bd209edbd9df637",
+    "wof:geomhash":"a6f962f25e2d79fcb3d40f8eb366441c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790586279,
-    "wof:lastmodified":1467083241,
+    "wof:lastmodified":1510602525,
     "wof:name":"US Air Force Recruiting",
     "wof:parent_id":85822779,
     "wof:placetype":"venue",

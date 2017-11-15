@@ -2,9 +2,14 @@
   "id": 790551163,
   "type": "Feature",
   "properties": {
+    "addr:full":"1007 Willow Park Cir Hendersonville TN 37075",
+    "addr:housenumber":"1007",
+    "addr:postcode":"37075",
+    "addr:street":"Willow Park Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.612058,36.341621,-86.612058,36.341621",
     "geom:latitude":36.341621,
     "geom:longitude":-86.612058,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"5565a440655e296ec8cf6b601b1d2f93",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790551163,
-    "wof:lastmodified":1467083232,
+    "wof:lastmodified":1491939233,
     "wof:name":"KWIT Solutions",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

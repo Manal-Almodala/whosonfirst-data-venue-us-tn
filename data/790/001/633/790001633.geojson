@@ -2,9 +2,14 @@
   "id": 790001633,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Green Meadow Ct Franklin TN 37069",
+    "addr:housenumber":"502",
+    "addr:postcode":"37069",
+    "addr:street":"Green Meadow Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.904556,35.977972,-86.904556,35.977972",
     "geom:latitude":35.977972,
     "geom:longitude":-86.904556,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ed9a73a3c6e96ef073a0a53cc6c80371",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790001633,
-    "wof:lastmodified":1467083097,
+    "wof:lastmodified":1491924150,
     "wof:name":"Media Concepts",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

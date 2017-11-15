@@ -2,14 +2,20 @@
   "id": 823237747,
   "type": "Feature",
   "properties": {
+    "addr:full":"334 Ashland St Memphis TN 38105",
+    "addr:housenumber":"334",
+    "addr:postcode":"38105",
+    "addr:street":"Ashland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.030851,35.148854,-90.030851,35.148854",
     "geom:latitude":35.148854,
     "geom:longitude":-90.030851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"334 Ashland St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85823033
     ],
+    "wof:brand_id":1125156255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XMYsdZ1OBh66eD2PHazEa_35.148764_-90.030793@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462609102,
-    "wof:geomhash":"5582686c9f4013cb157352727bc97660",
+    "wof:geomhash":"34c42e3c4f3973206984b3f3818df475",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823237747,
-    "wof:lastmodified":1467083626,
+    "wof:lastmodified":1510696912,
     "wof:name":"Hopewell Baptist Church",
     "wof:parent_id":85823033,
     "wof:placetype":"venue",

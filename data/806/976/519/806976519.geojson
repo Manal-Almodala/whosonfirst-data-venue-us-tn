@@ -2,14 +2,20 @@
   "id": 806976519,
   "type": "Feature",
   "properties": {
+    "addr:full":"4095 Peerless Rd NW Cleveland TN 37312",
+    "addr:housenumber":"4095",
+    "addr:postcode":"37312",
+    "addr:street":"Peerless Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.864188,35.207776,-84.864188,35.207776",
     "geom:latitude":35.207776,
     "geom:longitude":-84.864188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4095 Peerless Rd NW",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087043,
         85808527
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_496IeCklQVUXr6qdO0jVK0_35.207776_-84.864188@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602660,
-    "wof:geomhash":"b351ae6ca5d63e0b0fbd91d8c78b1c53",
+    "wof:geomhash":"5d03968e4f97641bd562679af95f819c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806976519,
-    "wof:lastmodified":1467083425,
+    "wof:lastmodified":1510696928,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85808527,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773163493,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 E Main St Johnson City TN 37601",
+    "addr:housenumber":"325",
+    "addr:postcode":"37601",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.350229,36.31739,-82.350229,36.31739",
     "geom:latitude":36.31739,
     "geom:longitude":-82.350229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 E Main St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086335,
         85844181
     ],
+    "wof:brand_id":420574411,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Jet2m98wSgCFzEQCBA6Vx_36.317390_-82.350229@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583619,
-    "wof:geomhash":"e363e5d18b5139b6556e2a94a90bb134",
+    "wof:geomhash":"40b7d706232c75835df80f248a7b087c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773163493,
-    "wof:lastmodified":1467082818,
+    "wof:lastmodified":1510604728,
     "wof:name":"Christian Science Reading Room",
     "wof:parent_id":85844181,
     "wof:placetype":"venue",

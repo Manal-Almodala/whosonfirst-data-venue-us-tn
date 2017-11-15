@@ -2,14 +2,20 @@
   "id": 773575143,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 Franklin Limestone Rd Nashville TN 37217",
+    "addr:housenumber":"611",
+    "addr:postcode":"37217",
+    "addr:street":"Franklin Limestone Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.661185,36.090026,-86.661185,36.090026",
     "geom:latitude":36.090026,
     "geom:longitude":-86.661185,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 Franklin Limestone Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":1125157299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2t2rkS8jBDISCzrKeUgWHV_36.090026_-86.661185@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586769,
-    "wof:geomhash":"abce438c3e2d579fd8524c39010cd89a",
+    "wof:geomhash":"4c8ead4ce1954d65500b3145b552e338",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773575143,
-    "wof:lastmodified":1467082928,
+    "wof:lastmodified":1510694604,
     "wof:name":"Vulcan Materials Co",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

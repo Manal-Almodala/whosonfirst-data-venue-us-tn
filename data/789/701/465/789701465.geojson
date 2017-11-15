@@ -2,14 +2,20 @@
   "id": 789701465,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Creekside Rd Chattanooga TN 37406",
+    "addr:housenumber":"900",
+    "addr:postcode":"37406",
+    "addr:street":"Creekside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.254542,35.090863,-85.254542,35.090863",
     "geom:latitude":35.090863,
     "geom:longitude":-85.254542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Creekside Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087185,
         420541739
     ],
+    "wof:brand_id":1125150285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63niGSiVeEN2RCJxNYTqz9_35.090863_-85.254542@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589868,
-    "wof:geomhash":"8a5b23cec9fb5b3a0cf638fd2daa06d5",
+    "wof:geomhash":"e20d91925aed7a0e2280c6e2d3ebc36a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789701465,
-    "wof:lastmodified":1467083025,
+    "wof:lastmodified":1510695359,
     "wof:name":"Orkin Exterminating Co",
     "wof:parent_id":420541739,
     "wof:placetype":"venue",

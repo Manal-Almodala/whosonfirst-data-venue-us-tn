@@ -2,14 +2,20 @@
   "id": 823218241,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Wears Valley Rd Pigeon Forge TN 37863",
+    "addr:housenumber":"155",
+    "addr:postcode":"37863",
+    "addr:street":"Wears Valley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.577091,35.803865,-83.577091,35.803865",
     "geom:latitude":35.803865,
     "geom:longitude":-83.577091,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 Wears Valley Rd",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086245,
         85854207
     ],
+    "wof:brand_id":1125153641,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AXURs5LqMbY1ESDZbg7ht_35.803865_-83.577091@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608682,
-    "wof:geomhash":"f2192f1ed9426c0c2d51fde4ae8f127e",
+    "wof:geomhash":"6de565c0a80f3d903502872f91039afd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823218241,
-    "wof:lastmodified":1467083612,
+    "wof:lastmodified":1510694642,
     "wof:name":"Samsonite",
     "wof:parent_id":85854207,
     "wof:placetype":"venue",

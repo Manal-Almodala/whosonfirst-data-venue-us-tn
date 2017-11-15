@@ -2,14 +2,20 @@
   "id": 773244263,
   "type": "Feature",
   "properties": {
+    "addr:full":"3400 Briley Park Blvd N Nashville TN 37207",
+    "addr:housenumber":"",
+    "addr:postcode":"3400;37207",
+    "addr:street":"Briley Park Blvd N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.781888,36.245719,-86.781888,36.245719",
     "geom:latitude":36.245719,
     "geom:longitude":-86.781888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3400 Briley Park Blvd N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85830901
     ],
+    "wof:brand_id":1125152333,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zi21mkVFjJMl9sGeeqHAC_36.245719_-86.781888@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584245,
-    "wof:geomhash":"8167bb715afa162e25cc26618987c1db",
+    "wof:geomhash":"c4e3faef82f70dc4a23ef9bba516ed2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773244263,
-    "wof:lastmodified":1467082843,
+    "wof:lastmodified":1510693922,
     "wof:name":"Cintas Corp",
     "wof:parent_id":85830901,
     "wof:placetype":"venue",

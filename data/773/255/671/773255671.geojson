@@ -2,14 +2,20 @@
   "id": 773255671,
   "type": "Feature",
   "properties": {
+    "addr:full":"4415 Rossville Blvd Chattanooga TN 37407",
+    "addr:housenumber":"4415",
+    "addr:postcode":"37407",
+    "addr:street":"Rossville Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.290366,34.991915,-85.290366,34.991915",
     "geom:latitude":34.991915,
     "geom:longitude":-85.290366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4415 Rossville Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85809965
     ],
+    "wof:brand_id":1125154873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wcYguUnZWRgIs8WbBuMgk_34.991915_-85.290366@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584334,
-    "wof:geomhash":"7bfa864863ba3b5e4165725751431106",
+    "wof:geomhash":"78e4cac02e59e20fc77079d3d7e13148",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773255671,
-    "wof:lastmodified":1467082847,
+    "wof:lastmodified":1510696910,
     "wof:name":"Frank's Barber Shop",
     "wof:parent_id":85809965,
     "wof:placetype":"venue",

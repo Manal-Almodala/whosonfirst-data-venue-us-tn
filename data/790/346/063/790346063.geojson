@@ -2,14 +2,20 @@
   "id": 790346063,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Cedar St Lebanon TN 37087",
+    "addr:housenumber":"312",
+    "addr:postcode":"37087",
+    "addr:street":"Cedar St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.286153,36.210858,-86.286153,36.210858",
     "geom:latitude":36.210858,
     "geom:longitude":-86.286153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 Cedar St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125156597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2N1KoslZrP0ixcAwLhyJhD_36.210858_-86.286153@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595108,
-    "wof:geomhash":"341c05869b2a27018f1981e95f59a360",
+    "wof:geomhash":"e62772260d3620663c633c66a5f8e89e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790346063,
-    "wof:lastmodified":1467083178,
+    "wof:lastmodified":1510694625,
     "wof:name":"Kids Korner",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

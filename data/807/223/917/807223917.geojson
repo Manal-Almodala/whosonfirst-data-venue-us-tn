@@ -2,14 +2,20 @@
   "id": 807223917,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Broadway Nashville TN 37240",
+    "addr:housenumber":"801",
+    "addr:postcode":"37240",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.782755,36.158619,-86.782755,36.158619",
     "geom:latitude":36.158619,
     "geom:longitude":-86.782755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 Broadway",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85871389
     ],
+    "wof:brand_id":1125151613,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0NWlfccxO1JD8eGRr8lhoh_36.158619_-86.782755@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605052,
-    "wof:geomhash":"24713046331baaacb509c695e660f2f1",
+    "wof:geomhash":"464779f1bfe3ba65c50013991c67eed7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807223917,
-    "wof:lastmodified":1467083498,
+    "wof:lastmodified":1510696954,
     "wof:name":"US Internal Revenue Svc",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",

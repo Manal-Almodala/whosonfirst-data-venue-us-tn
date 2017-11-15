@@ -2,14 +2,20 @@
   "id": 807107815,
   "type": "Feature",
   "properties": {
+    "addr:full":"2864 Bus Park Dr Memphis TN 38118",
+    "addr:housenumber":"",
+    "addr:postcode":"2864;38118",
+    "addr:street":"Bus Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.964055,35.071618,-89.964055,35.071618",
     "geom:latitude":35.071618,
     "geom:longitude":-89.964055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2864 Bus Park Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125152341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64sKyqL3tseIIyaltpqlRR_35.071618_-89.964055@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603814,
-    "wof:geomhash":"2cfdeea731e3ba6494b8ccff21e8e817",
+    "wof:geomhash":"6c52db4a2e9294ddfc734bf956e4938f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807107815,
-    "wof:lastmodified":1467083459,
+    "wof:lastmodified":1510613375,
     "wof:name":"Federal Express Corporation",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

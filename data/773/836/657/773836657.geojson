@@ -2,14 +2,20 @@
   "id": 773836657,
   "type": "Feature",
   "properties": {
+    "addr:full":"1821 Albion St Nashville TN 37208",
+    "addr:housenumber":"1821",
+    "addr:postcode":"37208",
+    "addr:street":"Albion St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808718,36.165733,-86.808718,36.165733",
     "geom:latitude":36.165733,
     "geom:longitude":-86.808718,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1821 Albion St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893473
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kxaWzO9UZGGhh4T8qoQ9F_36.165733_-86.808718@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588777,
-    "wof:geomhash":"17202ac5a58b8c7440a4961e37866f2d",
+    "wof:geomhash":"42764d2556196f4aba7a13cf39091826",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773836657,
-    "wof:lastmodified":1467082992,
+    "wof:lastmodified":1510602714,
     "wof:name":"Central Parking System",
     "wof:parent_id":85893473,
     "wof:placetype":"venue",

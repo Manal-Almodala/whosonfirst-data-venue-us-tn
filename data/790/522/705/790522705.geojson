@@ -2,9 +2,14 @@
   "id": 790522705,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Riverwood Dr Franklin TN 37069",
+    "addr:housenumber":"155",
+    "addr:postcode":"37069",
+    "addr:street":"Riverwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.910477,35.970386,-86.910477,35.970386",
     "geom:latitude":35.970386,
     "geom:longitude":-86.910477,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -44,6 +50,7 @@
     "wof:geomhash":"449e16f220ee8ebf1a24982760fdd4f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790522705,
-    "wof:lastmodified":1467083224,
+    "wof:lastmodified":1491924178,
     "wof:name":"Southern Homes Inc",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

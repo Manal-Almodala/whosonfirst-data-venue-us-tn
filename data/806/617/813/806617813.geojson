@@ -2,14 +2,20 @@
   "id": 806617813,
   "type": "Feature",
   "properties": {
+    "addr:full":"2547 Murfreesboro Pike Nashville TN 37217",
+    "addr:housenumber":"2547",
+    "addr:postcode":"37217",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.6422,36.077681,-86.6422,36.077681",
     "geom:latitude":36.077681,
     "geom:longitude":-86.6422,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2547 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85846409,
         85841041
     ],
+    "wof:brand_id":1125150611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IDSPA6g8K74OwtgkZVVP0_36.077681_-86.642200@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599635,
-    "wof:geomhash":"770cac6cd46e54713644a6d4d948be7f",
+    "wof:geomhash":"c2b2ee9b621fa6d0bedd8cc938663d38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":806617813,
-    "wof:lastmodified":1467083325,
+    "wof:lastmodified":1510604906,
     "wof:name":"Quest Diagnotics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

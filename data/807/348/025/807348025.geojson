@@ -2,9 +2,14 @@
   "id": 807348025,
   "type": "Feature",
   "properties": {
+    "addr:full":"4755 Hwy 76 Cottontown TN 37048",
+    "addr:housenumber":"4755",
+    "addr:postcode":"37048",
+    "addr:street":"Hwy 76",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.637963,36.479402,-86.637963,36.479402",
     "geom:latitude":36.479402,
     "geom:longitude":-86.637963,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"66e79cbc2796ef4f8cab8aec39a38345",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807348025,
-    "wof:lastmodified":1467083543,
+    "wof:lastmodified":1491939208,
     "wof:name":"Handyman Extraordinaire",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790514653,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Gleaves St Madison TN 37115",
+    "addr:housenumber":"115",
+    "addr:postcode":"37115",
+    "addr:street":"Gleaves St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.701974,36.297167,-86.701974,36.297167",
     "geom:latitude":36.297167,
     "geom:longitude":-86.701974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Gleaves St",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125150023,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j6MAcJjfBRMCo4Yjhsb75_36.297167_-86.701974@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596488,
-    "wof:geomhash":"df691110410b6085ca6b851f7f3aba0d",
+    "wof:geomhash":"ceab5776087cf22433ad05619a30f502",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790514653,
-    "wof:lastmodified":1467083221,
+    "wof:lastmodified":1510695390,
     "wof:name":"ICI Dulux Paint",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773179453,
   "type": "Feature",
   "properties": {
+    "addr:full":"2828 Parkway Pigeon Forge TN 37863",
+    "addr:housenumber":"2828",
+    "addr:postcode":"37863",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.568259,35.798822,-83.568259,35.798822",
     "geom:latitude":35.798822,
     "geom:longitude":-83.568259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2828 Parkway",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086245,
         85854207
     ],
+    "wof:brand_id":1125156651,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6fC5P3HNgHgfOPy0KRnpAS_35.798822_-83.568259@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583735,
-    "wof:geomhash":"d9de4191af53eccfc6a35e3243fa6c35",
+    "wof:geomhash":"ce263fa8eef2a088535b29b870089e78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773179453,
-    "wof:lastmodified":1467082823,
+    "wof:lastmodified":1510698684,
     "wof:name":"Snack Shack",
     "wof:parent_id":85854207,
     "wof:placetype":"venue",

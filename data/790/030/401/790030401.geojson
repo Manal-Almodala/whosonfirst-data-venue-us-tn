@@ -2,14 +2,20 @@
   "id": 790030401,
   "type": "Feature",
   "properties": {
+    "addr:full":"850 Raider Dr Cleveland TN 37312",
+    "addr:housenumber":"850",
+    "addr:postcode":"37312",
+    "addr:street":"Raider Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.868287,35.193277,-84.868287,35.193277",
     "geom:latitude":35.193277,
     "geom:longitude":-84.868287,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"850 Raider Dr",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087043,
         85808527
     ],
+    "wof:brand_id":1125155505,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nrdeThkLE6LLypjfr3Gij_35.193277_-84.868287@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592576,
-    "wof:geomhash":"6c96a2aa5c6e1f03683414c6c9541085",
+    "wof:geomhash":"2c02a1a63b7e170651b4cfe15f161c37",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790030401,
-    "wof:lastmodified":1467083104,
+    "wof:lastmodified":1510696755,
     "wof:name":"Junior Achievement",
     "wof:parent_id":85808527,
     "wof:placetype":"venue",

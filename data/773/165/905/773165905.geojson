@@ -2,14 +2,20 @@
   "id": 773165905,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Woodmont Blvd Nashville TN 37205",
+    "addr:housenumber":"102",
+    "addr:postcode":"37205",
+    "addr:street":"Woodmont Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.846184,36.12357,-86.846184,36.12357",
     "geom:latitude":36.12357,
     "geom:longitude":-86.846184,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Woodmont Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087061,
         85844411
     ],
+    "wof:brand_id":1125152367,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05gfvYOouNXOa1cS8mmOp9_36.123570_-86.846184@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583635,
-    "wof:geomhash":"6303d1c887d1f7b1f44684871da48d83",
+    "wof:geomhash":"37744edb5f21dcd8e0dc4faf39ec9e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773165905,
-    "wof:lastmodified":1467082819,
+    "wof:lastmodified":1510696798,
     "wof:name":"Raymond James Financial Svcs",
     "wof:parent_id":85844411,
     "wof:placetype":"venue",

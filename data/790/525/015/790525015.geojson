@@ -2,14 +2,20 @@
   "id": 790525015,
   "type": "Feature",
   "properties": {
+    "addr:full":"1993 Southerland Dr Nashville TN 37207",
+    "addr:housenumber":"1993",
+    "addr:postcode":"37207",
+    "addr:street":"Southerland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.777959,36.224588,-86.777959,36.224588",
     "geom:latitude":36.224588,
     "geom:longitude":-86.777959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1993 Southerland Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087061,
         85868503
     ],
+    "wof:brand_id":1125154659,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2isacdrvlZRPWgrGpIyXCz_36.224588_-86.777959@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596583,
-    "wof:geomhash":"e127600188fbcde0483b6136483115ba",
+    "wof:geomhash":"9f9611688e9c266755cfec018797b106",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790525015,
-    "wof:lastmodified":1467083224,
+    "wof:lastmodified":1510694721,
     "wof:name":"Lamar Advertising Co",
     "wof:parent_id":85868503,
     "wof:placetype":"venue",

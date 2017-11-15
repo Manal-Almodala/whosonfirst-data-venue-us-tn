@@ -2,14 +2,20 @@
   "id": 790577663,
   "type": "Feature",
   "properties": {
+    "addr:full":"2282 N Highland Ave Jackson TN 38305",
+    "addr:housenumber":"2282",
+    "addr:postcode":"38305",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.829018,35.666219,-88.829018,35.666219",
     "geom:latitude":35.666219,
     "geom:longitude":-88.829018,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2282 N Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125155307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_54YcJK7xeeD9FcZKeWPuB1_35.666219_-88.829018@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597019,
-    "wof:geomhash":"0e203ede5d5410e4b2556f26b9417a38",
+    "wof:geomhash":"5690be3ddf1faef58a98a37d7cb7724c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790577663,
-    "wof:lastmodified":1467083239,
+    "wof:lastmodified":1510699917,
     "wof:name":"Shoney's",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

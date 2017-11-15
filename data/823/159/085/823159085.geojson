@@ -2,9 +2,14 @@
   "id": 823159085,
   "type": "Feature",
   "properties": {
+    "addr:full":"109 Moss Ln Franklin TN 37064",
+    "addr:housenumber":"109",
+    "addr:postcode":"37064",
+    "addr:street":"Moss Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.850362,35.86281,-86.850362,35.86281",
     "geom:latitude":35.86281,
     "geom:longitude":-86.850362,
@@ -27,12 +32,7 @@
         "nonresidential"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_324KkYfUg84vKqGzEVniwg_35.862810_-86.850362@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462607788,
     "wof:geomhash":"875fc509409e1fa6f042bda4899fa53b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":823159085
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823159085,
-    "wof:lastmodified":1467083581,
+    "wof:lastmodified":1491930841,
     "wof:name":"Tenant Building Group",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

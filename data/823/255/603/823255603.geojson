@@ -2,14 +2,20 @@
   "id": 823255603,
   "type": "Feature",
   "properties": {
+    "addr:full":"3800 Hacks Cross Rd Memphis TN 38125",
+    "addr:housenumber":"3800",
+    "addr:postcode":"38125",
+    "addr:street":"Hacks Cross Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.795026,35.044649,-89.795026,35.044649",
     "geom:latitude":35.044649,
     "geom:longitude":-89.795026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3800 Hacks Cross Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85850355,
         102087213
     ],
+    "wof:brand_id":1125155899,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lRL1R4r5V3Qxs1jrYz56E_35.044649_-89.795026@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609452,
-    "wof:geomhash":"8c84c2869bff17479accb042eaa3165d",
+    "wof:geomhash":"28014e9fb331c946eb475ee577337874",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823255603,
-    "wof:lastmodified":1467083639,
+    "wof:lastmodified":1510699291,
     "wof:name":"Cheeburger Cheeburger",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",

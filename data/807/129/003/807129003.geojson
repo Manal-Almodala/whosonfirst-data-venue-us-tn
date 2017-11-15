@@ -2,14 +2,20 @@
   "id": 807129003,
   "type": "Feature",
   "properties": {
+    "addr:full":"524 Antebellum Ct Franklin TN 37064",
+    "addr:housenumber":"524",
+    "addr:postcode":"37064",
+    "addr:street":"Antebellum Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.899178,35.937505,-86.899178,35.937505",
     "geom:latitude":35.937505,
     "geom:longitude":-86.899178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"524 Antebellum Ct",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086337,
         85826737
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tbD01THgUUdVIGqEiJ9oa_35.937505_-86.899178@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604038,
-    "wof:geomhash":"4ed56b896a109a9ca852732a4f9aa529",
+    "wof:geomhash":"0b6e60eb0cf5c299b0bed530e9779d73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":807129003,
-    "wof:lastmodified":1467083466,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85826737,
     "wof:placetype":"venue",

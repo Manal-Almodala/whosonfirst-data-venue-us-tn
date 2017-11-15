@@ -2,14 +2,20 @@
   "id": 773558851,
   "type": "Feature",
   "properties": {
+    "addr:full":"734 N White Station Rd Memphis TN 38117",
+    "addr:housenumber":"734",
+    "addr:postcode":"38117",
+    "addr:street":"N White Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.888038,35.149977,-89.888038,35.149977",
     "geom:latitude":35.149977,
     "geom:longitude":-89.888038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"734 N White Station Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":1125150805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wNSLyzXURfATOOCljVRvg_35.149977_-89.888038@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586638,
-    "wof:geomhash":"42443ee83f37cf7111dfc8dfb92da33a",
+    "wof:geomhash":"573410fc3b788548519f86e7f6060075",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773558851,
-    "wof:lastmodified":1467082924,
+    "wof:lastmodified":1510697329,
     "wof:name":"Just Brakes",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

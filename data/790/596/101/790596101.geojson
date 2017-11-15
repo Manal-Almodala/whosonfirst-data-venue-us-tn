@@ -2,14 +2,20 @@
   "id": 790596101,
   "type": "Feature",
   "properties": {
+    "addr:full":"1627 State Hwy 109 Gallatin TN 37066",
+    "addr:housenumber":"1627",
+    "addr:postcode":"37066",
+    "addr:street":"State Hwy 109",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.466263,36.435309,-86.466263,36.435309",
     "geom:latitude":36.435309,
     "geom:longitude":-86.466263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1627 State Hwy 109",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086357,
         85852687
     ],
+    "wof:brand_id":1125156979,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PeIhJNjEzumN01c26hcOl_36.435309_-86.466263@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597179,
-    "wof:geomhash":"03a3065522a29e0186c2e3ae455f4a32",
+    "wof:geomhash":"1735769dd174d591d5b217446f5b8e5a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790596101,
-    "wof:lastmodified":1467083244,
+    "wof:lastmodified":1510699777,
     "wof:name":"Iglesia De Dios Pentecostal",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",

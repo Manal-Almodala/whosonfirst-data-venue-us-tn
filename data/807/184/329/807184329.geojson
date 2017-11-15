@@ -2,14 +2,20 @@
   "id": 807184329,
   "type": "Feature",
   "properties": {
+    "addr:full":"1055 Lynn Garden Dr Kingsport TN 37665",
+    "addr:housenumber":"1055",
+    "addr:postcode":"37665",
+    "addr:street":"Lynn Garden Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.566536,36.573702,-82.566536,36.573702",
     "geom:latitude":36.573702,
     "geom:longitude":-82.566536,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1055 Lynn Garden Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086471,
         85847837
     ],
+    "wof:brand_id":1125157971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48FxKlCXWSQzi6R7Hs1vLf_36.573702_-82.566536@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604628,
-    "wof:geomhash":"2e96ce7ff4277572dada52e879e3a3b1",
+    "wof:geomhash":"84a1cddd326e703bfed4b68330210793",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807184329,
-    "wof:lastmodified":1467083484,
+    "wof:lastmodified":1510697566,
     "wof:name":"Sara Lee Bakery Group Inc",
     "wof:parent_id":85847837,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773409733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1774 Henry G Lane St Maryville TN 37801",
+    "addr:housenumber":"1774",
+    "addr:postcode":"37801",
+    "addr:street":"Henry G Lane",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.01728,35.759037,-84.01728,35.759037",
     "geom:latitude":35.759037,
     "geom:longitude":-84.01728,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1774 Henry G Lane St",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087017,
         85851593
     ],
+    "wof:brand_id":1125151211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1jL6ZZUp8ya5zjiO8qD4b2_35.759037_-84.017280@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585486,
-    "wof:geomhash":"cb2ffb3cc13bc8af78b238baeba9bf4e",
+    "wof:geomhash":"8fb302683a738983c3b7ab6ac3983f74",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773409733,
-    "wof:lastmodified":1467082889,
+    "wof:lastmodified":1510697573,
     "wof:name":"Charter Communications",
     "wof:parent_id":85851593,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773559249,
   "type": "Feature",
   "properties": {
+    "addr:full":"557 Forest Retreat Rd Hendersonville TN 37075",
+    "addr:housenumber":"557",
+    "addr:postcode":"37075",
+    "addr:street":"Forest Retreat Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.642031,36.333759,-86.642031,36.333759",
     "geom:latitude":36.333759,
     "geom:longitude":-86.642031,
@@ -29,9 +34,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
+        85852919,
         85825691
     ],
     "wof:breaches":[],
@@ -43,6 +50,16 @@
     "wof:geomhash":"cd68c339f45e7bc477f1de75cfe79b3f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102086357,
+            "locality_id":101723169,
+            "neighbourhood_id":85852919,
+            "region_id":85688701,
+            "venue_id":773559249
+        },
+        {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,9 +69,9 @@
         }
     ],
     "wof:id":773559249,
-    "wof:lastmodified":1467082924,
+    "wof:lastmodified":1491939241,
     "wof:name":"Sill Jr Walter F Inc",
-    "wof:parent_id":85825691,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

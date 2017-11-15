@@ -2,9 +2,14 @@
   "id": 806643865,
   "type": "Feature",
   "properties": {
+    "addr:full":"211 Hillside Dr Franklin TN 37067",
+    "addr:housenumber":"211",
+    "addr:postcode":"37067",
+    "addr:street":"Hillside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.806096,35.885427,-86.806096,35.885427",
     "geom:latitude":35.885427,
     "geom:longitude":-86.806096,
@@ -24,12 +29,7 @@
     "sg:postcode":"37067",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_791RzSHbiDZAdsedzMpLHn_35.885427_-86.806096@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462599850,
     "wof:geomhash":"73ee0bdaadd758b0d3e33ee7db7bf0ee",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":806643865
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806643865,
-    "wof:lastmodified":1467083332,
+    "wof:lastmodified":1491924949,
     "wof:name":"Bb Plastic Consulting Services",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

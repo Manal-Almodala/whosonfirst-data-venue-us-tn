@@ -2,14 +2,20 @@
   "id": 823290011,
   "type": "Feature",
   "properties": {
+    "addr:full":"3481 Austin Peay Hwy Memphis TN 38128",
+    "addr:housenumber":"3481",
+    "addr:postcode":"38128",
+    "addr:street":"Austin Peay Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.910065,35.220257,-89.910065,35.220257",
     "geom:latitude":35.220257,
     "geom:longitude":-89.910065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3481 Austin Peay Hwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125154507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_41QuHTdpog6BjXA9PTw1FT_35.220257_-89.910065@1303262743"
     },
     "wof:country":"US",
     "wof:created":1462610695,
-    "wof:geomhash":"db2a3244cf0876e40ccc46b696f54059",
+    "wof:geomhash":"520910db88acdac2055f43249075fb7e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823290011,
-    "wof:lastmodified":1467083683,
+    "wof:lastmodified":1510696741,
     "wof:name":"A J Wright",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

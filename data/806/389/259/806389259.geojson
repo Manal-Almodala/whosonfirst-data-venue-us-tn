@@ -2,14 +2,20 @@
   "id": 806389259,
   "type": "Feature",
   "properties": {
+    "addr:full":"3030 Bethel Rd Morristown TN 37813",
+    "addr:housenumber":"3030",
+    "addr:postcode":"37813",
+    "addr:street":"Bethel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.243616,36.187658,-83.243616,36.187658",
     "geom:latitude":36.187658,
     "geom:longitude":-83.243616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3030 Bethel Rd",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086447,
         85852009
     ],
+    "wof:brand_id":420574663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UfyDPedLj5cyiEFK4bqqP_36.187658_-83.243616@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597747,
-    "wof:geomhash":"a3053e6432a3e5e6af357de135f8ce6d",
+    "wof:geomhash":"566592dd3171549466300d375ea6d3de",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806389259,
-    "wof:lastmodified":1467083261,
+    "wof:lastmodified":1510604367,
     "wof:name":"Bethel Baptist Church",
     "wof:parent_id":85852009,
     "wof:placetype":"venue",

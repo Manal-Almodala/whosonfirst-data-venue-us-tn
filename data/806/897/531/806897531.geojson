@@ -2,14 +2,20 @@
   "id": 806897531,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 E Market St Kingsport TN 37660",
+    "addr:housenumber":"600",
+    "addr:postcode":"37660",
+    "addr:street":"E Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.55483,36.542899,-82.55483,36.542899",
     "geom:latitude":36.542899,
     "geom:longitude":-82.55483,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 E Market St",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         420542161
     ],
+    "wof:brand_id":1125159339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FtIP3J1mxBgxxKUOWmgDo_36.542899_-82.554830@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601992,
-    "wof:geomhash":"b9bdcd894fb2330038855d255df4a9a5",
+    "wof:geomhash":"a8f6194c63005c279f06e0833d554ef6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806897531,
-    "wof:lastmodified":1467083404,
+    "wof:lastmodified":1510695228,
     "wof:name":"Prints Plus",
     "wof:parent_id":420542161,
     "wof:placetype":"venue",

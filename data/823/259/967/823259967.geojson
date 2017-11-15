@@ -2,14 +2,20 @@
   "id": 823259967,
   "type": "Feature",
   "properties": {
+    "addr:full":"4877 N Broadway St Knoxville TN 37918",
+    "addr:housenumber":"4877",
+    "addr:postcode":"37918",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.927989,36.027815,-83.927989,36.027815",
     "geom:latitude":36.027815,
     "geom:longitude":-83.927989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4877 N Broadway St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086455,
         420541843
     ],
+    "wof:brand_id":1125156845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cm7eeSpCuBS0zGa8vZia3_36.028222_-83.928259@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609552,
-    "wof:geomhash":"4c8d2a63daa4ae845af3b376e02910aa",
+    "wof:geomhash":"363c3996801bf374b3d006ed4558c651",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823259967,
-    "wof:lastmodified":1467083642,
+    "wof:lastmodified":1510696904,
     "wof:name":"Snappy Tomato Pizza",
     "wof:parent_id":420541843,
     "wof:placetype":"venue",

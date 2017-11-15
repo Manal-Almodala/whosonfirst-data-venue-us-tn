@@ -2,9 +2,14 @@
   "id": 806650897,
   "type": "Feature",
   "properties": {
+    "addr:full":"114 Terry Ln Cottontown TN 37048",
+    "addr:housenumber":"114",
+    "addr:postcode":"37048",
+    "addr:street":"Terry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.630711,36.491149,-86.630711,36.491149",
     "geom:latitude":36.491149,
     "geom:longitude":-86.630711,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"29d10bc069c1c3edd0a5c2150582b513",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806650897,
-    "wof:lastmodified":1467083334,
+    "wof:lastmodified":1491939223,
     "wof:name":"Medifacts Transcription Svc",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

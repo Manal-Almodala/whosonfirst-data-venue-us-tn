@@ -2,14 +2,20 @@
   "id": 790301675,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Pulaski Hwy Columbia TN 38401",
+    "addr:housenumber":"2501",
+    "addr:postcode":"38401",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.04169,35.584439,-87.04169,35.584439",
     "geom:latitude":35.584439,
     "geom:longitude":-87.04169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2501 Pulaski Hwy",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087107,
         420541925
     ],
+    "wof:brand_id":1125155179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3q7hw7qTBnuRvLwPbdjrF7_35.584439_-87.041690@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594780,
-    "wof:geomhash":"58b07cb02bca5b57c0fb78b9e46a7e7d",
+    "wof:geomhash":"86d06090caf9960e12b85cf263b2a013",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790301675,
-    "wof:lastmodified":1467083167,
+    "wof:lastmodified":1510699386,
     "wof:name":"Powerhouse Gym",
     "wof:parent_id":420541925,
     "wof:placetype":"venue",

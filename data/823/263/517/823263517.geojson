@@ -2,14 +2,20 @@
   "id": 823263517,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 8th Ave N Nashville TN 37203",
+    "addr:housenumber":"200",
+    "addr:postcode":"37203",
+    "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.78083,36.156879,-86.78083,36.156879",
     "geom:latitude":36.156879,
     "geom:longitude":-86.78083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 8th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85871389
     ],
+    "wof:brand_id":1125155497,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Tw6MCkoiVKm4KUGKbOnbx_36.156879_-86.780830@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609660,
-    "wof:geomhash":"c33ed4193fce9e7ec920bc3f9e54f428",
+    "wof:geomhash":"6087aba84ff7f565448f906ab4660549",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823263517,
-    "wof:lastmodified":1467083646,
+    "wof:lastmodified":1510694922,
     "wof:name":"Greyhound Package Express",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",

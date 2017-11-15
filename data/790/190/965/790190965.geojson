@@ -2,14 +2,20 @@
   "id": 790190965,
   "type": "Feature",
   "properties": {
+    "addr:full":"2606 Greenway Dr Knoxville TN 37918",
+    "addr:housenumber":"2606",
+    "addr:postcode":"37918",
+    "addr:street":"Greenway Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.924267,36.020287,-83.924267,36.020287",
     "geom:latitude":36.020287,
     "geom:longitude":-83.924267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2606 Greenway Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086455,
         420541829
     ],
+    "wof:brand_id":1125157685,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cy9h35utocCahzHRlwMbU_36.020287_-83.924267@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593860,
-    "wof:geomhash":"5c30ce4c31b02ab6a128a9f8186e2961",
+    "wof:geomhash":"96bdbc3f4768c208ea145db16db9e382",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790190965,
-    "wof:lastmodified":1467083141,
+    "wof:lastmodified":1510699513,
     "wof:name":"Norfolk Southern",
     "wof:parent_id":420541829,
     "wof:placetype":"venue",

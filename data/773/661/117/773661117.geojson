@@ -2,14 +2,20 @@
   "id": 773661117,
   "type": "Feature",
   "properties": {
+    "addr:full":"5170 Hickory Hollow Pkwy Antioch TN 37013",
+    "addr:housenumber":"5170",
+    "addr:postcode":"37013",
+    "addr:street":"Hickory Hollow Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.663213,36.049849,-86.663213,36.049849",
     "geom:latitude":36.049849,
     "geom:longitude":-86.663213,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5170 Hickory Hollow Pkwy",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85846409
     ],
+    "wof:brand_id":420575729,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Eyp0MT4HbLyYJC0VTHaA0_36.049849_-86.663213@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587404,
-    "wof:geomhash":"a44a71d9073f12f675e8938782d940cd",
+    "wof:geomhash":"b4d8c32e03ffd4d01c5b60e57b6ecdee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773661117,
-    "wof:lastmodified":1467082949,
+    "wof:lastmodified":1510602095,
     "wof:name":"Ryan Homes",
     "wof:parent_id":85846409,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773296309,
   "type": "Feature",
   "properties": {
+    "addr:full":"1936 McArthur St Manchester TN 37355",
+    "addr:housenumber":"1936",
+    "addr:postcode":"37355",
+    "addr:street":"Mcarthur St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.095336,35.450669,-86.095336,35.450669",
     "geom:latitude":35.450669,
     "geom:longitude":-86.095336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1936 McArthur St",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087095,
         85821997
     ],
+    "wof:brand_id":1125159719,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HlKK6uWkLuGRGaMsS4zIm_35.450669_-86.095336@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584647,
-    "wof:geomhash":"4bab99d66eb1623e3d3cb02b7542b93d",
+    "wof:geomhash":"37ab739655253654ec061780c5803419",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773296309,
-    "wof:lastmodified":1467082860,
+    "wof:lastmodified":1510613172,
     "wof:name":"Title Cash",
     "wof:parent_id":85821997,
     "wof:placetype":"venue",

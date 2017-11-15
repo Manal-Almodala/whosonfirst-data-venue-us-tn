@@ -2,14 +2,20 @@
   "id": 789630053,
   "type": "Feature",
   "properties": {
+    "addr:full":"2604 Walker Ave Memphis TN 38111",
+    "addr:housenumber":"2604",
+    "addr:postcode":"38111",
+    "addr:street":"Walker Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.975191,35.116886,-89.975191,35.116886",
     "geom:latitude":35.116886,
     "geom:longitude":-89.975191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2604 Walker Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85893419
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70c1nrRMJQP1DPOekLEuzv_35.116886_-89.975191@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589293,
-    "wof:geomhash":"61991fc04db45848a92f6d8632ea401c",
+    "wof:geomhash":"34f4fed0a389a98352f7b0fd94b1b76e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789630053,
-    "wof:lastmodified":1467083008,
+    "wof:lastmodified":1510694882,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85893419,
     "wof:placetype":"venue",

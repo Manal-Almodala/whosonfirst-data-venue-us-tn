@@ -2,14 +2,20 @@
   "id": 806467495,
   "type": "Feature",
   "properties": {
+    "addr:full":"683 Union Ave Memphis TN 38103",
+    "addr:housenumber":"683",
+    "addr:postcode":"38103",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.040576,35.1397,-90.040576,35.1397",
     "geom:latitude":35.1397,
     "geom:longitude":-90.040576,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"683 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85893411
     ],
+    "wof:brand_id":1125152889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uc13xwBfYf4Pyqm1gj1TA_35.139700_-90.040576@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598372,
-    "wof:geomhash":"9dc1be07073da29d545d0255cd22bf7b",
+    "wof:geomhash":"4e70983175c1d51b1c3ade1bae4040b4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806467495,
-    "wof:lastmodified":1467083283,
+    "wof:lastmodified":1510695967,
     "wof:name":"Mr Transmission",
     "wof:parent_id":85893411,
     "wof:placetype":"venue",

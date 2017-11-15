@@ -2,14 +2,20 @@
   "id": 806807649,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 Fitzhugh Blvd Smyrna TN 37167",
+    "addr:housenumber":"613",
+    "addr:postcode":"37167",
+    "addr:street":"Fitzhugh Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.509264,36.01508,-86.509264,36.01508",
     "geom:latitude":36.01508,
     "geom:longitude":-86.509264,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"613 Fitzhugh Blvd",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         420542079
     ],
+    "wof:brand_id":1125150599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Yuozr1AAdHVZqa19soWbW_36.015080_-86.509264@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601246,
-    "wof:geomhash":"ad254fe46e2162c26284d2cb5dc09a38",
+    "wof:geomhash":"fd5a032b61795a13f7c40375b5770966",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806807649,
-    "wof:lastmodified":1467083379,
+    "wof:lastmodified":1510613426,
     "wof:name":"Airport Traffic Control Tower",
     "wof:parent_id":420542079,
     "wof:placetype":"venue",

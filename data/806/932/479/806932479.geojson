@@ -2,14 +2,20 @@
   "id": 806932479,
   "type": "Feature",
   "properties": {
+    "addr:full":"2332 Old Hwy 46 S Dickson TN 37055",
+    "addr:housenumber":"2332",
+    "addr:postcode":"37055",
+    "addr:street":"Old Hwy 46 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.321406,35.978408,-87.321406,35.978408",
     "geom:latitude":35.978408,
     "geom:longitude":-87.321406,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2332 Old Hwy 46 S",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125152841,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yevhTSRy3PAKFco0ONsQu_35.978408_-87.321406@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602294,
-    "wof:geomhash":"3af5745bcfb6e159ab48ccbca65bd049",
+    "wof:geomhash":"48b5128e09df51a8bd6225463ad12444",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806932479,
-    "wof:lastmodified":1467083413,
+    "wof:lastmodified":1510693748,
     "wof:name":"Amoco Food Mart",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

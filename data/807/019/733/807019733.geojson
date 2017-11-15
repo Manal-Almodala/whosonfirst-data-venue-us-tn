@@ -2,9 +2,14 @@
   "id": 807019733,
   "type": "Feature",
   "properties": {
+    "addr:full":"31 White Bridge Pike Nashville TN 37205",
+    "addr:housenumber":"31",
+    "addr:postcode":"37205",
+    "addr:street":"White Bridge Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.851953,36.12798,-86.851953,36.12798",
     "geom:latitude":36.12798,
     "geom:longitude":-86.851953,
@@ -33,7 +38,7 @@
         85633793,
         101723183,
         102087061,
-        85844411
+        85855987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -48,15 +53,15 @@
             "country_id":85633793,
             "county_id":102087061,
             "locality_id":101723183,
-            "neighbourhood_id":85844411,
+            "neighbourhood_id":85855987,
             "region_id":85688701,
             "venue_id":807019733
         }
     ],
     "wof:id":807019733,
-    "wof:lastmodified":1467083438,
+    "wof:lastmodified":1491929398,
     "wof:name":"Mr Whiskers Wines & Liquors",
-    "wof:parent_id":85844411,
+    "wof:parent_id":85855987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

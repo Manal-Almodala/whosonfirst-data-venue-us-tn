@@ -2,9 +2,14 @@
   "id": 790033517,
   "type": "Feature",
   "properties": {
+    "addr:full":"849 N Palmers Chapel Rd White House TN 37188",
+    "addr:housenumber":"849",
+    "addr:postcode":"37188",
+    "addr:street":"N Palmers Chapel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.631812,36.448529,-86.631812,36.448529",
     "geom:latitude":36.448529,
     "geom:longitude":-86.631812,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9be8151c95334f805a510fbad8c4b113",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790033517,
-    "wof:lastmodified":1467083104,
+    "wof:lastmodified":1491939226,
     "wof:name":"A-1 Janitorial Svc",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

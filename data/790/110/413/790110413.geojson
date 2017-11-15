@@ -2,14 +2,20 @@
   "id": 790110413,
   "type": "Feature",
   "properties": {
+    "addr:full":"808 State St Knoxville TN 37902",
+    "addr:housenumber":"808",
+    "addr:postcode":"37902",
+    "addr:street":"State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.915144,35.962237,-83.915144,35.962237",
     "geom:latitude":35.962237,
     "geom:longitude":-83.915144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"808 State St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086455,
         85878571
     ],
+    "wof:brand_id":1125152051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NGeD3n8y2uSjC6MzOxe1l_35.962237_-83.915144@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593222,
-    "wof:geomhash":"452a3b96fc764d995e174aaf29f938e7",
+    "wof:geomhash":"5e3947ae927a3e7836d721324f94eeec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790110413,
-    "wof:lastmodified":1467083122,
+    "wof:lastmodified":1510697078,
     "wof:name":"Manpower Inc",
     "wof:parent_id":85878571,
     "wof:placetype":"venue",

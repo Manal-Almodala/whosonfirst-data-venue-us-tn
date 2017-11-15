@@ -2,14 +2,20 @@
   "id": 790028147,
   "type": "Feature",
   "properties": {
+    "addr:full":"1311 Carnton Ln Franklin TN 37064",
+    "addr:housenumber":"1311",
+    "addr:postcode":"37064",
+    "addr:street":"Carnton Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.863333,35.905722,-86.863333,35.905722",
     "geom:latitude":35.905722,
     "geom:longitude":-86.863333,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1311 Carnton Ln",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086337,
         85851291
     ],
+    "wof:brand_id":1125157483,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2R8x1deDTio2bnAyLx4MFw_35.905722_-86.863333@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592556,
-    "wof:geomhash":"90bca51b42a1b0c233744fadf07ede9f",
+    "wof:geomhash":"db47d0e49c416c2ff7d982572cd5057b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790028147,
-    "wof:lastmodified":1467083103,
+    "wof:lastmodified":1510699715,
     "wof:name":"Reebok",
     "wof:parent_id":85851291,
     "wof:placetype":"venue",

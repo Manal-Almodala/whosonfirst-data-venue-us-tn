@@ -2,14 +2,20 @@
   "id": 789937717,
   "type": "Feature",
   "properties": {
+    "addr:full":"3232 Clarksville Pike Nashville TN 37218",
+    "addr:housenumber":"3232",
+    "addr:postcode":"37218",
+    "addr:street":"Clarksville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.832569,36.194566,-86.832569,36.194566",
     "geom:latitude":36.194566,
     "geom:longitude":-86.832569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3232 Clarksville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85806715
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14oA6JwMK4TH6vYu7akSCc_36.194566_-86.832569@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591771,
-    "wof:geomhash":"94309ee1878432314ab210a62ca8f4fc",
+    "wof:geomhash":"3c897556d3385e912e0fb1494a76a7c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789937717,
-    "wof:lastmodified":1467083081,
+    "wof:lastmodified":1510697539,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85806715,
     "wof:placetype":"venue",

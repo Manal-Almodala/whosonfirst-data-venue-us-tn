@@ -2,14 +2,20 @@
   "id": 823256195,
   "type": "Feature",
   "properties": {
+    "addr:full":"5643 E Shelby Dr Memphis TN 38141",
+    "addr:housenumber":"5643",
+    "addr:postcode":"38141",
+    "addr:street":"E Shelby Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.87527,35.020348,-89.87527,35.020348",
     "geom:latitude":35.020348,
     "geom:longitude":-89.87527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5643 E Shelby Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4o3lj0dpMBjrKebsboYJdu_35.020348_-89.875270@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609462,
-    "wof:geomhash":"eefaa5ce6ab5e06a2b510037253584f8",
+    "wof:geomhash":"41dd70030f5c6b87825be847ad0f6d59",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823256195,
-    "wof:lastmodified":1467083639,
+    "wof:lastmodified":1510696089,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

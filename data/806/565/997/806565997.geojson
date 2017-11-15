@@ -2,14 +2,20 @@
   "id": 806565997,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 S Cedar Ave South Pittsburg TN 37380",
+    "addr:housenumber":"315",
+    "addr:postcode":"37380",
+    "addr:street":"S Cedar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.705072,35.011837,-85.705072,35.011837",
     "geom:latitude":35.011837,
     "geom:longitude":-85.705072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 S Cedar Ave",
     "sg:city":"South Pittsburg",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086347,
         85823635
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jeDFDBJ43Dsi6zNZsne3x_35.011837_-85.705072@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599175,
-    "wof:geomhash":"6c9f714e5fdac8d6cc3594378514859e",
+    "wof:geomhash":"a78079f90101d8aea0aa270bf2308038",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806565997,
-    "wof:lastmodified":1467083310,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85823635,
     "wof:placetype":"venue",

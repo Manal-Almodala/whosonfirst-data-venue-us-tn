@@ -2,9 +2,14 @@
   "id": 773793149,
   "type": "Feature",
   "properties": {
+    "addr:full":"4224 Alfred Ladd Rd Franklin TN 37064",
+    "addr:housenumber":"4224",
+    "addr:postcode":"37064",
+    "addr:street":"Alfred Ladd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.823528,35.865247,-86.823528,35.865247",
     "geom:latitude":35.865247,
     "geom:longitude":-86.823528,
@@ -28,12 +33,7 @@
         "general"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11UsD2ZsrWDfbbPgWsI1C0_35.865247_-86.823528@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462588412,
     "wof:geomhash":"9288cb05158f0e5bc48966edf8e14644",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773793149
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773793149,
-    "wof:lastmodified":1467082981,
+    "wof:lastmodified":1491930831,
     "wof:name":"L & M Farms",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

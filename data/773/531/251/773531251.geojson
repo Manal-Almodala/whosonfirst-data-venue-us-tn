@@ -2,14 +2,20 @@
   "id": 773531251,
   "type": "Feature",
   "properties": {
+    "addr:full":"2080 Lebanon Loop Sardis TN 38371",
+    "addr:housenumber":"2080",
+    "addr:postcode":"38371",
+    "addr:street":"Lebanon Loop",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.293396,35.36633,-88.293396,35.36633",
     "geom:latitude":35.36633,
     "geom:longitude":-88.293396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2080 Lebanon Loop",
     "sg:city":"Sardis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086329,
         85836765
     ],
+    "wof:brand_id":1125152677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72jBpJPlru1EG9N4vjmG4G_35.366330_-88.293396@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586423,
-    "wof:geomhash":"0902d5fc23d16935a97501bdcb08ff21",
+    "wof:geomhash":"399c614024b907e2063d58934df98f47",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773531251,
-    "wof:lastmodified":1467082918,
+    "wof:lastmodified":1510697145,
     "wof:name":"Siemens Energy & Automation",
     "wof:parent_id":85836765,
     "wof:placetype":"venue",

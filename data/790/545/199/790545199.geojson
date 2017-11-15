@@ -2,14 +2,20 @@
   "id": 790545199,
   "type": "Feature",
   "properties": {
+    "addr:full":"2216 Hamilton Place Blvd Chattanooga TN 37421",
+    "addr:housenumber":"2216",
+    "addr:postcode":"37421",
+    "addr:street":"Hamilton Place Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.15513,35.040422,-85.15513,35.040422",
     "geom:latitude":35.040422,
     "geom:longitude":-85.15513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2216 Hamilton Place Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85815159
     ],
+    "wof:brand_id":420574649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2esAjGRE7ggcnozSdkCMGB_35.040422_-85.155130@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596745,
-    "wof:geomhash":"c7641bdf1778bc74e783d9c5addb3eaa",
+    "wof:geomhash":"76ca88fbdeccb6722aa368e7dfeb0846",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790545199,
-    "wof:lastmodified":1467083230,
+    "wof:lastmodified":1510603989,
     "wof:name":"Staples The Office Superstore",
     "wof:parent_id":85815159,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773617637,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W 21st St Chattanooga TN 37408",
+    "addr:housenumber":"101",
+    "addr:postcode":"37408",
+    "addr:street":"W 21St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.311722,35.031741,-85.311722,35.031741",
     "geom:latitude":35.031741,
     "geom:longitude":-85.311722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 W 21st St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         85876745
     ],
+    "wof:brand_id":1125159153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lyU55Y8420coZRtbmI15w_35.031741_-85.311722@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587077,
-    "wof:geomhash":"52d62f3e7eb620a739aa703aeaef0922",
+    "wof:geomhash":"f8a6d75b49d2e01e5502cea8d4177d06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773617637,
-    "wof:lastmodified":1467082938,
+    "wof:lastmodified":1510699956,
     "wof:name":"Associated General Contractors",
     "wof:parent_id":85876745,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789965025,
   "type": "Feature",
   "properties": {
+    "addr:full":"1112 Bell Rd Antioch TN 37013",
+    "addr:housenumber":"1112",
+    "addr:postcode":"37013",
+    "addr:street":"Bell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.666557,36.044888,-86.666557,36.044888",
     "geom:latitude":36.044888,
     "geom:longitude":-86.666557,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1112 Bell Rd",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85846409
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VmR94zJ4RuSjqDiNyroiZ_36.044888_-86.666557@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592038,
-    "wof:geomhash":"d2821eaf09380ae0441a057dac1f49a8",
+    "wof:geomhash":"9424dc03ae7a2ac30098d15b465502f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789965025,
-    "wof:lastmodified":1467083088,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85846409,
     "wof:placetype":"venue",

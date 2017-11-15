@@ -2,14 +2,20 @@
   "id": 806868259,
   "type": "Feature",
   "properties": {
+    "addr:full":"310 Wilson Pike Brentwood TN 37027",
+    "addr:housenumber":"310",
+    "addr:postcode":"37027",
+    "addr:street":"Wilson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783699,36.02533,-86.783699,36.02533",
     "geom:latitude":36.02533,
     "geom:longitude":-86.783699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"310 Wilson Pike",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85807259
     ],
+    "wof:brand_id":1125156341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tdUeG7kpkJ6wZvVDL0emD_36.025330_-86.783699@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601758,
-    "wof:geomhash":"760b0bf45570c3ebb2359c2df5482a79",
+    "wof:geomhash":"43b1fb798c52b013b749aa3af8ac09a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806868259,
-    "wof:lastmodified":1467083396,
+    "wof:lastmodified":1510699936,
     "wof:name":"Allied Home Mtg Capital Corp",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",

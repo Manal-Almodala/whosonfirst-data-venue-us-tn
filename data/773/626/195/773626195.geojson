@@ -2,14 +2,20 @@
   "id": 773626195,
   "type": "Feature",
   "properties": {
+    "addr:full":"5960 W Andrew Johnson Hwy Morristown TN 37814",
+    "addr:housenumber":"5960",
+    "addr:postcode":"37814",
+    "addr:street":"W Andrew Johnson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.3926,36.178792,-83.3926,36.178792",
     "geom:latitude":36.178792,
     "geom:longitude":-83.3926,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5960 W Andrew Johnson Hwy",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086447,
         420541593
     ],
+    "wof:brand_id":1125150657,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SLyymSU585wQNECeYCMTl_36.178792_-83.392600@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587140,
-    "wof:geomhash":"e42c312bfd0cdab1bb9778f7ecefa084",
+    "wof:geomhash":"1af50899a97693f640426042c0c50ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773626195,
-    "wof:lastmodified":1467082940,
+    "wof:lastmodified":1510695187,
     "wof:name":"American General Life Ins Co",
     "wof:parent_id":420541593,
     "wof:placetype":"venue",

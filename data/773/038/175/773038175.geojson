@@ -2,14 +2,20 @@
   "id": 773038175,
   "type": "Feature",
   "properties": {
+    "addr:full":"491 Beulah Church Dr Kingsport TN 37663",
+    "addr:housenumber":"491",
+    "addr:postcode":"37663",
+    "addr:street":"Beulah Church Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.465232,36.45273,-82.465232,36.45273",
     "geom:latitude":36.45273,
     "geom:longitude":-82.465232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"491 Beulah Church Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         85826065
     ],
+    "wof:brand_id":1125154605,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fznItiAjju91yDVr0pQcG_36.452730_-82.465232@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582645,
-    "wof:geomhash":"ae0ca29a6cab00f9a1e547e232a45364",
+    "wof:geomhash":"4d7376f97c52a3009d0a68f75454ef3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773038175,
-    "wof:lastmodified":1467082786,
+    "wof:lastmodified":1510694000,
     "wof:name":"Beulah Baptist Church",
     "wof:parent_id":85826065,
     "wof:placetype":"venue",

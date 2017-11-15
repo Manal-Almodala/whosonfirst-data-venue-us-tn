@@ -2,14 +2,20 @@
   "id": 806920505,
   "type": "Feature",
   "properties": {
+    "addr:full":"1050 W Stone Dr Kingsport TN 37660",
+    "addr:housenumber":"1050",
+    "addr:postcode":"37660",
+    "addr:street":"W Stone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.570126,36.559089,-82.570126,36.559089",
     "geom:latitude":36.559089,
     "geom:longitude":-82.570126,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1050 W Stone Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086471,
         85847837
     ],
+    "wof:brand_id":1125158885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kbM5z4sMZ34zac6ZAzpzn_36.559089_-82.570126@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602178,
-    "wof:geomhash":"32f51e6991788683a9489e70fb6eb8c9",
+    "wof:geomhash":"5d75e65896039816b62d991f52e54d39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806920505,
-    "wof:lastmodified":1467083410,
+    "wof:lastmodified":1510693228,
     "wof:name":"US Army National Guard Recruit",
     "wof:parent_id":85847837,
     "wof:placetype":"venue",

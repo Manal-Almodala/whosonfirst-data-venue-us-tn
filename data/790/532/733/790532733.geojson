@@ -2,14 +2,20 @@
   "id": 790532733,
   "type": "Feature",
   "properties": {
+    "addr:full":"1666 Hillview Dr Elizabethton TN 37643",
+    "addr:housenumber":"1666",
+    "addr:postcode":"37643",
+    "addr:street":"Hillview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.240278,36.332018,-82.240278,36.332018",
     "geom:latitude":36.332018,
     "geom:longitude":-82.240278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1666 Hillview Dr",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087053,
         85844667
     ],
+    "wof:brand_id":1125152171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5OetOkwOxNInjArEBX69B6_36.332018_-82.240278@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596644,
-    "wof:geomhash":"5571ad8ea903d80bd57de4b65b76367f",
+    "wof:geomhash":"e3ec4b5396ba3a82161e4c53d3f8b850",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790532733,
-    "wof:lastmodified":1467083226,
+    "wof:lastmodified":1510699947,
     "wof:name":"Rehab Care Group",
     "wof:parent_id":85844667,
     "wof:placetype":"venue",

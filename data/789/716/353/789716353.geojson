@@ -2,14 +2,20 @@
   "id": 789716353,
   "type": "Feature",
   "properties": {
+    "addr:full":"515 Brick Church Park Dr Nashville TN 37207",
+    "addr:housenumber":"515",
+    "addr:postcode":"37207",
+    "addr:street":"Brick Church Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.7859,36.224876,-86.7859,36.224876",
     "geom:latitude":36.224876,
     "geom:longitude":-86.7859,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"515 Brick Church Park Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85804059
     ],
+    "wof:brand_id":1125152413,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XiwWkjCk3nBLzBzNmVfPC_36.224876_-86.785900@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589984,
-    "wof:geomhash":"b5298c4dcd78c2165a6a36c7406fb609",
+    "wof:geomhash":"c722609a8ff6c392c765b4cf8dab381a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789716353,
-    "wof:lastmodified":1467083028,
+    "wof:lastmodified":1510694883,
     "wof:name":"Loomis Fargo & Co",
     "wof:parent_id":85804059,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823282071,
   "type": "Feature",
   "properties": {
+    "addr:full":"1967 S 3rd St Memphis TN 38109",
+    "addr:housenumber":"1967",
+    "addr:postcode":"38109",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.056163,35.092677,-90.056163,35.092677",
     "geom:latitude":35.092677,
     "geom:longitude":-90.056163,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1967 S 3rd St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087213,
         420542137
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_120T2RwYL85NkoKbYNiHxe_35.092677_-90.056163@1303262741"
     },
     "wof:country":"US",
     "wof:created":1462610396,
-    "wof:geomhash":"23d226a36860d5bd6d2ae22469e4a73b",
+    "wof:geomhash":"03da696767819927cda084ff13f66b22",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":823282071,
-    "wof:lastmodified":1467083672,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":420542137,
     "wof:placetype":"venue",

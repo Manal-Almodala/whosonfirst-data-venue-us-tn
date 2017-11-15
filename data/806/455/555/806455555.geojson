@@ -2,14 +2,20 @@
   "id": 806455555,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 Cumberland St Chattanooga TN 37404",
+    "addr:housenumber":"501",
+    "addr:postcode":"37404",
+    "addr:street":"Cumberland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.280005,35.045815,-85.280005,35.045815",
     "geom:latitude":35.045815,
     "geom:longitude":-85.280005,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 Cumberland St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         420541735
     ],
+    "wof:brand_id":1125152753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WbSZkKd2rvfuxo98QUDRp_35.045815_-85.280005@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598281,
-    "wof:geomhash":"8e7882333dafa0f66f25d312e0f40bd1",
+    "wof:geomhash":"8ead51ec339fa01d4b5053b7b6c3a18d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806455555,
-    "wof:lastmodified":1467083280,
+    "wof:lastmodified":1510693927,
     "wof:name":"Xpedx",
     "wof:parent_id":420541735,
     "wof:placetype":"venue",

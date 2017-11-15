@@ -2,14 +2,20 @@
   "id": 773106353,
   "type": "Feature",
   "properties": {
+    "addr:full":"801 Lafayette Rd Clarksville TN 37042",
+    "addr:housenumber":"801",
+    "addr:postcode":"37042",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.432045,36.575656,-87.432045,36.575656",
     "geom:latitude":36.575656,
     "geom:longitude":-87.432045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"801 Lafayette Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086353,
         420541987
     ],
+    "wof:brand_id":1125155543,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FL1cAetie7RpIrshbwFyA_36.575656_-87.432045@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583198,
-    "wof:geomhash":"b50e2d1c963500884e18542fec794ca0",
+    "wof:geomhash":"b195fa00628c9bc222c59ce9b06cbeaa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773106353,
-    "wof:lastmodified":1467082804,
+    "wof:lastmodified":1510699940,
     "wof:name":"The Corporation of The Pres of",
     "wof:parent_id":420541987,
     "wof:placetype":"venue",

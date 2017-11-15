@@ -2,14 +2,20 @@
   "id": 806945743,
   "type": "Feature",
   "properties": {
+    "addr:full":"4700 Rutledge Pike Knoxville TN 37914",
+    "addr:housenumber":"4700",
+    "addr:postcode":"37914",
+    "addr:street":"Rutledge Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.866447,36.013611,-83.866447,36.013611",
     "geom:latitude":36.013611,
     "geom:longitude":-83.866447,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4700 Rutledge Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086455,
         420541869
     ],
+    "wof:brand_id":1125154225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5AjND66ZVHj1N0oQRrYQpT_36.013611_-83.866447@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602405,
-    "wof:geomhash":"c12c7fb0a6d58285372d1732f453d588",
+    "wof:geomhash":"b73782c4426d7fd21d70f5668d5ae5d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806945743,
-    "wof:lastmodified":1467083417,
+    "wof:lastmodified":1510693988,
     "wof:name":"Juvenile Diabetes Foundation",
     "wof:parent_id":420541869,
     "wof:placetype":"venue",

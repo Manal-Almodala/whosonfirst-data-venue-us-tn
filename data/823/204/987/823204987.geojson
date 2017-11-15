@@ -2,14 +2,20 @@
   "id": 823204987,
   "type": "Feature",
   "properties": {
+    "addr:full":"1610 Wilson Ave Tullahoma TN 37388",
+    "addr:housenumber":"1610",
+    "addr:postcode":"37388",
+    "addr:street":"Wilson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.255144,35.362317,-86.255144,35.362317",
     "geom:latitude":35.362317,
     "geom:longitude":-86.255144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1610 Wilson Ave",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087095,
         420541453
     ],
+    "wof:brand_id":1125152861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vCGhCkL7uz4bCEqD7IfOF_35.362317_-86.255144@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608442,
-    "wof:geomhash":"9057e80f9dfeaa98210e82a7b2114ca6",
+    "wof:geomhash":"e79067a0be5ab85507c23473dc306a5d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823204987,
-    "wof:lastmodified":1467083604,
+    "wof:lastmodified":1510613358,
     "wof:name":"Covenant Presbyterian Church",
     "wof:parent_id":420541453,
     "wof:placetype":"venue",

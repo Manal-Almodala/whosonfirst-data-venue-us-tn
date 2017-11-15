@@ -2,14 +2,20 @@
   "id": 790390489,
   "type": "Feature",
   "properties": {
+    "addr:full":"3854 Bates Pike SE Cleveland TN 37323",
+    "addr:housenumber":"3854",
+    "addr:postcode":"37323",
+    "addr:street":"Bates Pike Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.82058,35.138996,-84.82058,35.138996",
     "geom:latitude":35.138996,
     "geom:longitude":-84.82058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3854 Bates Pike SE",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087043,
         85849565
     ],
+    "wof:brand_id":1125154091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LqVcEwzRJN2n069TRdJrT_35.138996_-84.820580@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595471,
-    "wof:geomhash":"8f73ab43f56dc7f62e9b8e5107c25178",
+    "wof:geomhash":"85064b043a168332f33c0b0eb813690b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790390489,
-    "wof:lastmodified":1467083189,
+    "wof:lastmodified":1510699678,
     "wof:name":"Vulcan Materials Company",
     "wof:parent_id":85849565,
     "wof:placetype":"venue",

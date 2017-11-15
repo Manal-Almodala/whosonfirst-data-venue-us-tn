@@ -2,14 +2,20 @@
   "id": 773665193,
   "type": "Feature",
   "properties": {
+    "addr:full":"1851 Crest Rd Maryville TN 37804",
+    "addr:housenumber":"1851",
+    "addr:postcode":"37804",
+    "addr:street":"Crest Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.951633,35.757109,-83.951633,35.757109",
     "geom:latitude":35.757109,
     "geom:longitude":-83.951633,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1851 Crest Rd",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         85838943,
         85825587
     ],
+    "wof:brand_id":1125152779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0OiZlvItw1iXJYMzzOi2PA_35.757109_-83.951633@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587435,
-    "wof:geomhash":"ea044ce519f0178933ea133d7f514d67",
+    "wof:geomhash":"df158e8a750f2fa4b2f1275cdc88905e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":773665193,
-    "wof:lastmodified":1467082950,
+    "wof:lastmodified":1510697073,
     "wof:name":"Dialysis Clinic Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

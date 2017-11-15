@@ -2,14 +2,20 @@
   "id": 790471049,
   "type": "Feature",
   "properties": {
+    "addr:full":"204 Sharon Dr Pigeon Forge TN 37863",
+    "addr:housenumber":"204",
+    "addr:postcode":"37863",
+    "addr:street":"Sharon Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.572089,35.797328,-83.572089,35.797328",
     "geom:latitude":35.797328,
     "geom:longitude":-83.572089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"204 Sharon Dr",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086245,
         85854207
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Nu2OAR1uMWmAx4WPg7uWZ_35.797328_-83.572089@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596105,
-    "wof:geomhash":"76b089b63bd2140be2e20f9aa6b80516",
+    "wof:geomhash":"e0fcb37a0fc312b4d15aef4391ecacb6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":790471049,
-    "wof:lastmodified":1467083209,
+    "wof:lastmodified":1510695714,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85854207,
     "wof:placetype":"venue",

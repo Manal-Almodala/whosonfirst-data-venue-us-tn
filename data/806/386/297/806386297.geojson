@@ -2,14 +2,20 @@
   "id": 806386297,
   "type": "Feature",
   "properties": {
+    "addr:full":"5014 N Broadway St Knoxville TN 37918",
+    "addr:housenumber":"5014",
+    "addr:postcode":"37918",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.929488,36.031314,-83.929488,36.031314",
     "geom:latitude":36.031314,
     "geom:longitude":-83.929488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5014 N Broadway St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         420541843
     ],
+    "wof:brand_id":1125159833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35xQXjC1z3NLOc5yEYuUJs_36.031314_-83.929488@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597727,
-    "wof:geomhash":"f56f02a976e08574ba653e79a1fd0d8b",
+    "wof:geomhash":"1a6dc29900418f58465ab32b740e8b52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806386297,
-    "wof:lastmodified":1467083261,
+    "wof:lastmodified":1510613378,
     "wof:name":"Classy Cuts",
     "wof:parent_id":420541843,
     "wof:placetype":"venue",

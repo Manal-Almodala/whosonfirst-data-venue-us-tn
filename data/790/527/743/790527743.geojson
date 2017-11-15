@@ -2,14 +2,20 @@
   "id": 790527743,
   "type": "Feature",
   "properties": {
+    "addr:full":"9051 Executive Park Dr NW Knoxville TN 37923",
+    "addr:housenumber":"9051",
+    "addr:postcode":"37923",
+    "addr:street":"Executive Park Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.085616,35.921194,-84.085616,35.921194",
     "geom:latitude":35.921194,
     "geom:longitude":-84.085616,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9051 Executive Park Dr NW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85810021
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4omSZ1PNsyo8XjfcOvuRYp_35.921194_-84.085616@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596604,
-    "wof:geomhash":"2f5c1b794e086bc02665b6401641226e",
+    "wof:geomhash":"21efd9f8abd20291a103b38004c44d27",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790527743,
-    "wof:lastmodified":1467083225,
+    "wof:lastmodified":1510695399,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",

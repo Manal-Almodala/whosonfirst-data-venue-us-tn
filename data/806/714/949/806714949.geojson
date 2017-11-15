@@ -2,14 +2,20 @@
   "id": 806714949,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 W Northfield Blvd Murfreesboro TN 37129",
+    "addr:housenumber":"206",
+    "addr:postcode":"37129",
+    "addr:street":"W Northfield Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.38827,35.868554,-86.38827,35.868554",
     "geom:latitude":35.868554,
     "geom:longitude":-86.38827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 W Northfield Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85824375
     ],
+    "wof:brand_id":1125152079,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48FwlYe60xrvM8zSMfY3P8_35.868554_-86.388270@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600457,
-    "wof:geomhash":"1a7bbcb904966cc0f75d63e5721cdd56",
+    "wof:geomhash":"021f09c2777ca9c54551ec0c53e731b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806714949,
-    "wof:lastmodified":1467083352,
+    "wof:lastmodified":1510697801,
     "wof:name":"Big Apple Bagels",
     "wof:parent_id":85824375,
     "wof:placetype":"venue",

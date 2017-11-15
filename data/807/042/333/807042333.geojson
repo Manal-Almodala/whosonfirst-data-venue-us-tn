@@ -2,14 +2,20 @@
   "id": 807042333,
   "type": "Feature",
   "properties": {
+    "addr:full":"2409 Old Hwy 46 S Dickson TN 37055",
+    "addr:housenumber":"2409",
+    "addr:postcode":"37055",
+    "addr:street":"Old Hwy 46 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.321401,35.978386,-87.321401,35.978386",
     "geom:latitude":35.978386,
     "geom:longitude":-87.321401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2409 Old Hwy 46 S",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5TSELZMZ5YuAS1tGcbazAl_35.978386_-87.321401@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603231,
-    "wof:geomhash":"7a708eed0219d2de33e746a1e9a7822e",
+    "wof:geomhash":"5c05258a7c1ab8ef6cea15066ab69361",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807042333,
-    "wof:lastmodified":1467083444,
+    "wof:lastmodified":1510694750,
     "wof:name":"O'Charley's",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

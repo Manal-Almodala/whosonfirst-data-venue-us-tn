@@ -2,14 +2,20 @@
   "id": 773732867,
   "type": "Feature",
   "properties": {
+    "addr:full":"415 Central Church Rd Morristown TN 37814",
+    "addr:housenumber":"415",
+    "addr:postcode":"37814",
+    "addr:street":"Central Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.342942,36.203163,-83.342942,36.203163",
     "geom:latitude":36.203163,
     "geom:longitude":-83.342942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"415 Central Church Rd",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086447,
         420541593
     ],
+    "wof:brand_id":1125158831,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6q63BCNnL3idzTjCOXhOKk_36.203163_-83.342942@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587972,
-    "wof:geomhash":"c2681adc14de2d5dedb27f571b6b9d73",
+    "wof:geomhash":"0e692601e9cf2ee94c92b3ad03dd7bd1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773732867,
-    "wof:lastmodified":1467082966,
+    "wof:lastmodified":1510695708,
     "wof:name":"Open Door Baptist Church",
     "wof:parent_id":420541593,
     "wof:placetype":"venue",

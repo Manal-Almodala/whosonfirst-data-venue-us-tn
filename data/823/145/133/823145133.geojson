@@ -2,14 +2,20 @@
   "id": 823145133,
   "type": "Feature",
   "properties": {
+    "addr:full":"4337 Jamaica Ave Memphis TN 38117",
+    "addr:housenumber":"4337",
+    "addr:postcode":"38117",
+    "addr:street":"Jamaica Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.91756,35.078822,-89.91756,35.078822",
     "geom:latitude":35.078822,
     "geom:longitude":-89.91756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4337 Jamaica Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7JA9svqRCjHiwUvYsUl40U_35.078822_-89.917560@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607604,
-    "wof:geomhash":"ad492bf25f7f6c28027156decbdb0fab",
+    "wof:geomhash":"d49d92c059f8b33156c9d60679d2905d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823145133,
-    "wof:lastmodified":1467083574,
+    "wof:lastmodified":1510696928,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

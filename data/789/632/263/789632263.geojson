@@ -2,14 +2,20 @@
   "id": 789632263,
   "type": "Feature",
   "properties": {
+    "addr:full":"735 Myatt Dr Madison TN 37115",
+    "addr:housenumber":"735",
+    "addr:postcode":"37115",
+    "addr:street":"Myatt Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.696888,36.29445,-86.696888,36.29445",
     "geom:latitude":36.29445,
     "geom:longitude":-86.696888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"735 Myatt Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125151019,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2zI3jFbtN6Z5PVAB2x2uC0_36.294450_-86.696888@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589311,
-    "wof:geomhash":"4c20a9931260049465a660358cd76e77",
+    "wof:geomhash":"74c6a706c3430403d9b6354067f46358",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789632263,
-    "wof:lastmodified":1467083008,
+    "wof:lastmodified":1510693726,
     "wof:name":"Popeye's Chicken & Biscuits",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

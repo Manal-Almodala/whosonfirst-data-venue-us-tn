@@ -2,14 +2,20 @@
   "id": 823269121,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 Kimball Crossing Dr Jasper TN 37347",
+    "addr:housenumber":"525",
+    "addr:postcode":"37347",
+    "addr:street":"Kimball Crossing Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.683441,35.040988,-85.683441,35.040988",
     "geom:latitude":35.040988,
     "geom:longitude":-85.683441,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"525 Kimball Crossing Dr",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086347,
         85814617
     ],
+    "wof:brand_id":1125150221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_35hVPBea5Npm5ZZRDXxvuH_35.040988_-85.683441@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609880,
-    "wof:geomhash":"f4f709f764cf8f241455d68a88b97a59",
+    "wof:geomhash":"b7e73a8269537cf135b4001accba7dae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823269121,
-    "wof:lastmodified":1467083653,
+    "wof:lastmodified":1510699323,
     "wof:name":"Natural Nails",
     "wof:parent_id":85814617,
     "wof:placetype":"venue",

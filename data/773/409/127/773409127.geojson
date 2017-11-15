@@ -2,14 +2,20 @@
   "id": 773409127,
   "type": "Feature",
   "properties": {
+    "addr:full":"1703 Thrasher Pike Hixson TN 37343",
+    "addr:housenumber":"1703",
+    "addr:postcode":"37343",
+    "addr:street":"Thrasher Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.189554,35.188779,-85.189554,35.188779",
     "geom:latitude":35.188779,
     "geom:longitude":-85.189554,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1703 Thrasher Pike",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85824845,
         102087185
     ],
+    "wof:brand_id":420575529,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Uz9VbJtC4I0IHKwneh8Ap_35.188779_-85.189554@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585482,
-    "wof:geomhash":"6cfd1162487c9605bce2145e9fde395d",
+    "wof:geomhash":"01d827e4d3efe4e221bb3198293779b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773409127,
-    "wof:lastmodified":1467082889,
+    "wof:lastmodified":1510602054,
     "wof:name":"American Tower Corp",
     "wof:parent_id":85824845,
     "wof:placetype":"venue",

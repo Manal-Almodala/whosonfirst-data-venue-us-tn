@@ -2,14 +2,20 @@
   "id": 790619677,
   "type": "Feature",
   "properties": {
+    "addr:full":"3464 Lebanon Pike Hermitage TN 37076",
+    "addr:housenumber":"3464",
+    "addr:postcode":"37076",
+    "addr:street":"Lebanon Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.627645,36.18942,-86.627645,36.18942",
     "geom:latitude":36.18942,
     "geom:longitude":-86.627645,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3464 Lebanon Pike",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85824679
     ],
+    "wof:brand_id":1125152889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04p8Au44POjkBbRg5xXIA2_36.189420_-86.627645@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597411,
-    "wof:geomhash":"15f4c11db00ecd7d2afea10792bc207a",
+    "wof:geomhash":"5e9537f6ee17bef0b42f2eb71c844165",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790619677,
-    "wof:lastmodified":1467083250,
+    "wof:lastmodified":1510695967,
     "wof:name":"Mr Transmission",
     "wof:parent_id":85824679,
     "wof:placetype":"venue",

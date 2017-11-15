@@ -2,14 +2,20 @@
   "id": 790498847,
   "type": "Feature",
   "properties": {
+    "addr:full":"1410 Poplar Ave Memphis TN 38104",
+    "addr:housenumber":"1410",
+    "addr:postcode":"38104",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.013087,35.143793,-90.013087,35.143793",
     "geom:latitude":35.143793,
     "geom:longitude":-90.013087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1410 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85851159
     ],
+    "wof:brand_id":1125151779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2vfJSr18BGZSFC53RZOwQI_35.143793_-90.013087@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596359,
-    "wof:geomhash":"261ed033f389e22f39a7abca18dcad10",
+    "wof:geomhash":"7ff8cecd36da5ff7e6badf23836808c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790498847,
-    "wof:lastmodified":1467083217,
+    "wof:lastmodified":1510696080,
     "wof:name":"EZ Pawn Inc",
     "wof:parent_id":85851159,
     "wof:placetype":"venue",

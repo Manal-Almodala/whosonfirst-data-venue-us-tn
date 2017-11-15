@@ -2,14 +2,20 @@
   "id": 790359581,
   "type": "Feature",
   "properties": {
+    "addr:full":"1424 W Baddour Pkwy Lebanon TN 37087",
+    "addr:housenumber":"1424",
+    "addr:postcode":"37087",
+    "addr:street":"W Baddour Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.330421,36.219597,-86.330421,36.219597",
     "geom:latitude":36.219597,
     "geom:longitude":-86.330421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1424 W Baddour Pkwy",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":420575097,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3N6rCsydtScGSs4vdfounA_36.219597_-86.330421@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595221,
-    "wof:geomhash":"246d71601ed0463281285c98521ef1d5",
+    "wof:geomhash":"39ab07586ef3bc7afa0c94306dfd254b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790359581,
-    "wof:lastmodified":1467083182,
+    "wof:lastmodified":1510602920,
     "wof:name":"Laboratory Corporation America",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

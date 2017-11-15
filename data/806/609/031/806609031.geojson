@@ -2,14 +2,20 @@
   "id": 806609031,
   "type": "Feature",
   "properties": {
+    "addr:full":"421 Lester Snapp Rd Limestone TN 37681",
+    "addr:housenumber":"421",
+    "addr:postcode":"37681",
+    "addr:street":"Lester Snapp Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.596219,36.184523,-82.596219,36.184523",
     "geom:latitude":36.184523,
     "geom:longitude":-82.596219,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"421 Lester Snapp Rd",
     "sg:city":"Limestone",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086335,
         85822827
     ],
+    "wof:brand_id":1125159955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xbYsmUQyZ10g7D14cVlBp_36.184523_-82.596219@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599558,
-    "wof:geomhash":"7fe78d0d35dd3030135eb58651a96ef3",
+    "wof:geomhash":"055ae19dc4d1c464a387f1cec77d633a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806609031,
-    "wof:lastmodified":1467083322,
+    "wof:lastmodified":1510693740,
     "wof:name":"New Salem Baptist Church",
     "wof:parent_id":85822827,
     "wof:placetype":"venue",

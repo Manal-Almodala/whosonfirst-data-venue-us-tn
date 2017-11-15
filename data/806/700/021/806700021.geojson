@@ -2,9 +2,14 @@
   "id": 806700021,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Shun Pike Cottontown TN 37048",
+    "addr:housenumber":"125",
+    "addr:postcode":"37048",
+    "addr:street":"Shun Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.602436,36.487425,-86.602436,36.487425",
     "geom:latitude":36.487425,
     "geom:longitude":-86.602436,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -45,6 +51,7 @@
     "wof:geomhash":"dd28733ac850ed6b5039d55390b35b41",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806700021,
-    "wof:lastmodified":1467083348,
+    "wof:lastmodified":1491939191,
     "wof:name":"Getaway Farms LLC",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

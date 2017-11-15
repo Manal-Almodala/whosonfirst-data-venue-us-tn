@@ -2,14 +2,20 @@
   "id": 823272691,
   "type": "Feature",
   "properties": {
+    "addr:full":"214 Broad St Elizabethton TN 37643",
+    "addr:housenumber":"214",
+    "addr:postcode":"37643",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.224377,36.350099,-82.224377,36.350099",
     "geom:latitude":36.350099,
     "geom:longitude":-82.224377,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"214 Broad St",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087053,
         85816779
     ],
+    "wof:brand_id":420573909,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3cjQLgXHAfObOmTXYTlgm3_36.350099_-82.224377@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610015,
-    "wof:geomhash":"96f572335030152a25330469f781fb1d",
+    "wof:geomhash":"88cd662538d7fb0404a79900dc89aa48",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823272691,
-    "wof:lastmodified":1467083658,
+    "wof:lastmodified":1510603481,
     "wof:name":"Walgreens Pharmacies",
     "wof:parent_id":85816779,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790312467,
   "type": "Feature",
   "properties": {
+    "addr:full":"7739 E Brainerd Rd Chattanooga TN 37421",
+    "addr:housenumber":"7739",
+    "addr:postcode":"37421",
+    "addr:street":"E Brainerd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.153143,35.008623,-85.153143,35.008623",
     "geom:latitude":35.008623,
     "geom:longitude":-85.153143,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7739 E Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85805409
     ],
+    "wof:brand_id":1125151931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0EhrHn1vLU8pS0Edri6Bk0_35.008623_-85.153143@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594864,
-    "wof:geomhash":"2730f88e4b60f75f6818c9c5263e11d2",
+    "wof:geomhash":"475915ebff7f41fc0f91cb36595a4001",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790312467,
-    "wof:lastmodified":1467083170,
+    "wof:lastmodified":1510695319,
     "wof:name":"CFIC Home Mortgage",
     "wof:parent_id":85805409,
     "wof:placetype":"venue",

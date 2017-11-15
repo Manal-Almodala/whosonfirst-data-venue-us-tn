@@ -2,14 +2,20 @@
   "id": 806815473,
   "type": "Feature",
   "properties": {
+    "addr:full":"674 N Riverside Dr Clarksville TN 37040",
+    "addr:housenumber":"674",
+    "addr:postcode":"37040",
+    "addr:street":"N Riverside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.366279,36.533787,-87.366279,36.533787",
     "geom:latitude":36.533787,
     "geom:longitude":-87.366279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"674 N Riverside Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086353,
         85836715
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02pAEnlNB4Alg1WSVGEvej_36.533787_-87.366279@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601306,
-    "wof:geomhash":"2282f5583ec08457f099ce0bac22c07f",
+    "wof:geomhash":"98ec4099b8a540345edfa94352d0158e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806815473,
-    "wof:lastmodified":1467083381,
+    "wof:lastmodified":1510694750,
     "wof:name":"O'Charley's",
     "wof:parent_id":85836715,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823262725,
   "type": "Feature",
   "properties": {
+    "addr:full":"337 Garfield St Mcminnville TN 37110",
+    "addr:housenumber":"337",
+    "addr:postcode":"37110",
+    "addr:street":"Garfield St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.782567,35.689759,-85.782567,35.689759",
     "geom:latitude":35.689759,
     "geom:longitude":-85.782567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"337 Garfield St",
     "sg:city":"Mcminnville",
     "sg:classifiers":[
@@ -66,13 +72,14 @@
         102086399,
         420542243
     ],
+    "wof:brand_id":1125153771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4PvxLysrV5uphAq2TsippE_35.689759_-85.782567@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609627,
-    "wof:geomhash":"b7cf758566fafaf6e452fc139f167b78",
+    "wof:geomhash":"f0c0f13d7f966df31c2cdec3787084d0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -85,7 +92,7 @@
         }
     ],
     "wof:id":823262725,
-    "wof:lastmodified":1467083644,
+    "wof:lastmodified":1510693978,
     "wof:name":"Grand Rental Station",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",

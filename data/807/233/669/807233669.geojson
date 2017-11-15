@@ -2,14 +2,20 @@
   "id": 807233669,
   "type": "Feature",
   "properties": {
+    "addr:full":"4532 American Way Memphis TN 38118",
+    "addr:housenumber":"4532",
+    "addr:postcode":"38118",
+    "addr:street":"American Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.909259,35.07311,-89.909259,35.07311",
     "geom:latitude":35.07311,
     "geom:longitude":-89.909259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4532 American Way",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125155953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5WWZqdpTvWvDc4UTpFaBnR_35.073110_-89.909259@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605153,
-    "wof:geomhash":"71a067578cd937f8ee0cca5bec0df9a4",
+    "wof:geomhash":"627e35f8f6007eef63e1a9f82186390b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807233669,
-    "wof:lastmodified":1467083501,
+    "wof:lastmodified":1510698915,
     "wof:name":"Mrs Fields Original Cookies",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

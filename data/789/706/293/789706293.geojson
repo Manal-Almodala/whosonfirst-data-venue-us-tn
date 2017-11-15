@@ -2,14 +2,20 @@
   "id": 789706293,
   "type": "Feature",
   "properties": {
+    "addr:full":"7725 Shallowford Rd Chattanooga TN 37421",
+    "addr:housenumber":"7725",
+    "addr:postcode":"37421",
+    "addr:street":"Shallowford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.13899,35.03626,-85.13899,35.03626",
     "geom:latitude":35.03626,
     "geom:longitude":-85.13899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7725 Shallowford Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85826071,
         102087185
     ],
+    "wof:brand_id":1125159859,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5iuHl2xNLOMeLYlu3oK0QL_35.036260_-85.138990@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589901,
-    "wof:geomhash":"5ef04ca8a1a6da70cd1855b636bb2099",
+    "wof:geomhash":"6e4c0bd726a65afcbc2b2ea9426d2088",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":789706293,
-    "wof:lastmodified":1467083026,
+    "wof:lastmodified":1510696724,
     "wof:name":"First Wesleyan Church",
     "wof:parent_id":85826071,
     "wof:placetype":"venue",

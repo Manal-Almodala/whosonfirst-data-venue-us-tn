@@ -2,14 +2,20 @@
   "id": 806484155,
   "type": "Feature",
   "properties": {
+    "addr:full":"888 S White Station Rd Memphis TN 38117",
+    "addr:housenumber":"888",
+    "addr:postcode":"38117",
+    "addr:street":"S White Station Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.889221,35.107889,-89.889221,35.107889",
     "geom:latitude":35.107889,
     "geom:longitude":-89.889221,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"888 S White Station Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85807811
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4iuS44lhNWYeyDAeNzowRO_35.107889_-89.889221@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598500,
-    "wof:geomhash":"bfce51a28e5078599e3cfa6fc92485e3",
+    "wof:geomhash":"de47868e0ca7a8441e4a7208ee0ff985",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806484155,
-    "wof:lastmodified":1467083288,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85807811,
     "wof:placetype":"venue",

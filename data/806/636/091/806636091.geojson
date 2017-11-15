@@ -2,14 +2,20 @@
   "id": 806636091,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 Castlewood Trl Chattanooga TN 37421",
+    "addr:housenumber":"504",
+    "addr:postcode":"37421",
+    "addr:street":"Castlewood Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.107073,35.013226,-85.107073,35.013226",
     "geom:latitude":35.013226,
     "geom:longitude":-85.107073,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504 Castlewood Trl",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85826071,
         102087185
     ],
+    "wof:brand_id":1125153707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_67bPmqEl2bdOGv1BqpjJeI_35.013226_-85.107073@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599784,
-    "wof:geomhash":"e1b40b92cbcf15f1286dd353aca17fb6",
+    "wof:geomhash":"9667bbbcd7a356033216dae175d14fc8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806636091,
-    "wof:lastmodified":1467083330,
+    "wof:lastmodified":1510693862,
     "wof:name":"Pampered Chef",
     "wof:parent_id":85826071,
     "wof:placetype":"venue",

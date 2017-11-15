@@ -2,14 +2,20 @@
   "id": 790275621,
   "type": "Feature",
   "properties": {
+    "addr:full":"2817 Azalea Pl Nashville TN 37204",
+    "addr:housenumber":"2817",
+    "addr:postcode":"37204",
+    "addr:street":"Azalea Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.767924,36.116749,-86.767924,36.116749",
     "geom:latitude":36.116749,
     "geom:longitude":-86.767924,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2817 Azalea Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85866801
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6b4iMPMK1llZPuzs5JnaO0_36.116749_-86.767924@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594557,
-    "wof:geomhash":"9ee5b523cb1b18d6574749a482f48a2d",
+    "wof:geomhash":"e06ae6b1c336a2c8943e818addd8f674",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790275621,
-    "wof:lastmodified":1467083161,
+    "wof:lastmodified":1510696789,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85866801,
     "wof:placetype":"venue",

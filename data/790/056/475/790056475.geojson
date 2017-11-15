@@ -2,14 +2,20 @@
   "id": 790056475,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Westwood Pl Brentwood TN 37027",
+    "addr:housenumber":"201",
+    "addr:postcode":"37027",
+    "addr:street":"Westwood Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805816,36.035016,-86.805816,36.035016",
     "geom:latitude":36.035016,
     "geom:longitude":-86.805816,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Westwood Pl",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85833469
     ],
+    "wof:brand_id":1125151373,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JprioxRVXEC42whVC6FR7_36.035016_-86.805816@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592790,
-    "wof:geomhash":"03dfdab14f18744b0aa8eb90e94d2c37",
+    "wof:geomhash":"d6af0df39c9ee972ad22cd27318db65f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790056475,
-    "wof:lastmodified":1467083110,
+    "wof:lastmodified":1510695797,
     "wof:name":"Kindercare Child Care Network",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",

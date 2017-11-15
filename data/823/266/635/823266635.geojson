@@ -2,14 +2,20 @@
   "id": 823266635,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Donelson Pike Nashville TN 37214",
+    "addr:housenumber":"307",
+    "addr:postcode":"37214",
+    "addr:street":"Donelson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.66476,36.15826,-86.66476,36.15826",
     "geom:latitude":36.15826,
     "geom:longitude":-86.66476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"307 Donelson Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,13 +58,14 @@
         102087061,
         85811505
     ],
+    "wof:brand_id":420574285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65R6LFldlaJ9xPNfqxiXhq_36.158260_-86.664760@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609777,
-    "wof:geomhash":"d705d3564c2769174b15752da4ecd1fe",
+    "wof:geomhash":"4ba9940f877cdaeffacb931612354b6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -71,7 +78,7 @@
         }
     ],
     "wof:id":823266635,
-    "wof:lastmodified":1467083650,
+    "wof:lastmodified":1510603881,
     "wof:name":"Shelter Insurance",
     "wof:parent_id":85811505,
     "wof:placetype":"venue",

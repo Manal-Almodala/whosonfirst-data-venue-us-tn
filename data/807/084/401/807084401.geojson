@@ -2,14 +2,20 @@
   "id": 807084401,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Nesbitt Ln Madison TN 37115",
+    "addr:housenumber":"205",
+    "addr:postcode":"37115",
+    "addr:street":"Nesbitt Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.711249,36.272796,-86.711249,36.272796",
     "geom:latitude":36.272796,
     "geom:longitude":-86.711249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Nesbitt Ln",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85803051
     ],
+    "wof:brand_id":1125155221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5UxVK47NTadorf0ZMdGt98_36.272796_-86.711249@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603569,
-    "wof:geomhash":"920d5f0865f6b4e416ef761a4a12f24e",
+    "wof:geomhash":"1c66e530e8e706b79c82192b7a8bc8df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807084401,
-    "wof:lastmodified":1467083455,
+    "wof:lastmodified":1510697564,
     "wof:name":"Auto Trim Design",
     "wof:parent_id":85803051,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790318983,
   "type": "Feature",
   "properties": {
+    "addr:full":"6823 Poplar Pike Memphis TN 38119",
+    "addr:housenumber":"6823",
+    "addr:postcode":"38119",
+    "addr:street":"Poplar Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.837361,35.095461,-89.837361,35.095461",
     "geom:latitude":35.095461,
     "geom:longitude":-89.837361,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6823 Poplar Pike",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85823035
     ],
+    "wof:brand_id":1125155049,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_554a3JwHa52PUSGBr5Sx6h_35.095461_-89.837361@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594909,
-    "wof:geomhash":"5abbb9b6ea198bc4d5abd30003c46ba6",
+    "wof:geomhash":"a8e8cf579943cab288358f4d961b050b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790318983,
-    "wof:lastmodified":1467083172,
+    "wof:lastmodified":1510698725,
     "wof:name":"Royal Alliance Associates",
     "wof:parent_id":85823035,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790621237,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 Commonwealth Ave Bristol TN 24201",
+    "addr:housenumber":"624",
+    "addr:postcode":"24201",
+    "addr:street":"Commonwealth Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.192297,36.602752,-82.192297,36.602752",
     "geom:latitude":36.602752,
     "geom:longitude":-82.192297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"624 Commonwealth Ave",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084925,
         85805449
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5NpLB8PKJjZmChO3LLe3MK_36.602752_-82.192297@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597424,
-    "wof:geomhash":"cd4b4859cde18288b1b0bdeb448532e9",
+    "wof:geomhash":"716d7fb7ca34dc0213e0a0f088ec750d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790621237,
-    "wof:lastmodified":1467083251,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85805449,
     "wof:placetype":"venue",

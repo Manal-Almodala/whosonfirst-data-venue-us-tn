@@ -2,14 +2,20 @@
   "id": 823278239,
   "type": "Feature",
   "properties": {
+    "addr:full":"1074 Harbor Club Cir W Memphis TN 38103",
+    "addr:housenumber":"1074",
+    "addr:postcode":"38103",
+    "addr:street":"Harbor Club Cir W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.053171,35.168943,-90.053171,35.168943",
     "geom:latitude":35.168943,
     "geom:longitude":-90.053171,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1074 Harbor Club Cir W",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,13 +57,14 @@
         102087213,
         85893415
     ],
+    "wof:brand_id":1125154091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1LMOTM2FrlxyWZpiDqpprw_35.168943_-90.053171@1303262740"
     },
     "wof:country":"US",
     "wof:created":1462610233,
-    "wof:geomhash":"093dfcf7f191cf051701fe43f1e6fbc4",
+    "wof:geomhash":"11c296fa1bb0123edfdd2e4448103613",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":823278239,
-    "wof:lastmodified":1467083666,
+    "wof:lastmodified":1510699678,
     "wof:name":"Vulcan Materials Company",
     "wof:parent_id":85893415,
     "wof:placetype":"venue",

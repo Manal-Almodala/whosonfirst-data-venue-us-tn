@@ -2,14 +2,20 @@
   "id": 806832865,
   "type": "Feature",
   "properties": {
+    "addr:full":"2259 Hillsboro Blvd Manchester TN 37355",
+    "addr:housenumber":"2259",
+    "addr:postcode":"37355",
+    "addr:street":"Hillsboro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.056121,35.45905,-86.056121,35.45905",
     "geom:latitude":35.45905,
     "geom:longitude":-86.056121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2259 Hillsboro Blvd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85857461,
         102087095
     ],
+    "wof:brand_id":420574021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Um8ruPpDk92PSN81EI870_35.459050_-86.056121@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601447,
-    "wof:geomhash":"81c76f6d23623fd633559ec2b51717a4",
+    "wof:geomhash":"347a1ffc1671eec58bbe2d574f321a48",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806832865,
-    "wof:lastmodified":1467083386,
+    "wof:lastmodified":1510604449,
     "wof:name":"Days Inn",
     "wof:parent_id":85857461,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807106557,
   "type": "Feature",
   "properties": {
+    "addr:full":"3694 S Mendenhall Rd Memphis TN 38115",
+    "addr:housenumber":"3694",
+    "addr:postcode":"38115",
+    "addr:street":"S Mendenhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.886099,35.04807,-89.886099,35.04807",
     "geom:latitude":35.04807,
     "geom:longitude":-89.886099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3694 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85870783,
         85870785
     ],
+    "wof:brand_id":1125159005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GG4cRMYeehD342DryQpOv_35.048070_-89.886099@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603799,
-    "wof:geomhash":"3474544bb5e329612d82ac295c04fac8",
+    "wof:geomhash":"a537ff0fb893da4d36a38b9766534c6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":807106557,
-    "wof:lastmodified":1467083459,
+    "wof:lastmodified":1510697156,
     "wof:name":"Hair Palace",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

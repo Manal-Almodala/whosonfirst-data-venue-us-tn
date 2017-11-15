@@ -2,14 +2,20 @@
   "id": 823291859,
   "type": "Feature",
   "properties": {
+    "addr:full":"7550 Wolf River Blvd Suite 100 Germantown TN 38138",
+    "addr:housenumber":"7550",
+    "addr:postcode":"38138",
+    "addr:street":"Wolf River Blvd Suite 100",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.809941,35.114382,-89.809941,35.114382",
     "geom:latitude":35.114382,
     "geom:longitude":-89.809941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7550 Wolf River Blvd Suite 100",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -51,13 +57,14 @@
         102087213,
         85844747
     ],
+    "wof:brand_id":1125158421,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5K0HlDpVIZCTKenXOz16Ty_35.114382_-89.809941@1303262744"
     },
     "wof:country":"US",
     "wof:created":1462610776,
-    "wof:geomhash":"c4007ba13d01898b1d3a9ea062ac538f",
+    "wof:geomhash":"240dc69cd06dd97f636046362b8de262",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":823291859,
-    "wof:lastmodified":1467083686,
+    "wof:lastmodified":1510694767,
     "wof:name":"Wells Fargo Advisors",
     "wof:parent_id":85844747,
     "wof:placetype":"venue",

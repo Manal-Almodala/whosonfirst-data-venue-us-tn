@@ -2,9 +2,14 @@
   "id": 823262363,
   "type": "Feature",
   "properties": {
+    "addr:full":"144 Hillside Dr Hendersonville TN 37075",
+    "addr:housenumber":"144",
+    "addr:postcode":"37075",
+    "addr:street":"Hillside Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.63044,36.323421,-86.63044,36.323421",
     "geom:latitude":36.323421,
     "geom:longitude":-86.63044,
@@ -44,6 +49,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -58,6 +64,7 @@
     "wof:geomhash":"948da4a8fa77f18b737b388ef5909ebd",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -67,7 +74,7 @@
         }
     ],
     "wof:id":823262363,
-    "wof:lastmodified":1467083644,
+    "wof:lastmodified":1491939191,
     "wof:name":"Mike's Heating & AC",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

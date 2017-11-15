@@ -2,9 +2,14 @@
   "id": 789977107,
   "type": "Feature",
   "properties": {
+    "addr:full":"1268 Lewisburg Pike Franklin TN 37064",
+    "addr:housenumber":"1268",
+    "addr:postcode":"37064",
+    "addr:street":"Lewisburg Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.845941,35.866253,-86.845941,35.866253",
     "geom:latitude":35.866253,
     "geom:longitude":-86.845941,
@@ -29,12 +34,7 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KdH5TCO7HrzqwovdcdL16_35.866253_-86.845941@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462592145,
     "wof:geomhash":"ac567126593539b5c5237d33aac91303",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789977107
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789977107,
-    "wof:lastmodified":1467083091,
+    "wof:lastmodified":1491930828,
     "wof:name":"Henpeck Market",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

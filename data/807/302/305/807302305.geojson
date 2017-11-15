@@ -2,14 +2,20 @@
   "id": 807302305,
   "type": "Feature",
   "properties": {
+    "addr:full":"445 Old Hwy 46 S Dickson TN 37055",
+    "addr:housenumber":"445",
+    "addr:postcode":"37055",
+    "addr:street":"Old Hwy 46 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.332781,36.009236,-87.332781,36.009236",
     "geom:latitude":36.009236,
     "geom:longitude":-87.332781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"445 Old Hwy 46 S",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":420575313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5huuzr7dGJyBIe8jtxSsZC_36.009236_-87.332781@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605876,
-    "wof:geomhash":"677cfa1e8c81840e1cffa1469b56c569",
+    "wof:geomhash":"501f27bc24cf860981990a6850baa578",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807302305,
-    "wof:lastmodified":1467083524,
+    "wof:lastmodified":1510602734,
     "wof:name":"Hibbett Sporting Goods Inc",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

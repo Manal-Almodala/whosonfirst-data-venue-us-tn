@@ -2,14 +2,20 @@
   "id": 806692433,
   "type": "Feature",
   "properties": {
+    "addr:full":"1950 Old Fort Pkwy Murfreesboro TN 37129",
+    "addr:housenumber":"1950",
+    "addr:postcode":"37129",
+    "addr:street":"Old Fort Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.427604,35.846226,-86.427604,35.846226",
     "geom:latitude":35.846226,
     "geom:longitude":-86.427604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1950 Old Fort Pkwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g2hz0ZVwtco5H0RhEoIRe_35.846226_-86.427604@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600276,
-    "wof:geomhash":"feff8c2f5f41ceec7de1825c69831615",
+    "wof:geomhash":"b0e8daf1b3577db992fff18f5db4675d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806692433,
-    "wof:lastmodified":1467083346,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

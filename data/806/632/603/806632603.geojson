@@ -2,14 +2,20 @@
   "id": 806632603,
   "type": "Feature",
   "properties": {
+    "addr:full":"923 S Yates Rd Memphis TN 38120",
+    "addr:housenumber":"923",
+    "addr:postcode":"38120",
+    "addr:street":"S Yates Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.87722,35.107113,-89.87722,35.107113",
     "geom:latitude":35.107113,
     "geom:longitude":-89.87722,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"923 S Yates Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85807811
     ],
+    "wof:brand_id":1125159069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xAIoeuAVy3BEGEkQi9x36_35.107113_-89.877220@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599758,
-    "wof:geomhash":"707c9566c3a8592c19bc1a149495d83b",
+    "wof:geomhash":"1eb5513b939c649c891bea4360a52e80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806632603,
-    "wof:lastmodified":1467083329,
+    "wof:lastmodified":1510694262,
     "wof:name":"Prestige Cleaners",
     "wof:parent_id":85807811,
     "wof:placetype":"venue",

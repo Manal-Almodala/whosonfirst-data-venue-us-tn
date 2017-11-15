@@ -2,14 +2,20 @@
   "id": 823172631,
   "type": "Feature",
   "properties": {
+    "addr:full":"10319 Cogdill Rd Knoxville TN 37932",
+    "addr:housenumber":"",
+    "addr:postcode":"10319;37932",
+    "addr:street":"Cogdill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.130346,35.911933,-84.130346,35.911933",
     "geom:latitude":35.911933,
     "geom:longitude":-84.130346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10319 Cogdill Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85852201
     ],
+    "wof:brand_id":1125155587,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WnTWa6TuQxasYwptCJ6Hv_35.911933_-84.130346@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607965,
-    "wof:geomhash":"ebb30006bd529781c7c8c3150486359b",
+    "wof:geomhash":"116b487bd4ccf918bf0b83db8149ff2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823172631,
-    "wof:lastmodified":1467083587,
+    "wof:lastmodified":1510694029,
     "wof:name":"Contech Construction Prods Inc",
     "wof:parent_id":85852201,
     "wof:placetype":"venue",

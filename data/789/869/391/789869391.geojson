@@ -2,14 +2,20 @@
   "id": 789869391,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S Main St Dickson TN 37055",
+    "addr:housenumber":"300",
+    "addr:postcode":"37055",
+    "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.391314,36.074124,-87.391314,36.074124",
     "geom:latitude":36.074124,
     "geom:longitude":-87.391314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 S Main St",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125157037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vW2uxjkhRbkl1YwJYA30M_36.074124_-87.391314@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591183,
-    "wof:geomhash":"e78a3f8c9fd06aaf3b7bb81461daaacd",
+    "wof:geomhash":"64b48ef5c1ed50ca5f262deeda0d93b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789869391,
-    "wof:lastmodified":1467083065,
+    "wof:lastmodified":1510709782,
     "wof:name":"Picket Fence",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

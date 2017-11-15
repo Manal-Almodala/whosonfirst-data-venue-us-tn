@@ -2,14 +2,20 @@
   "id": 773686783,
   "type": "Feature",
   "properties": {
+    "addr:full":"14950 Rhea County Hwy Evensville TN 37332",
+    "addr:housenumber":"",
+    "addr:postcode":"14950;37332",
+    "addr:street":"Rhea County Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.926508,35.595689,-84.926508,35.595689",
     "geom:latitude":35.595689,
     "geom:longitude":-84.926508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"14950 Rhea County Hwy",
     "sg:city":"Evensville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086477,
         420542035
     ],
+    "wof:brand_id":1125158603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PqktTsitM1x8wzyQngs5P_35.595689_-84.926508@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587592,
-    "wof:geomhash":"37146032137cc5a4874ea54e7de25ef6",
+    "wof:geomhash":"ec2110963b6993d287648bdb482c230e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773686783,
-    "wof:lastmodified":1467082955,
+    "wof:lastmodified":1510698785,
     "wof:name":"Prince Of Peace Lutheran Chr",
     "wof:parent_id":420542035,
     "wof:placetype":"venue",

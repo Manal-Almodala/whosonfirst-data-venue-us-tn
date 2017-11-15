@@ -2,14 +2,20 @@
   "id": 806885927,
   "type": "Feature",
   "properties": {
+    "addr:full":"333 Gallatin Pike S Madison TN 37115",
+    "addr:housenumber":"333",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.713567,36.258657,-86.713567,36.258657",
     "geom:latitude":36.258657,
     "geom:longitude":-86.713567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"333 Gallatin Pike S",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85831883
     ],
+    "wof:brand_id":1125151339,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eggONILGPaRClqxNjUF5L_36.258657_-86.713567@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601899,
-    "wof:geomhash":"1b7684dd5754f5ce971a407c35168f01",
+    "wof:geomhash":"9b174e24555de8b9153cab2e7148870f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806885927,
-    "wof:lastmodified":1467083401,
+    "wof:lastmodified":1510694950,
     "wof:name":"Woodman of World Lf Insur Soc",
     "wof:parent_id":85831883,
     "wof:placetype":"venue",

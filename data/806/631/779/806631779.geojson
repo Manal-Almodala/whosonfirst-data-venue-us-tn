@@ -2,9 +2,14 @@
   "id": 806631779,
   "type": "Feature",
   "properties": {
+    "addr:full":"3026 Trotters Ln Franklin TN 37067",
+    "addr:housenumber":"3026",
+    "addr:postcode":"37067",
+    "addr:street":"Trotters Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800077,35.883345,-86.800077,35.883345",
     "geom:latitude":35.883345,
     "geom:longitude":-86.800077,
@@ -24,12 +29,7 @@
     "sg:postcode":"37067",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WAaheB06XD7Q1iljd0bRU_35.883345_-86.800077@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462599752,
     "wof:geomhash":"d646a96f6f0778a28107c506fbd2be2e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":806631779
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806631779,
-    "wof:lastmodified":1467083329,
+    "wof:lastmodified":1491924949,
     "wof:name":"Kim Harrington",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789592811,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Cooper Ln Winchester TN 37398",
+    "addr:housenumber":"102",
+    "addr:postcode":"37398",
+    "addr:street":"Cooper Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.166659,35.220206,-86.166659,35.220206",
     "geom:latitude":35.220206,
     "geom:longitude":-86.166659,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Cooper Ln",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086227,
         85836143
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_72QqnZZMTvXSPvSvzpFz6P_35.220206_-86.166659@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589006,
-    "wof:geomhash":"0608dbb100f3e4a501180ba99e6f256d",
+    "wof:geomhash":"6a16292c8a2e9d1fe42e4b43e892192b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789592811,
-    "wof:lastmodified":1467082999,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85836143,
     "wof:placetype":"venue",

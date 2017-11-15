@@ -2,14 +2,20 @@
   "id": 823261711,
   "type": "Feature",
   "properties": {
+    "addr:full":"330 Franklin Rd Brentwood TN 37027",
+    "addr:housenumber":"330",
+    "addr:postcode":"37027",
+    "addr:street":"Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.792068,36.027302,-86.792068,36.027302",
     "geom:latitude":36.027302,
     "geom:longitude":-86.792068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 Franklin Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -58,13 +64,14 @@
         102086337,
         85833469
     ],
+    "wof:brand_id":1125156081,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MTwEudJJL0r70dgMaLGcg_36.027302_-86.792068@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609586,
-    "wof:geomhash":"ba6102c24c4aae86c53dbd3362e1e775",
+    "wof:geomhash":"ab838bb26c1db5bdec76c63275f209e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -77,7 +84,7 @@
         }
     ],
     "wof:id":823261711,
-    "wof:lastmodified":1467083643,
+    "wof:lastmodified":1510699300,
     "wof:name":"Fred Astaire Dance Studio",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",

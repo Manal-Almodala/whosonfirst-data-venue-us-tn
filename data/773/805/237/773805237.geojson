@@ -2,14 +2,20 @@
   "id": 773805237,
   "type": "Feature",
   "properties": {
+    "addr:full":"796 E Brooks Rd Memphis TN 38109",
+    "addr:housenumber":"796",
+    "addr:postcode":"38109",
+    "addr:street":"E Brooks Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.037247,35.061947,-90.037247,35.061947",
     "geom:latitude":35.061947,
     "geom:longitude":-90.037247,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"796 E Brooks Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85837045
     ],
+    "wof:brand_id":1125157981,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iOllwUjFqMnQpSbwsImYR_35.061947_-90.037247@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588514,
-    "wof:geomhash":"462b0bf076e71287dcb869ca045ca42a",
+    "wof:geomhash":"5ee068da3f8afbe43b1edfc2b58a3842",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773805237,
-    "wof:lastmodified":1467082984,
+    "wof:lastmodified":1510694790,
     "wof:name":"Teamsters Local Union",
     "wof:parent_id":85837045,
     "wof:placetype":"venue",

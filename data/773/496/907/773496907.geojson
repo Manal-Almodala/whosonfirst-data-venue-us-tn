@@ -2,14 +2,20 @@
   "id": 773496907,
   "type": "Feature",
   "properties": {
+    "addr:full":"7307 Cumberland Dr Fairview TN 37062",
+    "addr:housenumber":"7307",
+    "addr:postcode":"37062",
+    "addr:street":"Cumberland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.140945,35.953852,-87.140945,35.953852",
     "geom:latitude":35.953852,
     "geom:longitude":-87.140945,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7307 Cumberland Dr",
     "sg:city":"Fairview",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086337,
         85822897
     ],
+    "wof:brand_id":1125151343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WFR0JdvyPX7Bm8GFzFZiC_35.953852_-87.140945@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586185,
-    "wof:geomhash":"b18381101f03410b3247528dee2ff0af",
+    "wof:geomhash":"dc1687f7e23b0ef09f33543c6dda7cb5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773496907,
-    "wof:lastmodified":1467082909,
+    "wof:lastmodified":1510694617,
     "wof:name":"Aid Assoc For Lutherans",
     "wof:parent_id":85822897,
     "wof:placetype":"venue",

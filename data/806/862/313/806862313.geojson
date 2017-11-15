@@ -2,14 +2,20 @@
   "id": 806862313,
   "type": "Feature",
   "properties": {
+    "addr:full":"606 N Broad St New Tazewell TN 37825",
+    "addr:housenumber":"606",
+    "addr:postcode":"37825",
+    "addr:street":"N Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.592408,36.446271,-83.592408,36.446271",
     "geom:latitude":36.446271,
     "geom:longitude":-83.592408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"606 N Broad St",
     "sg:city":"New Tazewell",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         101722885,
         85810917
     ],
+    "wof:brand_id":1125159043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69o3o0X9yd5JRr1GcF4gzI_36.446271_-83.592408@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601708,
-    "wof:geomhash":"af5aefe8d83abbd710ed430abcbdbd70",
+    "wof:geomhash":"e8fd20e21c8382a7ee8f34c5be6a6c66",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":806862313,
-    "wof:lastmodified":1467083394,
+    "wof:lastmodified":1510613107,
     "wof:name":"Medical Center Pharmacy",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

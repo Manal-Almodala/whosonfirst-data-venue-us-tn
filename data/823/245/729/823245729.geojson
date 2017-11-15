@@ -2,14 +2,20 @@
   "id": 823245729,
   "type": "Feature",
   "properties": {
+    "addr:full":"727 Thompson Ln Nashville TN 37204",
+    "addr:housenumber":"727",
+    "addr:postcode":"37204",
+    "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.765847,36.112176,-86.765847,36.112176",
     "geom:latitude":36.112176,
     "geom:longitude":-86.765847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"727 Thompson Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85843601
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6lqNX3931mw8LBYi98WJMW_36.112176_-86.765847@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609255,
-    "wof:geomhash":"ac1c5c2068f12bafe97471833e00fe2e",
+    "wof:geomhash":"dc788f19a080c82d2c3358701790e005",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823245729,
-    "wof:lastmodified":1467083632,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",

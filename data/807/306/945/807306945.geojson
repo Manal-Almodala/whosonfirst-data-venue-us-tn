@@ -2,14 +2,20 @@
   "id": 807306945,
   "type": "Feature",
   "properties": {
+    "addr:full":"4375 Stage Rd Memphis TN 38128",
+    "addr:housenumber":"4375",
+    "addr:postcode":"38128",
+    "addr:street":"Stage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.917375,35.205493,-89.917375,35.205493",
     "geom:latitude":35.205493,
     "geom:longitude":-89.917375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4375 Stage Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":1125153361,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0XIIU3QJDxWOBtrtADHQYr_35.205493_-89.917375@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605928,
-    "wof:geomhash":"3896c90ae4ed22647609ea0cc5372c53",
+    "wof:geomhash":"aada70cd4d2cf409e77a87102cc1f488",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807306945,
-    "wof:lastmodified":1467083526,
+    "wof:lastmodified":1510699403,
     "wof:name":"China Chef",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

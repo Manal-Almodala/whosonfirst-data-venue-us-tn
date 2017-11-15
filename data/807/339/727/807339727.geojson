@@ -2,9 +2,14 @@
   "id": 807339727,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Lake Valley Dr Franklin TN 37069",
+    "addr:housenumber":"360",
+    "addr:postcode":"37069",
+    "addr:street":"Lake Valley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.879845,35.983535,-86.879845,35.983535",
     "geom:latitude":35.983535,
     "geom:longitude":-86.879845,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -43,6 +49,7 @@
     "wof:geomhash":"a443541e51f87e8de921f8df904a12b2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807339727,
-    "wof:lastmodified":1467083540,
+    "wof:lastmodified":1491924182,
     "wof:name":"Mary T Davis",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

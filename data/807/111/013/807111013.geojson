@@ -2,14 +2,20 @@
   "id": 807111013,
   "type": "Feature",
   "properties": {
+    "addr:full":"1370 Union Ave Memphis TN 38104",
+    "addr:housenumber":"1370",
+    "addr:postcode":"38104",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.016023,35.136863,-90.016023,35.136863",
     "geom:latitude":35.136863,
     "geom:longitude":-90.016023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1370 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85846027
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xWRecKkM2JhRv1YdJFfZh_35.136863_-90.016023@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603843,
-    "wof:geomhash":"bef096252aa00c82bfaa1991ae75de3e",
+    "wof:geomhash":"c71e6a056a32c3d9a6ed7ee4ced23ece",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807111013,
-    "wof:lastmodified":1467083460,
+    "wof:lastmodified":1510697539,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",

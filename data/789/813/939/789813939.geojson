@@ -2,14 +2,20 @@
   "id": 789813939,
   "type": "Feature",
   "properties": {
+    "addr:full":"2143 E Broadway Ave Maryville TN 37804",
+    "addr:housenumber":"2143",
+    "addr:postcode":"37804",
+    "addr:street":"E Broadway Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.949424,35.78139,-83.949424,35.78139",
     "geom:latitude":35.78139,
     "geom:longitude":-83.949424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2143 E Broadway Ave",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087017,
         420541391
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Oof1OZMPG4P0Dix89u8NH_35.781390_-83.949424@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590745,
-    "wof:geomhash":"89c59ffb34bf0ecac24e36d555af8adb",
+    "wof:geomhash":"18ec57595d3bc08e16754d6c2624089d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789813939,
-    "wof:lastmodified":1467083051,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":420541391,
     "wof:placetype":"venue",

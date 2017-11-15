@@ -2,14 +2,20 @@
   "id": 806949465,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"625",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.710563,36.270131,-86.710563,36.270131",
     "geom:latitude":36.270131,
     "geom:longitude":-86.710563,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85803051
     ],
+    "wof:brand_id":1125153715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0LIb7bsWZFFSuTv2dCw71d_36.270131_-86.710563@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602433,
-    "wof:geomhash":"0111d71f07ba7c4d6088a6a6602b1500",
+    "wof:geomhash":"60a6a3ac623b2505d761608782f017e6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806949465,
-    "wof:lastmodified":1467083418,
+    "wof:lastmodified":1510694612,
     "wof:name":"Rodeway Inn",
     "wof:parent_id":85803051,
     "wof:placetype":"venue",

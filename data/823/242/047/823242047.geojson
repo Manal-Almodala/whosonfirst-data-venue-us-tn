@@ -2,14 +2,20 @@
   "id": 823242047,
   "type": "Feature",
   "properties": {
+    "addr:full":"493 Old Hickory Blvd Brentwood TN 37027",
+    "addr:housenumber":"493",
+    "addr:postcode":"37027",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.746478,36.040274,-86.746478,36.040274",
     "geom:latitude":36.040274,
     "geom:longitude":-86.746478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"493 Old Hickory Blvd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85839247
     ],
+    "wof:brand_id":1125156845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3oAGUAB6kuuqxpwImAuVuP_36.040274_-86.746478@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609186,
-    "wof:geomhash":"2fb334b72d5d15e25aadf426baf3f280",
+    "wof:geomhash":"9afd1053fdc3f1b1a04ab2fe132d5d15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823242047,
-    "wof:lastmodified":1467083629,
+    "wof:lastmodified":1510696904,
     "wof:name":"Snappy Tomato Pizza",
     "wof:parent_id":85839247,
     "wof:placetype":"venue",

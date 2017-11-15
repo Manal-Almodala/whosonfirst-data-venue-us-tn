@@ -2,14 +2,20 @@
   "id": 789940077,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Woodmere Mall Crossville TN 38555",
+    "addr:housenumber":"100",
+    "addr:postcode":"38555",
+    "addr:street":"Woodmere Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.030144,35.956917,-85.030144,35.956917",
     "geom:latitude":35.956917,
     "geom:longitude":-85.030144,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Woodmere Mall",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KQhmWhUoNvgUZCU5Hr4hV_35.956917_-85.030144@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591788,
-    "wof:geomhash":"d54b2103cae6017796421c1a3027c6b6",
+    "wof:geomhash":"5489d95396d5a164808fbe81cd267c18",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789940077,
-    "wof:lastmodified":1467083082,
+    "wof:lastmodified":1510698755,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

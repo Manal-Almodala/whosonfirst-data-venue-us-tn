@@ -2,14 +2,20 @@
   "id": 823260221,
   "type": "Feature",
   "properties": {
+    "addr:full":"7990 Trinity Rd Cordova TN 38018",
+    "addr:housenumber":"7990",
+    "addr:postcode":"38018",
+    "addr:street":"Trinity Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.797043,35.142273,-89.797043,35.142273",
     "geom:latitude":35.142273,
     "geom:longitude":-89.797043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7990 Trinity Rd",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102087213,
         85844747
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2lveib6e4YkONrJQHLof0H_35.142342_-89.796675@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609556,
-    "wof:geomhash":"9ee4a3d4e210aa2910104df6eeae4b59",
+    "wof:geomhash":"e72bf4945b7c1a80ca2d7f0f196a2219",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":823260221,
-    "wof:lastmodified":1467083642,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85844747,
     "wof:placetype":"venue",

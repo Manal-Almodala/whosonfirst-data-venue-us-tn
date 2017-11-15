@@ -2,14 +2,20 @@
   "id": 790300075,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Tusculum Blvd Greeneville TN 37745",
+    "addr:housenumber":"311",
+    "addr:postcode":"37745",
+    "addr:street":"Tusculum Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.826707,36.166455,-82.826707,36.166455",
     "geom:latitude":36.166455,
     "geom:longitude":-82.826707,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Tusculum Blvd",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086377,
         85826147
     ],
+    "wof:brand_id":1125152473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2pdXXztjZAKEFrEgLjvgQ9_36.166455_-82.826707@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594769,
-    "wof:geomhash":"7dbe14677f2cbe791aa04c39b9dd60f9",
+    "wof:geomhash":"9699ee863e84a92b3365959757c52ce7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790300075,
-    "wof:lastmodified":1467083167,
+    "wof:lastmodified":1510696663,
     "wof:name":"Finders Keepers",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",

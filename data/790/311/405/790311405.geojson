@@ -2,14 +2,20 @@
   "id": 790311405,
   "type": "Feature",
   "properties": {
+    "addr:full":"616 S James Campbell Blvd Columbia TN 38401",
+    "addr:housenumber":"616",
+    "addr:postcode":"38401",
+    "addr:street":"S James Campbell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.052602,35.593561,-87.052602,35.593561",
     "geom:latitude":35.593561,
     "geom:longitude":-87.052602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"616 S James Campbell Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087107,
         420541937
     ],
+    "wof:brand_id":1125151261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6T2diwrTMsDxyXIpnlf4X3_35.593561_-87.052602@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594857,
-    "wof:geomhash":"93f4aad1e4d0076bd53962c11b8330ae",
+    "wof:geomhash":"409397391ce46d1d576aafc813e19683",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790311405,
-    "wof:lastmodified":1467083170,
+    "wof:lastmodified":1510699355,
     "wof:name":"Express Oil Change",
     "wof:parent_id":420541937,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806716471,
   "type": "Feature",
   "properties": {
+    "addr:full":"4330 Ringgold Rd Chattanooga TN 37412",
+    "addr:housenumber":"4330",
+    "addr:postcode":"37412",
+    "addr:street":"Ringgold Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.23782,34.995794,-85.23782,34.995794",
     "geom:latitude":34.995794,
     "geom:longitude":-85.23782,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4330 Ringgold Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85805687
     ],
+    "wof:brand_id":420574965,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7kizqPU3ol2tQmEgOGoL1g_34.995794_-85.237820@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600472,
-    "wof:geomhash":"42832813fa6eae4cb0cc26c74212f240",
+    "wof:geomhash":"ad7897075f1d1fc50ce89da6f692a8cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806716471,
-    "wof:lastmodified":1467083353,
+    "wof:lastmodified":1510604742,
     "wof:name":"Allied Home Mortgage Capital",
     "wof:parent_id":85805687,
     "wof:placetype":"venue",

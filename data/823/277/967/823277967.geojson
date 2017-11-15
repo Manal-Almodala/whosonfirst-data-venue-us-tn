@@ -2,6 +2,10 @@
   "id": 823277967,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Wagner Pl Apt 902 Memphis TN 38103",
+    "addr:housenumber":"200;902",
+    "addr:postcode":"38103",
+    "addr:street":"Wagner Pl Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":823277967,
-    "wof:lastmodified":1467083666,
+    "wof:lastmodified":1472645741,
     "wof:name":"Thompson Holdings",
     "wof:parent_id":85867183,
     "wof:placetype":"venue",

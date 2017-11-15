@@ -2,14 +2,20 @@
   "id": 823260271,
   "type": "Feature",
   "properties": {
+    "addr:full":"22 N Front St Memphis TN 38103",
+    "addr:housenumber":"22",
+    "addr:postcode":"38103",
+    "addr:street":"N Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.053875,35.146171,-90.053875,35.146171",
     "geom:latitude":35.146171,
     "geom:longitude":-90.053875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"22 N Front St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85867179
     ],
+    "wof:brand_id":1125151073,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2OFRzuzp9Ql5QMS13oZLov_35.146560_-90.053716@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609557,
-    "wof:geomhash":"d60e390831abfee7f81738cc0a5a017a",
+    "wof:geomhash":"f6a41778bf273e4c9ae7e828a7af5553",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823260271,
-    "wof:lastmodified":1467083642,
+    "wof:lastmodified":1510696090,
     "wof:name":"Lenny's Sub Shop",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",

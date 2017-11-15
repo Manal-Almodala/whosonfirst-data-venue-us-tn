@@ -2,14 +2,20 @@
   "id": 789895959,
   "type": "Feature",
   "properties": {
+    "addr:full":"6393 Winchester Rd Memphis TN 38115",
+    "addr:housenumber":"6393",
+    "addr:postcode":"38115",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.848888,35.049531,-89.848888,35.049531",
     "geom:latitude":35.049531,
     "geom:longitude":-89.848888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6393 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":1125157747,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RECMIXoawKxKL7XL4hXec_35.049531_-89.848888@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591412,
-    "wof:geomhash":"4987f0c8fc8bbf1fd8fdfa265b49013f",
+    "wof:geomhash":"16608f90dc7487f903b55f8aa541abea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789895959,
-    "wof:lastmodified":1467083071,
+    "wof:lastmodified":1510699019,
     "wof:name":"Value City Furniture",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

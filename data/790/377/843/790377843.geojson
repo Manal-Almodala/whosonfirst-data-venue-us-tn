@@ -2,14 +2,20 @@
   "id": 790377843,
   "type": "Feature",
   "properties": {
+    "addr:full":"5700 Charlotte Pike Nashville TN 37209",
+    "addr:housenumber":"5700",
+    "addr:postcode":"37209",
+    "addr:street":"Charlotte Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.865178,36.14879,-86.865178,36.14879",
     "geom:latitude":36.14879,
     "geom:longitude":-86.865178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5700 Charlotte Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85855987
     ],
+    "wof:brand_id":420575353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6I4ZMUMmMqhForRbEnqd6k_36.148790_-86.865178@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595366,
-    "wof:geomhash":"0316c8affd4a315e890a1dbdb8fe7792",
+    "wof:geomhash":"83f802800223738b2def08c854673847",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790377843,
-    "wof:lastmodified":1467083186,
+    "wof:lastmodified":1510601965,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85855987,
     "wof:placetype":"venue",

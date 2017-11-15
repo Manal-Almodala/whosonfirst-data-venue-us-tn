@@ -2,14 +2,20 @@
   "id": 790380623,
   "type": "Feature",
   "properties": {
+    "addr:full":"418 N State of Franklin Rd Johnson City TN 37604",
+    "addr:housenumber":"418",
+    "addr:postcode":"37604",
+    "addr:street":"N State Of Franklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.386513,36.310672,-82.386513,36.310672",
     "geom:latitude":36.310672,
     "geom:longitude":-82.386513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"418 N State of Franklin Rd",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102086335,
         420542269
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5GIUSsc3HviFdzzyw08O36_36.310672_-82.386513@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595385,
-    "wof:geomhash":"d934326c852d4dde783c8c128062d0ab",
+    "wof:geomhash":"40ca6ca1bde87d6fba5f24e0d5e39001",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":790380623,
-    "wof:lastmodified":1467083187,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":420542269,
     "wof:placetype":"venue",

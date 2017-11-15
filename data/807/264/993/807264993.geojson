@@ -2,9 +2,14 @@
   "id": 807264993,
   "type": "Feature",
   "properties": {
+    "addr:full":"1011 Cherry Springs Dr Cottontown TN 37048",
+    "addr:housenumber":"1011",
+    "addr:postcode":"37048",
+    "addr:street":"Cherry Springs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.640682,36.511995,-86.640682,36.511995",
     "geom:latitude":36.511995,
     "geom:longitude":-86.640682,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"fab7fda3a20c70c853baa8611c0286fb",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807264993,
-    "wof:lastmodified":1467083511,
+    "wof:lastmodified":1491939207,
     "wof:name":"Data Documents",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

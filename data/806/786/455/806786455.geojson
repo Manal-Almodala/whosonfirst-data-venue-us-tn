@@ -2,9 +2,14 @@
   "id": 806786455,
   "type": "Feature",
   "properties": {
+    "addr:full":"1120 Davidson Rd Nashville TN 37205",
+    "addr:housenumber":"1120",
+    "addr:postcode":"37205",
+    "addr:street":"Davidson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.896003,36.122181,-86.896003,36.122181",
     "geom:latitude":36.122181,
     "geom:longitude":-86.896003,
@@ -30,7 +35,7 @@
         85633793,
         101723183,
         102087061,
-        85855925
+        85855987
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,15 +50,15 @@
             "country_id":85633793,
             "county_id":102087061,
             "locality_id":101723183,
-            "neighbourhood_id":85855925,
+            "neighbourhood_id":85855987,
             "region_id":85688701,
             "venue_id":806786455
         }
     ],
     "wof:id":806786455,
-    "wof:lastmodified":1467083373,
+    "wof:lastmodified":1491929411,
     "wof:name":"Mike Miller Yards",
-    "wof:parent_id":85855925,
+    "wof:parent_id":85855987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

@@ -2,9 +2,14 @@
   "id": 773407289,
   "type": "Feature",
   "properties": {
+    "addr:full":"4362 Arno Rd Franklin TN 37064",
+    "addr:housenumber":"4362",
+    "addr:postcode":"37064",
+    "addr:street":"Arno Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.782673,35.869911,-86.782673,35.869911",
     "geom:latitude":35.869911,
     "geom:longitude":-86.782673,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3x4uxSVwAUIblCNF8E42y2_35.869911_-86.782673@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462585469,
     "wof:geomhash":"105fb38c988c835fa05849bb75a17572",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":773407289
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773407289,
-    "wof:lastmodified":1467082888,
+    "wof:lastmodified":1491924955,
     "wof:name":"Crycorp LLC",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

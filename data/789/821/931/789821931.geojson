@@ -2,14 +2,20 @@
   "id": 789821931,
   "type": "Feature",
   "properties": {
+    "addr:full":"47 Commodore Dr Mc Minnville TN 37110",
+    "addr:housenumber":"47",
+    "addr:postcode":"37110",
+    "addr:street":"Commodore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.808275,35.69475,-85.808275,35.69475",
     "geom:latitude":35.69475,
     "geom:longitude":-85.808275,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"47 Commodore Dr",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086399,
         420542243
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N9Vw18qDolP3YJVbvHeMY_35.694750_-85.808275@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590807,
-    "wof:geomhash":"3197dbce07fb63e217224c9f862a36f4",
+    "wof:geomhash":"140fd07cabcba4c9ca47f17187090ca6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789821931,
-    "wof:lastmodified":1467083053,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",

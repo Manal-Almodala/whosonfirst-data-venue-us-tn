@@ -2,14 +2,20 @@
   "id": 806723683,
   "type": "Feature",
   "properties": {
+    "addr:full":"113 Millstone Way Murfreesboro TN 37188",
+    "addr:housenumber":"113",
+    "addr:postcode":"37188",
+    "addr:street":"Millstone Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.644146,36.44518,-86.644146,36.44518",
     "geom:latitude":36.44518,
     "geom:longitude":-86.644146,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"113 Millstone Way",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -29,20 +35,23 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
         85825691
     ],
+    "wof:brand_id":1125153109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73m1wLIq4JMhyCwaiT4Ghr_36.445180_-86.644146@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600534,
-    "wof:geomhash":"c0a5719b73e78e49121f6f5edc0a305d",
+    "wof:geomhash":"5c3f0ad7b51347a75086578590bf17c1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +61,7 @@
         }
     ],
     "wof:id":806723683,
-    "wof:lastmodified":1467083355,
+    "wof:lastmodified":1510695986,
     "wof:name":"Lunch Box",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773564457,
   "type": "Feature",
   "properties": {
+    "addr:full":"1007 Cherry Springs Dr Cottontown TN 37048",
+    "addr:housenumber":"1007",
+    "addr:postcode":"37048",
+    "addr:street":"Cherry Springs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.641224,36.511828,-86.641224,36.511828",
     "geom:latitude":36.511828,
     "geom:longitude":-86.641224,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"4bee031cad12bc9e7f94d173f4f1a150",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773564457,
-    "wof:lastmodified":1467082926,
+    "wof:lastmodified":1491939227,
     "wof:name":"Jon Payne Photography",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

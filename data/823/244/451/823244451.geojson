@@ -2,14 +2,20 @@
   "id": 823244451,
   "type": "Feature",
   "properties": {
+    "addr:full":"505 Cason Ln Murfreesboro TN 37128",
+    "addr:housenumber":"505",
+    "addr:postcode":"37128",
+    "addr:street":"Cason Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.440649,35.841677,-86.440649,35.841677",
     "geom:latitude":35.841677,
     "geom:longitude":-86.440649,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"505 Cason Ln",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125150837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Sca18po6zame2Jy9qoure_35.841677_-86.440649@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609227,
-    "wof:geomhash":"393d37a85df1e82124159662fdbcfa21",
+    "wof:geomhash":"decbf02669a475af429f02e8114ef66f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823244451,
-    "wof:lastmodified":1467083631,
+    "wof:lastmodified":1510695416,
     "wof:name":"Maggie Moo's",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

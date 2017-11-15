@@ -2,14 +2,20 @@
   "id": 823276249,
   "type": "Feature",
   "properties": {
+    "addr:full":"4910 Fox Springs Dr Collierville TN 38017",
+    "addr:housenumber":"4910",
+    "addr:postcode":"38017",
+    "addr:street":"Fox Springs Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.710901,35.014442,-89.710901,35.014442",
     "geom:latitude":35.014442,
     "geom:longitude":-89.710901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4910 Fox Springs Dr",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":420575183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wri9q8zqrMxmZfQfSoLiA_35.014442_-89.710901@1303262740"
     },
     "wof:country":"US",
     "wof:created":1462610161,
-    "wof:geomhash":"f6af76be75cfa0a59a7b39bb57cb5bcd",
+    "wof:geomhash":"f38eccf017e01699774634656ea38311",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":823276249,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510602863,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

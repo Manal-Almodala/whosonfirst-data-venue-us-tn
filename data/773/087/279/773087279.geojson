@@ -2,14 +2,20 @@
   "id": 773087279,
   "type": "Feature",
   "properties": {
+    "addr:full":"5612 Lenox Ave Nashville TN 37209",
+    "addr:housenumber":"5612",
+    "addr:postcode":"37209",
+    "addr:street":"Lenox Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.858271,36.148385,-86.858271,36.148385",
     "geom:latitude":36.148385,
     "geom:longitude":-86.858271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5612 Lenox Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85855987
     ],
+    "wof:brand_id":1125158927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08aLB5cFhQsn9qj92jjbNO_36.148385_-86.858271@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583061,
-    "wof:geomhash":"3c500af64c40f06b79faa4957c35366b",
+    "wof:geomhash":"2037a1c5a0c669922a6ba633b57c1f43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773087279,
-    "wof:lastmodified":1467082800,
+    "wof:lastmodified":1510695733,
     "wof:name":"Baymont Inn & Suites",
     "wof:parent_id":85855987,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806955907,
   "type": "Feature",
   "properties": {
+    "addr:full":"104 S Thompson Ave Oneida TN 37841",
+    "addr:housenumber":"104",
+    "addr:postcode":"37841",
+    "addr:street":"S Thompson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.514675,36.501778,-84.514675,36.501778",
     "geom:latitude":36.501778,
     "geom:longitude":-84.514675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"104 S Thompson Ave",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087113,
         420542103
     ],
+    "wof:brand_id":1125150135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XOyi6FFXaT02eUYWSjy7V_36.501778_-84.514675@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602493,
-    "wof:geomhash":"d3c081c535bb71d258a82ff55d26c50d",
+    "wof:geomhash":"f7b170fd2311c52344f0fe00290ce533",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806955907,
-    "wof:lastmodified":1467083420,
+    "wof:lastmodified":1510696872,
     "wof:name":"Mane Attraction",
     "wof:parent_id":420542103,
     "wof:placetype":"venue",

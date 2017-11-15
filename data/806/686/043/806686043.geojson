@@ -2,14 +2,20 @@
   "id": 806686043,
   "type": "Feature",
   "properties": {
+    "addr:full":"51 Conrad Dr Jackson TN 38305",
+    "addr:housenumber":"51",
+    "addr:postcode":"38305",
+    "addr:street":"Conrad Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.849281,35.645471,-88.849281,35.645471",
     "geom:latitude":35.645471,
     "geom:longitude":-88.849281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"51 Conrad Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125151021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VGqtK483LAD7RVTV5ier9_35.645471_-88.849281@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600223,
-    "wof:geomhash":"2cd686f434551b06260c69b934f6e837",
+    "wof:geomhash":"4f635a93e65f64c941149b5c8797255b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806686043,
-    "wof:lastmodified":1467083344,
+    "wof:lastmodified":1510699657,
     "wof:name":"Standard Register Company",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

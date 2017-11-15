@@ -2,9 +2,14 @@
   "id": 806814327,
   "type": "Feature",
   "properties": {
+    "addr:full":"4288 Warren Rd Franklin TN 37067",
+    "addr:housenumber":"4288",
+    "addr:postcode":"37067",
+    "addr:street":"Warren Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.807534,35.893413,-86.807534,35.893413",
     "geom:latitude":35.893413,
     "geom:longitude":-86.807534,
@@ -28,12 +33,7 @@
         "insurance"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_16zITo0bUzcCDU8wJszA9i_35.893413_-86.807534@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462601298,
     "wof:geomhash":"e2ad85f5d27c325356b55c9b8586c4da",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":806814327
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806814327,
-    "wof:lastmodified":1467083381,
+    "wof:lastmodified":1491924952,
     "wof:name":"Grange Mutual Casualty Company",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

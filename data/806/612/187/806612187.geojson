@@ -2,14 +2,20 @@
   "id": 806612187,
   "type": "Feature",
   "properties": {
+    "addr:full":"4465 Poplar Ave Memphis TN 38117",
+    "addr:housenumber":"4465",
+    "addr:postcode":"38117",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.912947,35.11873,-89.912947,35.11873",
     "geom:latitude":35.11873,
     "geom:longitude":-89.912947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4465 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087213,
         85867185
     ],
+    "wof:brand_id":1125151913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_14F51ftfLthvr8yaduulgD_35.118730_-89.912947@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599584,
-    "wof:geomhash":"b2870d02006a4b5869eb145168bf0dfb",
+    "wof:geomhash":"f05553320a43008ca4826782902c1b24",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806612187,
-    "wof:lastmodified":1467083323,
+    "wof:lastmodified":1510699396,
     "wof:name":"Steak Escape",
     "wof:parent_id":85867185,
     "wof:placetype":"venue",

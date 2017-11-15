@@ -2,14 +2,20 @@
   "id": 790015967,
   "type": "Feature",
   "properties": {
+    "addr:full":"1750 Linden Hwy Clifton TN 38425",
+    "addr:housenumber":"1750",
+    "addr:postcode":"38425",
+    "addr:street":"Linden Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.964771,35.425184,-87.964771,35.425184",
     "geom:latitude":35.425184,
     "geom:longitude":-87.964771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1750 Linden Hwy",
     "sg:city":"Clifton",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85814781,
         102087175
     ],
+    "wof:brand_id":1125154091,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FLoq2p5FptWRsUnF6kEo9_35.425184_-87.964771@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592458,
-    "wof:geomhash":"7db53e6fd5371b828fa0c034a7358d76",
+    "wof:geomhash":"6e68affbca6ed388f34bceba7b7ed485",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790015967,
-    "wof:lastmodified":1467083100,
+    "wof:lastmodified":1510699677,
     "wof:name":"Vulcan Materials Company",
     "wof:parent_id":85814781,
     "wof:placetype":"venue",

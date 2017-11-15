@@ -2,14 +2,20 @@
   "id": 806891727,
   "type": "Feature",
   "properties": {
+    "addr:full":"3620 Hartford Rd Hartford TN 37753",
+    "addr:housenumber":"3620",
+    "addr:postcode":"37753",
+    "addr:street":"Hartford Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.144531,35.814357,-83.144531,35.814357",
     "geom:latitude":35.814357,
     "geom:longitude":-83.144531,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3620 Hartford Rd",
     "sg:city":"Hartford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086241,
         85827351
     ],
+    "wof:brand_id":1125157561,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0hcX5dpMp1nVdG6xCy070R_35.814357_-83.144531@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601945,
-    "wof:geomhash":"0f9d0cecd1a78892f5ed416cfed401b3",
+    "wof:geomhash":"3d81997a0272494546907a036e6914dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806891727,
-    "wof:lastmodified":1467083402,
+    "wof:lastmodified":1510699303,
     "wof:name":"Bellsouth",
     "wof:parent_id":85827351,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790173469,
   "type": "Feature",
   "properties": {
+    "addr:full":"1989 Old Fort Pkwy Murfreesboro TN 37129",
+    "addr:housenumber":"1989",
+    "addr:postcode":"37129",
+    "addr:street":"Old Fort Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.427408,35.846191,-86.427408,35.846191",
     "geom:latitude":35.846191,
     "geom:longitude":-86.427408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1989 Old Fort Pkwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":420575313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4FJpEy2IOLA9MocPl8t3h0_35.846191_-86.427408@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593723,
-    "wof:geomhash":"61f5e1c82d770bdde250d27bf7995b6e",
+    "wof:geomhash":"b439996d0d6310f47367a52a4b4c244e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790173469,
-    "wof:lastmodified":1467083138,
+    "wof:lastmodified":1510602733,
     "wof:name":"Hibbett Sporting Goods Inc",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790474085,
   "type": "Feature",
   "properties": {
+    "addr:full":"1134 Gallatin Pike S Madison TN 37115",
+    "addr:housenumber":"1134",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.719965,36.248495,-86.719965,36.248495",
     "geom:latitude":36.248495,
     "geom:longitude":-86.719965,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1134 Gallatin Pike S",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85834867
     ],
+    "wof:brand_id":1125154507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5QmfCAvuj1yWIprQFmDh4I_36.248495_-86.719965@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596144,
-    "wof:geomhash":"86b789ef39350b35fcca64dd26ad2e6e",
+    "wof:geomhash":"d9d6db54d16ada62b9b03b23d8c5bd70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790474085,
-    "wof:lastmodified":1467083210,
+    "wof:lastmodified":1510696741,
     "wof:name":"A J Wright",
     "wof:parent_id":85834867,
     "wof:placetype":"venue",

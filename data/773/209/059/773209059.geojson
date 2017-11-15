@@ -2,14 +2,20 @@
   "id": 773209059,
   "type": "Feature",
   "properties": {
+    "addr:full":"390 Harding Pl Nashville TN 37211",
+    "addr:housenumber":"390",
+    "addr:postcode":"37211",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.720191,36.080424,-86.720191,36.080424",
     "geom:latitude":36.080424,
     "geom:longitude":-86.720191,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"390 Harding Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087061,
         420541539
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3zVCht47bU8A9E5UhaX1s7_36.080424_-86.720191@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583990,
-    "wof:geomhash":"7b2bf68e96604afdd3e2c31414fc226e",
+    "wof:geomhash":"3bc41fe810f20b1addff69c414c2d14c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":773209059,
-    "wof:lastmodified":1467082831,
+    "wof:lastmodified":1510698755,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":420541539,
     "wof:placetype":"venue",

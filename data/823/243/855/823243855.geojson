@@ -2,14 +2,20 @@
   "id": 823243855,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Legends Dr Lebanon TN 37087",
+    "addr:housenumber":"155",
+    "addr:postcode":"37087",
+    "addr:street":"Legends Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.292527,36.188872,-86.292527,36.188872",
     "geom:latitude":36.188872,
     "geom:longitude":-86.292527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 Legends Dr",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125150837,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_03zUxNwysx5xrkj2uW0Wlh_36.188872_-86.292527@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609217,
-    "wof:geomhash":"6c99eb4e2b2cc19f1d2bd86a1b3b9626",
+    "wof:geomhash":"6df7bec4b88157a30201a68b0be79de5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823243855,
-    "wof:lastmodified":1467083631,
+    "wof:lastmodified":1510695416,
     "wof:name":"Maggie Moo's",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790179667,
   "type": "Feature",
   "properties": {
+    "addr:full":"1421 Elm Hill Pike Nashville TN 37210",
+    "addr:housenumber":"1421",
+    "addr:postcode":"37210",
+    "addr:street":"Elm Hill Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.723028,36.143871,-86.723028,36.143871",
     "geom:latitude":36.143871,
     "geom:longitude":-86.723028,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1421 Elm Hill Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087061,
         85822001
     ],
+    "wof:brand_id":1125155471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wPYpgy5WIfBqy2HL7shAR_36.143871_-86.723028@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593771,
-    "wof:geomhash":"0e33e2b404065a9e91a1c3459285e80c",
+    "wof:geomhash":"74b9ffa3777cc82a8618658cf44907d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":790179667,
-    "wof:lastmodified":1467083139,
+    "wof:lastmodified":1510612912,
     "wof:name":"Concentra Medical Center",
     "wof:parent_id":85822001,
     "wof:placetype":"venue",

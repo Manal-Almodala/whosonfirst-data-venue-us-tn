@@ -2,14 +2,20 @@
   "id": 823231551,
   "type": "Feature",
   "properties": {
+    "addr:full":"4900 Brainerd Rd Chattanooga TN 37411",
+    "addr:housenumber":"",
+    "addr:postcode":"4900;37411",
+    "addr:street":"Brainerd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.228279,35.012959,-85.228279,35.012959",
     "geom:latitude":35.012959,
     "geom:longitude":-85.228279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4900 Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087185,
         85807051
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3C7VWMRrfwS8byoZ7LNzNT_35.012809_-85.227961@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462608979,
-    "wof:geomhash":"2cb09f72459a80828655ad1d833a3ae2",
+    "wof:geomhash":"1bbbc934e82af821abf1ddfa2c08aef3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823231551,
-    "wof:lastmodified":1467083622,
+    "wof:lastmodified":1510602937,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":85807051,
     "wof:placetype":"venue",

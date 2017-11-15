@@ -2,14 +2,20 @@
   "id": 823203187,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 8th Ave N Nashville TN 37208",
+    "addr:housenumber":"900",
+    "addr:postcode":"37208",
+    "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.789462,36.170228,-86.789462,36.170228",
     "geom:latitude":36.170228,
     "geom:longitude":-86.789462,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 8th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85893457
     ],
+    "wof:brand_id":1125153795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02OS7nF8wr1F2a1chOhLsK_36.170228_-86.789462@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608411,
-    "wof:geomhash":"e5e260fa2455495401a3703a2b91346b",
+    "wof:geomhash":"d50dcf8ce260eb0c44835d134983e48d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823203187,
-    "wof:lastmodified":1467083602,
+    "wof:lastmodified":1510699992,
     "wof:name":"Oriental Express",
     "wof:parent_id":85893457,
     "wof:placetype":"venue",

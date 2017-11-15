@@ -2,14 +2,20 @@
   "id": 806743669,
   "type": "Feature",
   "properties": {
+    "addr:full":"6263 Poplar Ave Memphis TN 38119",
+    "addr:housenumber":"6263",
+    "addr:postcode":"38119",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.853115,35.100672,-89.853115,35.100672",
     "geom:latitude":35.100672,
     "geom:longitude":-89.853115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6263 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85857485
     ],
+    "wof:brand_id":1125150061,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70A40QCHgXvwtrQ8tgd1zI_35.100672_-89.853115@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600708,
-    "wof:geomhash":"986bdf732cb3e3d4fc318563204b4694",
+    "wof:geomhash":"e31899f97da8d8d636c5ff0d491fd10a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806743669,
-    "wof:lastmodified":1467083361,
+    "wof:lastmodified":1510695809,
     "wof:name":"Stewart Title Co",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790110267,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Broad St Chattanooga TN 37402",
+    "addr:housenumber":"311",
+    "addr:postcode":"37402",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.31084,35.052454,-85.31084,35.052454",
     "geom:latitude":35.052454,
     "geom:longitude":-85.31084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Broad St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85876727
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_49ngYPaVDYwO6OOPqI0ink_35.052454_-85.310840@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593221,
-    "wof:geomhash":"1779d3177a2b9a645344fbe206f28bb1",
+    "wof:geomhash":"e71ebc9db983a3e1302638759351e8f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790110267,
-    "wof:lastmodified":1467083122,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 789707179,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Bob Morrison Blvd Bristol TN 24201",
+    "addr:housenumber":"200",
+    "addr:postcode":"24201",
+    "addr:street":"Bob Morrison Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":789707179,
-    "wof:lastmodified":1467083026,
+    "wof:lastmodified":1472645159,
     "wof:name":"Chin-Lin Cheng MD",
     "wof:parent_id":85805449,
     "wof:placetype":"venue",

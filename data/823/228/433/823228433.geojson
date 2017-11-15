@@ -2,14 +2,20 @@
   "id": 823228433,
   "type": "Feature",
   "properties": {
+    "addr:full":"4235 Lebanon Pike Hermitage TN 37076",
+    "addr:housenumber":"4235",
+    "addr:postcode":"37076",
+    "addr:street":"Lebanon Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.616201,36.202999,-86.616201,36.202999",
     "geom:latitude":36.202999,
     "geom:longitude":-86.616201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4235 Lebanon Pike",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85824673
     ],
+    "wof:brand_id":420575353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1X8EjPtw0b8IBFNXMG2Eht_36.203441_-86.615522@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462608921,
-    "wof:geomhash":"7e2f71cac11061e7ec5d83facbdb428f",
+    "wof:geomhash":"b3a6e65569a5075011e5d2291ce1e25c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823228433,
-    "wof:lastmodified":1467083620,
+    "wof:lastmodified":1510601965,
     "wof:name":"Precision Tune Auto Care",
     "wof:parent_id":85824673,
     "wof:placetype":"venue",

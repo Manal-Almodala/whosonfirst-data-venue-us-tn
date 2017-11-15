@@ -2,14 +2,20 @@
   "id": 823258911,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Broad St Chattanooga TN 37402",
+    "addr:housenumber":"205",
+    "addr:postcode":"37402",
+    "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.310824,35.05429,-85.310824,35.05429",
     "geom:latitude":35.05429,
     "geom:longitude":-85.310824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 Broad St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087185,
         85876727
     ],
+    "wof:brand_id":1125154777,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2YhYbHPE14mjuQO55e7I7T_35.054347_-85.310896@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609527,
-    "wof:geomhash":"34b6fa7d59a4e63211b832343e66ea10",
+    "wof:geomhash":"3402da47fdfd197e66ed978e7148c1cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":823258911,
-    "wof:lastmodified":1467083641,
+    "wof:lastmodified":1510699041,
     "wof:name":"Mellow Mushroom",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",

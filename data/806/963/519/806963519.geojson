@@ -2,14 +2,20 @@
   "id": 806963519,
   "type": "Feature",
   "properties": {
+    "addr:full":"112 S 1st St Union City TN 38261",
+    "addr:housenumber":"112",
+    "addr:postcode":"38261",
+    "addr:street":"S 1St St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.057132,36.425879,-89.057132,36.425879",
     "geom:latitude":36.425879,
     "geom:longitude":-89.057132,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"112 S 1st St",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084541,
         85844377
     ],
+    "wof:brand_id":1125153437,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SqegVgB8kjDIqWOlPHhMZ_36.425879_-89.057132@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602552,
-    "wof:geomhash":"540d69e50b8bb4506a3bcd1701c260ba",
+    "wof:geomhash":"52851736747c331371918b1f283623f7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806963519,
-    "wof:lastmodified":1467083422,
+    "wof:lastmodified":1510694891,
     "wof:name":"Bottoms Up",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",

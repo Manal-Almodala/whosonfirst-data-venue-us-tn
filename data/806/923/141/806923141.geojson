@@ -2,14 +2,20 @@
   "id": 806923141,
   "type": "Feature",
   "properties": {
+    "addr:full":"1828 Midpark Rd Knoxville TN 37921",
+    "addr:housenumber":"1828",
+    "addr:postcode":"37921",
+    "addr:street":"Midpark Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.012829,35.963063,-84.012829,35.963063",
     "geom:latitude":35.963063,
     "geom:longitude":-84.012829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1828 Midpark Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85878569
     ],
+    "wof:brand_id":1125154191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bvOegSgAVjHw14cVT8pBL_35.963063_-84.012829@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602214,
-    "wof:geomhash":"35aa776c3c8c9790173f8aac11e6db33",
+    "wof:geomhash":"02140339a51e438351056a40a20b1d1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806923141,
-    "wof:lastmodified":1467083411,
+    "wof:lastmodified":1510613207,
     "wof:name":"Cricket Communications",
     "wof:parent_id":85878569,
     "wof:placetype":"venue",

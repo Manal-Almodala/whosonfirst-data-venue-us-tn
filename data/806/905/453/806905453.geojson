@@ -2,14 +2,20 @@
   "id": 806905453,
   "type": "Feature",
   "properties": {
+    "addr:full":"318 Merchant Dr Knoxville TN 37912",
+    "addr:housenumber":"318",
+    "addr:postcode":"37912",
+    "addr:street":"Merchant Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.975575,36.008362,-83.975575,36.008362",
     "geom:latitude":36.008362,
     "geom:longitude":-83.975575,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"318 Merchant Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086455,
         85826965
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0dBMGBLj2htY8YCfQUEeoh_36.008362_-83.975575@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602051,
-    "wof:geomhash":"d828a71d3eeeb62ca1263adf3b8c4688",
+    "wof:geomhash":"f05818e80738e66baae987b7d3f955e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806905453,
-    "wof:lastmodified":1467083406,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":85826965,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807183911,
   "type": "Feature",
   "properties": {
+    "addr:full":"7610 Hamilton Park Dr Chattanooga TN 37421",
+    "addr:housenumber":"7610",
+    "addr:postcode":"37421",
+    "addr:street":"Hamilton Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.137386,35.055892,-85.137386,35.055892",
     "geom:latitude":35.055892,
     "geom:longitude":-85.137386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7610 Hamilton Park Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         85848781
     ],
+    "wof:brand_id":1125154959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yraKlp4NvyFrYUtuBXJQh_35.055892_-85.137386@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604624,
-    "wof:geomhash":"3609f778fb087304b23c570921790035",
+    "wof:geomhash":"83285cb87a448176f434b612008a6b49",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807183911,
-    "wof:lastmodified":1467083484,
+    "wof:lastmodified":1510696060,
     "wof:name":"ADT Security Svc",
     "wof:parent_id":85848781,
     "wof:placetype":"venue",

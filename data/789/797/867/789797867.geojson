@@ -2,14 +2,20 @@
   "id": 789797867,
   "type": "Feature",
   "properties": {
+    "addr:full":"4355 Elvis Presley Blvd Memphis TN 38116",
+    "addr:housenumber":"",
+    "addr:postcode":"4355;38116",
+    "addr:street":"Elvis Presley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.02517,35.031082,-90.02517,35.031082",
     "geom:latitude":35.031082,
     "geom:longitude":-90.02517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4355 Elvis Presley Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85867187
     ],
+    "wof:brand_id":1125152327,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6NB4v1gjPKALHZbkO5tPuW_35.031082_-90.025170@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590626,
-    "wof:geomhash":"7f0cb2318e4edaeb56592942bbf9de43",
+    "wof:geomhash":"e87625ec181ba74861d2db9fd938a034",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789797867,
-    "wof:lastmodified":1467083047,
+    "wof:lastmodified":1510604947,
     "wof:name":"Beautiful Nails",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807109953,
   "type": "Feature",
   "properties": {
+    "addr:full":"2431 Douglass Glen Ln Franklin TN 37064",
+    "addr:housenumber":"2431",
+    "addr:postcode":"37064",
+    "addr:street":"Douglass Glen Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.845846,35.875846,-86.845846,35.875846",
     "geom:latitude":35.875846,
     "geom:longitude":-86.845846,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xyQiQCjV9HdQsHrreseN9_35.875846_-86.845846@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462603833,
     "wof:geomhash":"1366787e3f254ecb1dc8e8b949b73f09",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807109953
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807109953,
-    "wof:lastmodified":1467083460,
+    "wof:lastmodified":1491930836,
     "wof:name":"Middle Tennessee Daylily Socie",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

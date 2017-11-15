@@ -2,14 +2,20 @@
   "id": 823247225,
   "type": "Feature",
   "properties": {
+    "addr:full":"4120 Thornton Taylor Pkwy Fayetteville TN 37334",
+    "addr:housenumber":"4120",
+    "addr:postcode":"37334",
+    "addr:street":"Thornton Taylor Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.555534,35.155529,-86.555534,35.155529",
     "geom:latitude":35.155529,
     "geom:longitude":-86.555534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4120 Thornton Taylor Pkwy",
     "sg:city":"Fayetteville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087119,
         85868159
     ],
+    "wof:brand_id":1125154609,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qL5a3Nsaqxz5CcR2pbgXy_35.155529_-86.555534@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609281,
-    "wof:geomhash":"40f9d8dd7871cc9178dbf02a6fae3067",
+    "wof:geomhash":"03981c361cd2253c87dc2a2aa9ed116d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823247225,
-    "wof:lastmodified":1467083633,
+    "wof:lastmodified":1510694005,
     "wof:name":"Buck's Pizza",
     "wof:parent_id":85868159,
     "wof:placetype":"venue",

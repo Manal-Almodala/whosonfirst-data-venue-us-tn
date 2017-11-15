@@ -2,14 +2,20 @@
   "id": 807212931,
   "type": "Feature",
   "properties": {
+    "addr:full":"5700 Brainerd Rd Chattanooga TN 37411",
+    "addr:housenumber":"",
+    "addr:postcode":"5700;37411",
+    "addr:street":"Brainerd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.213959,35.011708,-85.213959,35.011708",
     "geom:latitude":35.011708,
     "geom:longitude":-85.213959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5700 Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85876729
     ],
+    "wof:brand_id":1125154757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3O18GDsi8TuX1Qc39ScRHb_35.011708_-85.213959@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604929,
-    "wof:geomhash":"c3fde7a925f7e15546898858987a9d8b",
+    "wof:geomhash":"0ebf29510f88ce1be9e4da5fee5e34b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807212931,
-    "wof:lastmodified":1467083494,
+    "wof:lastmodified":1510697725,
     "wof:name":"House Master Of America",
     "wof:parent_id":85876729,
     "wof:placetype":"venue",

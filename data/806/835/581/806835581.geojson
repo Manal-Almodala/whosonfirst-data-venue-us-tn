@@ -2,14 +2,20 @@
   "id": 806835581,
   "type": "Feature",
   "properties": {
+    "addr:full":"1816 Hamill Rd Hixson TN 37343",
+    "addr:housenumber":"1816",
+    "addr:postcode":"37343",
+    "addr:street":"Hamill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.243046,35.121494,-85.243046,35.121494",
     "geom:latitude":35.121494,
     "geom:longitude":-85.243046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1816 Hamill Rd",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         420541703
     ],
+    "wof:brand_id":1125152779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5mfd2BclAUWxe2QylpcMv8_35.121494_-85.243046@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601472,
-    "wof:geomhash":"54b9327c0ee6a362d007db20fa4d3e88",
+    "wof:geomhash":"22488349cc3dea6d404f08fcd15601d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806835581,
-    "wof:lastmodified":1467083387,
+    "wof:lastmodified":1510697073,
     "wof:name":"Dialysis Clinic Inc",
     "wof:parent_id":420541703,
     "wof:placetype":"venue",

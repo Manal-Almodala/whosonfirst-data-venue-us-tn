@@ -2,14 +2,20 @@
   "id": 807337205,
   "type": "Feature",
   "properties": {
+    "addr:full":"2301 Murfreesboro Pike Nashville TN 37217",
+    "addr:housenumber":"2301",
+    "addr:postcode":"37217",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.647222,36.083655,-86.647222,36.083655",
     "geom:latitude":36.083655,
     "geom:longitude":-86.647222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2301 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85841041
     ],
+    "wof:brand_id":1125152765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HNQhFXTmvxgDVuKza7mNZ_36.083655_-86.647222@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606311,
-    "wof:geomhash":"20cca1c7abf4ec862b494e1c95a2daae",
+    "wof:geomhash":"dd652a60ac5c14630687e27212d0b33a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807337205,
-    "wof:lastmodified":1467083538,
+    "wof:lastmodified":1510697158,
     "wof:name":"BP Oil Co",
     "wof:parent_id":85841041,
     "wof:placetype":"venue",

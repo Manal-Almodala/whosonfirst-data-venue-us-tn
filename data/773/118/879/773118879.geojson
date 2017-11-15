@@ -2,14 +2,20 @@
   "id": 773118879,
   "type": "Feature",
   "properties": {
+    "addr:full":"1954 Old Fort Pkwy Murfreesboro TN 37129",
+    "addr:housenumber":"1954",
+    "addr:postcode":"37129",
+    "addr:street":"Old Fort Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.427585,35.846224,-86.427585,35.846224",
     "geom:latitude":35.846224,
     "geom:longitude":-86.427585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1954 Old Fort Pkwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":420574377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53ZFbxWoFFTxbqJsRLnYZL_35.846224_-86.427585@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583288,
-    "wof:geomhash":"8a1c0b703c2500bbf699bea174944f2d",
+    "wof:geomhash":"0355d93a3cfab2a8d8529afe1e71ac1f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773118879,
-    "wof:lastmodified":1467082807,
+    "wof:lastmodified":1510603997,
     "wof:name":"Old Navy",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

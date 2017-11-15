@@ -2,9 +2,14 @@
   "id": 773517279,
   "type": "Feature",
   "properties": {
+    "addr:full":"1036 Cedarview Ln Franklin TN 37067",
+    "addr:housenumber":"1036",
+    "addr:postcode":"37067",
+    "addr:street":"Cedarview Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.808317,35.88532,-86.808317,35.88532",
     "geom:latitude":35.88532,
     "geom:longitude":-86.808317,
@@ -24,12 +29,7 @@
     "sg:postcode":"37067",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3LF3ir5SoDMUf13zCrbkUn_35.885320_-86.808317@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462586326,
     "wof:geomhash":"79279a031a09576f8aa5b01a646b5a35",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":773517279
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773517279,
-    "wof:lastmodified":1467082914,
+    "wof:lastmodified":1491924954,
     "wof:name":"R Hester Design",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

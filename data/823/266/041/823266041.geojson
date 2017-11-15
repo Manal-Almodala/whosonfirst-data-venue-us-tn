@@ -2,14 +2,20 @@
   "id": 823266041,
   "type": "Feature",
   "properties": {
+    "addr:full":"3768 Nolensville Pike Nashville TN 37211",
+    "addr:housenumber":"3768",
+    "addr:postcode":"37211",
+    "addr:street":"Nolensville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.732936,36.089408,-86.732936,36.089408",
     "geom:latitude":36.089408,
     "geom:longitude":-86.732936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3768 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85871393
     ],
+    "wof:brand_id":1125154507,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yCGmjnKvB05MzGQmY2w0Y_36.089408_-86.732936@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609754,
-    "wof:geomhash":"0eeea77516cfbc19ee572ab3982a690d",
+    "wof:geomhash":"c8537bd45bdb1c7381a2f13fdc538ad4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823266041,
-    "wof:lastmodified":1467083649,
+    "wof:lastmodified":1510696741,
     "wof:name":"A J Wright",
     "wof:parent_id":85871393,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790110735,
   "type": "Feature",
   "properties": {
+    "addr:full":"3479 Northbend Cir Alcoa TN 37701",
+    "addr:housenumber":"3479",
+    "addr:postcode":"37701",
+    "addr:street":"Northbend Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.968543,35.829273,-83.968543,35.829273",
     "geom:latitude":35.829273,
     "geom:longitude":-83.968543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3479 Northbend Cir",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087017,
         420541377
     ],
+    "wof:brand_id":1125157201,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6vZDG8dnhbIghqpjI6jKAY_35.829273_-83.968543@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593224,
-    "wof:geomhash":"98c923dc65d8c3dbc4ed0dd79595e3bc",
+    "wof:geomhash":"fd4c281767f7ff3aeed3563e58ef9cb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790110735,
-    "wof:lastmodified":1467083122,
+    "wof:lastmodified":1510697244,
     "wof:name":"Masco",
     "wof:parent_id":420541377,
     "wof:placetype":"venue",

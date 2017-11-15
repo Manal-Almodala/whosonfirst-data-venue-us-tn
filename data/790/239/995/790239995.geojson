@@ -2,14 +2,20 @@
   "id": 790239995,
   "type": "Feature",
   "properties": {
+    "addr:full":"159 Dovenshire Dr Crossville TN 38558",
+    "addr:housenumber":"159",
+    "addr:postcode":"38558",
+    "addr:street":"Dovenshire Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.919388,35.990229,-84.919388,35.990229",
     "geom:latitude":35.990229,
     "geom:longitude":-84.919388,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"159 Dovenshire Dr",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85813779,
         102086961
     ],
+    "wof:brand_id":1125156147,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6LbZyynmcDViB17H4r1yeS_35.990229_-84.919388@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594248,
-    "wof:geomhash":"d189d739cf614db1f69b068565652247",
+    "wof:geomhash":"575ab922c8fdaa94cac76288ed22d019",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790239995,
-    "wof:lastmodified":1467083153,
+    "wof:lastmodified":1510694174,
     "wof:name":"Time Out",
     "wof:parent_id":85813779,
     "wof:placetype":"venue",

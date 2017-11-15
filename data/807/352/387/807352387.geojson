@@ -2,14 +2,20 @@
   "id": 807352387,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Venture Cir Nashville TN 37228",
+    "addr:housenumber":"220",
+    "addr:postcode":"37228",
+    "addr:street":"Venture Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795336,36.194394,-86.795336,36.194394",
     "geom:latitude":36.194394,
     "geom:longitude":-86.795336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 Venture Cir",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85813213
     ],
+    "wof:brand_id":1125150463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56Krwiysj45raKIYQuJkgp_36.194394_-86.795336@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606534,
-    "wof:geomhash":"6b1fbb6281c6c8318cd1d207a6287ed6",
+    "wof:geomhash":"7ab27965fa4f0a4c5c6d4ab01b779624",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807352387,
-    "wof:lastmodified":1467083545,
+    "wof:lastmodified":1510694147,
     "wof:name":"Pitney Bowes",
     "wof:parent_id":85813213,
     "wof:placetype":"venue",

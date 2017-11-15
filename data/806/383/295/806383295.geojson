@@ -2,14 +2,20 @@
   "id": 806383295,
   "type": "Feature",
   "properties": {
+    "addr:full":"7601 E Brainerd Rd Chattanooga TN 37421",
+    "addr:housenumber":"7601",
+    "addr:postcode":"37421",
+    "addr:street":"E Brainerd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.153205,35.008815,-85.153205,35.008815",
     "geom:latitude":35.008815,
     "geom:longitude":-85.153205,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7601 E Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85805409
     ],
+    "wof:brand_id":1125159141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_76FzLXEnLJ6f9PnFv6C8Yz_35.008815_-85.153205@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597707,
-    "wof:geomhash":"fc6010836626859be8f0706785c6a25f",
+    "wof:geomhash":"6e85165da3932266c93eaaadd800439e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806383295,
-    "wof:lastmodified":1467083260,
+    "wof:lastmodified":1510698657,
     "wof:name":"American General Financial Svc",
     "wof:parent_id":85805409,
     "wof:placetype":"venue",

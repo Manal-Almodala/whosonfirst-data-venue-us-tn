@@ -2,14 +2,20 @@
   "id": 773791033,
   "type": "Feature",
   "properties": {
+    "addr:full":"6449 Henry Town Rd Sevierville TN 37876",
+    "addr:housenumber":"6449",
+    "addr:postcode":"37876",
+    "addr:street":"Henry Town Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.321992,35.828699,-83.321992,35.828699",
     "geom:latitude":35.828699,
     "geom:longitude":-83.321992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6449 Henry Town Rd",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086245,
         85842013
     ],
+    "wof:brand_id":1125159955,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PMr4qWvKRER7Ua8M8Chub_35.828699_-83.321992@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588397,
-    "wof:geomhash":"10a5d3b69e3526dc1987227446e79838",
+    "wof:geomhash":"f46beb413f01737a334ad0765384f0df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773791033,
-    "wof:lastmodified":1467082980,
+    "wof:lastmodified":1510693740,
     "wof:name":"New Salem Baptist Church",
     "wof:parent_id":85842013,
     "wof:placetype":"venue",

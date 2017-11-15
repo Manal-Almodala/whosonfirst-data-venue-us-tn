@@ -2,14 +2,20 @@
   "id": 806826029,
   "type": "Feature",
   "properties": {
+    "addr:full":"3340 Poplar Ave Memphis TN 38111",
+    "addr:housenumber":"3340",
+    "addr:postcode":"38111",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.951759,35.129507,-89.951759,35.129507",
     "geom:latitude":35.129507,
     "geom:longitude":-89.951759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3340 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85803961
     ],
+    "wof:brand_id":1125152333,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7N72nYnYOV4Ek8GDcRNquQ_35.129507_-89.951759@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601391,
-    "wof:geomhash":"7cafaa3fe6340275ace14599baf027b0",
+    "wof:geomhash":"c0f723e1b9382f14be435ce74075b380",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806826029,
-    "wof:lastmodified":1467083384,
+    "wof:lastmodified":1510693922,
     "wof:name":"Cintas Corp",
     "wof:parent_id":85803961,
     "wof:placetype":"venue",

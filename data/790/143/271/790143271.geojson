@@ -2,14 +2,20 @@
   "id": 790143271,
   "type": "Feature",
   "properties": {
+    "addr:full":"93 Stonebrook Pl Jackson TN 38305",
+    "addr:housenumber":"93",
+    "addr:postcode":"38305",
+    "addr:street":"Stonebrook Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.856154,35.685014,-88.856154,35.685014",
     "geom:latitude":35.685014,
     "geom:longitude":-88.856154,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"93 Stonebrook Pl",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125151233,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_40C8aVRBE4hfldQdZsLj5c_35.685014_-88.856154@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593454,
-    "wof:geomhash":"f8ceeccf208bb26bd94bff9f99c2a90e",
+    "wof:geomhash":"370ed12ecb23eebedf4834f54dbdc40a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790143271,
-    "wof:lastmodified":1467083130,
+    "wof:lastmodified":1510694072,
     "wof:name":"Qualex Inc",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

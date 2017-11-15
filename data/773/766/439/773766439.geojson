@@ -2,14 +2,20 @@
   "id": 773766439,
   "type": "Feature",
   "properties": {
+    "addr:full":"143 Stonebrook Pl Jackson TN 38305",
+    "addr:housenumber":"143",
+    "addr:postcode":"38305",
+    "addr:street":"Stonebrook Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.856216,35.687185,-88.856216,35.687185",
     "geom:latitude":35.687185,
     "geom:longitude":-88.856216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"143 Stonebrook Pl",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tNcXOOTrfa8oO9jEcj9iG_35.687185_-88.856216@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588216,
-    "wof:geomhash":"c5db5a232344cab51e4a1e82ad9d8ce3",
+    "wof:geomhash":"64262b82557d2bc52b85275caa4b8979",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773766439,
-    "wof:lastmodified":1467082974,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807262773,
   "type": "Feature",
   "properties": {
+    "addr:full":"4116 N Mount Juliet Rd Mount Juliet TN 37122",
+    "addr:housenumber":"4116",
+    "addr:postcode":"37122",
+    "addr:street":"N Mount Juliet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.514278,36.226316,-86.514278,36.226316",
     "geom:latitude":36.226316,
     "geom:longitude":-86.514278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4116 N Mount Juliet Rd",
     "sg:city":"Mount Juliet",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087205,
         85851335
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B4mkHF7pKHovrdfqGQu1z_36.226316_-86.514278@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605457,
-    "wof:geomhash":"b497ff268a7f458833a0ec2bd2cc0881",
+    "wof:geomhash":"e9b83455c3e5b3d843c362b66a7d26df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807262773,
-    "wof:lastmodified":1467083510,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85851335,
     "wof:placetype":"venue",

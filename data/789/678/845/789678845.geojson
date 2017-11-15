@@ -2,14 +2,20 @@
   "id": 789678845,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 S Everett High Rd Maryville TN 37804",
+    "addr:housenumber":"601",
+    "addr:postcode":"37804",
+    "addr:street":"S Everett High Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.95401,35.765271,-83.95401,35.765271",
     "geom:latitude":35.765271,
     "geom:longitude":-83.95401,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 S Everett High Rd",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087017,
         85825587
     ],
+    "wof:brand_id":1125158359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tAp586Z0aODSHNiSD9CNO_35.765271_-83.954010@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589691,
-    "wof:geomhash":"ee1c7d63a6121fc782740bd080106518",
+    "wof:geomhash":"4941e1d35b993fdd3661de08f5389df6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789678845,
-    "wof:lastmodified":1467083019,
+    "wof:lastmodified":1510694186,
     "wof:name":"Mountain View Baptist Church",
     "wof:parent_id":85825587,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 807139603,
   "type": "Feature",
   "properties": {
+    "addr:full":"4441 Jackson Hollow Rd Franklin TN 37064",
+    "addr:housenumber":"4441",
+    "addr:postcode":"37064",
+    "addr:street":"Jackson Hollow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.815743,35.813119,-86.815743,35.813119",
     "geom:latitude":35.813119,
     "geom:longitude":-86.815743,
@@ -27,12 +32,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RjdDHTFyQxCusUKjIdVPU_35.813119_-86.815743@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462604155,
     "wof:geomhash":"72bdd2e6823d0a0245a9a91389f2d6f7",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807139603
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807139603,
-    "wof:lastmodified":1467083470,
+    "wof:lastmodified":1491930836,
     "wof:name":"Tile & Stone Middle Tennessee",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

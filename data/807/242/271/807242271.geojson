@@ -2,9 +2,14 @@
   "id": 807242271,
   "type": "Feature",
   "properties": {
+    "addr:full":"107 Braxton Ln W Hendersonville TN 37075",
+    "addr:housenumber":"107",
+    "addr:postcode":"37075",
+    "addr:street":"Braxton Ln W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.634889,36.327599,-86.634889,36.327599",
     "geom:latitude":36.327599,
     "geom:longitude":-86.634889,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"76c1882db21ab4f449c7bd2602f1c5d6",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807242271,
-    "wof:lastmodified":1467083504,
+    "wof:lastmodified":1491939235,
     "wof:name":"Thomas E Bruce",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

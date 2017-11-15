@@ -2,9 +2,14 @@
   "id": 789723593,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Riverwood Dr Franklin TN 37069",
+    "addr:housenumber":"201",
+    "addr:postcode":"37069",
+    "addr:street":"Riverwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.915298,35.970922,-86.915298,35.970922",
     "geom:latitude":35.970922,
     "geom:longitude":-86.915298,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -44,6 +50,7 @@
     "wof:geomhash":"56d597baff35a5071914ff49d9dd14b9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789723593,
-    "wof:lastmodified":1467083030,
+    "wof:lastmodified":1491924185,
     "wof:name":"Brentwood Catering Svc",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773203703,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 W Commerce St Lewisburg TN 37091",
+    "addr:housenumber":"725",
+    "addr:postcode":"37091",
+    "addr:street":"W Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.799208,35.450297,-86.799208,35.450297",
     "geom:latitude":35.450297,
     "geom:longitude":-86.799208,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 W Commerce St",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087115,
         85811699
     ],
+    "wof:brand_id":1125154289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QqivdyszTNdNI65O6qiPs_35.450297_-86.799208@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583955,
-    "wof:geomhash":"7dde058feeca5a0f90c4ee9f6f8a0dbe",
+    "wof:geomhash":"960ca99037d3d49f7aa3e02e5b23e364",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773203703,
-    "wof:lastmodified":1467082829,
+    "wof:lastmodified":1510693860,
     "wof:name":"Charter Cmmnctons Holdings LLC",
     "wof:parent_id":85811699,
     "wof:placetype":"venue",

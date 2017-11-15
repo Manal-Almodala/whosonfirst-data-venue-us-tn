@@ -2,14 +2,20 @@
   "id": 823252981,
   "type": "Feature",
   "properties": {
+    "addr:full":"350 N Peters Rd Knoxville TN 37922",
+    "addr:housenumber":"350",
+    "addr:postcode":"37922",
+    "addr:street":"N Peters Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.090934,35.914847,-84.090934,35.914847",
     "geom:latitude":35.914847,
     "geom:longitude":-84.090934,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"350 N Peters Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85810021
     ],
+    "wof:brand_id":1125151799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47ERWXWeLvp5RPAz1TCkdS_35.914847_-84.090934@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609403,
-    "wof:geomhash":"4c67a60420f93d0893fc8d802acf9d74",
+    "wof:geomhash":"b6df65a1e997e825ea699b45fd99666e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823252981,
-    "wof:lastmodified":1467083637,
+    "wof:lastmodified":1510699966,
     "wof:name":"Sonny's Bar-B-Q",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789622683,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Genesis Rd Crossville TN 38555",
+    "addr:housenumber":"115",
+    "addr:postcode":"38555",
+    "addr:street":"Genesis Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.028913,35.955217,-85.028913,35.955217",
     "geom:latitude":35.955217,
     "geom:longitude":-85.028913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Genesis Rd",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":420573977,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KrSrDFMWjPuOKxdfS06Ah_35.955217_-85.028913@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589240,
-    "wof:geomhash":"68fa2e7bef5600ffefbc9aa24389f78b",
+    "wof:geomhash":"b0319934535238f9e70406e787dacb46",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789622683,
-    "wof:lastmodified":1467083006,
+    "wof:lastmodified":1510603646,
     "wof:name":"Elks Lodge",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

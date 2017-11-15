@@ -2,14 +2,20 @@
   "id": 823244251,
   "type": "Feature",
   "properties": {
+    "addr:full":"1715 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"1715",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.700039,36.295944,-86.700039,36.295944",
     "geom:latitude":36.295944,
     "geom:longitude":-86.700039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1715 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ncXKp5DkzkNZ2xutqa7e0_36.295944_-86.700039@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609224,
-    "wof:geomhash":"1e3177d7190404215c8f791f6c5913ee",
+    "wof:geomhash":"5e3943194218fd3204de22e4f94c8cda",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823244251,
-    "wof:lastmodified":1467083631,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

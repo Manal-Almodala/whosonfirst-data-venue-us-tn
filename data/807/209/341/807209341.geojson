@@ -2,14 +2,20 @@
   "id": 807209341,
   "type": "Feature",
   "properties": {
+    "addr:full":"2401 21st Ave S Nashville TN 37212",
+    "addr:housenumber":"2401",
+    "addr:postcode":"37212",
+    "addr:street":"21St Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.804009,36.127033,-86.804009,36.127033",
     "geom:latitude":36.127033,
     "geom:longitude":-86.804009,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2401 21st Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893463
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Pv858QfghDohW1Qc6Kyu0_36.127033_-86.804009@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604894,
-    "wof:geomhash":"4bf67ac2342a8ae6e00ee7ae664a8253",
+    "wof:geomhash":"218369b21c2192b79a5deeae417e27be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807209341,
-    "wof:lastmodified":1467083493,
+    "wof:lastmodified":1510602716,
     "wof:name":"Central Parking System",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",

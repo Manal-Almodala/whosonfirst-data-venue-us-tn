@@ -2,14 +2,20 @@
   "id": 823263643,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 Broadway Nashville TN 37203",
+    "addr:housenumber":"1221",
+    "addr:postcode":"37203",
+    "addr:street":"Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.787748,36.156469,-86.787748,36.156469",
     "geom:latitude":36.156469,
     "geom:longitude":-86.787748,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1221 Broadway",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087061,
         85893465
     ],
+    "wof:brand_id":420574873,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7atSsrnzuUY75yOX1CekHn_36.156469_-86.787748@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609667,
-    "wof:geomhash":"3608f0abea76000fc3e3d49273c3f9b1",
+    "wof:geomhash":"87b39d49c7df310c81f0e7cee9742a7c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":823263643,
-    "wof:lastmodified":1467083646,
+    "wof:lastmodified":1510604216,
     "wof:name":"Firestone Complete Auto Care Store",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",

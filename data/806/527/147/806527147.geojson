@@ -2,9 +2,14 @@
   "id": 806527147,
   "type": "Feature",
   "properties": {
+    "addr:full":"4430 Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"4430",
+    "addr:postcode":"37064",
+    "addr:street":"Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798051,35.831399,-86.798051,35.831399",
     "geom:latitude":35.831399,
     "geom:longitude":-86.798051,
@@ -32,12 +37,7 @@
         "s"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17gtrSNpP5aHVJshKKzSGf_35.831399_-86.798051@1294204733"
@@ -45,17 +45,9 @@
     "wof:country":"US",
     "wof:created":1462598848,
     "wof:geomhash":"104a0571d0f8fabf5d5bf38fc3d5fe8c",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":806527147
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806527147,
-    "wof:lastmodified":1467083300,
+    "wof:lastmodified":1491930833,
     "wof:name":"McCray Instrumentation & Ctrl",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

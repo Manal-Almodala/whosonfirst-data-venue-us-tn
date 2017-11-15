@@ -2,14 +2,20 @@
   "id": 823184211,
   "type": "Feature",
   "properties": {
+    "addr:full":"150 Main St Nashville TN 37206",
+    "addr:housenumber":"150",
+    "addr:postcode":"37206",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.772426,36.170198,-86.772426,36.170198",
     "geom:latitude":36.170198,
     "geom:longitude":-86.772426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Main St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85816591
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_05xi59z06uEUaLMk9a47ab_36.170198_-86.772426@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608122,
-    "wof:geomhash":"06b12df1dd8e6cba42f7d01f6f205a87",
+    "wof:geomhash":"2f635424391a06b750a6369ef72cd1a0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823184211,
-    "wof:lastmodified":1467083592,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

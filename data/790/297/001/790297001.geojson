@@ -2,14 +2,20 @@
   "id": 790297001,
   "type": "Feature",
   "properties": {
+    "addr:full":"501 N Broadway St Knoxville TN 37917",
+    "addr:housenumber":"501",
+    "addr:postcode":"37917",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.923735,35.976439,-83.923735,35.976439",
     "geom:latitude":35.976439,
     "geom:longitude":-83.923735,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"501 N Broadway St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85878541
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3TJpWcG3pPMHpFqfNFViMQ_35.976439_-83.923735@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594744,
-    "wof:geomhash":"c272f102266e4cf327bf393596adfcc2",
+    "wof:geomhash":"8fbf3d9da378fc00b5324e0cea5d09da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790297001,
-    "wof:lastmodified":1467083166,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85878541,
     "wof:placetype":"venue",

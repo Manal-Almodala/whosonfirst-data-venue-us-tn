@@ -2,14 +2,20 @@
   "id": 773828213,
   "type": "Feature",
   "properties": {
+    "addr:full":"750 Watkins Rd Maryville TN 37801",
+    "addr:housenumber":"750",
+    "addr:postcode":"37801",
+    "addr:street":"Watkins Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.992655,35.751046,-83.992655,35.751046",
     "geom:latitude":35.751046,
     "geom:longitude":-83.992655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"750 Watkins Rd",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087017,
         85851593
     ],
+    "wof:brand_id":420573809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1bcKra3vSIvEVyPciKKjsI_35.751046_-83.992655@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588705,
-    "wof:geomhash":"529f9c4872de4f1a7b7a0b4a4f6f3a76",
+    "wof:geomhash":"eaca84d5e29ea8811c82524b30e3e043",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773828213,
-    "wof:lastmodified":1467082990,
+    "wof:lastmodified":1510603477,
     "wof:name":"Payless Shoe Source",
     "wof:parent_id":85851593,
     "wof:placetype":"venue",

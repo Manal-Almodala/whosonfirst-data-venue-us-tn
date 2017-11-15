@@ -2,14 +2,20 @@
   "id": 807326859,
   "type": "Feature",
   "properties": {
+    "addr:full":"1652 E Stone Dr Kingsport TN 37660",
+    "addr:housenumber":"1652",
+    "addr:postcode":"37660",
+    "addr:street":"E Stone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.51785,36.547749,-82.51785,36.547749",
     "geom:latitude":36.547749,
     "geom:longitude":-82.51785,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1652 E Stone Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         85843109
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SbHs9R7cGSRiB2u9JOzCW_36.547749_-82.517850@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606153,
-    "wof:geomhash":"02966f5b28513bfe0f8a06dcf55097da",
+    "wof:geomhash":"f6ae01605650af1ae15ca27138b2ded2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807326859,
-    "wof:lastmodified":1467083534,
+    "wof:lastmodified":1510697539,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85843109,
     "wof:placetype":"venue",

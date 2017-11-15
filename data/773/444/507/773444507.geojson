@@ -2,14 +2,20 @@
   "id": 773444507,
   "type": "Feature",
   "properties": {
+    "addr:full":"197 Foothills Mall Dr Maryville TN 37801",
+    "addr:housenumber":"197",
+    "addr:postcode":"37801",
+    "addr:street":"Foothills Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.991685,35.736948,-83.991685,35.736948",
     "geom:latitude":35.736948,
     "geom:longitude":-83.991685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"197 Foothills Mall Dr",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087017,
         420541365
     ],
+    "wof:brand_id":420575315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LMLM7DTKLBhHXLDObyeyG_35.736948_-83.991685@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585797,
-    "wof:geomhash":"1470e792ede22213f2e758d9a5339c33",
+    "wof:geomhash":"ec8c2ea59ae05d560397bcdc0c54b1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773444507,
-    "wof:lastmodified":1467082897,
+    "wof:lastmodified":1510602476,
     "wof:name":"T J Maxx",
     "wof:parent_id":420541365,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790206757,
   "type": "Feature",
   "properties": {
+    "addr:full":"2247 Heatherwood Cove Memphis TN 38119",
+    "addr:housenumber":"2247",
+    "addr:postcode":"38119",
+    "addr:street":"Heatherwood Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.850524,35.087488,-89.850524,35.087488",
     "geom:latitude":35.087488,
     "geom:longitude":-89.850524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2247 Heatherwood Cove",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870789
     ],
+    "wof:brand_id":1125158075,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1kwLjxjne4snDwZpQHVNZ3_35.087488_-89.850524@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594006,
-    "wof:geomhash":"3a26b63f37313971c412d974ee9a34e3",
+    "wof:geomhash":"ba125b91b96d14fb3aeff45c8297fd85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790206757,
-    "wof:lastmodified":1467083145,
+    "wof:lastmodified":1510697175,
     "wof:name":"Cruiseone",
     "wof:parent_id":85870789,
     "wof:placetype":"venue",

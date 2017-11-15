@@ -2,14 +2,20 @@
   "id": 790106521,
   "type": "Feature",
   "properties": {
+    "addr:full":"2235 Covington Pike Memphis TN 38128",
+    "addr:housenumber":"2235",
+    "addr:postcode":"38128",
+    "addr:street":"Covington Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.89623,35.18665,-89.89623,35.18665",
     "geom:latitude":35.18665,
     "geom:longitude":-89.89623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2235 Covington Pike",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":1125157021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2qNBQMIrIl6i9KRMootzxl_35.186650_-89.896230@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593195,
-    "wof:geomhash":"a10c55a9b1cee5a3c70caf2cf768bb9e",
+    "wof:geomhash":"403dda3f62dc3139f6e8d708d5b41232",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790106521,
-    "wof:lastmodified":1467083121,
+    "wof:lastmodified":1510696715,
     "wof:name":"Navy Federal Credit Union",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

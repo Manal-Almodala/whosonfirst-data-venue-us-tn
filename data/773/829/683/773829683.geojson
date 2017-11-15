@@ -2,14 +2,20 @@
   "id": 773829683,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 Taft Hwy Signal Mountain TN 37377",
+    "addr:housenumber":"1315",
+    "addr:postcode":"37377",
+    "addr:street":"Taft Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.325734,35.141579,-85.325734,35.141579",
     "geom:latitude":35.141579,
     "geom:longitude":-85.325734,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1315 Taft Hwy",
     "sg:city":"Signal Mountain",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85848667
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1SxMzonOqlRF6HwzKlXpmG_35.141579_-85.325734@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588717,
-    "wof:geomhash":"00289df54e810c8a873bc521e90ef916",
+    "wof:geomhash":"4d812b4e7bb62eac2ff5bfc0a49c76dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773829683,
-    "wof:lastmodified":1467082990,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85848667,
     "wof:placetype":"venue",

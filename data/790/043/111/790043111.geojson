@@ -2,14 +2,20 @@
   "id": 790043111,
   "type": "Feature",
   "properties": {
+    "addr:full":"3770 Lamar Ave Memphis TN 38118",
+    "addr:housenumber":"3770",
+    "addr:postcode":"38118",
+    "addr:street":"Lamar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.934907,35.059319,-89.934907,35.059319",
     "geom:latitude":35.059319,
     "geom:longitude":-89.934907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3770 Lamar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85839073
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BZXs667VnPsbLMqU19rII_35.059319_-89.934907@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592666,
-    "wof:geomhash":"199d4a2fe5dd6f540d9dfc01d4dfa1c9",
+    "wof:geomhash":"a67930f5830d6b78ccb2d3cba119ced0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790043111,
-    "wof:lastmodified":1467083106,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",

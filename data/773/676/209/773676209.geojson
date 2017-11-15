@@ -2,14 +2,20 @@
   "id": 773676209,
   "type": "Feature",
   "properties": {
+    "addr:full":"1641 Conklin Rd Telford TN 37690",
+    "addr:housenumber":"1641",
+    "addr:postcode":"37690",
+    "addr:street":"Conklin Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.556523,36.178149,-82.556523,36.178149",
     "geom:latitude":36.178149,
     "geom:longitude":-82.556523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1641 Conklin Rd",
     "sg:city":"Telford",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086335,
         85822827
     ],
+    "wof:brand_id":1125151809,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YojWvUMdZWQIK6n6SjCka_36.178149_-82.556523@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587509,
-    "wof:geomhash":"0aefc99cd699d9be96dba487fd01c926",
+    "wof:geomhash":"0d5287800397f17ce95a60f969ae6923",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773676209,
-    "wof:lastmodified":1467082953,
+    "wof:lastmodified":1510693839,
     "wof:name":"United Transportation Union",
     "wof:parent_id":85822827,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823163093,
   "type": "Feature",
   "properties": {
+    "addr:full":"1740 61st Ave N Nashville TN 37209",
+    "addr:housenumber":"1740",
+    "addr:postcode":"37209",
+    "addr:street":"61St Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.858605,36.168737,-86.858605,36.168737",
     "geom:latitude":36.168737,
     "geom:longitude":-86.858605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1740 61st Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893485
     ],
+    "wof:brand_id":1125159603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0VVHfMQAYNAY8TeZQs4yvD_36.168737_-86.858605@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607842,
-    "wof:geomhash":"1c17f723716850c5837d954de3c94c88",
+    "wof:geomhash":"1bebbb05a96307e46d67d3b8c0a9d584",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823163093,
-    "wof:lastmodified":1467083582,
+    "wof:lastmodified":1510695405,
     "wof:name":"Lafarge Corp",
     "wof:parent_id":85893485,
     "wof:placetype":"venue",

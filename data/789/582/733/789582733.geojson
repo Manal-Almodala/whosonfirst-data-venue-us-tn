@@ -2,14 +2,20 @@
   "id": 789582733,
   "type": "Feature",
   "properties": {
+    "addr:full":"10745 Lexington Dr Knoxville TN 37932",
+    "addr:housenumber":"10745",
+    "addr:postcode":"37932",
+    "addr:street":"Lexington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.141433,35.910461,-84.141433,35.910461",
     "geom:latitude":35.910461,
     "geom:longitude":-84.141433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10745 Lexington Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086455,
         85852201
     ],
+    "wof:brand_id":420575377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OsEFYnzdFh5163P1zbASn_35.910461_-84.141433@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588927,
-    "wof:geomhash":"02b79881fc49fbc2021629f605fc889f",
+    "wof:geomhash":"9cda7bfc6be51517f6a683ffff6932da",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789582733,
-    "wof:lastmodified":1467082996,
+    "wof:lastmodified":1510602073,
     "wof:name":"Staffmark",
     "wof:parent_id":85852201,
     "wof:placetype":"venue",

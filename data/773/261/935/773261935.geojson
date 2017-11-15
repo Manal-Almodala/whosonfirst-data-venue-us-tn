@@ -2,14 +2,20 @@
   "id": 773261935,
   "type": "Feature",
   "properties": {
+    "addr:full":"3844 Park Ave Memphis TN 38111",
+    "addr:housenumber":"3844",
+    "addr:postcode":"38111",
+    "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.934766,35.107671,-89.934766,35.107671",
     "geom:latitude":35.107671,
     "geom:longitude":-89.934766,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3844 Park Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85837075
     ],
+    "wof:brand_id":420575545,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3P2ERABjDUNyOTFWawnSp1_35.107671_-89.934766@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584376,
-    "wof:geomhash":"7a33861a02ca8b75baff96d2b1643f8e",
+    "wof:geomhash":"9b0539cbb0d7934190aba4b58a196bc8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773261935,
-    "wof:lastmodified":1467082849,
+    "wof:lastmodified":1510602667,
     "wof:name":"Pro-Cuts",
     "wof:parent_id":85837075,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823173613,
   "type": "Feature",
   "properties": {
+    "addr:full":"3049 Hamilton Church Rd Antioch TN 37013",
+    "addr:housenumber":"3049",
+    "addr:postcode":"37013",
+    "addr:street":"Hamilton Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.630527,36.062833,-86.630527,36.062833",
     "geom:latitude":36.062833,
     "geom:longitude":-86.630527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3049 Hamilton Church Rd",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85846409,
         85835767
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gaSmvkPBLpt7eVtmzNOia_36.062833_-86.630527@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607976,
-    "wof:geomhash":"acf76516c5d8667dc86bc523926b76b7",
+    "wof:geomhash":"96ea78ab422288e6e20eeaafa74bc8cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":823173613,
-    "wof:lastmodified":1467083587,
+    "wof:lastmodified":1510602609,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

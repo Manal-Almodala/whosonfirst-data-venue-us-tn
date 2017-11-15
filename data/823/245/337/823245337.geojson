@@ -2,14 +2,20 @@
   "id": 823245337,
   "type": "Feature",
   "properties": {
+    "addr:full":"4935 Columbia Pike Spring Hill TN 37174",
+    "addr:housenumber":"4935",
+    "addr:postcode":"37174",
+    "addr:street":"Columbia Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.918556,35.775272,-86.918556,35.775272",
     "geom:latitude":35.775272,
     "geom:longitude":-86.918556,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4935 Columbia Pike",
     "sg:city":"Spring Hill",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086337,
         420542331
     ],
+    "wof:brand_id":1125156845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3r2h6NTq8Y1Eynv0ZerXaE_35.775272_-86.918556@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609249,
-    "wof:geomhash":"100765e501ddad6a872c537d8295384e",
+    "wof:geomhash":"b83e68466c83e7ed16e284dde856a7d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":823245337,
-    "wof:lastmodified":1467083632,
+    "wof:lastmodified":1510696904,
     "wof:name":"Snappy Tomato Pizza",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

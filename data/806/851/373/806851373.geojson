@@ -2,14 +2,20 @@
   "id": 806851373,
   "type": "Feature",
   "properties": {
+    "addr:full":"6000 Kingston Pike Knoxville TN 37919",
+    "addr:housenumber":"6000",
+    "addr:postcode":"37919",
+    "addr:street":"Kingston Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.002094,35.932995,-84.002094,35.932995",
     "geom:latitude":35.932995,
     "geom:longitude":-84.002094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6000 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85805071
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62JsZeHDMpCDZQl6PB0cAe_35.932995_-84.002094@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601620,
-    "wof:geomhash":"4a450e78539e8e23d8a1b0b41d5f2133",
+    "wof:geomhash":"0021fa37920fbe15782f5337375986c6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806851373,
-    "wof:lastmodified":1467083391,
+    "wof:lastmodified":1510602944,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85805071,
     "wof:placetype":"venue",

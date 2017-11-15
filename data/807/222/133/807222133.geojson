@@ -2,6 +2,10 @@
   "id": 807222133,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 John A Merritt Blvd Nashville TN 37209",
+    "addr:housenumber":"3201",
+    "addr:postcode":"37209",
+    "addr:street":"John;Merritt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":807222133,
-    "wof:lastmodified":1467083497,
+    "wof:lastmodified":1472645748,
     "wof:name":"Wesley Foundation North",
     "wof:parent_id":85893459,
     "wof:placetype":"venue",

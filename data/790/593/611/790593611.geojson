@@ -2,14 +2,20 @@
   "id": 790593611,
   "type": "Feature",
   "properties": {
+    "addr:full":"1125 S Glade St Columbia TN 38401",
+    "addr:housenumber":"1125",
+    "addr:postcode":"38401",
+    "addr:street":"S Glade St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.031622,35.607481,-87.031622,35.607481",
     "geom:latitude":35.607481,
     "geom:longitude":-87.031622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1125 S Glade St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087107,
         85818757
     ],
+    "wof:brand_id":1125150403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12i9WJPn32tLaXzP7yY1DP_35.607481_-87.031622@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597156,
-    "wof:geomhash":"39bff146e22375b006efc14a02d5f221",
+    "wof:geomhash":"46156dbf6de8eb648b43edb2456eefe8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790593611,
-    "wof:lastmodified":1467083243,
+    "wof:lastmodified":1510693888,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":85818757,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773635985,
   "type": "Feature",
   "properties": {
+    "addr:full":"5995 Stage Rd Memphis TN 38134",
+    "addr:housenumber":"5995",
+    "addr:postcode":"38134",
+    "addr:street":"Stage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.862713,35.204683,-89.862713,35.204683",
     "geom:latitude":35.204683,
     "geom:longitude":-89.862713,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5995 Stage Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_59ON6P14r57UInxbwfLNPI_35.204683_-89.862713@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587215,
-    "wof:geomhash":"0cb784f5d627dd66db4fc61c682d3bcd",
+    "wof:geomhash":"cb89d6d9fde6d8d768921312b34a9945",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773635985,
-    "wof:lastmodified":1467082943,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

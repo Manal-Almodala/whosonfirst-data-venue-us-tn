@@ -2,14 +2,20 @@
   "id": 806683593,
   "type": "Feature",
   "properties": {
+    "addr:full":"920 Poplar Ave Memphis TN 38105",
+    "addr:housenumber":"920",
+    "addr:postcode":"38105",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.028566,35.145261,-90.028566,35.145261",
     "geom:latitude":35.145261,
     "geom:longitude":-90.028566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"920 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85823033
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3QhheEZJFzYkFER2x2i2xW_35.145261_-90.028566@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600200,
-    "wof:geomhash":"4e8a870db0ba1ba58d897e76aa6e0f28",
+    "wof:geomhash":"397eeae2720e4142cd6b954fd76af909",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806683593,
-    "wof:lastmodified":1467083343,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85823033,
     "wof:placetype":"venue",

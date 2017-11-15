@@ -2,6 +2,10 @@
   "id": 789820307,
   "type": "Feature",
   "properties": {
+    "addr:full":"5006 Dayton Blvd Chattanooga TN 37415",
+    "addr:housenumber":"5006",
+    "addr:postcode":"37415",
+    "addr:street":"Dayton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789820307,
-    "wof:lastmodified":1467083053,
+    "wof:lastmodified":1472645208,
     "wof:name":"Meek's Auctions",
     "wof:parent_id":420541745,
     "wof:placetype":"venue",

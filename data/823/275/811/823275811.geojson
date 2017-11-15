@@ -2,14 +2,20 @@
   "id": 823275811,
   "type": "Feature",
   "properties": {
+    "addr:full":"2385 N Germantown Pkwy Cordova TN 38016",
+    "addr:housenumber":"2385",
+    "addr:postcode":"38016",
+    "addr:street":"N Germantown Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.792624,35.191238,-89.792624,35.191238",
     "geom:latitude":35.191238,
     "geom:longitude":-89.792624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2385 N Germantown Pkwy",
     "sg:city":"Cordova",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125158919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_46Oc98qXOY0K1GmMbnDZvD_35.191238_-89.792624@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610141,
-    "wof:geomhash":"5b58cddf2e261baff268874c3f3f3bfe",
+    "wof:geomhash":"2154db68d0e0db9057cef3874b540ee5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":823275811,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510693915,
     "wof:name":"Ashley Furniture Homestore",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

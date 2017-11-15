@@ -2,14 +2,20 @@
   "id": 823137731,
   "type": "Feature",
   "properties": {
+    "addr:full":"185 2nd Ave N Nashville TN 37201",
+    "addr:housenumber":"185",
+    "addr:postcode":"37201",
+    "addr:street":"2Nd Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.775534,36.162159,-86.775534,36.162159",
     "geom:latitude":36.162159,
     "geom:longitude":-86.775534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"185 2nd Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85893483
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5D8vpnv6T4ZuToQn1gxgiU_36.162159_-86.775534@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607466,
-    "wof:geomhash":"7c78d916cb60a5d43bed509902c973f6",
+    "wof:geomhash":"c4fc7bffb5ac92051eafd7ec505b3853",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823137731,
-    "wof:lastmodified":1467083571,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85893483,
     "wof:placetype":"venue",

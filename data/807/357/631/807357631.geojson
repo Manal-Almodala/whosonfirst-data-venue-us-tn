@@ -2,14 +2,20 @@
   "id": 807357631,
   "type": "Feature",
   "properties": {
+    "addr:full":"7339 Lee Hwy Chattanooga TN 37421",
+    "addr:housenumber":"7339",
+    "addr:postcode":"37421",
+    "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.145084,35.054649,-85.145084,35.054649",
     "geom:latitude":35.054649,
     "geom:longitude":-85.145084,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7339 Lee Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087185,
         85848781
     ],
+    "wof:brand_id":1125157561,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r5WR6Fhjqn00JumTUcm4b_35.054649_-85.145084@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606618,
-    "wof:geomhash":"a0b34565479a87ae74255c63eb04481f",
+    "wof:geomhash":"5189b928e1084b17e17a1929d40dc68e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807357631,
-    "wof:lastmodified":1467083548,
+    "wof:lastmodified":1510699303,
     "wof:name":"Bellsouth",
     "wof:parent_id":85848781,
     "wof:placetype":"venue",

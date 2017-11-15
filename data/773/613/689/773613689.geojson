@@ -2,14 +2,20 @@
   "id": 773613689,
   "type": "Feature",
   "properties": {
+    "addr:full":"6422 Deane Hill Dr NW Knoxville TN 37919",
+    "addr:housenumber":"6422",
+    "addr:postcode":"37919",
+    "addr:street":"Deane Hill Dr Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.012398,35.928804,-84.012398,35.928804",
     "geom:latitude":35.928804,
     "geom:longitude":-84.012398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6422 Deane Hill Dr NW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086455,
         85805071
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_615v3XGEfnIka53WKl1ifG_35.928804_-84.012398@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587042,
-    "wof:geomhash":"6c9a85ff1e91cc607234dd3d88f5f13b",
+    "wof:geomhash":"47ae1296c731eb89cd9e9bc5795b65a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773613689,
-    "wof:lastmodified":1467082937,
+    "wof:lastmodified":1510602103,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85805071,
     "wof:placetype":"venue",

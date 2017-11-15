@@ -2,14 +2,20 @@
   "id": 806659899,
   "type": "Feature",
   "properties": {
+    "addr:full":"1102 Boardwalk Cove Jackson TN 38301",
+    "addr:housenumber":"1102",
+    "addr:postcode":"38301",
+    "addr:street":"Boardwalk Cove",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.788006,35.631091,-88.788006,35.631091",
     "geom:latitude":35.631091,
     "geom:longitude":-88.788006,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1102 Boardwalk Cove",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85830001,
         102087221
     ],
+    "wof:brand_id":1125152419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2upvuH8PJcufCbuVuJVzHi_35.631091_-88.788006@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599998,
-    "wof:geomhash":"d7f438c52d1ffad62489ab7c40282de6",
+    "wof:geomhash":"b9c93ba6e5cf4da50942fc6fd14e038c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806659899,
-    "wof:lastmodified":1467083337,
+    "wof:lastmodified":1510694885,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":85830001,
     "wof:placetype":"venue",

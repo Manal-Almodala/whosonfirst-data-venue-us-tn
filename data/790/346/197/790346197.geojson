@@ -2,14 +2,20 @@
   "id": 790346197,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Market St SW Knoxville TN 37902",
+    "addr:housenumber":"625",
+    "addr:postcode":"37902",
+    "addr:street":"Market St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.918459,35.963218,-83.918459,35.963218",
     "geom:latitude":35.963218,
     "geom:longitude":-83.918459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 Market St SW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85867175
     ],
+    "wof:brand_id":1125157791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7M7MRazDuIo5hYpfaMUKg4_35.963218_-83.918459@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595109,
-    "wof:geomhash":"71826a8361457060853f9271113f801a",
+    "wof:geomhash":"0c542fb8e84827abb76ca169cea38c31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790346197,
-    "wof:lastmodified":1467083178,
+    "wof:lastmodified":1510698902,
     "wof:name":"CH2M Hill",
     "wof:parent_id":85867175,
     "wof:placetype":"venue",

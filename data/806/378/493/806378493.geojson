@@ -2,14 +2,20 @@
   "id": 806378493,
   "type": "Feature",
   "properties": {
+    "addr:full":"3501 Central Ave Nashville TN 37205",
+    "addr:housenumber":"3501",
+    "addr:postcode":"37205",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.826357,36.13701,-86.826357,36.13701",
     "geom:latitude":36.13701,
     "geom:longitude":-86.826357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3501 Central Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85844411
     ],
+    "wof:brand_id":1125159517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2iLul6Cicm4uwVDJ2I9rAA_36.137010_-86.826357@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597662,
-    "wof:geomhash":"095f9fed58abf3f6a5b992b845340298",
+    "wof:geomhash":"19b8aeb108fe42b570fe4f54f022ee79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806378493,
-    "wof:lastmodified":1467083259,
+    "wof:lastmodified":1510698878,
     "wof:name":"Concordia Lutheran Church",
     "wof:parent_id":85844411,
     "wof:placetype":"venue",

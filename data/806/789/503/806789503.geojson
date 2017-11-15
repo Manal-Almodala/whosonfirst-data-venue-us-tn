@@ -2,14 +2,20 @@
   "id": 806789503,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Kenilwood Dr Nashville TN 37204",
+    "addr:housenumber":"",
+    "addr:postcode":"4300;37204",
+    "addr:street":"Kenilwood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.761508,36.091373,-86.761508,36.091373",
     "geom:latitude":36.091373,
     "geom:longitude":-86.761508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 Kenilwood Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85812955
     ],
+    "wof:brand_id":1125152889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_55N81lII6kaOO58zulvStn_36.091373_-86.761508@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601100,
-    "wof:geomhash":"abf7b65a2e75ac547568ff95b250a981",
+    "wof:geomhash":"549c5617fc34301bf3ba2c8b11a330df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806789503,
-    "wof:lastmodified":1467083374,
+    "wof:lastmodified":1510695967,
     "wof:name":"Mr Transmission",
     "wof:parent_id":85812955,
     "wof:placetype":"venue",

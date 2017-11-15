@@ -2,14 +2,20 @@
   "id": 773066143,
   "type": "Feature",
   "properties": {
+    "addr:full":"3839 Forrest Ave Memphis TN 38122",
+    "addr:housenumber":"3839",
+    "addr:postcode":"38122",
+    "addr:street":"Forrest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.930263,35.146947,-89.930263,35.146947",
     "geom:latitude":35.146947,
     "geom:longitude":-89.930263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3839 Forrest Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85824527
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5nU5xyVcq13XX89r3UhAR2_35.146947_-89.930263@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582907,
-    "wof:geomhash":"2aa3ca88a72d4deb1c6648649fb394f2",
+    "wof:geomhash":"e38b031e12c3399080468dcdd2b1cde9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773066143,
-    "wof:lastmodified":1467082795,
+    "wof:lastmodified":1510699990,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":85824527,
     "wof:placetype":"venue",

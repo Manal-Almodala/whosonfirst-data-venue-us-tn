@@ -2,14 +2,20 @@
   "id": 773276435,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 N Cedar Bluff Rd Knoxville TN 37923",
+    "addr:housenumber":"320",
+    "addr:postcode":"37923",
+    "addr:street":"N Cedar Bluff Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.091404,35.919154,-84.091404,35.919154",
     "geom:latitude":35.919154,
     "geom:longitude":-84.091404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"320 N Cedar Bluff Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":1125158903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3gm4DTXdk19DsPmYx17PMu_35.919154_-84.091404@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584489,
-    "wof:geomhash":"b77f8104121823992b323d6d3df977ee",
+    "wof:geomhash":"59aa62399933b52668e523a05b682859",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773276435,
-    "wof:lastmodified":1467082854,
+    "wof:lastmodified":1510696684,
     "wof:name":"AIG Valic",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

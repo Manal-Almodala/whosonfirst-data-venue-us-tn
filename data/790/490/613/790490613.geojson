@@ -2,14 +2,20 @@
   "id": 790490613,
   "type": "Feature",
   "properties": {
+    "addr:full":"2565 Nova Cir Cookeville TN 38501",
+    "addr:housenumber":"2565",
+    "addr:postcode":"38501",
+    "addr:street":"Nova Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.566344,36.14305,-85.566344,36.14305",
     "geom:latitude":36.14305,
     "geom:longitude":-85.566344,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2565 Nova Cir",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086339,
         85850709
     ],
+    "wof:brand_id":420575707,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4SMwQZpO0KXFW27Bfy9nbs_36.143050_-85.566344@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596294,
-    "wof:geomhash":"5d0b4f5d1271b89cb2e7718f7fae53f4",
+    "wof:geomhash":"34537d437d48dd38ef804fd8a0941f4c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790490613,
-    "wof:lastmodified":1467083215,
+    "wof:lastmodified":1510602537,
     "wof:name":"Avon Products",
     "wof:parent_id":85850709,
     "wof:placetype":"venue",

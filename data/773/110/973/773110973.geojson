@@ -2,14 +2,20 @@
   "id": 773110973,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Volunteer Pkwy Manchester TN 37355",
+    "addr:housenumber":"91",
+    "addr:postcode":"37355",
+    "addr:street":"Volunteer Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.029595,35.444368,-86.029595,35.444368",
     "geom:latitude":35.444368,
     "geom:longitude":-86.029595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"91 Volunteer Pkwy",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85857461,
         102087095
     ],
+    "wof:brand_id":1125156637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zaFHt8IVFxyqDvsD2GvkO_35.444368_-86.029595@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583227,
-    "wof:geomhash":"0372d4472791a05742eb954e3c123f43",
+    "wof:geomhash":"1421d17b939a3405e650fd5783d811a4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773110973,
-    "wof:lastmodified":1467082805,
+    "wof:lastmodified":1510697172,
     "wof:name":"Rehabilitation Service",
     "wof:parent_id":85857461,
     "wof:placetype":"venue",

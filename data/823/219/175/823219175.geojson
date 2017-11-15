@@ -2,14 +2,20 @@
   "id": 823219175,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Thompson Ln Nashville TN 37211",
+    "addr:housenumber":"230",
+    "addr:postcode":"37211",
+    "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.742703,36.110838,-86.742703,36.110838",
     "geom:latitude":36.110838,
     "geom:longitude":-86.742703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"230 Thompson Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85843601
     ],
+    "wof:brand_id":1125152741,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HvptXHp5jFwGg8bDBclBq_36.110838_-86.742703@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608698,
-    "wof:geomhash":"a5ef09ad53fd6f2ab5929b174c603eba",
+    "wof:geomhash":"180974d635696081372ef11f7a3091cd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823219175,
-    "wof:lastmodified":1467083613,
+    "wof:lastmodified":1510613104,
     "wof:name":"Speedway Superamerica LLC",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",

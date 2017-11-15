@@ -2,9 +2,14 @@
   "id": 789633101,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 High Cliff Dr Hendersonville TN 37075",
+    "addr:housenumber":"220",
+    "addr:postcode":"37075",
+    "addr:street":"High Cliff Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.637631,36.384203,-86.637631,36.384203",
     "geom:latitude":36.384203,
     "geom:longitude":-86.637631,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"2526493359c03f140f85dcc089cf4b59",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789633101,
-    "wof:lastmodified":1467083008,
+    "wof:lastmodified":1491939243,
     "wof:name":"Logi Warehousing and Trnsp",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

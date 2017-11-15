@@ -2,14 +2,20 @@
   "id": 823272131,
   "type": "Feature",
   "properties": {
+    "addr:full":"2100 Hamilton Place Blvd Chattanooga TN 37421",
+    "addr:housenumber":"2100",
+    "addr:postcode":"37421",
+    "addr:street":"Hamilton Place Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.163118,35.034027,-85.163118,35.034027",
     "geom:latitude":35.034027,
     "geom:longitude":-85.163118,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2100 Hamilton Place Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -85,13 +91,14 @@
         102087185,
         85824831
     ],
+    "wof:brand_id":1125151895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7P6MwjQKqTQBFPCZfSu59a_35.034027_-85.163118@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609991,
-    "wof:geomhash":"16e0cb919b292a072c7f050ac0a9a9b8",
+    "wof:geomhash":"91f20d467d6ccbd080f76da1cab85a4e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -104,7 +111,7 @@
         }
     ],
     "wof:id":823272131,
-    "wof:lastmodified":1467083657,
+    "wof:lastmodified":1510697712,
     "wof:name":"JCPenney Custom Decorating",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",

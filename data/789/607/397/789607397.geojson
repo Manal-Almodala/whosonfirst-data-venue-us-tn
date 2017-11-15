@@ -2,14 +2,20 @@
   "id": 789607397,
   "type": "Feature",
   "properties": {
+    "addr:full":"951 US Hwy 51 N Covington TN 38019",
+    "addr:housenumber":"951",
+    "addr:postcode":"38019",
+    "addr:street":"Us Hwy 51 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.643157,35.57788,-89.643157,35.57788",
     "geom:latitude":35.57788,
     "geom:longitude":-89.643157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"951 US Hwy 51 N",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6aNWpKNgTY4D63eKck48dL_35.577880_-89.643157@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589120,
-    "wof:geomhash":"1ec92e522ae2ec7fe141e5f8165824f5",
+    "wof:geomhash":"9d986a3dd7470787651ab5153a86e1f3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789607397,
-    "wof:lastmodified":1467083002,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

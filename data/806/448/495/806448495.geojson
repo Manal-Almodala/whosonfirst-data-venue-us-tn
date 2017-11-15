@@ -2,14 +2,20 @@
   "id": 806448495,
   "type": "Feature",
   "properties": {
+    "addr:full":"628 Gallaher Rd Kingston TN 37763",
+    "addr:housenumber":"628",
+    "addr:postcode":"37763",
+    "addr:street":"Gallaher Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.438895,35.874684,-84.438895,35.874684",
     "geom:latitude":35.874684,
     "geom:longitude":-84.438895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"628 Gallaher Rd",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086483,
         85829995
     ],
+    "wof:brand_id":1125158051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FbdU3YmbsRLWdDxyLRdrH_35.874684_-84.438895@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598234,
-    "wof:geomhash":"14a6d47bddac8d50027d1510ea2dbd5f",
+    "wof:geomhash":"b50c173414ee7517dd7f4fc4785151ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":806448495,
-    "wof:lastmodified":1467083278,
+    "wof:lastmodified":1510694793,
     "wof:name":"CAM Bar",
     "wof:parent_id":85829995,
     "wof:placetype":"venue",

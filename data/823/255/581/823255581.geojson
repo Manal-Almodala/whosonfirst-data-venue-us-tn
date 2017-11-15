@@ -2,14 +2,20 @@
   "id": 823255581,
   "type": "Feature",
   "properties": {
+    "addr:full":"3315 Hacks Cross Rd Memphis TN 38125",
+    "addr:housenumber":"3315",
+    "addr:postcode":"38125",
+    "addr:street":"Hacks Cross Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.793207,35.059786,-89.793207,35.059786",
     "geom:latitude":35.059786,
     "geom:longitude":-89.793207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3315 Hacks Cross Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85850355,
         102087213
     ],
+    "wof:brand_id":1125153957,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ScuuHfjmmxAJ3jHYY1zZ9_35.059786_-89.793207@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609452,
-    "wof:geomhash":"49403b2ba41dc45e020f5203c7042991",
+    "wof:geomhash":"e9a9a117991feafd789176cac5771657",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823255581,
-    "wof:lastmodified":1467083639,
+    "wof:lastmodified":1510700008,
     "wof:name":"Figaro's Pizza",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",

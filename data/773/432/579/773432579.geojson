@@ -2,14 +2,20 @@
   "id": 773432579,
   "type": "Feature",
   "properties": {
+    "addr:full":"2414 Elliston Pl Nashville TN 37203",
+    "addr:housenumber":"2414",
+    "addr:postcode":"37203",
+    "addr:street":"Elliston Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.8076,36.148319,-86.8076,36.148319",
     "geom:latitude":36.148319,
     "geom:longitude":-86.8076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2414 Elliston Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85893455
     ],
+    "wof:brand_id":420575423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_64T66vba7w1mwyOMV8zhyi_36.148319_-86.807600@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585688,
-    "wof:geomhash":"ef85fbebbb243b8fd84377facccc99c6",
+    "wof:geomhash":"26ceb47521964c1d16c5d047926d7024",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773432579,
-    "wof:lastmodified":1467082894,
+    "wof:lastmodified":1510602383,
     "wof:name":"PIP Printing",
     "wof:parent_id":85893455,
     "wof:placetype":"venue",

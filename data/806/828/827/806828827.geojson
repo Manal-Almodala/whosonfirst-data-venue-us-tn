@@ -2,14 +2,20 @@
   "id": 806828827,
   "type": "Feature",
   "properties": {
+    "addr:full":"2695 Blackburn Rd SE Cleveland TN 37323",
+    "addr:housenumber":"2695",
+    "addr:postcode":"37323",
+    "addr:street":"Blackburn Rd Se",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.879619,35.126748,-84.879619,35.126748",
     "geom:latitude":35.126748,
     "geom:longitude":-84.879619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2695 Blackburn Rd SE",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087043,
         85849565
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5DT2Cw1aOGNFBcSEQfmnOE_35.126748_-84.879619@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601416,
-    "wof:geomhash":"87393fba5e29d3a59bffac400ecc560a",
+    "wof:geomhash":"3e305ed4f925719c0042a2fbb3202f5f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806828827,
-    "wof:lastmodified":1467083385,
+    "wof:lastmodified":1510602937,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":85849565,
     "wof:placetype":"venue",

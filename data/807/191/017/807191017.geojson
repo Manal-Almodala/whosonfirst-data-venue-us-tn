@@ -2,14 +2,20 @@
   "id": 807191017,
   "type": "Feature",
   "properties": {
+    "addr:full":"2367 Hillsboro Blvd Manchester TN 37355",
+    "addr:housenumber":"2367",
+    "addr:postcode":"37355",
+    "addr:street":"Hillsboro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.048353,35.45626,-86.048353,35.45626",
     "geom:latitude":35.45626,
     "geom:longitude":-86.048353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2367 Hillsboro Blvd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85857461,
         102087095
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5W00KLIZHX4B3O0Z50Rq4O_35.456260_-86.048353@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604699,
-    "wof:geomhash":"7da670a4e58c6828eacc5ec3d559a0eb",
+    "wof:geomhash":"244f626c6bd8d4e2f59eb93cffb3aab9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":807191017,
-    "wof:lastmodified":1467083487,
+    "wof:lastmodified":1510694750,
     "wof:name":"O'Charley's",
     "wof:parent_id":85857461,
     "wof:placetype":"venue",

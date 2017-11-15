@@ -2,14 +2,20 @@
   "id": 773595885,
   "type": "Feature",
   "properties": {
+    "addr:full":"7550 W Farmington Blvd Germantown TN 38138",
+    "addr:housenumber":"7550",
+    "addr:postcode":"38138",
+    "addr:street":"W Farmington Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.810974,35.094996,-89.810974,35.094996",
     "geom:latitude":35.094996,
     "geom:longitude":-89.810974,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7550 W Farmington Blvd",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85823035
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_416SgKysxcsYBkOw6wG3uA_35.094996_-89.810974@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586916,
-    "wof:geomhash":"dc490101f16fe608971c0940af666b9d",
+    "wof:geomhash":"d1b989fdde9c43dd3fdaf6120ead30dc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773595885,
-    "wof:lastmodified":1467082933,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":85823035,
     "wof:placetype":"venue",

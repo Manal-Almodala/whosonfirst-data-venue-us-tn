@@ -2,14 +2,20 @@
   "id": 806625741,
   "type": "Feature",
   "properties": {
+    "addr:full":"1219 Hilton Rd NW Knoxville TN 37921",
+    "addr:housenumber":"1219",
+    "addr:postcode":"37921",
+    "addr:street":"Hilton Rd Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.002937,35.954741,-84.002937,35.954741",
     "geom:latitude":35.954741,
     "geom:longitude":-84.002937,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1219 Hilton Rd NW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         420541855
     ],
+    "wof:brand_id":1125152805,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fwp7Mmo0pBRGZZiEIU6DB_35.954741_-84.002937@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599698,
-    "wof:geomhash":"feee5c411522355d8ec60c234dc0fbb1",
+    "wof:geomhash":"5bfc210ab448e6067078f63750a03ac2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806625741,
-    "wof:lastmodified":1467083327,
+    "wof:lastmodified":1510696881,
     "wof:name":"Paper Plus",
     "wof:parent_id":420541855,
     "wof:placetype":"venue",

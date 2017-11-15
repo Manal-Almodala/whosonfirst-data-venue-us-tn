@@ -2,14 +2,20 @@
   "id": 790446903,
   "type": "Feature",
   "properties": {
+    "addr:full":"3201 Powell Ave Nashville TN 37204",
+    "addr:housenumber":"3201",
+    "addr:postcode":"37204",
+    "addr:street":"Powell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.761323,36.100694,-86.761323,36.100694",
     "geom:latitude":36.100694,
     "geom:longitude":-86.761323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3201 Powell Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85843601
     ],
+    "wof:brand_id":420575465,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2p5HnlJZm5LUuZPJmfEkSb_36.100694_-86.761323@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595892,
-    "wof:geomhash":"99abfb851a62883509f1c72beecfc2ee",
+    "wof:geomhash":"92cbfa3f328e9ae6a84d7005174759c7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790446903,
-    "wof:lastmodified":1467083203,
+    "wof:lastmodified":1510602104,
     "wof:name":"Ferguson Enterprises Inc",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",

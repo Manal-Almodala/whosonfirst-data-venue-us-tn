@@ -2,14 +2,20 @@
   "id": 823266169,
   "type": "Feature",
   "properties": {
+    "addr:full":"601 Grassmere Park Ste 19 Nashville TN 37211",
+    "addr:housenumber":"601",
+    "addr:postcode":"37211",
+    "addr:street":"Grassmere Park Ste 19",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.752571,36.086647,-86.752571,36.086647",
     "geom:latitude":36.086647,
     "geom:longitude":-86.752571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 Grassmere Park Ste 19",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -51,13 +57,14 @@
         102087061,
         85871393
     ],
+    "wof:brand_id":1125151789,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XUoyuGCftP0xYnKFwDHOD_36.086647_-86.752571@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609759,
-    "wof:geomhash":"4d67cbf28baa3bec9c2e80f01fa98e0f",
+    "wof:geomhash":"400ff306af015e737621e77b6b6cbc2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,7 +77,7 @@
         }
     ],
     "wof:id":823266169,
-    "wof:lastmodified":1467083649,
+    "wof:lastmodified":1510694976,
     "wof:name":"Insty-Prints",
     "wof:parent_id":85871393,
     "wof:placetype":"venue",

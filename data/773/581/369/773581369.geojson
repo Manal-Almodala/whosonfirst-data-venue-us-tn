@@ -2,14 +2,20 @@
   "id": 773581369,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 Mae McKee Rd Chuckey TN 37681",
+    "addr:housenumber":"161",
+    "addr:postcode":"37681",
+    "addr:street":"Mae Mckee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.646471,36.189594,-82.646471,36.189594",
     "geom:latitude":36.189594,
     "geom:longitude":-82.646471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"161 Mae McKee Rd",
     "sg:city":"Chuckey",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086377,
         85842363
     ],
+    "wof:brand_id":1125151871,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_69nnOa5NXaXYbMO0RN3jIR_36.189594_-82.646471@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586813,
-    "wof:geomhash":"0253c9bba633ae1872793c5a2ca7ec3c",
+    "wof:geomhash":"c2c2b6e1cb70e5ce5048519ff3383c50",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773581369,
-    "wof:lastmodified":1467082929,
+    "wof:lastmodified":1510698680,
     "wof:name":"Amsoil Synthetic Lubricants",
     "wof:parent_id":85842363,
     "wof:placetype":"venue",

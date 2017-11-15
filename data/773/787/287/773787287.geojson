@@ -2,14 +2,20 @@
   "id": 773787287,
   "type": "Feature",
   "properties": {
+    "addr:full":"1134 Oak Haven Rd Knoxville TN 37932",
+    "addr:housenumber":"1134",
+    "addr:postcode":"37932",
+    "addr:street":"Oak Haven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.127259,35.932223,-84.127259,35.932223",
     "geom:latitude":35.932223,
     "geom:longitude":-84.127259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1134 Oak Haven Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":1125158531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0prS3C3jswQsMMXcW6bLc5_35.932223_-84.127259@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588369,
-    "wof:geomhash":"687eef08ff9490c2ba5bae27f08e7df7",
+    "wof:geomhash":"7d61693a5234a30d5a604b8360b1f3c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773787287,
-    "wof:lastmodified":1467082979,
+    "wof:lastmodified":1510698664,
     "wof:name":"Flowserve Corp",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806904485,
   "type": "Feature",
   "properties": {
+    "addr:full":"1088 Murfreesboro Pike Nashville TN 37217",
+    "addr:housenumber":"1088",
+    "addr:postcode":"37217",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.712605,36.127957,-86.712605,36.127957",
     "geom:latitude":36.127957,
     "geom:longitude":-86.712605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1088 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85822001
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5fAgFWbShIMy0TUGUJ9Gd4_36.127957_-86.712605@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602043,
-    "wof:geomhash":"5f0ac6425e9e5f3fc18652583db3cd38",
+    "wof:geomhash":"02c0b543eca8958d8f742aa5a359d6f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806904485,
-    "wof:lastmodified":1467083406,
+    "wof:lastmodified":1510696021,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85822001,
     "wof:placetype":"venue",

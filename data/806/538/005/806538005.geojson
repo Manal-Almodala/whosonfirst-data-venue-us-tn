@@ -2,14 +2,20 @@
   "id": 806538005,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Industrial Blvd Jasper TN 37347",
+    "addr:housenumber":"175",
+    "addr:postcode":"37347",
+    "addr:street":"Industrial Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.636134,35.063165,-85.636134,35.063165",
     "geom:latitude":35.063165,
     "geom:longitude":-85.636134,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"175 Industrial Blvd",
     "sg:city":"Jasper",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086347,
         85814617
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2x5GKfC2Q2SIIzZ8WJyFIo_35.063165_-85.636134@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598938,
-    "wof:geomhash":"0c48cefc9ec99ce4decd67baff9c450c",
+    "wof:geomhash":"0bea5cf8fa5014e77f5c93cf4f7e5197",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806538005,
-    "wof:lastmodified":1467083302,
+    "wof:lastmodified":1510601963,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":85814617,
     "wof:placetype":"venue",

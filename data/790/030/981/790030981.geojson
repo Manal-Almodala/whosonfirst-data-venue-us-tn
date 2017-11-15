@@ -2,14 +2,20 @@
   "id": 790030981,
   "type": "Feature",
   "properties": {
+    "addr:full":"244 Roddy Ln Harriman TN 37748",
+    "addr:housenumber":"244",
+    "addr:postcode":"37748",
+    "addr:street":"Roddy Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.576137,35.874667,-84.576137,35.874667",
     "geom:latitude":35.874667,
     "geom:longitude":-84.576137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"244 Roddy Ln",
     "sg:city":"Harriman",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087051,
         420542057
     ],
+    "wof:brand_id":1125151229,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nszam8zFeAhg94zK8b8zq_35.874667_-84.576137@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592580,
-    "wof:geomhash":"ee3448270f7b5dd96f727de33c8c5e8b",
+    "wof:geomhash":"56ff165d04448803a98db7f9db99ab82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790030981,
-    "wof:lastmodified":1467083104,
+    "wof:lastmodified":1510697274,
     "wof:name":"Oak Grove Baptist Church",
     "wof:parent_id":420542057,
     "wof:placetype":"venue",

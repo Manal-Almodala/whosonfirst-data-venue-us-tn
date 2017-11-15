@@ -2,14 +2,20 @@
   "id": 789656549,
   "type": "Feature",
   "properties": {
+    "addr:full":"406 Huntington Pl Tullahoma TN 37388",
+    "addr:housenumber":"406",
+    "addr:postcode":"37388",
+    "addr:street":"Huntington Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.191749,35.391633,-86.191749,35.391633",
     "geom:latitude":35.391633,
     "geom:longitude":-86.191749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"406 Huntington Pl",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087095,
         85807337
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3f2R7bhoOOTodX0M4ZVgpj_35.391633_-86.191749@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589505,
-    "wof:geomhash":"403e5b04d5a939188d2e11c669ba1ead",
+    "wof:geomhash":"61a4b2e9616f13ab8e3dce471565826c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789656549,
-    "wof:lastmodified":1467083014,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85807337,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823280925,
   "type": "Feature",
   "properties": {
+    "addr:full":"1160 S Bellevue Blvd Memphis TN 38106",
+    "addr:housenumber":"1160",
+    "addr:postcode":"38106",
+    "addr:street":"S Bellevue Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021667,35.115107,-90.021667,35.115107",
     "geom:latitude":35.115107,
     "geom:longitude":-90.021667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1160 S Bellevue Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85803189
     ],
+    "wof:brand_id":1125158995,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6GbF1WxZGHMtnz8S1L2bFR_35.115107_-90.021667@1303262741"
     },
     "wof:country":"US",
     "wof:created":1462610349,
-    "wof:geomhash":"b136048fffdff78c92165fa140f72933",
+    "wof:geomhash":"fe85630cca827c04f01a7b85befa6c16",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823280925,
-    "wof:lastmodified":1467083670,
+    "wof:lastmodified":1510604933,
     "wof:name":"Golden China Restaurant",
     "wof:parent_id":85803189,
     "wof:placetype":"venue",

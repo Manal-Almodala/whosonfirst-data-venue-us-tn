@@ -2,14 +2,20 @@
   "id": 773430055,
   "type": "Feature",
   "properties": {
+    "addr:full":"1301 N Mount Juliet Rd Mount Juliet TN 37122",
+    "addr:housenumber":"1301",
+    "addr:postcode":"37122",
+    "addr:street":"N Mount Juliet Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.512467,36.189526,-86.512467,36.189526",
     "geom:latitude":36.189526,
     "geom:longitude":-86.512467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1301 N Mount Juliet Rd",
     "sg:city":"Mount Juliet",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087205,
         85805387
     ],
+    "wof:brand_id":1125157551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Y9K7TXWnJK4IyYD2kaQFq_36.189526_-86.512467@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585670,
-    "wof:geomhash":"826b5e92bff09b972659c0559a84f492",
+    "wof:geomhash":"78750dded2ed46b61150b415662adf64",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773430055,
-    "wof:lastmodified":1467082894,
+    "wof:lastmodified":1510697356,
     "wof:name":"American Gen Lf Accident Insur",
     "wof:parent_id":85805387,
     "wof:placetype":"venue",

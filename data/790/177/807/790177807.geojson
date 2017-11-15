@@ -2,14 +2,20 @@
   "id": 790177807,
   "type": "Feature",
   "properties": {
+    "addr:full":"2009 Warfield Dr Nashville TN 37215",
+    "addr:housenumber":"2009",
+    "addr:postcode":"37215",
+    "addr:street":"Warfield Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.815347,36.102738,-86.815347,36.102738",
     "geom:latitude":36.102738,
     "geom:longitude":-86.815347,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2009 Warfield Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85893463
     ],
+    "wof:brand_id":1125151397,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2f9ck2pIWat7Mdo80eDbsA_36.102738_-86.815347@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593756,
-    "wof:geomhash":"a25dc244c063430aae82b4df88270c79",
+    "wof:geomhash":"f69905ac907652b80798af41814b465f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790177807,
-    "wof:lastmodified":1467083139,
+    "wof:lastmodified":1510613539,
     "wof:name":"Texaco Xpress Lube",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",

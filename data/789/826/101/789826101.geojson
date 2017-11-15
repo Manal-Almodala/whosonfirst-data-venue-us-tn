@@ -2,14 +2,20 @@
   "id": 789826101,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 College St Mountain City TN 37683",
+    "addr:housenumber":"307",
+    "addr:postcode":"37683",
+    "addr:street":"College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-81.806794,36.47629,-81.806794,36.47629",
     "geom:latitude":36.47629,
     "geom:longitude":-81.806794,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"307 College St",
     "sg:city":"Mountain City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086291,
         85830907
     ],
+    "wof:brand_id":420574971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58eW5vzS0tv9u1XElwb0Bp_36.476290_-81.806794@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590839,
-    "wof:geomhash":"43115cbf19e6306b872bc7ab5a063b46",
+    "wof:geomhash":"ef7b1c1fbea772712949c8e611459316",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789826101,
-    "wof:lastmodified":1467083054,
+    "wof:lastmodified":1510603893,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":85830907,
     "wof:placetype":"venue",

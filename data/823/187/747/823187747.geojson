@@ -2,14 +2,20 @@
   "id": 823187747,
   "type": "Feature",
   "properties": {
+    "addr:full":"2163 Airways Blvd Memphis TN 38114",
+    "addr:housenumber":"2163",
+    "addr:postcode":"38114",
+    "addr:street":"Airways Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.987751,35.087975,-89.987751,35.087975",
     "geom:latitude":35.087975,
     "geom:longitude":-89.987751,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2163 Airways Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         420542111
     ],
+    "wof:brand_id":1125152687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lrCeKh4dpccEbLJ6oS8Fn_35.087975_-89.987751@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608164,
-    "wof:geomhash":"afa484f2aef490ca08fc027145e08123",
+    "wof:geomhash":"14d63e0e7eb1fdddf4a3cd4946f501f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823187747,
-    "wof:lastmodified":1467083594,
+    "wof:lastmodified":1510697341,
     "wof:name":"US General Svc Adm",
     "wof:parent_id":420542111,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823254745,
   "type": "Feature",
   "properties": {
+    "addr:full":"6064 Hickory Ridge Mall Memphis TN 38115",
+    "addr:housenumber":"6064",
+    "addr:postcode":"38115",
+    "addr:street":"Hickory Ridge Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.863478,35.045558,-89.863478,35.045558",
     "geom:latitude":35.045558,
     "geom:longitude":-89.863478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6064 Hickory Ridge Mall",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870781
     ],
+    "wof:brand_id":1125150683,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XrLOUGdWdSGXAzLELlHqm_35.045558_-89.863478@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609435,
-    "wof:geomhash":"318fa80020cdea6214ccbf71ee3faa5e",
+    "wof:geomhash":"86d2168a662f459e6e66e7bbe7b04cb3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823254745,
-    "wof:lastmodified":1467083638,
+    "wof:lastmodified":1510698852,
     "wof:name":"Piccadilly Cafeteria",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789851535,
   "type": "Feature",
   "properties": {
+    "addr:full":"4509 Crystal Rd Union City TN 38261",
+    "addr:housenumber":"4509",
+    "addr:postcode":"38261",
+    "addr:street":"Crystal Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.176342,36.462073,-89.176342,36.462073",
     "geom:latitude":36.462073,
     "geom:longitude":-89.176342,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4509 Crystal Rd",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102084541,
         85844377
     ],
+    "wof:brand_id":1125151277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6PscMd0XmsJTL2O6szuNxY_36.462073_-89.176342@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591039,
-    "wof:geomhash":"0a7febc95b2bdffa87c4d114f9c5da7d",
+    "wof:geomhash":"90d29d9507b593f26ae69cd0efc5ea76",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789851535,
-    "wof:lastmodified":1467083060,
+    "wof:lastmodified":1510699623,
     "wof:name":"Mount Olive Baptist Church",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",

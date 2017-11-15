@@ -2,14 +2,20 @@
   "id": 807220443,
   "type": "Feature",
   "properties": {
+    "addr:full":"1789 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"1789",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.702176,36.293473,-86.702176,36.293473",
     "geom:latitude":36.293473,
     "geom:longitude":-86.702176,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1789 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ei6Q0ACv8NDvK8yC5T8kk_36.293473_-86.702176@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605004,
-    "wof:geomhash":"8a500d7df4970e3d1ed834f7c3a11677",
+    "wof:geomhash":"cca1f6e84898868eaf3334f846af94a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807220443,
-    "wof:lastmodified":1467083496,
+    "wof:lastmodified":1510695762,
     "wof:name":"Books-A-Million",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

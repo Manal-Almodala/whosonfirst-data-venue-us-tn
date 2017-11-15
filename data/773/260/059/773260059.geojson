@@ -2,14 +2,20 @@
   "id": 773260059,
   "type": "Feature",
   "properties": {
+    "addr:full":"621 S Cumberland St Lebanon TN 37087",
+    "addr:housenumber":"621",
+    "addr:postcode":"37087",
+    "addr:street":"S Cumberland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.294564,36.191644,-86.294564,36.191644",
     "geom:latitude":36.191644,
     "geom:longitude":-86.294564,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"621 S Cumberland St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125155949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4NXyi8V2v23LSnAsQGYory_36.191644_-86.294564@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584363,
-    "wof:geomhash":"995d0fb7eb7512231a15d864c3cc1a2f",
+    "wof:geomhash":"121c52aba9ace456841bb5213a2e831b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773260059,
-    "wof:lastmodified":1467082849,
+    "wof:lastmodified":1510699784,
     "wof:name":"Mattress King",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

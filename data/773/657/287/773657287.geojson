@@ -2,14 +2,20 @@
   "id": 773657287,
   "type": "Feature",
   "properties": {
+    "addr:full":"4440 S Mendenhall Rd Memphis TN 38115",
+    "addr:housenumber":"4440",
+    "addr:postcode":"38115",
+    "addr:street":"S Mendenhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.884566,35.032194,-89.884566,35.032194",
     "geom:latitude":35.032194,
     "geom:longitude":-89.884566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4440 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870783
     ],
+    "wof:brand_id":1125152501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_11C1KHlR8VDyAKK5XnBRYL_35.032194_-89.884566@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587374,
-    "wof:geomhash":"66c414db4b4d3c8971ee7fa36d9b240d",
+    "wof:geomhash":"aa06ed393a4a9e0e5c2d11de35dbda61",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773657287,
-    "wof:lastmodified":1467082948,
+    "wof:lastmodified":1510697063,
     "wof:name":"Trammell Crow Co",
     "wof:parent_id":85870783,
     "wof:placetype":"venue",

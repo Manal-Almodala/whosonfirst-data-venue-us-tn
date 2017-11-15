@@ -2,14 +2,20 @@
   "id": 806894995,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Century Blvd Nashville TN 37214",
+    "addr:housenumber":"15",
+    "addr:postcode":"37214",
+    "addr:street":"Century Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.685983,36.146354,-86.685983,36.146354",
     "geom:latitude":36.146354,
     "geom:longitude":-86.685983,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Century Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85833877
     ],
+    "wof:brand_id":1125153353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7VtqLZ5e2VIN6BvZ01nX6Y_36.146354_-86.685983@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601974,
-    "wof:geomhash":"321c1418af257f973dd3e8c5b8460f3a",
+    "wof:geomhash":"f59e48945f3c85b871b868b9d86c3940",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806894995,
-    "wof:lastmodified":1467083403,
+    "wof:lastmodified":1510695785,
     "wof:name":"All Fund Mortgage",
     "wof:parent_id":85833877,
     "wof:placetype":"venue",

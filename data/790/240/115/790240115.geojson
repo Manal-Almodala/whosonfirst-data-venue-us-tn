@@ -2,14 +2,20 @@
   "id": 790240115,
   "type": "Feature",
   "properties": {
+    "addr:full":"1816 Madison St Clarksville TN 37043",
+    "addr:housenumber":"1816",
+    "addr:postcode":"37043",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.304389,36.514178,-87.304389,36.514178",
     "geom:latitude":36.514178,
     "geom:longitude":-87.304389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1816 Madison St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086353,
         85811909
     ],
+    "wof:brand_id":1125150803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DkrDrSbZXQosupUgSePST_36.514178_-87.304389@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594249,
-    "wof:geomhash":"cbac03c93f6bec66b56446b62b911e35",
+    "wof:geomhash":"cc71563fded2de956bbdfeb68648b35b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790240115,
-    "wof:lastmodified":1467083153,
+    "wof:lastmodified":1510697333,
     "wof:name":"Investment Centers Of America",
     "wof:parent_id":85811909,
     "wof:placetype":"venue",

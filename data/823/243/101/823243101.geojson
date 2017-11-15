@@ -2,14 +2,20 @@
   "id": 823243101,
   "type": "Feature",
   "properties": {
+    "addr:full":"439 Cool Springs Blvd Franklin TN 37067",
+    "addr:housenumber":"439",
+    "addr:postcode":"37067",
+    "addr:street":"Cool Springs Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.825749,35.946076,-86.825749,35.946076",
     "geom:latitude":35.946076,
     "geom:longitude":-86.825749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"439 Cool Springs Blvd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":1125151851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1MrRvkn9cPg3quDWfr8s9i_35.946076_-86.825749@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609204,
-    "wof:geomhash":"1071c8480453401236f7c53763910201",
+    "wof:geomhash":"d74782702f5697e5a207924f42db39a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823243101,
-    "wof:lastmodified":1467083630,
+    "wof:lastmodified":1510696691,
     "wof:name":"P.F. Chang's",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

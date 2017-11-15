@@ -2,14 +2,20 @@
   "id": 773102035,
   "type": "Feature",
   "properties": {
+    "addr:full":"19782 Alberta St Oneida TN 37841",
+    "addr:housenumber":"19782",
+    "addr:postcode":"37841",
+    "addr:street":"Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.496639,36.524912,-84.496639,36.524912",
     "geom:latitude":36.524912,
     "geom:longitude":-84.496639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19782 Alberta St",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087113,
         420542103
     ],
+    "wof:brand_id":420575925,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1koCdczAUHzI0hZggqTQiW_36.524912_-84.496639@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583168,
-    "wof:geomhash":"cbea6065e7ccdb93a21608758d510455",
+    "wof:geomhash":"a04dca5eb502865465042a6215fd2333",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773102035,
-    "wof:lastmodified":1467082803,
+    "wof:lastmodified":1510602895,
     "wof:name":"Friedmans Jewelers",
     "wof:parent_id":420542103,
     "wof:placetype":"venue",

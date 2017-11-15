@@ -2,14 +2,20 @@
   "id": 773719601,
   "type": "Feature",
   "properties": {
+    "addr:full":"1681 Fort Campbell Blvd Clarksville TN 37042",
+    "addr:housenumber":"1681",
+    "addr:postcode":"37042",
+    "addr:street":"Fort Campbell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.417909,36.594006,-87.417909,36.594006",
     "geom:latitude":36.594006,
     "geom:longitude":-87.417909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1681 Fort Campbell Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         85855495
     ],
+    "wof:brand_id":1125151517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3KNWoEKBHjxjgVvW4e9Jr5_36.594006_-87.417909@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587868,
-    "wof:geomhash":"f783b58bb74e0ae00f1ed7a9b8452235",
+    "wof:geomhash":"73c7567d1b0ed13aee8fa7bc98cfb6ed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773719601,
-    "wof:lastmodified":1467082963,
+    "wof:lastmodified":1510694722,
     "wof:name":"Queen Nails",
     "wof:parent_id":85855495,
     "wof:placetype":"venue",

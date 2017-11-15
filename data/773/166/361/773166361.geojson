@@ -2,14 +2,20 @@
   "id": 773166361,
   "type": "Feature",
   "properties": {
+    "addr:full":"3832 Youngstown Rd Chattanooga TN 37406",
+    "addr:housenumber":"3832",
+    "addr:postcode":"37406",
+    "addr:street":"Youngstown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.217112,35.077956,-85.217112,35.077956",
     "geom:latitude":35.077956,
     "geom:longitude":-85.217112,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3832 Youngstown Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85810631
     ],
+    "wof:brand_id":1125154885,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6CF4wPYpJ55qs9AU6hXJFF_35.077956_-85.217112@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583638,
-    "wof:geomhash":"bed704f682e580f0265ecda1c4394978",
+    "wof:geomhash":"bceabcb47cb486fd35dac6a3ec2aa9ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773166361,
-    "wof:lastmodified":1467082819,
+    "wof:lastmodified":1510697716,
     "wof:name":"Harmony Baptist Church",
     "wof:parent_id":85810631,
     "wof:placetype":"venue",

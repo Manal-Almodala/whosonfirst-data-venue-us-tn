@@ -2,9 +2,14 @@
   "id": 773412605,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 Covington Bend White House TN 37188",
+    "addr:housenumber":"209",
+    "addr:postcode":"37188",
+    "addr:street":"Covington Bend",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.637999,36.460847,-86.637999,36.460847",
     "geom:latitude":36.460847,
     "geom:longitude":-86.637999,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"8a7c168cab096c37aa109a441e2c7d7f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773412605,
-    "wof:lastmodified":1467082890,
+    "wof:lastmodified":1491939240,
     "wof:name":"New Image",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790450121,
   "type": "Feature",
   "properties": {
+    "addr:full":"1415 Union Ave Memphis TN 38104",
+    "addr:housenumber":"1415",
+    "addr:postcode":"38104",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.014289,35.136529,-90.014289,35.136529",
     "geom:latitude":35.136529,
     "geom:longitude":-90.014289,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1415 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087213,
         85846027
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GXi2LFTPaL3Bc3V6p8lKa_35.136529_-90.014289@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595913,
-    "wof:geomhash":"cb42b7bd7521071b58c6dc90c6bead2c",
+    "wof:geomhash":"3092261c4d9283fb61b6de0f8e71bcc1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790450121,
-    "wof:lastmodified":1467083203,
+    "wof:lastmodified":1510604189,
     "wof:name":"AM South Bank",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",

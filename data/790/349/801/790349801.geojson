@@ -2,14 +2,20 @@
   "id": 790349801,
   "type": "Feature",
   "properties": {
+    "addr:full":"718 Thompson Ln Nashville TN 37204",
+    "addr:housenumber":"718",
+    "addr:postcode":"37204",
+    "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.764724,36.112147,-86.764724,36.112147",
     "geom:latitude":36.112147,
     "geom:longitude":-86.764724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"718 Thompson Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85843601
     ],
+    "wof:brand_id":1125155949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_08jqp6VuC14hhNjVDpj27u_36.112147_-86.764724@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595135,
-    "wof:geomhash":"5012d94fc6a6d97123f8fd26832d3245",
+    "wof:geomhash":"879a8162e58c0cc1b8910dce3911594c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790349801,
-    "wof:lastmodified":1467083179,
+    "wof:lastmodified":1510699784,
     "wof:name":"Mattress King",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806973355,
   "type": "Feature",
   "properties": {
+    "addr:full":"1607 Hamill Rd Hixson TN 37343",
+    "addr:housenumber":"1607",
+    "addr:postcode":"37343",
+    "addr:street":"Hamill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.24819,35.118486,-85.24819,35.118486",
     "geom:latitude":35.118486,
     "geom:longitude":-85.24819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1607 Hamill Rd",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         420541703
     ],
+    "wof:brand_id":1125155031,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2sVK7dEgNFaQ7gHQm99UWy_35.118486_-85.248190@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602637,
-    "wof:geomhash":"8bcef272f9e79dce92b47440cb9e58cf",
+    "wof:geomhash":"35c533f483877170b85586f295e636f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806973355,
-    "wof:lastmodified":1467083424,
+    "wof:lastmodified":1510694956,
     "wof:name":"Metlife",
     "wof:parent_id":420541703,
     "wof:placetype":"venue",

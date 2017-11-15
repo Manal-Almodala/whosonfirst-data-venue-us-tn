@@ -2,14 +2,20 @@
   "id": 823258357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1720 W End Ave Nashville TN 37203",
+    "addr:housenumber":"1720",
+    "addr:postcode":"37203",
+    "addr:street":"W End Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795847,36.15348,-86.795847,36.15348",
     "geom:latitude":36.15348,
     "geom:longitude":-86.795847,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1720 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85893465
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Et3M5rYJ1JjFfxwtdR3Ts_36.153234_-86.795713@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609515,
-    "wof:geomhash":"a476eec238008b31151ea69a9eb1ae1a",
+    "wof:geomhash":"d93dac0d4afa8fa2c00b8ddbfff24ba9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823258357,
-    "wof:lastmodified":1467083641,
+    "wof:lastmodified":1510697651,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",

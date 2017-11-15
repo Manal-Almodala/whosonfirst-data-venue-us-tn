@@ -2,14 +2,20 @@
   "id": 790122953,
   "type": "Feature",
   "properties": {
+    "addr:full":"825 8th Ave S Nashville TN 37204",
+    "addr:housenumber":"825",
+    "addr:postcode":"37204",
+    "addr:street":"8Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.77915,36.147604,-86.77915,36.147604",
     "geom:latitude":36.147604,
     "geom:longitude":-86.77915,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"825 8th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087061,
         85893451
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4wX3zNbZKjrB6XUXFgl4a7_36.147604_-86.779150@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593313,
-    "wof:geomhash":"ea5dd4c3985f5b79d5d5f06fdda9994e",
+    "wof:geomhash":"e009cb8b0d6f4da7b1749bf4b4261d95",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":790122953,
-    "wof:lastmodified":1467083125,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85893451,
     "wof:placetype":"venue",

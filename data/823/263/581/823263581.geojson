@@ -2,14 +2,20 @@
   "id": 823263581,
   "type": "Feature",
   "properties": {
+    "addr:full":"1508 Charlotte Ave Nashville TN 37203",
+    "addr:housenumber":"1508",
+    "addr:postcode":"37203",
+    "addr:street":"Charlotte Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.796056,36.1597,-86.796056,36.1597",
     "geom:latitude":36.1597,
     "geom:longitude":-86.796056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1508 Charlotte Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85893465
     ],
+    "wof:brand_id":1125154009,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Q1MGcRFaSkqCF2VCaGnOg_36.159700_-86.796056@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609664,
-    "wof:geomhash":"0739ecf538e6c2b591a645da4a4e66ec",
+    "wof:geomhash":"b9e08fe366aa4d25dec75805b68ccca0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823263581,
-    "wof:lastmodified":1467083646,
+    "wof:lastmodified":1510695154,
     "wof:name":"Ticketmaster",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",

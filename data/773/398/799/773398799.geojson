@@ -2,14 +2,20 @@
   "id": 773398799,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Church St Nashville TN 37219",
+    "addr:housenumber":"401",
+    "addr:postcode":"37219",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.779568,36.163438,-86.779568,36.163438",
     "geom:latitude":36.163438,
     "geom:longitude":-86.779568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 Church St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85893483
     ],
+    "wof:brand_id":420575423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58kX01WX4AREByWmWJnbLV_36.163438_-86.779568@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585390,
-    "wof:geomhash":"e4f823280a80699a6fee94132311b10e",
+    "wof:geomhash":"6527564818d4cfe3cba644fcdad04dc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773398799,
-    "wof:lastmodified":1467082886,
+    "wof:lastmodified":1510602382,
     "wof:name":"PIP Printing",
     "wof:parent_id":85893483,
     "wof:placetype":"venue",

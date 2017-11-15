@@ -2,14 +2,20 @@
   "id": 790565645,
   "type": "Feature",
   "properties": {
+    "addr:full":"720 S Germantown Rd Chattanooga TN 37412",
+    "addr:housenumber":"720",
+    "addr:postcode":"37412",
+    "addr:street":"S Germantown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.255513,35.007425,-85.255513,35.007425",
     "geom:latitude":35.007425,
     "geom:longitude":-85.255513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"720 S Germantown Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85807819
     ],
+    "wof:brand_id":1125159785,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2MANJWl63EBXAaqlr2JCYr_35.007425_-85.255513@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596922,
-    "wof:geomhash":"1c1e0597265594bf44742a5561d198bc",
+    "wof:geomhash":"7499d3d388a37c489f0c43d166f853db",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790565645,
-    "wof:lastmodified":1467083236,
+    "wof:lastmodified":1510696644,
     "wof:name":"Ascension Lutheran Church",
     "wof:parent_id":85807819,
     "wof:placetype":"venue",

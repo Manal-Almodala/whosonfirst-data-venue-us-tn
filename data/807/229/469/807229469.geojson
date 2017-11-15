@@ -2,14 +2,20 @@
   "id": 807229469,
   "type": "Feature",
   "properties": {
+    "addr:full":"2528 Greens Mill Rd Columbia TN 38401",
+    "addr:housenumber":"2528",
+    "addr:postcode":"38401",
+    "addr:street":"Greens Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.972297,35.697424,-86.972297,35.697424",
     "geom:latitude":35.697424,
     "geom:longitude":-86.972297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2528 Greens Mill Rd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087107,
         420541943
     ],
+    "wof:brand_id":1125156919,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xTVquBNEMg0iwOMNQaRd7_35.697424_-86.972297@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605113,
-    "wof:geomhash":"d98559e30f811900f60c6b38afa8981f",
+    "wof:geomhash":"59e693e52df5b5ce14b0a996adb1db94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807229469,
-    "wof:lastmodified":1467083499,
+    "wof:lastmodified":1510698506,
     "wof:name":"Book Nook",
     "wof:parent_id":420541943,
     "wof:placetype":"venue",

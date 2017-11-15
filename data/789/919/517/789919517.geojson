@@ -2,14 +2,20 @@
   "id": 789919517,
   "type": "Feature",
   "properties": {
+    "addr:full":"617 Scenic Dr Lewisburg TN 37091",
+    "addr:housenumber":"617",
+    "addr:postcode":"37091",
+    "addr:street":"Scenic Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800423,35.442054,-86.800423,35.442054",
     "geom:latitude":35.442054,
     "geom:longitude":-86.800423,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"617 Scenic Dr",
     "sg:city":"Lewisburg",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087115,
         85811699
     ],
+    "wof:brand_id":420575791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FoyVfWTPlk05f9hSIRkda_35.442054_-86.800423@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591624,
-    "wof:geomhash":"90781fd775b69d331d57a6764d07868f",
+    "wof:geomhash":"3f578e608871a5f8374d2d294ec898ea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789919517,
-    "wof:lastmodified":1467083077,
+    "wof:lastmodified":1510602633,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85811699,
     "wof:placetype":"venue",

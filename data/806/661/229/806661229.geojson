@@ -2,14 +2,20 @@
   "id": 806661229,
   "type": "Feature",
   "properties": {
+    "addr:full":"1051 E Trinity Ln Nashville TN 37216",
+    "addr:housenumber":"1051",
+    "addr:postcode":"37216",
+    "addr:street":"E Trinity Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.742169,36.204086,-86.742169,36.204086",
     "geom:latitude":36.204086,
     "geom:longitude":-86.742169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1051 E Trinity Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85816591
     ],
+    "wof:brand_id":1125153959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_63EnQpOfA24EOU5mqBUuUp_36.204086_-86.742169@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600013,
-    "wof:geomhash":"e57195bdacbf808a2585b7ab134e7152",
+    "wof:geomhash":"8ee7c78fec56272a2c37353820840b96",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806661229,
-    "wof:lastmodified":1467083337,
+    "wof:lastmodified":1510700012,
     "wof:name":"Hair Depot",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

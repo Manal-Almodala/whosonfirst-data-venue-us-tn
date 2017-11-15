@@ -2,14 +2,20 @@
   "id": 773300183,
   "type": "Feature",
   "properties": {
+    "addr:full":"790 Jordan Rd Franklin TN 37067",
+    "addr:housenumber":"790",
+    "addr:postcode":"37067",
+    "addr:street":"Jordan Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819664,35.941516,-86.819664,35.941516",
     "geom:latitude":35.941516,
     "geom:longitude":-86.819664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"790 Jordan Rd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":420575539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5EuLJYevVVDI0D9wEnXOk0_35.941516_-86.819664@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584681,
-    "wof:geomhash":"2e59cceb09ce57fd2279e0c3c5ed1c57",
+    "wof:geomhash":"db841dc83329d44b2217246c7b9f6a51",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773300183,
-    "wof:lastmodified":1467082862,
+    "wof:lastmodified":1510602694,
     "wof:name":"Household Finance",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

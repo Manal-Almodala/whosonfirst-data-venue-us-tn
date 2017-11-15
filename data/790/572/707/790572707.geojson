@@ -2,14 +2,20 @@
   "id": 790572707,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Carriage House Dr Jackson TN 38305",
+    "addr:housenumber":"106",
+    "addr:postcode":"38305",
+    "addr:street":"Carriage House Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.83259,35.666903,-88.83259,35.666903",
     "geom:latitude":35.666903,
     "geom:longitude":-88.83259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Carriage House Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":420574993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3vadneUOIhqzB1Svm8O7I7_35.666903_-88.832590@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596982,
-    "wof:geomhash":"b7b9425cd9f173447a41d68b9451193e",
+    "wof:geomhash":"4c88fd66bb6d642dd90fbf6aae6b01c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":790572707,
-    "wof:lastmodified":1467083238,
+    "wof:lastmodified":1510603965,
     "wof:name":"Gold's Gym",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823253857,
   "type": "Feature",
   "properties": {
+    "addr:full":"1040 N Germantown Pkwy Cordova TN 38018",
+    "addr:housenumber":"1040",
+    "addr:postcode":"38018",
+    "addr:street":"N Germantown Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.795175,35.1537,-89.795175,35.1537",
     "geom:latitude":35.1537,
     "geom:longitude":-89.795175,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1040 N Germantown Pkwy",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IoIkbIyYK4PIUs1VmydIQ_35.153700_-89.795175@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609419,
-    "wof:geomhash":"aab5a66e68daa398692c9625aa4a699a",
+    "wof:geomhash":"ca0066d84932767c5f45121a10487540",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":823253857,
-    "wof:lastmodified":1467083638,
+    "wof:lastmodified":1510694751,
     "wof:name":"O'Charley's",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

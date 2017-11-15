@@ -2,14 +2,20 @@
   "id": 790565001,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 E Lincoln Rd Oak Ridge TN 37830",
+    "addr:housenumber":"101",
+    "addr:postcode":"37830",
+    "addr:street":"E Lincoln Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.289912,36.003551,-84.289912,36.003551",
     "geom:latitude":36.003551,
     "geom:longitude":-84.289912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 E Lincoln Rd",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086483,
         85827263
     ],
+    "wof:brand_id":1125158551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4GuUge97S4sko7mHyXVLyr_36.003551_-84.289912@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596913,
-    "wof:geomhash":"ad55d4269daa332543a4d70466dafb0d",
+    "wof:geomhash":"21a9d70281e7f84e9997c67274e9189f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790565001,
-    "wof:lastmodified":1467083236,
+    "wof:lastmodified":1510697797,
     "wof:name":"Internationl Assn Machinsts/Ae",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

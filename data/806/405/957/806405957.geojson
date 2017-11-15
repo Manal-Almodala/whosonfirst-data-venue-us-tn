@@ -2,9 +2,14 @@
   "id": 806405957,
   "type": "Feature",
   "properties": {
+    "addr:full":"2722 McLemore Rd Franklin TN 37064",
+    "addr:housenumber":"2722",
+    "addr:postcode":"37064",
+    "addr:street":"Mclemore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.862754,35.839197,-86.862754,35.839197",
     "geom:latitude":35.839197,
     "geom:longitude":-86.862754,
@@ -34,12 +39,7 @@
         "trucking"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5o6vTNm5oxhAqeygnqO2zS_35.839197_-86.862754@1294204733"
@@ -47,17 +47,9 @@
     "wof:country":"US",
     "wof:created":1462597882,
     "wof:geomhash":"7a70fd6a522b1c432b8dd7a3eda4362b",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":806405957
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806405957,
-    "wof:lastmodified":1467083266,
+    "wof:lastmodified":1491930829,
     "wof:name":"Tinsley's Transportation",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

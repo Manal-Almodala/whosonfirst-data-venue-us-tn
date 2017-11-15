@@ -2,14 +2,20 @@
   "id": 806393667,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 Greene Ln Knoxville TN 37920",
+    "addr:housenumber":"120",
+    "addr:postcode":"37920",
+    "addr:street":"Greene Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.847008,35.910529,-83.847008,35.910529",
     "geom:latitude":35.910529,
     "geom:longitude":-83.847008,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 Greene Ln",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086455,
         85833365
     ],
+    "wof:brand_id":420575263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3aJhHO9yswoa2QF3WMXv8r_35.910529_-83.847008@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597782,
-    "wof:geomhash":"210396c9359f9dc9b34550c8a34d753e",
+    "wof:geomhash":"ee386dd4b1de78bc40d629b363afbd69",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806393667,
-    "wof:lastmodified":1467083263,
+    "wof:lastmodified":1510602610,
     "wof:name":"Murphy Oil USA Inc",
     "wof:parent_id":85833365,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823192231,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 8th Ave N Nashville TN 37203",
+    "addr:housenumber":"312",
+    "addr:postcode":"37203",
+    "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.783976,36.16158,-86.783976,36.16158",
     "geom:latitude":36.16158,
     "geom:longitude":-86.783976,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 8th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85871389
     ],
+    "wof:brand_id":1125154235,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BPVhNsMigRJ1kj9YLaG1b_36.161580_-86.783976@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608221,
-    "wof:geomhash":"0d46693afc5361325e88ae3f1d09de30",
+    "wof:geomhash":"180e3557b9eebbda07dd9d8d5b949d76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823192231,
-    "wof:lastmodified":1467083596,
+    "wof:lastmodified":1510694887,
     "wof:name":"Maximus Inc",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",

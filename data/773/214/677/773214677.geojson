@@ -2,9 +2,14 @@
   "id": 773214677,
   "type": "Feature",
   "properties": {
+    "addr:full":"2110 Wimbledon Cir Franklin TN 37069",
+    "addr:housenumber":"2110",
+    "addr:postcode":"37069",
+    "addr:street":"Wimbledon Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.892704,35.970207,-86.892704,35.970207",
     "geom:latitude":35.970207,
     "geom:longitude":-86.892704,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -40,6 +46,7 @@
     "wof:geomhash":"246dc10c45453581f1494f2c05682ba1",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773214677,
-    "wof:lastmodified":1467082833,
+    "wof:lastmodified":1491924149,
     "wof:name":"Ammco",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

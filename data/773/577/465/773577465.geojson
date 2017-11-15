@@ -2,6 +2,10 @@
   "id": 773577465,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 E Emory Rd Knoxville TN 37938",
+    "addr:housenumber":"4321",
+    "addr:postcode":"37938",
+    "addr:street":"E Emory Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":773577465,
-    "wof:lastmodified":1467082929,
+    "wof:lastmodified":1472645935,
     "wof:name":"Cafeteria",
     "wof:parent_id":85820307,
     "wof:placetype":"venue",

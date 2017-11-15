@@ -2,14 +2,20 @@
   "id": 773424175,
   "type": "Feature",
   "properties": {
+    "addr:full":"232 E James Campbell Blvd Columbia TN 38401",
+    "addr:housenumber":"232",
+    "addr:postcode":"38401",
+    "addr:street":"E James Campbell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.030561,35.588419,-87.030561,35.588419",
     "geom:latitude":35.588419,
     "geom:longitude":-87.030561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"232 E James Campbell Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087107,
         420541939
     ],
+    "wof:brand_id":1125155643,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2k2ogkMcAv5RLv6kVs8K1b_35.588419_-87.030561@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585611,
-    "wof:geomhash":"22f08f9f98068baf64a3e6adae07fa25",
+    "wof:geomhash":"17c5e12a188f9a0eb262869d69842f73",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773424175,
-    "wof:lastmodified":1467082892,
+    "wof:lastmodified":1510697976,
     "wof:name":"Nationsrent Inc",
     "wof:parent_id":420541939,
     "wof:placetype":"venue",

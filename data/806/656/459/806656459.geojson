@@ -2,14 +2,20 @@
   "id": 806656459,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 Dinah Shore Blvd Winchester TN 37398",
+    "addr:housenumber":"800",
+    "addr:postcode":"37398",
+    "addr:street":"Dinah Shore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.103305,35.193152,-86.103305,35.193152",
     "geom:latitude":35.193152,
     "geom:longitude":-86.103305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"800 Dinah Shore Blvd",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086227,
         85805347
     ],
+    "wof:brand_id":1125154549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2QW8JxiNlB2f0uMrrYEVGI_35.193152_-86.103305@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599966,
-    "wof:geomhash":"e2ff143635fb9358fd211bece86aeaa6",
+    "wof:geomhash":"c8c9b76ae1da6151d1a6890308b0ecdf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806656459,
-    "wof:lastmodified":1467083336,
+    "wof:lastmodified":1510699047,
     "wof:name":"OReilly Auto Parts",
     "wof:parent_id":85805347,
     "wof:placetype":"venue",

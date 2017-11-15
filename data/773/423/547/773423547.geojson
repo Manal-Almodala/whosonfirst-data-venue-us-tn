@@ -2,9 +2,14 @@
   "id": 773423547,
   "type": "Feature",
   "properties": {
+    "addr:full":"356 Ben Albert Rd Cottontown TN 37048",
+    "addr:housenumber":"356",
+    "addr:postcode":"37048",
+    "addr:street":"Ben Albert Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.64597,36.431961,-86.64597,36.431961",
     "geom:latitude":36.431961,
     "geom:longitude":-86.64597,
@@ -32,6 +37,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -46,6 +52,7 @@
     "wof:geomhash":"bbbef1b688e9ee2b750db7895c0749f4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773423547,
-    "wof:lastmodified":1467082892,
+    "wof:lastmodified":1491939243,
     "wof:name":"West Welding",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806852765,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 N Roan St Johnson City TN 37601",
+    "addr:housenumber":"101",
+    "addr:postcode":"37601",
+    "addr:street":"N Roan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.35261,36.318992,-82.35261,36.318992",
     "geom:latitude":36.318992,
     "geom:longitude":-82.35261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 N Roan St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086335,
         85822495
     ],
+    "wof:brand_id":1125154819,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7F8DJTb7kUtDR6h7WrJUZy_36.318992_-82.352610@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601631,
-    "wof:geomhash":"ccece9a33d6160d1054e68f593a98f0d",
+    "wof:geomhash":"64516f2f4dff1d099e26a6cd73f206ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806852765,
-    "wof:lastmodified":1467083391,
+    "wof:lastmodified":1510695895,
     "wof:name":"Ultra Tan",
     "wof:parent_id":85822495,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807262463,
   "type": "Feature",
   "properties": {
+    "addr:full":"843 Whisperwood Trl NE Cleveland TN 37312",
+    "addr:housenumber":"843",
+    "addr:postcode":"37312",
+    "addr:street":"Whisperwood Trl Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.814764,35.205746,-84.814764,35.205746",
     "geom:latitude":35.205746,
     "geom:longitude":-84.814764,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"843 Whisperwood Trl NE",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087043,
         85847789
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qzbQzTDz2HTCT8FjLGAwe_35.205746_-84.814764@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605454,
-    "wof:geomhash":"0b44006ec83e8a7c5f310807adc7869c",
+    "wof:geomhash":"6adc58dddca93e50a8135f685d8ccc62",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":807262463,
-    "wof:lastmodified":1467083510,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85847789,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 404005551,
   "type": "Feature",
   "properties": {
+    "addr:full":"2300 Sycamore Dr Knoxville TN 37921",
+    "addr:housenumber":"2300",
+    "addr:postcode":"37921",
+    "addr:street":"Sycamore Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.970644,35.979822,-83.970644,35.979822",
     "geom:latitude":35.979822,
     "geom:longitude":-83.970644,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2300 Sycamore Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,12 +41,13 @@
         101722865,
         102086455
     ],
+    "wof:brand_id":1125156045,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7lpbCO7tfsay7ysIGpGQ7Y_35.979822_-83.970644@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"4a060e75776bb55efeeabfb4aea3370b",
+    "wof:geomhash":"81de5bccf6cdc46bcb2ebd64d832c09f",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":404005551,
-    "wof:lastmodified":1467082780,
+    "wof:lastmodified":1510695017,
     "wof:name":"Boc Gases",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

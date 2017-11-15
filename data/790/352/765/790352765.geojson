@@ -2,14 +2,20 @@
   "id": 790352765,
   "type": "Feature",
   "properties": {
+    "addr:full":"9815 Seattle Slew Ln Knoxville TN 37931",
+    "addr:housenumber":"9815",
+    "addr:postcode":"37931",
+    "addr:street":"Seattle Slew Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.11936,35.94773,-84.11936,35.94773",
     "geom:latitude":35.94773,
     "geom:longitude":-84.11936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9815 Seattle Slew Ln",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":1125151711,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5se6n5KNQRV8tuOXhrB4QI_35.947730_-84.119360@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595158,
-    "wof:geomhash":"b15b43e5b778543cb9448c308a089833",
+    "wof:geomhash":"e176c5a9524c665f3b2b9d534efff0b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790352765,
-    "wof:lastmodified":1467083180,
+    "wof:lastmodified":1510696788,
     "wof:name":"Arthur Murray Dance Studio",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

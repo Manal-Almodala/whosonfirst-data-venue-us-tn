@@ -2,14 +2,20 @@
   "id": 789901459,
   "type": "Feature",
   "properties": {
+    "addr:full":"5532 Old Hickory Blvd Hermitage TN 37076",
+    "addr:housenumber":"5532",
+    "addr:postcode":"37076",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.606096,36.179867,-86.606096,36.179867",
     "geom:latitude":36.179867,
     "geom:longitude":-86.606096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5532 Old Hickory Blvd",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85824683
     ],
+    "wof:brand_id":420575539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1sCjo2kZUjgHfHlIMgvJzo_36.179867_-86.606096@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591457,
-    "wof:geomhash":"e8661774097bd6c1b5d176d93e5959cf",
+    "wof:geomhash":"784521fc7c4447bf7e6423431c9e2be2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789901459,
-    "wof:lastmodified":1467083073,
+    "wof:lastmodified":1510602693,
     "wof:name":"Household Finance",
     "wof:parent_id":85824683,
     "wof:placetype":"venue",

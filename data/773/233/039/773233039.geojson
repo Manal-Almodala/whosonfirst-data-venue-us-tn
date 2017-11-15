@@ -2,14 +2,20 @@
   "id": 773233039,
   "type": "Feature",
   "properties": {
+    "addr:full":"8535 Hixson Pike Hixson TN 37343",
+    "addr:housenumber":"8535",
+    "addr:postcode":"37343",
+    "addr:street":"Hixson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.159574,35.200353,-85.159574,35.200353",
     "geom:latitude":35.200353,
     "geom:longitude":-85.159574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8535 Hixson Pike",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087185,
         85843021
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xLv8XWh7ksPteDwM7cY9z_35.200353_-85.159574@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584169,
-    "wof:geomhash":"1061c4ccf9b3bc98729d5261ff2e369b",
+    "wof:geomhash":"93340f8f3aa7df5097daf63f427ae79d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773233039,
-    "wof:lastmodified":1467082839,
+    "wof:lastmodified":1510608504,
     "wof:name":"AM South Bank",
     "wof:parent_id":85843021,
     "wof:placetype":"venue",

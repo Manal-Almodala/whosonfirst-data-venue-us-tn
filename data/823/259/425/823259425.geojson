@@ -2,14 +2,20 @@
   "id": 823259425,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 Louisville Rd Alcoa TN 37701",
+    "addr:housenumber":"523",
+    "addr:postcode":"37701",
+    "addr:street":"Louisville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.983914,35.770018,-83.983914,35.770018",
     "geom:latitude":35.770018,
     "geom:longitude":-83.983914,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"523 Louisville Rd",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087017,
         420559073
     ],
+    "wof:brand_id":1125150833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6DyvyL5OIrRL61AP5PtPV9_35.770498_-83.983932@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609542,
-    "wof:geomhash":"88e06b554dcb0eb6e6d278aacb5026b0",
+    "wof:geomhash":"9b718b47899ee64e301b0db98c6fd3af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823259425,
-    "wof:lastmodified":1467083641,
+    "wof:lastmodified":1510695417,
     "wof:name":"Lee's Famous Recipe Chicken",
     "wof:parent_id":420559073,
     "wof:placetype":"venue",

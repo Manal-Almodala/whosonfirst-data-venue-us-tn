@@ -2,14 +2,20 @@
   "id": 790500959,
   "type": "Feature",
   "properties": {
+    "addr:full":"6045 Stage Rd Bartlett TN 38134",
+    "addr:housenumber":"6045",
+    "addr:postcode":"38134",
+    "addr:street":"Stage Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.860612,35.204677,-89.860612,35.204677",
     "geom:latitude":35.204677,
     "geom:longitude":-89.860612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6045 Stage Rd",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125153913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1o1Q8G0RqsmYyCApBM03DX_35.204677_-89.860612@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596375,
-    "wof:geomhash":"6c2ae495cadfb8dac292d3f1fa4b1c64",
+    "wof:geomhash":"18c6f632507aa7fd99d911b8d4f2a7f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":790500959,
-    "wof:lastmodified":1467083218,
+    "wof:lastmodified":1510699415,
     "wof:name":"Wolf Camera and Video",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

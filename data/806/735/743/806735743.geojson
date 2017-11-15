@@ -2,14 +2,20 @@
   "id": 806735743,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 Whispering Way Kingsport TN 37663",
+    "addr:housenumber":"502",
+    "addr:postcode":"37663",
+    "addr:street":"Whispering Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.5103,36.475953,-82.5103,36.475953",
     "geom:latitude":36.475953,
     "geom:longitude":-82.5103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 Whispering Way",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         85826065
     ],
+    "wof:brand_id":1125151969,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5II06GAXzLzoWYowsx0p7N_36.475953_-82.510300@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600630,
-    "wof:geomhash":"0a705ad90349859b0244d8d610f3462b",
+    "wof:geomhash":"4e36341d2515c081350a679f02de37fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806735743,
-    "wof:lastmodified":1467083359,
+    "wof:lastmodified":1510613289,
     "wof:name":"American Bowling Congress",
     "wof:parent_id":85826065,
     "wof:placetype":"venue",

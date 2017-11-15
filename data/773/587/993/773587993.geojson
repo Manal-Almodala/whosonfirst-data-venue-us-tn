@@ -2,14 +2,20 @@
   "id": 773587993,
   "type": "Feature",
   "properties": {
+    "addr:full":"805 Boyd Way Lenoir City TN 37722",
+    "addr:housenumber":"805",
+    "addr:postcode":"37722",
+    "addr:street":"Boyd Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.299378,35.838658,-83.299378,35.838658",
     "geom:latitude":35.838658,
     "geom:longitude":-83.299378,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"805 Boyd Way",
     "sg:city":"Lenoir City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086245,
         85842013
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3K5ZTCgH8fIvsppee0xPuT_35.838658_-83.299378@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586858,
-    "wof:geomhash":"7bc5927e34a650a87f6ee99b0ea9d24a",
+    "wof:geomhash":"f18166394d624a2e7babb386f51b7255",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773587993,
-    "wof:lastmodified":1467082931,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":85842013,
     "wof:placetype":"venue",

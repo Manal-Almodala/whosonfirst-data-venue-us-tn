@@ -2,14 +2,20 @@
   "id": 789983377,
   "type": "Feature",
   "properties": {
+    "addr:full":"4212 Asheville Hwy Knoxville TN 37914",
+    "addr:housenumber":"4212",
+    "addr:postcode":"37914",
+    "addr:street":"Asheville Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.868513,36.003599,-83.868513,36.003599",
     "geom:latitude":36.003599,
     "geom:longitude":-83.868513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4212 Asheville Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086455,
         420541837
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yWyU3vDDMNL9rc0Uxfatc_36.003599_-83.868513@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592198,
-    "wof:geomhash":"474d2abd73849df321ee2912f3978f2c",
+    "wof:geomhash":"5237683440cb728dcf0cbf03e40c3835",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789983377,
-    "wof:lastmodified":1467083093,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":420541837,
     "wof:placetype":"venue",

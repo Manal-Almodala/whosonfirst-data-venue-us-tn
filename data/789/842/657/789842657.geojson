@@ -2,14 +2,20 @@
   "id": 789842657,
   "type": "Feature",
   "properties": {
+    "addr:full":"1387 Elvis Presley Blvd Memphis TN 38106",
+    "addr:housenumber":"1387",
+    "addr:postcode":"38106",
+    "addr:street":"Elvis Presley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.021768,35.10935,-90.021768,35.10935",
     "geom:latitude":35.10935,
     "geom:longitude":-90.021768,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1387 Elvis Presley Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85808431
     ],
+    "wof:brand_id":1125150137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0oZMRD7lerJpxghuen1OCD_35.109350_-90.021768@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590970,
-    "wof:geomhash":"09e4280099d1c82a5aeac7d1226f3635",
+    "wof:geomhash":"4b456d8be9a4b288f4f74b85e9476ab2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789842657,
-    "wof:lastmodified":1467083058,
+    "wof:lastmodified":1510696874,
     "wof:name":"Perfect Nails",
     "wof:parent_id":85808431,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806959721,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Cool Springs Rd Hendersonville TN 37075",
+    "addr:housenumber":"111",
+    "addr:postcode":"37075",
+    "addr:street":"Cool Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.655916,36.346604,-86.655916,36.346604",
     "geom:latitude":36.346604,
     "geom:longitude":-86.655916,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"b9a711dc90054b59d82667ea9bfddb88",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806959721,
-    "wof:lastmodified":1467083421,
+    "wof:lastmodified":1491939208,
     "wof:name":"Affordatripcom",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

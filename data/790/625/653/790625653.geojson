@@ -2,14 +2,20 @@
   "id": 790625653,
   "type": "Feature",
   "properties": {
+    "addr:full":"2760 S Germantown Rd Germantown TN 38138",
+    "addr:housenumber":"2760",
+    "addr:postcode":"38138",
+    "addr:street":"S Germantown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.812308,35.073288,-89.812308,35.073288",
     "geom:latitude":35.073288,
     "geom:longitude":-89.812308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2760 S Germantown Rd",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125158765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6WyUZgqtyc9giBmT5jGCPR_35.073288_-89.812308@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597465,
-    "wof:geomhash":"5e2c08db4a754af9bf22b083184cb5c3",
+    "wof:geomhash":"f5c4f6c409fa77c61cac0d7c3d4a0b80",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790625653,
-    "wof:lastmodified":1467083252,
+    "wof:lastmodified":1510696981,
     "wof:name":"Eyemasters",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

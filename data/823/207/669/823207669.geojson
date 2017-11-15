@@ -2,14 +2,20 @@
   "id": 823207669,
   "type": "Feature",
   "properties": {
+    "addr:full":"2763 Spottswood Ave Memphis TN 38114",
+    "addr:housenumber":"2763",
+    "addr:postcode":"38114",
+    "addr:street":"Spottswood Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.969487,35.113901,-89.969487,35.113901",
     "geom:latitude":35.113901,
     "geom:longitude":-89.969487,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2763 Spottswood Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85808437
     ],
+    "wof:brand_id":1125151277,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0xRWHYADAOmNj9zLFDZTRK_35.113901_-89.969487@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608491,
-    "wof:geomhash":"74082e25d7bd3059db53ab9f6c0366ea",
+    "wof:geomhash":"cdd8dd1957ad3506b8bd3c608161ac4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823207669,
-    "wof:lastmodified":1467083605,
+    "wof:lastmodified":1510699623,
     "wof:name":"Mount Olive Baptist Church",
     "wof:parent_id":85808437,
     "wof:placetype":"venue",

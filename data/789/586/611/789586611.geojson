@@ -2,14 +2,20 @@
   "id": 789586611,
   "type": "Feature",
   "properties": {
+    "addr:full":"180 Carriage House Dr Jackson TN 38305",
+    "addr:housenumber":"180",
+    "addr:postcode":"38305",
+    "addr:street":"Carriage House Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.834586,35.667436,-88.834586,35.667436",
     "geom:latitude":35.667436,
     "geom:longitude":-88.834586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"180 Carriage House Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125153569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hqJruLntBNoB3RHJoltQG_35.667436_-88.834586@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588960,
-    "wof:geomhash":"060c19408c6b2db03e8067e42572ae5e",
+    "wof:geomhash":"aca79e21ef4e79b8a1ab82d8de0eba57",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789586611,
-    "wof:lastmodified":1467082997,
+    "wof:lastmodified":1510693206,
     "wof:name":"U S Bank National Association",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

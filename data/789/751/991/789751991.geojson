@@ -2,14 +2,20 @@
   "id": 789751991,
   "type": "Feature",
   "properties": {
+    "addr:full":"425 8th St Etowah TN 37331",
+    "addr:housenumber":"425",
+    "addr:postcode":"37331",
+    "addr:street":"8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.52918,35.324756,-84.52918,35.324756",
     "geom:latitude":35.324756,
     "geom:longitude":-84.52918,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"425 8th St",
     "sg:city":"Etowah",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086293,
         85837601
     ],
+    "wof:brand_id":1125156485,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0GmRZpqow5tv3wODDC7b5a_35.324756_-84.529180@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590267,
-    "wof:geomhash":"e1616b4bfda9f7fe5c9d25312be921cc",
+    "wof:geomhash":"1b3ea5df0a0220c49835c109e80364d0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789751991,
-    "wof:lastmodified":1467083036,
+    "wof:lastmodified":1510695425,
     "wof:name":"St Paul's United Methodist Chr",
     "wof:parent_id":85837601,
     "wof:placetype":"venue",

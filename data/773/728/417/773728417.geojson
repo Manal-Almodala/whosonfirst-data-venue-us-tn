@@ -2,14 +2,20 @@
   "id": 773728417,
   "type": "Feature",
   "properties": {
+    "addr:full":"1905 N Roan St Johnson City TN 37601",
+    "addr:housenumber":"1905",
+    "addr:postcode":"37601",
+    "addr:street":"N Roan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.374571,36.339785,-82.374571,36.339785",
     "geom:latitude":36.339785,
     "geom:longitude":-82.374571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1905 N Roan St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086335,
         420542257
     ],
+    "wof:brand_id":1125156315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cswOSdZR36UrDd6zhgNJC_36.339785_-82.374571@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587937,
-    "wof:geomhash":"4bfa5c9f86b8effd7986a8a5bf8f1ed8",
+    "wof:geomhash":"432e14c73711df4a0b2700efdef69a4c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773728417,
-    "wof:lastmodified":1467082965,
+    "wof:lastmodified":1510693710,
     "wof:name":"Tony Romas",
     "wof:parent_id":420542257,
     "wof:placetype":"venue",

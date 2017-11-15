@@ -2,14 +2,20 @@
   "id": 806957467,
   "type": "Feature",
   "properties": {
+    "addr:full":"120 N Jackson St Tullahoma TN 37388",
+    "addr:housenumber":"120",
+    "addr:postcode":"37388",
+    "addr:street":"N Jackson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.211935,35.362407,-86.211935,35.362407",
     "geom:latitude":35.362407,
     "geom:longitude":-86.211935,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"120 N Jackson St",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087095,
         85807337
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H5qAACssmQXmkSrwnqlr5_35.362407_-86.211935@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602506,
-    "wof:geomhash":"6d4d81936c2b72c0ad3787ab4037a488",
+    "wof:geomhash":"4acdd4aad30d8d0539e2c57463d4b917",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806957467,
-    "wof:lastmodified":1467083420,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85807337,
     "wof:placetype":"venue",

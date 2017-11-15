@@ -2,14 +2,20 @@
   "id": 807129127,
   "type": "Feature",
   "properties": {
+    "addr:full":"215 Chestnut St Chattanooga TN 37402",
+    "addr:housenumber":"215",
+    "addr:postcode":"37402",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.311899,35.053649,-85.311899,35.053649",
     "geom:latitude":35.053649,
     "geom:longitude":-85.311899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"215 Chestnut St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85876727
     ],
+    "wof:brand_id":1125156827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3iLXbSh6OXzIES8FR6iEej_35.053649_-85.311899@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604039,
-    "wof:geomhash":"84aa282c377906b8c67ba487194b2088",
+    "wof:geomhash":"a2b7dffee2f80fb5ee8400928867294a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807129127,
-    "wof:lastmodified":1467083466,
+    "wof:lastmodified":1510613403,
     "wof:name":"Residence Inn By Marriott",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",

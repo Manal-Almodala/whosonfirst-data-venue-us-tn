@@ -2,14 +2,20 @@
   "id": 807337627,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 Bell St Mc Minnville TN 37110",
+    "addr:housenumber":"200",
+    "addr:postcode":"37110",
+    "addr:street":"Bell St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.782279,35.672485,-85.782279,35.672485",
     "geom:latitude":35.672485,
     "geom:longitude":-85.782279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Bell St",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086399,
         420542243
     ],
+    "wof:brand_id":1125154385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eYIMDxqRtnfLMtwm5xeB3_35.672485_-85.782279@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606316,
-    "wof:geomhash":"b659813dea742d2f81bcbc014fc5d67e",
+    "wof:geomhash":"8e413c4d4002223bf7c33d988037a7c1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807337627,
-    "wof:lastmodified":1467083539,
+    "wof:lastmodified":1510696957,
     "wof:name":"Water Treatment Plant",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",

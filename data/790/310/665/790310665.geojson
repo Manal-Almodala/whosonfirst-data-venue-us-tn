@@ -2,14 +2,20 @@
   "id": 790310665,
   "type": "Feature",
   "properties": {
+    "addr:full":"743 Harding Pl Nashville TN 37211",
+    "addr:housenumber":"743",
+    "addr:postcode":"37211",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.758133,36.080976,-86.758133,36.080976",
     "geom:latitude":36.080976,
     "geom:longitude":-86.758133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"743 Harding Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85812955
     ],
+    "wof:brand_id":1125150929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SMi8rexxwwA8O3M0hXTQN_36.080976_-86.758133@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594851,
-    "wof:geomhash":"005a32acaea3e05a75d6ac80e1885040",
+    "wof:geomhash":"a6db0ecd7a5698cf1348e2730e11fc34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790310665,
-    "wof:lastmodified":1467083170,
+    "wof:lastmodified":1510694585,
     "wof:name":"CSX",
     "wof:parent_id":85812955,
     "wof:placetype":"venue",

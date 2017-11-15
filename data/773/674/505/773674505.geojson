@@ -2,9 +2,14 @@
   "id": 773674505,
   "type": "Feature",
   "properties": {
+    "addr:full":"2808 Critz Ln Thompsons Sta TN 37179",
+    "addr:housenumber":"2808",
+    "addr:postcode":"37179",
+    "addr:street":"Critz Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.853858,35.80764,-86.853858,35.80764",
     "geom:latitude":35.80764,
     "geom:longitude":-86.853858,
@@ -28,12 +33,7 @@
         "customizing"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SIHXSbGKAMqElR8JQTVdy_35.807640_-86.853858@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462587496,
     "wof:geomhash":"e475c093e42060d84ac8d9bc2f55c385",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773674505
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773674505,
-    "wof:lastmodified":1467082952,
+    "wof:lastmodified":1491930833,
     "wof:name":"Ross' Restoration",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

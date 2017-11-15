@@ -2,9 +2,14 @@
   "id": 806767597,
   "type": "Feature",
   "properties": {
+    "addr:full":"413 Portland Rd White House TN 37188",
+    "addr:housenumber":"413",
+    "addr:postcode":"37188",
+    "addr:street":"Portland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.641798,36.474869,-86.641798,36.474869",
     "geom:latitude":36.474869,
     "geom:longitude":-86.641798,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d71fc09c12b0dad5469028f2bb3a083f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806767597,
-    "wof:lastmodified":1467083368,
+    "wof:lastmodified":1491939212,
     "wof:name":"Joe Ragland General Contractor",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

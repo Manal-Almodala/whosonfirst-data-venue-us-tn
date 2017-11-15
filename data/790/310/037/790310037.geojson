@@ -2,14 +2,20 @@
   "id": 790310037,
   "type": "Feature",
   "properties": {
+    "addr:full":"9503 Apison Pike Ooltewah TN 37363",
+    "addr:housenumber":"9503",
+    "addr:postcode":"37363",
+    "addr:street":"Apison Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.066278,35.059443,-85.066278,35.059443",
     "geom:latitude":35.059443,
     "geom:longitude":-85.066278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9503 Apison Pike",
     "sg:city":"Ooltewah",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85826071,
         102087185
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7A99ouCeZw8UkX0vfoBF2Z_35.059443_-85.066278@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594847,
-    "wof:geomhash":"7014d45bf11b6a299a87a329ff9fdb66",
+    "wof:geomhash":"dc5fe46aa8f961dcc0b72ea63f244999",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790310037,
-    "wof:lastmodified":1467083169,
+    "wof:lastmodified":1510604187,
     "wof:name":"AM South Bank",
     "wof:parent_id":85826071,
     "wof:placetype":"venue",

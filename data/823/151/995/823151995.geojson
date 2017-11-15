@@ -2,14 +2,20 @@
   "id": 823151995,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Vann Dr Jackson TN 38305",
+    "addr:housenumber":"220",
+    "addr:postcode":"38305",
+    "addr:street":"Vann Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.834325,35.671533,-88.834325,35.671533",
     "geom:latitude":35.671533,
     "geom:longitude":-88.834325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 Vann Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125154237,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HWr8MVyodRgZknWH8XeyW_35.671533_-88.834325@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607691,
-    "wof:geomhash":"4172ce86a3bdcb8ec454eaf6e173fd6a",
+    "wof:geomhash":"a1cc78ba9cde45752f55f56ab523953f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823151995,
-    "wof:lastmodified":1467083577,
+    "wof:lastmodified":1510694887,
     "wof:name":"Microtel Inns & Suites",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

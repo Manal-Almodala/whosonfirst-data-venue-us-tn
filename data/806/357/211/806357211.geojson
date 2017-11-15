@@ -2,14 +2,20 @@
   "id": 806357211,
   "type": "Feature",
   "properties": {
+    "addr:full":"4157 Willow Lake Blvd Memphis TN 38118",
+    "addr:housenumber":"4157",
+    "addr:postcode":"38118",
+    "addr:street":"Willow Lake Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.889335,35.03603,-89.889335,35.03603",
     "geom:latitude":35.03603,
     "geom:longitude":-89.889335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4157 Willow Lake Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         85870783,
         85870785
     ],
+    "wof:brand_id":1125152423,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ZWJI0YZy1mRCXFblNHZhu_35.036030_-89.889335@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597487,
-    "wof:geomhash":"8d4f64bb02190cb646fc8fefcb4b8758",
+    "wof:geomhash":"409b88eeb24e07edd4fc2cb70f1cec93",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":806357211,
-    "wof:lastmodified":1467083253,
+    "wof:lastmodified":1510693823,
     "wof:name":"Securitas Security Svc USA Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

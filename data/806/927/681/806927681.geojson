@@ -2,14 +2,20 @@
   "id": 806927681,
   "type": "Feature",
   "properties": {
+    "addr:full":"2314 Hillsboro Blvd Manchester TN 37355",
+    "addr:housenumber":"2314",
+    "addr:postcode":"37355",
+    "addr:street":"Hillsboro Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.049413,35.456531,-86.049413,35.456531",
     "geom:latitude":35.456531,
     "geom:longitude":-86.049413,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2314 Hillsboro Blvd",
     "sg:city":"Manchester",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85857461,
         102087095
     ],
+    "wof:brand_id":420574769,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6AQlNCYJmpVk5anprJzdgD_35.456531_-86.049413@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602254,
-    "wof:geomhash":"112a3e45379d004817404b6abb15cc05",
+    "wof:geomhash":"8851be3b90b7398c60b7dcac408754c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806927681,
-    "wof:lastmodified":1467083412,
+    "wof:lastmodified":1510604081,
     "wof:name":"Ramada Inn",
     "wof:parent_id":85857461,
     "wof:placetype":"venue",

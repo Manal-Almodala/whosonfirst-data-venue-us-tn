@@ -2,14 +2,20 @@
   "id": 773414633,
   "type": "Feature",
   "properties": {
+    "addr:full":"816 Mountain Creek Rd Chattanooga TN 37405",
+    "addr:housenumber":"816",
+    "addr:postcode":"37405",
+    "addr:street":"Mountain Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.327493,35.100642,-85.327493,35.100642",
     "geom:latitude":35.100642,
     "geom:longitude":-85.327493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"816 Mountain Creek Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85876741
     ],
+    "wof:brand_id":1125150581,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47ydZIFmfQZl5EgeIrZcps_35.100642_-85.327493@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585527,
-    "wof:geomhash":"f17c17ff5fae78ce42928b4b3ec2a48d",
+    "wof:geomhash":"8e1d55f9af80b4f0a3f48f12c251bcce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773414633,
-    "wof:lastmodified":1467082890,
+    "wof:lastmodified":1510699574,
     "wof:name":"Pretty Nails",
     "wof:parent_id":85876741,
     "wof:placetype":"venue",

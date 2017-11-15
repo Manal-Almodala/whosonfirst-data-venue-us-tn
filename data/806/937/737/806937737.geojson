@@ -2,14 +2,20 @@
   "id": 806937737,
   "type": "Feature",
   "properties": {
+    "addr:full":"19461 Alberta St Oneida TN 37841",
+    "addr:housenumber":"19461",
+    "addr:postcode":"37841",
+    "addr:street":"Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.496475,36.525105,-84.496475,36.525105",
     "geom:latitude":36.525105,
     "geom:longitude":-84.496475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19461 Alberta St",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087113,
         420542103
     ],
+    "wof:brand_id":420575299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RuFnVevxpOYjRUp82oy8A_36.525105_-84.496475@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602338,
-    "wof:geomhash":"a1b49d3ecf4825f93d314a492fc8d464",
+    "wof:geomhash":"1caad2aa49b55dbf471d12ba36717586",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806937737,
-    "wof:lastmodified":1467083415,
+    "wof:lastmodified":1510602398,
     "wof:name":"Ameriprise Financial",
     "wof:parent_id":420542103,
     "wof:placetype":"venue",

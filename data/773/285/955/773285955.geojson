@@ -2,14 +2,20 @@
   "id": 773285955,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 River Rock Blvd Murfreesboro TN 37128",
+    "addr:housenumber":"135",
+    "addr:postcode":"37128",
+    "addr:street":"River Rock Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.439518,35.845784,-86.439518,35.845784",
     "geom:latitude":35.845784,
     "geom:longitude":-86.439518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 River Rock Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125155141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1fkyh6KfzrBpZJMGmDaMLs_35.845784_-86.439518@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584570,
-    "wof:geomhash":"701ac33059fbc5a62487cbd5b1bffc27",
+    "wof:geomhash":"8734205292e77ea9b436eb0786da59a7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773285955,
-    "wof:lastmodified":1467082857,
+    "wof:lastmodified":1510699634,
     "wof:name":"Havertys Furniture",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773830517,
   "type": "Feature",
   "properties": {
+    "addr:full":"3813 Green Hills Village Dr Nashville TN 37215",
+    "addr:housenumber":"3813",
+    "addr:postcode":"37215",
+    "addr:street":"Green Hills Village Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.815719,36.108284,-86.815719,36.108284",
     "geom:latitude":36.108284,
     "geom:longitude":-86.815719,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3813 Green Hills Village Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85893463
     ],
+    "wof:brand_id":1125152923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_65wilVMELikJAXfJ2XzcVb_36.108284_-86.815719@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588724,
-    "wof:geomhash":"9f37613a6e327a60fd5f7948b67cc73a",
+    "wof:geomhash":"8e751a086a78a3f3d6ad4688e282b459",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773830517,
-    "wof:lastmodified":1467082991,
+    "wof:lastmodified":1510695332,
     "wof:name":"Acceptance Insurance Co",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",

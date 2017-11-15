@@ -2,9 +2,14 @@
   "id": 807207347,
   "type": "Feature",
   "properties": {
+    "addr:full":"1204 Newmans Trl Hendersonville TN 37075",
+    "addr:housenumber":"1204",
+    "addr:postcode":"37075",
+    "addr:street":"Newmans Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.599003,36.385079,-86.599003,36.385079",
     "geom:latitude":36.385079,
     "geom:longitude":-86.599003,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"deaed7ce4d83899cd25b34a601dc98d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807207347,
-    "wof:lastmodified":1467083492,
+    "wof:lastmodified":1491939196,
     "wof:name":"Transverse Networks",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773625841,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 S 3rd St Memphis TN 38106",
+    "addr:housenumber":"1200",
+    "addr:postcode":"38106",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.055153,35.114773,-90.055153,35.114773",
     "geom:latitude":35.114773,
     "geom:longitude":-90.055153,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 S 3rd St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85893427
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_15XtQv9JlJmP8so0pgQ9bl_35.114773_-90.055153@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587136,
-    "wof:geomhash":"be00fb6a83265055be7cabc194bc5b67",
+    "wof:geomhash":"c9697fe27d35cdaebc8e37e6cb6a85be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773625841,
-    "wof:lastmodified":1467082940,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85893427,
     "wof:placetype":"venue",

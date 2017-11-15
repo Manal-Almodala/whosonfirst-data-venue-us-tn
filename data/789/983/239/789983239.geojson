@@ -2,9 +2,14 @@
   "id": 789983239,
   "type": "Feature",
   "properties": {
+    "addr:full":"4715 Bennett Hollow Rd Thompsons Station TN 37179",
+    "addr:housenumber":"4715",
+    "addr:postcode":"37179",
+    "addr:street":"Bennett Hollow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.782097,35.802009,-86.782097,35.802009",
     "geom:latitude":35.802009,
     "geom:longitude":-86.782097,
@@ -28,12 +33,7 @@
         "picture"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yLpYf9A0CMG7CvMaJUxOS_35.802009_-86.782097@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462592196,
     "wof:geomhash":"06aeddac7a664beea5fe4cf6c76c03a8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789983239
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789983239,
-    "wof:lastmodified":1467083093,
+    "wof:lastmodified":1491930828,
     "wof:name":"Lenox Music Productions",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773797391,
   "type": "Feature",
   "properties": {
+    "addr:full":"434 Boston St Memphis TN 38111",
+    "addr:housenumber":"434",
+    "addr:postcode":"38111",
+    "addr:street":"Boston St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.973332,35.123155,-89.973332,35.123155",
     "geom:latitude":35.123155,
     "geom:longitude":-89.973332,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"434 Boston St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85808437
     ],
+    "wof:brand_id":1125159619,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XVhLbb0I33m7teGytcAD9_35.123155_-89.973332@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588447,
-    "wof:geomhash":"089c422c7c51405682e9b3ae7585687c",
+    "wof:geomhash":"8c55ae37c94fc13ddcc6557f0c4e0d15",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773797391,
-    "wof:lastmodified":1467082982,
+    "wof:lastmodified":1510695302,
     "wof:name":"Mount Pleasant Baptist Church",
     "wof:parent_id":85808437,
     "wof:placetype":"venue",

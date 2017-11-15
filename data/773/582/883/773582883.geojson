@@ -2,14 +2,20 @@
   "id": 773582883,
   "type": "Feature",
   "properties": {
+    "addr:full":"3339 N Highland Ave Jackson TN 38301",
+    "addr:housenumber":"3339",
+    "addr:postcode":"38301",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.829831,35.701256,-88.829831,35.701256",
     "geom:latitude":35.701256,
     "geom:longitude":-88.829831,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3339 N Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125150407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2r21zF7peoXgxyts47QVUI_35.701256_-88.829831@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586823,
-    "wof:geomhash":"1d9df3ac352d7e1da89ab3356284d63c",
+    "wof:geomhash":"86939014e4e76fac7a61f6a2ee0d27a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773582883,
-    "wof:lastmodified":1467082930,
+    "wof:lastmodified":1510693886,
     "wof:name":"Colonial Supplemental Ins",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

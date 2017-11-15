@@ -2,9 +2,14 @@
   "id": 789895831,
   "type": "Feature",
   "properties": {
+    "addr:full":"4404 Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"4404",
+    "addr:postcode":"37064",
+    "addr:street":"Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.798092,35.831538,-86.798092,35.831538",
     "geom:latitude":35.831538,
     "geom:longitude":-86.798092,
@@ -29,12 +34,7 @@
         "gasoline"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BvcwMRyemtl1DTA0AnvHr_35.831538_-86.798092@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462591411,
     "wof:geomhash":"aaa25718adca426a412ba565a0e4eca4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789895831
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789895831,
-    "wof:lastmodified":1467083071,
+    "wof:lastmodified":1491930833,
     "wof:name":"Speedway 9454",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

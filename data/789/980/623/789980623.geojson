@@ -2,14 +2,20 @@
   "id": 789980623,
   "type": "Feature",
   "properties": {
+    "addr:full":"989 Antioch Church Rd Vonore TN 37885",
+    "addr:housenumber":"989",
+    "addr:postcode":"37885",
+    "addr:street":"Antioch Church Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.130081,35.49033,-84.130081,35.49033",
     "geom:latitude":35.49033,
     "geom:longitude":-84.130081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"989 Antioch Church Rd",
     "sg:city":"Vonore",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087197,
         85820143
     ],
+    "wof:brand_id":420575777,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qlxnc6Hw8UZmAuoJQHN2M_35.490330_-84.130081@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592171,
-    "wof:geomhash":"b0099801b6854483740bb516e4ee9ead",
+    "wof:geomhash":"a1376d940231fdd33f3651c4cd7d89a0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789980623,
-    "wof:lastmodified":1467083092,
+    "wof:lastmodified":1510602622,
     "wof:name":"Antioch Baptist Church",
     "wof:parent_id":85820143,
     "wof:placetype":"venue",

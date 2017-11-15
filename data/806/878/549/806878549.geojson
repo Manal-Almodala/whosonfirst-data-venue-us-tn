@@ -2,14 +2,20 @@
   "id": 806878549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2111 Memorial Dr Clarksville TN 37043",
+    "addr:housenumber":"2111",
+    "addr:postcode":"37043",
+    "addr:street":"Memorial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.291857,36.522201,-87.291857,36.522201",
     "geom:latitude":36.522201,
     "geom:longitude":-87.291857,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2111 Memorial Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086353,
         420541955
     ],
+    "wof:brand_id":1125151795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xgZSiaP7M3Sox2UhLxPEi_36.522201_-87.291857@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601838,
-    "wof:geomhash":"5cad9673f6b46f3f63f0d00c4f15ab9c",
+    "wof:geomhash":"e68dd4b1e65de73f38043e595e978639",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806878549,
-    "wof:lastmodified":1467083399,
+    "wof:lastmodified":1510699960,
     "wof:name":"National Society of Daugh",
     "wof:parent_id":420541955,
     "wof:placetype":"venue",

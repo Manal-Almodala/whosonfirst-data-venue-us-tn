@@ -2,14 +2,20 @@
   "id": 790575193,
   "type": "Feature",
   "properties": {
+    "addr:full":"285 E Main St Gallatin TN 37066",
+    "addr:housenumber":"285",
+    "addr:postcode":"37066",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.441215,36.389525,-86.441215,36.389525",
     "geom:latitude":36.389525,
     "geom:longitude":-86.441215,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"285 E Main St",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086357,
         85852687
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7K9KMLpVUGZuYPuV13eO0g_36.389525_-86.441215@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597001,
-    "wof:geomhash":"894ab75f55d104a916af4f7f1c05bb0f",
+    "wof:geomhash":"b0e003ee640cce62b10129de9190c7b0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790575193,
-    "wof:lastmodified":1467083238,
+    "wof:lastmodified":1510681766,
     "wof:name":"AM South Bank",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",

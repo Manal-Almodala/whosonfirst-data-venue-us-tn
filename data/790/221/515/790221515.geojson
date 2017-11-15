@@ -2,14 +2,20 @@
   "id": 790221515,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Woods Cir Caryville TN 37714",
+    "addr:housenumber":"115",
+    "addr:postcode":"37714",
+    "addr:street":"Woods Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.218178,36.324616,-84.218178,36.324616",
     "geom:latitude":36.324616,
     "geom:longitude":-84.218178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Woods Cir",
     "sg:city":"Caryville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85848109,
         102086391
     ],
+    "wof:brand_id":1125159175,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Eh7GSmL90XPbfv9KqPoHv_36.324616_-84.218178@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594112,
-    "wof:geomhash":"db2d39411f7c88b08bd9abc70b630172",
+    "wof:geomhash":"e43f1c8cd5509f069356334a2ad1e546",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790221515,
-    "wof:lastmodified":1467083149,
+    "wof:lastmodified":1510694035,
     "wof:name":"Budget Host Inn",
     "wof:parent_id":85848109,
     "wof:placetype":"venue",

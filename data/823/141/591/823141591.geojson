@@ -2,14 +2,20 @@
   "id": 823141591,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 Oak Ridge Tpke Oak Ridge TN 37830",
+    "addr:housenumber":"1030",
+    "addr:postcode":"37830",
+    "addr:street":"Oak Ridge Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.244989,36.022526,-84.244989,36.022526",
     "geom:latitude":36.022526,
     "geom:longitude":-84.244989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1030 Oak Ridge Tpke",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086483,
         85827263
     ],
+    "wof:brand_id":1125156377,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4DbCzQ8zmBsYnS5FqdSeIx_36.022526_-84.244989@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607543,
-    "wof:geomhash":"5bacf43db1b17a7920d4c0192055a418",
+    "wof:geomhash":"36b8b2526bb75d06b4fc9859a988a682",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823141591,
-    "wof:lastmodified":1467083573,
+    "wof:lastmodified":1510699358,
     "wof:name":"Concentra Medical Ctr",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

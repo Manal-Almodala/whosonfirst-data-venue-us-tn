@@ -2,9 +2,14 @@
   "id": 773702575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1004 Daniel Dr Hendersonville TN 37075",
+    "addr:housenumber":"1004",
+    "addr:postcode":"37075",
+    "addr:street":"Daniel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.622888,36.382013,-86.622888,36.382013",
     "geom:latitude":36.382013,
     "geom:longitude":-86.622888,
@@ -35,6 +40,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -49,6 +55,7 @@
     "wof:geomhash":"5e277052f5b4db8e4d6227b4eb21c908",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773702575,
-    "wof:lastmodified":1467082959,
+    "wof:lastmodified":1491939198,
     "wof:name":"Component Framing Systems LLC",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

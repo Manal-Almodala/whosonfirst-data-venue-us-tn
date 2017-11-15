@@ -2,9 +2,14 @@
   "id": 806392135,
   "type": "Feature",
   "properties": {
+    "addr:full":"525 New Shackle Island Rd Hendersonville TN 37075",
+    "addr:housenumber":"525",
+    "addr:postcode":"37075",
+    "addr:street":"New Shackle Island Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.619419,36.327013,-86.619419,36.327013",
     "geom:latitude":36.327013,
     "geom:longitude":-86.619419,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"73f40af8370b871523e6a0b8a5a66851",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806392135,
-    "wof:lastmodified":1467083262,
+    "wof:lastmodified":1491939195,
     "wof:name":"Business Resource Ctr",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790587785,
   "type": "Feature",
   "properties": {
+    "addr:full":"8009 Moores Ln Brentwood TN 37027",
+    "addr:housenumber":"8009",
+    "addr:postcode":"37027",
+    "addr:street":"Moores Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.805063,35.966183,-86.805063,35.966183",
     "geom:latitude":35.966183,
     "geom:longitude":-86.805063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8009 Moores Ln",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086337,
         85820341
     ],
+    "wof:brand_id":420574549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1zl6KBHtGbRheAa6AxWJK2_35.966183_-86.805063@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597106,
-    "wof:geomhash":"7acfdd5dad7cb0aa48ad8b723fd8731a",
+    "wof:geomhash":"b5715c7be8498cefee830e5458eccb89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790587785,
-    "wof:lastmodified":1467083242,
+    "wof:lastmodified":1510604091,
     "wof:name":"Blimpie Subs & Salads",
     "wof:parent_id":85820341,
     "wof:placetype":"venue",

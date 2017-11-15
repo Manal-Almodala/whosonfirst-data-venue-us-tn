@@ -2,9 +2,14 @@
   "id": 807006487,
   "type": "Feature",
   "properties": {
+    "addr:full":"4341 Long Ln Franklin TN 37064",
+    "addr:housenumber":"4341",
+    "addr:postcode":"37064",
+    "addr:street":"Long Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.812282,35.861766,-86.812282,35.861766",
     "geom:latitude":35.861766,
     "geom:longitude":-86.812282,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62gPl4DVfY311VVweb9ImX_35.861766_-86.812282@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462602915,
     "wof:geomhash":"9c46271b9873d2bccd7852aeffbb6a0d",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807006487
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807006487,
-    "wof:lastmodified":1467083434,
+    "wof:lastmodified":1491930840,
     "wof:name":"Moss Blanche C Family Partnr",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

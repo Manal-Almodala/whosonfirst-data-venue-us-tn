@@ -2,14 +2,20 @@
   "id": 790239757,
   "type": "Feature",
   "properties": {
+    "addr:full":"659 E Broadway St Newport TN 37821",
+    "addr:housenumber":"659",
+    "addr:postcode":"37821",
+    "addr:street":"E Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.175002,35.962072,-83.175002,35.962072",
     "geom:latitude":35.962072,
     "geom:longitude":-83.175002,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"659 E Broadway St",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85838303,
         102086241
     ],
+    "wof:brand_id":1125155107,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VlT1JHnrdk0Njtv6d19nj_35.962072_-83.175002@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594246,
-    "wof:geomhash":"fcbbc26b9d4542321d49e0c8577bc559",
+    "wof:geomhash":"ae83c6f158999576b06825047c34885c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790239757,
-    "wof:lastmodified":1467083153,
+    "wof:lastmodified":1510699581,
     "wof:name":"Church Of The Good Shepherd",
     "wof:parent_id":85838303,
     "wof:placetype":"venue",

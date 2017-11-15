@@ -2,14 +2,20 @@
   "id": 789922127,
   "type": "Feature",
   "properties": {
+    "addr:full":"3729 Huntingboro Trl Antioch TN 37013",
+    "addr:housenumber":"3729",
+    "addr:postcode":"37013",
+    "addr:street":"Huntingboro Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.593647,36.071475,-86.593647,36.071475",
     "geom:latitude":36.071475,
     "geom:longitude":-86.593647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3729 Huntingboro Trl",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         420541523
     ],
+    "wof:brand_id":1125153353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Rhl2pE1MMUi3NCESZPooK_36.071475_-86.593647@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591642,
-    "wof:geomhash":"0b5574f381ef10b9ef854bdd9f75910b",
+    "wof:geomhash":"6e9571dcd32f09a852feebb5ddee1ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789922127,
-    "wof:lastmodified":1467083078,
+    "wof:lastmodified":1510695785,
     "wof:name":"All Fund Mortgage",
     "wof:parent_id":420541523,
     "wof:placetype":"venue",

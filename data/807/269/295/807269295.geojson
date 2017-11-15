@@ -2,14 +2,20 @@
   "id": 807269295,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Old Westmoreland Rd Portland TN 37148",
+    "addr:housenumber":"115",
+    "addr:postcode":"37148",
+    "addr:street":"Old Westmoreland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.506793,36.57827,-86.506793,36.57827",
     "geom:latitude":36.57827,
     "geom:longitude":-86.506793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"115 Old Westmoreland Rd",
     "sg:city":"Portland",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086357,
         85852687
     ],
+    "wof:brand_id":1125150799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ANLdhaDdfCjg4fWdh9bSr_36.578270_-86.506793@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605538,
-    "wof:geomhash":"02b4ad0764e3494da7617ee69bd77421",
+    "wof:geomhash":"a8c153134b2d2ae85e170cdf249534da",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807269295,
-    "wof:lastmodified":1467083513,
+    "wof:lastmodified":1510694183,
     "wof:name":"First Free Will Baptist Church",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",

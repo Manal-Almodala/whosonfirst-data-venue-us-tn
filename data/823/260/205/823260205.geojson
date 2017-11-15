@@ -2,14 +2,20 @@
   "id": 823260205,
   "type": "Feature",
   "properties": {
+    "addr:full":"336 Market Blvd Collierville TN 38017",
+    "addr:housenumber":"336",
+    "addr:postcode":"38017",
+    "addr:street":"Market Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.694416,35.047863,-89.694416,35.047863",
     "geom:latitude":35.047863,
     "geom:longitude":-89.694416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"336 Market Blvd",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -44,13 +50,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mP2woyGzHIX2Qrhic8yhw_35.047298_-89.694358@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462609556,
-    "wof:geomhash":"c4a81aea7241798109c686e7cb307817",
+    "wof:geomhash":"3dcd3538d91dcea163eb79002db6bb49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":823260205,
-    "wof:lastmodified":1467083642,
+    "wof:lastmodified":1510695362,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

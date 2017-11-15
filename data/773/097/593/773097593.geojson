@@ -2,14 +2,20 @@
   "id": 773097593,
   "type": "Feature",
   "properties": {
+    "addr:full":"536 E Main St Kingsport TN 37660",
+    "addr:housenumber":"536",
+    "addr:postcode":"37660",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.557234,36.542438,-82.557234,36.542438",
     "geom:latitude":36.542438,
     "geom:longitude":-82.557234,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"536 E Main St",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086471,
         420542161
     ],
+    "wof:brand_id":1125150611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6FOuavWt0JMICbf4QBZTjr_36.542438_-82.557234@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583136,
-    "wof:geomhash":"1df0edd9ce8433c33e5a8d71c73f0fbc",
+    "wof:geomhash":"5648d9582c0fd03829a1ad8f78f38d4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773097593,
-    "wof:lastmodified":1467082802,
+    "wof:lastmodified":1510604906,
     "wof:name":"Quest Diagnotics",
     "wof:parent_id":420542161,
     "wof:placetype":"venue",

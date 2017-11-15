@@ -2,9 +2,14 @@
   "id": 823208995,
   "type": "Feature",
   "properties": {
+    "addr:full":"665 Legends Ridge Dr Franklin TN 37069",
+    "addr:housenumber":"665",
+    "addr:postcode":"37069",
+    "addr:street":"Legends Ridge Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.886682,35.984834,-86.886682,35.984834",
     "geom:latitude":35.984834,
     "geom:longitude":-86.886682,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -43,6 +49,7 @@
     "wof:geomhash":"9cabed9cf687a19733b15dca4e812417",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823208995,
-    "wof:lastmodified":1467083606,
+    "wof:lastmodified":1491924154,
     "wof:name":"Robin Davis Construction",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

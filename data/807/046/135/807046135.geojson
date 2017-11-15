@@ -2,14 +2,20 @@
   "id": 807046135,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Chestnut St Chattanooga TN 37402",
+    "addr:housenumber":"311",
+    "addr:postcode":"37402",
+    "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.311855,35.052444,-85.311855,35.052444",
     "geom:latitude":35.052444,
     "geom:longitude":-85.311855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Chestnut St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85876727
     ],
+    "wof:brand_id":1125152209,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Af4Ik8t4QN06UcMSGJQY6_35.052444_-85.311855@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603258,
-    "wof:geomhash":"7d780ff0179611a7e243ef2f13549ea2",
+    "wof:geomhash":"6a2dfc97e6405525581ec93f35bcc584",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807046135,
-    "wof:lastmodified":1467083445,
+    "wof:lastmodified":1510695060,
     "wof:name":"Hilton Garden Inn",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",

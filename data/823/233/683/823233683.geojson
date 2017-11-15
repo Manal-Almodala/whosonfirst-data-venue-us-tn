@@ -2,14 +2,20 @@
   "id": 823233683,
   "type": "Feature",
   "properties": {
+    "addr:full":"3234 Jackson Ave Memphis TN 38122",
+    "addr:housenumber":"3234",
+    "addr:postcode":"38122",
+    "addr:street":"Jackson Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.952717,35.164957,-89.952717,35.164957",
     "geom:latitude":35.164957,
     "geom:longitude":-89.952717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3234 Jackson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870771
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_480rYaqUtLGq8HxhhXvQ0C_35.164750_-89.952849@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462609028,
-    "wof:geomhash":"e0ea2a8ba37c2eb5ec94e7c6afe73656",
+    "wof:geomhash":"c9cdea4d4fe0393957ddb4a1d61dd98b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823233683,
-    "wof:lastmodified":1467083624,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":85870771,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 806448097,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 Covington Bend White House TN 37188",
+    "addr:housenumber":"129",
+    "addr:postcode":"37188",
+    "addr:street":"Covington Bend",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.64122,36.462529,-86.64122,36.462529",
     "geom:latitude":36.462529,
     "geom:longitude":-86.64122,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"72e3c089fd5156105ff85bf6c7454a97",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806448097,
-    "wof:lastmodified":1467083277,
+    "wof:lastmodified":1491939229,
     "wof:name":"Stickels Prvate Investions LLC",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

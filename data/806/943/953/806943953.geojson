@@ -2,14 +2,20 @@
   "id": 806943953,
   "type": "Feature",
   "properties": {
+    "addr:full":"10545 Collierville Rd Collierville TN 38017",
+    "addr:housenumber":"",
+    "addr:postcode":"10545;38017",
+    "addr:street":"Collierville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.70884,35.028207,-89.70884,35.028207",
     "geom:latitude":35.028207,
     "geom:longitude":-89.70884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10545 Collierville Rd",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85804201
     ],
+    "wof:brand_id":1125153599,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_71HAJVk8zFO2khFElAoni6_35.028207_-89.708840@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602392,
-    "wof:geomhash":"8563a24a94b75eaf284c9a05fbc28f5a",
+    "wof:geomhash":"2a96712acd037613429d6f1d57e8962f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806943953,
-    "wof:lastmodified":1467083417,
+    "wof:lastmodified":1510695773,
     "wof:name":"First Apostolic Church",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",

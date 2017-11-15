@@ -2,14 +2,20 @@
   "id": 789867199,
   "type": "Feature",
   "properties": {
+    "addr:full":"1100 Kermit Dr Nashville TN 37217",
+    "addr:housenumber":"1100",
+    "addr:postcode":"37217",
+    "addr:street":"Kermit Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.703839,36.123785,-86.703839,36.123785",
     "geom:latitude":36.123785,
     "geom:longitude":-86.703839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1100 Kermit Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85821799
     ],
+    "wof:brand_id":1125152283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eXtUmfxBI46wG28MfzYxf_36.123785_-86.703839@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591162,
-    "wof:geomhash":"c03ebadc603031beded1571c0e8ce822",
+    "wof:geomhash":"668b366f6f2ab114643e2cd58b590595",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789867199,
-    "wof:lastmodified":1467083064,
+    "wof:lastmodified":1510699427,
     "wof:name":"Gentiva Health Svc",
     "wof:parent_id":85821799,
     "wof:placetype":"venue",

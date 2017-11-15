@@ -2,14 +2,20 @@
   "id": 806758411,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Ridge Rd Bristol TN 37620",
+    "addr:housenumber":"116",
+    "addr:postcode":"37620",
+    "addr:street":"Ridge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.182033,36.571865,-82.182033,36.571865",
     "geom:latitude":36.571865,
     "geom:longitude":-82.182033,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 Ridge Rd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086471,
         420542203
     ],
+    "wof:brand_id":1125157843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lTGV3UszDl80UJXEBlmZl_36.571865_-82.182033@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600833,
-    "wof:geomhash":"1d10c316cdd418b694d4e7d0a20aae45",
+    "wof:geomhash":"fb9909800c2581382e6642a0e0223d2a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806758411,
-    "wof:lastmodified":1467083365,
+    "wof:lastmodified":1510699507,
     "wof:name":"Erie Insurance Group",
     "wof:parent_id":420542203,
     "wof:placetype":"venue",

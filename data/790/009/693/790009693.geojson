@@ -2,14 +2,20 @@
   "id": 790009693,
   "type": "Feature",
   "properties": {
+    "addr:full":"981 Tatum Rd Memphis TN 38122",
+    "addr:housenumber":"981",
+    "addr:postcode":"38122",
+    "addr:street":"Tatum Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.922695,35.160527,-89.922695,35.160527",
     "geom:latitude":35.160527,
     "geom:longitude":-89.922695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"981 Tatum Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":420575127,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6VJ9s9haRcDRLSVqvf6DD8_35.160527_-89.922695@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592405,
-    "wof:geomhash":"a6340f9cbbec8b80e840d2b9b08e7d67",
+    "wof:geomhash":"1d54c1e1ee705a78cc8b862a568787b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790009693,
-    "wof:lastmodified":1467083099,
+    "wof:lastmodified":1510602800,
     "wof:name":"Service Master Co",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

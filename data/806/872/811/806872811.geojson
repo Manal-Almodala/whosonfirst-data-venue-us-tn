@@ -2,14 +2,20 @@
   "id": 806872811,
   "type": "Feature",
   "properties": {
+    "addr:full":"3917 Volunteer Dr Chattanooga TN 37416",
+    "addr:housenumber":"3917",
+    "addr:postcode":"37416",
+    "addr:street":"Volunteer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.201511,35.073511,-85.201511,35.073511",
     "geom:latitude":35.073511,
     "geom:longitude":-85.201511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3917 Volunteer Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087185,
         85810631
     ],
+    "wof:brand_id":1125155407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Qmvlr9TYzjHnsQ6Yr7cpP_35.073511_-85.201511@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601792,
-    "wof:geomhash":"799990e95e2b97682fa44bd9c871ec25",
+    "wof:geomhash":"e7909948a42b04b565426f4e89086ad0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806872811,
-    "wof:lastmodified":1467083397,
+    "wof:lastmodified":1510695074,
     "wof:name":"New Horizons Computer Learning",
     "wof:parent_id":85810631,
     "wof:placetype":"venue",

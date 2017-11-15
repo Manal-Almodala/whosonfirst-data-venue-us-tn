@@ -2,14 +2,20 @@
   "id": 823261819,
   "type": "Feature",
   "properties": {
+    "addr:full":"12 Cadillac Dr Brentwood TN 37027",
+    "addr:housenumber":"12",
+    "addr:postcode":"37027",
+    "addr:street":"Cadillac Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797882,36.034111,-86.797882,36.034111",
     "geom:latitude":36.034111,
     "geom:longitude":-86.797882,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"12 Cadillac Dr",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -41,13 +47,14 @@
         102086337,
         85833469
     ],
+    "wof:brand_id":1125155005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ioWvPiP5tBa64qQ7Gvooo_36.034111_-86.797882@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609589,
-    "wof:geomhash":"f4b4690c5f7d80cafd5e9a089c379b24",
+    "wof:geomhash":"24729ca8c03bfa15c0c2a16627eda026",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":823261819,
-    "wof:lastmodified":1467083643,
+    "wof:lastmodified":1510699951,
     "wof:name":"Great Expectations",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",

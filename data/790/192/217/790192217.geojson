@@ -2,14 +2,20 @@
   "id": 790192217,
   "type": "Feature",
   "properties": {
+    "addr:full":"3810 Old Hickory Blvd Old Hickory TN 37138",
+    "addr:housenumber":"3810",
+    "addr:postcode":"37138",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.631107,36.239728,-86.631107,36.239728",
     "geom:latitude":36.239728,
     "geom:longitude":-86.631107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3810 Old Hickory Blvd",
     "sg:city":"Old Hickory",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85839347
     ],
+    "wof:brand_id":1125152797,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ocBQXXugC30qkoNKOF1zD_36.239728_-86.631107@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593871,
-    "wof:geomhash":"11ab1ad473d749178dd283421e510ad7",
+    "wof:geomhash":"c04e2f006ad0bc154eb2e32328120dc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790192217,
-    "wof:lastmodified":1467083142,
+    "wof:lastmodified":1510697598,
     "wof:name":"Molly Maids",
     "wof:parent_id":85839347,
     "wof:placetype":"venue",

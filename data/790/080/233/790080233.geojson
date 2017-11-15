@@ -2,14 +2,20 @@
   "id": 790080233,
   "type": "Feature",
   "properties": {
+    "addr:full":"909 Congress Pkwy NW Athens TN 37303",
+    "addr:housenumber":"909",
+    "addr:postcode":"37303",
+    "addr:street":"Congress Pkwy Nw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.61605,35.45792,-84.61605,35.45792",
     "geom:latitude":35.45792,
     "geom:longitude":-84.61605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"909 Congress Pkwy NW",
     "sg:city":"Athens",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086293,
         85808247
     ],
+    "wof:brand_id":1125156409,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3UBQVVOvXiKkw8DXKlJthx_35.457920_-84.616050@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592972,
-    "wof:geomhash":"1359f93008326f1cfbc275275bbf2653",
+    "wof:geomhash":"9eb02b028268143743854dc6fc774056",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790080233,
-    "wof:lastmodified":1467083115,
+    "wof:lastmodified":1510695236,
     "wof:name":"Hair Dimensions",
     "wof:parent_id":85808247,
     "wof:placetype":"venue",

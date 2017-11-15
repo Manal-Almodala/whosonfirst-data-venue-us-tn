@@ -2,14 +2,20 @@
   "id": 807050577,
   "type": "Feature",
   "properties": {
+    "addr:full":"810 Susong Memorial Rd Greeneville TN 37743",
+    "addr:housenumber":"810",
+    "addr:postcode":"37743",
+    "addr:street":"Susong Memorial Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.889271,36.105036,-82.889271,36.105036",
     "geom:latitude":36.105036,
     "geom:longitude":-82.889271,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"810 Susong Memorial Rd",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85851539,
         102086377
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6hquees8AQvYyUWzSM4E2S_36.105036_-82.889271@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603292,
-    "wof:geomhash":"9138b94f54fdebccc6788871c78a2577",
+    "wof:geomhash":"a1230d74e55702fb36eabd255dbfeb25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":807050577,
-    "wof:lastmodified":1467083446,
+    "wof:lastmodified":1510694636,
     "wof:name":"Uswa",
     "wof:parent_id":85851539,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806691819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1398 S Willett St Memphis TN 38106",
+    "addr:housenumber":"1398",
+    "addr:postcode":"38106",
+    "addr:street":"S Willett St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.010505,35.107896,-90.010505,35.107896",
     "geom:latitude":35.107896,
     "geom:longitude":-90.010505,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1398 S Willett St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85808431
     ],
+    "wof:brand_id":1125156255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3u3JRyFX5Ca3ZZ19OVaEJB_35.107896_-90.010505@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600272,
-    "wof:geomhash":"61118bedc070f89837ca66faa75c5222",
+    "wof:geomhash":"60876e386297eaeff82082eece4dfe91",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806691819,
-    "wof:lastmodified":1467083346,
+    "wof:lastmodified":1510696913,
     "wof:name":"Hopewell Baptist Church",
     "wof:parent_id":85808431,
     "wof:placetype":"venue",

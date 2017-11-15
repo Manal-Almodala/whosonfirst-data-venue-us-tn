@@ -2,14 +2,20 @@
   "id": 823263257,
   "type": "Feature",
   "properties": {
+    "addr:full":"569 S Lowry St Smyrna TN 37167",
+    "addr:housenumber":"569",
+    "addr:postcode":"37167",
+    "addr:street":"S Lowry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.505288,35.967099,-86.505288,35.967099",
     "geom:latitude":35.967099,
     "geom:longitude":-86.505288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"569 S Lowry St",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086355,
         420542071
     ],
+    "wof:brand_id":1125153419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Rim6VSAULo7bx9A2cvaY2_35.967099_-86.505288@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609650,
-    "wof:geomhash":"0232621850e709d33b850db5f88f3d2c",
+    "wof:geomhash":"a4bb74abce1e94687f588f083b039445",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823263257,
-    "wof:lastmodified":1467083645,
+    "wof:lastmodified":1510695032,
     "wof:name":"Style America",
     "wof:parent_id":420542071,
     "wof:placetype":"venue",

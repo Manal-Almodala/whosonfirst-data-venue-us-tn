@@ -2,14 +2,20 @@
   "id": 773046897,
   "type": "Feature",
   "properties": {
+    "addr:full":"8967 Meadow Ridge Cove E Cordova TN 38016",
+    "addr:housenumber":"8967",
+    "addr:postcode":"38016",
+    "addr:street":"Meadow Ridge Cove E",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.764675,35.191196,-89.764675,35.191196",
     "geom:latitude":35.191196,
     "geom:longitude":-89.764675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8967 Meadow Ridge Cove E",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":420575945,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RJfeqlNT9WHbDjwwA01kH_35.191196_-89.764675@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582715,
-    "wof:geomhash":"86bdf650151c9de6d939e8d08945f1cc",
+    "wof:geomhash":"72096030bb54500d49629e160ee8c688",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773046897,
-    "wof:lastmodified":1467082789,
+    "wof:lastmodified":1510602876,
     "wof:name":"Sport Clips",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

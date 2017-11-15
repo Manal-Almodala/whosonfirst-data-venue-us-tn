@@ -2,9 +2,14 @@
   "id": 773737111,
   "type": "Feature",
   "properties": {
+    "addr:full":"4424 Peytonsville Rd Franklin TN 37064",
+    "addr:housenumber":"4424",
+    "addr:postcode":"37064",
+    "addr:street":"Peytonsville Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.79806,35.831431,-86.79806,35.831431",
     "geom:latitude":35.831431,
     "geom:longitude":-86.79806,
@@ -27,12 +32,7 @@
         "house"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4IbptIH2hbJzYFGRkGSkZO_35.831431_-86.798060@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462588001,
     "wof:geomhash":"8f65f77b60b679dbbec1b224dcc58600",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773737111
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773737111,
-    "wof:lastmodified":1467082967,
+    "wof:lastmodified":1491930831,
     "wof:name":"Pratt Builders Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

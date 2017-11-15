@@ -2,14 +2,20 @@
   "id": 807102003,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 Shelby St Kingsport TN 37660",
+    "addr:housenumber":"125",
+    "addr:postcode":"37660",
+    "addr:street":"Shelby St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.56206,36.546679,-82.56206,36.546679",
     "geom:latitude":36.546679,
     "geom:longitude":-82.56206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 Shelby St",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086471,
         420542161
     ],
+    "wof:brand_id":420574531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_38hec2nw17irBtlReB9wMt_36.546679_-82.562060@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603754,
-    "wof:geomhash":"6e14b8216ecb8dceb48f366d0a2c4396",
+    "wof:geomhash":"b835d96eee324dffbf80340d87a4fdc4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807102003,
-    "wof:lastmodified":1467083457,
+    "wof:lastmodified":1510604226,
     "wof:name":"Salvation Army Thrift Store",
     "wof:parent_id":420542161,
     "wof:placetype":"venue",

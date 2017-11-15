@@ -2,14 +2,20 @@
   "id": 789583153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1411 N Highland Ave Jackson TN 38301",
+    "addr:housenumber":"1411",
+    "addr:postcode":"38301",
+    "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.82589,35.638504,-88.82589,35.638504",
     "geom:latitude":35.638504,
     "geom:longitude":-88.82589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1411 N Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087221,
         85824843
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Mf6UlIHntl9YgLcZfgvEn_35.638504_-88.825890@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588933,
-    "wof:geomhash":"b547fabf0fa8391b45d436def822dd4d",
+    "wof:geomhash":"7cfe300f842b9a234c1535946a88e836",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789583153,
-    "wof:lastmodified":1467082996,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85824843,
     "wof:placetype":"venue",

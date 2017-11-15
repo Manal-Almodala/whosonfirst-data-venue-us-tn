@@ -2,9 +2,14 @@
   "id": 807003463,
   "type": "Feature",
   "properties": {
+    "addr:full":"2712 Reams Pl Franklin TN 37064",
+    "addr:housenumber":"2712",
+    "addr:postcode":"37064",
+    "addr:street":"Reams Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.849895,35.876765,-86.849895,35.876765",
     "geom:latitude":35.876765,
     "geom:longitude":-86.849895,
@@ -27,12 +32,7 @@
         "engineer"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lsSFcLmBzp1Lb3DaX95V3_35.876765_-86.849895@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462602886,
     "wof:geomhash":"a1c5ca63d005ab21062fd9a54f2f68c8",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807003463
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807003463,
-    "wof:lastmodified":1467083433,
+    "wof:lastmodified":1491930836,
     "wof:name":"American Geotechnical Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

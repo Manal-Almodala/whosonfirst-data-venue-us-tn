@@ -2,9 +2,14 @@
   "id": 789917891,
   "type": "Feature",
   "properties": {
+    "addr:full":"220 Bowling Branch Rd Cottontown TN 37048",
+    "addr:housenumber":"220",
+    "addr:postcode":"37048",
+    "addr:street":"Branch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.631524,36.510104,-86.631524,36.510104",
     "geom:latitude":36.510104,
     "geom:longitude":-86.631524,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -45,6 +51,7 @@
     "wof:geomhash":"009390f2a4ca170bdb7b65b4f7484795",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789917891,
-    "wof:lastmodified":1467083077,
+    "wof:lastmodified":1491939226,
     "wof:name":"AAA Auto Glass",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

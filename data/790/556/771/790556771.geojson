@@ -2,14 +2,20 @@
   "id": 790556771,
   "type": "Feature",
   "properties": {
+    "addr:full":"106 Fox St Jonesborough TN 37659",
+    "addr:housenumber":"106",
+    "addr:postcode":"37659",
+    "addr:street":"Fox St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.472121,36.294599,-82.472121,36.294599",
     "geom:latitude":36.294599,
     "geom:longitude":-82.472121,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"106 Fox St",
     "sg:city":"Jonesborough",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086335,
         85822827
     ],
+    "wof:brand_id":1125151771,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Fv8765RzBDBeNBZQsboTE_36.294599_-82.472121@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596851,
-    "wof:geomhash":"e19d0af5098ff6a461ac96b2c57d854a",
+    "wof:geomhash":"7acd505e5d3a65ef45f38459eb0a1e25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790556771,
-    "wof:lastmodified":1467083233,
+    "wof:lastmodified":1510696079,
     "wof:name":"Central Christian Church",
     "wof:parent_id":85822827,
     "wof:placetype":"venue",

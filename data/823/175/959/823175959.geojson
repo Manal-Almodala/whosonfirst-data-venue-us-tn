@@ -2,14 +2,20 @@
   "id": 823175959,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 W Lincoln St Tullahoma TN 37388",
+    "addr:housenumber":"201",
+    "addr:postcode":"37388",
+    "addr:street":"W Lincoln St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.211345,35.36162,-86.211345,35.36162",
     "geom:latitude":35.36162,
     "geom:longitude":-86.211345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 W Lincoln St",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087095,
         85827565
     ],
+    "wof:brand_id":1125151027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1qHZwdtA8ic8AI6VFJazgG_35.361620_-86.211345@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608014,
-    "wof:geomhash":"a88cdfb0c02e6765422b75c64377198e",
+    "wof:geomhash":"947435222cbb89cd07670adce991dd99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823175959,
-    "wof:lastmodified":1467083588,
+    "wof:lastmodified":1510699653,
     "wof:name":"Alzheimer's Association",
     "wof:parent_id":85827565,
     "wof:placetype":"venue",

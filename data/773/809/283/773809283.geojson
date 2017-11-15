@@ -2,14 +2,20 @@
   "id": 773809283,
   "type": "Feature",
   "properties": {
+    "addr:full":"242 E Broadway Gallatin TN 37066",
+    "addr:housenumber":"242",
+    "addr:postcode":"37066",
+    "addr:street":"E Broadway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.441442,36.395869,-86.441442,36.395869",
     "geom:latitude":36.395869,
     "geom:longitude":-86.441442,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"242 E Broadway",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102086357,
         85852687
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4hgl4EqrtA2YyUqbDWPT9j_36.395869_-86.441442@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588551,
-    "wof:geomhash":"814995f4df2408d19cff86c516853d65",
+    "wof:geomhash":"89aa91d5e8758c3c7e9cebaa8770d8b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +65,7 @@
         }
     ],
     "wof:id":773809283,
-    "wof:lastmodified":1467082985,
+    "wof:lastmodified":1510693722,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",

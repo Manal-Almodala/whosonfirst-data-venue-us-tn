@@ -2,14 +2,20 @@
   "id": 773470745,
   "type": "Feature",
   "properties": {
+    "addr:full":"4048 Hwy 59 W Covington TN 38019",
+    "addr:housenumber":"4048",
+    "addr:postcode":"38019",
+    "addr:street":"Hwy 59 W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.717389,35.557945,-89.717389,35.557945",
     "geom:latitude":35.557945,
     "geom:longitude":-89.717389,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4048 Hwy 59 W",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125151229,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qSdanQlCztK4Vihfu8LZe_35.557945_-89.717389@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585994,
-    "wof:geomhash":"bfc3df2c49715948289762b3acfa969e",
+    "wof:geomhash":"b673560967b3ee65a9f465ad66dc22b7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773470745,
-    "wof:lastmodified":1467082903,
+    "wof:lastmodified":1510697274,
     "wof:name":"Oak Grove Baptist Church",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

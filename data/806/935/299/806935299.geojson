@@ -2,14 +2,20 @@
   "id": 806935299,
   "type": "Feature",
   "properties": {
+    "addr:full":"4400 Nolensville Pike Nashville TN 37211",
+    "addr:housenumber":"4400",
+    "addr:postcode":"37211",
+    "addr:street":"Nolensville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.724328,36.073282,-86.724328,36.073282",
     "geom:latitude":36.073282,
     "geom:longitude":-86.724328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4400 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         420541539
     ],
+    "wof:brand_id":1125159249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_00gJZYS23ulwrbCMpgiBeE_36.073282_-86.724328@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602315,
-    "wof:geomhash":"a7810597090cefe78f7779a12fddb706",
+    "wof:geomhash":"950bae6ab3524a291ab47514a706c461",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806935299,
-    "wof:lastmodified":1467083414,
+    "wof:lastmodified":1510693878,
     "wof:name":"First Tennessee",
     "wof:parent_id":420541539,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773808357,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 Interstate Dr Cookeville TN 38501",
+    "addr:housenumber":"1401",
+    "addr:postcode":"38501",
+    "addr:street":"Interstate Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.511741,36.137779,-85.511741,36.137779",
     "geom:latitude":36.137779,
     "geom:longitude":-85.511741,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Interstate Dr",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086339,
         85851797
     ],
+    "wof:brand_id":1125150161,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y0Ao4HW4YkYJQPpdFACjW_36.137779_-85.511741@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588537,
-    "wof:geomhash":"709a5c2d93935054d1cf16f6f1e1add8",
+    "wof:geomhash":"0ed207995d96c236025ae66142ea998a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773808357,
-    "wof:lastmodified":1467082985,
+    "wof:lastmodified":1510694750,
     "wof:name":"O'Charley's",
     "wof:parent_id":85851797,
     "wof:placetype":"venue",

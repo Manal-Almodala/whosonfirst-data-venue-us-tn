@@ -2,14 +2,20 @@
   "id": 807005237,
   "type": "Feature",
   "properties": {
+    "addr:full":"1028 Cresthaven Rd Memphis TN 38119",
+    "addr:housenumber":"1028",
+    "addr:postcode":"38119",
+    "addr:street":"Cresthaven Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.874875,35.104983,-89.874875,35.104983",
     "geom:latitude":35.104983,
     "geom:longitude":-89.874875,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1028 Cresthaven Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85807811
     ],
+    "wof:brand_id":1125156549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_340SsxjKg4Huw1N8ZUdu9t_35.104983_-89.874875@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602900,
-    "wof:geomhash":"a0e831009d8fb441a0a47a197aa3e99c",
+    "wof:geomhash":"d29d5714a0fc9a9ff49874c043201198",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807005237,
-    "wof:lastmodified":1467083433,
+    "wof:lastmodified":1510700006,
     "wof:name":"Cystic Fibrosis Foundation",
     "wof:parent_id":85807811,
     "wof:placetype":"venue",

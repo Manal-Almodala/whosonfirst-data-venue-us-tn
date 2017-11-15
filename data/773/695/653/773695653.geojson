@@ -2,9 +2,14 @@
   "id": 773695653,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Byrum Dr White House TN 37188",
+    "addr:housenumber":"100",
+    "addr:postcode":"37188",
+    "addr:street":"Byrum Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.633488,36.46565,-86.633488,36.46565",
     "geom:latitude":36.46565,
     "geom:longitude":-86.633488,
@@ -31,6 +36,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -45,6 +51,7 @@
     "wof:geomhash":"5de75459d9d3954538bf9db242b17cd2",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773695653,
-    "wof:lastmodified":1467082957,
+    "wof:lastmodified":1491939197,
     "wof:name":"Byrum Family Partners",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

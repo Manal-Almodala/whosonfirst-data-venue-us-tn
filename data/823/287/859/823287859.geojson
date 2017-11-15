@@ -2,14 +2,20 @@
   "id": 823287859,
   "type": "Feature",
   "properties": {
+    "addr:full":"832 Virginia Run Cv Memphis TN 38122",
+    "addr:housenumber":"832",
+    "addr:postcode":"38122",
+    "addr:street":"Virginia Run Cv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.882789,35.157587,-89.882789,35.157587",
     "geom:latitude":35.157587,
     "geom:longitude":-89.882789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"832 Virginia Run Cv",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":420575183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1RWXE080vfAVJvbYwtFOEe_35.157587_-89.882789@1303262743"
     },
     "wof:country":"US",
     "wof:created":1462610618,
-    "wof:geomhash":"f6eddc37713665311ba78adb962e64fb",
+    "wof:geomhash":"8a35886873caa930decf9d9cc8240281",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":823287859,
-    "wof:lastmodified":1467083680,
+    "wof:lastmodified":1510602863,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

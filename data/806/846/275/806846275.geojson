@@ -2,14 +2,20 @@
   "id": 806846275,
   "type": "Feature",
   "properties": {
+    "addr:full":"2380 Mount Hope Rd Waynesboro TN 38485",
+    "addr:housenumber":"2380",
+    "addr:postcode":"38485",
+    "addr:street":"Mount Hope Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.749729,35.356449,-87.749729,35.356449",
     "geom:latitude":35.356449,
     "geom:longitude":-87.749729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2380 Mount Hope Rd",
     "sg:city":"Waynesboro",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85814781,
         102087175
     ],
+    "wof:brand_id":1125150549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Ol37MTlWVL2G4t1WOjEAJ_35.356449_-87.749729@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601573,
-    "wof:geomhash":"9bc86bd4a8c51be0d1334e767dbaabcc",
+    "wof:geomhash":"8dec790dc9efbb9e38591ebb4e31d774",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806846275,
-    "wof:lastmodified":1467083390,
+    "wof:lastmodified":1510695854,
     "wof:name":"Free & Accepted Masons of",
     "wof:parent_id":85814781,
     "wof:placetype":"venue",

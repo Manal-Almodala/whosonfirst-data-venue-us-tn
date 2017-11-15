@@ -2,14 +2,20 @@
   "id": 806446487,
   "type": "Feature",
   "properties": {
+    "addr:full":"2956 Industrial Pkwy Knoxville TN 37921",
+    "addr:housenumber":"2956",
+    "addr:postcode":"37921",
+    "addr:street":"Industrial Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.968101,35.976089,-83.968101,35.976089",
     "geom:latitude":35.976089,
     "geom:longitude":-83.968101,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2956 Industrial Pkwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         420541861
     ],
+    "wof:brand_id":420575451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7ap8AqKM2hYPKj4WvENBwJ_35.976089_-83.968101@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598221,
-    "wof:geomhash":"d216e5b42a767da72e94d2749cdae9b7",
+    "wof:geomhash":"1d920fe6a91c1de496d6d6506eb65ce5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806446487,
-    "wof:lastmodified":1467083277,
+    "wof:lastmodified":1510602071,
     "wof:name":"Motion Industries Inc",
     "wof:parent_id":420541861,
     "wof:placetype":"venue",

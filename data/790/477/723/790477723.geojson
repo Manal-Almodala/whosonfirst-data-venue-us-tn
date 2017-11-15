@@ -2,14 +2,20 @@
   "id": 790477723,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 Hickory Hills Dr Jackson TN 38305",
+    "addr:housenumber":"76",
+    "addr:postcode":"38305",
+    "addr:street":"Hickory Hills Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.796115,35.693036,-88.796115,35.693036",
     "geom:latitude":35.693036,
     "geom:longitude":-88.796115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"76 Hickory Hills Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125158801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2xxXJbYqQbDonDo2rI1cDX_35.693036_-88.796115@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596173,
-    "wof:geomhash":"2c3ba336962cb403de10c6fcfe11608b",
+    "wof:geomhash":"6ca09e7526914cf732c01f5c543c2006",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790477723,
-    "wof:lastmodified":1467083211,
+    "wof:lastmodified":1510613187,
     "wof:name":"Los Compadres",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823252033,
   "type": "Feature",
   "properties": {
+    "addr:full":"5219 Clinton Hwy Knoxville TN 37912",
+    "addr:housenumber":"5219",
+    "addr:postcode":"37912",
+    "addr:street":"Clinton Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.978756,36.003159,-83.978756,36.003159",
     "geom:latitude":36.003159,
     "geom:longitude":-83.978756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5219 Clinton Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086455,
         85838527
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7anwolPHqc4fk2pXCQN4aN_36.003159_-83.978756@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609385,
-    "wof:geomhash":"a41c21fdfa588b8e547ab21b21d9a122",
+    "wof:geomhash":"cdec44f68a767080605ea971cbaa7737",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823252033,
-    "wof:lastmodified":1467083636,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":85838527,
     "wof:placetype":"venue",

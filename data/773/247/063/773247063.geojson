@@ -2,9 +2,14 @@
   "id": 773247063,
   "type": "Feature",
   "properties": {
+    "addr:full":"630 Crofton Park Ln Franklin TN 37069",
+    "addr:housenumber":"630",
+    "addr:postcode":"37069",
+    "addr:street":"Crofton Park Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.873663,35.956512,-86.873663,35.956512",
     "geom:latitude":35.956512,
     "geom:longitude":-86.873663,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -40,6 +46,7 @@
     "wof:geomhash":"a8ebd3290eacb60f9ad681d8768516fc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773247063,
-    "wof:lastmodified":1467082844,
+    "wof:lastmodified":1491924182,
     "wof:name":"Mark E Lonsway",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

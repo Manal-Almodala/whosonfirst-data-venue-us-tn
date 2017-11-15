@@ -2,14 +2,20 @@
   "id": 807191089,
   "type": "Feature",
   "properties": {
+    "addr:full":"208 Sunset Dr Johnson City TN 37604",
+    "addr:housenumber":"208",
+    "addr:postcode":"37604",
+    "addr:street":"Sunset Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.376592,36.343515,-82.376592,36.343515",
     "geom:latitude":36.343515,
     "geom:longitude":-82.376592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"208 Sunset Dr",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086335,
         85852457
     ],
+    "wof:brand_id":1125159113,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yy7qlhhWGkCHsi9mFaABG_36.343515_-82.376592@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604700,
-    "wof:geomhash":"80873bad97f8a3392bd0e3ebb5e00f6a",
+    "wof:geomhash":"84bbef7f14661eea5b5b2991074b8e4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807191089,
-    "wof:lastmodified":1467083487,
+    "wof:lastmodified":1510698951,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85852457,
     "wof:placetype":"venue",

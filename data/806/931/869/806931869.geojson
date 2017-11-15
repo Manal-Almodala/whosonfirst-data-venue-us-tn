@@ -2,14 +2,20 @@
   "id": 806931869,
   "type": "Feature",
   "properties": {
+    "addr:full":"105 Macedonia Rd Lawrenceburg TN 38464",
+    "addr:housenumber":"105",
+    "addr:postcode":"38464",
+    "addr:street":"Macedonia Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.434246,35.34215,-87.434246,35.34215",
     "geom:latitude":35.34215,
     "geom:longitude":-87.434246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"105 Macedonia Rd",
     "sg:city":"Lawrenceburg",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85833563,
         102086349
     ],
+    "wof:brand_id":420575803,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HerQNIdQSVf9CtPXwKnjg_35.342150_-87.434246@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602290,
-    "wof:geomhash":"a82a907e2fe469b50597812538424a99",
+    "wof:geomhash":"6cbfc25b26d74fed626ca4934ba0f277",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806931869,
-    "wof:lastmodified":1467083413,
+    "wof:lastmodified":1510602946,
     "wof:name":"Macedonia Baptist Church",
     "wof:parent_id":85833563,
     "wof:placetype":"venue",

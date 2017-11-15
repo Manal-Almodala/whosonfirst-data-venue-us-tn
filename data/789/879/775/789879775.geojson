@@ -2,14 +2,20 @@
   "id": 789879775,
   "type": "Feature",
   "properties": {
+    "addr:full":"5200 Clinton Hwy Knoxville TN 37912",
+    "addr:housenumber":"5200",
+    "addr:postcode":"37912",
+    "addr:street":"Clinton Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.979368,36.003433,-83.979368,36.003433",
     "geom:latitude":36.003433,
     "geom:longitude":-83.979368,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5200 Clinton Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85838527
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_25r9mhFctCsnE0kbigZ1kb_36.003433_-83.979368@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591288,
-    "wof:geomhash":"10e6e7ea6fdef575d6895be06fc72a33",
+    "wof:geomhash":"1016ec86266462197da2b38a027b7bd1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789879775,
-    "wof:lastmodified":1467083067,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85838527,
     "wof:placetype":"venue",

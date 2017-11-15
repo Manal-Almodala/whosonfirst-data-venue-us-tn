@@ -2,14 +2,20 @@
   "id": 790397287,
   "type": "Feature",
   "properties": {
+    "addr:full":"2115 W Andrew Johnson Hwy Morristown TN 37814",
+    "addr:housenumber":"2115",
+    "addr:postcode":"37814",
+    "addr:street":"W Andrew Johnson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.320869,36.206582,-83.320869,36.206582",
     "geom:latitude":36.206582,
     "geom:longitude":-83.320869,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2115 W Andrew Johnson Hwy",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":1125158753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4OaWbH5X9b7JnPagkdPiYU_36.206582_-83.320869@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595516,
-    "wof:geomhash":"e3c68cc1263f4ab16440579dff5536d0",
+    "wof:geomhash":"ad895533eb868e86fdb324c364e905c0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790397287,
-    "wof:lastmodified":1467083191,
+    "wof:lastmodified":1510695792,
     "wof:name":"Direct General Insurance Agcy",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

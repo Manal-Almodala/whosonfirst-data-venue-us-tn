@@ -2,14 +2,20 @@
   "id": 823255375,
   "type": "Feature",
   "properties": {
+    "addr:full":"1181 Ridgeway Rd Memphis TN 38119",
+    "addr:housenumber":"1181",
+    "addr:postcode":"38119",
+    "addr:street":"Ridgeway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.85901,35.099191,-89.85901,35.099191",
     "geom:latitude":35.099191,
     "geom:longitude":-89.85901,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1181 Ridgeway Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85857485
     ],
+    "wof:brand_id":1125151851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FpdnFLt8ZJkpY7C4JHUho_35.099191_-89.859010@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609448,
-    "wof:geomhash":"08a0c6820eb8b9a20e8106bf3c61823f",
+    "wof:geomhash":"0e7fba753bf2781276cfa1740584ac28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823255375,
-    "wof:lastmodified":1467083639,
+    "wof:lastmodified":1510696691,
     "wof:name":"P.F. Chang's",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",

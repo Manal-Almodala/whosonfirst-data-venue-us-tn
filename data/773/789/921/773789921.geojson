@@ -2,14 +2,20 @@
   "id": 773789921,
   "type": "Feature",
   "properties": {
+    "addr:full":"1817 S 3rd St Memphis TN 38109",
+    "addr:housenumber":"1817",
+    "addr:postcode":"38109",
+    "addr:street":"S 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.05562,35.099821,-90.05562,35.099821",
     "geom:latitude":35.099821,
     "geom:longitude":-90.05562,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1817 S 3rd St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         420542137
     ],
+    "wof:brand_id":1125153209,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dQJZy4ykgtkbcX1fBW5bo_35.099821_-90.055620@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588389,
-    "wof:geomhash":"46271d43c5257293e31f92564ebe178d",
+    "wof:geomhash":"9c35c48e03d432553f0bcaea40a553eb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":773789921,
-    "wof:lastmodified":1467082980,
+    "wof:lastmodified":1510695972,
     "wof:name":"Coinstar",
     "wof:parent_id":420542137,
     "wof:placetype":"venue",

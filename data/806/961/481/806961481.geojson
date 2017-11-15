@@ -2,14 +2,20 @@
   "id": 806961481,
   "type": "Feature",
   "properties": {
+    "addr:full":"61 Thompson Ln Nashville TN 37211",
+    "addr:housenumber":"61",
+    "addr:postcode":"37211",
+    "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.726451,36.110604,-86.726451,36.110604",
     "geom:latitude":36.110604,
     "geom:longitude":-86.726451,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"61 Thompson Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85821799
     ],
+    "wof:brand_id":1125153419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_210X3b8vrUfQHdzNV6J9eK_36.110604_-86.726451@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602537,
-    "wof:geomhash":"22b1b7f6829b15e9c4e4d8f09745d2a7",
+    "wof:geomhash":"c9a395f9187e1d5cdd0db9fa960c7bdd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806961481,
-    "wof:lastmodified":1467083421,
+    "wof:lastmodified":1510695032,
     "wof:name":"Style America",
     "wof:parent_id":85821799,
     "wof:placetype":"venue",

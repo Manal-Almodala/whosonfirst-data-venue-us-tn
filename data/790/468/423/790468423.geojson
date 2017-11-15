@@ -2,14 +2,20 @@
   "id": 790468423,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Chestnut Hill Rd Oak Ridge TN 37830",
+    "addr:housenumber":"123",
+    "addr:postcode":"37830",
+    "addr:street":"Chestnut Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.214372,36.035786,-84.214372,36.035786",
     "geom:latitude":36.035786,
     "geom:longitude":-84.214372,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 Chestnut Hill Rd",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086483,
         85818065
     ],
+    "wof:brand_id":1125150715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7cLKZcFnUFylOtnEiQj0P7_36.035786_-84.214372@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596078,
-    "wof:geomhash":"1ea4e84874c3177d3c56e22a321677ca",
+    "wof:geomhash":"d3c950a0bf91a0f9c5d75c9f67d07859",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790468423,
-    "wof:lastmodified":1467083208,
+    "wof:lastmodified":1510698924,
     "wof:name":"Pillar To Post",
     "wof:parent_id":85818065,
     "wof:placetype":"venue",

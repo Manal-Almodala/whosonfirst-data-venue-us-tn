@@ -2,14 +2,20 @@
   "id": 790071647,
   "type": "Feature",
   "properties": {
+    "addr:full":"1315 W Main St Lebanon TN 37087",
+    "addr:housenumber":"1315",
+    "addr:postcode":"37087",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.325122,36.214462,-86.325122,36.214462",
     "geom:latitude":36.214462,
     "geom:longitude":-86.325122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1315 W Main St",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125153419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68MnHGbFgLxJg9oB2BPUR1_36.214462_-86.325122@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592906,
-    "wof:geomhash":"4bbde945de8df62c6dda55ddf1911e8f",
+    "wof:geomhash":"04a45ba7083e61c54df19540f1768e0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790071647,
-    "wof:lastmodified":1467083113,
+    "wof:lastmodified":1510695032,
     "wof:name":"Style America",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

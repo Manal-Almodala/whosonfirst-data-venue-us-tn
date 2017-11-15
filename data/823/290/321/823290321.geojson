@@ -2,14 +2,20 @@
   "id": 823290321,
   "type": "Feature",
   "properties": {
+    "addr:full":"3108 N Germantown Rd # 106 Memphis TN 38133",
+    "addr:housenumber":"3108",
+    "addr:postcode":"38133",
+    "addr:street":"N Germantown Rd # 106",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.791773,35.210581,-89.791773,35.210581",
     "geom:latitude":35.210581,
     "geom:longitude":-89.791773,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3108 N Germantown Rd # 106",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087213,
         85838691
     ],
+    "wof:brand_id":1125153897,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0cVn7tFHQIlGlTTCfHHh7l_35.210581_-89.791773@1303262743"
     },
     "wof:country":"US",
     "wof:created":1462610705,
-    "wof:geomhash":"717b2e974a66c43cb1bc8f6f0fd1794b",
+    "wof:geomhash":"541e111eb0ce5d6bad5def570a418abc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":823290321,
-    "wof:lastmodified":1467083684,
+    "wof:lastmodified":1510698862,
     "wof:name":"Physiotherapy Associates",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",

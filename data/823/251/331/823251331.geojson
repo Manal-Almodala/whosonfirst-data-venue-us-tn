@@ -2,14 +2,20 @@
   "id": 823251331,
   "type": "Feature",
   "properties": {
+    "addr:full":"19570 Alberta St Oneida TN 37841",
+    "addr:housenumber":"19570",
+    "addr:postcode":"37841",
+    "addr:street":"Alberta St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.509641,36.512788,-84.509641,36.512788",
     "geom:latitude":36.512788,
     "geom:longitude":-84.509641,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"19570 Alberta St",
     "sg:city":"Oneida",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087113,
         420542103
     ],
+    "wof:brand_id":1125150833,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QVOFYKcHjgzGHjr8ucU93_36.512788_-84.509641@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609360,
-    "wof:geomhash":"c1d4f4595cda8887475899d97c474132",
+    "wof:geomhash":"6cadc4a4031f52df6d7a1176e8023ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823251331,
-    "wof:lastmodified":1467083636,
+    "wof:lastmodified":1510695417,
     "wof:name":"Lee's Famous Recipe Chicken",
     "wof:parent_id":420542103,
     "wof:placetype":"venue",

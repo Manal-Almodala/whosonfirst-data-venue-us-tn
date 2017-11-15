@@ -2,14 +2,20 @@
   "id": 773332715,
   "type": "Feature",
   "properties": {
+    "addr:full":"1720 Old Fort Pkwy Murfreesboro TN 37129",
+    "addr:housenumber":"1720",
+    "addr:postcode":"37129",
+    "addr:street":"Old Fort Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.428973,35.845833,-86.428973,35.845833",
     "geom:latitude":35.845833,
     "geom:longitude":-86.428973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1720 Old Fort Pkwy",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125152207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kOeq6vvm5nm05fHQwieMA_35.845833_-86.428973@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584932,
-    "wof:geomhash":"8567ccb2ab8a64c15896758e156ffe65",
+    "wof:geomhash":"1d662b10dbf0dbc81e8dd2abcc628b7a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773332715,
-    "wof:lastmodified":1467082871,
+    "wof:lastmodified":1510695057,
     "wof:name":"Goody's Family Clothing",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

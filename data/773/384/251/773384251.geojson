@@ -2,14 +2,20 @@
   "id": 773384251,
   "type": "Feature",
   "properties": {
+    "addr:full":"230 Bowman St Morristown TN 37813",
+    "addr:housenumber":"230",
+    "addr:postcode":"37813",
+    "addr:street":"Bowman St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.313995,36.202784,-83.313995,36.202784",
     "geom:latitude":36.202784,
     "geom:longitude":-83.313995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"230 Bowman St",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":1125155471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2eB7qBA1hR84rhIxDM913W_36.202784_-83.313995@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585280,
-    "wof:geomhash":"215000fdc23cc65f511c777ab9ee3869",
+    "wof:geomhash":"e7e42456e14b539c4cbab637ed316613",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773384251,
-    "wof:lastmodified":1467082883,
+    "wof:lastmodified":1510612912,
     "wof:name":"Concentra Medical Center",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

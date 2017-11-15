@@ -2,14 +2,20 @@
   "id": 807296413,
   "type": "Feature",
   "properties": {
+    "addr:full":"910 Faith Rd Dickson TN 37055",
+    "addr:housenumber":"910",
+    "addr:postcode":"37055",
+    "addr:street":"Faith Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.34569,36.064132,-87.34569,36.064132",
     "geom:latitude":36.064132,
     "geom:longitude":-87.34569,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"910 Faith Rd",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":420574699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hhdMyqJo2ZsHZT8oDCg3h_36.064132_-87.345690@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605816,
-    "wof:geomhash":"e681652a17341d080627abfe8041784b",
+    "wof:geomhash":"404fc1d72f4b6e9846bace9b5d42aca0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807296413,
-    "wof:lastmodified":1467083522,
+    "wof:lastmodified":1510604430,
     "wof:name":"Faith Baptist Church",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

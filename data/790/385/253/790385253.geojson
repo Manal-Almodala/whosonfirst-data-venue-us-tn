@@ -2,14 +2,20 @@
   "id": 790385253,
   "type": "Feature",
   "properties": {
+    "addr:full":"4759 Poplar Ave Memphis TN 38117",
+    "addr:housenumber":"4759",
+    "addr:postcode":"38117",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.904957,35.115371,-89.904957,35.115371",
     "geom:latitude":35.115371,
     "geom:longitude":-89.904957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4759 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":420575151,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KH9Qd8McmH9H2Yk1JaZe2_35.115371_-89.904957@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595424,
-    "wof:geomhash":"1ab55b52dcf9597f27472cded6fe3b59",
+    "wof:geomhash":"e58cd7e09c787edf0f812b3c63ef35ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790385253,
-    "wof:lastmodified":1467083188,
+    "wof:lastmodified":1510602104,
     "wof:name":"Nextel",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

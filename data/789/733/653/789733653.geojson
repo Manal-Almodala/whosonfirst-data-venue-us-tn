@@ -2,14 +2,20 @@
   "id": 789733653,
   "type": "Feature",
   "properties": {
+    "addr:full":"3074 Sidco Dr Nashville TN 37204",
+    "addr:housenumber":"3074",
+    "addr:postcode":"37204",
+    "addr:street":"Sidco Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.757705,36.094613,-86.757705,36.094613",
     "geom:latitude":36.094613,
     "geom:longitude":-86.757705,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3074 Sidco Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85843601
     ],
+    "wof:brand_id":1125156125,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5zdBWDSAjaR1F68EzNxatJ_36.094613_-86.757705@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590129,
-    "wof:geomhash":"64aadad8b073c22ef3497814b4fd95a6",
+    "wof:geomhash":"4413170bcbfc56ea3ce55499c0e09c09",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789733653,
-    "wof:lastmodified":1467083032,
+    "wof:lastmodified":1510613400,
     "wof:name":"Rinker Materials Corporation",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",

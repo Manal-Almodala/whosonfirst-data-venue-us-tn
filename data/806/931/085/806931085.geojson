@@ -2,14 +2,20 @@
   "id": 806931085,
   "type": "Feature",
   "properties": {
+    "addr:full":"803 Forest St Greeneville TN 37743",
+    "addr:housenumber":"803",
+    "addr:postcode":"37743",
+    "addr:street":"Forest St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.842193,36.1551,-82.842193,36.1551",
     "geom:latitude":36.1551,
     "geom:longitude":-82.842193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"803 Forest St",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086377,
         85826147
     ],
+    "wof:brand_id":1125156215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dVqPpi2KYHcPB0jLvFlNl_36.155100_-82.842193@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602284,
-    "wof:geomhash":"8d3fec20ee832c0dd5033c089e677adf",
+    "wof:geomhash":"ce7a70b7df2b1b89191f36d4cfb8f55a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806931085,
-    "wof:lastmodified":1467083413,
+    "wof:lastmodified":1510699588,
     "wof:name":"Classic Nails",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",

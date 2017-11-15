@@ -2,14 +2,20 @@
   "id": 823262437,
   "type": "Feature",
   "properties": {
+    "addr:full":"302 Indian Lake Blvd Hendersonville TN 37075",
+    "addr:housenumber":"302",
+    "addr:postcode":"37075",
+    "addr:street":"Indian Lake Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.59365,36.330244,-86.59365,36.330244",
     "geom:latitude":36.330244,
     "geom:longitude":-86.59365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"302 Indian Lake Blvd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[],
@@ -26,13 +32,14 @@
         102086357,
         85847431
     ],
+    "wof:brand_id":1125155667,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_06J0FZ8ztrb3M037VjxKSB_36.330244_-86.593650@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609612,
-    "wof:geomhash":"2b6bbf70b025f687a9675ef077fe3905",
+    "wof:geomhash":"08c19fc916db3f31a29f84e709433b64",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -44,7 +51,7 @@
         }
     ],
     "wof:id":823262437,
-    "wof:lastmodified":1467083644,
+    "wof:lastmodified":1510698984,
     "wof:name":"Red Robin Gourmet Burgers",
     "wof:parent_id":85847431,
     "wof:placetype":"venue",

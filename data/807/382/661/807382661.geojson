@@ -2,14 +2,20 @@
   "id": 807382661,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Rebel Rd Jackson TN 38301",
+    "addr:housenumber":"32",
+    "addr:postcode":"38301",
+    "addr:street":"Rebel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.813386,35.564534,-88.813386,35.564534",
     "geom:latitude":35.564534,
     "geom:longitude":-88.813386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32 Rebel Rd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087221,
         85868161
     ],
+    "wof:brand_id":420573953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2oeP5oHLdpDyGkzKKmosaZ_35.564534_-88.813386@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606956,
-    "wof:geomhash":"dc5ffb8de6c6d476fba238af710fc78e",
+    "wof:geomhash":"0e6bae7930c6b14a08e16dd47a2ea027",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807382661,
-    "wof:lastmodified":1467083559,
+    "wof:lastmodified":1510603266,
     "wof:name":"Allstate Insurance Co",
     "wof:parent_id":85868161,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790083643,
   "type": "Feature",
   "properties": {
+    "addr:full":"520 SE Broad St Murfreesboro TN 37130",
+    "addr:housenumber":"520",
+    "addr:postcode":"37130",
+    "addr:street":"Se Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.386043,35.8381,-86.386043,35.8381",
     "geom:latitude":35.8381,
     "geom:longitude":-86.386043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 SE Broad St",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85835585
     ],
+    "wof:brand_id":1125150727,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5204RR2QIEHlMhPewTCu2V_35.838100_-86.386043@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592995,
-    "wof:geomhash":"d4324c287f762503803758f7eec0a3e7",
+    "wof:geomhash":"694a0d35198164aca268c9301cc9879a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790083643,
-    "wof:lastmodified":1467083116,
+    "wof:lastmodified":1510695860,
     "wof:name":"U-Save Auto Rental",
     "wof:parent_id":85835585,
     "wof:placetype":"venue",

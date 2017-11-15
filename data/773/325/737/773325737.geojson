@@ -2,14 +2,20 @@
   "id": 773325737,
   "type": "Feature",
   "properties": {
+    "addr:full":"1206 Market St Chattanooga TN 37402",
+    "addr:housenumber":"1206",
+    "addr:postcode":"37402",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.308936,35.042087,-85.308936,35.042087",
     "geom:latitude":35.042087,
     "geom:longitude":-85.308936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1206 Market St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85876727
     ],
+    "wof:brand_id":1125152227,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2XhS4GLBo2mDHmISgulmxo_35.042087_-85.308936@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584878,
-    "wof:geomhash":"12d7f568406c9c2ab4de7990821afdff",
+    "wof:geomhash":"c40a7aab0306453d268050e6c1bda553",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773325737,
-    "wof:lastmodified":1467082869,
+    "wof:lastmodified":1510699276,
     "wof:name":"Petite Sophisticate",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",

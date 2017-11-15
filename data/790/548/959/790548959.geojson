@@ -2,14 +2,20 @@
   "id": 790548959,
   "type": "Feature",
   "properties": {
+    "addr:full":"1015 Cosby Hwy Newport TN 37821",
+    "addr:housenumber":"1015",
+    "addr:postcode":"37821",
+    "addr:street":"Cosby Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.205258,35.946342,-83.205258,35.946342",
     "geom:latitude":35.946342,
     "geom:longitude":-83.205258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1015 Cosby Hwy",
     "sg:city":"Newport",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086241,
         85827351
     ],
+    "wof:brand_id":420574153,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10rqp5p2iLVAdqjFKyxoOi_35.946342_-83.205258@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596773,
-    "wof:geomhash":"d0304684ae0ae66076dd818e2bfa41f6",
+    "wof:geomhash":"9b249d1c653d38ff70bbd88c399612c8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790548959,
-    "wof:lastmodified":1467083231,
+    "wof:lastmodified":1510603951,
     "wof:name":"Best Western Inn",
     "wof:parent_id":85827351,
     "wof:placetype":"venue",

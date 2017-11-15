@@ -2,14 +2,20 @@
   "id": 773612637,
   "type": "Feature",
   "properties": {
+    "addr:full":"3560 Wesley Rd Kingsport TN 37664",
+    "addr:housenumber":"3560",
+    "addr:postcode":"37664",
+    "addr:street":"Wesley Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.51444,36.502359,-82.51444,36.502359",
     "geom:latitude":36.502359,
     "geom:longitude":-82.51444,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3560 Wesley Rd",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086471,
         85826065
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2a7yU3LVHIoGl3H7doMUQO_36.502359_-82.514440@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587030,
-    "wof:geomhash":"0b8946c6ad031daf902a5e18445b7d00",
+    "wof:geomhash":"dc38883f624452aa6597baee76d110f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773612637,
-    "wof:lastmodified":1467082937,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85826065,
     "wof:placetype":"venue",

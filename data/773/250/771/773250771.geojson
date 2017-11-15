@@ -2,14 +2,20 @@
   "id": 773250771,
   "type": "Feature",
   "properties": {
+    "addr:full":"6030 Industrial Heights Dr Knoxville TN 37909",
+    "addr:housenumber":"6030",
+    "addr:postcode":"37909",
+    "addr:street":"Industrial Heights Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.017838,35.957485,-84.017838,35.957485",
     "geom:latitude":35.957485,
     "geom:longitude":-84.017838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6030 Industrial Heights Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         420541855
     ],
+    "wof:brand_id":1125159331,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1xyPZASJ99HMgKdyTvHlUN_35.957485_-84.017838@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584300,
-    "wof:geomhash":"b8da7d4b248abd448a262ebc1a2c5dea",
+    "wof:geomhash":"2e2b482dd4c820d9c53a4222d463f198",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773250771,
-    "wof:lastmodified":1467082845,
+    "wof:lastmodified":1510695228,
     "wof:name":"Parker Hannifin Corporation",
     "wof:parent_id":420541855,
     "wof:placetype":"venue",

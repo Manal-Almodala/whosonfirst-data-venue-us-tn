@@ -2,14 +2,20 @@
   "id": 789864861,
   "type": "Feature",
   "properties": {
+    "addr:full":"346 W Stone Dr Kingsport TN 37660",
+    "addr:housenumber":"346",
+    "addr:postcode":"37660",
+    "addr:street":"W Stone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.55664,36.559709,-82.55664,36.559709",
     "geom:latitude":36.559709,
     "geom:longitude":-82.55664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"346 W Stone Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086471,
         420560139
     ],
+    "wof:brand_id":1125158611,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3OTVqvcrWikNoCBhJ0pkjC_36.559709_-82.556640@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591146,
-    "wof:geomhash":"ad1b19347aece0718ad8f682e1fcecbc",
+    "wof:geomhash":"7f91a02234d1e97d5888ee321ee627ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789864861,
-    "wof:lastmodified":1467083064,
+    "wof:lastmodified":1510697762,
     "wof:name":"Putt Putt Golf & Games",
     "wof:parent_id":420560139,
     "wof:placetype":"venue",

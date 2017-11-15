@@ -2,14 +2,20 @@
   "id": 807239399,
   "type": "Feature",
   "properties": {
+    "addr:full":"900 Georgia Ave Chattanooga TN 37402",
+    "addr:housenumber":"900",
+    "addr:postcode":"37402",
+    "addr:street":"Georgia Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.30885,35.044709,-85.30885,35.044709",
     "geom:latitude":35.044709,
     "geom:longitude":-85.30885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Georgia Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         85876727
     ],
+    "wof:brand_id":1125156499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6H2Xxfw0lY3ze2hFq9hKdg_35.044709_-85.308850@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605204,
-    "wof:geomhash":"fa79858be72d4bea36668208da790ea7",
+    "wof:geomhash":"662f519d70fd89c6acc7dcfa9766c63b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807239399,
-    "wof:lastmodified":1467083503,
+    "wof:lastmodified":1510693942,
     "wof:name":"US Probation & Parole Office",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",

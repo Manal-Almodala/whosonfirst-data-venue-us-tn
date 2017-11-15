@@ -2,14 +2,20 @@
   "id": 773516501,
   "type": "Feature",
   "properties": {
+    "addr:full":"5098 Hixson Pike Hixson TN 37343",
+    "addr:housenumber":"5098",
+    "addr:postcode":"37343",
+    "addr:street":"Hixson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.241148,35.134451,-85.241148,35.134451",
     "geom:latitude":35.134451,
     "geom:longitude":-85.241148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5098 Hixson Pike",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541703
     ],
+    "wof:brand_id":1125152889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6TdXYB6AxfpvT1RSCqEEyo_35.134451_-85.241148@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586321,
-    "wof:geomhash":"2742bc481817281cababdb183a8c2177",
+    "wof:geomhash":"dc11d26c44084e493eb2121fa9c5f14f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773516501,
-    "wof:lastmodified":1467082914,
+    "wof:lastmodified":1510695967,
     "wof:name":"Mr Transmission",
     "wof:parent_id":420541703,
     "wof:placetype":"venue",

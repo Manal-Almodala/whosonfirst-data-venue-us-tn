@@ -2,14 +2,20 @@
   "id": 790319091,
   "type": "Feature",
   "properties": {
+    "addr:full":"2399 Covington Pike Memphis TN 38128",
+    "addr:housenumber":"2399",
+    "addr:postcode":"38128",
+    "addr:street":"Covington Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.895958,35.189389,-89.895958,35.189389",
     "geom:latitude":35.189389,
     "geom:longitude":-89.895958,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2399 Covington Pike",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":420575149,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4dMRzjosWKzQlkCWrZx1Nj_35.189389_-89.895958@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594909,
-    "wof:geomhash":"1768d23bec5660c648849b7a6d892c31",
+    "wof:geomhash":"13b88ada8b7b4392b5f31f6f106a2675",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790319091,
-    "wof:lastmodified":1467083172,
+    "wof:lastmodified":1510602943,
     "wof:name":"Meineke Car Care Ctr",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

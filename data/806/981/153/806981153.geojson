@@ -2,14 +2,20 @@
   "id": 806981153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1312 Lebanon Pike Nashville TN 37210",
+    "addr:housenumber":"1312",
+    "addr:postcode":"37210",
+    "addr:street":"Lebanon Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.733068,36.153567,-86.733068,36.153567",
     "geom:latitude":36.153567,
     "geom:longitude":-86.733068,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1312 Lebanon Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85835935
     ],
+    "wof:brand_id":1125159359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2jrMHXxTWnB1ohkAqtTOHx_36.153567_-86.733068@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602700,
-    "wof:geomhash":"d92cbbf007b5a944bf8a511339393b58",
+    "wof:geomhash":"b4056bf056b34f0183cf67ccf885dd6d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806981153,
-    "wof:lastmodified":1467083427,
+    "wof:lastmodified":1510699283,
     "wof:name":"Ryder Integrated Logistics Inc",
     "wof:parent_id":85835935,
     "wof:placetype":"venue",

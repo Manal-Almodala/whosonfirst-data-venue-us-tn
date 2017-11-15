@@ -2,14 +2,20 @@
   "id": 790477435,
   "type": "Feature",
   "properties": {
+    "addr:full":"1468 Leland St Memphis TN 38106",
+    "addr:housenumber":"1468",
+    "addr:postcode":"38106",
+    "addr:street":"Leland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.03552,35.106122,-90.03552,35.106122",
     "geom:latitude":35.106122,
     "geom:longitude":-90.03552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1468 Leland St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85808431
     ],
+    "wof:brand_id":1125155447,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yPZj8Dl7iq3cZxvLNkNQ1_35.106122_-90.035520@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596170,
-    "wof:geomhash":"70951bae6e9826c2b547fa1781257598",
+    "wof:geomhash":"f65ef40a0651bf22ef81796b734a48a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790477435,
-    "wof:lastmodified":1467083211,
+    "wof:lastmodified":1510696888,
     "wof:name":"Zion Hill Baptist Church",
     "wof:parent_id":85808431,
     "wof:placetype":"venue",

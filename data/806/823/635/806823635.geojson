@@ -2,14 +2,20 @@
   "id": 806823635,
   "type": "Feature",
   "properties": {
+    "addr:full":"751 Millers Point Rd Sparta TN 38583",
+    "addr:housenumber":"751",
+    "addr:postcode":"38583",
+    "addr:street":"Millers Point Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.477125,35.952628,-85.477125,35.952628",
     "geom:latitude":35.952628,
     "geom:longitude":-85.477125,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"751 Millers Point Rd",
     "sg:city":"Sparta",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086369,
         85845693
     ],
+    "wof:brand_id":420574971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UDew71r2E8LdGsBV5iJRf_35.952628_-85.477125@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601371,
-    "wof:geomhash":"b37f1479d717c4dee4fee83c0e89db01",
+    "wof:geomhash":"405dc303c7b273a5bc3eb26fbcfe87d9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806823635,
-    "wof:lastmodified":1467083383,
+    "wof:lastmodified":1510603892,
     "wof:name":"Farm Service Agency",
     "wof:parent_id":85845693,
     "wof:placetype":"venue",

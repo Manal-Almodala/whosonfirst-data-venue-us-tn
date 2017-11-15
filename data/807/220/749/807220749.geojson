@@ -2,14 +2,20 @@
   "id": 807220749,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 Gunbarrel Rd Chattanooga TN 37421",
+    "addr:housenumber":"2021",
+    "addr:postcode":"37421",
+    "addr:street":"Gunbarrel Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.154952,35.031456,-85.154952,35.031456",
     "geom:latitude":35.031456,
     "geom:longitude":-85.154952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2021 Gunbarrel Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85824831
     ],
+    "wof:brand_id":1125151241,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1inWg4UBUzB8Fe0LW0V6Z3_35.031456_-85.154952@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605007,
-    "wof:geomhash":"ad11a543ce299f178d0560ffaf5ee13c",
+    "wof:geomhash":"e51a01844ba597ce922aac1f437ab690",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807220749,
-    "wof:lastmodified":1467083497,
+    "wof:lastmodified":1510697263,
     "wof:name":"Vitamin Shoppe",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",

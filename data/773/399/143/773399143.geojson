@@ -2,14 +2,20 @@
   "id": 773399143,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Mason Ct Franklin TN 37055",
+    "addr:housenumber":"100",
+    "addr:postcode":"37055",
+    "addr:street":"Mason Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.375027,36.06313,-87.375027,36.06313",
     "geom:latitude":36.06313,
     "geom:longitude":-87.375027,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Mason Ct",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125151261,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5rJ7EV3edY3EUSNetJ4bhG_36.063130_-87.375027@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585393,
-    "wof:geomhash":"fc204ec96d9b098700669016048d9741",
+    "wof:geomhash":"2bf084263f3eee899a55683fb86117f9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773399143,
-    "wof:lastmodified":1467082886,
+    "wof:lastmodified":1510699355,
     "wof:name":"Express Oil Change",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

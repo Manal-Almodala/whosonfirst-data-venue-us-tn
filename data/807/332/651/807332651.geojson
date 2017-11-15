@@ -2,14 +2,20 @@
   "id": 807332651,
   "type": "Feature",
   "properties": {
+    "addr:full":"1503 Nashville Hwy Columbia TN 38401",
+    "addr:housenumber":"1503",
+    "addr:postcode":"38401",
+    "addr:street":"Nashville Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.012387,35.647536,-87.012387,35.647536",
     "geom:latitude":35.647536,
     "geom:longitude":-87.012387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1503 Nashville Hwy",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85844993,
         102087107
     ],
+    "wof:brand_id":1125153353,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_137qXHM6tS6rr1cCOxdkBS_35.647536_-87.012387@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606228,
-    "wof:geomhash":"3659c234dce2d9b5ad3ede354d5e80b4",
+    "wof:geomhash":"33b965bbc516c11f448f06361ebeb3e5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807332651,
-    "wof:lastmodified":1467083537,
+    "wof:lastmodified":1510695785,
     "wof:name":"All Fund Mortgage",
     "wof:parent_id":85844993,
     "wof:placetype":"venue",

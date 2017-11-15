@@ -2,14 +2,20 @@
   "id": 773639125,
   "type": "Feature",
   "properties": {
+    "addr:full":"202 N Kentucky St Kingston TN 37763",
+    "addr:housenumber":"202",
+    "addr:postcode":"37763",
+    "addr:street":"N Kentucky St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.515278,35.873211,-84.515278,35.873211",
     "geom:latitude":35.873211,
     "geom:longitude":-84.515278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"202 N Kentucky St",
     "sg:city":"Kingston",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087051,
         85838767
     ],
+    "wof:brand_id":1125150895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VvESRuOz3rWPbV2qkUrWC_35.873211_-84.515278@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587240,
-    "wof:geomhash":"2bef1085819c41688ad25a9096642859",
+    "wof:geomhash":"42da9568b6e8bdefca6c343c9f92c27f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773639125,
-    "wof:lastmodified":1467082944,
+    "wof:lastmodified":1510696671,
     "wof:name":"Citizens National Bank",
     "wof:parent_id":85838767,
     "wof:placetype":"venue",

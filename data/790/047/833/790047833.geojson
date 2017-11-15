@@ -2,14 +2,20 @@
   "id": 790047833,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Old Lodge Ln Murfreesboro TN 37129",
+    "addr:housenumber":"111",
+    "addr:postcode":"37129",
+    "addr:street":"Old Lodge Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.433819,35.882504,-86.433819,35.882504",
     "geom:latitude":35.882504,
     "geom:longitude":-86.433819,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Old Lodge Ln",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85821325
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7hqc91bsbRsY7aClRfTI3Z_35.882504_-86.433819@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592703,
-    "wof:geomhash":"5f61e90be153fa9a9ce540103c110e73",
+    "wof:geomhash":"a75e8797486715bf437e125678adf2ce",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790047833,
-    "wof:lastmodified":1467083108,
+    "wof:lastmodified":1510699944,
     "wof:name":"US Interior Dept",
     "wof:parent_id":85821325,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806515817,
   "type": "Feature",
   "properties": {
+    "addr:full":"241 E Commerce St Waverly TN 37185",
+    "addr:housenumber":"241",
+    "addr:postcode":"37185",
+    "addr:street":"E Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.788756,36.085678,-87.788756,36.085678",
     "geom:latitude":36.085678,
     "geom:longitude":-87.788756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"241 E Commerce St",
     "sg:city":"Waverly",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087159,
         85826263
     ],
+    "wof:brand_id":1125157701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2KLJxScBIzZuRTDLmFy9tO_36.085678_-87.788756@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598760,
-    "wof:geomhash":"43a9fee38608b7c51b8789f85dff5b2b",
+    "wof:geomhash":"24f338e8c4185c57e46a4bb48ba28adc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806515817,
-    "wof:lastmodified":1467083296,
+    "wof:lastmodified":1510694761,
     "wof:name":"Pizza Time",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

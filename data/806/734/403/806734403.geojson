@@ -2,14 +2,20 @@
   "id": 806734403,
   "type": "Feature",
   "properties": {
+    "addr:full":"803 N Charlotte St Dickson TN 37055",
+    "addr:housenumber":"803",
+    "addr:postcode":"37055",
+    "addr:street":"N Charlotte St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.380772,36.086349,-87.380772,36.086349",
     "geom:latitude":36.086349,
     "geom:longitude":-87.380772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"803 N Charlotte St",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086975,
         85842607
     ],
+    "wof:brand_id":1125159887,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1vmb0cQV3sDm2LHS3rLJBa_36.086349_-87.380772@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600620,
-    "wof:geomhash":"d4857f65b29ba8103f95a7291d94e43e",
+    "wof:geomhash":"738fe46f2183d51d3aa298d3b4f0e586",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806734403,
-    "wof:lastmodified":1467083358,
+    "wof:lastmodified":1510697985,
     "wof:name":"House Of Style",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",

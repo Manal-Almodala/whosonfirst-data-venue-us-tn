@@ -2,14 +2,20 @@
   "id": 790021951,
   "type": "Feature",
   "properties": {
+    "addr:full":"1500 Airport Rd Gallatin TN 37066",
+    "addr:housenumber":"1500",
+    "addr:postcode":"37066",
+    "addr:street":"Airport Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.429994,36.375805,-86.429994,36.375805",
     "geom:latitude":36.375805,
     "geom:longitude":-86.429994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1500 Airport Rd",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086357,
         85852687
     ],
+    "wof:brand_id":1125156569,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QIX3H5N4T9hwo85f44WCh_36.375805_-86.429994@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592505,
-    "wof:geomhash":"3f5f43eaeb7d5ccce4e2e048a50f5dda",
+    "wof:geomhash":"fb36e7bf817a58382a40b6608ac59961",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790021951,
-    "wof:lastmodified":1467083102,
+    "wof:lastmodified":1510695193,
     "wof:name":"Fleetwood Homes",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 790212471,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Wade Cir Goodlettsville TN 37072",
+    "addr:housenumber":"650",
+    "addr:postcode":"37072",
+    "addr:street":"Wade Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.700685,36.308144,-86.700685,36.308144",
     "geom:latitude":36.308144,
     "geom:longitude":-86.700685,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 Wade Cir",
     "sg:city":"Goodlettsville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125153715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6IUJto9VI44xUmjTQVnqay_36.308144_-86.700685@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594044,
-    "wof:geomhash":"e0aeda55ceb4605154aacbd62bfa77ce",
+    "wof:geomhash":"bfbcd190e89ab533081ff91b9586c0bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790212471,
-    "wof:lastmodified":1467083147,
+    "wof:lastmodified":1510694612,
     "wof:name":"Rodeway Inn",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

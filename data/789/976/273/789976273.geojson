@@ -2,14 +2,20 @@
   "id": 789976273,
   "type": "Feature",
   "properties": {
+    "addr:full":"249 E Manley Court Cir Morristown TN 37814",
+    "addr:housenumber":"249",
+    "addr:postcode":"37814",
+    "addr:street":"E Manley Court Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.348743,36.193636,-83.348743,36.193636",
     "geom:latitude":36.193636,
     "geom:longitude":-83.348743,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"249 E Manley Court Cir",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086447,
         420541593
     ],
+    "wof:brand_id":1125157685,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4B2WM9WxBGu5C3Yh9COS94_36.193636_-83.348743@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592139,
-    "wof:geomhash":"acebacc35dff0b2dca4bc00f5107a0b8",
+    "wof:geomhash":"248dc9af905df7c353926a7fcaa6548a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789976273,
-    "wof:lastmodified":1467083091,
+    "wof:lastmodified":1510699513,
     "wof:name":"Norfolk Southern",
     "wof:parent_id":420541593,
     "wof:placetype":"venue",

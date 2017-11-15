@@ -2,14 +2,20 @@
   "id": 773121013,
   "type": "Feature",
   "properties": {
+    "addr:full":"348 Main St Franklin TN 37064",
+    "addr:housenumber":"348",
+    "addr:postcode":"37064",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.86967,35.924904,-86.86967,35.924904",
     "geom:latitude":35.924904,
     "geom:longitude":-86.86967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"348 Main St",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086337,
         85845733
     ],
+    "wof:brand_id":1125157129,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4QVr1hhoAxeNlKPD9F1jlZ_35.924904_-86.869670@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583302,
-    "wof:geomhash":"88308b2a3e8b2340da2561d32a589e42",
+    "wof:geomhash":"c666e3db902218660a865258c47809d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773121013,
-    "wof:lastmodified":1467082808,
+    "wof:lastmodified":1510697058,
     "wof:name":"Chicos Fas Inc",
     "wof:parent_id":85845733,
     "wof:placetype":"venue",

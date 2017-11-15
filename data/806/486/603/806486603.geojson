@@ -2,14 +2,20 @@
   "id": 806486603,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 Belle Ave Sevierville TN 37862",
+    "addr:housenumber":"500",
+    "addr:postcode":"37862",
+    "addr:street":"Belle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.56035,35.863223,-83.56035,35.863223",
     "geom:latitude":35.863223,
     "geom:longitude":-83.56035,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Belle Ave",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086245,
         85841771
     ],
+    "wof:brand_id":1125155121,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3k7KFZKV0nGKNpXeiwJUEQ_35.863223_-83.560350@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598519,
-    "wof:geomhash":"656851e26d3bb4b9d2be9dcced030682",
+    "wof:geomhash":"2f753551a429d096de2adb163694f509",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806486603,
-    "wof:lastmodified":1467083288,
+    "wof:lastmodified":1510694062,
     "wof:name":"First Presbyterian Church Inc",
     "wof:parent_id":85841771,
     "wof:placetype":"venue",

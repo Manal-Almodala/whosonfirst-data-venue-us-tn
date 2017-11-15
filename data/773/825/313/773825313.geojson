@@ -2,14 +2,20 @@
   "id": 773825313,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Depot St Soddy Daisy TN 37379",
+    "addr:housenumber":"203",
+    "addr:postcode":"37379",
+    "addr:street":"Depot St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.159495,35.288219,-85.159495,35.288219",
     "geom:latitude":35.288219,
     "geom:longitude":-85.159495,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"203 Depot St",
     "sg:city":"Soddy Daisy",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541761
     ],
+    "wof:brand_id":1125153959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Lc50dvCpTSBIgZdNtQGSV_35.288219_-85.159495@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588682,
-    "wof:geomhash":"d97fbd2246dec89e72df6bc347c7d926",
+    "wof:geomhash":"60239a1ad1173bdd24e14b9aef847ae9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773825313,
-    "wof:lastmodified":1467082989,
+    "wof:lastmodified":1510700011,
     "wof:name":"Hair Depot",
     "wof:parent_id":420541761,
     "wof:placetype":"venue",

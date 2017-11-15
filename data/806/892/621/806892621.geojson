@@ -2,14 +2,20 @@
   "id": 806892621,
   "type": "Feature",
   "properties": {
+    "addr:full":"401 Market St Chattanooga TN 37402",
+    "addr:housenumber":"401",
+    "addr:postcode":"37402",
+    "addr:street":"Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.309071,35.066794,-85.309071,35.066794",
     "geom:latitude":35.066794,
     "geom:longitude":-85.309071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 Market St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85876743
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_62SUpUf2uueXThxsbyqcB0_35.066794_-85.309071@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601952,
-    "wof:geomhash":"064f02727149fd6e5c824999bc78296f",
+    "wof:geomhash":"0d564b9ce00c4dfa30960de942f4334e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806892621,
-    "wof:lastmodified":1467083403,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":85876743,
     "wof:placetype":"venue",

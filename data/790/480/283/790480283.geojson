@@ -2,14 +2,20 @@
   "id": 790480283,
   "type": "Feature",
   "properties": {
+    "addr:full":"32 Daniel Dr Crossville TN 38555",
+    "addr:housenumber":"32",
+    "addr:postcode":"38555",
+    "addr:street":"Daniel Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.032469,35.959806,-85.032469,35.959806",
     "geom:latitude":35.959806,
     "geom:longitude":-85.032469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"32 Daniel Dr",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":1125151039,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0x7YHd5bqSsVgo8EsoegOg_35.959806_-85.032469@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596192,
-    "wof:geomhash":"471095e6a4574760a163ae5e48d58efb",
+    "wof:geomhash":"7d98c514952a8d8e0aa3642214549608",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790480283,
-    "wof:lastmodified":1467083212,
+    "wof:lastmodified":1510697385,
     "wof:name":"Human Service Dept",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

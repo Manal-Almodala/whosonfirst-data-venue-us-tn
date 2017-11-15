@@ -2,14 +2,20 @@
   "id": 773680765,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Old Hickory Blvd Hermitage TN 37076",
+    "addr:housenumber":"5400",
+    "addr:postcode":"37076",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.609862,36.183365,-86.609862,36.183365",
     "geom:latitude":36.183365,
     "geom:longitude":-86.609862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5400 Old Hickory Blvd",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85852553
     ],
+    "wof:brand_id":1125152765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2PuxG5GqAYEZe6nP5teaTM_36.183365_-86.609862@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587547,
-    "wof:geomhash":"4c0e1aac32c73ad0c471cb8e9042942e",
+    "wof:geomhash":"6506c3c0bb9163f2f69b9a2a5dd3962d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773680765,
-    "wof:lastmodified":1467082954,
+    "wof:lastmodified":1510697159,
     "wof:name":"BP Oil Co",
     "wof:parent_id":85852553,
     "wof:placetype":"venue",

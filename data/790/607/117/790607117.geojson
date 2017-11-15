@@ -2,14 +2,20 @@
   "id": 790607117,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 Angela Cir Goodlettsville TN 37072",
+    "addr:housenumber":"613",
+    "addr:postcode":"37072",
+    "addr:street":"Angela Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.701394,36.338689,-86.701394,36.338689",
     "geom:latitude":36.338689,
     "geom:longitude":-86.701394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"613 Angela Cir",
     "sg:city":"Goodlettsville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086357,
         85824907
     ],
+    "wof:brand_id":1125156575,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Ou4XNyVBNJNV3EbpWZ3sz_36.338689_-86.701394@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597279,
-    "wof:geomhash":"403db8588a1e7a146daf999f10a9b882",
+    "wof:geomhash":"4a57a058546ba1f0d3b37e9fc30001ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790607117,
-    "wof:lastmodified":1467083247,
+    "wof:lastmodified":1510696822,
     "wof:name":"Golden Dragon Restaurant",
     "wof:parent_id":85824907,
     "wof:placetype":"venue",

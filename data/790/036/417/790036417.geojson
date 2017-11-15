@@ -2,14 +2,20 @@
   "id": 790036417,
   "type": "Feature",
   "properties": {
+    "addr:full":"3701 Clarksville Pike Nashville TN 37218",
+    "addr:housenumber":"3701",
+    "addr:postcode":"37218",
+    "addr:street":"Clarksville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.838848,36.199661,-86.838848,36.199661",
     "geom:latitude":36.199661,
     "geom:longitude":-86.838848,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3701 Clarksville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85806715
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_61UQl8TAnMNFjzfSpJl3Fi_36.199661_-86.838848@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592615,
-    "wof:geomhash":"0ea94deb682d84ad70d98d2b548aaea7",
+    "wof:geomhash":"7816d6bd4c1260d27571cd9393d8c08b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790036417,
-    "wof:lastmodified":1467083105,
+    "wof:lastmodified":1510604189,
     "wof:name":"AM South Bank",
     "wof:parent_id":85806715,
     "wof:placetype":"venue",

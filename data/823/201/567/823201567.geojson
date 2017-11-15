@@ -2,14 +2,20 @@
   "id": 823201567,
   "type": "Feature",
   "properties": {
+    "addr:full":"3185 Lebanon Pike Nashville TN 37214",
+    "addr:housenumber":"3185",
+    "addr:postcode":"37214",
+    "addr:street":"Lebanon Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.640774,36.182269,-86.640774,36.182269",
     "geom:latitude":36.182269,
     "geom:longitude":-86.640774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3185 Lebanon Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087061,
         85824679
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EVYx2c7hdOG7MdGDafU3n_36.182269_-86.640774@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608383,
-    "wof:geomhash":"3713215ddd1611a663d0fe2eb39f57d9",
+    "wof:geomhash":"ef8d9f4c1b99f4b37261c728f83db3a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823201567,
-    "wof:lastmodified":1467083601,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85824679,
     "wof:placetype":"venue",

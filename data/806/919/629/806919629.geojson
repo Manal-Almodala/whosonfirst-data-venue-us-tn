@@ -2,14 +2,20 @@
   "id": 806919629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1221 Forest Brook Rd Knoxville TN 37919",
+    "addr:housenumber":"1221",
+    "addr:postcode":"37919",
+    "addr:street":"Forest Brook Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.007742,35.914934,-84.007742,35.914934",
     "geom:latitude":35.914934,
     "geom:longitude":-84.007742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1221 Forest Brook Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85831819,
         102086455
     ],
+    "wof:brand_id":1125151223,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jYr2QCu648jnvQc9OSw4N_35.914934_-84.007742@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602171,
-    "wof:geomhash":"cb6503624bf326407c760783ce49c67f",
+    "wof:geomhash":"1eb25f4242fe3fe2fcfc3cba8b77feb1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806919629,
-    "wof:lastmodified":1467083410,
+    "wof:lastmodified":1510697269,
     "wof:name":"Indoff Inc",
     "wof:parent_id":85831819,
     "wof:placetype":"venue",

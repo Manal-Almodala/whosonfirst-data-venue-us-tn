@@ -2,9 +2,14 @@
   "id": 807021925,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Green Valley Blvd Franklin TN 37064",
+    "addr:housenumber":"108",
+    "addr:postcode":"37064",
+    "addr:street":"Green Valley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.857834,35.868761,-86.857834,35.868761",
     "geom:latitude":35.868761,
     "geom:longitude":-86.857834,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xnrQJ8zqOesGjNPgfbW8F_35.868761_-86.857834@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462603053,
     "wof:geomhash":"c1e93fd6162cdf510641c10838393443",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807021925
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807021925,
-    "wof:lastmodified":1467083438,
+    "wof:lastmodified":1491930830,
     "wof:name":"Bonner's Lawn & Landscpg Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

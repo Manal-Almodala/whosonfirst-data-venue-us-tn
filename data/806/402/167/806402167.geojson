@@ -2,9 +2,14 @@
   "id": 806402167,
   "type": "Feature",
   "properties": {
+    "addr:full":"3070 Summer Ave Memphis TN 38122",
+    "addr:housenumber":"3070",
+    "addr:postcode":"38122",
+    "addr:street":"Summer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.957882,35.149434,-89.957882,35.149434",
     "geom:latitude":35.149434,
     "geom:longitude":-89.957882,
@@ -34,7 +39,8 @@
         85633793,
         101722645,
         102087213,
-        85803961
+        85803961,
+        85806143
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -52,12 +58,21 @@
             "neighbourhood_id":85803961,
             "region_id":85688701,
             "venue_id":806402167
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722645,
+            "neighbourhood_id":85806143,
+            "region_id":85688701,
+            "venue_id":806402167
         }
     ],
     "wof:id":806402167,
-    "wof:lastmodified":1467083265,
+    "wof:lastmodified":1491926971,
     "wof:name":"Leahys Motel & Trailer Park",
-    "wof:parent_id":85803961,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

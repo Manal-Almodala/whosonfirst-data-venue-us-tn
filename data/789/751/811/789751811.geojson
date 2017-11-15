@@ -2,14 +2,20 @@
   "id": 789751811,
   "type": "Feature",
   "properties": {
+    "addr:full":"642 Space Park S Nashville TN 37211",
+    "addr:housenumber":"",
+    "addr:postcode":"37211",
+    "addr:street":"S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.707319,36.099979,-86.707319,36.099979",
     "geom:latitude":36.099979,
     "geom:longitude":-86.707319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"642 Space Park S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":1125152753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2BomEUA7e2LfnIxFiM337y_36.099979_-86.707319@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590265,
-    "wof:geomhash":"5a1ae70d83e194bc53b407a9570c5292",
+    "wof:geomhash":"31549252618b19016637b0460a9502cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":789751811,
-    "wof:lastmodified":1467083036,
+    "wof:lastmodified":1510693927,
     "wof:name":"Xpedx",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

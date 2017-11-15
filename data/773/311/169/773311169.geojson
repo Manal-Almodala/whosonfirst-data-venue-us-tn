@@ -2,14 +2,20 @@
   "id": 773311169,
   "type": "Feature",
   "properties": {
+    "addr:full":"2860 Airways Blvd Memphis TN 38114",
+    "addr:housenumber":"",
+    "addr:postcode":"2860;38114",
+    "addr:street":"Airways Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.989656,35.065215,-89.989656,35.065215",
     "geom:latitude":35.065215,
     "geom:longitude":-89.989656,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2860 Airways Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85805535
     ],
+    "wof:brand_id":420575279,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7EtXCxg7OzHbbScdrvLqUz_35.065215_-89.989656@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584772,
-    "wof:geomhash":"4a569cb1e6845e262ac3c8a293c61db1",
+    "wof:geomhash":"b3fbd6a1bc176c5333357fe13154db58",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773311169,
-    "wof:lastmodified":1467082865,
+    "wof:lastmodified":1510602643,
     "wof:name":"Dennys",
     "wof:parent_id":85805535,
     "wof:placetype":"venue",

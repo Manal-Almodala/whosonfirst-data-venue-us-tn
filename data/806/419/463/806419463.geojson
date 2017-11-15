@@ -2,14 +2,20 @@
   "id": 806419463,
   "type": "Feature",
   "properties": {
+    "addr:full":"5811 Lee Hwy Chattanooga TN 37421",
+    "addr:housenumber":"5811",
+    "addr:postcode":"37421",
+    "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.202445,35.019866,-85.202445,35.019866",
     "geom:latitude":35.019866,
     "geom:longitude":-85.202445,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5811 Lee Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087185,
         420541697
     ],
+    "wof:brand_id":1125155927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2z6RKXeD5arMY0r4QKoCUY_35.019866_-85.202445@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598004,
-    "wof:geomhash":"ae6240568ecce5a339d50a18c844d000",
+    "wof:geomhash":"777fa1562d21cc2abc483edd67b1eba6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806419463,
-    "wof:lastmodified":1467083270,
+    "wof:lastmodified":1510697678,
     "wof:name":"G A B Robins",
     "wof:parent_id":420541697,
     "wof:placetype":"venue",

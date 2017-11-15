@@ -2,14 +2,20 @@
   "id": 807193833,
   "type": "Feature",
   "properties": {
+    "addr:full":"2860 Bartlett Rd Bartlett TN 38134",
+    "addr:housenumber":"2860",
+    "addr:postcode":"38134",
+    "addr:street":"Bartlett Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.868462,35.20371,-89.868462,35.20371",
     "geom:latitude":35.20371,
     "geom:longitude":-89.868462,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2860 Bartlett Rd",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m7IouwjTJLfqYdIyqAhof_35.203710_-89.868462@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604731,
-    "wof:geomhash":"ba02da345ae06d7862467ea4f6a07252",
+    "wof:geomhash":"19215435a57e58e546f82d46318094c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":807193833,
-    "wof:lastmodified":1467083488,
+    "wof:lastmodified":1510698754,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

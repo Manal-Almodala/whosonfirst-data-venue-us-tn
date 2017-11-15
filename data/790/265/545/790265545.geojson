@@ -2,14 +2,20 @@
   "id": 790265545,
   "type": "Feature",
   "properties": {
+    "addr:full":"156 Belvedere Dr N Gallatin TN 37066",
+    "addr:housenumber":"156",
+    "addr:postcode":"37066",
+    "addr:street":"Belvedere Dr N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.477664,36.375335,-86.477664,36.375335",
     "geom:latitude":36.375335,
     "geom:longitude":-86.477664,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"156 Belvedere Dr N",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086357,
         85852687
     ],
+    "wof:brand_id":1125151597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5PriPIRsE0dFkH1dBlhRqd_36.375335_-86.477664@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594464,
-    "wof:geomhash":"bbbeb6769e2e14f3533b9f806d920e5e",
+    "wof:geomhash":"51ec9a7b59d2b81b5037b54758065d0b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":790265545,
-    "wof:lastmodified":1467083159,
+    "wof:lastmodified":1510693870,
     "wof:name":"Healthsouth Sports Medicine",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",

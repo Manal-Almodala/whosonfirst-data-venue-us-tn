@@ -2,14 +2,20 @@
   "id": 790285575,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 Public Sq Franklin TN 37064",
+    "addr:housenumber":"300",
+    "addr:postcode":"37064",
+    "addr:street":"Public Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.869137,35.925104,-86.869137,35.925104",
     "geom:latitude":35.925104,
     "geom:longitude":-86.869137,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 Public Sq",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85845733
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ujwY3fBdOfZrHW8XieDij_35.925104_-86.869137@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594651,
-    "wof:geomhash":"c6a8b6b6c904744d0edd769f8714e443",
+    "wof:geomhash":"349852706602f3c5a905c541282f6283",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790285575,
-    "wof:lastmodified":1467083164,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85845733,
     "wof:placetype":"venue",

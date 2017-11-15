@@ -2,14 +2,20 @@
   "id": 823265653,
   "type": "Feature",
   "properties": {
+    "addr:full":"15567 Old Hickory Blvd Nashville TN 37211",
+    "addr:housenumber":"15567",
+    "addr:postcode":"37211",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.740273,36.039812,-86.740273,36.039812",
     "geom:latitude":36.039812,
     "geom:longitude":-86.740273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15567 Old Hickory Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,13 +52,14 @@
         102087061,
         85839247
     ],
+    "wof:brand_id":1125151879,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7iV7C7lXl1a4MY0VOLJcJu_36.039812_-86.740273@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609736,
-    "wof:geomhash":"cae7eeb425688765527a7600b254f5a7",
+    "wof:geomhash":"1cf4dfa17e62305faf19c1843f6fa70f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,7 +72,7 @@
         }
     ],
     "wof:id":823265653,
-    "wof:lastmodified":1467083649,
+    "wof:lastmodified":1510698681,
     "wof:name":"Cellular Sales",
     "wof:parent_id":85839247,
     "wof:placetype":"venue",

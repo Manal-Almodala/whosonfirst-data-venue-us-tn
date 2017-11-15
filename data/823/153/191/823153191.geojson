@@ -2,14 +2,20 @@
   "id": 823153191,
   "type": "Feature",
   "properties": {
+    "addr:full":"39 Carriage House Dr Jackson TN 38305",
+    "addr:housenumber":"39",
+    "addr:postcode":"38305",
+    "addr:street":"Carriage House Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.831148,35.667199,-88.831148,35.667199",
     "geom:latitude":35.667199,
     "geom:longitude":-88.831148,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"39 Carriage House Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125150835,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4mr1uKTUDwejyMHtsd5lVa_35.667199_-88.831148@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607709,
-    "wof:geomhash":"d6ebe59e33bd1b2339cd31446a0762a7",
+    "wof:geomhash":"2773ca1cd81db215f7fbfeb9508701dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823153191,
-    "wof:lastmodified":1467083578,
+    "wof:lastmodified":1510695414,
     "wof:name":"Lincare Inc",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

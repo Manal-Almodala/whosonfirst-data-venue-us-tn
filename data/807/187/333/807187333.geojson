@@ -2,14 +2,20 @@
   "id": 807187333,
   "type": "Feature",
   "properties": {
+    "addr:full":"140 W 7th St Cookeville TN 38501",
+    "addr:housenumber":"140",
+    "addr:postcode":"38501",
+    "addr:street":"W 7Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.509268,36.172095,-85.509268,36.172095",
     "geom:latitude":36.172095,
     "geom:longitude":-85.509268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 W 7th St",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086339,
         85852063
     ],
+    "wof:brand_id":1125155929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1myc1StzhDMw9gHI0MYnPx_36.172095_-85.509268@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604664,
-    "wof:geomhash":"012eecbafc9017181e6c657142a29a79",
+    "wof:geomhash":"538b23a578735948ef845d95ab98929b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807187333,
-    "wof:lastmodified":1467083486,
+    "wof:lastmodified":1510697681,
     "wof:name":"Gambro Hlthcare Ptent Svcs Inc",
     "wof:parent_id":85852063,
     "wof:placetype":"venue",

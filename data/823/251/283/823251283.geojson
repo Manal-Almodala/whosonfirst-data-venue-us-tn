@@ -2,14 +2,20 @@
   "id": 823251283,
   "type": "Feature",
   "properties": {
+    "addr:full":"1217 Oak Ridge Tpke Oak Ridge TN 37830",
+    "addr:housenumber":"1217",
+    "addr:postcode":"37830",
+    "addr:street":"Oak Ridge Tpke",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.251201,36.015901,-84.251201,36.015901",
     "geom:latitude":36.015901,
     "geom:longitude":-84.251201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1217 Oak Ridge Tpke",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086483,
         85827263
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0TTuGHub7psqbgtID4IpC5_36.015901_-84.251201@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609359,
-    "wof:geomhash":"b270613b37d29a349d43aff364a6dc04",
+    "wof:geomhash":"df1407a845441c85ca380b1552e58da4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823251283,
-    "wof:lastmodified":1467083636,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",

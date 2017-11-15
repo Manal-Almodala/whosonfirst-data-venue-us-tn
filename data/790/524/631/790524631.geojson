@@ -2,14 +2,20 @@
   "id": 790524631,
   "type": "Feature",
   "properties": {
+    "addr:full":"2080 Dunn Ave Memphis TN 38114",
+    "addr:housenumber":"2080",
+    "addr:postcode":"38114",
+    "addr:street":"Dunn Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.993867,35.09178,-89.993867,35.09178",
     "geom:latitude":35.09178,
     "geom:longitude":-89.993867,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2080 Dunn Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         420542111
     ],
+    "wof:brand_id":1125151103,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5eA46hc6tAkemabQCpqK9R_35.091780_-89.993867@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596581,
-    "wof:geomhash":"d44752e32d48a14efe4866468079802a",
+    "wof:geomhash":"878819f53498f27143a084f420e01edc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790524631,
-    "wof:lastmodified":1467083224,
+    "wof:lastmodified":1510697584,
     "wof:name":"ABF Freight System Inc",
     "wof:parent_id":420542111,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 773536507,
   "type": "Feature",
   "properties": {
+    "addr:full":"4111 Jensome Ln Franklin TN 37064",
+    "addr:housenumber":"4111",
+    "addr:postcode":"37064",
+    "addr:street":"Jensome Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.840838,35.802589,-86.840838,35.802589",
     "geom:latitude":35.802589,
     "geom:longitude":-86.840838,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0r7thI4FgCmDehZvgXxfCj_35.802589_-86.840838@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462586456,
     "wof:geomhash":"046c8f8da68fa8fd0fe0f45be9a4eab4",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773536507
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773536507,
-    "wof:lastmodified":1467082919,
+    "wof:lastmodified":1491930834,
     "wof:name":"Berg Construction",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

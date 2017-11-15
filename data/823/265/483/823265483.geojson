@@ -2,14 +2,20 @@
   "id": 823265483,
   "type": "Feature",
   "properties": {
+    "addr:full":"730 Lebanon Pike Nashville TN 37210",
+    "addr:housenumber":"730",
+    "addr:postcode":"37210",
+    "addr:street":"Lebanon Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.746777,36.153949,-86.746777,36.153949",
     "geom:latitude":36.153949,
     "geom:longitude":-86.746777,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"730 Lebanon Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         102087061,
         85871389
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jvhoXjipI1DHR65H83ttw_36.153949_-86.746777@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609730,
-    "wof:geomhash":"052d7a20d8b964ae17c3bd0bc50966ca",
+    "wof:geomhash":"4ca39bd504827d234e5d7c75aa2a9b7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +75,7 @@
         }
     ],
     "wof:id":823265483,
-    "wof:lastmodified":1467083648,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",

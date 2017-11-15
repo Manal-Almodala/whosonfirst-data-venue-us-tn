@@ -2,9 +2,14 @@
   "id": 790227605,
   "type": "Feature",
   "properties": {
+    "addr:full":"203 Lee Rd Cottontown TN 37048",
+    "addr:housenumber":"203",
+    "addr:postcode":"37048",
+    "addr:street":"Lee Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.626765,36.486238,-86.626765,36.486238",
     "geom:latitude":36.486238,
     "geom:longitude":-86.626765,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"36e114825a8a6f1e2373aadd4beb3085",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790227605,
-    "wof:lastmodified":1467083150,
+    "wof:lastmodified":1491939226,
     "wof:name":"Richardson Appraisal Service",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

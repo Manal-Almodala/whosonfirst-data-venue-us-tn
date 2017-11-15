@@ -2,14 +2,20 @@
   "id": 789759895,
   "type": "Feature",
   "properties": {
+    "addr:full":"9512 Hoyle Beals Dr Knoxville TN 37931",
+    "addr:housenumber":"",
+    "addr:postcode":"9512;37931",
+    "addr:street":"Beals Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.109778,35.952144,-84.109778,35.952144",
     "geom:latitude":35.952144,
     "geom:longitude":-84.109778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9512 Hoyle Beals Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":1125155069,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4JQVBQK0CQIKZX3OIFeA3V_35.952144_-84.109778@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590328,
-    "wof:geomhash":"86feedc6b6aa894dd6ad6edc5e2c0f1f",
+    "wof:geomhash":"093a9bc19990b28826222e50aa7218c4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":789759895,
-    "wof:lastmodified":1467083038,
+    "wof:lastmodified":1510695205,
     "wof:name":"Unique Nails",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

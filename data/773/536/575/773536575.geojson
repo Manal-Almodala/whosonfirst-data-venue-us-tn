@@ -2,14 +2,20 @@
   "id": 773536575,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 S Chestnut St Knoxville TN 37914",
+    "addr:housenumber":"600",
+    "addr:postcode":"37914",
+    "addr:street":"S Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.890427,35.980523,-83.890427,35.980523",
     "geom:latitude":35.980523,
     "geom:longitude":-83.890427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 S Chestnut St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086455,
         85837715
     ],
+    "wof:brand_id":1125155053,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FaWh418w2oZSlwm3g4Gcp_35.980523_-83.890427@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586456,
-    "wof:geomhash":"eb8d8883550fba12e806117b97184d96",
+    "wof:geomhash":"8b694861573245529981117a82b4c92d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773536575,
-    "wof:lastmodified":1467082919,
+    "wof:lastmodified":1510694929,
     "wof:name":"St Luke's Episcopal Church",
     "wof:parent_id":85837715,
     "wof:placetype":"venue",

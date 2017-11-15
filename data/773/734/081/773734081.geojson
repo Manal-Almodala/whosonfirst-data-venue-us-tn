@@ -2,14 +2,20 @@
   "id": 773734081,
   "type": "Feature",
   "properties": {
+    "addr:full":"1470 Battleground Dr Murfreesboro TN 37129",
+    "addr:housenumber":"1470",
+    "addr:postcode":"37129",
+    "addr:street":"Battleground Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.409204,35.867633,-86.409204,35.867633",
     "geom:latitude":35.867633,
     "geom:longitude":-86.409204,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1470 Battleground Dr",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":420573953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cn12hv70oKBH3EL8CXCfu_35.867633_-86.409204@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587981,
-    "wof:geomhash":"0d19601dea3160e97ecbd7f9afea234c",
+    "wof:geomhash":"0118260267d129220f0d24ef31c23696",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773734081,
-    "wof:lastmodified":1467082967,
+    "wof:lastmodified":1510615423,
     "wof:name":"Allstate Insurance Co",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

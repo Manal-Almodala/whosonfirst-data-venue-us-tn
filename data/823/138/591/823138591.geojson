@@ -2,14 +2,20 @@
   "id": 823138591,
   "type": "Feature",
   "properties": {
+    "addr:full":"1808 W End Ave Nashville TN 37203",
+    "addr:housenumber":"1808",
+    "addr:postcode":"37203",
+    "addr:street":"W End Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797392,36.152422,-86.797392,36.152422",
     "geom:latitude":36.152422,
     "geom:longitude":-86.797392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1808 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85893465
     ],
+    "wof:brand_id":1125150315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5Zm5Nhp9YuiyDAAxgCQbup_36.152422_-86.797392@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607477,
-    "wof:geomhash":"5350255a9091f2a48b2b9e995d1d5522",
+    "wof:geomhash":"6145a8c3aa28d6b573f0a5266c140132",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823138591,
-    "wof:lastmodified":1467083571,
+    "wof:lastmodified":1510697386,
     "wof:name":"Principal Financial Group",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",

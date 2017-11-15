@@ -2,14 +2,20 @@
   "id": 823291981,
   "type": "Feature",
   "properties": {
+    "addr:full":"7680 Poplar Ave Germantown TN 38138",
+    "addr:housenumber":"7680",
+    "addr:postcode":"38138",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.806249,35.091525,-89.806249,35.091525",
     "geom:latitude":35.091525,
     "geom:longitude":-89.806249,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7680 Poplar Ave",
     "sg:city":"Germantown",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102087213,
         85823035
     ],
+    "wof:brand_id":420574739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29RAymobJ5rtWGmAUKZpcH_35.091525_-89.806249@1303262744"
     },
     "wof:country":"US",
     "wof:created":1462610782,
-    "wof:geomhash":"6c54915e6469e96daa50613627369fbf",
+    "wof:geomhash":"b623dc629c4507dc7d0c4b33b043f6d3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":823291981,
-    "wof:lastmodified":1467083686,
+    "wof:lastmodified":1510604199,
     "wof:name":"PETCO",
     "wof:parent_id":85823035,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 789647995,
   "type": "Feature",
   "properties": {
+    "addr:full":"9232 Coxboro Ct Brentwood TN 37027",
+    "addr:housenumber":"9232",
+    "addr:postcode":"37027",
+    "addr:street":"Coxboro Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.761239,35.998701,-86.761239,35.998701",
     "geom:latitude":35.998701,
     "geom:longitude":-86.761239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9232 Coxboro Ct",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086337,
         85807259
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4yEVsnitJO2vbogxTGpMQM_35.998701_-86.761239@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589435,
-    "wof:geomhash":"3ab3df0b7f2b82cf2985d6894b95ac3b",
+    "wof:geomhash":"30a69819f8b1d3bb3c74f42197453420",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789647995,
-    "wof:lastmodified":1467083012,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",

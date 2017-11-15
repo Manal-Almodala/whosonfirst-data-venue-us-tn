@@ -2,14 +2,20 @@
   "id": 807236519,
   "type": "Feature",
   "properties": {
+    "addr:full":"4601 Cromwell Ave Memphis TN 38118",
+    "addr:housenumber":"4601",
+    "addr:postcode":"38118",
+    "addr:street":"Cromwell Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.908082,35.046309,-89.908082,35.046309",
     "geom:latitude":35.046309,
     "geom:longitude":-89.908082,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4601 Cromwell Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870785
     ],
+    "wof:brand_id":1125153721,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7W6qbptDnDpRTOaL1Z1c3K_35.046309_-89.908082@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605178,
-    "wof:geomhash":"020ac856dd58539a612373e8a6a62885",
+    "wof:geomhash":"07b29de0982ceff9b2cda6e9e8d1a358",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807236519,
-    "wof:lastmodified":1467083502,
+    "wof:lastmodified":1510695749,
     "wof:name":"Spherion Staffing Group",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",

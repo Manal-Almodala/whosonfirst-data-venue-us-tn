@@ -2,14 +2,20 @@
   "id": 807114439,
   "type": "Feature",
   "properties": {
+    "addr:full":"366 S Highland St Memphis TN 38111",
+    "addr:housenumber":"366",
+    "addr:postcode":"38111",
+    "addr:street":"S Highland St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.945349,35.122988,-89.945349,35.122988",
     "geom:latitude":35.122988,
     "geom:longitude":-89.945349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"366 S Highland St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85837075
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3entqx7Yht3Sqoc0pIxCBv_35.122988_-89.945349@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603884,
-    "wof:geomhash":"debe9dbeb63a8e356891b74cf5f770b7",
+    "wof:geomhash":"478236c123fda06d6465e8b8addc7bb7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807114439,
-    "wof:lastmodified":1467083462,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85837075,
     "wof:placetype":"venue",

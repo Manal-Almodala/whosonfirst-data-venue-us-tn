@@ -2,14 +2,20 @@
   "id": 823216199,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Northgate Mall Chattanooga TN 37415",
+    "addr:housenumber":"405",
+    "addr:postcode":"37415",
+    "addr:street":"Northgate Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.244393,35.137729,-85.244393,35.137729",
     "geom:latitude":35.137729,
     "geom:longitude":-85.244393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"405 Northgate Mall",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85825769
     ],
+    "wof:brand_id":420575817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7dDCuw3HNGQs7S4l4r1gsI_35.137729_-85.244393@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608646,
-    "wof:geomhash":"dcd717c6498ef25e3e919c39474a4d0e",
+    "wof:geomhash":"53c5079e95332984f93795b2c8484c30",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823216199,
-    "wof:lastmodified":1467083611,
+    "wof:lastmodified":1510602883,
     "wof:name":"Carlton Cards",
     "wof:parent_id":85825769,
     "wof:placetype":"venue",

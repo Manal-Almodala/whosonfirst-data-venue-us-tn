@@ -2,14 +2,20 @@
   "id": 790510823,
   "type": "Feature",
   "properties": {
+    "addr:full":"816 S Garden St Columbia TN 38401",
+    "addr:housenumber":"816",
+    "addr:postcode":"38401",
+    "addr:street":"S Garden St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.035642,35.6148,-87.035642,35.6148",
     "geom:latitude":35.6148,
     "geom:longitude":-87.035642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"816 S Garden St",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087107,
         85818757
     ],
+    "wof:brand_id":1125151637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4N76qtCbMs1uJo6FC3Gbe7_35.614800_-87.035642@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596459,
-    "wof:geomhash":"ff1d479a4151931cf1842c8b47d2f995",
+    "wof:geomhash":"7b1a778ee8d07f4fe2f0d44af09c51e6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790510823,
-    "wof:lastmodified":1467083220,
+    "wof:lastmodified":1510695902,
     "wof:name":"Citigroup Global Markets Inc",
     "wof:parent_id":85818757,
     "wof:placetype":"venue",

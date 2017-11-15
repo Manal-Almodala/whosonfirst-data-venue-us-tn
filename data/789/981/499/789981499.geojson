@@ -2,9 +2,14 @@
   "id": 789981499,
   "type": "Feature",
   "properties": {
+    "addr:full":"115 Biggs Rd Cottontown TN 37048",
+    "addr:housenumber":"115",
+    "addr:postcode":"37048",
+    "addr:street":"Biggs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.628303,36.478915,-86.628303,36.478915",
     "geom:latitude":36.478915,
     "geom:longitude":-86.628303,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"ab54fb670988f18da1481cd63a7e3909",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789981499,
-    "wof:lastmodified":1467083092,
+    "wof:lastmodified":1491939192,
     "wof:name":"Suiter Builders LLC",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

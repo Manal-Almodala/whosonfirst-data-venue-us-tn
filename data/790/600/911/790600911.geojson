@@ -2,14 +2,20 @@
   "id": 790600911,
   "type": "Feature",
   "properties": {
+    "addr:full":"244 S Hall Rd Alcoa TN 37701",
+    "addr:housenumber":"244",
+    "addr:postcode":"37701",
+    "addr:street":"S Hall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.970837,35.764607,-83.970837,35.764607",
     "geom:latitude":35.764607,
     "geom:longitude":-83.970837,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"244 S Hall Rd",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087017,
         85823815
     ],
+    "wof:brand_id":1125154343,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5HrBS5TnntU5vgZkCINQgL_35.764607_-83.970837@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597233,
-    "wof:geomhash":"aa44d7bba531f968a48d842a1fdd979c",
+    "wof:geomhash":"4cfa9e90d3e46d143ce76fa7df5aea52",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790600911,
-    "wof:lastmodified":1467083245,
+    "wof:lastmodified":1510698938,
     "wof:name":"National Bank Of Commerce",
     "wof:parent_id":85823815,
     "wof:placetype":"venue",

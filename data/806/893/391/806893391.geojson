@@ -2,6 +2,10 @@
   "id": 806893391,
   "type": "Feature",
   "properties": {
+    "addr:full":"2000 Richard Jones Rd Nashville TN 37215",
+    "addr:housenumber":"2000",
+    "addr:postcode":"37215",
+    "addr:street":"Richard Jones Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":806893391,
-    "wof:lastmodified":1467083403,
+    "wof:lastmodified":1472646175,
     "wof:name":"GMAC",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",

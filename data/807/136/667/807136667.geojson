@@ -2,9 +2,14 @@
   "id": 807136667,
   "type": "Feature",
   "properties": {
+    "addr:full":"307 Ellington Dr Franklin TN 37064",
+    "addr:housenumber":"307",
+    "addr:postcode":"37064",
+    "addr:street":"Ellington Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.838263,35.874626,-86.838263,35.874626",
     "geom:latitude":35.874626,
     "geom:longitude":-86.838263,
@@ -28,12 +33,7 @@
         "cracker"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0BIsadX9AEZQyoBHqr0I0s_35.874626_-86.838263@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462604128,
     "wof:geomhash":"61c427eb00b228d8fbfce5aa1026f761",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807136667
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807136667,
-    "wof:lastmodified":1467083469,
+    "wof:lastmodified":1491930835,
     "wof:name":"Voortman Cookies LTD",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

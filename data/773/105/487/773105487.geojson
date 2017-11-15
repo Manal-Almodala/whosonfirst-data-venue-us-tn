@@ -2,14 +2,20 @@
   "id": 773105487,
   "type": "Feature",
   "properties": {
+    "addr:full":"1016 Dallas Rd Chattanooga TN 37405",
+    "addr:housenumber":"1016",
+    "addr:postcode":"37405",
+    "addr:street":"Dallas Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.305475,35.073862,-85.305475,35.073862",
     "geom:latitude":35.073862,
     "geom:longitude":-85.305475,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1016 Dallas Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         420541665
     ],
+    "wof:brand_id":1125155305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1QQXPvlH5WCb2HUGEYUkwc_35.073862_-85.305475@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583193,
-    "wof:geomhash":"7cd70dd35d16cbfbe4d2414ac1dee0f6",
+    "wof:geomhash":"1c0930ff2c2d1a464bb08ba273c6aa62",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773105487,
-    "wof:lastmodified":1467082804,
+    "wof:lastmodified":1510699916,
     "wof:name":"Schindler Elevator Corp",
     "wof:parent_id":420541665,
     "wof:placetype":"venue",

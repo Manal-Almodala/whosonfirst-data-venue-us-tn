@@ -2,9 +2,14 @@
   "id": 807034129,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Rockton Ct Hendersonville TN 37075",
+    "addr:housenumber":"103",
+    "addr:postcode":"37075",
+    "addr:street":"Rockton Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.633164,36.33055,-86.633164,36.33055",
     "geom:latitude":36.33055,
     "geom:longitude":-86.633164,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"d57f2e0f5bdc7f6a816be16869f081cc",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807034129,
-    "wof:lastmodified":1467083441,
+    "wof:lastmodified":1491939220,
     "wof:name":"Perfect Print Solutions",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

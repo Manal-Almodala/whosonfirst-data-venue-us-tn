@@ -2,14 +2,20 @@
   "id": 403905511,
   "type": "Feature",
   "properties": {
+    "addr:full":"4135 S Creek Rd Chattanooga TN 37406",
+    "addr:housenumber":"4135",
+    "addr:postcode":"37406",
+    "addr:street":"S Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.242608,35.092472,-85.242608,35.092472",
     "geom:latitude":35.092472,
     "geom:longitude":-85.242608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4135 S Creek Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -37,12 +43,13 @@
         85828409,
         85804737
     ],
+    "wof:brand_id":1125150695,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Klp5GFeIpbvwjlc8KUvu8_35.092472_-85.242608@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"a4cab6535e8dfd0b7ecfecbf97d28ece",
+    "wof:geomhash":"99c4dbcae11960fabe884fc9cf71a2d9",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -64,7 +71,7 @@
         }
     ],
     "wof:id":403905511,
-    "wof:lastmodified":1467082782,
+    "wof:lastmodified":1510697252,
     "wof:name":"Tru Green Chem Lawn",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

@@ -2,9 +2,14 @@
   "id": 823145005,
   "type": "Feature",
   "properties": {
+    "addr:full":"4450 S Carothers Rd Franklin TN 37064",
+    "addr:housenumber":"4450",
+    "addr:postcode":"37064",
+    "addr:street":"S Carothers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.811516,35.882882,-86.811516,35.882882",
     "geom:latitude":35.882882,
     "geom:longitude":-86.811516,
@@ -28,12 +33,7 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0lroabii5vPE85QtevRYFT_35.882882_-86.811516@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462607602,
     "wof:geomhash":"ed5cd1d727d512a37cef73b81b1b8a18",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":823145005
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823145005,
-    "wof:lastmodified":1467083574,
+    "wof:lastmodified":1491930841,
     "wof:name":"Majestic Tool Machine",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

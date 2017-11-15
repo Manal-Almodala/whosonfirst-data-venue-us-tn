@@ -2,14 +2,20 @@
   "id": 806658045,
   "type": "Feature",
   "properties": {
+    "addr:full":"4344 Winchester Rd Memphis TN 38118",
+    "addr:housenumber":"4344",
+    "addr:postcode":"38118",
+    "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.91792,35.051515,-89.91792,35.051515",
     "geom:latitude":35.051515,
     "geom:longitude":-89.91792,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4344 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85870785
     ],
+    "wof:brand_id":420575631,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0X0IjJvWx2may70QzVujlQ_35.051515_-89.917920@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599978,
-    "wof:geomhash":"74c7e51822e8398ec2aa087c6907885e",
+    "wof:geomhash":"8b75f04e202cae562c0a229f88f2b78d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806658045,
-    "wof:lastmodified":1467083336,
+    "wof:lastmodified":1510601968,
     "wof:name":"Children's World Learning Ctr",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",

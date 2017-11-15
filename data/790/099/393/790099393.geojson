@@ -2,14 +2,20 @@
   "id": 790099393,
   "type": "Feature",
   "properties": {
+    "addr:full":"7670 Poplar Ave Germantown TN 38138",
+    "addr:housenumber":"7670",
+    "addr:postcode":"38138",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.804639,35.090819,-89.804639,35.090819",
     "geom:latitude":35.090819,
     "geom:longitude":-89.804639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7670 Poplar Ave",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85823035
     ],
+    "wof:brand_id":420575315,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0JtHZs1p4Yl8fTA1FALX8b_35.090819_-89.804639@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593118,
-    "wof:geomhash":"8a73e2ee23a197f0a84f40b098a0409f",
+    "wof:geomhash":"f0885eac0175c4fb905ad99e460f2144",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790099393,
-    "wof:lastmodified":1467083120,
+    "wof:lastmodified":1510602477,
     "wof:name":"T J Maxx",
     "wof:parent_id":85823035,
     "wof:placetype":"venue",

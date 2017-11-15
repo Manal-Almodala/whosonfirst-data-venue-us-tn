@@ -2,9 +2,14 @@
   "id": 790424479,
   "type": "Feature",
   "properties": {
+    "addr:full":"3357 Tyree Springs Rd Hendersonville TN 37075",
+    "addr:housenumber":"3357",
+    "addr:postcode":"37075",
+    "addr:street":"Tyree Springs Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.644161,36.413537,-86.644161,36.413537",
     "geom:latitude":36.413537,
     "geom:longitude":-86.644161,
@@ -33,6 +38,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -47,6 +53,7 @@
     "wof:geomhash":"6f4777c4b1c276aad27bcb3b2a90ec58",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790424479,
-    "wof:lastmodified":1467083197,
+    "wof:lastmodified":1491939234,
     "wof:name":"Web Host Now",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

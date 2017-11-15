@@ -2,14 +2,20 @@
   "id": 790337893,
   "type": "Feature",
   "properties": {
+    "addr:full":"89 N Conalco Dr Jackson TN 38301",
+    "addr:housenumber":"89",
+    "addr:postcode":"38301",
+    "addr:street":"N Conalco Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.793489,35.650887,-88.793489,35.650887",
     "geom:latitude":35.650887,
     "geom:longitude":-88.793489,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"89 N Conalco Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85830001,
         102087221
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_573xDVanYLTlFn7rknqllc_35.650887_-88.793489@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595046,
-    "wof:geomhash":"26c09fbc0c253eb5134ef0b5d1cff2b9",
+    "wof:geomhash":"2c72334267c76ea4925a9571b4ebb910",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790337893,
-    "wof:lastmodified":1467083176,
+    "wof:lastmodified":1510697574,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":85830001,
     "wof:placetype":"venue",

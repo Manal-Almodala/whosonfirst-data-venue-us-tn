@@ -2,14 +2,20 @@
   "id": 807324121,
   "type": "Feature",
   "properties": {
+    "addr:full":"950 Battery Ln Nashville TN 37220",
+    "addr:housenumber":"950",
+    "addr:postcode":"37220",
+    "addr:street":"Battery Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.790534,36.088351,-86.790534,36.088351",
     "geom:latitude":36.088351,
     "geom:longitude":-86.790534,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"950 Battery Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893463
     ],
+    "wof:brand_id":1125152889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0jucvc6QlNS9G8fA8yvQFg_36.088351_-86.790534@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606118,
-    "wof:geomhash":"5b8dd214ba881723f80580f0e3fc169a",
+    "wof:geomhash":"90c7b3f3011b9e0af9378614c7aee590",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807324121,
-    "wof:lastmodified":1467083533,
+    "wof:lastmodified":1510695967,
     "wof:name":"Mr Transmission",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",

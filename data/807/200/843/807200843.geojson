@@ -2,14 +2,20 @@
   "id": 807200843,
   "type": "Feature",
   "properties": {
+    "addr:full":"4646 Poplar Ave Memphis TN 38117",
+    "addr:housenumber":"4646",
+    "addr:postcode":"38117",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.907761,35.116714,-89.907761,35.116714",
     "geom:latitude":35.116714,
     "geom:longitude":-89.907761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4646 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125159663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4vJRUe9e22Avlz3ArykDK4_35.116714_-89.907761@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604806,
-    "wof:geomhash":"f31458bce0dc4a13f34bdb9b789f275f",
+    "wof:geomhash":"e96cca6892d9af39bb9859bba33ffa4b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":807200843,
-    "wof:lastmodified":1467083490,
+    "wof:lastmodified":1510694926,
     "wof:name":"Relax The Back Store",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

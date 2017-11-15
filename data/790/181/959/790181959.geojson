@@ -2,9 +2,14 @@
   "id": 790181959,
   "type": "Feature",
   "properties": {
+    "addr:full":"4411 Bagsby Ln Franklin TN 37064",
+    "addr:housenumber":"4411",
+    "addr:postcode":"37064",
+    "addr:street":"Bagsby Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.78778,35.850754,-86.78778,35.850754",
     "geom:latitude":35.850754,
     "geom:longitude":-86.78778,
@@ -28,12 +33,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5hPl6zyzFwBMd2EtZO3PwX_35.850754_-86.787780@1294204733"
@@ -41,17 +41,9 @@
     "wof:country":"US",
     "wof:created":1462593789,
     "wof:geomhash":"10515af65f7d72e46291d3b9583f37b0",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":790181959
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790181959,
-    "wof:lastmodified":1467083139,
+    "wof:lastmodified":1491930828,
     "wof:name":"Lmj Builders",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

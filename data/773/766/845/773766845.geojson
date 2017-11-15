@@ -2,14 +2,20 @@
   "id": 773766845,
   "type": "Feature",
   "properties": {
+    "addr:full":"2345 Madison St Clarksville TN 37043",
+    "addr:housenumber":"2345",
+    "addr:postcode":"37043",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.27058,36.508074,-87.27058,36.508074",
     "geom:latitude":36.508074,
     "geom:longitude":-87.27058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2345 Madison St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086353,
         85846417
     ],
+    "wof:brand_id":1125153005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UJSKjidjX2cX9zyyDSX3R_36.508074_-87.270580@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588219,
-    "wof:geomhash":"87a8edb13cc0ae30c6fefe8b55077394",
+    "wof:geomhash":"85b1b80887879094cb69e8049c86391b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773766845,
-    "wof:lastmodified":1467082974,
+    "wof:lastmodified":1510698726,
     "wof:name":"CD Warehouse",
     "wof:parent_id":85846417,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806525819,
   "type": "Feature",
   "properties": {
+    "addr:full":"1216 Carmack Blvd Columbia TN 38401",
+    "addr:housenumber":"1216",
+    "addr:postcode":"38401",
+    "addr:street":"Carmack Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.035346,35.605516,-87.035346,35.605516",
     "geom:latitude":35.605516,
     "geom:longitude":-87.035346,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1216 Carmack Blvd",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087107,
         85818757
     ],
+    "wof:brand_id":1125155221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0piskD8861EOW1nuPnEPdN_35.605516_-87.035346@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598834,
-    "wof:geomhash":"7dcdd33e25d8e2c7b0b106ec8cbfb3a8",
+    "wof:geomhash":"9080397c8cb570d80a3c11eeca8cc804",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806525819,
-    "wof:lastmodified":1467083299,
+    "wof:lastmodified":1510697564,
     "wof:name":"Auto Trim Design",
     "wof:parent_id":85818757,
     "wof:placetype":"venue",

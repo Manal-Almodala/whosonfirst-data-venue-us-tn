@@ -2,9 +2,14 @@
   "id": 773759587,
   "type": "Feature",
   "properties": {
+    "addr:full":"3104 del Rio Pike Franklin TN 37069",
+    "addr:housenumber":"3104",
+    "addr:postcode":"37069",
+    "addr:street":"Del Rio Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.918505,35.964047,-86.918505,35.964047",
     "geom:latitude":35.964047,
     "geom:longitude":-86.918505,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -44,6 +50,7 @@
     "wof:geomhash":"0a33ec5559509a75c1140ba6e31cf050",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773759587,
-    "wof:lastmodified":1467082973,
+    "wof:lastmodified":1491924191,
     "wof:name":"Griffith-Harding LP",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

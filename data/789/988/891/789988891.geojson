@@ -2,14 +2,20 @@
   "id": 789988891,
   "type": "Feature",
   "properties": {
+    "addr:full":"4405 Harding Pl Nashville TN 37205",
+    "addr:housenumber":"4405",
+    "addr:postcode":"37205",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.855595,36.095182,-86.855595,36.095182",
     "geom:latitude":36.095182,
     "geom:longitude":-86.855595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4405 Harding Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85855925
     ],
+    "wof:brand_id":1125152699,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jciwX5DDihJYBuS0ebaP5_36.095182_-86.855595@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592238,
-    "wof:geomhash":"8cddb1052091259735c10ae5c393bba8",
+    "wof:geomhash":"b5d7bf85df360964a1724cd70eba7989",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789988891,
-    "wof:lastmodified":1467083094,
+    "wof:lastmodified":1510696808,
     "wof:name":"Bank of America NA",
     "wof:parent_id":85855925,
     "wof:placetype":"venue",

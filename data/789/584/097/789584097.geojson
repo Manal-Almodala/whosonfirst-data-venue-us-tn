@@ -2,14 +2,20 @@
   "id": 789584097,
   "type": "Feature",
   "properties": {
+    "addr:full":"3049 Dickerson Pike Nashville TN 37207",
+    "addr:housenumber":"3049",
+    "addr:postcode":"37207",
+    "addr:street":"Dickerson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.759527,36.227752,-86.759527,36.227752",
     "geom:latitude":36.227752,
     "geom:longitude":-86.759527,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3049 Dickerson Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85832351
     ],
+    "wof:brand_id":1125150085,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6pi4S4M00cKI4aKgmpOzg5_36.227752_-86.759527@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588940,
-    "wof:geomhash":"66836ede2b89d94a816c2995fe87d193",
+    "wof:geomhash":"4847b26c3cfcbe237c81063d99f2b558",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789584097,
-    "wof:lastmodified":1467082997,
+    "wof:lastmodified":1510696020,
     "wof:name":"Fashion Cents",
     "wof:parent_id":85832351,
     "wof:placetype":"venue",

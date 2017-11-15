@@ -2,14 +2,20 @@
   "id": 806837627,
   "type": "Feature",
   "properties": {
+    "addr:full":"3351 W Andrew Johnson Hwy Morristown TN 37814",
+    "addr:housenumber":"3351",
+    "addr:postcode":"37814",
+    "addr:street":"W Andrew Johnson Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.339725,36.200023,-83.339725,36.200023",
     "geom:latitude":36.200023,
     "geom:longitude":-83.339725,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3351 W Andrew Johnson Hwy",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086447,
         420541593
     ],
+    "wof:brand_id":1125157911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eH3dYJqmi8xeZygrTvkGs_36.200023_-83.339725@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601487,
-    "wof:geomhash":"3048c96123208c7d41ccfe8349089d32",
+    "wof:geomhash":"153dfdb3f9ee6e21d78535044df782ab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806837627,
-    "wof:lastmodified":1467083387,
+    "wof:lastmodified":1510697541,
     "wof:name":"Mexico Lindo",
     "wof:parent_id":420541593,
     "wof:placetype":"venue",

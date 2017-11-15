@@ -2,14 +2,20 @@
   "id": 806566145,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 Parkway Gatlinburg TN 37738",
+    "addr:housenumber":"146",
+    "addr:postcode":"37738",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.510943,35.726389,-83.510943,35.726389",
     "geom:latitude":35.726389,
     "geom:longitude":-83.510943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"146 Parkway",
     "sg:city":"Gatlinburg",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086245,
         85823215
     ],
+    "wof:brand_id":1125154983,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3xwf7f5ZF6gLPNpecLUU1U_35.726389_-83.510943@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599176,
-    "wof:geomhash":"b05e3c6a6083b0c6bf164703a782a6e7",
+    "wof:geomhash":"e73cdbfcdd0e538ad6e0b38638a33b1e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806566145,
-    "wof:lastmodified":1467083310,
+    "wof:lastmodified":1510695872,
     "wof:name":"Damon's Grill",
     "wof:parent_id":85823215,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806484553,
   "type": "Feature",
   "properties": {
+    "addr:full":"2339 Madison St Clarksville TN 37043",
+    "addr:housenumber":"2339",
+    "addr:postcode":"37043",
+    "addr:street":"Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.270367,36.507934,-87.270367,36.507934",
     "geom:latitude":36.507934,
     "geom:longitude":-87.270367,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2339 Madison St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086353,
         85846211
     ],
+    "wof:brand_id":420573895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uMnBRE5VzdwCvPiigkUo1_36.507934_-87.270367@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598503,
-    "wof:geomhash":"a803bd08c413fbf84aa8a8662d74d8b9",
+    "wof:geomhash":"05083f537748c19ab449424077819e7a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806484553,
-    "wof:lastmodified":1467083288,
+    "wof:lastmodified":1510603089,
     "wof:name":"Great Clips",
     "wof:parent_id":85846211,
     "wof:placetype":"venue",

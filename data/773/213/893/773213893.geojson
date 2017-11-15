@@ -2,9 +2,14 @@
   "id": 773213893,
   "type": "Feature",
   "properties": {
+    "addr:full":"4057 Clovercroft Rd Franklin TN 37067",
+    "addr:housenumber":"4057",
+    "addr:postcode":"37067",
+    "addr:street":"Clovercroft Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.790644,35.9173,-86.790644,35.9173",
     "geom:latitude":35.9173,
     "geom:longitude":-86.790644,
@@ -34,9 +39,11 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
-        85820577,
-        102086337
+        101723093,
+        102086337,
+        85807181
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -47,17 +54,19 @@
     "wof:geomhash":"438fa7cc7d8641574cca28737aa4c21a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
-            "neighbourhood_id":85820577,
+            "locality_id":101723093,
+            "neighbourhood_id":85807181,
             "region_id":85688701,
             "venue_id":773213893
         }
     ],
     "wof:id":773213893,
-    "wof:lastmodified":1467082833,
+    "wof:lastmodified":1491924950,
     "wof:name":"Steelcore Building Systems Inc",
-    "wof:parent_id":85820577,
+    "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],

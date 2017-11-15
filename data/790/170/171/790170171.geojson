@@ -2,9 +2,14 @@
   "id": 790170171,
   "type": "Feature",
   "properties": {
+    "addr:full":"4101 Hwy 76 Cottontown TN 37048",
+    "addr:housenumber":"4101",
+    "addr:postcode":"37048",
+    "addr:street":"Hwy 76",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.610804,36.484484,-86.610804,36.484484",
     "geom:latitude":36.484484,
     "geom:longitude":-86.610804,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"8fd7e74557d41a3c8a1bdf64a289b1d9",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790170171,
-    "wof:lastmodified":1467083137,
+    "wof:lastmodified":1491939209,
     "wof:name":"Walnut Grove Untd Mthdst Chrch",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

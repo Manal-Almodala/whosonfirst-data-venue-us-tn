@@ -2,14 +2,20 @@
   "id": 807318049,
   "type": "Feature",
   "properties": {
+    "addr:full":"407 N College St Tullahoma TN 37388",
+    "addr:housenumber":"407",
+    "addr:postcode":"37388",
+    "addr:street":"N College St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.203849,35.371098,-86.203849,35.371098",
     "geom:latitude":35.371098,
     "geom:longitude":-86.203849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"407 N College St",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087095,
         85807337
     ],
+    "wof:brand_id":1125157363,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0CSAVhmJEqIoTj9bqOqCJx_35.371098_-86.203849@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606042,
-    "wof:geomhash":"889db5d36195a46f4c2263f261c4f75a",
+    "wof:geomhash":"79830aa336693ccb6be309d3f85d72d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807318049,
-    "wof:lastmodified":1467083530,
+    "wof:lastmodified":1510694933,
     "wof:name":"Country Club Apartments",
     "wof:parent_id":85807337,
     "wof:placetype":"venue",

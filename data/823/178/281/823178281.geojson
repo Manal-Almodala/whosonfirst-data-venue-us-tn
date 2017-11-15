@@ -2,14 +2,20 @@
   "id": 823178281,
   "type": "Feature",
   "properties": {
+    "addr:full":"8506 Corteland Dr Knoxville TN 37909",
+    "addr:housenumber":"8506",
+    "addr:postcode":"37909",
+    "addr:street":"Corteland Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.054529,35.93814,-84.054529,35.93814",
     "geom:latitude":35.93814,
     "geom:longitude":-84.054529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8506 Corteland Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85856659,
         102086455
     ],
+    "wof:brand_id":420575385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4WlbB3dT7YYLNi1ope5TA3_35.938140_-84.054529@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608041,
-    "wof:geomhash":"1ffa3f28c7a53fbc80dde9557258c72c",
+    "wof:geomhash":"575975712285e834e9408f36f325da71",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":823178281,
-    "wof:lastmodified":1467083589,
+    "wof:lastmodified":1510602564,
     "wof:name":"Delta Kappa Gamma Society",
     "wof:parent_id":85856659,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 807106611,
   "type": "Feature",
   "properties": {
+    "addr:full":"3001 Covington Pike Memphis TN 38128",
+    "addr:housenumber":"3001",
+    "addr:postcode":"38128",
+    "addr:street":"Covington Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.89467,35.20729,-89.89467,35.20729",
     "geom:latitude":35.20729,
     "geom:longitude":-89.89467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3001 Covington Pike",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087213,
         85843675
     ],
+    "wof:brand_id":420574525,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6bW3LYV8fLIHKiMSaTtJC3_35.207290_-89.894670@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603800,
-    "wof:geomhash":"670ac7828d89bb6efbf53915df5fd07d",
+    "wof:geomhash":"33491fe7a17ecb6ce1267ed3bbc1e5d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807106611,
-    "wof:lastmodified":1467083459,
+    "wof:lastmodified":1510604112,
     "wof:name":"Marshalls",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",

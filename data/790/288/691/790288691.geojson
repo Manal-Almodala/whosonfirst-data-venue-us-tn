@@ -2,14 +2,20 @@
   "id": 790288691,
   "type": "Feature",
   "properties": {
+    "addr:full":"125 January St Murfreesboro TN 37129",
+    "addr:housenumber":"125",
+    "addr:postcode":"37129",
+    "addr:street":"January St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.407039,35.844773,-86.407039,35.844773",
     "geom:latitude":35.844773,
     "geom:longitude":-86.407039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"125 January St",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85835585
     ],
+    "wof:brand_id":420574373,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1nRH2H0wnu2UuDG9H9kCMY_35.844773_-86.407039@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594673,
-    "wof:geomhash":"a0c0cd873f8826087d67f995993a08bb",
+    "wof:geomhash":"cb8fc100caa1f2c80387af9ad7f79e14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":790288691,
-    "wof:lastmodified":1467083164,
+    "wof:lastmodified":1510608858,
     "wof:name":"MCI",
     "wof:parent_id":85835585,
     "wof:placetype":"venue",

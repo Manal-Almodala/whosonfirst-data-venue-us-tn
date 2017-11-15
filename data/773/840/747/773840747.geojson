@@ -2,14 +2,20 @@
   "id": 773840747,
   "type": "Feature",
   "properties": {
+    "addr:full":"975 Douglas Overlook Way Sevierville TN 37864",
+    "addr:housenumber":"975",
+    "addr:postcode":"37864",
+    "addr:street":"Douglas Overlook Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.542159,35.965015,-83.542159,35.965015",
     "geom:latitude":35.965015,
     "geom:longitude":-83.542159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"975 Douglas Overlook Way",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086245,
         85824615
     ],
+    "wof:brand_id":1125158405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5u3NP3dKw0U7VFtVOwBi9A_35.965015_-83.542159@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588825,
-    "wof:geomhash":"6314c2239c288a08e144df1ac31d723d",
+    "wof:geomhash":"61ef80520524149b454bc717729444b3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773840747,
-    "wof:lastmodified":1467082993,
+    "wof:lastmodified":1510698897,
     "wof:name":"Tennessee Valley Authority",
     "wof:parent_id":85824615,
     "wof:placetype":"venue",

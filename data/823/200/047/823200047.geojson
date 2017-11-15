@@ -2,14 +2,20 @@
   "id": 823200047,
   "type": "Feature",
   "properties": {
+    "addr:full":"2694 Boones Creek Rd Gray TN 37615",
+    "addr:housenumber":"2694",
+    "addr:postcode":"37615",
+    "addr:street":"Boones Creek Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.427752,36.374282,-82.427752,36.374282",
     "geom:latitude":36.374282,
     "geom:longitude":-82.427752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2694 Boones Creek Rd",
     "sg:city":"Gray",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086335,
         85806709
     ],
+    "wof:brand_id":1125152299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kViuncVcIgmHjFHICCkL3_36.374282_-82.427752@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608350,
-    "wof:geomhash":"a722c057312d1917b05aaf7879b47eeb",
+    "wof:geomhash":"dc5b15c053d98fbd9aa5a9c82ef1369b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823200047,
-    "wof:lastmodified":1467083600,
+    "wof:lastmodified":1510695698,
     "wof:name":"Pella Window & Door Co",
     "wof:parent_id":85806709,
     "wof:placetype":"venue",

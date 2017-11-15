@@ -2,14 +2,20 @@
   "id": 806917507,
   "type": "Feature",
   "properties": {
+    "addr:full":"1712 Sundale Rd Johnson City TN 37604",
+    "addr:housenumber":"1712",
+    "addr:postcode":"37604",
+    "addr:street":"Sundale Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.378647,36.330943,-82.378647,36.330943",
     "geom:latitude":36.330943,
     "geom:longitude":-82.378647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1712 Sundale Rd",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086335,
         85851799
     ],
+    "wof:brand_id":1125152183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6RLx0xtPiRMPvhv0cC8qA7_36.330943_-82.378647@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602154,
-    "wof:geomhash":"04c617729fc9f210c350ea33011736ed",
+    "wof:geomhash":"3aa1dc1471bb6b7e41489cba2477ea99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806917507,
-    "wof:lastmodified":1467083409,
+    "wof:lastmodified":1510693998,
     "wof:name":"Womens International Bowl",
     "wof:parent_id":85851799,
     "wof:placetype":"venue",

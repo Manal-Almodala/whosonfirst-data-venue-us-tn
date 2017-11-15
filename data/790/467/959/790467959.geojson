@@ -2,14 +2,20 @@
   "id": 790467959,
   "type": "Feature",
   "properties": {
+    "addr:full":"849 US Hwy 51 N Covington TN 38019",
+    "addr:housenumber":"849",
+    "addr:postcode":"38019",
+    "addr:street":"Us Hwy 51 N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.644079,35.575804,-89.644079,35.575804",
     "geom:latitude":35.575804,
     "geom:longitude":-89.644079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"849 US Hwy 51 N",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125155923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_09jOYfkxqac59INFkkIKOQ_35.575804_-89.644079@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596075,
-    "wof:geomhash":"338188f0ca691b2ec6f16a5dcea07bbf",
+    "wof:geomhash":"e6c37da8db8c5925e464524f9982da87",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":790467959,
-    "wof:lastmodified":1467083208,
+    "wof:lastmodified":1510697679,
     "wof:name":"Factory Connection",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

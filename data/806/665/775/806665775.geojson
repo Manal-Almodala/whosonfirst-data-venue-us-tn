@@ -2,14 +2,20 @@
   "id": 806665775,
   "type": "Feature",
   "properties": {
+    "addr:full":"91 Seaboard Ln Brentwood TN 37027",
+    "addr:housenumber":"91",
+    "addr:postcode":"37027",
+    "addr:street":"Seaboard Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819988,35.962453,-86.819988,35.962453",
     "geom:latitude":35.962453,
     "geom:longitude":-86.819988,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"91 Seaboard Ln",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":1125158259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2q9fXkkl78C51Tr4lOzbV2_35.962453_-86.819988@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600046,
-    "wof:geomhash":"41beabca8cb61d6d54a3747887f60702",
+    "wof:geomhash":"668f3ab6d3e8cafcb8fecb753e081b87",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806665775,
-    "wof:lastmodified":1467083338,
+    "wof:lastmodified":1510698668,
     "wof:name":"Computer Renaissance",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

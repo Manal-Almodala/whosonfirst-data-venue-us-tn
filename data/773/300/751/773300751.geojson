@@ -2,14 +2,20 @@
   "id": 773300751,
   "type": "Feature",
   "properties": {
+    "addr:full":"1451 Elm Hill Pike Nashville TN 37210",
+    "addr:housenumber":"1451",
+    "addr:postcode":"37210",
+    "addr:street":"Elm Hill Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.724591,36.143827,-86.724591,36.143827",
     "geom:latitude":36.143827,
     "geom:longitude":-86.724591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1451 Elm Hill Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85822001
     ],
+    "wof:brand_id":1125151021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6z4lISh31pHTX9yOnBQcSy_36.143827_-86.724591@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584689,
-    "wof:geomhash":"04bb579469b810bfa95c0100b10d8ff2",
+    "wof:geomhash":"92a9e1f36c3e870435d647d9d5341845",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773300751,
-    "wof:lastmodified":1467082862,
+    "wof:lastmodified":1510699656,
     "wof:name":"Standard Register Company",
     "wof:parent_id":85822001,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823251505,
   "type": "Feature",
   "properties": {
+    "addr:full":"1640 Parkway Sevierville TN 37862",
+    "addr:housenumber":"1640",
+    "addr:postcode":"37862",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.57492,35.832844,-83.57492,35.832844",
     "geom:latitude":35.832844,
     "geom:longitude":-83.57492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1640 Parkway",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086245,
         85841771
     ],
+    "wof:brand_id":1125154983,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ajFICi4IHVJS56AlbH1Sz_35.832844_-83.574920@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609363,
-    "wof:geomhash":"18e9cdfc64c95d392dd86df7db862679",
+    "wof:geomhash":"018be5b766c1f9521a93ac0500a393fd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823251505,
-    "wof:lastmodified":1467083636,
+    "wof:lastmodified":1510695872,
     "wof:name":"Damon's Grill",
     "wof:parent_id":85841771,
     "wof:placetype":"venue",

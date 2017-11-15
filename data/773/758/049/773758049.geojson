@@ -2,14 +2,20 @@
   "id": 773758049,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Oak Valley Dr Nashville TN 37207",
+    "addr:housenumber":"108",
+    "addr:postcode":"37207",
+    "addr:street":"Oak Valley Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.761643,36.231522,-86.761643,36.231522",
     "geom:latitude":36.231522,
     "geom:longitude":-86.761643,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"108 Oak Valley Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85832351
     ],
+    "wof:brand_id":1125152475,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6roqOcXAbJRccEBDgTWEcD_36.231522_-86.761643@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588153,
-    "wof:geomhash":"55fa6966d19d220c33957fd127ecb10b",
+    "wof:geomhash":"00e9ed1abb2f54e426d4f11079ef7f36",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773758049,
-    "wof:lastmodified":1467082972,
+    "wof:lastmodified":1510696661,
     "wof:name":"Independent Order-Odd Fellows",
     "wof:parent_id":85832351,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773594485,
   "type": "Feature",
   "properties": {
+    "addr:full":"2309 Leighton Way Spring Hill TN 37174",
+    "addr:housenumber":"2309",
+    "addr:postcode":"37174",
+    "addr:street":"Leighton Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.899888,35.757885,-86.899888,35.757885",
     "geom:latitude":35.757885,
     "geom:longitude":-86.899888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2309 Leighton Way",
     "sg:city":"Spring Hill",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         420542331
     ],
+    "wof:brand_id":1125157843,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sHncDxQJzyetbrH3rrzqA_35.757885_-86.899888@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586904,
-    "wof:geomhash":"1716d21d05f25879d7b0c979eae2bdb3",
+    "wof:geomhash":"cb8335660c6834444610445b7228f7cb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,7 +70,7 @@
         }
     ],
     "wof:id":773594485,
-    "wof:lastmodified":1467082932,
+    "wof:lastmodified":1510699507,
     "wof:name":"Erie Insurance Group",
     "wof:parent_id":-1,
     "wof:placetype":"venue",

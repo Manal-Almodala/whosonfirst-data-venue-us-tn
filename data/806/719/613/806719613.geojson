@@ -2,14 +2,20 @@
   "id": 806719613,
   "type": "Feature",
   "properties": {
+    "addr:full":"2551 E Stone Dr Kingsport TN 37660",
+    "addr:housenumber":"2551",
+    "addr:postcode":"37660",
+    "addr:street":"E Stone Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.50078,36.546839,-82.50078,36.546839",
     "geom:latitude":36.546839,
     "geom:longitude":-82.50078,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2551 E Stone Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086471,
         85843109
     ],
+    "wof:brand_id":1125151557,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6thw2nA8hwm9mC8VQwpPk8_36.546839_-82.500780@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600497,
-    "wof:geomhash":"dd888371b95f01b438239be91bed5586",
+    "wof:geomhash":"c3965e03460319274e50ce5fd06a64fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":806719613,
-    "wof:lastmodified":1467083354,
+    "wof:lastmodified":1510699751,
     "wof:name":"MAACO Auto Painting & Bodywork",
     "wof:parent_id":85843109,
     "wof:placetype":"venue",

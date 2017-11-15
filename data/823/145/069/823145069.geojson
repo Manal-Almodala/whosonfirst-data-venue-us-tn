@@ -2,14 +2,20 @@
   "id": 823145069,
   "type": "Feature",
   "properties": {
+    "addr:full":"5400 Elvis Presley Blvd Memphis TN 38116",
+    "addr:housenumber":"",
+    "addr:postcode":"5400;38116",
+    "addr:street":"Elvis Presley Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.025261,35.001416,-90.025261,35.001416",
     "geom:latitude":35.001416,
     "geom:longitude":-90.025261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5400 Elvis Presley Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85847303
     ],
+    "wof:brand_id":1125153895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1gRVpUfu8ghIgphPdlXYlW_35.001416_-90.025261@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607603,
-    "wof:geomhash":"2e51c33a10c7d8dfe0331f04c84cc0b5",
+    "wof:geomhash":"d09b373b17df35d03a30c92f20dbb1f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823145069,
-    "wof:lastmodified":1467083574,
+    "wof:lastmodified":1510698861,
     "wof:name":"Our Savior Lutheran Church",
     "wof:parent_id":85847303,
     "wof:placetype":"venue",

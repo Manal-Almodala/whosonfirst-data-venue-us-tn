@@ -2,14 +2,20 @@
   "id": 773552229,
   "type": "Feature",
   "properties": {
+    "addr:full":"303 N Fairmont Ave Morristown TN 37814",
+    "addr:housenumber":"303",
+    "addr:postcode":"37814",
+    "addr:street":"N Fairmont Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.308258,36.208313,-83.308258,36.208313",
     "geom:latitude":36.208313,
     "geom:longitude":-83.308258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"303 N Fairmont Ave",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -39,13 +45,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":1125154819,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1UJpDpzcPX6YemaTsquRmJ_36.208313_-83.308258@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586581,
-    "wof:geomhash":"05003f6c35f930af08fbf643655f06bd",
+    "wof:geomhash":"79bf29a482cc78b1f237329f29967ef0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773552229,
-    "wof:lastmodified":1467082923,
+    "wof:lastmodified":1510695894,
     "wof:name":"Ultra Tan",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

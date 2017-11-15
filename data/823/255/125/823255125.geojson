@@ -2,14 +2,20 @@
   "id": 823255125,
   "type": "Feature",
   "properties": {
+    "addr:full":"4770 Poplar Ave Memphis TN 38117",
+    "addr:housenumber":"4770",
+    "addr:postcode":"38117",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.903045,35.114815,-89.903045,35.114815",
     "geom:latitude":35.114815,
     "geom:longitude":-89.903045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4770 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125150761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0pSRqXAj3H3z8nQl0XqCBg_35.114815_-89.903045@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609444,
-    "wof:geomhash":"c5ee68a5ef5e93da7fb6d17099ac5561",
+    "wof:geomhash":"6ba2da8344215953d0ecad59f014472a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":823255125,
-    "wof:lastmodified":1467083639,
+    "wof:lastmodified":1510697651,
     "wof:name":"Atlanta Bread Company",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

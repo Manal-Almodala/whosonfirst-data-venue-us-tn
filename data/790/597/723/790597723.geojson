@@ -2,14 +2,20 @@
   "id": 790597723,
   "type": "Feature",
   "properties": {
+    "addr:full":"3981 Nolensville Pike Nashville TN 37211",
+    "addr:housenumber":"3981",
+    "addr:postcode":"37211",
+    "addr:street":"Nolensville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.729203,36.085827,-86.729203,36.085827",
     "geom:latitude":36.085827,
     "geom:longitude":-86.729203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3981 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85840471
     ],
+    "wof:brand_id":1125158753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1S2YXFjcGB3ek0eScICbg0_36.085827_-86.729203@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597192,
-    "wof:geomhash":"5c924f666e5ebf373caf21f75dfce372",
+    "wof:geomhash":"ca649a5298c5766f21298adef3e61541",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790597723,
-    "wof:lastmodified":1467083244,
+    "wof:lastmodified":1510695792,
     "wof:name":"Direct General Insurance Agcy",
     "wof:parent_id":85840471,
     "wof:placetype":"venue",

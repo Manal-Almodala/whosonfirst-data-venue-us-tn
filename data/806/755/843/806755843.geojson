@@ -2,9 +2,14 @@
   "id": 806755843,
   "type": "Feature",
   "properties": {
+    "addr:full":"5071 Saddleview Dr Franklin TN 37067",
+    "addr:housenumber":"5071",
+    "addr:postcode":"37067",
+    "addr:street":"Saddleview Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.797492,35.894795,-86.797492,35.894795",
     "geom:latitude":35.894795,
     "geom:longitude":-86.797492,
@@ -27,12 +32,7 @@
         "establishment"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6BECHnd8Ml4dOCw9mNm2gs_35.894795_-86.797492@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462600811,
     "wof:geomhash":"978cc47278063a72632cc651dce05dce",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":806755843
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806755843,
-    "wof:lastmodified":1467083364,
+    "wof:lastmodified":1491924958,
     "wof:name":"Wilstermann & Assoc",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

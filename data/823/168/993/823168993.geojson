@@ -2,14 +2,20 @@
   "id": 823168993,
   "type": "Feature",
   "properties": {
+    "addr:full":"1312 E Shelby Dr Memphis TN 38116",
+    "addr:housenumber":"1312",
+    "addr:postcode":"38116",
+    "addr:street":"E Shelby Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.02023,35.020948,-90.02023,35.020948",
     "geom:latitude":35.020948,
     "geom:longitude":-90.02023,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1312 E Shelby Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         420542123
     ],
+    "wof:brand_id":1125153467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IZqj0w9fdY04IpDfbPS6d_35.020948_-90.020230@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607917,
-    "wof:geomhash":"0d8f25beee54aeec308e5b0959e62eaf",
+    "wof:geomhash":"d460bbb52b4c37ad7d0d9a16d1b80eac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823168993,
-    "wof:lastmodified":1467083585,
+    "wof:lastmodified":1510699035,
     "wof:name":"Mr Payroll",
     "wof:parent_id":420542123,
     "wof:placetype":"venue",

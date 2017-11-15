@@ -2,14 +2,20 @@
   "id": 806862109,
   "type": "Feature",
   "properties": {
+    "addr:full":"182 Chaffin Pl Murfreesboro TN 37129",
+    "addr:housenumber":"182",
+    "addr:postcode":"37129",
+    "addr:street":"Chaffin Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.430088,35.844282,-86.430088,35.844282",
     "geom:latitude":35.844282,
     "geom:longitude":-86.430088,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"182 Chaffin Pl",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":420574021,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SfmqXMUorAfViMhyD6lu1_35.844282_-86.430088@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601707,
-    "wof:geomhash":"08dd51e9ff5a072885ef9f13bc0939bd",
+    "wof:geomhash":"73af4b9a241cbe0a1c235366242c910f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806862109,
-    "wof:lastmodified":1467083394,
+    "wof:lastmodified":1510604450,
     "wof:name":"Days Inn",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

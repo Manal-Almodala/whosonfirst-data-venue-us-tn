@@ -2,14 +2,20 @@
   "id": 789785831,
   "type": "Feature",
   "properties": {
+    "addr:full":"2227 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"2227",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.685331,36.307112,-86.685331,36.307112",
     "geom:latitude":36.307112,
     "geom:longitude":-86.685331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2227 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MwsOt0so5sAzpFl7y7eMO_36.307112_-86.685331@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590534,
-    "wof:geomhash":"b7658f02cddea43255df4d6dd13a7fc0",
+    "wof:geomhash":"73bb2569a7be1a414cda7a215c1fd281",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789785831,
-    "wof:lastmodified":1467083044,
+    "wof:lastmodified":1510697245,
     "wof:name":"AmSouth",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

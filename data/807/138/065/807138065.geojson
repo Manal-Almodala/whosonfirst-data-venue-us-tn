@@ -2,14 +2,20 @@
   "id": 807138065,
   "type": "Feature",
   "properties": {
+    "addr:full":"4300 Norcross Rd Hixson TN 37343",
+    "addr:housenumber":"",
+    "addr:postcode":"4300;37343",
+    "addr:street":"Norcross Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.257791,35.122977,-85.257791,35.122977",
     "geom:latitude":35.122977,
     "geom:longitude":-85.257791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4300 Norcross Rd",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         420541753
     ],
+    "wof:brand_id":420575541,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eNsPwjrmLb0UjPh5ckwe5_35.122977_-85.257791@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604141,
-    "wof:geomhash":"f87aae8d99795164cff25db99be6e6f4",
+    "wof:geomhash":"07ee3dc18662c9c194d89f5ee9ad1504",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807138065,
-    "wof:lastmodified":1467083469,
+    "wof:lastmodified":1510602937,
     "wof:name":"Kangaroo Express",
     "wof:parent_id":420541753,
     "wof:placetype":"venue",

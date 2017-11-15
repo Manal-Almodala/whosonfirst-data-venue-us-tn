@@ -2,6 +2,10 @@
   "id": 823269445,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 S Jefferson St Rm 100 Winchester TN 37398",
+    "addr:housenumber":"200;100",
+    "addr:postcode":"37398",
+    "addr:street":"S Jefferson St Rm",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":823269445,
-    "wof:lastmodified":1467083654,
+    "wof:lastmodified":1472645720,
     "wof:name":"USPS - United States Post Office - Winchester Post Office",
     "wof:parent_id":85805347,
     "wof:placetype":"venue",

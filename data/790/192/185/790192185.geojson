@@ -2,14 +2,20 @@
   "id": 790192185,
   "type": "Feature",
   "properties": {
+    "addr:full":"224 Willowbend Ct Kingsport TN 37660",
+    "addr:housenumber":"224",
+    "addr:postcode":"37660",
+    "addr:street":"Willowbend Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.580358,36.505147,-82.580358,36.505147",
     "geom:latitude":36.505147,
     "geom:longitude":-82.580358,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"224 Willowbend Ct",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85850717,
         102086471
     ],
+    "wof:brand_id":1125153143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47G4eYVn4XUmcitCbE73az_36.505147_-82.580358@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593870,
-    "wof:geomhash":"773bdcbb22955398bae0a87c035f9b57",
+    "wof:geomhash":"278693dead622a7e324697045aa9acad",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":790192185,
-    "wof:lastmodified":1467083142,
+    "wof:lastmodified":1510613263,
     "wof:name":"Civitan International",
     "wof:parent_id":85850717,
     "wof:placetype":"venue",

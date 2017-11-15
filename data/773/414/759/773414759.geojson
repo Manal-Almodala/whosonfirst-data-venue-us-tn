@@ -2,14 +2,20 @@
   "id": 773414759,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 N 2nd St Clarksville TN 37040",
+    "addr:housenumber":"116",
+    "addr:postcode":"37040",
+    "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.359202,36.528771,-87.359202,36.528771",
     "geom:latitude":36.528771,
     "geom:longitude":-87.359202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 N 2nd St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85807343,
         102086353
     ],
+    "wof:brand_id":1125156499,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ikgedZfdv0YbTQulO7qsG_36.528771_-87.359202@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585528,
-    "wof:geomhash":"efae8eb3bc41c81e4391a3ac7b0a44de",
+    "wof:geomhash":"30b5d5ca861990c7ca4b077217dcb640",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773414759,
-    "wof:lastmodified":1467082890,
+    "wof:lastmodified":1510693941,
     "wof:name":"US Probation & Parole Office",
     "wof:parent_id":85807343,
     "wof:placetype":"venue",

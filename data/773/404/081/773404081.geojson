@@ -2,9 +2,14 @@
   "id": 773404081,
   "type": "Feature",
   "properties": {
+    "addr:full":"2501 Tom Anderson Rd Franklin TN 37064",
+    "addr:housenumber":"2501",
+    "addr:postcode":"37064",
+    "addr:street":"Tom Anderson Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.860768,35.826277,-86.860768,35.826277",
     "geom:latitude":35.826277,
     "geom:longitude":-86.860768,
@@ -24,12 +29,7 @@
     "sg:postcode":"37064",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0MEwSALEo95QUisk0wCiVW_35.826277_-86.860768@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462585430,
     "wof:geomhash":"8ea3684aeb63d47b8a8ab2c6c3f0ef2e",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773404081
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773404081,
-    "wof:lastmodified":1467082887,
+    "wof:lastmodified":1491930836,
     "wof:name":"Brewer Chemicals & Equipment",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

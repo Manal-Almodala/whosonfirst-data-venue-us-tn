@@ -2,14 +2,20 @@
   "id": 790549787,
   "type": "Feature",
   "properties": {
+    "addr:full":"4330 Summer Ave Memphis TN 38122",
+    "addr:housenumber":"4330",
+    "addr:postcode":"38122",
+    "addr:street":"Summer Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.915639,35.148949,-89.915639,35.148949",
     "geom:latitude":35.148949,
     "geom:longitude":-89.915639,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4330 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2j4Gp7g8SIB5YgbzWri1pB_35.148949_-89.915639@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596794,
-    "wof:geomhash":"e8968ebba995fc82b6c838ed2f824034",
+    "wof:geomhash":"871810771203d8beb6e9d48f56e55d71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790549787,
-    "wof:lastmodified":1467083231,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

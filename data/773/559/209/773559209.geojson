@@ -2,9 +2,14 @@
   "id": 773559209,
   "type": "Feature",
   "properties": {
+    "addr:full":"1061 Lewisburg Pike Franklin TN 37064",
+    "addr:housenumber":"1061",
+    "addr:postcode":"37064",
+    "addr:street":"Lewisburg Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.848103,35.880441,-86.848103,35.880441",
     "geom:latitude":35.880441,
     "geom:longitude":-86.848103,
@@ -30,12 +35,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1TZe6gFZ0wyn0vOeLlFY1B_35.880441_-86.848103@1294204733"
@@ -43,17 +43,9 @@
     "wof:country":"US",
     "wof:created":1462586642,
     "wof:geomhash":"e14edc2b6b41dbe9aeda3de33877bb60",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":773559209
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773559209,
-    "wof:lastmodified":1467082924,
+    "wof:lastmodified":1491930836,
     "wof:name":"Wauford Air Conditioning",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

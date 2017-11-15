@@ -2,9 +2,14 @@
   "id": 773305951,
   "type": "Feature",
   "properties": {
+    "addr:full":"4223 Holder Rd Franklin TN 37067",
+    "addr:housenumber":"4223",
+    "addr:postcode":"37067",
+    "addr:street":"Holder Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.77407,35.878676,-86.77407,35.878676",
     "geom:latitude":35.878676,
     "geom:longitude":-86.77407,
@@ -27,12 +32,7 @@
         "distribution"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7g1hVj7QczPvntxzE26LDp_35.878676_-86.774070@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462584729,
     "wof:geomhash":"8e33ed28be81115234a217dfcdab46cc",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":773305951
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773305951,
-    "wof:lastmodified":1467082864,
+    "wof:lastmodified":1491924958,
     "wof:name":"Christain Malaco Distribution",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

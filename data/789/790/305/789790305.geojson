@@ -2,14 +2,20 @@
   "id": 789790305,
   "type": "Feature",
   "properties": {
+    "addr:full":"135 Foothills Mall Dr Maryville TN 37801",
+    "addr:housenumber":"135",
+    "addr:postcode":"37801",
+    "addr:street":"Foothills Mall Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.992617,35.737458,-83.992617,35.737458",
     "geom:latitude":35.737458,
     "geom:longitude":-83.992617,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"135 Foothills Mall Dr",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087017,
         420541365
     ],
+    "wof:brand_id":1125151005,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IAWNeDyfHtBFYll7QWx0A_35.737458_-83.992617@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590567,
-    "wof:geomhash":"ad1b2e826350249b8d81570b1495b986",
+    "wof:geomhash":"7ad3f4c483111715ef28a5b60c6bfd43",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789790305,
-    "wof:lastmodified":1467083046,
+    "wof:lastmodified":1510695762,
     "wof:name":"Books-A-Million",
     "wof:parent_id":420541365,
     "wof:placetype":"venue",

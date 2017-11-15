@@ -2,9 +2,14 @@
   "id": 773031297,
   "type": "Feature",
   "properties": {
+    "addr:full":"2117 Wimbledon Cir Franklin TN 37069",
+    "addr:housenumber":"2117",
+    "addr:postcode":"37069",
+    "addr:street":"Wimbledon Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.892781,35.970053,-86.892781,35.970053",
     "geom:latitude":35.970053,
     "geom:longitude":-86.892781,
@@ -30,6 +35,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -44,6 +50,7 @@
     "wof:geomhash":"55f3a2e5c6384e1c3b63fc7cec37915a",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773031297,
-    "wof:lastmodified":1467082784,
+    "wof:lastmodified":1491924161,
     "wof:name":"B A Productions Inc",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

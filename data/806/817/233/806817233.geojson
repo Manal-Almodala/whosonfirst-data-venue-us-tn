@@ -2,14 +2,20 @@
   "id": 806817233,
   "type": "Feature",
   "properties": {
+    "addr:full":"697 Harding Pl Nashville TN 37211",
+    "addr:housenumber":"697",
+    "addr:postcode":"37211",
+    "addr:street":"Harding Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.752043,36.080974,-86.752043,36.080974",
     "geom:latitude":36.080974,
     "geom:longitude":-86.752043,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"697 Harding Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85812955
     ],
+    "wof:brand_id":1125151473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_098LI30PLaLf5tVZfIG0zf_36.080974_-86.752043@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601319,
-    "wof:geomhash":"f288ebcd582ab5ec03b344f3483014ae",
+    "wof:geomhash":"1535da9ae0921812682d786b8dacc9e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806817233,
-    "wof:lastmodified":1467083382,
+    "wof:lastmodified":1510698970,
     "wof:name":"Jafra Cosmetics",
     "wof:parent_id":85812955,
     "wof:placetype":"venue",

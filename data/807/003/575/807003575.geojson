@@ -2,9 +2,14 @@
   "id": 807003575,
   "type": "Feature",
   "properties": {
+    "addr:full":"4465 Gosey Hill Rd Franklin TN 37064",
+    "addr:housenumber":"4465",
+    "addr:postcode":"37064",
+    "addr:street":"Gosey Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.77963,35.824031,-86.77963,35.824031",
     "geom:latitude":35.824031,
     "geom:longitude":-86.77963,
@@ -27,12 +32,7 @@
         "photocopying"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_73Co0HGHpkgENL4pQkpcZe_35.824031_-86.779630@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462602887,
     "wof:geomhash":"18e6a5457bea28a416bd95645a3a2831",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":807003575
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807003575,
-    "wof:lastmodified":1467083433,
+    "wof:lastmodified":1491930828,
     "wof:name":"Printing Consultants",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

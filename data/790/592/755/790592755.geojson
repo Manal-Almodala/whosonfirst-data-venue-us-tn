@@ -2,14 +2,20 @@
   "id": 790592755,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 Elmore Rd Crossville TN 38555",
+    "addr:housenumber":"175",
+    "addr:postcode":"38555",
+    "addr:street":"Elmore Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.03895,35.96107,-85.03895,35.96107",
     "geom:latitude":35.96107,
     "geom:longitude":-85.03895,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"175 Elmore Rd",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":420575407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01P2gU1ARFSgyQ1GxlSR8o_35.961070_-85.038950@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597150,
-    "wof:geomhash":"c116e02e941feba2742e14e36e7d1d21",
+    "wof:geomhash":"5e34ac32e9c8ee319010e8e6b74a7127",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790592755,
-    "wof:lastmodified":1467083243,
+    "wof:lastmodified":1510602594,
     "wof:name":"Regions Bank",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

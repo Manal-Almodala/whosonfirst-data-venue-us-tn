@@ -2,14 +2,20 @@
   "id": 823269007,
   "type": "Feature",
   "properties": {
+    "addr:full":"5721 Highway 153 Hixson TN 37343",
+    "addr:housenumber":"5721",
+    "addr:postcode":"37343",
+    "addr:street":"Highway 153",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.248978,35.151892,-85.248978,35.151892",
     "geom:latitude":35.151892,
     "geom:longitude":-85.248978,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5721 Highway 153",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         420541755
     ],
+    "wof:brand_id":1125157739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_069jsRyPotkWOVDQX6y2KM_35.151892_-85.248978@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609875,
-    "wof:geomhash":"f78fe1617cf9dbb36888c0d4392478f6",
+    "wof:geomhash":"8b08d381d46694a9518fae50b5feaa88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823269007,
-    "wof:lastmodified":1467083653,
+    "wof:lastmodified":1510604916,
     "wof:name":"USA Nails",
     "wof:parent_id":420541755,
     "wof:placetype":"venue",

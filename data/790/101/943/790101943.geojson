@@ -2,14 +2,20 @@
   "id": 790101943,
   "type": "Feature",
   "properties": {
+    "addr:full":"707 N Broadway St Knoxville TN 37917",
+    "addr:housenumber":"707",
+    "addr:postcode":"37917",
+    "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.923767,35.976101,-83.923767,35.976101",
     "geom:latitude":35.976101,
     "geom:longitude":-83.923767,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"707 N Broadway St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086455,
         85878541
     ],
+    "wof:brand_id":420574753,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6ag5gVZEwiAXJbhrP9aL92_35.976101_-83.923767@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462593149,
-    "wof:geomhash":"9d3f30652185b44003bc51d694747592",
+    "wof:geomhash":"db5dafd66a28df299019bb71a3964bde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790101943,
-    "wof:lastmodified":1467083120,
+    "wof:lastmodified":1510604189,
     "wof:name":"AM South Bank",
     "wof:parent_id":85878541,
     "wof:placetype":"venue",

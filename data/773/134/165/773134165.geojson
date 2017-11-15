@@ -2,14 +2,20 @@
   "id": 773134165,
   "type": "Feature",
   "properties": {
+    "addr:full":"1637 Bartlett Rd Memphis TN 38134",
+    "addr:housenumber":"1637",
+    "addr:postcode":"38134",
+    "addr:street":"Bartlett Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.879255,35.167625,-89.879255,35.167625",
     "geom:latitude":35.167625,
     "geom:longitude":-89.879255,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1637 Bartlett Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85805805
     ],
+    "wof:brand_id":1125151313,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6YZGTgaUtbVkvyzlGBU9Rs_35.167625_-89.879255@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583392,
-    "wof:geomhash":"b49a2658939076c5c608c97943458c46",
+    "wof:geomhash":"11ee7f390b95e8da60c575e5152ee605",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773134165,
-    "wof:lastmodified":1467082811,
+    "wof:lastmodified":1510696943,
     "wof:name":"Lesco Service Ctr",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",

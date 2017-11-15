@@ -2,14 +2,20 @@
   "id": 807133749,
   "type": "Feature",
   "properties": {
+    "addr:full":"500 N Roan St Johnson City TN 37601",
+    "addr:housenumber":"500",
+    "addr:postcode":"37601",
+    "addr:street":"N Roan St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.355263,36.320681,-82.355263,36.320681",
     "geom:latitude":36.320681,
     "geom:longitude":-82.355263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 N Roan St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086335,
         85822495
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xNKGaVSopGrhzWrbnOwmi_36.320681_-82.355263@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604091,
-    "wof:geomhash":"a60a23bcc6cf0a2ba7cba7166f1a7216",
+    "wof:geomhash":"32ba0b2e84a5aa3a656b449c11f70077",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807133749,
-    "wof:lastmodified":1467083468,
+    "wof:lastmodified":1510696879,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85822495,
     "wof:placetype":"venue",

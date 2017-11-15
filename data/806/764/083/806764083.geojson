@@ -2,14 +2,20 @@
   "id": 806764083,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Blythewood Dr Columbia TN 38401",
+    "addr:housenumber":"102",
+    "addr:postcode":"38401",
+    "addr:street":"Blythewood Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.064638,35.605638,-87.064638,35.605638",
     "geom:latitude":35.605638,
     "geom:longitude":-87.064638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Blythewood Dr",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087107,
         420541937
     ],
+    "wof:brand_id":1125152573,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4RvONow0xRt3u34LCWL7VY_35.605638_-87.064638@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600879,
-    "wof:geomhash":"e784b0c85fb192354d794aade0ad7e4d",
+    "wof:geomhash":"fa613b0727c45c9713b36c1782447485",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806764083,
-    "wof:lastmodified":1467083367,
+    "wof:lastmodified":1510698840,
     "wof:name":"Beltone Hearing Aid Center",
     "wof:parent_id":420541937,
     "wof:placetype":"venue",

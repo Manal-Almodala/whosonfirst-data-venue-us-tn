@@ -2,14 +2,20 @@
   "id": 789587133,
   "type": "Feature",
   "properties": {
+    "addr:full":"8017 Club Pkwy Cordova TN 38016",
+    "addr:housenumber":"8017",
+    "addr:postcode":"38016",
+    "addr:street":"Club Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.795294,35.162448,-89.795294,35.162448",
     "geom:latitude":35.162448,
     "geom:longitude":-89.795294,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8017 Club Pkwy",
     "sg:city":"Cordova",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85812297
     ],
+    "wof:brand_id":1125150783,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rfn4o4zul87QhcpQy61fD_35.162448_-89.795294@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588964,
-    "wof:geomhash":"6b39164ba3fe9d1211db84a4e3234090",
+    "wof:geomhash":"3527c4c1e31aded3c4263e9d9b64ffa7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789587133,
-    "wof:lastmodified":1467082997,
+    "wof:lastmodified":1510698801,
     "wof:name":"Royal Cleaners",
     "wof:parent_id":85812297,
     "wof:placetype":"venue",

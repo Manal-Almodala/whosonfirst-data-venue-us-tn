@@ -2,14 +2,20 @@
   "id": 807153881,
   "type": "Feature",
   "properties": {
+    "addr:full":"4025 Parkway Pigeon Forge TN 37863",
+    "addr:housenumber":"4025",
+    "addr:postcode":"37863",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.543787,35.776141,-83.543787,35.776141",
     "geom:latitude":35.776141,
     "geom:longitude":-83.543787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4025 Parkway",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086245,
         85812089
     ],
+    "wof:brand_id":420575219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vlbSIDsupcChyDSAiT3XP_35.776141_-83.543787@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604310,
-    "wof:geomhash":"d39edfc466676434956995c8537d2e33",
+    "wof:geomhash":"40fc07246ed56818c81d14b55d0cf790",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807153881,
-    "wof:lastmodified":1467083474,
+    "wof:lastmodified":1510602596,
     "wof:name":"Travelodge",
     "wof:parent_id":85812089,
     "wof:placetype":"venue",

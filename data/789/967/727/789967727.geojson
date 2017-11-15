@@ -2,14 +2,20 @@
   "id": 789967727,
   "type": "Feature",
   "properties": {
+    "addr:full":"2655 Teaster Ln Pigeon Forge TN 37863",
+    "addr:housenumber":"2655",
+    "addr:postcode":"37863",
+    "addr:street":"Teaster Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.554729,35.794374,-83.554729,35.794374",
     "geom:latitude":35.794374,
     "geom:longitude":-83.554729,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2655 Teaster Ln",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086245,
         85854207
     ],
+    "wof:brand_id":1125156047,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7XJn2fpnCRwrveYPRoQC6I_35.794374_-83.554729@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592064,
-    "wof:geomhash":"55f97153541f2be2ad4fe763519b7189",
+    "wof:geomhash":"4faa51067a23377df39a8d63ce331fa2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":789967727,
-    "wof:lastmodified":1467083089,
+    "wof:lastmodified":1510695018,
     "wof:name":"Book Warehouse",
     "wof:parent_id":85854207,
     "wof:placetype":"venue",

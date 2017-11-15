@@ -2,14 +2,20 @@
   "id": 806710399,
   "type": "Feature",
   "properties": {
+    "addr:full":"1404 Clovercroft Trl Mount Juliet TN 37122",
+    "addr:housenumber":"1404",
+    "addr:postcode":"37122",
+    "addr:street":"Clovercroft Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.560248,36.262555,-86.560248,36.262555",
     "geom:latitude":36.262555,
     "geom:longitude":-86.560248,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1404 Clovercroft Trl",
     "sg:city":"Mount Juliet",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85826879,
         102087205
     ],
+    "wof:brand_id":1125155779,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4nD1PRUzRChbHA8Ie46ZxL_36.262555_-86.560248@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600421,
-    "wof:geomhash":"56df24ba12b4f48dec4af2ff7673daaf",
+    "wof:geomhash":"18e72a806cf8706be9e66be347a8d677",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":806710399,
-    "wof:lastmodified":1467083351,
+    "wof:lastmodified":1510695340,
     "wof:name":"Laundry Basket",
     "wof:parent_id":85826879,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823245131,
   "type": "Feature",
   "properties": {
+    "addr:full":"384 N Lowry St Smyrna TN 37167",
+    "addr:housenumber":"384",
+    "addr:postcode":"37167",
+    "addr:street":"N Lowry St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.529703,35.994741,-86.529703,35.994741",
     "geom:latitude":35.994741,
     "geom:longitude":-86.529703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"384 N Lowry St",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102086355,
         85831089
     ],
+    "wof:brand_id":1125156143,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2dCxksfgRWcJYIDx77L4sz_35.994741_-86.529703@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609245,
-    "wof:geomhash":"4f78c9df86bbe05c3faf3df06c9b673a",
+    "wof:geomhash":"12e4a9a643d2556d34584f08e695271d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823245131,
-    "wof:lastmodified":1467083632,
+    "wof:lastmodified":1510694175,
     "wof:name":"Sub Station II",
     "wof:parent_id":85831089,
     "wof:placetype":"venue",

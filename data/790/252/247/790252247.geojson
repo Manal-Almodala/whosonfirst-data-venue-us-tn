@@ -2,14 +2,20 @@
   "id": 790252247,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Quaker Oats Dr Jackson TN 38301",
+    "addr:housenumber":"20",
+    "addr:postcode":"38301",
+    "addr:street":"Quaker Oats Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.781325,35.636519,-88.781325,35.636519",
     "geom:latitude":35.636519,
     "geom:longitude":-88.781325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Quaker Oats Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85830001,
         102087221
     ],
+    "wof:brand_id":1125159767,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3nauGTKbKHnx65S3j5j0rz_35.636519_-88.781325@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594354,
-    "wof:geomhash":"042bcce1f47412e69bff80b0156b4870",
+    "wof:geomhash":"6098c24f144e0b96f5b2e80f38b2ad96",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":790252247,
-    "wof:lastmodified":1467083156,
+    "wof:lastmodified":1510697203,
     "wof:name":"AAA Cooper Transportation",
     "wof:parent_id":85830001,
     "wof:placetype":"venue",

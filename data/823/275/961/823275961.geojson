@@ -2,14 +2,20 @@
   "id": 823275961,
   "type": "Feature",
   "properties": {
+    "addr:full":"2335 N Germantown Pkwy Cordova TN 38016",
+    "addr:housenumber":"2335",
+    "addr:postcode":"38016",
+    "addr:street":"N Germantown Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.792665,35.190137,-89.792665,35.190137",
     "geom:latitude":35.190137,
     "geom:longitude":-89.792665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2335 N Germantown Pkwy",
     "sg:city":"Cordova",
     "sg:classifiers":[],
@@ -27,13 +33,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":420575041,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5SgkQ2GXZ7eNgikwVJL1OD_35.190137_-89.792665@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610151,
-    "wof:geomhash":"ac5148934e8e0209a988107aaf5ab545",
+    "wof:geomhash":"fe5031154368f48dfd11639134b5669f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -46,7 +53,7 @@
         }
     ],
     "wof:id":823275961,
-    "wof:lastmodified":1467083663,
+    "wof:lastmodified":1510622754,
     "wof:name":"Kohl's",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

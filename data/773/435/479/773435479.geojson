@@ -2,14 +2,20 @@
   "id": 773435479,
   "type": "Feature",
   "properties": {
+    "addr:full":"4609 Poplar Ave Memphis TN 38117",
+    "addr:housenumber":"4609",
+    "addr:postcode":"38117",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.90884,35.116974,-89.90884,35.116974",
     "geom:latitude":35.116974,
     "geom:longitude":-89.90884,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4609 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125151975,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4r4S9X9EM55X4RW7KDjLPD_35.116974_-89.908840@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585713,
-    "wof:geomhash":"1eaf897e3cbe68ac32b00526f88b7dd6",
+    "wof:geomhash":"9a7fb5523dc7e1f8ed5523787d1f035e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773435479,
-    "wof:lastmodified":1467082895,
+    "wof:lastmodified":1510695909,
     "wof:name":"Chilis",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

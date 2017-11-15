@@ -2,9 +2,14 @@
   "id": 404145105,
   "type": "Feature",
   "properties": {
+    "addr:full":"1304 Davidson St Nashville TN 37213",
+    "addr:housenumber":"1304",
+    "addr:postcode":"37213",
+    "addr:street":"Davidson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.746889,36.162936,-86.746889,36.162936",
     "geom:latitude":36.162936,
     "geom:longitude":-86.746889,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723183,
         102087061,
@@ -39,7 +45,7 @@
     "wof:geomhash":"41999d1dd00079e09c91619423dfa5ce",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087061,
             "locality_id":101723183,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":404145105,
-    "wof:lastmodified":1467082779,
+    "wof:lastmodified":1491918814,
     "wof:name":"Pacific Wholesale Distributors",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773066303,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 Edwards St Union City TN 38261",
+    "addr:housenumber":"1105",
+    "addr:postcode":"38261",
+    "addr:street":"Edwards St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.047517,36.416763,-89.047517,36.416763",
     "geom:latitude":36.416763,
     "geom:longitude":-89.047517,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1105 Edwards St",
     "sg:city":"Union City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102084541,
         85844377
     ],
+    "wof:brand_id":1125150671,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2gx87372rOTcbys0AGWBJj_36.416763_-89.047517@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582909,
-    "wof:geomhash":"2241775403fb2e0b46eca3578d290730",
+    "wof:geomhash":"c626fb24742cadfa9fe235f7f7f1e1ba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773066303,
-    "wof:lastmodified":1467082795,
+    "wof:lastmodified":1510696929,
     "wof:name":"First United Pentecostal Chr",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",

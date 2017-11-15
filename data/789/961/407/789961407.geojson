@@ -2,14 +2,20 @@
   "id": 789961407,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Ward Cir Brentwood TN 37027",
+    "addr:housenumber":"206",
+    "addr:postcode":"37027",
+    "addr:street":"Ward Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800687,36.031635,-86.800687,36.031635",
     "geom:latitude":36.031635,
     "geom:longitude":-86.800687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 Ward Cir",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086337,
         85833469
     ],
+    "wof:brand_id":1125156827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7V6DwMlO39cXXUyhd5wM7q_36.031635_-86.800687@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592010,
-    "wof:geomhash":"67c9761b8e61ea7a0cb0cd3b4e875772",
+    "wof:geomhash":"81fafc82c731c01f2e3bb19b1ffc4939",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789961407,
-    "wof:lastmodified":1467083087,
+    "wof:lastmodified":1510613403,
     "wof:name":"Residence Inn By Marriott",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",

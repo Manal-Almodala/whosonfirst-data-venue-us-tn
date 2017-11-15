@@ -2,14 +2,20 @@
   "id": 789950981,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 E Watauga Ave Johnson City TN 37601",
+    "addr:housenumber":"201",
+    "addr:postcode":"37601",
+    "addr:street":"E Watauga Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.353299,36.324376,-82.353299,36.324376",
     "geom:latitude":36.324376,
     "geom:longitude":-82.353299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 E Watauga Ave",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086335,
         85805331
     ],
+    "wof:brand_id":1125151761,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6EsIXqALvuyOUuMlk35D7P_36.324376_-82.353299@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591922,
-    "wof:geomhash":"9c6d1c023c6ad23345235ec6bb43445d",
+    "wof:geomhash":"edbd89aae0da225753b0cd21e0172b3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":789950981,
-    "wof:lastmodified":1467083084,
+    "wof:lastmodified":1510693698,
     "wof:name":"Bethlehem Lutheran Church",
     "wof:parent_id":85805331,
     "wof:placetype":"venue",

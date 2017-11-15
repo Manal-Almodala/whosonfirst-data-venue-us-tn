@@ -2,14 +2,20 @@
   "id": 807299069,
   "type": "Feature",
   "properties": {
+    "addr:full":"4014 Hillsboro Pike Nashville TN 37215",
+    "addr:housenumber":"4014",
+    "addr:postcode":"37215",
+    "addr:street":"Hillsboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816679,36.102835,-86.816679,36.102835",
     "geom:latitude":36.102835,
     "geom:longitude":-86.816679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4014 Hillsboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893463
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UYkfXRGZPfuXIhmrXhD76_36.102835_-86.816679@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605840,
-    "wof:geomhash":"fcd32f8afff8a8c78c04234be808ca2e",
+    "wof:geomhash":"a7fb0c6429f4085d68ca07d673bfc115",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807299069,
-    "wof:lastmodified":1467083523,
+    "wof:lastmodified":1510613130,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",

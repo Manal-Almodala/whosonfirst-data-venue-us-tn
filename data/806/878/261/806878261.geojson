@@ -2,14 +2,20 @@
   "id": 806878261,
   "type": "Feature",
   "properties": {
+    "addr:full":"2317 Dickerson Pike Nashville TN 37207",
+    "addr:housenumber":"2317",
+    "addr:postcode":"37207",
+    "addr:street":"Dickerson Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.767386,36.208113,-86.767386,36.208113",
     "geom:latitude":36.208113,
     "geom:longitude":-86.767386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2317 Dickerson Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85816591
     ],
+    "wof:brand_id":420574547,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7NrV8S2cXYpW7KWZVsmhQI_36.208113_-86.767386@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601836,
-    "wof:geomhash":"b000189313137bd6fc6da2003bb1b468",
+    "wof:geomhash":"5e24bf729687853bd18fa68415c2a4d8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806878261,
-    "wof:lastmodified":1467083398,
+    "wof:lastmodified":1510603871,
     "wof:name":"Piggly Wiggly",
     "wof:parent_id":85816591,
     "wof:placetype":"venue",

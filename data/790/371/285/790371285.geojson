@@ -2,14 +2,20 @@
   "id": 790371285,
   "type": "Feature",
   "properties": {
+    "addr:full":"849 Anderson St Baxter TN 38544",
+    "addr:housenumber":"849",
+    "addr:postcode":"38544",
+    "addr:street":"Anderson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.627567,36.160661,-85.627567,36.160661",
     "geom:latitude":36.160661,
     "geom:longitude":-85.627567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"849 Anderson St",
     "sg:city":"Baxter",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086339,
         85850709
     ],
+    "wof:brand_id":1125155911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2VCVSv8gVInNJZ1dZ8ut5V_36.160661_-85.627567@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595314,
-    "wof:geomhash":"df9bb8decb2bc134469adf8bb32de22b",
+    "wof:geomhash":"1495840cd6c6bf6214b68b941e3a3a42",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790371285,
-    "wof:lastmodified":1467083185,
+    "wof:lastmodified":1510699422,
     "wof:name":"Crawford & Company",
     "wof:parent_id":85850709,
     "wof:placetype":"venue",

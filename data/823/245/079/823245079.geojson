@@ -2,14 +2,20 @@
   "id": 823245079,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Sam Ridley Pkwy W Smyrna TN 37167",
+    "addr:housenumber":"600",
+    "addr:postcode":"37167",
+    "addr:street":"Sam Ridley Pkwy W",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.56244,35.979774,-86.56244,35.979774",
     "geom:latitude":35.979774,
     "geom:longitude":-86.56244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Sam Ridley Pkwy W",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85831089
     ],
+    "wof:brand_id":1125150011,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1YyP3ZI5TvuFgKc64ihZiK_35.979774_-86.562440@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609239,
-    "wof:geomhash":"bf6d9b45db9ee1b616f657d325a2f5b1",
+    "wof:geomhash":"db4e5f7bb71cd72493b26260382c48ba",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823245079,
-    "wof:lastmodified":1467083632,
+    "wof:lastmodified":1510696622,
     "wof:name":"Logan's Roadhouse",
     "wof:parent_id":85831089,
     "wof:placetype":"venue",

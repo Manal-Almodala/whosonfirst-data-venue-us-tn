@@ -2,14 +2,20 @@
   "id": 773433799,
   "type": "Feature",
   "properties": {
+    "addr:full":"236 Anglin Ln Jackson TN 38301",
+    "addr:housenumber":"236",
+    "addr:postcode":"38301",
+    "addr:street":"Anglin Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.908357,35.615689,-88.908357,35.615689",
     "geom:latitude":35.615689,
     "geom:longitude":-88.908357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"236 Anglin Ln",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IbyNsIWFrl63CoopTZ9ZV_35.615689_-88.908357@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585699,
-    "wof:geomhash":"789a8e10c3cd12d972f44b26d3090a03",
+    "wof:geomhash":"23c216ad55a791ffe06cf3f1669f8f49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773433799,
-    "wof:lastmodified":1467082895,
+    "wof:lastmodified":1510601963,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

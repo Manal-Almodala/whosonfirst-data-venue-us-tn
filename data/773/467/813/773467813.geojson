@@ -2,14 +2,20 @@
   "id": 773467813,
   "type": "Feature",
   "properties": {
+    "addr:full":"2910 Kraft Dr Nashville TN 37204",
+    "addr:housenumber":"2910",
+    "addr:postcode":"37204",
+    "addr:street":"Kraft Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.757999,36.110969,-86.757999,36.110969",
     "geom:latitude":36.110969,
     "geom:longitude":-86.757999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2910 Kraft Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85843601
     ],
+    "wof:brand_id":1125150293,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4L8AaClA4fwnfMQ7ADqvpM_36.110969_-86.757999@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585970,
-    "wof:geomhash":"7e85364a64495f5dd702eb33a796ecf4",
+    "wof:geomhash":"794769500c840893fc06036a8cf2ccf4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773467813,
-    "wof:lastmodified":1467082903,
+    "wof:lastmodified":1510713007,
     "wof:name":"Beazer Homes",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",

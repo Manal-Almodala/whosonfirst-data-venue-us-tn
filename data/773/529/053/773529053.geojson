@@ -2,14 +2,20 @@
   "id": 773529053,
   "type": "Feature",
   "properties": {
+    "addr:full":"139 Kraft St Clarksville TN 37040",
+    "addr:housenumber":"139",
+    "addr:postcode":"37040",
+    "addr:street":"Kraft St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.340928,36.539583,-87.340928,36.539583",
     "geom:latitude":36.539583,
     "geom:longitude":-87.340928,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"139 Kraft St",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         85857915
     ],
+    "wof:brand_id":420574531,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17XIaUWGEePPMtjvj0PO5c_36.539583_-87.340928@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586404,
-    "wof:geomhash":"2152fc67f3f222b244fc951895da1992",
+    "wof:geomhash":"5cfea064003dff114978170612b6dc0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773529053,
-    "wof:lastmodified":1467082917,
+    "wof:lastmodified":1510604226,
     "wof:name":"Salvation Army Thrift Store",
     "wof:parent_id":85857915,
     "wof:placetype":"venue",

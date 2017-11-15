@@ -2,9 +2,14 @@
   "id": 773748183,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Spring St White House TN 37188",
+    "addr:housenumber":"205",
+    "addr:postcode":"37188",
+    "addr:street":"Spring St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.651128,36.466627,-86.651128,36.466627",
     "geom:latitude":36.466627,
     "geom:longitude":-86.651128,
@@ -27,6 +32,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -41,6 +47,7 @@
     "wof:geomhash":"421b0d2358aaa233e8f5eb5bffbd8c53",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773748183,
-    "wof:lastmodified":1467082970,
+    "wof:lastmodified":1491939227,
     "wof:name":"White House Christian Academy",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

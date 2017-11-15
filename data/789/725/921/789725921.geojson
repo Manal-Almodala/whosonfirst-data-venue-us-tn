@@ -2,9 +2,14 @@
   "id": 789725921,
   "type": "Feature",
   "properties": {
+    "addr:full":"4685 Bennett Hollow Rd Thompsons Station TN 37179",
+    "addr:housenumber":"4685",
+    "addr:postcode":"37179",
+    "addr:street":"Bennett Hollow Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.781407,35.803353,-86.781407,35.803353",
     "geom:latitude":35.803353,
     "geom:longitude":-86.781407,
@@ -24,12 +29,7 @@
     "sg:postcode":"37179",
     "sg:province":"TN",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0abXxec1lPkgmlvof0JD7Z_35.803353_-86.781407@1294204733"
@@ -37,17 +37,9 @@
     "wof:country":"US",
     "wof:created":1462590070,
     "wof:geomhash":"15196325c969c4d430abd5ac3039dadf",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789725921
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789725921,
-    "wof:lastmodified":1467083030,
+    "wof:lastmodified":1491930839,
     "wof:name":"Pea Paws Lawn Svc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

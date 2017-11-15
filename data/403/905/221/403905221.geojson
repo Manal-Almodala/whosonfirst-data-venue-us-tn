@@ -2,14 +2,20 @@
   "id": 403905221,
   "type": "Feature",
   "properties": {
+    "addr:full":"424 Church St Nashville TN 37203",
+    "addr:housenumber":"424",
+    "addr:postcode":"37203",
+    "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.779298,36.163635,-86.779298,36.163635",
     "geom:latitude":36.163635,
     "geom:longitude":-86.779298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"424 Church St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -34,12 +40,13 @@
         102087061,
         85893477
     ],
+    "wof:brand_id":1125153359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1w0DustMmxcXxRDvDE9yoJ_36.163635_-86.779298@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"26886097e87d02f4d095c7a43191bb19",
+    "wof:geomhash":"3899a78eea7902bc3890f677b3649caa",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":403905221,
-    "wof:lastmodified":1467082782,
+    "wof:lastmodified":1510695787,
     "wof:name":"CB Richard Ellis Inc",
     "wof:parent_id":85893477,
     "wof:placetype":"venue",

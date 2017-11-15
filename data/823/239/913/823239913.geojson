@@ -2,14 +2,20 @@
   "id": 823239913,
   "type": "Feature",
   "properties": {
+    "addr:full":"6085 Apple Tree Dr Memphis TN 38115",
+    "addr:housenumber":"6085",
+    "addr:postcode":"38115",
+    "addr:street":"Apple Tree Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.861804,35.068871,-89.861804,35.068871",
     "geom:latitude":35.068871,
     "geom:longitude":-89.861804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6085 Apple Tree Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125152471,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6yDcpSa2kSuH7gkFABNBPe_35.068952_-89.861102@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462609148,
-    "wof:geomhash":"5005b9fafcea86bad1f7e4d9efa6a55c",
+    "wof:geomhash":"5220335d5f3df53316cb247b599ae133",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":823239913,
-    "wof:lastmodified":1467083628,
+    "wof:lastmodified":1510696665,
     "wof:name":"Extended Stay America",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

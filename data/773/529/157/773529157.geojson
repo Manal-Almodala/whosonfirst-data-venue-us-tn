@@ -2,14 +2,20 @@
   "id": 773529157,
   "type": "Feature",
   "properties": {
+    "addr:full":"154 Cason Ln Murfreesboro TN 37128",
+    "addr:housenumber":"154",
+    "addr:postcode":"37128",
+    "addr:street":"Cason Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.440313,35.845863,-86.440313,35.845863",
     "geom:latitude":35.845863,
     "geom:longitude":-86.440313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"154 Cason Ln",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125159249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Imqc2ccnDYoglrl1jG5Za_35.845863_-86.440313@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586405,
-    "wof:geomhash":"8a528e0df1574910e2407287747af395",
+    "wof:geomhash":"f7d94771d9983847b4cf0cb0be07be63",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773529157,
-    "wof:lastmodified":1467082917,
+    "wof:lastmodified":1510693878,
     "wof:name":"First Tennessee",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

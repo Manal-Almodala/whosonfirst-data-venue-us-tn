@@ -2,14 +2,20 @@
   "id": 806942215,
   "type": "Feature",
   "properties": {
+    "addr:full":"50 Old Hickory Blvd Jackson TN 38305",
+    "addr:housenumber":"50",
+    "addr:postcode":"38305",
+    "addr:street":"Old Hickory Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.829217,35.65464,-88.829217,35.65464",
     "geom:latitude":35.65464,
     "geom:longitude":-88.829217,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"50 Old Hickory Blvd",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087221,
         85824843
     ],
+    "wof:brand_id":1125152135,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BlqLvNRvdIEQRwpstF0kN_35.654640_-88.829217@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602378,
-    "wof:geomhash":"4a55a520be912451ae4172d8edc56c01",
+    "wof:geomhash":"726a1aa059e1aa460e89b17cf8a6bde3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806942215,
-    "wof:lastmodified":1467083416,
+    "wof:lastmodified":1510695264,
     "wof:name":"Citi Trends",
     "wof:parent_id":85824843,
     "wof:placetype":"venue",

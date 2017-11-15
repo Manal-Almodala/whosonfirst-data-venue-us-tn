@@ -2,14 +2,20 @@
   "id": 773498227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1249 Ridgeway Rd Memphis TN 38119",
+    "addr:housenumber":"1249",
+    "addr:postcode":"38119",
+    "addr:street":"Ridgeway Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.858623,35.097366,-89.858623,35.097366",
     "geom:latitude":35.097366,
     "geom:longitude":-89.858623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1249 Ridgeway Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870789
     ],
+    "wof:brand_id":1125159249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_02bfdrpttGRgtekn33W6pm_35.097366_-89.858623@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586194,
-    "wof:geomhash":"8d71b9f31cf89a00f74a1686a23a108a",
+    "wof:geomhash":"79a12a7650c653f5e18bdeaef279fed1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773498227,
-    "wof:lastmodified":1467082910,
+    "wof:lastmodified":1510693879,
     "wof:name":"First Tennessee",
     "wof:parent_id":85870789,
     "wof:placetype":"venue",

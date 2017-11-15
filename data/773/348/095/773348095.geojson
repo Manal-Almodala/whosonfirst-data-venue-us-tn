@@ -2,6 +2,10 @@
   "id": 773348095,
   "type": "Feature",
   "properties": {
+    "addr:full":"4321 Prescott Rd Nashville TN 37204",
+    "addr:housenumber":"4321",
+    "addr:postcode":"37204",
+    "addr:street":"Prescott Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":773348095,
-    "wof:lastmodified":1467082874,
+    "wof:lastmodified":1472645819,
     "wof:name":"Generation Builders",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",

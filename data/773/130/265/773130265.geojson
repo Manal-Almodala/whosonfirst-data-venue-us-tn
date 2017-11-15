@@ -2,14 +2,20 @@
   "id": 773130265,
   "type": "Feature",
   "properties": {
+    "addr:full":"1529 Secretariat Blvd Knoxville TN 37931",
+    "addr:housenumber":"1529",
+    "addr:postcode":"37931",
+    "addr:street":"Secretariat Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.121578,35.947622,-84.121578,35.947622",
     "geom:latitude":35.947622,
     "geom:longitude":-84.121578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1529 Secretariat Blvd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":420574285,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2yNQcwBITWUyD9ncK20p6M_35.947622_-84.121578@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583361,
-    "wof:geomhash":"345318f4fe9b13acb09198cdff8bfd85",
+    "wof:geomhash":"de777bdb52110ed29e2fc054d75e1def",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":773130265,
-    "wof:lastmodified":1467082810,
+    "wof:lastmodified":1510603886,
     "wof:name":"Shelter Insurance",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

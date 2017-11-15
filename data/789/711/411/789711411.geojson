@@ -2,14 +2,20 @@
   "id": 789711411,
   "type": "Feature",
   "properties": {
+    "addr:full":"412 W 1st North St Morristown TN 37814",
+    "addr:housenumber":"412",
+    "addr:postcode":"37814",
+    "addr:street":"W 1St North St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.296497,36.212881,-83.296497,36.212881",
     "geom:latitude":36.212881,
     "geom:longitude":-83.296497,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"412 W 1st North St",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086447,
         85825433
     ],
+    "wof:brand_id":1125152309,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kK2TWXOjoiEp9ETl2LwcE_36.212881_-83.296497@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589943,
-    "wof:geomhash":"925a14a1be6d4518e2dd3c03355e8650",
+    "wof:geomhash":"005b63ec9e9645a41431e9ee57cde219",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789711411,
-    "wof:lastmodified":1467083027,
+    "wof:lastmodified":1510696019,
     "wof:name":"Sun Loan Co",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",

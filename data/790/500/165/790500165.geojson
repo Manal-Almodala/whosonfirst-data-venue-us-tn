@@ -2,14 +2,20 @@
   "id": 790500165,
   "type": "Feature",
   "properties": {
+    "addr:full":"395 Mt View Industrial Dr Morrison TN 37357",
+    "addr:housenumber":"395",
+    "addr:postcode":"37357",
+    "addr:street":"Mt View Industrial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.891516,35.622614,-85.891516,35.622614",
     "geom:latitude":35.622614,
     "geom:longitude":-85.891516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"395 Mt View Industrial Dr",
     "sg:city":"Morrison",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086399,
         420542243
     ],
+    "wof:brand_id":1125158051,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5sNVYxil8rqGupHnZjmGg9_35.622614_-85.891516@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596369,
-    "wof:geomhash":"456f604e442d905aa5c3dadb17c3c571",
+    "wof:geomhash":"be9cbb758da9486095e0fc94a13068f4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790500165,
-    "wof:lastmodified":1467083217,
+    "wof:lastmodified":1510694793,
     "wof:name":"CAM Bar",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",

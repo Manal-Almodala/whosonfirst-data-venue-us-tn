@@ -2,14 +2,20 @@
   "id": 773682483,
   "type": "Feature",
   "properties": {
+    "addr:full":"1770 Moriah Woods Blvd Memphis TN 38117",
+    "addr:housenumber":"1770",
+    "addr:postcode":"38117",
+    "addr:street":"Moriah Woods Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.897524,35.083785,-89.897524,35.083785",
     "geom:latitude":35.083785,
     "geom:longitude":-89.897524,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1770 Moriah Woods Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125153947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_157xbU0Nnp0XafQpPf3H5X_35.083785_-89.897524@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587559,
-    "wof:geomhash":"95ef720d686e595ee5fc5774126b02b4",
+    "wof:geomhash":"4259cd6dfd32a42144854043c8b630de",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773682483,
-    "wof:lastmodified":1467082954,
+    "wof:lastmodified":1510695229,
     "wof:name":"Decision One",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

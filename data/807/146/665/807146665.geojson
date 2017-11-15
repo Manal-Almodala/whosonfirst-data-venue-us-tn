@@ -2,14 +2,20 @@
   "id": 807146665,
   "type": "Feature",
   "properties": {
+    "addr:full":"2727 Farrisview Blvd Memphis TN 38118",
+    "addr:housenumber":"2727",
+    "addr:postcode":"38118",
+    "addr:street":"Farrisview Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.967209,35.076941,-89.967209,35.076941",
     "geom:latitude":35.076941,
     "geom:longitude":-89.967209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2727 Farrisview Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85805535
     ],
+    "wof:brand_id":1125157931,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70F3BzivfdEESr887YEmhH_35.076941_-89.967209@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604236,
-    "wof:geomhash":"4b7a8fde5738412d8c5fe0ed30068b18",
+    "wof:geomhash":"2881c5c44ab5bc99e3319e480b6cf30c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":807146665,
-    "wof:lastmodified":1467083472,
+    "wof:lastmodified":1510697458,
     "wof:name":"Old Dominion Freight Line Inc",
     "wof:parent_id":85805535,
     "wof:placetype":"venue",

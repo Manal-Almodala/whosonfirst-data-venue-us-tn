@@ -2,14 +2,20 @@
   "id": 773831119,
   "type": "Feature",
   "properties": {
+    "addr:full":"6013 John Douglass Dr Chattanooga TN 37421",
+    "addr:housenumber":"6013",
+    "addr:postcode":"37421",
+    "addr:street":"John Douglass Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.186244,35.055423,-85.186244,35.055423",
     "geom:latitude":35.055423,
     "geom:longitude":-85.186244,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6013 John Douglass Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087185,
         420541645
     ],
+    "wof:brand_id":1125151219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1K9qfJbolF1bXZOGOJ2SBu_35.055423_-85.186244@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588729,
-    "wof:geomhash":"94ede8d9c6107c752ca78eae3486bf66",
+    "wof:geomhash":"49384025e251102c1f9c182003c8a1a6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":773831119,
-    "wof:lastmodified":1467082991,
+    "wof:lastmodified":1510697575,
     "wof:name":"Graybar Electric Co",
     "wof:parent_id":420541645,
     "wof:placetype":"venue",

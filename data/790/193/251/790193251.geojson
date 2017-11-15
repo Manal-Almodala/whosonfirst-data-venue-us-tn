@@ -2,9 +2,14 @@
   "id": 790193251,
   "type": "Feature",
   "properties": {
+    "addr:full":"3120 Long Hollow Pike Hendersonville TN 37075",
+    "addr:housenumber":"3120",
+    "addr:postcode":"37075",
+    "addr:street":"Long Hollow Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.602359,36.370292,-86.602359,36.370292",
     "geom:latitude":36.370292,
     "geom:longitude":-86.602359,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -40,6 +46,7 @@
     "wof:geomhash":"4e513d0937b7b9150985270a91dd846f",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":790193251,
-    "wof:lastmodified":1467083142,
+    "wof:lastmodified":1491939206,
     "wof:name":"Beech Elementary School",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806537855,
   "type": "Feature",
   "properties": {
+    "addr:full":"706 Walnut St SW Knoxville TN 37902",
+    "addr:housenumber":"706",
+    "addr:postcode":"37902",
+    "addr:street":"Walnut St Sw",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.91877,35.961831,-83.91877,35.961831",
     "geom:latitude":35.961831,
     "geom:longitude":-83.91877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"706 Walnut St SW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85867175
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0USjNf5OKJegtv3SEnstKJ_35.961831_-83.918770@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598937,
-    "wof:geomhash":"6747b56f09f7276110d2b6774cdee7a4",
+    "wof:geomhash":"29dbbb724c3738efcf50c9bf9959f0ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806537855,
-    "wof:lastmodified":1467083302,
+    "wof:lastmodified":1510602716,
     "wof:name":"Central Parking System",
     "wof:parent_id":85867175,
     "wof:placetype":"venue",

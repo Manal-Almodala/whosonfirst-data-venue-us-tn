@@ -2,14 +2,20 @@
   "id": 773691007,
   "type": "Feature",
   "properties": {
+    "addr:full":"1161 Murfreesboro Pike Nashville TN 37217",
+    "addr:housenumber":"1161",
+    "addr:postcode":"37217",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.708386,36.124633,-86.708386,36.124633",
     "geom:latitude":36.124633,
     "geom:longitude":-86.708386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1161 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85821799
     ],
+    "wof:brand_id":1125158551,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3NfTFRP4MY7G22DVe3i1OB_36.124633_-86.708386@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587621,
-    "wof:geomhash":"0b6c75317c6101503b991403e6344601",
+    "wof:geomhash":"6f9cd15e974369b4015080649a07349f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773691007,
-    "wof:lastmodified":1467082956,
+    "wof:lastmodified":1510697797,
     "wof:name":"Internationl Assn Machinsts/Ae",
     "wof:parent_id":85821799,
     "wof:placetype":"venue",

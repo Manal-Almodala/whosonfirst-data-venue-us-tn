@@ -2,14 +2,20 @@
   "id": 773065891,
   "type": "Feature",
   "properties": {
+    "addr:full":"325 Sandi Ct Murfreesboro TN 37167",
+    "addr:housenumber":"325",
+    "addr:postcode":"37167",
+    "addr:street":"Sandi Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.481608,35.987445,-86.481608,35.987445",
     "geom:latitude":35.987445,
     "geom:longitude":-86.481608,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"325 Sandi Ct",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086355,
         85823525
     ],
+    "wof:brand_id":1125151027,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_04xShOM1fxVbCqamC1UPDZ_35.987445_-86.481608@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582905,
-    "wof:geomhash":"1aeb555762a3fb975701b55f554fe6c6",
+    "wof:geomhash":"072f06853d4bdec2a8d1092d97f4cb35",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773065891,
-    "wof:lastmodified":1467082795,
+    "wof:lastmodified":1510699652,
     "wof:name":"Alzheimer's Association",
     "wof:parent_id":85823525,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823254379,
   "type": "Feature",
   "properties": {
+    "addr:full":"1377 Union Ave Memphis TN 38104",
+    "addr:housenumber":"1377",
+    "addr:postcode":"38104",
+    "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.015681,35.136466,-90.015681,35.136466",
     "geom:latitude":35.136466,
     "geom:longitude":-90.015681,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1377 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85846027
     ],
+    "wof:brand_id":1125150211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4HLWsnkM0z8hGqRSC9sIC6_35.136466_-90.015681@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609428,
-    "wof:geomhash":"df7cd5f70f54269e3b74daf1e3c012ec",
+    "wof:geomhash":"7494c9ee9de2748b07b5acea6c498599",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823254379,
-    "wof:lastmodified":1467083638,
+    "wof:lastmodified":1510697724,
     "wof:name":"Krystal Burgers",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806662723,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 S Watauga Ave Elizabethton TN 37643",
+    "addr:housenumber":"301",
+    "addr:postcode":"37643",
+    "addr:street":"S Watauga Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.222528,36.344758,-82.222528,36.344758",
     "geom:latitude":36.344758,
     "geom:longitude":-82.222528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 S Watauga Ave",
     "sg:city":"Elizabethton",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087053,
         85816779
     ],
+    "wof:brand_id":1125152171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Cirr79FhoeeWRF1rlB4bl_36.344758_-82.222528@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600024,
-    "wof:geomhash":"7d7bb4faa4833026e4d53adfb67eefdf",
+    "wof:geomhash":"2151198711bfb98088dcd4983815b316",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806662723,
-    "wof:lastmodified":1467083337,
+    "wof:lastmodified":1510699947,
     "wof:name":"Rehab Care Group",
     "wof:parent_id":85816779,
     "wof:placetype":"venue",

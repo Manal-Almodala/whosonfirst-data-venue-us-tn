@@ -2,9 +2,14 @@
   "id": 807125903,
   "type": "Feature",
   "properties": {
+    "addr:full":"604 Burton Dr Franklin TN 37067",
+    "addr:housenumber":"604",
+    "addr:postcode":"37067",
+    "addr:street":"Burton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.788859,35.907422,-86.788859,35.907422",
     "geom:latitude":35.907422,
     "geom:longitude":-86.788859,
@@ -29,12 +34,7 @@
     ],
     "sg:website":"www.rccsnashville.com",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_37GAWqMq5mfUB2TfHEUXiQ_35.907422_-86.788859@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462604009,
     "wof:geomhash":"0e7aa472c05245a74d60d35e9088f185",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":807125903
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807125903,
-    "wof:lastmodified":1467083465,
+    "wof:lastmodified":1491924952,
     "wof:name":"Respiratory Care Consulting",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

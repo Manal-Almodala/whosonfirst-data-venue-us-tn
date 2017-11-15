@@ -2,14 +2,20 @@
   "id": 790210487,
   "type": "Feature",
   "properties": {
+    "addr:full":"2021 Mallory Ln Franklin TN 37067",
+    "addr:housenumber":"2021",
+    "addr:postcode":"37067",
+    "addr:street":"Mallory Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818278,35.95118,-86.818278,35.95118",
     "geom:latitude":35.95118,
     "geom:longitude":-86.818278,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2021 Mallory Ln",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102086337,
         85808771
     ],
+    "wof:brand_id":1125159663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CueYORFXTk4R6fj9xjlax_35.951180_-86.818278@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594031,
-    "wof:geomhash":"cfbcf0fdc734fd0437c8b6ca62b787d6",
+    "wof:geomhash":"b0ad55162b4886a893d3c2a4a7ce5746",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790210487,
-    "wof:lastmodified":1467083146,
+    "wof:lastmodified":1510694926,
     "wof:name":"Relax The Back Store",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",

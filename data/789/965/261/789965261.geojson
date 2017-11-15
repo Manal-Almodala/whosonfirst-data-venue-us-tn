@@ -2,14 +2,20 @@
   "id": 789965261,
   "type": "Feature",
   "properties": {
+    "addr:full":"1737 Old Jacksboro Hwy La Follette TN 37766",
+    "addr:housenumber":"1737",
+    "addr:postcode":"37766",
+    "addr:street":"Old Jacksboro Hwy La Follette",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.150969,36.353786,-84.150969,36.353786",
     "geom:latitude":36.353786,
     "geom:longitude":-84.150969,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1737 Old Jacksboro Hwy",
     "sg:city":"La Follette",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086391,
         85813787
     ],
+    "wof:brand_id":1125155501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0PMxoq7NO2ufI6LFxZAlrX_36.353786_-84.150969@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592040,
-    "wof:geomhash":"f8ab9b7197d3480b214116f93ac93a3e",
+    "wof:geomhash":"207beff1f6314619e7ccc83096b30c82",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":789965261,
-    "wof:lastmodified":1467083088,
+    "wof:lastmodified":1510696758,
     "wof:name":"Hillcrest Baptist Church",
     "wof:parent_id":85813787,
     "wof:placetype":"venue",

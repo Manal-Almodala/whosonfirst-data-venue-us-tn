@@ -2,14 +2,20 @@
   "id": 806932363,
   "type": "Feature",
   "properties": {
+    "addr:full":"8155 Savannah Way Germantown TN 38138",
+    "addr:housenumber":"8155",
+    "addr:postcode":"38138",
+    "addr:street":"Savannah Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.790994,35.069075,-89.790994,35.069075",
     "geom:latitude":35.069075,
     "geom:longitude":-89.790994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8155 Savannah Way",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85850355,
         102087213
     ],
+    "wof:brand_id":420575385,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3YChRC95MW1XQfmf2CXRvb_35.069075_-89.790994@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602293,
-    "wof:geomhash":"30c456ed49fff2e9a7c556331f351f3f",
+    "wof:geomhash":"4157d21aabd606992e04e5c3e8696daa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":806932363,
-    "wof:lastmodified":1467083413,
+    "wof:lastmodified":1510602564,
     "wof:name":"Delta Kappa Gamma Society",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",

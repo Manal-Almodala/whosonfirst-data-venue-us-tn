@@ -2,9 +2,14 @@
   "id": 789966007,
   "type": "Feature",
   "properties": {
+    "addr:full":"1609 Callie Way Dr Franklin TN 37064",
+    "addr:housenumber":"1609",
+    "addr:postcode":"37064",
+    "addr:street":"Callie Way Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.849719,35.826868,-86.849719,35.826868",
     "geom:latitude":35.826868,
     "geom:longitude":-86.849719,
@@ -29,12 +34,7 @@
         "promotional"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Bp3nIkU5y4JEVigkDc2PL_35.826868_-86.849719@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462592047,
     "wof:geomhash":"e69eb20935e65cad71ee9c7d2bb65523",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":789966007
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":789966007,
-    "wof:lastmodified":1467083088,
+    "wof:lastmodified":1491930834,
     "wof:name":"Crown West Group Inc",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806845985,
   "type": "Feature",
   "properties": {
+    "addr:full":"3121 Alcoa Hwy Alcoa TN 37701",
+    "addr:housenumber":"",
+    "addr:postcode":"3121;37701",
+    "addr:street":"Alcoa Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.975904,35.826845,-83.975904,35.826845",
     "geom:latitude":35.826845,
     "geom:longitude":-83.975904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3121 Alcoa Hwy",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087017,
         85819017
     ],
+    "wof:brand_id":1125152923,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3mfARGa1OMjbuOJabU3dea_35.826845_-83.975904@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601571,
-    "wof:geomhash":"58ea3da00503d302b5274a8e4eb3046f",
+    "wof:geomhash":"b9533f07ed9c3667b2d51e0c0cf314d2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806845985,
-    "wof:lastmodified":1467083389,
+    "wof:lastmodified":1510695332,
     "wof:name":"Acceptance Insurance Co",
     "wof:parent_id":85819017,
     "wof:placetype":"venue",

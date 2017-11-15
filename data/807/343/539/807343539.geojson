@@ -2,14 +2,20 @@
   "id": 807343539,
   "type": "Feature",
   "properties": {
+    "addr:full":"6431 Bonny Oaks Dr Chattanooga TN 37416",
+    "addr:housenumber":"6431",
+    "addr:postcode":"37416",
+    "addr:street":"Bonny Oaks Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.167638,35.074709,-85.167638,35.074709",
     "geom:latitude":35.074709,
     "geom:longitude":-85.167638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6431 Bonny Oaks Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         420541663
     ],
+    "wof:brand_id":1125150927,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4ROKYMFpdcT7XpwdoZic4j_35.074709_-85.167638@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606395,
-    "wof:geomhash":"d16a01c57c82395e3b81c43b4e348394",
+    "wof:geomhash":"0884a798ec418bfa6bcc0a2d80b0eba6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807343539,
-    "wof:lastmodified":1467083541,
+    "wof:lastmodified":1510694582,
     "wof:name":"American Home Patient Inc",
     "wof:parent_id":420541663,
     "wof:placetype":"venue",

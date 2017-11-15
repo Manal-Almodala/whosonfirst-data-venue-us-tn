@@ -2,14 +2,20 @@
   "id": 806752625,
   "type": "Feature",
   "properties": {
+    "addr:full":"1624 US Hwy 51 S Covington TN 38019",
+    "addr:housenumber":"1624",
+    "addr:postcode":"38019",
+    "addr:street":"Us Hwy 51 S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.663173,35.544177,-89.663173,35.544177",
     "geom:latitude":35.544177,
     "geom:longitude":-89.663173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1624 US Hwy 51 S",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125152025,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0yRKQIYVugKUr0icLZGTIa_35.544177_-89.663173@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600786,
-    "wof:geomhash":"f0523c5f76ee2d34059edec9aaccd4bf",
+    "wof:geomhash":"b6cdcac311725e522eac1ce36231e7c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":806752625,
-    "wof:lastmodified":1467083363,
+    "wof:lastmodified":1510696809,
     "wof:name":"Bancorp South Bank",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

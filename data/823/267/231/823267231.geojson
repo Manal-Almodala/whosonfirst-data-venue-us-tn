@@ -2,14 +2,20 @@
   "id": 823267231,
   "type": "Feature",
   "properties": {
+    "addr:full":"2267 Gallatin Pike Nashville TN 37216",
+    "addr:housenumber":"2267",
+    "addr:postcode":"37216",
+    "addr:street":"Gallatin Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.724716,36.234299,-86.724716,36.234299",
     "geom:latitude":36.234299,
     "geom:longitude":-86.724716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2267 Gallatin Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102087061,
         85834867
     ],
+    "wof:brand_id":1125152195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5oX1OMpIhqyB4gVLeHG8EN_36.234299_-86.724716@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609798,
-    "wof:geomhash":"88631612b03ae09b4e2c29ad304a612a",
+    "wof:geomhash":"706b4fb22d3bf93234ce8adb5baa5655",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":823267231,
-    "wof:lastmodified":1467083651,
+    "wof:lastmodified":1510697275,
     "wof:name":"Cookies By Design",
     "wof:parent_id":85834867,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806400901,
   "type": "Feature",
   "properties": {
+    "addr:full":"269 Cusick Rd Alcoa TN 37701",
+    "addr:housenumber":"269",
+    "addr:postcode":"37701",
+    "addr:street":"Cusick Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.980211,35.813425,-83.980211,35.813425",
     "geom:latitude":35.813425,
     "geom:longitude":-83.980211,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"269 Cusick Rd",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087017,
         85819017
     ],
+    "wof:brand_id":1125154275,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OrZIQoPwbTC0OMd9mNfiL_35.813425_-83.980211@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597846,
-    "wof:geomhash":"9f2c2b66bf1a5792b02de4d1da864664",
+    "wof:geomhash":"83f022982ad5683a2d27dcc53437891e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806400901,
-    "wof:lastmodified":1467083265,
+    "wof:lastmodified":1510695875,
     "wof:name":"Alamo Rent-A-Car LLC",
     "wof:parent_id":85819017,
     "wof:placetype":"venue",

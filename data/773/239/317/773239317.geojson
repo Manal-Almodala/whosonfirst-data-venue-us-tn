@@ -2,14 +2,20 @@
   "id": 773239317,
   "type": "Feature",
   "properties": {
+    "addr:full":"6801 Maynardville Pike Knoxville TN 37918",
+    "addr:housenumber":"6801",
+    "addr:postcode":"37918",
+    "addr:street":"Maynardville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.927485,36.070547,-83.927485,36.070547",
     "geom:latitude":36.070547,
     "geom:longitude":-83.927485,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6801 Maynardville Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086455,
         85820307
     ],
+    "wof:brand_id":1125159249,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5XQo1c7EbOICywFyQxGicv_36.070547_-83.927485@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584211,
-    "wof:geomhash":"549540f6b4bd5d5b8cb28d461ab91eb7",
+    "wof:geomhash":"4774ca3b4b552df670dc0be19352f996",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773239317,
-    "wof:lastmodified":1467082842,
+    "wof:lastmodified":1510693878,
     "wof:name":"First Tennessee",
     "wof:parent_id":85820307,
     "wof:placetype":"venue",

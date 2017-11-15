@@ -2,14 +2,20 @@
   "id": 789839259,
   "type": "Feature",
   "properties": {
+    "addr:full":"70 Dogwood St Mosheim TN 37818",
+    "addr:housenumber":"70",
+    "addr:postcode":"37818",
+    "addr:street":"Dogwood St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.952319,36.197396,-82.952319,36.197396",
     "geom:latitude":36.197396,
     "geom:longitude":-82.952319,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"70 Dogwood St",
     "sg:city":"Mosheim",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85851539,
         102086377
     ],
+    "wof:brand_id":1125155297,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4Fm9A2BCJDcBaIO5JMkPMt_36.197396_-82.952319@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590941,
-    "wof:geomhash":"85107f6d07cc974441f26567a368775a",
+    "wof:geomhash":"b9ed558a1acf6191bd7ea0a473a8e696",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":789839259,
-    "wof:lastmodified":1467083057,
+    "wof:lastmodified":1510693794,
     "wof:name":"Ruritan National Corp",
     "wof:parent_id":85851539,
     "wof:placetype":"venue",

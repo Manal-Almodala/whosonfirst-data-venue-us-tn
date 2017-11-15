@@ -2,14 +2,20 @@
   "id": 823255357,
   "type": "Feature",
   "properties": {
+    "addr:full":"2857 Kirby Rd Memphis TN 38119",
+    "addr:housenumber":"2857",
+    "addr:postcode":"38119",
+    "addr:street":"Kirby Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.84252,35.070804,-89.84252,35.070804",
     "geom:latitude":35.070804,
     "geom:longitude":-89.84252,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2857 Kirby Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125150283,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0IdTltERji0i5VLHC7dCuE_35.070804_-89.842520@1299784598"
     },
     "wof:country":"US",
     "wof:created":1462609448,
-    "wof:geomhash":"2c7189b8f388f3dbcd25c91756251cfb",
+    "wof:geomhash":"a99602e2efdbcf233f4d08f0b5bf26f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":823255357,
-    "wof:lastmodified":1467083639,
+    "wof:lastmodified":1510695363,
     "wof:name":"Mcalister's Deli",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

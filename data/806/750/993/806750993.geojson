@@ -2,9 +2,14 @@
   "id": 806750993,
   "type": "Feature",
   "properties": {
+    "addr:full":"205 Portland Rd White House TN 37188",
+    "addr:housenumber":"205",
+    "addr:postcode":"37188",
+    "addr:street":"Portland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.648678,36.470182,-86.648678,36.470182",
     "geom:latitude":36.470182,
     "geom:longitude":-86.648678,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723169,
         102086357,
@@ -43,6 +49,7 @@
     "wof:geomhash":"477d7985819d7b35f267498176cdaaf4",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086357,
             "locality_id":101723169,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806750993,
-    "wof:lastmodified":1467083363,
+    "wof:lastmodified":1491939212,
     "wof:name":"Anderson Plumbing & Septic Rep",
     "wof:parent_id":85825691,
     "wof:placetype":"venue",

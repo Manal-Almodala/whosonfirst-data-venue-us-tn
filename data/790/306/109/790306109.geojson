@@ -2,14 +2,20 @@
   "id": 790306109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1915 Murfreesboro Pike Nashville TN 37217",
+    "addr:housenumber":"1915",
+    "addr:postcode":"37217",
+    "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.657414,36.097224,-86.657414,36.097224",
     "geom:latitude":36.097224,
     "geom:longitude":-86.657414,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1915 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85804275
     ],
+    "wof:brand_id":1125152741,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6SOMhcywab3eZ8kEUW0M97_36.097224_-86.657414@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594811,
-    "wof:geomhash":"33819c4e8a52d9bee0e1d7fe31ec6892",
+    "wof:geomhash":"722b42b697df30b876c8dce3ba4fb842",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790306109,
-    "wof:lastmodified":1467083168,
+    "wof:lastmodified":1510613103,
     "wof:name":"Speedway Superamerica LLC",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",

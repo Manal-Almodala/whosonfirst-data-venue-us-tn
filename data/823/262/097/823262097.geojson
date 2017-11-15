@@ -2,9 +2,14 @@
   "id": 823262097,
   "type": "Feature",
   "properties": {
+    "addr:full":"4152 Arno Rd Franklin TN 37064",
+    "addr:housenumber":"4152",
+    "addr:postcode":"37064",
+    "addr:street":"Arno Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.789411,35.889001,-86.789411,35.889001",
     "geom:latitude":35.889001,
     "geom:longitude":-86.789411,
@@ -29,12 +34,7 @@
         "supply"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cQOoDmk1YOzGVpAztrNiI_35.889001_-86.789411@1303262736"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462609600,
     "wof:geomhash":"5cc160dc10cca66587665aa1c614b462",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":823262097
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":823262097,
-    "wof:lastmodified":1467083644,
+    "wof:lastmodified":1491924950,
     "wof:name":"That Dad Sam",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

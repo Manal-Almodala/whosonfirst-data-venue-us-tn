@@ -2,14 +2,20 @@
   "id": 807289681,
   "type": "Feature",
   "properties": {
+    "addr:full":"86 White Bridge Pike Nashville TN 37205",
+    "addr:housenumber":"86",
+    "addr:postcode":"37205",
+    "addr:street":"White Bridge Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.856689,36.130888,-86.856689,36.130888",
     "geom:latitude":36.130888,
     "geom:longitude":-86.856689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"86 White Bridge Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85855987
     ],
+    "wof:brand_id":1125155949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0UJJ7fSEIC5pd1T0s1Q321_36.130888_-86.856689@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605743,
-    "wof:geomhash":"e60e11dbd2cb282c7670ede167a354df",
+    "wof:geomhash":"69d12e84262773d5441fa0da741297ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807289681,
-    "wof:lastmodified":1467083520,
+    "wof:lastmodified":1510699784,
     "wof:name":"Mattress King",
     "wof:parent_id":85855987,
     "wof:placetype":"venue",

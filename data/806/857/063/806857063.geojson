@@ -2,14 +2,20 @@
   "id": 806857063,
   "type": "Feature",
   "properties": {
+    "addr:full":"6181 Enterprise Park Dr Chattanooga TN 37416",
+    "addr:housenumber":"6181",
+    "addr:postcode":"37416",
+    "addr:street":"Enterprise Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.176703,35.068754,-85.176703,35.068754",
     "geom:latitude":35.068754,
     "geom:longitude":-85.176703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6181 Enterprise Park Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         420541653
     ],
+    "wof:brand_id":420575467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2niYuxPk4H7FeGBcb3v5Oy_35.068754_-85.176703@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601664,
-    "wof:geomhash":"3fa3a9b98cf4919664a94640d7faa435",
+    "wof:geomhash":"9cbee4b3c9fa0b34dea0a5b98dc346f2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806857063,
-    "wof:lastmodified":1467083393,
+    "wof:lastmodified":1510601963,
     "wof:name":"Frito-Lay Inc",
     "wof:parent_id":420541653,
     "wof:placetype":"venue",

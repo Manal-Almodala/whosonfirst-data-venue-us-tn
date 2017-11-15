@@ -2,14 +2,20 @@
   "id": 806680549,
   "type": "Feature",
   "properties": {
+    "addr:full":"2183 Monroe Ave Memphis TN 38104",
+    "addr:housenumber":"2183",
+    "addr:postcode":"38104",
+    "addr:street":"Monroe Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.989209,35.13519,-89.989209,35.13519",
     "geom:latitude":35.13519,
     "geom:longitude":-89.989209,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2183 Monroe Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         85867195
     ],
+    "wof:brand_id":1125150487,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7UHnf4GkWB8gTOLf4U3Viy_35.135190_-89.989209@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600175,
-    "wof:geomhash":"c11bb2d9cc3310f07496cc902c425511",
+    "wof:geomhash":"2a2921a89b86f8c96e13f321fab87a7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806680549,
-    "wof:lastmodified":1467083343,
+    "wof:lastmodified":1510699989,
     "wof:name":"Furniture Medic Inc",
     "wof:parent_id":85867195,
     "wof:placetype":"venue",

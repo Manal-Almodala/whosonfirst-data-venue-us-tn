@@ -2,14 +2,20 @@
   "id": 773287627,
   "type": "Feature",
   "properties": {
+    "addr:full":"1661 Parkway Pigeon Forge TN 37862",
+    "addr:housenumber":"1661",
+    "addr:postcode":"37862",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.57313,35.832142,-83.57313,35.832142",
     "geom:latitude":35.832142,
     "geom:longitude":-83.57313,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1661 Parkway",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086245,
         85841771
     ],
+    "wof:brand_id":1125150895,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4lGkikR7NePMsc0kP3r8Au_35.832142_-83.573130@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584581,
-    "wof:geomhash":"a59029043a9d8ce3657628f5ae05588d",
+    "wof:geomhash":"a6ea5c540a224c70d7cc4dd823f5e1a6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773287627,
-    "wof:lastmodified":1467082857,
+    "wof:lastmodified":1510696670,
     "wof:name":"Citizens National Bank",
     "wof:parent_id":85841771,
     "wof:placetype":"venue",

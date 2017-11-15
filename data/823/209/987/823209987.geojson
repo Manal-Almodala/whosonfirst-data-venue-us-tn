@@ -2,14 +2,20 @@
   "id": 823209987,
   "type": "Feature",
   "properties": {
+    "addr:full":"400 Ebenezer Rd Knoxville TN 37923",
+    "addr:housenumber":"400",
+    "addr:postcode":"37923",
+    "addr:street":"Ebenezer Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.072758,35.904447,-84.072758,35.904447",
     "geom:latitude":35.904447,
     "geom:longitude":-84.072758,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"400 Ebenezer Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85810021
     ],
+    "wof:brand_id":420575299,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Fzt99Wo4bkM4GNwtBwckF_35.904447_-84.072758@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462608531,
-    "wof:geomhash":"edcfb366911fed91e56a88822e1ddeea",
+    "wof:geomhash":"146bd6a7702e3623875638977ab2f379",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":823209987,
-    "wof:lastmodified":1467083607,
+    "wof:lastmodified":1510602398,
     "wof:name":"Ameriprise Financial",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",

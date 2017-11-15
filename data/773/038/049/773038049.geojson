@@ -2,14 +2,20 @@
   "id": 773038049,
   "type": "Feature",
   "properties": {
+    "addr:full":"655 Parkway Sevierville TN 37862",
+    "addr:housenumber":"655",
+    "addr:postcode":"37862",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.566567,35.859594,-83.566567,35.859594",
     "geom:latitude":35.859594,
     "geom:longitude":-83.566567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"655 Parkway",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086245,
         85841771
     ],
+    "wof:brand_id":1125150071,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Quty9au6crB1Y2NrnJliC_35.859594_-83.566567@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582644,
-    "wof:geomhash":"846e30f3b39acebdf28b694c3b50d650",
+    "wof:geomhash":"72e4120f3b6da7fab4c3d2b644ed86f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":773038049,
-    "wof:lastmodified":1467082786,
+    "wof:lastmodified":1510693702,
     "wof:name":"Belk",
     "wof:parent_id":85841771,
     "wof:placetype":"venue",

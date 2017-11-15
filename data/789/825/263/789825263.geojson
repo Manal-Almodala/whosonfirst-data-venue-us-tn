@@ -2,14 +2,20 @@
   "id": 789825263,
   "type": "Feature",
   "properties": {
+    "addr:full":"252 River Rock Blvd Murfreesboro TN 37128",
+    "addr:housenumber":"252",
+    "addr:postcode":"37128",
+    "addr:street":"River Rock Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.43626,35.845531,-86.43626,35.845531",
     "geom:latitude":35.845531,
     "geom:longitude":-86.43626,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"252 River Rock Blvd",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125157801,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6r0DStUB8BTWD5PPY5hgW6_35.845531_-86.436260@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462590834,
-    "wof:geomhash":"f0152ba2c93f605773388dbffb594ff6",
+    "wof:geomhash":"b82e511965916ddcf27a38dc6036c96f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":789825263,
-    "wof:lastmodified":1467083054,
+    "wof:lastmodified":1510694858,
     "wof:name":"Carter's Childrenswear",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823229531,
   "type": "Feature",
   "properties": {
+    "addr:full":"2200 Lovell Rd Knoxville TN 37932",
+    "addr:housenumber":"2200",
+    "addr:postcode":"37932",
+    "addr:street":"Lovell Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.127922,35.947399,-84.127922,35.947399",
     "geom:latitude":35.947399,
     "geom:longitude":-84.127922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2200 Lovell Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":1125153617,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FcqrHPSvM6RnGBcz7VQ1v_35.947399_-84.127900@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462608943,
-    "wof:geomhash":"885deb47d8a0d3aee2c47b860bc36526",
+    "wof:geomhash":"22f4e446bc59b77f414f20aff506c699",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,7 +67,7 @@
         }
     ],
     "wof:id":823229531,
-    "wof:lastmodified":1467083621,
+    "wof:lastmodified":1510697971,
     "wof:name":"John Deere Landscapes",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

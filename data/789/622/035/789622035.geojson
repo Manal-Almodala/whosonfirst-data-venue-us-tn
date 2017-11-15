@@ -2,6 +2,10 @@
   "id": 789622035,
   "type": "Feature",
   "properties": {
+    "addr:full":"4711 Dayton Blvd Chattanooga TN 37415",
+    "addr:housenumber":"4711",
+    "addr:postcode":"37415",
+    "addr:street":"Dayton Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":789622035,
-    "wof:lastmodified":1467083006,
+    "wof:lastmodified":1472645083,
     "wof:name":"Advance Auto Parts Inc",
     "wof:parent_id":420541607,
     "wof:placetype":"venue",

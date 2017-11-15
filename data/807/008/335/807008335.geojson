@@ -2,14 +2,20 @@
   "id": 807008335,
   "type": "Feature",
   "properties": {
+    "addr:full":"404 E Broad St Cookeville TN 38501",
+    "addr:housenumber":"404",
+    "addr:postcode":"38501",
+    "addr:street":"E Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.499031,36.16276,-85.499031,36.16276",
     "geom:latitude":36.16276,
     "geom:longitude":-85.499031,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"404 E Broad St",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086339,
         85852063
     ],
+    "wof:brand_id":1125152539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6xwTkOGpltO3VRjYfbum5B_36.162760_-85.499031@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602930,
-    "wof:geomhash":"8f20e40384d8d2106be0d4bdd65b20c7",
+    "wof:geomhash":"b83c7ebbc52aee4d0c8ad1c377a8b21a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807008335,
-    "wof:lastmodified":1467083434,
+    "wof:lastmodified":1510696764,
     "wof:name":"New England Financial",
     "wof:parent_id":85852063,
     "wof:placetype":"venue",

@@ -2,6 +2,10 @@
   "id": 773314825,
   "type": "Feature",
   "properties": {
+    "addr:full":"2901 John A Merritt Blvd Nashville TN 37209",
+    "addr:housenumber":"2901",
+    "addr:postcode":"37209",
+    "addr:street":"John;Merritt Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":773314825,
-    "wof:lastmodified":1467082866,
+    "wof:lastmodified":1472645845,
     "wof:name":"Hadley Park Towers",
     "wof:parent_id":85893459,
     "wof:placetype":"venue",

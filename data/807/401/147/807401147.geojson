@@ -2,14 +2,20 @@
   "id": 807401147,
   "type": "Feature",
   "properties": {
+    "addr:full":"322 Main St Baxter TN 38544",
+    "addr:housenumber":"322",
+    "addr:postcode":"38544",
+    "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.641732,36.154644,-85.641732,36.154644",
     "geom:latitude":36.154644,
     "geom:longitude":-85.641732,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"322 Main St",
     "sg:city":"Baxter",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086339,
         85850709
     ],
+    "wof:brand_id":420575407,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4aHOZPYlULRqBU59zmCZa5_36.154644_-85.641732@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607304,
-    "wof:geomhash":"2bf70c109ddcedc356551273159f3dd3",
+    "wof:geomhash":"0aaeb303076b53f745567093b32e20ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":807401147,
-    "wof:lastmodified":1467083568,
+    "wof:lastmodified":1510602594,
     "wof:name":"Regions Bank",
     "wof:parent_id":85850709,
     "wof:placetype":"venue",

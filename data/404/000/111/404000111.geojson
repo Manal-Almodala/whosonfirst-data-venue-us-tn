@@ -2,9 +2,14 @@
   "id": 404000111,
   "type": "Feature",
   "properties": {
+    "addr:full":"624 Grassmere Park Nashville TN 37211",
+    "addr:housenumber":"624",
+    "addr:postcode":"37211",
+    "addr:street":"Grassmere Park",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.748582,36.088615,-86.748582,36.088615",
     "geom:latitude":36.088615,
     "geom:longitude":-86.748582,
@@ -26,6 +31,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723183,
         102087061,
@@ -39,7 +45,7 @@
     "wof:geomhash":"9761261682f051c1fdaf9e4dc49cff95",
     "wof:hierarchy":[
         {
-            "continent_id":-1,
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102087061,
             "locality_id":101723183,
@@ -49,7 +55,7 @@
         }
     ],
     "wof:id":404000111,
-    "wof:lastmodified":1467082779,
+    "wof:lastmodified":1491922376,
     "wof:name":"Enterprise Network LLC",
     "wof:parent_id":85871393,
     "wof:placetype":"venue",

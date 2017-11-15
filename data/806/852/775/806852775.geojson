@@ -2,14 +2,20 @@
   "id": 806852775,
   "type": "Feature",
   "properties": {
+    "addr:full":"206 Woodmere Mall Crossville TN 38555",
+    "addr:housenumber":"206",
+    "addr:postcode":"38555",
+    "addr:street":"Woodmere Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.030133,35.956981,-85.030133,35.956981",
     "geom:latitude":35.956981,
     "geom:longitude":-85.030133,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"206 Woodmere Mall",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102086961,
         85831809
     ],
+    "wof:brand_id":1125154289,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2ZVR21IEWfvhUW1elJoaYm_35.956981_-85.030133@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601631,
-    "wof:geomhash":"474a23fa81adb9524a812897b4a6021f",
+    "wof:geomhash":"6febda26ccb4c3798a6479098c903fb7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806852775,
-    "wof:lastmodified":1467083391,
+    "wof:lastmodified":1510693860,
     "wof:name":"Charter Cmmnctons Holdings LLC",
     "wof:parent_id":85831809,
     "wof:placetype":"venue",

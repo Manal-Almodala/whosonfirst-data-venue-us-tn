@@ -2,14 +2,20 @@
   "id": 806385269,
   "type": "Feature",
   "properties": {
+    "addr:full":"611 Parkway Sevierville TN 37862",
+    "addr:housenumber":"611",
+    "addr:postcode":"37862",
+    "addr:street":"Parkway",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.566047,35.860175,-83.566047,35.860175",
     "geom:latitude":35.860175,
     "geom:longitude":-83.566047,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"611 Parkway",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086245,
         85841771
     ],
+    "wof:brand_id":1125156047,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10vO7Q2mslS3I1MwkOAVn1_35.860175_-83.566047@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597720,
-    "wof:geomhash":"2dca2d9b5b254ec80a782fe564871c65",
+    "wof:geomhash":"c12a6d75ab4c690b57eb7f0f4e8f25b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":806385269,
-    "wof:lastmodified":1467083260,
+    "wof:lastmodified":1510695018,
     "wof:name":"Book Warehouse",
     "wof:parent_id":85841771,
     "wof:placetype":"venue",

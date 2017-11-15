@@ -2,14 +2,20 @@
   "id": 807375347,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Prentice Ln Signal Mountain TN 37377",
+    "addr:housenumber":"10",
+    "addr:postcode":"37377",
+    "addr:street":"Prentice Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.348303,35.148674,-85.348303,35.148674",
     "geom:latitude":35.148674,
     "geom:longitude":-85.348303,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Prentice Ln",
     "sg:city":"Signal Mountain",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087185,
         85852285
     ],
+    "wof:brand_id":1125155265,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QWSUYjb9ikXWyUdPxEkJR_35.148674_-85.348303@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606864,
-    "wof:geomhash":"7ee21f3a87ea2dc946af92b446696f3b",
+    "wof:geomhash":"ddcf4252f7a4f8616fb0a73b96a85dec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":807375347,
-    "wof:lastmodified":1467083556,
+    "wof:lastmodified":1510699739,
     "wof:name":"Juice Plus",
     "wof:parent_id":85852285,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823268495,
   "type": "Feature",
   "properties": {
+    "addr:full":"161 Stuart Rd NE Cleveland TN 37312",
+    "addr:housenumber":"161",
+    "addr:postcode":"37312",
+    "addr:street":"Stuart Rd Ne",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.844305,35.199831,-84.844305,35.199831",
     "geom:latitude":35.199831,
     "geom:longitude":-84.844305,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"161 Stuart Rd NE",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087043,
         85808527
     ],
+    "wof:brand_id":1125150221,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7clE6BfG5oHpez9yf0qsSr_35.199831_-84.844305@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609850,
-    "wof:geomhash":"f24c4a5af161acfbfa06cc514bf38772",
+    "wof:geomhash":"4919709b69fb9410fae3d9de05524f25",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823268495,
-    "wof:lastmodified":1467083652,
+    "wof:lastmodified":1510699322,
     "wof:name":"Natural Nails",
     "wof:parent_id":85808527,
     "wof:placetype":"venue",

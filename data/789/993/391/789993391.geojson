@@ -2,14 +2,20 @@
   "id": 789993391,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Weatherford Sq Jackson TN 38305",
+    "addr:housenumber":"13",
+    "addr:postcode":"38305",
+    "addr:street":"Weatherford Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.840076,35.666951,-88.840076,35.666951",
     "geom:latitude":35.666951,
     "geom:longitude":-88.840076,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13 Weatherford Sq",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125152295,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rgGZqSFe2LTLeIi8isMxn_35.666951_-88.840076@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462592275,
-    "wof:geomhash":"78e51343e28a64505663e679411d1073",
+    "wof:geomhash":"ffd1d73a5bfeed658a951e8c6e588582",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789993391,
-    "wof:lastmodified":1467083095,
+    "wof:lastmodified":1510695694,
     "wof:name":"NCR",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

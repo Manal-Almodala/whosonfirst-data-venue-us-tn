@@ -2,14 +2,20 @@
   "id": 823273165,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 RUTLEDGE RD KINGSPORT TN 37663",
+    "addr:housenumber":"250",
+    "addr:postcode":"37663",
+    "addr:street":"Rutledge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.453308,36.466889,-82.453308,36.466889",
     "geom:latitude":36.466889,
     "geom:longitude":-82.453308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 RUTLEDGE RD",
     "sg:city":"KINGSPORT",
     "sg:classifiers":[
@@ -54,13 +60,14 @@
         102086471,
         85826065
     ],
+    "wof:brand_id":420575183,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3XB7aixPdDn37FSxVNow7t_36.466889_-82.453308@1303262739"
     },
     "wof:country":"US",
     "wof:created":1462610037,
-    "wof:geomhash":"078e4cae4e8c52a9f6163902c049ab5d",
+    "wof:geomhash":"98195b84452f73f07108648ed8a4d50b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -73,7 +80,7 @@
         }
     ],
     "wof:id":823273165,
-    "wof:lastmodified":1467083659,
+    "wof:lastmodified":1510602863,
     "wof:name":"ServiceMaster Clean",
     "wof:parent_id":85826065,
     "wof:placetype":"venue",

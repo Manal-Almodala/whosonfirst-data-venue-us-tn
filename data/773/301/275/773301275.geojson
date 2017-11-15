@@ -2,14 +2,20 @@
   "id": 773301275,
   "type": "Feature",
   "properties": {
+    "addr:full":"163 Mall Circle Dr Murfreesboro TN 37129",
+    "addr:housenumber":"163",
+    "addr:postcode":"37129",
+    "addr:street":"Mall Circle Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.421138,35.847214,-86.421138,35.847214",
     "geom:latitude":35.847214,
     "geom:longitude":-86.421138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"163 Mall Circle Dr",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086355,
         85821645
     ],
+    "wof:brand_id":1125155949,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58P8H77M5un6ELgSxnXMg7_35.847214_-86.421138@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584693,
-    "wof:geomhash":"3c1065ca9370c59ee6ecf2e49881641a",
+    "wof:geomhash":"07d7154bc0cddc4f8e1888dac45090a1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773301275,
-    "wof:lastmodified":1467082862,
+    "wof:lastmodified":1510699784,
     "wof:name":"Mattress King",
     "wof:parent_id":85821645,
     "wof:placetype":"venue",

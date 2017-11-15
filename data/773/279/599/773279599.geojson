@@ -2,14 +2,20 @@
   "id": 773279599,
   "type": "Feature",
   "properties": {
+    "addr:full":"2010 N Wright Rd Alcoa TN 37701",
+    "addr:housenumber":"2010",
+    "addr:postcode":"37701",
+    "addr:street":"N Wright Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.976511,35.805913,-83.976511,35.805913",
     "geom:latitude":35.805913,
     "geom:longitude":-83.976511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2010 N Wright Rd",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087017,
         420541383
     ],
+    "wof:brand_id":1125155307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3rUbRBhlOyBPmSQYBidHHo_35.805913_-83.976511@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584512,
-    "wof:geomhash":"c86de444f0fc04cd581395740f8427e1",
+    "wof:geomhash":"5c0798969f6951d9619f8aa148915914",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":773279599,
-    "wof:lastmodified":1467082855,
+    "wof:lastmodified":1510699917,
     "wof:name":"Shoney's",
     "wof:parent_id":420541383,
     "wof:placetype":"venue",

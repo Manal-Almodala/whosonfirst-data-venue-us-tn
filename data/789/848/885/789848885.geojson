@@ -2,14 +2,20 @@
   "id": 789848885,
   "type": "Feature",
   "properties": {
+    "addr:full":"1114 N Central St Knoxville TN 37917",
+    "addr:housenumber":"1114",
+    "addr:postcode":"37917",
+    "addr:street":"N Central St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.929222,35.981551,-83.929222,35.981551",
     "geom:latitude":35.981551,
     "geom:longitude":-83.929222,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1114 N Central St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086455,
         85878559
     ],
+    "wof:brand_id":1125157663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2S7dyjH96BSKwve6SWdxen_35.981551_-83.929222@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591019,
-    "wof:geomhash":"5233abf3470741439991330a920ba203",
+    "wof:geomhash":"eabb980ea07b3e367727489cdabe11d2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":789848885,
-    "wof:lastmodified":1467083060,
+    "wof:lastmodified":1510698772,
     "wof:name":"M & M Enterprises",
     "wof:parent_id":85878559,
     "wof:placetype":"venue",

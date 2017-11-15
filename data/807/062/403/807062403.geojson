@@ -2,14 +2,20 @@
   "id": 807062403,
   "type": "Feature",
   "properties": {
+    "addr:full":"2214 12th Ave S Nashville TN 37204",
+    "addr:housenumber":"2214",
+    "addr:postcode":"37204",
+    "addr:street":"12Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.789004,36.12815,-86.789004,36.12815",
     "geom:latitude":36.12815,
     "geom:longitude":-86.789004,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2214 12th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85893439
     ],
+    "wof:brand_id":1125150907,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7mW3Vhtfgw7AiDSXtTzWYt_36.128150_-86.789004@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603389,
-    "wof:geomhash":"f6aa52331d7aa15e1b96bb45eeaee802",
+    "wof:geomhash":"3480e86db44bd63d330939a30052c48d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":807062403,
-    "wof:lastmodified":1467083449,
+    "wof:lastmodified":1510696730,
     "wof:name":"Tabernacle Baptist Church",
     "wof:parent_id":85893439,
     "wof:placetype":"venue",

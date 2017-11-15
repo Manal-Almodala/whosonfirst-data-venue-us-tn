@@ -2,9 +2,14 @@
   "id": 806599699,
   "type": "Feature",
   "properties": {
+    "addr:full":"1061 Lewisburg Pike Franklin TN 37064",
+    "addr:housenumber":"1061",
+    "addr:postcode":"37064",
+    "addr:street":"Lewisburg Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.848103,35.880441,-86.848103,35.880441",
     "geom:latitude":35.880441,
     "geom:longitude":-86.848103,
@@ -25,12 +30,7 @@
     "sg:province":"TN",
     "sg:website":"www.fssd.org",
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85830149,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2B05qgpFxWCNLtnwth1ZWR_35.880441_-86.848103@1294204733"
@@ -38,17 +38,9 @@
     "wof:country":"US",
     "wof:created":1462599485,
     "wof:geomhash":"e14edc2b6b41dbe9aeda3de33877bb60",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85830149,
-            "region_id":85688701,
-            "venue_id":806599699
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":806599699,
-    "wof:lastmodified":1467083320,
+    "wof:lastmodified":1491930842,
     "wof:name":"Moore Elementary School",
     "wof:parent_id":85830149,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 806931221,
   "type": "Feature",
   "properties": {
+    "addr:full":"428 Lafayette Rd Clarksville TN 37042",
+    "addr:housenumber":"428",
+    "addr:postcode":"37042",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.40827,36.560349,-87.40827,36.560349",
     "geom:latitude":36.560349,
     "geom:longitude":-87.40827,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"428 Lafayette Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         420541975
     ],
+    "wof:brand_id":1125150947,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CmvsF6hJFCDgE1AC1dvni_36.560349_-87.408270@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602285,
-    "wof:geomhash":"ea3e8975e50612762520449f5cd3e5ef",
+    "wof:geomhash":"ecc3649642a4879ee17e3338424aef9c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806931221,
-    "wof:lastmodified":1467083413,
+    "wof:lastmodified":1510693716,
     "wof:name":"Northside Baptist Church",
     "wof:parent_id":420541975,
     "wof:placetype":"venue",

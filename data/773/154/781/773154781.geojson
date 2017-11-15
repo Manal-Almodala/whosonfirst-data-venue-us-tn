@@ -2,14 +2,20 @@
   "id": 773154781,
   "type": "Feature",
   "properties": {
+    "addr:full":"5914 State Hwy 58 Harrison TN 37341",
+    "addr:housenumber":"5914",
+    "addr:postcode":"37341",
+    "addr:street":"State Hwy 58",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.128186,35.115251,-85.128186,35.115251",
     "geom:latitude":35.115251,
     "geom:longitude":-85.128186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5914 State Hwy 58",
     "sg:city":"Harrison",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85831217
     ],
+    "wof:brand_id":1125151889,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3W3Dg0jtA6Yeyjrp3QtVCP_35.115251_-85.128186@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462583556,
-    "wof:geomhash":"25edd397a1e9b98bc1410f4ed447c9b0",
+    "wof:geomhash":"f219ae19799cfc186f83051079136e13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773154781,
-    "wof:lastmodified":1467082816,
+    "wof:lastmodified":1510613129,
     "wof:name":"First Tennessee Bank",
     "wof:parent_id":85831217,
     "wof:placetype":"venue",

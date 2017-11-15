@@ -2,14 +2,20 @@
   "id": 806940959,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Powell Pl Nashville TN 37204",
+    "addr:housenumber":"103",
+    "addr:postcode":"37204",
+    "addr:street":"Powell Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.764528,36.106473,-86.764528,36.106473",
     "geom:latitude":36.106473,
     "geom:longitude":-86.764528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Powell Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087061,
         85843601
     ],
+    "wof:brand_id":1125153035,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26CBiE3ISaDPryhkTIJjoo_36.106473_-86.764528@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602369,
-    "wof:geomhash":"c4ce3ee70dc7c81cd0e11781017d655b",
+    "wof:geomhash":"9ca425cb5d7bbc3f7497b1af238f77ac",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806940959,
-    "wof:lastmodified":1467083416,
+    "wof:lastmodified":1510613162,
     "wof:name":"Lanier Worldwide Inc",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",

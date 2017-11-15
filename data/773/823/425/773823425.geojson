@@ -2,14 +2,20 @@
   "id": 773823425,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 Sherlake Ln Knoxville TN 37922",
+    "addr:housenumber":"201",
+    "addr:postcode":"37922",
+    "addr:street":"Sherlake Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.107956,35.911452,-84.107956,35.911452",
     "geom:latitude":35.911452,
     "geom:longitude":-84.107956,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 Sherlake Ln",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85803755,
         102086455
     ],
+    "wof:brand_id":1125150607,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_78MEc9QWd1da53Zby2uQ0t_35.911452_-84.107956@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588659,
-    "wof:geomhash":"5cfb376a9e55a99e3a767b14dde660e3",
+    "wof:geomhash":"41dd4eb0f1633af7fcaf25a2ed9df5c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773823425,
-    "wof:lastmodified":1467082989,
+    "wof:lastmodified":1510697769,
     "wof:name":"Kraft Foods",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 773693655,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Monument Ave Greeneville TN 37743",
+    "addr:housenumber":"121",
+    "addr:postcode":"37743",
+    "addr:street":"Monument Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.836838,36.157738,-82.836838,36.157738",
     "geom:latitude":36.157738,
     "geom:longitude":-82.836838,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 Monument Ave",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086377,
         85826147
     ],
+    "wof:brand_id":1125152177,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0Pm0do3BWykTHppKi6FL4e_36.157738_-82.836838@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587655,
-    "wof:geomhash":"16735375ae8a50099455812a9a7135ac",
+    "wof:geomhash":"8ff3b5b82d71d34764dfacc056821a26",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":773693655,
-    "wof:lastmodified":1467082957,
+    "wof:lastmodified":1510699944,
     "wof:name":"US Interior Dept",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",

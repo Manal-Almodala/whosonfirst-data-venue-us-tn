@@ -2,14 +2,20 @@
   "id": 806460055,
   "type": "Feature",
   "properties": {
+    "addr:full":"2208 Wilma Rudolph Blvd Clarksville TN 37040",
+    "addr:housenumber":"2208",
+    "addr:postcode":"37040",
+    "addr:street":"Wilma Rudolph Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.308017,36.566302,-87.308017,36.566302",
     "geom:latitude":36.566302,
     "geom:longitude":-87.308017,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2208 Wilma Rudolph Blvd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086353,
         85819931
     ],
+    "wof:brand_id":1125151017,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Gj8Uaq9NnJqAeFvf8I0Nm_36.566302_-87.308017@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598313,
-    "wof:geomhash":"e863e24046de8f175c738fc0b891afd6",
+    "wof:geomhash":"4c5878ec443660881b93e0b10eb18d31",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806460055,
-    "wof:lastmodified":1467083281,
+    "wof:lastmodified":1510693722,
     "wof:name":"PPG Porter Paints",
     "wof:parent_id":85819931,
     "wof:placetype":"venue",

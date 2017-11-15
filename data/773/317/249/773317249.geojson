@@ -2,9 +2,14 @@
   "id": 773317249,
   "type": "Feature",
   "properties": {
+    "addr:full":"4216 Pate Rd Franklin TN 37064",
+    "addr:housenumber":"4216",
+    "addr:postcode":"37064",
+    "addr:street":"Pate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.776907,35.888275,-86.776907,35.888275",
     "geom:latitude":35.888275,
     "geom:longitude":-86.776907,
@@ -27,12 +32,7 @@
         "contractor"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5uJcUruWobldS0ArG9Alqt_35.888275_-86.776907@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462584825,
     "wof:geomhash":"26a31851083655413d8473d23786e884",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":773317249
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":773317249,
-    "wof:lastmodified":1467082867,
+    "wof:lastmodified":1491924959,
     "wof:name":"Harpeth Valley AC",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

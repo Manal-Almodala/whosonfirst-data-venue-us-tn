@@ -2,14 +2,20 @@
   "id": 807265037,
   "type": "Feature",
   "properties": {
+    "addr:full":"4673 Millbranch Rd Memphis TN 38116",
+    "addr:housenumber":"4673",
+    "addr:postcode":"38116",
+    "addr:street":"Millbranch Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.007604,35.020548,-90.007604,35.020548",
     "geom:latitude":35.020548,
     "geom:longitude":-90.007604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4673 Millbranch Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087213,
         420542123
     ],
+    "wof:brand_id":420574219,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_48IhdqH7f2swAapUgDcHez_35.020548_-90.007604@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605486,
-    "wof:geomhash":"ca44e226e80f6e30e0f5b1ac82581166",
+    "wof:geomhash":"687eff994b7c8d98bf7e00e1759c5910",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807265037,
-    "wof:lastmodified":1467083511,
+    "wof:lastmodified":1510604383,
     "wof:name":"Circle K Store",
     "wof:parent_id":420542123,
     "wof:placetype":"venue",

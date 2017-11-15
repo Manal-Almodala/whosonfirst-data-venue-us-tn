@@ -2,6 +2,10 @@
   "id": 789592565,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 N Humphreys Blvd Memphis TN 38120",
+    "addr:housenumber":"100",
+    "addr:postcode":"38120",
+    "addr:street":"N Humphreys Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":789592565,
-    "wof:lastmodified":1467082999,
+    "wof:lastmodified":1472645072,
     "wof:name":"Supportive Oncology Services",
     "wof:parent_id":85844747,
     "wof:placetype":"venue",

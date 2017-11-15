@@ -2,14 +2,20 @@
   "id": 773065423,
   "type": "Feature",
   "properties": {
+    "addr:full":"360 Outlet Village Blvd Lebanon TN 37090",
+    "addr:housenumber":"360",
+    "addr:postcode":"37090",
+    "addr:street":"Outlet Village Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.303555,36.17846,-86.303555,36.17846",
     "geom:latitude":36.17846,
     "geom:longitude":-86.303555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"360 Outlet Village Blvd",
     "sg:city":"Lebanon",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102087205,
         85855429
     ],
+    "wof:brand_id":1125151971,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3qENfEQzDZFETuSqGy19rW_36.178460_-86.303555@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582896,
-    "wof:geomhash":"56b0bb9d8614e4c9206576d5ed61c8d2",
+    "wof:geomhash":"95752108c5eeb90760ccf588b7070f36",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":773065423,
-    "wof:lastmodified":1467082795,
+    "wof:lastmodified":1510695912,
     "wof:name":"Big Dog Sportswear",
     "wof:parent_id":85855429,
     "wof:placetype":"venue",

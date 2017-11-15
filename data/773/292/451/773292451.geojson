@@ -2,14 +2,20 @@
   "id": 773292451,
   "type": "Feature",
   "properties": {
+    "addr:full":"57 Hebbertsburg Rd Crab Orchard TN 37723",
+    "addr:housenumber":"57",
+    "addr:postcode":"37723",
+    "addr:street":"Hebbertsburg Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.877861,35.909988,-84.877861,35.909988",
     "geom:latitude":35.909988,
     "geom:longitude":-84.877861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"57 Hebbertsburg Rd",
     "sg:city":"Crab Orchard",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85813779,
         102086961
     ],
+    "wof:brand_id":1125154083,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_29T6eBq3wWv62rwgp9XkiP_35.909988_-84.877861@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584618,
-    "wof:geomhash":"f99955a3b906c8b2bd49245d7bbf6d51",
+    "wof:geomhash":"2d2b603a1697c6a110b7505728c0c237",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":773292451,
-    "wof:lastmodified":1467082859,
+    "wof:lastmodified":1510613292,
     "wof:name":"Second Chance",
     "wof:parent_id":85813779,
     "wof:placetype":"venue",

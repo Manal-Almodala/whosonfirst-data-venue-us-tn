@@ -2,14 +2,20 @@
   "id": 806404425,
   "type": "Feature",
   "properties": {
+    "addr:full":"725 Truxton Dr Kingsport TN 37660",
+    "addr:housenumber":"725",
+    "addr:postcode":"37660",
+    "addr:street":"Truxton Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.564589,36.563283,-82.564589,36.563283",
     "geom:latitude":36.563283,
     "geom:longitude":-82.564589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"725 Truxton Dr",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086471,
         85847837
     ],
+    "wof:brand_id":1125159517,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kXqDn1vmYapNsOnQoDIFF_36.563283_-82.564589@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597871,
-    "wof:geomhash":"895353483cf38a018dc1a61f9cc9dab6",
+    "wof:geomhash":"06967217dd49793b7284e99006256986",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806404425,
-    "wof:lastmodified":1467083266,
+    "wof:lastmodified":1510698878,
     "wof:name":"Concordia Lutheran Church",
     "wof:parent_id":85847837,
     "wof:placetype":"venue",

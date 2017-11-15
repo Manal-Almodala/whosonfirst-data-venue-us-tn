@@ -2,14 +2,20 @@
   "id": 807372169,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 5th Ave S Franklin TN 37064",
+    "addr:housenumber":"210",
+    "addr:postcode":"37064",
+    "addr:street":"5Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.870214,35.921852,-86.870214,35.921852",
     "geom:latitude":35.921852,
     "geom:longitude":-86.870214,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 5th Ave S",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102086337,
         85845733
     ],
+    "wof:brand_id":1125157663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5qD6v4ezOZJyVoujPCfkZT_35.921852_-86.870214@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462606819,
-    "wof:geomhash":"c39f46c666b7fbcc4a132ddcc6bc4622",
+    "wof:geomhash":"faca924f216634c8a8976243c49d1487",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807372169,
-    "wof:lastmodified":1467083554,
+    "wof:lastmodified":1510698772,
     "wof:name":"M & M Enterprises",
     "wof:parent_id":85845733,
     "wof:placetype":"venue",

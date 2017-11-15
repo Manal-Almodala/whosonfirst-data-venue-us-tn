@@ -2,14 +2,20 @@
   "id": 806812151,
   "type": "Feature",
   "properties": {
+    "addr:full":"7023 Old Harding Rd Nashville TN 37221",
+    "addr:housenumber":"7023",
+    "addr:postcode":"37221",
+    "addr:street":"Old Harding Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.923459,36.073638,-86.923459,36.073638",
     "geom:latitude":36.073638,
     "geom:longitude":-86.923459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7023 Old Harding Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087061,
         85854361
     ],
+    "wof:brand_id":1125157917,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0e4hYBQksMw15pSd77Coe7_36.073638_-86.923459@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601281,
-    "wof:geomhash":"69271a86a4d36596970075b5a0dc472b",
+    "wof:geomhash":"bbd8d262f014e2ff2c92e1bf4aec6dee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":806812151,
-    "wof:lastmodified":1467083380,
+    "wof:lastmodified":1510697539,
     "wof:name":"Mrs Winners Chicken & Biscuits",
     "wof:parent_id":85854361,
     "wof:placetype":"venue",

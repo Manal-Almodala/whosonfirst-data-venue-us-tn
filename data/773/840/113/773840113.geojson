@@ -2,14 +2,20 @@
   "id": 773840113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1400 Tylertown Rd Clarksville TN 37040",
+    "addr:housenumber":"1400",
+    "addr:postcode":"37040",
+    "addr:street":"Tylertown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.330465,36.637085,-87.330465,36.637085",
     "geom:latitude":36.637085,
     "geom:longitude":-87.330465,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1400 Tylertown Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         85804513
     ],
+    "wof:brand_id":1125154357,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oWV4MG2BVgbF88R0xOSxh_36.637085_-87.330465@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588817,
-    "wof:geomhash":"b21266485f4f7e1b85482a892770aea3",
+    "wof:geomhash":"82e130b473f6e2c23c569a8d7391a161",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":773840113,
-    "wof:lastmodified":1467082993,
+    "wof:lastmodified":1510604929,
     "wof:name":"Roadway Express",
     "wof:parent_id":85804513,
     "wof:placetype":"venue",

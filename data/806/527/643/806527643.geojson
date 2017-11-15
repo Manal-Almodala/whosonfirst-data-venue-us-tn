@@ -2,14 +2,20 @@
   "id": 806527643,
   "type": "Feature",
   "properties": {
+    "addr:full":"3786 Nolensville Pike Nashville TN 37211",
+    "addr:housenumber":"3786",
+    "addr:postcode":"37211",
+    "addr:street":"Nolensville Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.730424,36.08724,-86.730424,36.08724",
     "geom:latitude":36.08724,
     "geom:longitude":-86.730424,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3786 Nolensville Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102087061,
         85871393
     ],
+    "wof:brand_id":1125157179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2DTiSf2Vhbq479IjJLZifd_36.087240_-86.730424@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598851,
-    "wof:geomhash":"c85032583cde2b17dfbbbb805cea5bdb",
+    "wof:geomhash":"5ce62cce24ed1301ff34709b004161b9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":806527643,
-    "wof:lastmodified":1467083300,
+    "wof:lastmodified":1510694165,
     "wof:name":"Hair Stop",
     "wof:parent_id":85871393,
     "wof:placetype":"venue",

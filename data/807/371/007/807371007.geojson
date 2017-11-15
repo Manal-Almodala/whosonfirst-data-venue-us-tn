@@ -2,9 +2,14 @@
   "id": 807371007,
   "type": "Feature",
   "properties": {
+    "addr:full":"4434 S Carothers Rd Franklin TN 37064",
+    "addr:housenumber":"4434",
+    "addr:postcode":"37064",
+    "addr:street":"S Carothers Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.812035,35.883272,-86.812035,35.883272",
     "geom:latitude":35.883272,
     "geom:longitude":-86.812035,
@@ -27,12 +32,7 @@
         "tree"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44IMrFWdUuLaSdkvq1OQqc_35.883272_-86.812035@1294204733"
@@ -40,17 +40,9 @@
     "wof:country":"US",
     "wof:created":1462606801,
     "wof:geomhash":"1a7ac111d80ff7b1beef4ad6b3d4be78",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":807371007
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":807371007,
-    "wof:lastmodified":1467083554,
+    "wof:lastmodified":1491924955,
     "wof:name":"Dixieland Tree Svc",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

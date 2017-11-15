@@ -2,14 +2,20 @@
   "id": 807086201,
   "type": "Feature",
   "properties": {
+    "addr:full":"5050 Poplar Ave Memphis TN 38117",
+    "addr:housenumber":"5050",
+    "addr:postcode":"38117",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.894622,35.112664,-89.894622,35.112664",
     "geom:latitude":35.112664,
     "geom:longitude":-89.894622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5050 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087213,
         85870779
     ],
+    "wof:brand_id":1125155911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CbqMVOoRrqgDPbprZqEeG_35.112664_-89.894622@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462603582,
-    "wof:geomhash":"d193d0a7c7240a33bd30333be8310711",
+    "wof:geomhash":"f8c45a31bc4c72cfd58c616e65a42830",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":807086201,
-    "wof:lastmodified":1467083456,
+    "wof:lastmodified":1510699423,
     "wof:name":"Crawford & Company",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",

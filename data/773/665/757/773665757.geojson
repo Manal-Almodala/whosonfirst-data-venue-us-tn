@@ -2,14 +2,20 @@
   "id": 773665757,
   "type": "Feature",
   "properties": {
+    "addr:full":"420 Cole Dr Pigeon Forge TN 37863",
+    "addr:housenumber":"420",
+    "addr:postcode":"37863",
+    "addr:street":"Cole Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.562404,35.785429,-83.562404,35.785429",
     "geom:latitude":35.785429,
     "geom:longitude":-83.562404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"420 Cole Dr",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102086245,
         85854207
     ],
+    "wof:brand_id":1125159863,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1J9uLjhp0J4TAMwDFyU4Ta_35.785429_-83.562404@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462587438,
-    "wof:geomhash":"d511b7a0b9e270c79058d4f40dbc61d3",
+    "wof:geomhash":"ae31f43e36a15c941b1fa09b9f0928c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":773665757,
-    "wof:lastmodified":1467082950,
+    "wof:lastmodified":1510694981,
     "wof:name":"Freedom Baptist Church",
     "wof:parent_id":85854207,
     "wof:placetype":"venue",

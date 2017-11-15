@@ -2,14 +2,20 @@
   "id": 790338705,
   "type": "Feature",
   "properties": {
+    "addr:full":"2144 Gallatin Pike N Madison TN 37115",
+    "addr:housenumber":"2144",
+    "addr:postcode":"37115",
+    "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.689349,36.304302,-86.689349,36.304302",
     "geom:latitude":36.304302,
     "geom:longitude":-86.689349,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2144 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102087061,
         85817321
     ],
+    "wof:brand_id":1125153311,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3EqzWG62FMJ1BWuyuZ9u9i_36.304302_-86.689349@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595051,
-    "wof:geomhash":"bdd974ed167be5527bfdf29a9aeb2554",
+    "wof:geomhash":"fdc5215904e51fee7538472ac3538644",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":790338705,
-    "wof:lastmodified":1467083176,
+    "wof:lastmodified":1510699511,
     "wof:name":"Huntington Learning Ctr",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",

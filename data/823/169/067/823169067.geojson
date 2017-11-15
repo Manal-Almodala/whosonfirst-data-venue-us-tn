@@ -2,14 +2,20 @@
   "id": 823169067,
   "type": "Feature",
   "properties": {
+    "addr:full":"4005 Bristol Hwy Johnson City TN 37601",
+    "addr:housenumber":"4005",
+    "addr:postcode":"37601",
+    "addr:street":"Bristol Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.365717,36.381742,-82.365717,36.381742",
     "geom:latitude":36.381742,
     "geom:longitude":-82.365717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4005 Bristol Hwy",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102086335,
         85803991
     ],
+    "wof:brand_id":1125158359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4tjRuHBrTNbYjg99HjSsdW_36.381742_-82.365717@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607918,
-    "wof:geomhash":"ed04edc00e828a4cce53ef8cf42e5bc0",
+    "wof:geomhash":"202113ff3b566c3777985de6fa5e7efa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":823169067,
-    "wof:lastmodified":1467083585,
+    "wof:lastmodified":1510694186,
     "wof:name":"Mountain View Baptist Church",
     "wof:parent_id":85803991,
     "wof:placetype":"venue",

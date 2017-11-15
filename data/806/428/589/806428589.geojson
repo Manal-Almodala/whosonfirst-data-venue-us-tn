@@ -2,14 +2,20 @@
   "id": 806428589,
   "type": "Feature",
   "properties": {
+    "addr:full":"7850 Poplar Ave Germantown TN 38138",
+    "addr:housenumber":"7850",
+    "addr:postcode":"38138",
+    "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.801478,35.089234,-89.801478,35.089234",
     "geom:latitude":35.089234,
     "geom:longitude":-89.801478,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7850 Poplar Ave",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -43,13 +49,14 @@
         102087213,
         85870787
     ],
+    "wof:brand_id":1125150131,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_01kgJ0B0ZXG5QWFLWCgMrZ_35.089234_-89.801478@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462598067,
-    "wof:geomhash":"61ec9bfc2880daf94e53b1d8a32b2df8",
+    "wof:geomhash":"2a045f92318f7c8e8c82b2d1f394ad85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":806428589,
-    "wof:lastmodified":1467083272,
+    "wof:lastmodified":1510696876,
     "wof:name":"Leslies Swimming Pool Supplies",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",

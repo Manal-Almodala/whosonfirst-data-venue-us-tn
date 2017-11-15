@@ -2,14 +2,20 @@
   "id": 790516655,
   "type": "Feature",
   "properties": {
+    "addr:full":"4617 Brainerd Rd Chattanooga TN 37411",
+    "addr:housenumber":"4617",
+    "addr:postcode":"37411",
+    "addr:street":"Brainerd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.231119,35.014261,-85.231119,35.014261",
     "geom:latitude":35.014261,
     "geom:longitude":-85.231119,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4617 Brainerd Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087185,
         85807051
     ],
+    "wof:brand_id":1125157351,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_12KtOrcOF4a6pQTz3Tfs00_35.014261_-85.231119@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596502,
-    "wof:geomhash":"8ed61da70e607c3b958a6a9b04c0a9da",
+    "wof:geomhash":"1a302c3e176a9058ca4156c53385455e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":790516655,
-    "wof:lastmodified":1467083222,
+    "wof:lastmodified":1510694855,
     "wof:name":"Cash Connection",
     "wof:parent_id":85807051,
     "wof:placetype":"venue",

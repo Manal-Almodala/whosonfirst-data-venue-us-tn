@@ -2,14 +2,20 @@
   "id": 789703381,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 N Ocoee St Cleveland TN 37311",
+    "addr:housenumber":"20",
+    "addr:postcode":"37311",
+    "addr:street":"N Ocoee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.875526,35.159724,-84.875526,35.159724",
     "geom:latitude":35.159724,
     "geom:longitude":-84.875526,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 N Ocoee St",
     "sg:city":"Cleveland",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102087043,
         85803171
     ],
+    "wof:brand_id":1125150115,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_32Hbryq0QfH8C3euz41uxZ_35.159724_-84.875526@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462589882,
-    "wof:geomhash":"023cfefd3ea1dcc73391ef3ff41d46fa",
+    "wof:geomhash":"4ebc79b9217acb6210190f6269506e9e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":789703381,
-    "wof:lastmodified":1467083025,
+    "wof:lastmodified":1510697246,
     "wof:name":"AmSouth",
     "wof:parent_id":85803171,
     "wof:placetype":"venue",

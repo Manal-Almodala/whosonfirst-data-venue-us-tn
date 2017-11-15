@@ -2,9 +2,14 @@
   "id": 790408369,
   "type": "Feature",
   "properties": {
+    "addr:full":"2020 Hillsboro Rd Franklin TN 37069",
+    "addr:housenumber":"2020",
+    "addr:postcode":"37069",
+    "addr:street":"Hillsboro Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.888548,35.979363,-86.888548,35.979363",
     "geom:latitude":35.979363,
     "geom:longitude":-86.888548,
@@ -29,6 +34,7 @@
     "src:geom":"simplegeo",
     "wof:belongsto":[
         85688701,
+        102191575,
         85633793,
         101723093,
         102086337,
@@ -43,6 +49,7 @@
     "wof:geomhash":"8a495ba3dd9bbe8a98f204c7a0673fbf",
     "wof:hierarchy":[
         {
+            "continent_id":102191575,
             "country_id":85633793,
             "county_id":102086337,
             "locality_id":101723093,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":790408369,
-    "wof:lastmodified":1467083193,
+    "wof:lastmodified":1491924157,
     "wof:name":"Johnny Angels Cafe & Malt Shop",
     "wof:parent_id":85835017,
     "wof:placetype":"venue",

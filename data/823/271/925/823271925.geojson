@@ -2,14 +2,20 @@
   "id": 823271925,
   "type": "Feature",
   "properties": {
+    "addr:full":"6716 Heritage Business Ct # 4 Chattanooga TN 37421",
+    "addr:housenumber":"6716",
+    "addr:postcode":"37421",
+    "addr:street":"Heritage Business Ct # 4",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.17546,35.036487,-85.17546,35.036487",
     "geom:latitude":35.036487,
     "geom:longitude":-85.17546,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6716 Heritage Business Ct # 4",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087185,
         85824831
     ],
+    "wof:brand_id":1125156173,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0YJZQkhp7ScITI6GnpNtEG_35.036487_-85.175460@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609980,
-    "wof:geomhash":"a3e0a5d6b37d37a334b16db09bbccd9b",
+    "wof:geomhash":"b6f4d08d5db5e9bfd590e2f8721de6d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":823271925,
-    "wof:lastmodified":1467083657,
+    "wof:lastmodified":1510697593,
     "wof:name":"Wingate Inn",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",

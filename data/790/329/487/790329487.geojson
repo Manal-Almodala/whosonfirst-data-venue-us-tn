@@ -2,14 +2,20 @@
   "id": 790329487,
   "type": "Feature",
   "properties": {
+    "addr:full":"1503 Hatcher Ln Columbia TN 38401",
+    "addr:housenumber":"1503",
+    "addr:postcode":"38401",
+    "addr:street":"Hatcher Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.061049,35.603893,-87.061049,35.603893",
     "geom:latitude":35.603893,
     "geom:longitude":-87.061049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1503 Hatcher Ln",
     "sg:city":"Columbia",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087107,
         420541937
     ],
+    "wof:brand_id":1125150657,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2bghUnkLuRxGE6SXXbraEM_35.603893_-87.061049@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594989,
-    "wof:geomhash":"662453407d94a2d576335a6309d83b06",
+    "wof:geomhash":"e28d726fd29632f2ed33c43413f4b1ec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":790329487,
-    "wof:lastmodified":1467083174,
+    "wof:lastmodified":1510695187,
     "wof:name":"American General Life Ins Co",
     "wof:parent_id":420541937,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 823237771,
   "type": "Feature",
   "properties": {
+    "addr:full":"3245 Central Ave Memphis TN 38111",
+    "addr:housenumber":"3245",
+    "addr:postcode":"38111",
+    "addr:street":"Central Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.953631,35.123417,-89.953631,35.123417",
     "geom:latitude":35.123417,
     "geom:longitude":-89.953631,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3245 Central Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102087213,
         85808437
     ],
+    "wof:brand_id":1125150139,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5xy9kNgwtLWsbXRRVq8K4P_35.123356_-89.954118@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462609102,
-    "wof:geomhash":"1595ec3b7d5d056ecb95ecca1369173c",
+    "wof:geomhash":"496843e2966264d589d1635fd116eeab",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":823237771,
-    "wof:lastmodified":1467083626,
+    "wof:lastmodified":1510696880,
     "wof:name":"St John's Episcopal Church",
     "wof:parent_id":85808437,
     "wof:placetype":"venue",

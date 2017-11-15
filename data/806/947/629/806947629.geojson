@@ -2,14 +2,20 @@
   "id": 806947629,
   "type": "Feature",
   "properties": {
+    "addr:full":"1995 Fletcher Creek Dr Memphis TN 38133",
+    "addr:housenumber":"1995",
+    "addr:postcode":"38133",
+    "addr:street":"Fletcher Creek Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.836393,35.17978,-89.836393,35.17978",
     "geom:latitude":35.17978,
     "geom:longitude":-89.836393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1995 Fletcher Creek Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087213,
         85870775
     ],
+    "wof:brand_id":1125158669,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iPAGb71WvAgCmuCV5F2UY_35.179780_-89.836393@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602419,
-    "wof:geomhash":"c416633adbd1b4fa9dab8403e017bc52",
+    "wof:geomhash":"b7b18edf88ea49c2eae1ac03238762a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806947629,
-    "wof:lastmodified":1467083418,
+    "wof:lastmodified":1510694744,
     "wof:name":"Univar USA",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",

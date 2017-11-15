@@ -2,14 +2,20 @@
   "id": 806843021,
   "type": "Feature",
   "properties": {
+    "addr:full":"603 Lake Way Pl Tullahoma TN 37388",
+    "addr:housenumber":"603",
+    "addr:postcode":"37388",
+    "addr:street":"Lake Way Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.236694,35.37846,-86.236694,35.37846",
     "geom:latitude":35.37846,
     "geom:longitude":-86.236694,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"603 Lake Way Pl",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102087095,
         420541453
     ],
+    "wof:brand_id":1125155929,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TYtisLfXWPY8desGiTU10_35.378460_-86.236694@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601549,
-    "wof:geomhash":"8ce689e926dfe439e3447dc4a664797a",
+    "wof:geomhash":"d6454766e1ebeaed2f6cd2147c90baf2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":806843021,
-    "wof:lastmodified":1467083389,
+    "wof:lastmodified":1510697681,
     "wof:name":"Gambro Hlthcare Ptent Svcs Inc",
     "wof:parent_id":420541453,
     "wof:placetype":"venue",

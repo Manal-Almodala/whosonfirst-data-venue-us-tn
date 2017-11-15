@@ -2,14 +2,20 @@
   "id": 806904749,
   "type": "Feature",
   "properties": {
+    "addr:full":"523 Dover Rd Clarksville TN 37042",
+    "addr:housenumber":"523",
+    "addr:postcode":"37042",
+    "addr:street":"Dover Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-87.41787,36.552209,-87.41787,36.552209",
     "geom:latitude":36.552209,
     "geom:longitude":-87.41787,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"523 Dover Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102086353,
         420541975
     ],
+    "wof:brand_id":420575225,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39MY6Xv5xcJYi1Fq00AYLs_36.552209_-87.417870@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602044,
-    "wof:geomhash":"e64444470a0e6ae7ee3a753c778c8dca",
+    "wof:geomhash":"afef26ba70e83aac82275a7471a36cde",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":806904749,
-    "wof:lastmodified":1467083406,
+    "wof:lastmodified":1510601920,
     "wof:name":"Godfather's Pizza",
     "wof:parent_id":420541975,
     "wof:placetype":"venue",

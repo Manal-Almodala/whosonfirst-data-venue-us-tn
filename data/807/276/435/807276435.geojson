@@ -2,14 +2,20 @@
   "id": 807276435,
   "type": "Feature",
   "properties": {
+    "addr:full":"126 W Pleasant Ave Covington TN 38019",
+    "addr:housenumber":"126",
+    "addr:postcode":"38019",
+    "addr:street":"W Pleasant Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.647695,35.563832,-89.647695,35.563832",
     "geom:latitude":35.563832,
     "geom:longitude":-89.647695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"126 W Pleasant Ave",
     "sg:city":"Covington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102086277,
         85812563
     ],
+    "wof:brand_id":1125154235,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_10luA9yL2Tsh97sao6HaZg_35.563832_-89.647695@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605611,
-    "wof:geomhash":"f56aeaaae56a9f29ea0d0abf566ae51d",
+    "wof:geomhash":"6eea5040aa493ac657a4551c8945ece1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":807276435,
-    "wof:lastmodified":1467083515,
+    "wof:lastmodified":1510694886,
     "wof:name":"Maximus Inc",
     "wof:parent_id":85812563,
     "wof:placetype":"venue",

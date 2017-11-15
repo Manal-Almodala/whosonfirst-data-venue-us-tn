@@ -2,9 +2,14 @@
   "id": 790441755,
   "type": "Feature",
   "properties": {
+    "addr:full":"3009 Bridlewood Trl Franklin TN 37067",
+    "addr:housenumber":"3009",
+    "addr:postcode":"37067",
+    "addr:street":"Bridlewood Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.801312,35.899529,-86.801312,35.899529",
     "geom:latitude":35.899529,
     "geom:longitude":-86.801312,
@@ -29,12 +34,7 @@
         "mfg"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[
-        85688701,
-        85633793,
-        85820577,
-        102086337
-    ],
+    "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YAKK69d58lShsofHx1Tpb_35.899529_-86.801312@1294204733"
@@ -42,17 +42,9 @@
     "wof:country":"US",
     "wof:created":1462595852,
     "wof:geomhash":"c34552b7e5080a9872ddbff136856a93",
-    "wof:hierarchy":[
-        {
-            "country_id":85633793,
-            "county_id":102086337,
-            "neighbourhood_id":85820577,
-            "region_id":85688701,
-            "venue_id":790441755
-        }
-    ],
+    "wof:hierarchy":[],
     "wof:id":790441755,
-    "wof:lastmodified":1467083202,
+    "wof:lastmodified":1491924957,
     "wof:name":"Rossons Pattern Service",
     "wof:parent_id":85820577,
     "wof:placetype":"venue",

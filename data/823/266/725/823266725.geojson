@@ -2,14 +2,20 @@
   "id": 823266725,
   "type": "Feature",
   "properties": {
+    "addr:full":"368 Opry Mills Dr Nashville TN 37214",
+    "addr:housenumber":"368",
+    "addr:postcode":"37214",
+    "addr:street":"Opry Mills Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.69519,36.204559,-86.69519,36.204559",
     "geom:latitude":36.204559,
     "geom:longitude":-86.69519,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"368 Opry Mills Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102087061,
         85893467
     ],
+    "wof:brand_id":1125157393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5IBqYr5zH6vSHSze63gYCE_36.204559_-86.695190@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609780,
-    "wof:geomhash":"6e1cbe751a1b886dce31e71d38aa582f",
+    "wof:geomhash":"d36cc55e6a06cdc250e62956f9e9977e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":823266725,
-    "wof:lastmodified":1467083650,
+    "wof:lastmodified":1510695888,
     "wof:name":"Games Workshop",
     "wof:parent_id":85893467,
     "wof:placetype":"venue",

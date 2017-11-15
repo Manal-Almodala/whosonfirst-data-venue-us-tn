@@ -2,14 +2,20 @@
   "id": 806701175,
   "type": "Feature",
   "properties": {
+    "addr:full":"1935 Emporium Dr Jackson TN 38305",
+    "addr:housenumber":"1935",
+    "addr:postcode":"38305",
+    "addr:street":"Emporium Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.853813,35.669808,-88.853813,35.669808",
     "geom:latitude":35.669808,
     "geom:longitude":-88.853813,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1935 Emporium Dr",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102087221,
         85821577
     ],
+    "wof:brand_id":1125150099,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0HuGFuZOSayHIRaSOgbmKM_35.669808_-88.853813@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600347,
-    "wof:geomhash":"ee1271af5163cb1f2c0a541277226935",
+    "wof:geomhash":"ef45ccfde9c5d9fd4e83d2ce06546afd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":806701175,
-    "wof:lastmodified":1467083348,
+    "wof:lastmodified":1510695715,
     "wof:name":"Country Inn & Suites",
     "wof:parent_id":85821577,
     "wof:placetype":"venue",

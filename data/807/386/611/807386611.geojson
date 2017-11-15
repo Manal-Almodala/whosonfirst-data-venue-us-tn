@@ -2,14 +2,20 @@
   "id": 807386611,
   "type": "Feature",
   "properties": {
+    "addr:full":"2215 Stovall Ave Memphis TN 38108",
+    "addr:housenumber":"2215",
+    "addr:postcode":"38108",
+    "addr:street":"Stovall Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.982375,35.179151,-89.982375,35.179151",
     "geom:latitude":35.179151,
     "geom:longitude":-89.982375,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2215 Stovall Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102087213,
         85826023
     ],
+    "wof:brand_id":1125152799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4whJoBxwjelxj2uUlo5mUD_35.179151_-89.982375@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462607019,
-    "wof:geomhash":"39ff6c98fd54f7f7ab955bd433c7c862",
+    "wof:geomhash":"11b8bdf40b72d3b0f75c988cfc2ad489",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":807386611,
-    "wof:lastmodified":1467083561,
+    "wof:lastmodified":1510697600,
     "wof:name":"New Bethel Baptist Church",
     "wof:parent_id":85826023,
     "wof:placetype":"venue",
