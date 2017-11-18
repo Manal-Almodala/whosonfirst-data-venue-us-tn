@@ -7,13 +7,16 @@
     "addr:postcode":"37215",
     "addr:street":"Hillsboro Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.814763,36.104632,-86.814763,36.104632",
     "geom:latitude":36.104632,
     "geom:longitude":-86.814763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4004 Hillsboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -63,7 +66,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609786,
-    "wof:geomhash":"501535f832e7733b8473b5772b8d02e5",
+    "wof:geomhash":"d183e50b624664df20bdd7ef565674fe",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -76,13 +79,17 @@
         }
     ],
     "wof:id":823266869,
-    "wof:lastmodified":1472645682,
+    "wof:lastmodified":1510943830,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        773385457
+    ],
+    "wof:supersedes":[
+        823246431
+    ],
     "wof:tags":[
         "delivery",
         "take",

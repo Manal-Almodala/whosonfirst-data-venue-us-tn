@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.744477,36.142932,-86.744477,36.142932",
     "geom:latitude":36.142932,
     "geom:longitude":-86.744477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"444 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603191,
-    "wof:geomhash":"dc4024ee3eb69f64248e7006856973c9",
+    "wof:geomhash":"9407784209c111e4490c9e6a06af72fa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":807038475,
-    "wof:lastmodified":1472645376,
+    "wof:lastmodified":1510942361,
     "wof:name":"Sonic Drive-In",
     "wof:parent_id":85866801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823246025
+    ],
     "wof:tags":[
         "eating"
     ]

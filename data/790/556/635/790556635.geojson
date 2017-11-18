@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.973601,35.069812,-89.973601,35.069812",
     "geom:latitude":35.069812,
     "geom:longitude":-89.973601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2560 Rental Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596850,
-    "wof:geomhash":"6205b0132d7b2bfcbe0f60d34e000fa7",
+    "wof:geomhash":"3d85bfcebbd7c018ce10431c72a0baf0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":790556635,
-    "wof:lastmodified":1472645593,
+    "wof:lastmodified":1510943082,
     "wof:name":"Hertz",
     "wof:parent_id":85805535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823286419
+    ],
     "wof:tags":[
         "passenger",
         "truck",

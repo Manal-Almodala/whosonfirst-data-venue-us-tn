@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.314606,35.040215,-85.314606,35.040215",
     "geom:latitude":35.040215,
     "geom:longitude":-85.314606,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1307 Carter St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605703,
-    "wof:geomhash":"0f3868e1633580dfa3f74f53416567e3",
+    "wof:geomhash":"1394d95343e04b25108ec5bdd54ea256",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":807285527,
-    "wof:lastmodified":1472645846,
+    "wof:lastmodified":1510941621,
     "wof:name":"Blue Ribbon Foods",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823269577
+    ],
     "wof:tags":[]
 },
   "bbox": [

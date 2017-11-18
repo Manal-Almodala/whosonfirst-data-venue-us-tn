@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.839376,34.991859,-86.839376,34.991859",
     "geom:latitude":34.991859,
     "geom:longitude":-86.839376,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"26862 Main St",
     "sg:city":"Ardmore",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
         "sg:id":"SG_40RIkUE4WS7L91rKdOwcEl_34.991859_-86.839376@1293731398"
     },
     "wof:country":"US",
-    "wof:geomhash":"f22cb058ed0912eb1c1ab27b897443f7",
+    "wof:geomhash":"956c0dbf6d2af266330c07d739aa24ba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +56,15 @@
         }
     ],
     "wof:id":152604967,
-    "wof:lastmodified":1472645068,
+    "wof:lastmodified":1510943934,
     "wof:name":"McDonalds",
     "wof:parent_id":85817801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840474553
+    ],
     "wof:tags":[]
 },
   "bbox": [

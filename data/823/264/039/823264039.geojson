@@ -7,13 +7,16 @@
     "addr:postcode":"37204",
     "addr:street":"Bransford Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.766952,36.112888,-86.766952,36.112888",
     "geom:latitude":36.112888,
     "geom:longitude":-86.766952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2832 Bransford Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609680,
-    "wof:geomhash":"c408033f230ffe96f5861f0c807f0986",
+    "wof:geomhash":"5d2940c187dfb9fa2f1605c6a85bd837",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":823264039,
-    "wof:lastmodified":1472645657,
+    "wof:lastmodified":1510943594,
     "wof:name":"Curious Heart Emporium",
     "wof:parent_id":85866801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790524769
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

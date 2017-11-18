@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.818675,36.101125,-86.818675,36.101125",
     "geom:latitude":36.101125,
     "geom:longitude":-86.818675,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4115 Hillsboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600340,
-    "wof:geomhash":"7c0eb33cac7e9c06fd06ed96df7efba5",
+    "wof:geomhash":"9f17316ca557122dec4a15c6c3fca979",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":806700093,
-    "wof:lastmodified":1472646105,
+    "wof:lastmodified":1510941859,
     "wof:name":"Zia",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823267079
+    ],
     "wof:tags":[]
 },
   "bbox": [

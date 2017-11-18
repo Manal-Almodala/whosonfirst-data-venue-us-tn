@@ -7,13 +7,16 @@
     "addr:postcode":"38117",
     "addr:street":"W Brookhaven Cir",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.890469,35.112825,-89.890469,35.112825",
     "geom:latitude":35.112825,
     "geom:longitude":-89.890469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"674 W Brookhaven Cir",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593459,
-    "wof:geomhash":"069064963ab254abe8246e3f294fd44b",
+    "wof:geomhash":"f2f9ab2a41b6959dd2898e9379824f46",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":790143899,
-    "wof:lastmodified":1472645186,
+    "wof:lastmodified":1510942405,
     "wof:name":"TCBY",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823285717
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "parlor",

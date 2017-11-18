@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.86873,35.172441,-89.86873,35.172441",
     "geom:latitude":35.172441,
     "geom:longitude":-89.86873,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1740 Sycamore View Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596892,
-    "wof:geomhash":"8bd638044f23e33951c9af75da86ca5b",
+    "wof:geomhash":"a37a907f48287a790082b310eb1b6b65",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":790562247,
-    "wof:lastmodified":1472645590,
+    "wof:lastmodified":1510943444,
     "wof:name":"Taco Bell",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823290857
+    ],
     "wof:tags":[
         "eating"
     ]

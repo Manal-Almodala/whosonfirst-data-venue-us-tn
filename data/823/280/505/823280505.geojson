@@ -7,13 +7,16 @@
     "addr:postcode":"38105",
     "addr:street":"N Pauline St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.028046,35.143614,-90.028046,35.143614",
     "geom:latitude":35.143614,
     "geom:longitude":-90.028046,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"135 N Pauline St Fl 2",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610330,
-    "wof:geomhash":"d1ad61de1caeb13888976a7b5d23426c",
+    "wof:geomhash":"79b5d9572b02a53125c8553a82ddc0ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823280505,
-    "wof:lastmodified":1472645734,
+    "wof:lastmodified":1510942994,
     "wof:name":"University Of Tennessee",
     "wof:parent_id":85851159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807379457
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "information",

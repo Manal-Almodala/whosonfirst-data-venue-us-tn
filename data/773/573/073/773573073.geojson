@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.927767,35.991152,-83.927767,35.991152",
     "geom:latitude":35.991152,
     "geom:longitude":-83.927767,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"939 E Emerald Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586748,
-    "wof:geomhash":"6d7257f75d2d6966cdcfad18ce8c90da",
+    "wof:geomhash":"c14ba3e6154764a39aa1c0e6391329b2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":773573073,
-    "wof:lastmodified":1472645928,
+    "wof:lastmodified":1510942033,
     "wof:name":"East Tn Ob/Gyn Assoc",
     "wof:parent_id":85878559,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790445401
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

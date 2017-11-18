@@ -7,13 +7,16 @@
     "addr:postcode":"38118",
     "addr:street":"E Shelby Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.95408,35.02041,-89.95408,35.02041",
     "geom:latitude":35.02041,
     "geom:longitude":-89.95408,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3285 E Shelby Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609446,
-    "wof:geomhash":"6a132445af9e74c364a6c01c197f3aa2",
+    "wof:geomhash":"30546b22d2f70dec80536c36dc990150",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823255271,
-    "wof:lastmodified":1472645651,
+    "wof:lastmodified":1510941556,
     "wof:name":"Sonic",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823285991
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

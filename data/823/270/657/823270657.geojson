@@ -7,13 +7,16 @@
     "addr:postcode":"37408",
     "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.320975,35.019914,-85.320975,35.019914",
     "geom:latitude":35.019914,
     "geom:longitude":-85.320975,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3151 Broad St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[],
@@ -33,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":150237174,
         "sg:id":"SG_46V0UEjA0zhqoKgBfVxkOU_35.019914_-85.320975@1303262738"
     },
     "wof:country":"US",
     "wof:created":1462609937,
-    "wof:geomhash":"b547f8e4370984e4a68b9948668c4e32",
+    "wof:geomhash":"103ea76349aeb383875300ba77e0f182",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +54,17 @@
         }
     ],
     "wof:id":823270657,
-    "wof:lastmodified":1472645731,
+    "wof:lastmodified":1510944084,
     "wof:name":"Taco Bell",
     "wof:parent_id":85846343,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        789817871
+    ],
+    "wof:supersedes":[
+        789817871
+    ],
     "wof:tags":[]
 },
   "bbox": [

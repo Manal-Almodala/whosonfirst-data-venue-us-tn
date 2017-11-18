@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.155663,35.039661,-85.155663,35.039661",
     "geom:latitude":35.039661,
     "geom:longitude":-85.155663,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2204 Hamilton Place Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590134,
-    "wof:geomhash":"5569b9eff49b63b19dbc0af0fc851c89",
+    "wof:geomhash":"984ad3a1df3b35c1623beb78294ac8df",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":789734339,
-    "wof:lastmodified":1472645209,
+    "wof:lastmodified":1510942380,
     "wof:name":"El Meson Restaurante Mexicano",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823271869
+    ],
     "wof:tags":[
         "mexican"
     ]

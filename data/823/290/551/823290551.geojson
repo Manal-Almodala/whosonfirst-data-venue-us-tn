@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.793982,35.201988,-89.793982,35.201988",
     "geom:latitude":35.201988,
     "geom:longitude":-89.793982,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2765 Wolfcreek Pkwy Ste 104",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610721,
-    "wof:geomhash":"28cf6f0c5d12393ceb74e85f5c12c968",
+    "wof:geomhash":"b8efcdfc43ab41dbde384d4e7d9c9801",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":823290551,
-    "wof:lastmodified":1472645770,
+    "wof:lastmodified":1510944145,
     "wof:name":"Carlson Wagonlit Travel",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773137705
+    ],
     "wof:tags":[]
 },
   "bbox": [

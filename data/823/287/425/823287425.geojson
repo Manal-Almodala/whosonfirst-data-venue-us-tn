@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.847092,35.099621,-89.847092,35.099621",
     "geom:latitude":35.099621,
     "geom:longitude":-89.847092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6482 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610604,
-    "wof:geomhash":"10d5da70674ffaea375da929413266d7",
+    "wof:geomhash":"eab9ed6e29f818d2125b7b9cb72e8a3d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":823287425,
-    "wof:lastmodified":1472645736,
+    "wof:lastmodified":1510941473,
     "wof:name":"Applebee's",
     "wof:parent_id":85870789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823208613
+    ],
     "wof:tags":[]
 },
   "bbox": [

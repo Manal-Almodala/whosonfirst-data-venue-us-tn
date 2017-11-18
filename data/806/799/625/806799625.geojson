@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.795065,36.036059,-86.795065,36.036059",
     "geom:latitude":36.036059,
     "geom:longitude":-86.795065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6 Cadillac Dr",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601182,
-    "wof:geomhash":"e73dc6fa5765ff03468de1d0746203e1",
+    "wof:geomhash":"adbaef2c9d9255f011021d2c152a1619",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":806799625,
-    "wof:lastmodified":1472646143,
+    "wof:lastmodified":1510943928,
     "wof:name":"APB Mortgage",
     "wof:parent_id":85805711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        404176279
+    ],
     "wof:tags":[
         "loan"
     ]

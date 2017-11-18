@@ -7,13 +7,16 @@
     "addr:postcode":"37405",
     "addr:street":"Dayton Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.31638,35.085457,-85.31638,35.085457",
     "geom:latitude":35.085457,
     "geom:longitude":-85.31638,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1868 Dayton Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609528,
-    "wof:geomhash":"fc633861552c8901cc5174793b587e2a",
+    "wof:geomhash":"d46b9dca7cbcc287f10d1b67c8c4f33c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":823258951,
-    "wof:lastmodified":1472645671,
+    "wof:lastmodified":1510941341,
     "wof:name":"Wendy's",
     "wof:parent_id":420541699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789796001
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

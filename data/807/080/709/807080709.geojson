@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.792039,36.027179,-86.792039,36.027179",
     "geom:latitude":36.027179,
     "geom:longitude":-86.792039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"330 Franklin Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -50,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603538,
-    "wof:geomhash":"413d20fb4944ca2940e9151f770326bd",
+    "wof:geomhash":"0bff06c8eb01561f94a2b514e0d3db06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":807080709,
-    "wof:lastmodified":1472645500,
+    "wof:lastmodified":1510941710,
     "wof:name":"Spell's Dance Theatre Shop",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823261841
+    ],
     "wof:tags":[
         "company"
     ]

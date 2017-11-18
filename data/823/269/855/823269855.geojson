@@ -7,13 +7,16 @@
     "addr:postcode":"37403",
     "addr:street":"E 3Rd St Ste A350",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.290909,35.047941,-85.290909,35.047941",
     "geom:latitude":35.047941,
     "geom:longitude":-85.290909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"979 E 3rd St Ste A350",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -51,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609911,
-    "wof:geomhash":"32faac04e193710f5f577eacf26a2410",
+    "wof:geomhash":"ad81d55616ee0863fc6dc454ee838859",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,12 +67,14 @@
         }
     ],
     "wof:id":823269855,
-    "wof:lastmodified":1472645738,
+    "wof:lastmodified":1510941608,
     "wof:name":"Arrhykhmia Crdlgy Chattanoooga",
     "wof:parent_id":85876735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790019701
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

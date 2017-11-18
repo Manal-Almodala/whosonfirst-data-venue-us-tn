@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.615871,36.30396,-86.615871,36.30396",
     "geom:latitude":36.30396,
     "geom:longitude":-86.615871,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 Sanders Ferry Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590579,
-    "wof:geomhash":"cb2610da67c9cd7783d6c540e463cd89",
+    "wof:geomhash":"264b2d76aa0e2b7fa5c43b9e5e56f773",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":789791911,
-    "wof:lastmodified":1472645242,
+    "wof:lastmodified":1510941365,
     "wof:name":"Mallard's Restaurant",
     "wof:parent_id":85837037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823262479
+    ],
     "wof:tags":[
         "eating"
     ]

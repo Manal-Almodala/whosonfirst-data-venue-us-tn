@@ -7,13 +7,16 @@
     "addr:postcode":"37209",
     "addr:street":"Charlotte Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.887666,36.134819,-86.887666,36.134819",
     "geom:latitude":36.134819,
     "geom:longitude":-86.887666,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6727 Charlotte Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607718,
-    "wof:geomhash":"a2b7ed42f78572c68218a052293cfb0c",
+    "wof:geomhash":"267ab4a7f07c7a38ec7d2f69b55398be",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":823153963,
-    "wof:lastmodified":1472645395,
+    "wof:lastmodified":1510942620,
     "wof:name":"Holy Trinity Community Church",
     "wof:parent_id":85855987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823265079
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "church"

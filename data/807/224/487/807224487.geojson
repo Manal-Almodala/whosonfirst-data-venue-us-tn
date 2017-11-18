@@ -7,13 +7,16 @@
     "addr:postcode":"37620",
     "addr:street":"Medical Park Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.253821,36.589329,-82.253821,36.589329",
     "geom:latitude":36.589329,
     "geom:longitude":-82.253821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1 Medical Park Blvd",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605057,
-    "wof:geomhash":"1d9fa3da021dcc9087dfda2abcc620ea",
+    "wof:geomhash":"7364138660cf47e5ca5fb1cdc35ad197",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":807224487,
-    "wof:lastmodified":1472645773,
+    "wof:lastmodified":1510943967,
     "wof:name":"Cancer Center",
     "wof:parent_id":85825325,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723202651
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

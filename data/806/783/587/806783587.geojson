@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.820881,36.137624,-86.820881,36.137624",
     "geom:latitude":36.137624,
     "geom:longitude":-86.820881,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3401 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601049,
-    "wof:geomhash":"4ee307efa78c920753a7557459f55f9b",
+    "wof:geomhash":"6fcbd6f492f8ae59a7ee9f957f1c7faf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":806783587,
-    "wof:lastmodified":1472646138,
+    "wof:lastmodified":1510942671,
     "wof:name":"MXI Systems Inc",
     "wof:parent_id":85893447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807076133
+    ],
     "wof:tags":[
         "x",
         "apparatus"

@@ -7,13 +7,16 @@
     "addr:postcode":"37932",
     "addr:street":"Lovell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.143944,35.90519,-84.143944,35.90519",
     "geom:latitude":35.90519,
     "geom:longitude":-84.143944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"411 Lovell Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599240,
-    "wof:geomhash":"a9340d04cda0cb2bb9c069d1e1929c50",
+    "wof:geomhash":"6033b90425111b372270dfe0a83e3009",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":806571217,
-    "wof:lastmodified":1472645824,
+    "wof:lastmodified":1510942878,
     "wof:name":"Autoglass of America",
     "wof:parent_id":85852201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823275069
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "glass",

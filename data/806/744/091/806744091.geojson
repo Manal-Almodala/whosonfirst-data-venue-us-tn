@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.802259,36.155304,-86.802259,36.155304",
     "geom:latitude":36.155304,
     "geom:longitude":-86.802259,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 20th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600716,
-    "wof:geomhash":"2248a212b97c3600523d309f9bcd0606",
+    "wof:geomhash":"5c8f8c58ce20d3ad9c873f6b79e4789b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":806744091,
-    "wof:lastmodified":1472646121,
+    "wof:lastmodified":1510941371,
     "wof:name":"Peeler Susan MD",
     "wof:parent_id":85893455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823263661
+    ],
     "wof:tags":[
         "medical"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.693355,35.046227,-89.693355,35.046227",
     "geom:latitude":35.046227,
     "geom:longitude":-89.693355,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"942 W Poplar Ave",
     "sg:city":"Collierville",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610153,
-    "wof:geomhash":"c78a9dd9debb0e153def3149b6ee0644",
+    "wof:geomhash":"b30e8524c18182cf24f8e3944c285c92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":823276009,
-    "wof:lastmodified":1472645691,
+    "wof:lastmodified":1510942187,
     "wof:name":"Jackson's Shoes",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806552075
+    ],
     "wof:tags":[]
 },
   "bbox": [

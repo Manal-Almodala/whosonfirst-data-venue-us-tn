@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.951759,35.129507,-89.951759,35.129507",
     "geom:latitude":35.129507,
     "geom:longitude":-89.951759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3340 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605391,
-    "wof:geomhash":"7cafaa3fe6340275ace14599baf027b0",
+    "wof:geomhash":"c0f723e1b9382f14be435ce74075b380",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":807256259,
-    "wof:lastmodified":1472645805,
+    "wof:lastmodified":1510943232,
     "wof:name":"Poplar Chiropractic",
     "wof:parent_id":85803961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823282919
+    ],
     "wof:tags":[]
 },
   "bbox": [

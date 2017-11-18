@@ -7,13 +7,16 @@
     "addr:postcode":"38120",
     "addr:street":"Humphreys Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.854752,35.129039,-89.854752,35.129039",
     "geom:latitude":35.129039,
     "geom:longitude":-89.854752,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6215 Humphreys Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599634,
-    "wof:geomhash":"0088de2fc9a4f0d06043984036ec10c7",
+    "wof:geomhash":"bd3b79712329f272ae62ce2251178c92",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":806617633,
-    "wof:lastmodified":1472646043,
+    "wof:lastmodified":1510942218,
     "wof:name":"Women's Care Ctr Of Memphis",
     "wof:parent_id":85844747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823287551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "removing"

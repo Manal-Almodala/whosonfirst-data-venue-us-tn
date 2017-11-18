@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.031931,35.140391,-90.031931,35.140391",
     "geom:latitude":35.140391,
     "geom:longitude":-90.031931,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"880 Madison Ave Ste 5BOL",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610283,
-    "wof:geomhash":"a42c192fa2e5251b6ec6135219b14986",
+    "wof:geomhash":"e167e31f4390d0389e547bb146389337",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":823279151,
-    "wof:lastmodified":1472645704,
+    "wof:lastmodified":1510942504,
     "wof:name":"Regional Medical Center",
     "wof:parent_id":85893411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823278543
+    ],
     "wof:tags":[
         "medical"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.059323,35.917361,-84.059323,35.917361",
     "geom:latitude":35.917361,
     "geom:longitude":-84.059323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"401 S Gallaher View Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591049,
-    "wof:geomhash":"fb97b852598e5ee94d0f8d75a1317251",
+    "wof:geomhash":"cf0ed69a61fb8bf21312ff3bafd582fb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":789852963,
-    "wof:lastmodified":1472645252,
+    "wof:lastmodified":1510943694,
     "wof:name":"Copper Pointe Apartments",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823274553
+    ],
     "wof:tags":[
         "apartment"
     ]

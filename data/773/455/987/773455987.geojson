@@ -7,13 +7,16 @@
     "addr:postcode":"37211",
     "addr:street":"Linbar Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.701894,36.081868,-86.701894,36.081868",
     "geom:latitude":36.081868,
     "geom:longitude":-86.701894,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5000 Linbar Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585884,
-    "wof:geomhash":"ffdfabe061b716cd16416b5f2b363df5",
+    "wof:geomhash":"9046d06a6dca3193cdf98b87ec779779",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":773455987,
-    "wof:lastmodified":1472645889,
+    "wof:lastmodified":1510943983,
     "wof:name":"POSTEC Inc",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773806699
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "register",

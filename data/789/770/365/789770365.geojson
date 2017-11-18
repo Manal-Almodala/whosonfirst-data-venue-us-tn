@@ -7,13 +7,16 @@
     "addr:postcode":"38118",
     "addr:street":"Knight Arnold Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.930066,35.06491,-89.930066,35.06491",
     "geom:latitude":35.06491,
     "geom:longitude":-89.930066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3960 Knight Arnold Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590404,
-    "wof:geomhash":"4a47c88893ca14b3cf816d5f5b085f3b",
+    "wof:geomhash":"b06f03f84a8de3e997ac4e111e04db11",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":789770365,
-    "wof:lastmodified":1472645208,
+    "wof:lastmodified":1510942967,
     "wof:name":"Delta Medical Ctr",
     "wof:parent_id":85839073,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823286657
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

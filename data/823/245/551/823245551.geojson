@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.784402,36.151494,-86.784402,36.151494",
     "geom:latitude":36.151494,
     "geom:longitude":-86.784402,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"601 12th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609252,
-    "wof:geomhash":"6f7c9d256f26107c799940bfaad80de5",
+    "wof:geomhash":"78b555af1a77c46198c6e2c87eed2a20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":823245551,
-    "wof:lastmodified":1472645649,
+    "wof:lastmodified":1510942632,
     "wof:name":"Sambuca",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823263803
+    ],
     "wof:tags":[
         "american"
     ]

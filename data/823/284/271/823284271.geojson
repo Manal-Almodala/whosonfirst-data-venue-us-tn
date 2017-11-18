@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.864651,35.049974,-89.864651,35.049974",
     "geom:latitude":35.049974,
     "geom:longitude":-89.864651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5960 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610483,
-    "wof:geomhash":"adbdd654015ae31cbcd13ff086237a06",
+    "wof:geomhash":"71260cd75b0f53c39d8a392a56acce83",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":823284271,
-    "wof:lastmodified":1472645730,
+    "wof:lastmodified":1510944000,
     "wof:name":"French Riviera Spa",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807139273
+    ],
     "wof:tags":[]
 },
   "bbox": [

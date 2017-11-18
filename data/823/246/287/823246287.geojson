@@ -7,13 +7,16 @@
     "addr:postcode":"37214",
     "addr:street":"Rudy Cir",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.694567,36.219887,-86.694567,36.219887",
     "geom:latitude":36.219887,
     "geom:longitude":-86.694567,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"201 Rudy Cir",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609265,
-    "wof:geomhash":"5e3ae54826ce029900557432740392b8",
+    "wof:geomhash":"7e7aca90387474bbe35ef2c5ad19878a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823246287,
-    "wof:lastmodified":1472645640,
+    "wof:lastmodified":1510943484,
     "wof:name":"McDonald's",
     "wof:parent_id":85824383,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823266805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

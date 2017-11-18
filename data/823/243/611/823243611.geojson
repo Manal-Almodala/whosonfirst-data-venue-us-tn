@@ -7,13 +7,16 @@
     "addr:postcode":"37076",
     "addr:street":"Lebanon Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.624936,36.192309,-86.624936,36.192309",
     "geom:latitude":36.192309,
     "geom:longitude":-86.624936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3470 Lebanon Pike",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609212,
-    "wof:geomhash":"68f375490bcb0c310c0485814b6edfcf",
+    "wof:geomhash":"b8d7eb554b5b15458b846f117cc4e63c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823243611,
-    "wof:lastmodified":1472645630,
+    "wof:lastmodified":1510942431,
     "wof:name":"McDonald's",
     "wof:parent_id":85824679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773679579
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

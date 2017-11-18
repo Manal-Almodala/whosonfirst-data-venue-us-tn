@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.868775,35.094481,-89.868775,35.094481",
     "geom:latitude":35.094481,
     "geom:longitude":-89.868775,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1355 Lynnfield Rd Ste 245",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -55,7 +57,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610603,
-    "wof:geomhash":"b22e52c9064b8123b599496105ae1d26",
+    "wof:geomhash":"be1f30c4b713b5f4c4e0ad52e1046a20",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,13 +70,15 @@
         }
     ],
     "wof:id":823287389,
-    "wof:lastmodified":1472645736,
+    "wof:lastmodified":1510941575,
     "wof:name":"Mg Industries",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806448941
+    ],
     "wof:tags":[
         "gas-industrial",
         "medical-cylinder",

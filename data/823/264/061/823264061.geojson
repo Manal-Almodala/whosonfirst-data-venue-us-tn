@@ -7,13 +7,16 @@
     "addr:postcode":"37204",
     "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.767539,36.112386,-86.767539,36.112386",
     "geom:latitude":36.112386,
     "geom:longitude":-86.767539,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"734 Thompson Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[],
@@ -33,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2018982682,
         "sg:id":"SG_0oJQBcyRT1y7I3Z5SkWllz_36.112386_-86.767539@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609681,
-    "wof:geomhash":"580ff8959659068d457a609d4b234a0a",
+    "wof:geomhash":"9b6b7a8cc21cadaf810f41303fefb6e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +54,17 @@
         }
     ],
     "wof:id":823264061,
-    "wof:lastmodified":1472645652,
+    "wof:lastmodified":1510943009,
     "wof:name":"The Yellow Porch",
     "wof:parent_id":85866801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        823245683
+    ],
+    "wof:supersedes":[
+        823245683
+    ],
     "wof:tags":[]
 },
   "bbox": [

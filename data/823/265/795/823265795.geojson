@@ -7,13 +7,16 @@
     "addr:postcode":"37211",
     "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.741647,36.110663,-86.741647,36.110663",
     "geom:latitude":36.110663,
     "geom:longitude":-86.741647,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"222 Thompson Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[],
@@ -33,11 +36,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":2017302248,
         "sg:id":"SG_6ogD7fVGjdIkctdpvyJNSu_36.110663_-86.741647@1303262737"
     },
     "wof:country":"US",
     "wof:created":1462609740,
-    "wof:geomhash":"5c2b8a6dec01f0948d2cd08b74b5abb1",
+    "wof:geomhash":"2b2675ddd6cd5864e43f39e268f77d32",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +54,17 @@
         }
     ],
     "wof:id":823265795,
-    "wof:lastmodified":1472645678,
+    "wof:lastmodified":1510942920,
     "wof:name":"Papa John's Pizza",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        823246151
+    ],
+    "wof:supersedes":[
+        823246151
+    ],
     "wof:tags":[]
 },
   "bbox": [

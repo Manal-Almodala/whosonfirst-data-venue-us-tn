@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.926188,35.220508,-89.926188,35.220508",
     "geom:latitude":35.220508,
     "geom:longitude":-89.926188,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4101 Yale Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610692,
-    "wof:geomhash":"6193a2296c4da5371c08aeec88f793fe",
+    "wof:geomhash":"9945772f40ef372a14aac9532e92cd51",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":823289915,
-    "wof:lastmodified":1472645783,
+    "wof:lastmodified":1510941352,
     "wof:name":"Circle K",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773146775
+    ],
     "wof:tags":[]
 },
   "bbox": [

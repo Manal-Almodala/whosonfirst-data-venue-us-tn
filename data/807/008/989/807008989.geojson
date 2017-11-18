@@ -7,13 +7,16 @@
     "addr:postcode":"38117",
     "addr:street":"S Perkins Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.906932,35.11594,-89.906932,35.11594",
     "geom:latitude":35.11594,
     "geom:longitude":-89.906932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"585 S Perkins Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602935,
-    "wof:geomhash":"4b500bfe1e5301fd5461114003c5fbb6",
+    "wof:geomhash":"1ab9a17dd9831caf4a38aa40363b98bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":807008989,
-    "wof:lastmodified":1472645123,
+    "wof:lastmodified":1510943363,
     "wof:name":"Crye-Leike Realtors",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823285661
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

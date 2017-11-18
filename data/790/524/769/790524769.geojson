@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.766514,36.115363,-86.766514,36.115363",
     "geom:latitude":36.115363,
     "geom:longitude":-86.766514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2832 Bransford Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596581,
-    "wof:geomhash":"907d0e7c8018f8d65257117d57a5714e",
+    "wof:geomhash":"414fdd0551b50c9f68c53b04e3c1cc0a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":790524769,
-    "wof:lastmodified":1472645550,
+    "wof:lastmodified":1510943594,
     "wof:name":"Curious Heart Emporium",
     "wof:parent_id":85893481,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823264039
+    ],
     "wof:tags":[]
 },
   "bbox": [

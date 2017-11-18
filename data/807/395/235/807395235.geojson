@@ -7,13 +7,16 @@
     "addr:postcode":"37388",
     "addr:street":"S Anderson St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.19824,35.357782,-86.19824,35.357782",
     "geom:latitude":35.357782,
     "geom:longitude":-86.19824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 S Anderson St",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607168,
-    "wof:geomhash":"5d5f2f581b8d69f07ed480531028cb8e",
+    "wof:geomhash":"f27039fc4f952b381a24c1fc5f4edeee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":807395235,
-    "wof:lastmodified":1472646085,
+    "wof:lastmodified":1510943333,
     "wof:name":"Judys Junktique",
     "wof:parent_id":420541459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806974547
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

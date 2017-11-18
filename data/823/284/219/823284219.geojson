@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.894836,35.075451,-89.894836,35.075451",
     "geom:latitude":35.075451,
     "geom:longitude":-89.894836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5000 American Way",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610481,
-    "wof:geomhash":"cd9bf06bc0b5b4c472801471b0566a8f",
+    "wof:geomhash":"f3622a08b373522e2757a086a70630a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":823284219,
-    "wof:lastmodified":1472645727,
+    "wof:lastmodified":1510943732,
     "wof:name":"Wal-Mart",
     "wof:parent_id":85870789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807145365
+    ],
     "wof:tags":[]
 },
   "bbox": [

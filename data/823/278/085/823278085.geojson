@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.050362,35.14785,-90.050362,35.14785",
     "geom:latitude":35.14785,
     "geom:longitude":-90.050362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 Adams Ave Ste 308",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1462610228,
-    "wof:geomhash":"338bed9af286385a63c196db93f31e55",
+    "wof:geomhash":"f7e0e64740fe308998869677b1d36371",
     "wof:hierarchy":[],
     "wof:id":823278085,
-    "wof:lastmodified":1472645700,
+    "wof:lastmodified":1510942602,
     "wof:name":"Probate Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823201347
+    ],
     "wof:tags":[
         "justice"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.915117,35.955366,-83.915117,35.955366",
     "geom:latitude":35.955366,
     "geom:longitude":-83.915117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 E Blount Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597106,
-    "wof:geomhash":"04552172656e112aa81c7a56a0f5a555",
+    "wof:geomhash":"1a8f599abd619bb026d2675e26b22162",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":790587771,
-    "wof:lastmodified":1472645651,
+    "wof:lastmodified":1510942621,
     "wof:name":"Surgery Ctr-KNOX County PC",
     "wof:parent_id":85878551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789917321
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

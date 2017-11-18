@@ -7,13 +7,16 @@
     "addr:postcode":"38141",
     "addr:street":"Riverdale Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.830548,35.019517,-89.830548,35.019517",
     "geom:latitude":35.019517,
     "geom:longitude":-89.830548,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4730 Riverdale Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609462,
-    "wof:geomhash":"5e5159d2af3d6ab49ecfeda5f338ae2b",
+    "wof:geomhash":"01c4b2be6fbe2a79978a3f0a9e31cc00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823256205,
-    "wof:lastmodified":1472645646,
+    "wof:lastmodified":1510941767,
     "wof:name":"Little Caesar's Pizza",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823292501
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

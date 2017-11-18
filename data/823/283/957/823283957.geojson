@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.870232,35.035962,-89.870232,35.035962",
     "geom:latitude":35.035962,
     "geom:longitude":-89.870232,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4155 Quest Way",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610472,
-    "wof:geomhash":"a165f2553fab8d75418487121d53fc25",
+    "wof:geomhash":"8a2223249cc70869bf463a25368b6b77",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":823283957,
-    "wof:lastmodified":1472645752,
+    "wof:lastmodified":1510943272,
     "wof:name":"Knight Transportation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806539253
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"38104",
     "addr:street":"Union Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.014985,35.137011,-90.014985,35.137011",
     "geom:latitude":35.137011,
     "geom:longitude":-90.014985,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1400 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609428,
-    "wof:geomhash":"d0f6fbc46a3062aadcbfd427b1584edf",
+    "wof:geomhash":"2e3deaa50413069f8101ea3885e95f7d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823254359,
-    "wof:lastmodified":1472645663,
+    "wof:lastmodified":1510942166,
     "wof:name":"Cupboard Restaurant",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823280065
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american",

@@ -7,13 +7,16 @@
     "addr:postcode":"37916",
     "addr:street":"20Th St Ste 404",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.938087,35.95742,-83.938087,35.95742",
     "geom:latitude":35.95742,
     "geom:longitude":-83.938087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"501 20th St Ste 404",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -61,7 +64,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610079,
-    "wof:geomhash":"3fdff464e2a804f8cf7d73a32086a62f",
+    "wof:geomhash":"871d9cc28c4bafe111e7463b55d72a6e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -74,12 +77,14 @@
         }
     ],
     "wof:id":823274195,
-    "wof:lastmodified":1472645702,
+    "wof:lastmodified":1510941948,
     "wof:name":"Summit Medical Group Ft Sndrs",
     "wof:parent_id":85867177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790458881
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

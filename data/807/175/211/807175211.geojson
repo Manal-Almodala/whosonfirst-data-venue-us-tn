@@ -7,13 +7,16 @@
     "addr:postcode":"24201",
     "addr:street":"Cumberland St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.182967,36.596451,-82.182967,36.596451",
     "geom:latitude":36.596451,
     "geom:longitude":-82.182967,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"510 Cumberland St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604539,
-    "wof:geomhash":"23b91a7313c8d19067f97aa93318d0f6",
+    "wof:geomhash":"7b0aaaafb4f4c2742626f7521df73ce4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":807175211,
-    "wof:lastmodified":1472645653,
+    "wof:lastmodified":1510941448,
     "wof:name":"McVey Multimedia Inc",
     "wof:parent_id":420547849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722740805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "motion"

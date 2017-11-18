@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.047394,35.146029,-90.047394,35.146029",
     "geom:latitude":35.146029,
     "geom:longitude":-90.047394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 Jefferson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584016,
-    "wof:geomhash":"37a76a159a4d9eb6864c5466fe614d57",
+    "wof:geomhash":"68eb36dfe0f8e80829a0848937539462",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":773212821,
-    "wof:lastmodified":1472645573,
+    "wof:lastmodified":1510943210,
     "wof:name":"McElroy Jimmy E",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823278855
+    ],
     "wof:tags":[]
 },
   "bbox": [

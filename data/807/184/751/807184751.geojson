@@ -7,13 +7,16 @@
     "addr:postcode":"38103",
     "addr:street":"Madison Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.050672,35.144547,-90.050672,35.144547",
     "geom:latitude":35.144547,
     "geom:longitude":-90.050672,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"165 Madison Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604636,
-    "wof:geomhash":"9656eaaf030a580aa1824608b9cc98bd",
+    "wof:geomhash":"7b563858dbdb88d38f9ac855cf709aa7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":807184751,
-    "wof:lastmodified":1472645700,
+    "wof:lastmodified":1510942654,
     "wof:name":"Russell Brian J",
     "wof:parent_id":85893413,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823278295
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

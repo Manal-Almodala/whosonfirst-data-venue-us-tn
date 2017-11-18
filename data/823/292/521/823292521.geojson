@@ -7,13 +7,16 @@
     "addr:postcode":"38141",
     "addr:street":"S Mendenhall Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.88206,35.026978,-89.88206,35.026978",
     "geom:latitude":35.026978,
     "geom:longitude":-89.88206,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4471 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610810,
-    "wof:geomhash":"a3832aa6c841bad0db6d7794a50e3eea",
+    "wof:geomhash":"824eefe511b7441c347eacb39fd88d18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":823292521,
-    "wof:lastmodified":1472645773,
+    "wof:lastmodified":1510943722,
     "wof:name":"Archer's Auto Care",
     "wof:parent_id":85870783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807350515
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.908532,35.120055,-89.908532,35.120055",
     "geom:latitude":35.120055,
     "geom:longitude":-89.908532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"436 Perkins Ext",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610543,
-    "wof:geomhash":"063d92cd205bd8b0e27a587b948dfef5",
+    "wof:geomhash":"ac497c2504c9b33a2f4e05f961928fdb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":823285837,
-    "wof:lastmodified":1472645744,
+    "wof:lastmodified":1510942750,
     "wof:name":"Backyard Burgers",
     "wof:parent_id":85867185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823255009
+    ],
     "wof:tags":[]
 },
   "bbox": [

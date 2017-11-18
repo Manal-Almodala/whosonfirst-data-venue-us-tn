@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.792395,36.140609,-86.792395,36.140609",
     "geom:latitude":36.140609,
     "geom:longitude":-86.792395,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 Villa Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600578,
-    "wof:geomhash":"f414a152a4b585990e1947ea6adaf721",
+    "wof:geomhash":"e2b416800f2468cff43fe5dc2286df8b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":806729593,
-    "wof:lastmodified":1472646120,
+    "wof:lastmodified":1510942947,
     "wof:name":"Eye Candy",
     "wof:parent_id":85893451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823266277
+    ],
     "wof:tags":[]
 },
   "bbox": [

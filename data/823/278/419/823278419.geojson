@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051039,35.149581,-90.051039,35.149581",
     "geom:latitude":35.149581,
     "geom:longitude":-90.051039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"160 N Main St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -49,16 +51,18 @@
     },
     "wof:country":"US",
     "wof:created":1462610239,
-    "wof:geomhash":"92f03b1b66ccfa7292dd76020b2bec2f",
+    "wof:geomhash":"ae2adfb9cc11cb67dc1128f03ef27b6d",
     "wof:hierarchy":[],
     "wof:id":823278419,
-    "wof:lastmodified":1472645719,
+    "wof:lastmodified":1510943280,
     "wof:name":"Investors Title Insurance Svc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789707157
+    ],
     "wof:tags":[
         "mortgage",
         "escrow"

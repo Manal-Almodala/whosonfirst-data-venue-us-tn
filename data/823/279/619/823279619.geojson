@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.987083,35.12598,-89.987083,35.12598",
     "geom:latitude":35.12598,
     "geom:longitude":-89.987083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2249 Central Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610298,
-    "wof:geomhash":"f092921c0c329e29a2d83ace1b96e594",
+    "wof:geomhash":"1a74bfa86434a9c3f8718bbb6ebf345d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":823279619,
-    "wof:lastmodified":1472645730,
+    "wof:lastmodified":1510941675,
     "wof:name":"Central B B Q",
     "wof:parent_id":85830283,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823254337
+    ],
     "wof:tags":[]
 },
   "bbox": [

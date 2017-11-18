@@ -7,13 +7,16 @@
     "addr:postcode":"37416",
     "addr:street":"Bonny Oaks Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.203987,35.076118,-85.203987,35.076118",
     "geom:latitude":35.076118,
     "geom:longitude":-85.203987,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4501 Bonny Oaks Dr",
     "sg:city":"Chattanooga",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609964,
-    "wof:geomhash":"f80d1a67e484ed25276d008de9e5658d",
+    "wof:geomhash":"d6884d85c15a8fe84c861865f02b8952",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":823271439,
-    "wof:lastmodified":1472645719,
+    "wof:lastmodified":1510942046,
     "wof:name":"Oakwood Baptist Church",
     "wof:parent_id":85810631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773113445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

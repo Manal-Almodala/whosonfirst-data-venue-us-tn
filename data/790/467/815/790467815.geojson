@@ -7,13 +7,16 @@
     "addr:postcode":"37421",
     "addr:street":"Hamilton Place Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.161187,35.036544,-85.161187,35.036544",
     "geom:latitude":35.036544,
     "geom:longitude":-85.161187,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2100 Hamilton Place Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596074,
-    "wof:geomhash":"fd3e657373c56214f38ad849e18605c3",
+    "wof:geomhash":"bc14be94a84bc9959c376088547531bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +61,17 @@
         }
     ],
     "wof:id":790467815,
-    "wof:lastmodified":1472645447,
+    "wof:lastmodified":1510942921,
     "wof:name":"Kb Toys",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        790472065
+    ],
+    "wof:supersedes":[
+        807206221
+    ],
     "wof:tags":[
         "item"
     ]

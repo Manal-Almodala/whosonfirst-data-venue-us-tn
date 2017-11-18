@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.777821,36.154545,-86.777821,36.154545",
     "geom:latitude":36.154545,
     "geom:longitude":-86.777821,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"413 7th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608285,
-    "wof:geomhash":"70627bfff0d24648e46788d4c8480c1f",
+    "wof:geomhash":"72b1909acdd539de72ec2de66d6e89d5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":823196595,
-    "wof:lastmodified":1472645518,
+    "wof:lastmodified":1510942625,
     "wof:name":"Ghertner & Co",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823263763
+    ],
     "wof:tags":[
         "management"
     ]

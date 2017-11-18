@@ -7,13 +7,16 @@
     "addr:postcode":"37215",
     "addr:street":"Crestmoor Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.819481,36.109943,-86.819481,36.109943",
     "geom:latitude":36.109943,
     "geom:longitude":-86.819481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2400 Crestmoor Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589610,
-    "wof:geomhash":"af72ba42ca70b453442d4ee0808d3ff5",
+    "wof:geomhash":"a0e6826b54d2c28c8552a24720694214",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":789667357,
-    "wof:lastmodified":1472645163,
+    "wof:lastmodified":1510941521,
     "wof:name":"For Sale Realty",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823266995
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

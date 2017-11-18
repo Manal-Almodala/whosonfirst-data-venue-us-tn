@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.307743,35.039752,-85.307743,35.039752",
     "geom:latitude":35.039752,
     "geom:longitude":-85.307743,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1250 Market St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601229,
-    "wof:geomhash":"cb524c114d90cb2cd2eb365522f268bd",
+    "wof:geomhash":"4c5e2d480e6881ac49e029d9ca02b6af",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":806805271,
-    "wof:lastmodified":1472646143,
+    "wof:lastmodified":1510941864,
     "wof:name":"Public Works Dept",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823269491
+    ],
     "wof:tags":[
         "development",
         "management",

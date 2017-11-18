@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.030459,35.140263,-90.030459,35.140263",
     "geom:latitude":35.140263,
     "geom:longitude":-90.030459,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"920 Madison Ave Ste 700",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610265,
-    "wof:geomhash":"b81adfe1fb425bb8ae3fc1ed2e3e2446",
+    "wof:geomhash":"ab17c5db72d8e62c22f6d8e35f60ace8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":823279045,
-    "wof:lastmodified":1472645696,
+    "wof:lastmodified":1510942061,
     "wof:name":"Antonius Miller Md",
     "wof:parent_id":85893411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773132145
+    ],
     "wof:tags":[
         "medicine",
         "physician",

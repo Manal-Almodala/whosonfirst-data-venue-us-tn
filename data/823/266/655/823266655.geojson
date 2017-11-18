@@ -7,13 +7,16 @@
     "addr:postcode":"37214",
     "addr:street":"Donelson Pike Ste A",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.66632,36.147792,-86.66632,36.147792",
     "geom:latitude":36.147792,
     "geom:longitude":-86.66632,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"524 Donelson Pike Ste A",
     "sg:city":"Nashville",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609777,
-    "wof:geomhash":"9b47dc149aa7ca71ca2e2d8d3654da00",
+    "wof:geomhash":"fc1c3bd16eb40d95e4fa20c2ec3cf38b",
     "wof:hierarchy":[
         {
             "campus_id":102525035,
@@ -51,12 +54,14 @@
         }
     ],
     "wof:id":823266655,
-    "wof:lastmodified":1472645682,
+    "wof:lastmodified":1510943165,
     "wof:name":"Cut-N-Care",
     "wof:parent_id":102525035,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806871977
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.871371,35.204129,-89.871371,35.204129",
     "geom:latitude":35.204129,
     "geom:longitude":-89.871371,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5705 Stage Rd",
     "sg:city":"Bartlett",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606305,
-    "wof:geomhash":"0ff87183e5bf939c5306a203d581a411",
+    "wof:geomhash":"5dc2c4801acca947affb2ef6a5096bc6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":807336719,
-    "wof:lastmodified":1472646039,
+    "wof:lastmodified":1510943296,
     "wof:name":"TSM Corp",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823208181
+    ],
     "wof:tags":[
         "scientist"
     ]

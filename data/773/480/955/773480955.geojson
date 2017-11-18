@@ -7,6 +7,7 @@
     "addr:postcode":"24201",
     "addr:street":"Gate City Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.215944,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"500 Gate City Hwy",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":773480955,
-    "wof:lastmodified":1510602895,
+    "wof:lastmodified":1510942145,
     "wof:name":"Friedmans Jewelers",
     "wof:parent_id":420547853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722779167
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

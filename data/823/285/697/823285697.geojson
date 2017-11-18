@@ -7,13 +7,16 @@
     "addr:postcode":"38117",
     "addr:street":"Park Ave Ste 102",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.894038,35.106545,-89.894038,35.106545",
     "geom:latitude":35.106545,
     "geom:longitude":-89.894038,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5039 Park Ave Ste 102",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610538,
-    "wof:geomhash":"d07b0f33802a71e24d64e0fae8f82e34",
+    "wof:geomhash":"ba468c90c764cca0bacfaf18182aea67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":823285697,
-    "wof:lastmodified":1472645738,
+    "wof:lastmodified":1510943521,
     "wof:name":"Memphis Physical Therapy",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790457377
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

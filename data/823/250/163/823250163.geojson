@@ -7,13 +7,16 @@
     "addr:postcode":"37701",
     "addr:street":"Cusick Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.982426,35.812662,-83.982426,35.812662",
     "geom:latitude":35.812662,
     "geom:longitude":-83.982426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"121 Cusick Rd",
     "sg:city":"Alcoa",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609338,
-    "wof:geomhash":"e83c22eddde3e0612bafe56dc3954021",
+    "wof:geomhash":"5ebbd4a694271bd97ac31395e92973b2",
     "wof:hierarchy":[
         {
             "campus_id":102527233,
@@ -57,12 +60,14 @@
         }
     ],
     "wof:id":823250163,
-    "wof:lastmodified":1472645643,
+    "wof:lastmodified":1510942306,
     "wof:name":"Starbucks Coffee",
     "wof:parent_id":102527233,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823273323
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

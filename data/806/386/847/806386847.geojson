@@ -7,13 +7,16 @@
     "addr:postcode":"2870;38114",
     "addr:street":"Deadrick Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.965977,35.104468,-89.965977,35.104468",
     "geom:latitude":35.104468,
     "geom:longitude":-89.965977,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2870 Deadrick Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,11 +41,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:node":356819897,
         "sg:id":"SG_3wrLhi7Uzwiqb0t3Ys6SEL_35.104468_-89.965977@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462597731,
-    "wof:geomhash":"f697e36603154d00d38308870fce0173",
+    "wof:geomhash":"7d65e1f17c31d0ee718d0fc89489d6e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +59,17 @@
         }
     ],
     "wof:id":806386847,
-    "wof:lastmodified":1472645441,
+    "wof:lastmodified":1510942734,
     "wof:name":"Melrose High School",
     "wof:parent_id":85808437,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        823283713
+    ],
+    "wof:supersedes":[
+        823283713
+    ],
     "wof:tags":[]
 },
   "bbox": [

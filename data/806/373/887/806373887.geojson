@@ -7,13 +7,16 @@
     "addr:postcode":"37205",
     "addr:street":"Woodmont Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.846466,36.123935,-86.846466,36.123935",
     "geom:latitude":36.123935,
     "geom:longitude":-86.846466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"104 Woodmont Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597629,
-    "wof:geomhash":"5dff67ac94d2dd7b14b53bd7bec5be0f",
+    "wof:geomhash":"8ac1b87da25662fffb2f259e5bdc8dfa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":806373887,
-    "wof:lastmodified":1472645350,
+    "wof:lastmodified":1510943308,
     "wof:name":"Tc Summers INC",
     "wof:parent_id":85844411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773071167
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "establishment"

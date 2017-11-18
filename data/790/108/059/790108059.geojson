@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.778336,36.121042,-86.778336,36.121042",
     "geom:latitude":36.121042,
     "geom:longitude":-86.778336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"808 Kirkwood Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593206,
-    "wof:geomhash":"4f4b6c304024996c85364eae8794b343",
+    "wof:geomhash":"2e3032690b3482a8c5d51eb31f3e104d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":790108059,
-    "wof:lastmodified":1472645132,
+    "wof:lastmodified":1510941911,
     "wof:name":"All Care Dentistry",
     "wof:parent_id":85893439,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823264291
+    ],
     "wof:tags":[
         "dentist"
     ]

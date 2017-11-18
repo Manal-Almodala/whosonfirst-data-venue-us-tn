@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.789682,36.153075,-86.789682,36.153075",
     "geom:latitude":36.153075,
     "geom:longitude":-86.789682,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1528 Demonbreun St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609252,
-    "wof:geomhash":"130d9e6136ab1115a78d9192b9164e3e",
+    "wof:geomhash":"48929c439b97ebbf89388718fc478294",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":823245517,
-    "wof:lastmodified":1472645648,
+    "wof:lastmodified":1510942549,
     "wof:name":"Otter's Chicken Tenders",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823263827
+    ],
     "wof:tags":[
         "american"
     ]

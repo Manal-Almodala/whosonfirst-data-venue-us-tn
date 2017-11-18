@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.050362,35.14785,-90.050362,35.14785",
     "geom:latitude":35.14785,
     "geom:longitude":-90.050362,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"140 Adams Ave Rm 324",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1462610260,
-    "wof:geomhash":"338bed9af286385a63c196db93f31e55",
+    "wof:geomhash":"f7e0e64740fe308998869677b1d36371",
     "wof:hierarchy":[],
     "wof:id":823278887,
-    "wof:lastmodified":1472645736,
+    "wof:lastmodified":1510942519,
     "wof:name":"Circuit Court",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773029211
+    ],
     "wof:tags":[
         "justice"
     ]

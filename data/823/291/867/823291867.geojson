@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.80233,35.091881,-89.80233,35.091881",
     "geom:latitude":35.091881,
     "geom:longitude":-89.80233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2120 Exeter Rd",
     "sg:city":"Germantown",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610776,
-    "wof:geomhash":"365e1b2e7e85a72a45634abc079fc16b",
+    "wof:geomhash":"499d780853e854a04a202b2cfba7a360",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":823291867,
-    "wof:lastmodified":1472645782,
+    "wof:lastmodified":1510942452,
     "wof:name":"Ognibene Foot Clinic",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806390543
+    ],
     "wof:tags":[
         "physician",
         "surgeons"

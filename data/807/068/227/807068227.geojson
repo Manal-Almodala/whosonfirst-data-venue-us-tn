@@ -7,13 +7,16 @@
     "addr:postcode":"37203",
     "addr:street":"Church St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.786756,36.160281,-86.786756,36.160281",
     "geom:latitude":36.160281,
     "geom:longitude":-86.786756,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1000 Church St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603432,
-    "wof:geomhash":"327f4ad05cc5c89436105554485ba50c",
+    "wof:geomhash":"0a19a148c1f92de344b0464f3e4f9880",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":807068227,
-    "wof:lastmodified":1472645476,
+    "wof:lastmodified":1510944093,
     "wof:name":"YMCA",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773221435
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "organization",

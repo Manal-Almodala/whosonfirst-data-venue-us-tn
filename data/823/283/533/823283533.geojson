@@ -7,13 +7,16 @@
     "addr:postcode":"38114",
     "addr:street":"Pendleton St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.971808,35.084362,-89.971808,35.084362",
     "geom:latitude":35.084362,
     "geom:longitude":-89.971808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2240 Pendleton St",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610453,
-    "wof:geomhash":"ecdc9c14a3c914ab7132051c705d0f9a",
+    "wof:geomhash":"a83350c5d22671073f91df4d8ac54bc2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":823283533,
-    "wof:lastmodified":1472645739,
+    "wof:lastmodified":1510941345,
     "wof:name":"Gary's Grocery Market Inc",
     "wof:parent_id":85805535,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806874765
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

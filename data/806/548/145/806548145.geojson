@@ -7,13 +7,16 @@
     "addr:postcode":"38109",
     "addr:street":"W Mitchell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.067923,35.055582,-90.067923,35.055582",
     "geom:latitude":35.055582,
     "geom:longitude":-90.067923,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"70 W Mitchell Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599020,
-    "wof:geomhash":"b9a8d13a766d9c133ad66f7a36c1c8b3",
+    "wof:geomhash":"f9c3b2d244827c8865841aa7938fe9c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":806548145,
-    "wof:lastmodified":1472645792,
+    "wof:lastmodified":1510942432,
     "wof:name":"Nu Era Pest Control",
     "wof:parent_id":420542147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823282133
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

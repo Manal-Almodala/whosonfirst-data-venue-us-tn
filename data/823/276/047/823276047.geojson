@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.693989,35.046252,-89.693989,35.046252",
     "geom:latitude":35.046252,
     "geom:longitude":-89.693989,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"960 W Poplar Ave",
     "sg:city":"Collierville",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610154,
-    "wof:geomhash":"40b40739a0c1acd3e0b7d1d1fc191947",
+    "wof:geomhash":"f3532eab8923888aaa4d889b992dbc9b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":823276047,
-    "wof:lastmodified":1472645690,
+    "wof:lastmodified":1510943631,
     "wof:name":"Perkins Restaurant & Bakery",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823253669
+    ],
     "wof:tags":[]
 },
   "bbox": [

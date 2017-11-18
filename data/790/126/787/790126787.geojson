@@ -7,13 +7,16 @@
     "addr:postcode":"38105",
     "addr:street":"N Pauline St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.029525,35.144203,-90.029525,35.144203",
     "geom:latitude":35.144203,
     "geom:longitude":-90.029525,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"135 N Pauline St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593339,
-    "wof:geomhash":"d12d78ed281931cfbd169d942cb39bd1",
+    "wof:geomhash":"7a3541c3c2c3a6b62fcbd98662bf6ecc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":790126787,
-    "wof:lastmodified":1472645153,
+    "wof:lastmodified":1510941344,
     "wof:name":"Utmg Behavioral Health Ctr",
     "wof:parent_id":85893411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823280519
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical",

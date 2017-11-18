@@ -7,13 +7,16 @@
     "addr:postcode":"38104",
     "addr:street":"S Claybrook St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017952,35.135689,-90.017952,35.135689",
     "geom:latitude":35.135689,
     "geom:longitude":-90.017952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"220 S Claybrook St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610301,
-    "wof:geomhash":"dc190aaf8e114eeed8a8bde87e6f6e98",
+    "wof:geomhash":"b29427f6b1dea6d07e6d34c4dfcd57b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":823279699,
-    "wof:lastmodified":1472645732,
+    "wof:lastmodified":1510943780,
     "wof:name":"Greene, Robert W Jr Md Pc",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773652541
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

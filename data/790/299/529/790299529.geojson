@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.91323,35.148901,-89.91323,35.148901",
     "geom:latitude":35.148901,
     "geom:longitude":-89.91323,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4370 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594765,
-    "wof:geomhash":"d756a9800d7539229967bbebcdb97cec",
+    "wof:geomhash":"e32969689cfb38757b9e43bfe060ddb5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":790299529,
-    "wof:lastmodified":1472645312,
+    "wof:lastmodified":1510943913,
     "wof:name":"Taco Bell",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823288069
+    ],
     "wof:tags":[
         "a",
         "as",

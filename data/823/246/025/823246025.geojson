@@ -7,13 +7,16 @@
     "addr:postcode":"37210",
     "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.746571,36.143551,-86.746571,36.143551",
     "geom:latitude":36.143551,
     "geom:longitude":-86.746571,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"444 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609260,
-    "wof:geomhash":"9f48c87e5b2d2ec8b4b94d0efb57624a",
+    "wof:geomhash":"12120f63af995af81fb5ca3b145ca63f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823246025,
-    "wof:lastmodified":1472645637,
+    "wof:lastmodified":1510942361,
     "wof:name":"Sonic",
     "wof:parent_id":85866801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807038475
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

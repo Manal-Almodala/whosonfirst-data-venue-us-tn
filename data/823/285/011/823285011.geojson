@@ -7,13 +7,16 @@
     "addr:postcode":"38116",
     "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.008335,35.053821,-90.008335,35.053821",
     "geom:latitude":35.053821,
     "geom:longitude":-90.008335,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1652 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610514,
-    "wof:geomhash":"27c59d1fd115874190c381402b249ee4",
+    "wof:geomhash":"faef9531e8080df4740ba2bd3525ad89",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":823285011,
-    "wof:lastmodified":1472645704,
+    "wof:lastmodified":1510943157,
     "wof:name":"Best Pawn Of Whitehaven",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807392477
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

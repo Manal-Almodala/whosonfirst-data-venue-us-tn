@@ -7,13 +7,16 @@
     "addr:postcode":"37830",
     "addr:street":"S Illinois Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.267199,36.008834,-84.267199,36.008834",
     "geom:latitude":36.008834,
     "geom:longitude":-84.267199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"114 S Illinois Ave",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609547,
-    "wof:geomhash":"b1d9531cf5a0285a1005aa9a2f70f4ab",
+    "wof:geomhash":"8132467dec25cf02d20e412c9c985473",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823259721,
-    "wof:lastmodified":1472645676,
+    "wof:lastmodified":1510943601,
     "wof:name":"Arby's",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806381979
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

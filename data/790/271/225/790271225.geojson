@@ -7,13 +7,16 @@
     "addr:postcode":"24201",
     "addr:street":"State St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.181654,36.595033,-82.181654,36.595033",
     "geom:latitude":36.595033,
     "geom:longitude":-82.181654,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"425 State St",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594510,
-    "wof:geomhash":"6df63f0e407519c1501af3e9514bdba2",
+    "wof:geomhash":"8ea80b8ac7a674705f95494df8260bc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":790271225,
-    "wof:lastmodified":1472645290,
+    "wof:lastmodified":1510942629,
     "wof:name":"Worldwide Promedica Inc",
     "wof:parent_id":420547849,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        723446387
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

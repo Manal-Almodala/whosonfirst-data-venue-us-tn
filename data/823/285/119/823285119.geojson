@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.022293,35.032372,-90.022293,35.032372",
     "geom:latitude":35.032372,
     "geom:longitude":-90.022293,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1264 Wesley Dr Suite 100",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610518,
-    "wof:geomhash":"aedacd1d84a2ec37aeb8169360d4a0c8",
+    "wof:geomhash":"b155af4387237d3a1f8200db98bd2f1f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":823285119,
-    "wof:lastmodified":1472645715,
+    "wof:lastmodified":1510941305,
     "wof:name":"Germantown Internal Medicine",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773091563
+    ],
     "wof:tags":[
         "medicine",
         "physician",

@@ -7,13 +7,16 @@
     "addr:postcode":"38141",
     "addr:street":"E Shelby Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.849198,35.020951,-89.849198,35.020951",
     "geom:latitude":35.020951,
     "geom:longitude":-89.849198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6428 E Shelby Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609462,
-    "wof:geomhash":"9fcaf792652f717f5545fbbb8fb418bc",
+    "wof:geomhash":"b73d0d0fc60f3b1e9984366967df95c0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823256191,
-    "wof:lastmodified":1472645650,
+    "wof:lastmodified":1510943662,
     "wof:name":"Burger King",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823292347
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -7,13 +7,16 @@
     "addr:postcode":"38118",
     "addr:street":"Cherry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.917982,35.045866,-89.917982,35.045866",
     "geom:latitude":35.045866,
     "geom:longitude":-89.917982,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3694 Cherry Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610563,
-    "wof:geomhash":"efa3d6af0f1355a5b774aa8d986fbcfd",
+    "wof:geomhash":"fc963b5c81997857840bb3f0e9f5b338",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":823286387,
-    "wof:lastmodified":1472645731,
+    "wof:lastmodified":1510942737,
     "wof:name":"Broadus Automotive",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773526513
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

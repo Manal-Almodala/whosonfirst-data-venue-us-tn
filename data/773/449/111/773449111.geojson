@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.687477,36.305725,-86.687477,36.305725",
     "geom:latitude":36.305725,
     "geom:longitude":-86.687477,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2201 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585830,
-    "wof:geomhash":"99a07a30b4c346ed5cfeaadca3c3cccf",
+    "wof:geomhash":"214ddabf34942fb775ff8b398633ead5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":773449111,
-    "wof:lastmodified":1472645864,
+    "wof:lastmodified":1510941209,
     "wof:name":"Petsmart",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823262745
+    ],
     "wof:tags":[
         "pet",
         "shop"

@@ -7,13 +7,16 @@
     "addr:postcode":"38120",
     "addr:street":"International Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.848426,35.101031,-89.848426,35.101031",
     "geom:latitude":35.101031,
     "geom:longitude":-89.848426,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1661 International Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610610,
-    "wof:geomhash":"00c66b706f315bca564cd0ce8daf7a3a",
+    "wof:geomhash":"8b4626e4038e1e5cfd4d6ba933974661",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":823287625,
-    "wof:lastmodified":1472645742,
+    "wof:lastmodified":1510943404,
     "wof:name":"Longs Medical Supply",
     "wof:parent_id":85870789,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773627083
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "home",

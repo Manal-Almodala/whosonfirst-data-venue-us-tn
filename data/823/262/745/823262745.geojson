@@ -7,13 +7,16 @@
     "addr:postcode":"37115",
     "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.68898,36.304691,-86.68898,36.304691",
     "geom:latitude":36.304691,
     "geom:longitude":-86.68898,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2201 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609628,
-    "wof:geomhash":"4a2c506b20ba23194e8421946e1a7fe7",
+    "wof:geomhash":"1125b60b1b541b0ee9d3154972ace8ce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":823262745,
-    "wof:lastmodified":1472645679,
+    "wof:lastmodified":1510941209,
     "wof:name":"PetSmart",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773449111
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

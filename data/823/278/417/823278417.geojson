@@ -7,6 +7,7 @@
     "addr:postcode":"38103",
     "addr:street":"N Main St Ste 242",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.050948,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"167 N Main St Ste 242",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -44,12 +45,14 @@
     "wof:geomhash":"1af8ad013191c896a912e503d619b839",
     "wof:hierarchy":[],
     "wof:id":823278417,
-    "wof:lastmodified":1510696775,
+    "wof:lastmodified":1510944189,
     "wof:name":"Clerks Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789965417
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "justice"

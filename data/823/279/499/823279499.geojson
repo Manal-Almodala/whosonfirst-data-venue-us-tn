@@ -7,13 +7,16 @@
     "addr:postcode":"38104",
     "addr:street":"Union Ave Ste 200",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.020917,35.137303,-90.020917,35.137303",
     "geom:latitude":35.137303,
     "geom:longitude":-90.020917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1211 Union Ave Ste 200",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610294,
-    "wof:geomhash":"55b76c60bfc177fcbe6559d46199153d",
+    "wof:geomhash":"3c2c26576ca5fcb9f3dfab66c45f537e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":823279499,
-    "wof:lastmodified":1472645726,
+    "wof:lastmodified":1510944150,
     "wof:name":"Semmes-Murphey Clinic",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773346651
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

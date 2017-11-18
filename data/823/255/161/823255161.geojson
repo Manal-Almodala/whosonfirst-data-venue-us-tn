@@ -7,13 +7,16 @@
     "addr:postcode":"38117",
     "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.913525,35.117562,-89.913525,35.117562",
     "geom:latitude":35.117562,
     "geom:longitude":-89.913525,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4465 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609445,
-    "wof:geomhash":"c8d7948b167200174e8999b41ae72572",
+    "wof:geomhash":"233d50bd3a0ef5b3bb502deb382fb530",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":823255161,
-    "wof:lastmodified":1472645646,
+    "wof:lastmodified":1510943546,
     "wof:name":"Chick-fil-A",
     "wof:parent_id":85867185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773235899
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wrap",

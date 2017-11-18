@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.695679,36.127232,-86.695679,36.127232",
     "geom:latitude":36.127232,
     "geom:longitude":-86.695679,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 International Plz # 106",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609805,
-    "wof:geomhash":"6315ef1d96b91b511a54c5c1cc5d2830",
+    "wof:geomhash":"aed6ed8a7795cd786e3daf0854db1dfb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":823267455,
-    "wof:lastmodified":1472645706,
+    "wof:lastmodified":1510941194,
     "wof:name":"Haworth Meyer & Boleyn Inc",
     "wof:parent_id":85853015,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        404126863
+    ],
     "wof:tags":[
         "consulting",
         "engineer"

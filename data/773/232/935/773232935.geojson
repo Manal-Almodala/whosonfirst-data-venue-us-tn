@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017356,35.136843,-90.017356,35.136843",
     "geom:latitude":35.136843,
     "geom:longitude":-90.017356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1331 Union Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584168,
-    "wof:geomhash":"0976bd6fbef26e7b3c3b5a6c786d5b30",
+    "wof:geomhash":"6b09fedbdb430d220c6e7e419face119",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":773232935,
-    "wof:lastmodified":1472645633,
+    "wof:lastmodified":1510942926,
     "wof:name":"SunAmerica",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823279907
+    ],
     "wof:tags":[
         "security"
     ]

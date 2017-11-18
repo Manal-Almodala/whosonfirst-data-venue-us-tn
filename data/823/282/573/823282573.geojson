@@ -7,13 +7,16 @@
     "addr:postcode":"38111",
     "addr:street":"S Highland St Apt",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.945398,35.124078,-89.945398,35.124078",
     "geom:latitude":35.124078,
     "geom:longitude":-89.945398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"274 S Highland St Apt 512",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610421,
-    "wof:geomhash":"496118da82fc039ecd3b5e5cd167fd25",
+    "wof:geomhash":"beb4d74462a2482448a31bcb77dd37b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":823282573,
-    "wof:lastmodified":1472645744,
+    "wof:lastmodified":1510942464,
     "wof:name":"Luther Towers",
     "wof:parent_id":85837075,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806770021
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

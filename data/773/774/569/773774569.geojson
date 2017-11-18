@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.809203,36.148348,-86.809203,36.148348",
     "geom:latitude":36.148348,
     "geom:longitude":-86.809203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 25th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588275,
-    "wof:geomhash":"4ccc63786e803afb6f3e390bf55f511f",
+    "wof:geomhash":"0e0c6a481fb3b035118ae57d7e1db873",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":773774569,
-    "wof:lastmodified":1472646010,
+    "wof:lastmodified":1510941982,
     "wof:name":"Mid State Hearing Aid Center",
     "wof:parent_id":85893447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790318403
+    ],
     "wof:tags":[
         "aids",
         "hearing"

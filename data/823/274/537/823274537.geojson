@@ -7,13 +7,16 @@
     "addr:postcode":"37919",
     "addr:street":"N Northshore Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.003199,35.938107,-84.003199,35.938107",
     "geom:latitude":35.938107,
     "geom:longitude":-84.003199,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1111 N Northshore Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -59,7 +62,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610090,
-    "wof:geomhash":"c1d6de7216f004bc6cd63537a5f7ae28",
+    "wof:geomhash":"c8dee72776e913afac559240d5bf0350",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,12 +75,14 @@
         }
     ],
     "wof:id":823274537,
-    "wof:lastmodified":1472645727,
+    "wof:lastmodified":1510942908,
     "wof:name":"Cooper Realty Investments Inc",
     "wof:parent_id":85805071,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790518131
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant",

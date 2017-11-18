@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.990513,35.136658,-89.990513,35.136658",
     "geom:latitude":35.136658,
     "geom:longitude":-89.990513,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2126 Madison Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610300,
-    "wof:geomhash":"24b4b2275122b38a3809f2e126385930",
+    "wof:geomhash":"c5335eff7c722131c94afe022f03d88d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":823279663,
-    "wof:lastmodified":1472645730,
+    "wof:lastmodified":1510941945,
     "wof:name":"Yosemite Sam's",
     "wof:parent_id":85867189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823215331
+    ],
     "wof:tags":[]
 },
   "bbox": [

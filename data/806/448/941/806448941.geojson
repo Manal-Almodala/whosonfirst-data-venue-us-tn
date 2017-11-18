@@ -7,13 +7,16 @@
     "addr:postcode":"38119",
     "addr:street":"Lynnfield Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.868843,35.094602,-89.868843,35.094602",
     "geom:latitude":35.094602,
     "geom:longitude":-89.868843,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1355 Lynnfield Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598237,
-    "wof:geomhash":"52489d9f21969b058931f9556c5df002",
+    "wof:geomhash":"526dbac68a21582879e80065541c4af7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":806448941,
-    "wof:lastmodified":1472645577,
+    "wof:lastmodified":1510941575,
     "wof:name":"M G Industries",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823287389
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "liquefied",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.519886,36.542485,-82.519886,36.542485",
     "geom:latitude":36.542485,
     "geom:longitude":-82.519886,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1805 N Eastman Rd",
     "sg:city":"Kingsport",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585679,
-    "wof:geomhash":"11197b51a0c4d8049afcb506b0ac649f",
+    "wof:geomhash":"5bfe26d286d6a1e7e6584766079d3a76",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":773431331,
-    "wof:lastmodified":1472645875,
+    "wof:lastmodified":1510943639,
     "wof:name":"Fuji House Restaurant",
     "wof:parent_id":85843109,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823273247
+    ],
     "wof:tags":[
         "drinking",
         "eating"

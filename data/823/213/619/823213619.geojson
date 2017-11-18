@@ -7,13 +7,16 @@
     "addr:postcode":"38105",
     "addr:street":"Washington Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.033173,35.14453,-90.033173,35.14453",
     "geom:latitude":35.14453,
     "geom:longitude":-90.033173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"777 Washington Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608595,
-    "wof:geomhash":"d027a3219e58e8c4029bb513a3180051",
+    "wof:geomhash":"9fcb1de6871f9aa38ff05512cc0411d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":823213619,
-    "wof:lastmodified":1472645573,
+    "wof:lastmodified":1510943417,
     "wof:name":"Dennis D Black MD",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823280303
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

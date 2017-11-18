@@ -7,13 +7,16 @@
     "addr:postcode":"37402",
     "addr:street":"Market St Ste 3050",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.308273,35.04092,-85.308273,35.04092",
     "geom:latitude":35.04092,
     "geom:longitude":-85.308273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1250 Market St Ste 3050",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609899,
-    "wof:geomhash":"1b92af040b83de8dfe6bd310e95b4299",
+    "wof:geomhash":"37de1c3c3ce6f519a6e3654b18f9fdea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":823269491,
-    "wof:lastmodified":1472645723,
+    "wof:lastmodified":1510941864,
     "wof:name":"Public Works Dept",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806805271
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

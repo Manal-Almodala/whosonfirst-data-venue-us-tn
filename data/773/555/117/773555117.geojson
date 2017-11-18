@@ -7,13 +7,16 @@
     "addr:postcode":"24201",
     "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.192279,36.602738,-82.192279,36.602738",
     "geom:latitude":36.602738,
     "geom:longitude":-82.192279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1315 Euclid Ave",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586608,
-    "wof:geomhash":"a148cb9ec0d9e9e6cff3c240dcb4dce4",
+    "wof:geomhash":"efbf699a8d08dfa52a1f7ba92d741449",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,15 @@
         }
     ],
     "wof:id":773555117,
-    "wof:lastmodified":1472645905,
+    "wof:lastmodified":1510943302,
     "wof:name":"Ryans",
     "wof:parent_id":85805449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        722799267,
+        739594027
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.017825,35.136864,-90.017825,35.136864",
     "geom:latitude":35.136864,
     "geom:longitude":-90.017825,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 S Claybrook St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587344,
-    "wof:geomhash":"bac3077eeef69e9c94f2e6f5dee2d915",
+    "wof:geomhash":"80484d9871931d31da95279dbd177807",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":773652541,
-    "wof:lastmodified":1472645970,
+    "wof:lastmodified":1510943780,
     "wof:name":"Greene Robert W Jr MD PC",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823279699
+    ],
     "wof:tags":[
         "medical"
     ]

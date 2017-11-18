@@ -7,13 +7,16 @@
     "addr:postcode":"37075",
     "addr:street":"Sanders Ferry Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.616386,36.305351,-86.616386,36.305351",
     "geom:latitude":36.305351,
     "geom:longitude":-86.616386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"101 Sanders Ferry Rd",
     "sg:city":"Hendersonville",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609613,
-    "wof:geomhash":"eb84d1f7bd274974b3878a38875574b2",
+    "wof:geomhash":"ef067b231c0bf7d866cd10365dec0698",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":823262479,
-    "wof:lastmodified":1472645674,
+    "wof:lastmodified":1510941365,
     "wof:name":"Mallard's Restaurant",
     "wof:parent_id":85837037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789791911
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

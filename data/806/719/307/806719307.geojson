@@ -7,13 +7,16 @@
     "addr:postcode":"37421",
     "addr:street":"Cromwell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.198635,35.066118,-85.198635,35.066118",
     "geom:latitude":35.066118,
     "geom:longitude":-85.198635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4295 Cromwell Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600494,
-    "wof:geomhash":"5bb635f130395398533c05f9ba35880e",
+    "wof:geomhash":"493e98191eb26b7351ba7ba1cc95a8fc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +65,14 @@
         }
     ],
     "wof:id":806719307,
-    "wof:lastmodified":1472646112,
+    "wof:lastmodified":1510942931,
     "wof:name":"Fastenal Company",
     "wof:parent_id":85810631,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773697061
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "construction",

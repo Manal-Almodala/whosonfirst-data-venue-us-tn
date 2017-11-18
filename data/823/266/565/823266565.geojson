@@ -7,13 +7,16 @@
     "addr:postcode":"37214",
     "addr:street":"Old Elm Hill Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.670065,36.151162,-86.670065,36.151162",
     "geom:latitude":36.151162,
     "geom:longitude":-86.670065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2739 Old Elm Hill Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609774,
-    "wof:geomhash":"93159686635f76e223869aa0bc38b391",
+    "wof:geomhash":"f92907983c0f83d07f32761313fcf55b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":823266565,
-    "wof:lastmodified":1472645678,
+    "wof:lastmodified":1510942908,
     "wof:name":"Ellendale's Restaurant",
     "wof:parent_id":85811505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823258687
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"38119",
     "addr:street":"Park Ave Ste 802",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.861907,35.100006,-89.861907,35.100006",
     "geom:latitude":35.100006,
     "geom:longitude":-89.861907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6005 Park Ave Ste 802",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -55,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610597,
-    "wof:geomhash":"dde5c29842ed7a4324468f9225c8b0b0",
+    "wof:geomhash":"1d857d8737f35f9d4384600fe6127e39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":823287215,
-    "wof:lastmodified":1472645723,
+    "wof:lastmodified":1510943139,
     "wof:name":"Parker Pain & Rehab Center",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790296819
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

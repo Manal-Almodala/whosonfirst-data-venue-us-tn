@@ -7,13 +7,16 @@
     "addr:postcode":"38103",
     "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.047394,35.146029,-90.047394,35.146029",
     "geom:latitude":35.146029,
     "geom:longitude":-90.047394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 Jefferson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583113,
-    "wof:geomhash":"37a76a159a4d9eb6864c5466fe614d57",
+    "wof:geomhash":"68eb36dfe0f8e80829a0848937539462",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":773094601,
-    "wof:lastmodified":1472645398,
+    "wof:lastmodified":1510944050,
     "wof:name":"Area Office",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823279121
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "housing",

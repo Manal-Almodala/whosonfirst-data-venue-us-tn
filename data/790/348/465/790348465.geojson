@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.76761,36.115034,-86.76761,36.115034",
     "geom:latitude":36.115034,
     "geom:longitude":-86.76761,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2824 Azalea Pl",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595125,
-    "wof:geomhash":"1a450915de4bf7820d0a9d321f31eba3",
+    "wof:geomhash":"81c9ba952a201811ba103344a8cd01ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":790348465,
-    "wof:lastmodified":1472645342,
+    "wof:lastmodified":1510943914,
     "wof:name":"Colors Salon",
     "wof:parent_id":85866801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823264135
+    ],
     "wof:tags":[
         "shop"
     ]

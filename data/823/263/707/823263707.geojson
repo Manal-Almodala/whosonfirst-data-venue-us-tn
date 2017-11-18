@@ -7,13 +7,16 @@
     "addr:postcode":"37203",
     "addr:street":"16Th Ave S Ste 205",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.792159,36.153176,-86.792159,36.153176",
     "geom:latitude":36.153176,
     "geom:longitude":-86.792159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"118 16th Ave S Ste 205",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609669,
-    "wof:geomhash":"689bf916f5bbf3bccf23cc61791792f8",
+    "wof:geomhash":"9bf77f6ac75108eafd1aa4e2d5189429",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823263707,
-    "wof:lastmodified":1472645676,
+    "wof:lastmodified":1510941465,
     "wof:name":"Tim McGraw Fan Club",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773814315
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

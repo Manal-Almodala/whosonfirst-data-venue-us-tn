@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.864791,35.099903,-89.864791,35.099903",
     "geom:latitude":35.099903,
     "geom:longitude":-89.864791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5959 Park Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610597,
-    "wof:geomhash":"c2a604d2bb1475e17a845872b1d9c9dc",
+    "wof:geomhash":"1b618a89da3ba9c3f8e1457c751d8db6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":823287221,
-    "wof:lastmodified":1472645723,
+    "wof:lastmodified":1510944029,
     "wof:name":"YMCA",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823204847
+    ],
     "wof:tags":[
         "health"
     ]

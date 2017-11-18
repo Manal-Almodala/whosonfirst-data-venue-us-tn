@@ -7,13 +7,16 @@
     "addr:postcode":"37421",
     "addr:street":"1612 Gunbarrel Rd Suite 301",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.161565,35.019106,-85.161565,35.019106",
     "geom:latitude":35.019106,
     "geom:longitude":-85.161565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1612 Gunbarrel Rd Suite 301",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609984,
-    "wof:geomhash":"1f1edad9f245c8ef5c8073284c34a908",
+    "wof:geomhash":"e6ded049925b2a228f1982d64de311d1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823272023,
-    "wof:lastmodified":1472645688,
+    "wof:lastmodified":1510942990,
     "wof:name":"Shabo Dental Center & Spa",
     "wof:parent_id":85805409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790498439
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dental",

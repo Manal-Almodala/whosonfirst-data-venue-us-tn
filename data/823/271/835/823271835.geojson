@@ -7,13 +7,16 @@
     "addr:postcode":"37421",
     "addr:street":"Hamilton Place Blvd Ste K4",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.161003,35.0369,-85.161003,35.0369",
     "geom:latitude":35.0369,
     "geom:longitude":-85.161003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2100 Hamilton Place Blvd Ste K4",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -67,7 +70,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609977,
-    "wof:geomhash":"ed998875491b8c3a553fc8ed46a48171",
+    "wof:geomhash":"354d792a967a67ebf0fb0e6e499a7606",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -80,12 +83,14 @@
         }
     ],
     "wof:id":823271835,
-    "wof:lastmodified":1472645729,
+    "wof:lastmodified":1510943806,
     "wof:name":"T-Mobile",
     "wof:parent_id":85824831,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773220901
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telecommunication",

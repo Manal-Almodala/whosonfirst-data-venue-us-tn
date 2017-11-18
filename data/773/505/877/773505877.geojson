@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.035611,35.142709,-90.035611,35.142709",
     "geom:latitude":35.142709,
     "geom:longitude":-90.035611,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"711 Jefferson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586246,
-    "wof:geomhash":"f986324e74fc74f90f1281dacf000472",
+    "wof:geomhash":"9d2ff9f0362dde720d0f6912af1e6182",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +62,15 @@
         }
     ],
     "wof:id":773505877,
-    "wof:lastmodified":1472645925,
+    "wof:lastmodified":1510942822,
     "wof:name":"Memphis Oral School For Deaf",
     "wof:parent_id":85893411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823280431
+    ],
     "wof:tags":[
         "child",
         "day",

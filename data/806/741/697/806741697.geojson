@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.816195,36.106229,-86.816195,36.106229",
     "geom:latitude":36.106229,
     "geom:longitude":-86.816195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2126 Abbott Martin Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600693,
-    "wof:geomhash":"8d655c41dbb001480af508e0df6df1a3",
+    "wof:geomhash":"91588c92e9a76a481ae94b1d699e80b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":806741697,
-    "wof:lastmodified":1472646124,
+    "wof:lastmodified":1510942438,
     "wof:name":"Dillard's",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823267063
+    ],
     "wof:tags":[]
 },
   "bbox": [

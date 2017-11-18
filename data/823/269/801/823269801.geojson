@@ -7,13 +7,16 @@
     "addr:postcode":"37403",
     "addr:street":"E 4Th St Ste 301",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.302042,35.051542,-85.302042,35.051542",
     "geom:latitude":35.051542,
     "geom:longitude":-85.302042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"651 E 4th St Ste 301",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609909,
-    "wof:geomhash":"f80d243b000d57508ebfb364051634fc",
+    "wof:geomhash":"615b161a8d8fc257da87996540d33829",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":823269801,
-    "wof:lastmodified":1472645735,
+    "wof:lastmodified":1510943076,
     "wof:name":"Quinn Dds Assoc",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790519263
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

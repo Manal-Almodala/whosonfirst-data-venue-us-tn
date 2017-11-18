@@ -7,13 +7,16 @@
     "addr:postcode":"38119",
     "addr:street":"Quince Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.847026,35.070398,-89.847026,35.070398",
     "geom:latitude":35.070398,
     "geom:longitude":-89.847026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6524 Quince Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609448,
-    "wof:geomhash":"471b60a369cb8d082679ebc7e53f6994",
+    "wof:geomhash":"19f18029f5d5c25a48d5927d6a170164",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823255379,
-    "wof:lastmodified":1472645655,
+    "wof:lastmodified":1510944150,
     "wof:name":"Mayuri Indian Cuisine",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823287277
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "indian",

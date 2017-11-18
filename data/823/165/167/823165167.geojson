@@ -7,13 +7,16 @@
     "addr:postcode":"37924",
     "addr:street":"Asheville Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.839267,36.011313,-83.839267,36.011313",
     "geom:latitude":36.011313,
     "geom:longitude":-83.839267,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5720 Asheville Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -41,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607871,
-    "wof:geomhash":"a995544fa20ee7ba6b6c16af807af229",
+    "wof:geomhash":"161e7e07314d84eb299b98ed34c46dfd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +56,14 @@
         }
     ],
     "wof:id":823165167,
-    "wof:lastmodified":1472645431,
+    "wof:lastmodified":1510942190,
     "wof:name":"Kmart",
     "wof:parent_id":85810853,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789788253
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

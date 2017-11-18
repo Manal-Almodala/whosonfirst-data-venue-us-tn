@@ -7,6 +7,7 @@
     "addr:postcode":"24201",
     "addr:street":"Euclid Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.192279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1315 Euclid Ave",
     "sg:city":"Bristol",
     "sg:classifiers":[
@@ -58,12 +59,15 @@
         }
     ],
     "wof:id":789743415,
-    "wof:lastmodified":1510874675,
+    "wof:lastmodified":1510943251,
     "wof:name":"Ryan's Grill Buffet & Bakery",
     "wof:parent_id":85805449,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        739508223,
+        739740823
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"37745",
     "addr:street":"E Andrew Johnson Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.813834,36.17999,-82.813834,36.17999",
     "geom:latitude":36.17999,
     "geom:longitude":-82.813834,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"590 E Andrew Johnson Hwy",
     "sg:city":"Greeneville",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610052,
-    "wof:geomhash":"d3c5c55723892e5d10bc2bae45d3d8f0",
+    "wof:geomhash":"86acdf58331e4e615cdb933df7323b68",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":823273481,
-    "wof:lastmodified":1472645722,
+    "wof:lastmodified":1510944109,
     "wof:name":"China Buffet",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806913175
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

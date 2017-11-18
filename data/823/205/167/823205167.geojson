@@ -7,13 +7,16 @@
     "addr:postcode":"38008",
     "addr:street":"N Main St Bolivar",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.987828,35.256999,-88.987828,35.256999",
     "geom:latitude":35.256999,
     "geom:longitude":-88.987828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 N Main St",
     "sg:city":"Bolivar",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462608446,
-    "wof:geomhash":"53d220079763505eb762c9dd8d9e95ed",
+    "wof:geomhash":"46a6eaa37f00c739bf348b0170a83d95",
     "wof:hierarchy":[],
     "wof:id":823205167,
-    "wof:lastmodified":1472645546,
+    "wof:lastmodified":1510943986,
     "wof:name":"Hardeman County Chancery Clerk",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773675239
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "county"

@@ -7,13 +7,16 @@
     "addr:postcode":"37404",
     "addr:street":"Mccallie Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.278862,35.037449,-85.278862,35.037449",
     "geom:latitude":35.037449,
     "geom:longitude":-85.278862,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1600 Mccallie Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609914,
-    "wof:geomhash":"a87fd81f45ad303eee22a696181d73d3",
+    "wof:geomhash":"53b3b4c9ab029d26ab3e747c7645a175",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":823269953,
-    "wof:lastmodified":1472645741,
+    "wof:lastmodified":1510942747,
     "wof:name":"Wally's Restaurant",
     "wof:parent_id":420541735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806933869
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

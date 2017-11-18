@@ -7,13 +7,16 @@
     "addr:postcode":"37212",
     "addr:street":"21St Ave S Ste 3600",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.800568,36.139141,-86.800568,36.139141",
     "geom:latitude":36.139141,
     "geom:longitude":-86.800568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1500 21st Ave S Ste 3600",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609766,
-    "wof:geomhash":"b858c5f9e1788cc7e79828bf7fb7c9f2",
+    "wof:geomhash":"38fe6bd19e40bc1c2844d80ea723d437",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":823266331,
-    "wof:lastmodified":1472645671,
+    "wof:lastmodified":1510941338,
     "wof:name":"Renal Care Group, Inc",
     "wof:parent_id":85893447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790487917
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dialysis"

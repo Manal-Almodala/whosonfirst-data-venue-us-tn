@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.66568,36.148769,-86.66568,36.148769",
     "geom:latitude":36.148769,
     "geom:longitude":-86.66568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2828 Elm Hill Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586531,
-    "wof:geomhash":"a2733cd5de4ee16eca3d09514346d276",
+    "wof:geomhash":"00c0ebbf4f2709fca1f0a9603b8bad13",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":773545505,
-    "wof:lastmodified":1472645914,
+    "wof:lastmodified":1510941463,
     "wof:name":"Tulip Nails",
     "wof:parent_id":85811505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823266501
+    ],
     "wof:tags":[
         "shop"
     ]

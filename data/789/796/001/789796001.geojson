@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.316824,35.084835,-85.316824,35.084835",
     "geom:latitude":35.084835,
     "geom:longitude":-85.316824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1868 Dayton Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590612,
-    "wof:geomhash":"5fd036ee444e28dbd698bb76b367249d",
+    "wof:geomhash":"a3b03c6d673ff7eebc13eea8432c3ee0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":789796001,
-    "wof:lastmodified":1472645192,
+    "wof:lastmodified":1510941341,
     "wof:name":"Wendys",
     "wof:parent_id":420541699,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823258951
+    ],
     "wof:tags":[
         "fast"
     ]

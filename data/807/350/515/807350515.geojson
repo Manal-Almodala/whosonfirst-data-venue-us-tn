@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.881516,35.026061,-89.881516,35.026061",
     "geom:latitude":35.026061,
     "geom:longitude":-89.881516,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4471 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606510,
-    "wof:geomhash":"f1be1dec3621beb2738103a65e388212",
+    "wof:geomhash":"99c40c8947a9dff108216f2361cacde8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":807350515,
-    "wof:lastmodified":1472646055,
+    "wof:lastmodified":1510943722,
     "wof:name":"Archer's Auto Care",
     "wof:parent_id":85870783,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823292521
+    ],
     "wof:tags":[
         "repairing",
         "automotive",

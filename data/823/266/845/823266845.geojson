@@ -7,13 +7,16 @@
     "addr:postcode":"37214",
     "addr:street":"Bell Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.629059,36.131748,-86.629059,36.131748",
     "geom:latitude":36.131748,
     "geom:longitude":-86.629059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3361 Bell Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609785,
-    "wof:geomhash":"4be33a6345bf03f02eb8ec7a34542693",
+    "wof:geomhash":"2f184bf1e18aef3b72823465817240e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":823266845,
-    "wof:lastmodified":1472645681,
+    "wof:lastmodified":1510942339,
     "wof:name":"Elm Hill Marina",
     "wof:parent_id":85893407,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789988295
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"38118",
     "addr:street":"S Perkins Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.905737,35.063355,-89.905737,35.063355",
     "geom:latitude":35.063355,
     "geom:longitude":-89.905737,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3111 S Perkins Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610577,
-    "wof:geomhash":"4058e7b20a99971fa2f0eea91e1044e0",
+    "wof:geomhash":"993e67b409d77d0802fc4ce62c4ef76f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":823286795,
-    "wof:lastmodified":1472645751,
+    "wof:lastmodified":1510944066,
     "wof:name":"Allstars Hot Wings",
     "wof:parent_id":85870785,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790358875
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

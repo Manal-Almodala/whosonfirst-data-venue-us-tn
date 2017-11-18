@@ -7,13 +7,16 @@
     "addr:postcode":"38120",
     "addr:street":"Humphreys Ctr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.857281,35.128319,-89.857281,35.128319",
     "geom:latitude":35.128319,
     "geom:longitude":-89.857281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"80 Humphreys Ctr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610615,
-    "wof:geomhash":"ef4a2802f43f2fa5c338793f14596c18",
+    "wof:geomhash":"c470f16ef5b238f72ec5a3d81f3d0d94",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":823287763,
-    "wof:lastmodified":1472645748,
+    "wof:lastmodified":1510942720,
     "wof:name":"East Memphis Surgery Center",
     "wof:parent_id":85844747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790316795
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "surgery"

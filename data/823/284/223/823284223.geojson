@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.845366,35.049539,-89.845366,35.049539",
     "geom:latitude":35.049539,
     "geom:longitude":-89.845366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6490 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610481,
-    "wof:geomhash":"733548467f6a302dab8ecbe95e2ea70a",
+    "wof:geomhash":"0fa44d584f1424d61a6488a899d3008d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":823284223,
-    "wof:lastmodified":1472645728,
+    "wof:lastmodified":1510943788,
     "wof:name":"Bukky Fashion Store",
     "wof:parent_id":85870781,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823170151
+    ],
     "wof:tags":[]
 },
   "bbox": [

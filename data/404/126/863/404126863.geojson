@@ -7,13 +7,16 @@
     "addr:postcode":"37217",
     "addr:street":"International Plz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.693454,36.126792,-86.693454,36.126792",
     "geom:latitude":36.126792,
     "geom:longitude":-86.693454,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2 International Plz",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
         "sg:id":"SG_5aOiJs4igYT3wSZYOsvROc_36.126792_-86.693454@1294204733"
     },
     "wof:country":"US",
-    "wof:geomhash":"9f98aade6cf6e00132719b7cca38c1d5",
+    "wof:geomhash":"0baaa88d1b9a002dc3538334b7e561af",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":404126863,
-    "wof:lastmodified":1472645209,
+    "wof:lastmodified":1510941194,
     "wof:name":"Haworth Meyer & Boleyn Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823267455
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "engineer"

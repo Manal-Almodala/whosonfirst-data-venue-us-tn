@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.891438,35.106442,-89.891438,35.106442",
     "geom:latitude":35.106442,
     "geom:longitude":-89.891438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5118 Park Ave Ste 601",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610530,
-    "wof:geomhash":"bcf604070016f8a756118c46a19a287f",
+    "wof:geomhash":"8a8d99015a2733884337301b920fe18e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,15 @@
         }
     ],
     "wof:id":823285491,
-    "wof:lastmodified":1472645731,
+    "wof:lastmodified":1510942052,
     "wof:name":"Dms",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789709247
+    ],
     "wof:tags":[
         "metals-precious",
         "jewelers-wholesale",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.803207,35.966926,-86.803207,35.966926",
     "geom:latitude":35.966926,
     "geom:longitude":-86.803207,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1616 Westgate Cir",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602348,
-    "wof:geomhash":"e03058a7c23baabd09997993d32f4735",
+    "wof:geomhash":"70319a4f0d0470c7a3c48550d71d439f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":806938409,
-    "wof:lastmodified":1472646193,
+    "wof:lastmodified":1510941581,
     "wof:name":"Cognex Corporation",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789920845
+    ],
     "wof:tags":[
         "optical",
         "mfg"

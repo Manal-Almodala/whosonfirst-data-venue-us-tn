@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.889537,35.99163,-83.889537,35.99163",
     "geom:latitude":35.99163,
     "geom:longitude":-83.889537,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2828 E Magnolia Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601242,
-    "wof:geomhash":"cb11fa8a8f9e1ed08c4fff1e635c5be7",
+    "wof:geomhash":"7658ef19e1cafa258c8fb8a99e5fe188",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":806806983,
-    "wof:lastmodified":1472646150,
+    "wof:lastmodified":1510941805,
     "wof:name":"Wok & Roll",
     "wof:parent_id":85837715,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823274155
+    ],
     "wof:tags":[
         "eating"
     ]

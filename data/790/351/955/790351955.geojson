@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.894258,35.234108,-89.894258,35.234108",
     "geom:latitude":35.234108,
     "geom:longitude":-89.894258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3980 New Covington Pike",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595152,
-    "wof:geomhash":"58e967fbbfd7ea801028ffb644f20486",
+    "wof:geomhash":"f4a50dab12983ecca2862ea7238743f6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":790351955,
-    "wof:lastmodified":1472645346,
+    "wof:lastmodified":1510943735,
     "wof:name":"Orthopaedic Memphis Group PC",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823289633
+    ],
     "wof:tags":[
         "physician"
     ]

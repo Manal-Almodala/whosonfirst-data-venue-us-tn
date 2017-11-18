@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.808436,35.209711,-89.808436,35.209711",
     "geom:latitude":35.209711,
     "geom:longitude":-89.808436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3130 Appling Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610718,
-    "wof:geomhash":"8aaded9f7fb994c0ab30f54dfb22f447",
+    "wof:geomhash":"43e5556ed6e9f7e298fb22e86bfd74e3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":823290473,
-    "wof:lastmodified":1472645768,
+    "wof:lastmodified":1510943877,
     "wof:name":"Tri-State Exterminating Greenlawn Inc",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823290349
+    ],
     "wof:tags":[]
 },
   "bbox": [

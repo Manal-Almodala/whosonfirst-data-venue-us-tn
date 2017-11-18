@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.084336,35.916288,-84.084336,35.916288",
     "geom:latitude":35.916288,
     "geom:longitude":-84.084336,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"205 N Peters Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610102,
-    "wof:geomhash":"1fe0b4bef833a1d34571beeade0586ef",
+    "wof:geomhash":"a60fb0c202a55fc258e8c584d8dd84b4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,13 +50,15 @@
         }
     ],
     "wof:id":823274853,
-    "wof:lastmodified":1472645745,
+    "wof:lastmodified":1510941750,
     "wof:name":"Panera Bread",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823253179
+    ],
     "wof:tags":[]
 },
   "bbox": [

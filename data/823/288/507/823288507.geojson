@@ -7,13 +7,16 @@
     "addr:postcode":"38125",
     "addr:street":"Winchester Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.827282,35.049068,-89.827282,35.049068",
     "geom:latitude":35.049068,
     "geom:longitude":-89.827282,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7065 Winchester Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610642,
-    "wof:geomhash":"a0feb000b3d95b545255878d2324e0e4",
+    "wof:geomhash":"39092631c2b15c0d2088a622e5296674",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":823288507,
-    "wof:lastmodified":1472645770,
+    "wof:lastmodified":1510943975,
     "wof:name":"China Pan Buffet",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806983691
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,13 +7,16 @@
     "addr:postcode":"38111",
     "addr:street":"Plaza Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.946304,35.129471,-89.946304,35.129471",
     "geom:latitude":35.129471,
     "geom:longitude":-89.946304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3430 Plaza Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +40,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610402,
-    "wof:geomhash":"489005dd61394ec9b910539464104610",
+    "wof:geomhash":"f2f02d57c1f6a2bda694f31c57a4586d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +53,14 @@
         }
     ],
     "wof:id":823282267,
-    "wof:lastmodified":1472645729,
+    "wof:lastmodified":1510942419,
     "wof:name":"Dollar Tree",
     "wof:parent_id":85893409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773483357
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

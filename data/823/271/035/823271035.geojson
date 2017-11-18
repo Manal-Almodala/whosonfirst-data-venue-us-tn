@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.239151,34.996109,-85.239151,34.996109",
     "geom:latitude":34.996109,
     "geom:longitude":-85.239151,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4321 Ringgold Rd Ste 107",
     "sg:city":"Chattanooga",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609950,
-    "wof:geomhash":"6873319b11a000c219f70b2ee16d5969",
+    "wof:geomhash":"8c2776fb07fd0f85b98d662540955d78",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":823271035,
-    "wof:lastmodified":1472645692,
+    "wof:lastmodified":1510943996,
     "wof:name":"Sunstar Tan",
     "wof:parent_id":85805687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790055893
+    ],
     "wof:tags":[]
 },
   "bbox": [

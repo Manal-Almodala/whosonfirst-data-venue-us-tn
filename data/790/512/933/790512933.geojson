@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.785568,35.058186,-89.785568,35.058186",
     "geom:latitude":35.058186,
     "geom:longitude":-89.785568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3350 Players Club Pkwy",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596474,
-    "wof:geomhash":"3b1b85ddc3e7edfba75ee109b6b31ce8",
+    "wof:geomhash":"afd7ec4ddf0058a6e7ba4e99f9972ef7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":790512933,
-    "wof:lastmodified":1472645546,
+    "wof:lastmodified":1510941758,
     "wof:name":"Protech Systems Group Inc",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857452295
+    ],
     "wof:tags":[
         "designer",
         "consultant",

@@ -7,13 +7,16 @@
     "addr:postcode":"38119",
     "addr:street":"Poplar Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.882957,35.10728,-89.882957,35.10728",
     "geom:latitude":35.10728,
     "geom:longitude":-89.882957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5384 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -55,7 +58,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604342,
-    "wof:geomhash":"c77dfb08f9344cdb90683728775e4244",
+    "wof:geomhash":"e1377841f930ee3b0e2b8ea259ba4642",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,12 +71,14 @@
         }
     ],
     "wof:id":807157257,
-    "wof:lastmodified":1472645609,
+    "wof:lastmodified":1510944023,
     "wof:name":"J Henry & Co",
     "wof:parent_id":85807811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823287315
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "planning",

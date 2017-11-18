@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.291888,35.04827,-85.291888,35.04827",
     "geom:latitude":35.04827,
     "geom:longitude":-85.291888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"979 E 3rd St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593704,
-    "wof:geomhash":"f1e39c263657958256eab5062ca27d84",
+    "wof:geomhash":"e7c74edc9e685e2efa9a79e44051874a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":790171295,
-    "wof:lastmodified":1472645200,
+    "wof:lastmodified":1510944160,
     "wof:name":"Cherry Collin MD",
     "wof:parent_id":85876735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823269867
+    ],
     "wof:tags":[
         "medical"
     ]

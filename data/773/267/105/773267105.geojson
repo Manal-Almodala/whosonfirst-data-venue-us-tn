@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051405,35.148766,-90.051405,35.148766",
     "geom:latitude":35.148766,
     "geom:longitude":-90.051405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"167 N Main St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1462584416,
-    "wof:geomhash":"89fdb2ed8ac77970831e40270e58597e",
+    "wof:geomhash":"64fb4bb08765d9f1c6a2eb6557699a8d",
     "wof:hierarchy":[],
     "wof:id":773267105,
-    "wof:lastmodified":1472645794,
+    "wof:lastmodified":1510941566,
     "wof:name":"Congressman Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823278473
+    ],
     "wof:tags":[
         "legislative"
     ]

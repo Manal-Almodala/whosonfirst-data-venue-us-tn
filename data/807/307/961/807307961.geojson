@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.88589,35.062086,-89.88589,35.062086",
     "geom:latitude":35.062086,
     "geom:longitude":-89.88589,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3113 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605937,
-    "wof:geomhash":"0ba1cd335110160ae369076f4752b1fd",
+    "wof:geomhash":"4952617dbd042a6b66603e668ccd6eca",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +67,15 @@
         }
     ],
     "wof:id":807307961,
-    "wof:lastmodified":1472645992,
+    "wof:lastmodified":1510943879,
     "wof:name":"Bloomies Flowers & Gifts",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823284043
+    ],
     "wof:tags":[]
 },
   "bbox": [

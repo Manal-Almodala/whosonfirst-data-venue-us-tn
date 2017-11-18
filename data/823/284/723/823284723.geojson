@@ -7,13 +7,16 @@
     "addr:postcode":"38116",
     "addr:street":"Millbranch Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.007621,35.010926,-90.007621,35.010926",
     "geom:latitude":35.010926,
     "geom:longitude":-90.007621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5038 Millbranch Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610503,
-    "wof:geomhash":"ae96f09b606165c693c9d4329ec36a49",
+    "wof:geomhash":"397d49a5c93e080e939d8939f766e525",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,12 +52,14 @@
         }
     ],
     "wof:id":823284723,
-    "wof:lastmodified":1472645754,
+    "wof:lastmodified":1510943768,
     "wof:name":"Inner Man Church Of The Future",
     "wof:parent_id":85847303,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773424395
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

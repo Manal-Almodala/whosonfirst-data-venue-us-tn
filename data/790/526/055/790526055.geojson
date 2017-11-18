@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.784709,35.055671,-89.784709,35.055671",
     "geom:latitude":35.055671,
     "geom:longitude":-89.784709,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8347 W Range Cove",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596591,
-    "wof:geomhash":"1d9b778eb604e911c264a4e3161945b1",
+    "wof:geomhash":"fa868466eb8c1351a298a6a32f286b95",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":790526055,
-    "wof:lastmodified":1472645527,
+    "wof:lastmodified":1510943649,
     "wof:name":"PI KAPPA ALPHA FRATERNITY INTE",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857095651
+    ],
     "wof:tags":[
         "fraternity",
         "social"

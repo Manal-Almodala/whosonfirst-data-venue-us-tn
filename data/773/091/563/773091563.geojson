@@ -7,13 +7,16 @@
     "addr:postcode":"38116",
     "addr:street":"Wesley Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.020854,35.032448,-90.020854,35.032448",
     "geom:latitude":35.032448,
     "geom:longitude":-90.020854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1264 Wesley Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583090,
-    "wof:geomhash":"2bf1fb7c7b20c6e65a4f37d5a8df51fa",
+    "wof:geomhash":"29281c82aecbb4ff985bb40fd4c4ec9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":773091563,
-    "wof:lastmodified":1472645392,
+    "wof:lastmodified":1510941305,
     "wof:name":"Germantown Internal Medicine",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823285119
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "clinic",

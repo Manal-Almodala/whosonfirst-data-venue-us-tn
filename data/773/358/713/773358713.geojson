@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.051801,35.147461,-90.051801,35.147461",
     "geom:latitude":35.147461,
     "geom:longitude":-90.051801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 N Main St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -39,16 +41,18 @@
     },
     "wof:country":"US",
     "wof:created":1462585107,
-    "wof:geomhash":"b67e70c2564753bed4d860af95fea79f",
+    "wof:geomhash":"b1d9a2f948d5cba7b5cd3ccbd59394d1",
     "wof:hierarchy":[],
     "wof:id":773358713,
-    "wof:lastmodified":1472645847,
+    "wof:lastmodified":1510943105,
     "wof:name":"I M S Engineers",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823239015
+    ],
     "wof:tags":[
         "engineering",
         "architectural"

@@ -7,13 +7,16 @@
     "addr:postcode":"37110",
     "addr:street":"Smithville Hwy Mc Minnville",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.7797,35.696182,-85.7797,35.696182",
     "geom:latitude":35.696182,
     "geom:longitude":-85.7797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1100 Smithville Hwy",
     "sg:city":"Mc Minnville",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605371,
-    "wof:geomhash":"0446805ca377a835cace9abc904ac5e7",
+    "wof:geomhash":"be8cd9cf4d191e0b88653b76d235fed5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":807254099,
-    "wof:lastmodified":1472645799,
+    "wof:lastmodified":1510941962,
     "wof:name":"Vickis",
     "wof:parent_id":420542243,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806769177
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "shop"

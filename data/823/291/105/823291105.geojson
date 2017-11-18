@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.870396,35.204163,-89.870396,35.204163",
     "geom:latitude":35.204163,
     "geom:longitude":-89.870396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5788 Stage Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610740,
-    "wof:geomhash":"031bc1a4f7b50eb8ff0aa6f65a399896",
+    "wof:geomhash":"b9e94f1a90dd86db2cd46604ab7d7d34",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,13 +52,15 @@
         }
     ],
     "wof:id":823291105,
-    "wof:lastmodified":1472645763,
+    "wof:lastmodified":1510942190,
     "wof:name":"Baskin Robbins",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823256027
+    ],
     "wof:tags":[]
 },
   "bbox": [

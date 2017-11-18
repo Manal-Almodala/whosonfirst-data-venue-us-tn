@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.755466,35.045736,-89.755466,35.045736",
     "geom:latitude":35.045736,
     "geom:longitude":-89.755466,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3753 Tyndale Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592974,
-    "wof:geomhash":"8e581c0885975d1b588bf55340d89c95",
+    "wof:geomhash":"fd55a8143747b95011ccb2aa717cf4c4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":790080563,
-    "wof:lastmodified":1472645138,
+    "wof:lastmodified":1510943834,
     "wof:name":"Brady & Horne Company Inc",
     "wof:parent_id":85819859,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857188211
+    ],
     "wof:tags":[
         "contractor"
     ]

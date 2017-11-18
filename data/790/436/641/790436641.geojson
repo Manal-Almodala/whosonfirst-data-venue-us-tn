@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.787055,36.030872,-86.787055,36.030872",
     "geom:latitude":36.030872,
     "geom:longitude":-86.787055,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7003 Chadwick Dr",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595816,
-    "wof:geomhash":"8831f99eba7a64452b1712ff83b7f413",
+    "wof:geomhash":"3cd87b7fcb77e6fdbfa28c39940f24f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +63,15 @@
         }
     ],
     "wof:id":790436641,
-    "wof:lastmodified":1472645388,
+    "wof:lastmodified":1510942626,
     "wof:name":"I C G Link Inc",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807356397
+    ],
     "wof:tags":[
         "design",
         "system",

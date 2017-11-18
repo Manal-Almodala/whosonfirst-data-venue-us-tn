@@ -7,13 +7,16 @@
     "addr:postcode":"37917",
     "addr:street":"N Broadway St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-83.925386,36.000223,-83.925386,36.000223",
     "geom:latitude":36.000223,
     "geom:longitude":-83.925386,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3120 N Broadway St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609389,
-    "wof:geomhash":"2e9c3dea9e13f48c4b19da7bbf8dd6ee",
+    "wof:geomhash":"5cd2ca3c1d44922b2b8deb6bceae0577",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823252285,
-    "wof:lastmodified":1472645648,
+    "wof:lastmodified":1510941605,
     "wof:name":"McDonald's",
     "wof:parent_id":85803533,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790547845
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-85.305054,35.048351,-85.305054,35.048351",
     "geom:latitude":35.048351,
     "geom:longitude":-85.305054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"317 Oak St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586717,
-    "wof:geomhash":"7eaaa0c181d2254a22a65a522357408e",
+    "wof:geomhash":"f6d4eca05e9ec156035aa228e7199350",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":773569765,
-    "wof:lastmodified":1472645924,
+    "wof:lastmodified":1510941561,
     "wof:name":"Human Services Dept",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823269827
+    ],
     "wof:tags":[
         "program",
         "administrative"

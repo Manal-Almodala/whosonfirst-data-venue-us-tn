@@ -7,13 +7,16 @@
     "addr:postcode":"37923",
     "addr:street":"N Cedar Bluff Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.094933,35.935487,-84.094933,35.935487",
     "geom:latitude":35.935487,
     "geom:longitude":-84.094933,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"790 N Cedar Bluff Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[],
@@ -36,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610101,
-    "wof:geomhash":"52b73feb7786c1430b56e7abb9a20214",
+    "wof:geomhash":"59a1ec358863b943ce1a9b67950cf30c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,12 +51,14 @@
         }
     ],
     "wof:id":823274845,
-    "wof:lastmodified":1472645745,
+    "wof:lastmodified":1510942207,
     "wof:name":"Sunchase Apartments",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773389901
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

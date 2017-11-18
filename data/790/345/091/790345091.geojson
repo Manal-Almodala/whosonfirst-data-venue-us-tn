@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.761015,36.223725,-86.761015,36.223725",
     "geom:latitude":36.223725,
     "geom:longitude":-86.761015,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2914 Dickerson Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595101,
-    "wof:geomhash":"5e18f27fe1178b55f14dc44f64316f35",
+    "wof:geomhash":"034a86981c3d64e0d2056722bb188a5c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":790345091,
-    "wof:lastmodified":1472645342,
+    "wof:lastmodified":1510942685,
     "wof:name":"Congress Inn",
     "wof:parent_id":85832351,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823264717
+    ],
     "wof:tags":[
         "operation"
     ]

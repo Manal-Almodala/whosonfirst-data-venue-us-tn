@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.68436,36.254084,-86.68436,36.254084",
     "geom:latitude":36.254084,
     "geom:longitude":-86.68436,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"510 Hospital Dr",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -38,16 +40,18 @@
     },
     "wof:country":"US",
     "wof:created":1462603098,
-    "wof:geomhash":"549bb8e6ff48d26afb0a270b23404dbf",
+    "wof:geomhash":"8970390362af9c5bfbd36872a0a4050c",
     "wof:hierarchy":[],
     "wof:id":807026819,
-    "wof:lastmodified":1472645341,
+    "wof:lastmodified":1510943567,
     "wof:name":"Paulo C Acosta MD",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823262819
+    ],
     "wof:tags":[
         "medical"
     ]

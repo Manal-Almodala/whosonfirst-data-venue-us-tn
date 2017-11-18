@@ -7,13 +7,16 @@
     "addr:postcode":"38104",
     "addr:street":"Madison Ave Ste 210",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-90.002769,35.138032,-90.002769,35.138032",
     "geom:latitude":35.138032,
     "geom:longitude":-90.002769,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1750 Madison Ave Ste 210",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -50,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610297,
-    "wof:geomhash":"60ac352ad9a5bcf6ffd458bd7004e66c",
+    "wof:geomhash":"508145b239de6f3352b9e603e5f0f6ff",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -63,12 +66,14 @@
         }
     ],
     "wof:id":823279573,
-    "wof:lastmodified":1472645728,
+    "wof:lastmodified":1510944090,
     "wof:name":"Steve Cole Md",
     "wof:parent_id":85867189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789874649
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

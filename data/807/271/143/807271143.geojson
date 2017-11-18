@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-88.88003,36.493317,-88.88003,36.493317",
     "geom:latitude":36.493317,
     "geom:longitude":-88.88003,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 Milltown St",
     "sg:city":"South Fulton",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605556,
-    "wof:geomhash":"d03d20f5dc3fd7528337246fea2be1c5",
+    "wof:geomhash":"18af63a912b8df5d5be56974587f7a0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":807271143,
-    "wof:lastmodified":1472645806,
+    "wof:lastmodified":1510944176,
     "wof:name":"South Fulton Public Works Bldg",
     "wof:parent_id":85844377,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        840620105
+    ],
     "wof:tags":[
         "marking",
         "maintenance",

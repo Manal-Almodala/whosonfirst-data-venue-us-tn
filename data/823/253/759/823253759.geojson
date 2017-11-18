@@ -7,13 +7,16 @@
     "addr:postcode":"38017",
     "addr:street":"W Poplar Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.729966,35.051428,-89.729966,35.051428",
     "geom:latitude":35.051428,
     "geom:longitude":-89.729966,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2028 W Poplar Ave",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609417,
-    "wof:geomhash":"8641babe150c6cf3a82767331083ae9a",
+    "wof:geomhash":"c9141f0821b49050de7e130e5df0d0fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +62,14 @@
         }
     ],
     "wof:id":823253759,
-    "wof:lastmodified":1472645668,
+    "wof:lastmodified":1510941679,
     "wof:name":"Bogie's Delicatessen",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806804101
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "american"

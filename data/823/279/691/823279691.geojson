@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.991742,35.136817,-89.991742,35.136817",
     "geom:latitude":35.136817,
     "geom:longitude":-89.991742,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2087 Madison Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -36,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610301,
-    "wof:geomhash":"3353554633fcc5621f9e4a4da1847375",
+    "wof:geomhash":"4ece8f03c2f1ace249da6a1fcd61ea40",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -49,13 +51,15 @@
         }
     ],
     "wof:id":823279691,
-    "wof:lastmodified":1472645732,
+    "wof:lastmodified":1510942112,
     "wof:name":"Memphis Pizza Cafe",
     "wof:parent_id":85867189,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823254393
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -7,13 +7,16 @@
     "addr:postcode":"37919",
     "addr:street":"S Gallaher View Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.059087,35.921318,-84.059087,35.921318",
     "geom:latitude":35.921318,
     "geom:longitude":-84.059087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"301 S Gallaher View Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603971,
-    "wof:geomhash":"aac00db0375f041bc593113c963da241",
+    "wof:geomhash":"4fcfb2655919c2e7c4221dd8187f213d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":807122951,
-    "wof:lastmodified":1472645560,
+    "wof:lastmodified":1510943798,
     "wof:name":"Msa Inc",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790424837
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "electronic"

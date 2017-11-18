@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.683623,36.168994,-86.683623,36.168994",
     "geom:latitude":36.168994,
     "geom:longitude":-86.683623,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2302 Lebanon Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606214,
-    "wof:geomhash":"068f1da993f22fd1dbfe7fb6e53e5941",
+    "wof:geomhash":"0610a5392fc12071f84355ed4d60e6b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":807331497,
-    "wof:lastmodified":1472646033,
+    "wof:lastmodified":1510943083,
     "wof:name":"Snappy Nails",
     "wof:parent_id":85814869,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823266521
+    ],
     "wof:tags":[
         "shop",
         "manicuring"

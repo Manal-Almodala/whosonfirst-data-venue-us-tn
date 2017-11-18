@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.790702,35.062976,-89.790702,35.062976",
     "geom:latitude":35.062976,
     "geom:longitude":-89.790702,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3242 Players Club Cir",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583045,
-    "wof:geomhash":"2146daf9ab21e9d3a1e5a6a14542216a",
+    "wof:geomhash":"c43c300de98bcf6e5dcd5afa497a644b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +57,15 @@
         }
     ],
     "wof:id":773084945,
-    "wof:lastmodified":1472645384,
+    "wof:lastmodified":1510941249,
     "wof:name":"Alliance Business Ctr Network",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857410537
+    ],
     "wof:tags":[
         "desk",
         "space"

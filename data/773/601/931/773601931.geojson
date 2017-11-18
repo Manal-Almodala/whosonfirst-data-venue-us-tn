@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.061147,36.00221,-84.061147,36.00221",
     "geom:latitude":36.00221,
     "geom:longitude":-84.061147,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7233 Joyce Ln",
     "sg:city":"Powell",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586955,
-    "wof:geomhash":"6640ee5197bd2d833ff1bbc5bb984286",
+    "wof:geomhash":"6352635f6c446d28389b4d96022488dd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":773601931,
-    "wof:lastmodified":1472645932,
+    "wof:lastmodified":1510943438,
     "wof:name":"Cheerrific",
     "wof:parent_id":85838527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773560111
+    ],
     "wof:tags":[]
 },
   "bbox": [

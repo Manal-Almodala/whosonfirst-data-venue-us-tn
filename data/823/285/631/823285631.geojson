@@ -7,13 +7,16 @@
     "addr:postcode":"38117",
     "addr:street":"Poplar Ave Ste 227",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-89.911518,35.11817,-89.911518,35.11817",
     "geom:latitude":35.11817,
     "geom:longitude":-89.911518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4515 Poplar Ave Ste 227",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610535,
-    "wof:geomhash":"44f014e8a17aab9832a1ba491d1c194e",
+    "wof:geomhash":"e7151572cb5c43f5e04ab5ddde2a8412",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":823285631,
-    "wof:lastmodified":1472645736,
+    "wof:lastmodified":1510942533,
     "wof:name":"Medi-Dent Instrumentation",
     "wof:parent_id":85867185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807350983
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hospital",

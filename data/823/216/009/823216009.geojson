@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-86.605929,36.307768,-86.605929,36.307768",
     "geom:latitude":36.307768,
     "geom:longitude":-86.605929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"164 E Main St",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608643,
-    "wof:geomhash":"a14c2e7d05cb7f9248b349a79f1adfed",
+    "wof:geomhash":"1a181c57a2504cd5d6ebbaf24dd4ee49",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":823216009,
-    "wof:lastmodified":1472645538,
+    "wof:lastmodified":1510941459,
     "wof:name":"Black Eyed Pea Restaurant",
     "wof:parent_id":85837037,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823262395
+    ],
     "wof:tags":[
         "family"
     ]

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-82.427568,36.375194,-82.427568,36.375194",
     "geom:latitude":36.375194,
     "geom:longitude":-82.427568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 Boones Creek Rd",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609536,
-    "wof:geomhash":"452359e288270abdca62a762cc36bcfd",
+    "wof:geomhash":"f75e39cbd872d5cfaa578a187ea22951",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":823259227,
-    "wof:lastmodified":1472645659,
+    "wof:lastmodified":1510941661,
     "wof:name":"Wendy's",
     "wof:parent_id":85806709,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790062167
+    ],
     "wof:tags":[
         "burger",
         "american",

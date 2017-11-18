@@ -7,13 +7,16 @@
     "addr:postcode":"37311",
     "addr:street":"Inman St E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.871178,35.156971,-84.871178,35.156971",
     "geom:latitude":35.156971,
     "geom:longitude":-84.871178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"373 Inman St E",
     "sg:city":"Cleveland",
     "sg:classifiers":[],
@@ -35,7 +38,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609838,
-    "wof:geomhash":"d24fbfe44f2b29fdc9139e5417bab34e",
+    "wof:geomhash":"cbb8177532b98394371af465d1150a43",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,12 +50,14 @@
         }
     ],
     "wof:id":823268337,
-    "wof:lastmodified":1472645715,
+    "wof:lastmodified":1510942276,
     "wof:name":"Cars Of Cleveland",
     "wof:parent_id":85803171,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773421991
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

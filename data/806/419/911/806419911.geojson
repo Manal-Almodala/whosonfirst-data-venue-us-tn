@@ -7,13 +7,16 @@
     "addr:postcode":"37923",
     "addr:street":"Executive Park Dr Nw",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.08549,35.921071,-84.08549,35.921071",
     "geom:latitude":35.921071,
     "geom:longitude":-84.08549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9050 Executive Park Dr NW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598007,
-    "wof:geomhash":"f04ca1fa777c87009caae2d002936468",
+    "wof:geomhash":"caf0f73d1514b05438bd5927b35f1fdd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":806419911,
-    "wof:lastmodified":1472645510,
+    "wof:lastmodified":1510943071,
     "wof:name":"WEISSCO Inc",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806842673
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

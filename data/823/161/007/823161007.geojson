@@ -7,13 +7,16 @@
     "addr:postcode":"37830",
     "addr:street":"Oak Ridge Tpke",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-84.235717,36.027898,-84.235717,36.027898",
     "geom:latitude":36.027898,
     "geom:longitude":-84.235717,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"800 Oak Ridge Tpke",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -48,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607811,
-    "wof:geomhash":"c3565b639a35a3ae503a8e8a6d220a29",
+    "wof:geomhash":"a3c2d6ec2c6ab70718e5e22980301e7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +64,14 @@
         }
     ],
     "wof:id":823161007,
-    "wof:lastmodified":1472645408,
+    "wof:lastmodified":1510942450,
     "wof:name":"Hear Services",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807073689
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hearing",
