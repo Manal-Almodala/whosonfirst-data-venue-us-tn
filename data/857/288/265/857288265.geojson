@@ -1,0 +1,89 @@
+{
+  "id": 857288265,
+  "type": "Feature",
+  "properties": {
+    "addr:full":"3753 Tyndale Dr Memphis MS 38125",
+    "addr:housenumber":"3753",
+    "addr:postcode":"38125",
+    "addr:street":"Tyndale Dr",
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-89.755466,35.045736,-89.755466,35.045736",
+    "geom:latitude":35.045736,
+    "geom:longitude":-89.755466,
+    "iso:country":"US",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "sg:address":"3753 Tyndale Dr",
+    "sg:city":"Memphis",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 901 753 0373",
+    "sg:postcode":"38125",
+    "sg:province":"MS",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "sg:website":"www.jmmullis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688701,
+        102191575,
+        85633793,
+        101722649,
+        102087213,
+        85819859
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WTTAz9JsKkgvy2qc61KQk_35.045736_-89.755466@1294163950"
+    },
+    "wof:country":"US",
+    "wof:created":1464126089,
+    "wof:geomhash":"fd55a8143747b95011ccb2aa717cf4c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102087213,
+            "locality_id":101722649,
+            "neighbourhood_id":85819859,
+            "region_id":85688701,
+            "venue_id":857288265
+        }
+    ],
+    "wof:id":857288265,
+    "wof:lastmodified":1510811916,
+    "wof:name":"J M Mullis Inc",
+    "wof:parent_id":85819859,
+    "wof:placetype":"venue",
+    "wof:repo":"whosonfirst-data-venue-us-ms",
+    "wof:superseded_by":[
+        773320483
+    ],
+    "wof:supersedes":[
+        857288265
+    ],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -89.755466,
+    35.045736,
+    -89.755466,
+    35.045736
+],
+  "geometry": {"coordinates":[-89.755466,35.045736],"type":"Point"}
+}
