@@ -2,18 +2,24 @@
   "id": 823231835,
   "type": "Feature",
   "properties": {
-    "addr:full":"1900 Belmont Blvd Nashville TN 37212",
+    "addr:city":"Nashville",
+    "addr:full":"1900 Belmont Blvd Nashville, Tn 37212-3758",
+    "addr:house_number":"1900",
     "addr:housenumber":"1900",
-    "addr:postcode":"37212",
+    "addr:phone":"+1 615-460-5459",
+    "addr:postcode":"37212-3758",
+    "addr:road":"Belmont Blvd",
+    "addr:state":"TN",
     "addr:street":"Belmont Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.795731,36.13419,-86.795731,36.13419",
-    "geom:latitude":36.13419,
-    "geom:longitude":-86.795731,
+    "geom:bbox":"-86.79568,36.13398,-86.79568,36.13398",
+    "geom:latitude":36.13398,
+    "geom:longitude":-86.79568,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1900 Belmont Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -34,7 +40,10 @@
         "gift"
     ],
     "sg:website":"www.belmontmansion.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525035
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -45,11 +54,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700170,
         "sg:id":"SG_3dSdFrzyRNepezf46v49S1_36.134010_-86.795709@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462608994,
-    "wof:geomhash":"e6f3fd795bdb8b44f938cab91439f14b",
+    "wof:geomhash":"7799329aa413d3e7b5ec6323c4a55896",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,8 +72,8 @@
         }
     ],
     "wof:id":823231835,
-    "wof:lastmodified":1472645620,
-    "wof:name":"Belmont Mansion",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Belmont Mansion Association",
     "wof:parent_id":85893451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -77,10 +87,10 @@
     ]
 },
   "bbox": [
-    -86.795731,
-    36.13419,
-    -86.795731,
-    36.13419
+    -86.79568,
+    36.13398,
+    -86.79568,
+    36.13398
 ],
-  "geometry": {"coordinates":[-86.795731,36.13419],"type":"Point"}
+  "geometry": {"coordinates":[-86.79568,36.13398],"type":"Point"}
 }

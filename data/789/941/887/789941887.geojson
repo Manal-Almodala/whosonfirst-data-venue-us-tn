@@ -14,6 +14,7 @@
     "geom:longitude":-86.647771,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3055 Lebanon Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591801,
-    "wof:geomhash":"69af8db22225d9ddd88c1d3787647ec1",
+    "wof:geomhash":"eac525b6dcbdd2fd9507144e32dadcec",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":789941887,
-    "wof:lastmodified":1472645330,
+    "wof:lastmodified":1534535239,
     "wof:name":"RSI",
     "wof:parent_id":85824679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806810149
+    ],
     "wof:tags":[
         "residential"
     ]

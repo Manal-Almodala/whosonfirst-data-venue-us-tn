@@ -14,6 +14,7 @@
     "geom:longitude":-86.883696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"408 Century Ct",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599605,
-    "wof:geomhash":"d243de56670a31664173d80b6356f84b",
+    "wof:geomhash":"84a76a8c714419e59803bdbd4769ecc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":806614985,
-    "wof:lastmodified":1472646055,
+    "wof:lastmodified":1534535241,
     "wof:name":"County Jail Adm",
     "wof:parent_id":85851291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773828481
+    ],
     "wof:tags":[
         "correctional",
         "institution"

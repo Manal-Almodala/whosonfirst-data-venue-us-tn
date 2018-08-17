@@ -7,6 +7,7 @@
     "addr:postcode":"37421",
     "addr:street":"Lee Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.195071,35.024528,-85.195071,35.024528",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.195071,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6025 Lee Hwy",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588737,
-    "wof:geomhash":"62868234658c87963e18c4c4abfbe93a",
+    "wof:geomhash":"7794a467344abed8bdf174557daf2e0c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":773832079,
-    "wof:lastmodified":1472645996,
+    "wof:lastmodified":1534535255,
     "wof:name":"Fuller Financial",
     "wof:parent_id":85817719,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807345147
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "planning",

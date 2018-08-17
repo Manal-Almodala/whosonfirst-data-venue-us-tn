@@ -7,6 +7,7 @@
     "addr:postcode":"37067",
     "addr:street":"Seaboard Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.8307,35.949594,-86.8307,35.949594",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.8307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"318 Seaboard Ln",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582634,
-    "wof:geomhash":"e5c2d742755bf4dbd52952fe46d77bab",
+    "wof:geomhash":"1f2fcfdd1526a09c564eea2a1b96c99e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":773036753,
-    "wof:lastmodified":1472645149,
+    "wof:lastmodified":1534535252,
     "wof:name":"MAGAZINES.COM Inc",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806969917
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "periodical"

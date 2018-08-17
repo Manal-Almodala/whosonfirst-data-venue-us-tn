@@ -14,6 +14,7 @@
     "geom:longitude":-89.889467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3909 Covington Pike",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595292,
-    "wof:geomhash":"1669a412f36f4b2848c6e657f773fa77",
+    "wof:geomhash":"1b59a8365920d05218690a6be5c8b6b1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":790368479,
-    "wof:lastmodified":1472645355,
+    "wof:lastmodified":1534535243,
     "wof:name":"Spring Gate Rehabilitation Ctr",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823291743
+    ],
     "wof:tags":[
         "home",
         "convalescent"

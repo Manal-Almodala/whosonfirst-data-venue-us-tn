@@ -7,6 +7,7 @@
     "addr:postcode":"37209",
     "addr:street":"Centennial Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.873687,36.171197,-86.873687,36.171197",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.873687,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7114 Centennial Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589755,
-    "wof:geomhash":"36f88ce3548ab271a85bc89f3a3323a8",
+    "wof:geomhash":"c8aa3d63121f5db4c8c64a8e81f945a8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":789686899,
-    "wof:lastmodified":1472645188,
+    "wof:lastmodified":1534535259,
     "wof:name":"Pull A Part",
     "wof:parent_id":85855987,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823265047
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "automobile",

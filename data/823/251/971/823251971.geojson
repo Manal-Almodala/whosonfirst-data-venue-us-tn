@@ -7,6 +7,7 @@
     "addr:postcode":"37890",
     "addr:street":"Roy Messer Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-83.333565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3624 Roy Messer Hwy",
     "sg:city":"White Pine",
     "sg:classifiers":[
@@ -34,7 +35,9 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420541809
+    ],
     "wof:brand_id":420573961,
     "wof:breaches":[],
     "wof:concordances":{
@@ -45,12 +48,14 @@
     "wof:geomhash":"927ff84a3d6fcd73c7944d08a30fe647",
     "wof:hierarchy":[],
     "wof:id":823251971,
-    "wof:lastmodified":1512142820,
+    "wof:lastmodified":1534535232,
     "wof:name":"McDonald's",
     "wof:parent_id":420541809,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790197269
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

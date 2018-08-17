@@ -7,6 +7,7 @@
     "addr:postcode":"37214",
     "addr:street":"Stewarts Ferry Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.627108,36.155017,-86.627108,36.155017",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.627108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"710 Stewarts Ferry Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606004,
-    "wof:geomhash":"a8d9d637df5e4312fa9e95a104d00bdd",
+    "wof:geomhash":"0b3cc1a806ce53a99fb82a62920571d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":807314367,
-    "wof:lastmodified":1472646021,
+    "wof:lastmodified":1534535260,
     "wof:name":"Sal's Pizza & Restaurant",
     "wof:parent_id":85811505,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823266523
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

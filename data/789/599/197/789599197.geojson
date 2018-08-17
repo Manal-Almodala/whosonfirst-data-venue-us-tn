@@ -14,6 +14,7 @@
     "geom:longitude":-86.780998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 Deaderick St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589062,
-    "wof:geomhash":"1ff345ff7e5f7dd86f13b7a173277852",
+    "wof:geomhash":"01ca41b4914a33ba0db8676905592737",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789599197,
-    "wof:lastmodified":1472645075,
+    "wof:lastmodified":1534535252,
     "wof:name":"Treasurer's Office",
     "wof:parent_id":85893445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807180691
+    ],
     "wof:tags":[
         "state",
         "taxation"

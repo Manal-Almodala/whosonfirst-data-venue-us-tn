@@ -7,6 +7,7 @@
     "addr:postcode":"38116",
     "addr:street":"Elvis Presley Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.025193,35.026807,-90.025193,35.026807",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.025193,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4466 Elvis Presley Blvd Memphis",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610522,
-    "wof:geomhash":"4b517567de47671dd65212b97b3ed9ab",
+    "wof:geomhash":"621d8ae278d10c146f234e7276a2c960",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,18 @@
         }
     ],
     "wof:id":823285243,
-    "wof:lastmodified":1472645720,
+    "wof:lastmodified":1534535263,
     "wof:name":"Direct General Insurance Agency, Inc",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        823284361
+    ],
+    "wof:supersedes":[
+        773028075,
+        790437797
+    ],
     "wof:tags":[
         "commercial",
         "business"

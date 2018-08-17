@@ -7,6 +7,7 @@
     "addr:postcode":"38305",
     "addr:street":"N Highland Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-88.828042,35.655954,-88.828042,35.655954",
@@ -14,6 +15,7 @@
     "geom:longitude":-88.828042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2021 N Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608508,
-    "wof:geomhash":"6dc3da2263fdc5916dc39adf522d5e84",
+    "wof:geomhash":"dcb87c846792552f18de52d9433f9091",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":823208693,
-    "wof:lastmodified":1472645573,
+    "wof:lastmodified":1534535259,
     "wof:name":"Littles  Inc",
     "wof:parent_id":85824843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773246059
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

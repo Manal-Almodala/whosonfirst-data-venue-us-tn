@@ -2,18 +2,23 @@
   "id": 807139399,
   "type": "Feature",
   "properties": {
-    "addr:full":"201 High St Chattanooga TN 37403",
+    "addr:city":"Chattanooga",
+    "addr:full":"201 High St Chattanooga, Tn 37403-1123",
+    "addr:house_number":"201",
     "addr:housenumber":"201",
-    "addr:postcode":"37403",
+    "addr:postcode":"37403-1123",
+    "addr:road":"High St",
+    "addr:state":"TN",
     "addr:street":"High St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.305495,35.054102,-85.305495,35.054102",
-    "geom:latitude":35.054102,
-    "geom:longitude":-85.305495,
+    "geom:bbox":"-85.30579,35.0547,-85.30579,35.0547",
+    "geom:latitude":35.0547,
+    "geom:longitude":-85.30579,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"201 High St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -36,7 +41,10 @@
         "profit",
         "amusement"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533789
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -47,11 +55,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700361,
         "sg:id":"SG_0u3BUdd5Yxay1F60oVanlt_35.054102_-85.305495@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604153,
-    "wof:geomhash":"6995b82d52f98dbeba64d50ca2fe09c2",
+    "wof:geomhash":"9520fb68b2448bd5720e8e585f9dde67",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +73,8 @@
         }
     ],
     "wof:id":807139399,
-    "wof:lastmodified":1472645557,
-    "wof:name":"Houston Museum Decorative Arts",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Houston Museum Of Decorative Arts",
     "wof:parent_id":85876743,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -77,10 +86,10 @@
     ]
 },
   "bbox": [
-    -85.305495,
-    35.054102,
-    -85.305495,
-    35.054102
+    -85.30579,
+    35.0547,
+    -85.30579,
+    35.0547
 ],
-  "geometry": {"coordinates":[-85.30549499999999,35.054102],"type":"Point"}
+  "geometry": {"coordinates":[-85.30579,35.0547],"type":"Point"}
 }

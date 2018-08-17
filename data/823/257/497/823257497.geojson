@@ -7,6 +7,7 @@
     "addr:postcode":"38556",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.933396,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"401 N Main St",
     "sg:city":"Jamestown",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"d2f72c1a78a1240ecb851941c91e69ab",
     "wof:hierarchy":[],
     "wof:id":823257497,
-    "wof:lastmodified":1512142983,
+    "wof:lastmodified":1534535248,
     "wof:name":"McDonald's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790416173
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

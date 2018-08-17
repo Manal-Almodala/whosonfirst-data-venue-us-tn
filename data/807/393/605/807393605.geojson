@@ -7,6 +7,7 @@
     "addr:postcode":"37212",
     "addr:street":"16Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.793456,36.141317,-86.793456,36.141317",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.793456,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1222 16th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607131,
-    "wof:geomhash":"727badc31b73d3a9a85e4b3e7ecc2089",
+    "wof:geomhash":"40f1b5c76c63ca99c08f5283931bd36a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":807393605,
-    "wof:lastmodified":1472646089,
+    "wof:lastmodified":1534535230,
     "wof:name":"Write Music Publishing",
     "wof:parent_id":85893451,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806430925
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "publisher",

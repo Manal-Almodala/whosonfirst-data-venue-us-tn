@@ -2,18 +2,24 @@
   "id": 790443961,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 Church St Henning TN 38041",
+    "addr:city":"Henning",
+    "addr:full":"200 S Church St Henning, Tn 38041",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 731-738-2240",
     "addr:postcode":"38041",
+    "addr:road":"S Church St",
+    "addr:state":"TN",
     "addr:street":"Church St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.57573,35.673937,-89.57573,35.673937",
-    "geom:latitude":35.673937,
-    "geom:longitude":-89.57573,
+    "geom:bbox":"-89.57917,35.6723,-89.57917,35.6723",
+    "geom:latitude":35.6723,
+    "geom:longitude":-89.57917,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 Church St",
     "sg:city":"Henning",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 731 738 2240",
     "sg:postcode":"38041",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700125,
         "sg:id":"SG_2EDcy5dbD2zG1kxUWaPGkS_35.673937_-89.575730@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462595873,
-    "wof:geomhash":"75feea7367bc47648b03e216410f422f",
+    "wof:geomhash":"44a09c03f4697baf0cc626e6bed2baea",
     "wof:hierarchy":[],
     "wof:id":790443961,
-    "wof:lastmodified":1472645386,
+    "wof:lastmodified":1534535264,
     "wof:name":"Alex Haley House Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -89.57573,
-    35.673937,
-    -89.57573,
-    35.673937
+    -89.57917,
+    35.6723,
+    -89.57917,
+    35.6723
 ],
-  "geometry": {"coordinates":[-89.57572999999999,35.673937],"type":"Point"}
+  "geometry": {"coordinates":[-89.57917,35.6723],"type":"Point"}
 }

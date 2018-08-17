@@ -7,6 +7,7 @@
     "addr:postcode":"37067",
     "addr:street":"Covey Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.82103,35.914547,-86.82103,35.914547",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.82103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 Covey Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462583194,
-    "wof:geomhash":"06b9a34f165540c83b8a40353d7ef1ed",
+    "wof:geomhash":"543968f2c31c3936288ba887f57ee724",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":773105637,
-    "wof:lastmodified":1472645403,
+    "wof:lastmodified":1534535229,
     "wof:name":"Hearing Svc Of Tenn",
     "wof:parent_id":85807181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806421497
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "audiologists"

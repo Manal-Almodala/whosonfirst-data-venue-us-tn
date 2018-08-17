@@ -7,6 +7,7 @@
     "addr:postcode":"37220",
     "addr:street":"Trousdale Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.759065,36.076696,-86.759065,36.076696",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.759065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4825 Trousdale Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462602858,
-    "wof:geomhash":"de86cce4e535b362f821175a5287a394",
+    "wof:geomhash":"79f3420347e44d68d7bb6e0522f93d14",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":806999647,
-    "wof:lastmodified":1472646213,
+    "wof:lastmodified":1534535247,
     "wof:name":"Larry Johnson Insurance",
     "wof:parent_id":85812955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806673359
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

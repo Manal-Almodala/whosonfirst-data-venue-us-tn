@@ -7,6 +7,7 @@
     "addr:postcode":"37920",
     "addr:street":"Alcoa Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.953591,35.926193,-83.953591,35.926193",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.953591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1928 Alcoa Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601014,
-    "wof:geomhash":"d9d121e127a06be82fd7126abb0a7824",
+    "wof:geomhash":"39c11d8d02326ee0506003654c23dbbd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":806779979,
-    "wof:lastmodified":1472646141,
+    "wof:lastmodified":1534535254,
     "wof:name":"Gotcher & Mc Coy",
     "wof:parent_id":85847793,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790016285
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

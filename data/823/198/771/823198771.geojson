@@ -7,6 +7,7 @@
     "addr:postcode":"38115",
     "addr:street":"S Mendenhall Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.88574,35.062076,-89.88574,35.062076",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.88574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3110 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608324,
-    "wof:geomhash":"aed0b1490e34aa4d30f7d2736d1b1774",
+    "wof:geomhash":"599d2dfe03548f7c17a3e34809a2bea6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":823198771,
-    "wof:lastmodified":1472645520,
+    "wof:lastmodified":1534535263,
     "wof:name":"Best Wings",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823284239
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

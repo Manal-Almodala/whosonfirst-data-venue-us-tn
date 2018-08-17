@@ -14,6 +14,7 @@
     "geom:longitude":-85.290514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"975 E 3rd St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585372,
-    "wof:geomhash":"b4049217889b8d9078e45bfbfcf3710d",
+    "wof:geomhash":"1b6e2c7dddbf5fd89376f119277f4ba6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773396373,
-    "wof:lastmodified":1472645875,
+    "wof:lastmodified":1534535234,
     "wof:name":"Craniofacial Center",
     "wof:parent_id":85876735,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790510039
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

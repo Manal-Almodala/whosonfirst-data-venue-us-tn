@@ -7,6 +7,7 @@
     "addr:postcode":"37203",
     "addr:street":"Music Sq W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.793464,36.149112,-86.793464,36.149112",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.793464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"33 Music Sq W",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604132,
-    "wof:geomhash":"4fadd11cfea8742364e4af5839482bd9",
+    "wof:geomhash":"9f09ababa5a3d22393eca7879a5c3584",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":807137123,
-    "wof:lastmodified":1472645550,
+    "wof:lastmodified":1534535252,
     "wof:name":"Georgetown Masters Inc",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823191049
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "recording",

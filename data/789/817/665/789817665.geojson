@@ -7,6 +7,7 @@
     "addr:postcode":"37076",
     "addr:street":"Frist Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.606565,36.179871,-86.606565,36.179871",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.606565,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5653 Frist Blvd",
     "sg:city":"Hermitage",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590770,
-    "wof:geomhash":"507fdd07d84ee593bbbbe4dc1d875100",
+    "wof:geomhash":"fdbb296b980fefabc3fe33e6c16f54f3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":789817665,
-    "wof:lastmodified":1472645226,
+    "wof:lastmodified":1534535244,
     "wof:name":"Southern Obfttrics Gynclogy PC",
     "wof:parent_id":85824683,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807003817
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

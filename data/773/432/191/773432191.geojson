@@ -2,18 +2,24 @@
   "id": 773432191,
   "type": "Feature",
   "properties": {
-    "addr:full":"301 6th Ave S Nashville TN 37203",
+    "addr:city":"Nashville",
+    "addr:full":"301 6Th Ave S Nashville, Tn 37203",
+    "addr:house_number":"301",
     "addr:housenumber":"301",
+    "addr:phone":"+1 615-244-3263",
     "addr:postcode":"37203",
+    "addr:road":"6Th Ave S",
+    "addr:state":"TN",
     "addr:street":"6Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.777384,36.156001,-86.777384,36.156001",
-    "geom:latitude":36.156001,
-    "geom:longitude":-86.777384,
+    "geom:bbox":"-86.7801,36.1653,-86.7801,36.1653",
+    "geom:latitude":36.1653,
+    "geom:longitude":-86.7801,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"301 6th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 615 254 1505",
     "sg:postcode":"37203",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525035
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700047,
         "sg:id":"SG_7ayztk8RBib8PXUKhx3Gur_36.156001_-86.777384@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585685,
-    "wof:geomhash":"427af853806bc80bf3dfd94cb3bd480d",
+    "wof:geomhash":"a7f55de1e143e8f38d810afde18cf569",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":773432191,
-    "wof:lastmodified":1472645871,
-    "wof:name":"Musicians Hall-Fame & Museum",
+    "wof:lastmodified":1534535236,
+    "wof:name":"Musicians Hall Of Fame Museum And School Of Music",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.777384,
-    36.156001,
-    -86.777384,
-    36.156001
+    -86.7801,
+    36.1653,
+    -86.7801,
+    36.1653
 ],
-  "geometry": {"coordinates":[-86.777384,36.156001],"type":"Point"}
+  "geometry": {"coordinates":[-86.7801,36.1653],"type":"Point"}
 }

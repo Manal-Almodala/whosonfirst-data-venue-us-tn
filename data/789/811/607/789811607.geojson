@@ -14,6 +14,7 @@
     "geom:longitude":-83.959025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"907 E Lamar Alexander Pkwy",
     "sg:city":"Maryville",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462590728,
-    "wof:geomhash":"8a7e8aa2efa7329d00b26bbc1546ffcb",
+    "wof:geomhash":"d33c926ea842df78c03d569d3738ff33",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":789811607,
-    "wof:lastmodified":1472645243,
+    "wof:lastmodified":1534535231,
     "wof:name":"Blount Memorial Family Brthng",
     "wof:parent_id":85825587,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807167575
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

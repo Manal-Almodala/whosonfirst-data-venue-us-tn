@@ -14,6 +14,7 @@
     "geom:longitude":-86.778492,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"211 Printers Aly",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462586121,
-    "wof:geomhash":"e380b004a8af59652bf645e214484ad8",
+    "wof:geomhash":"960d36f1b46f6a68b4a5b25d2614688d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":773487277,
-    "wof:lastmodified":1472645896,
+    "wof:lastmodified":1534535240,
     "wof:name":"Casey Reed",
     "wof:parent_id":85893477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773164415
+    ],
     "wof:tags":[
         "attorney"
     ]

@@ -2,18 +2,24 @@
   "id": 806900647,
   "type": "Feature",
   "properties": {
-    "addr:full":"2611 McGavock Pike Nashville TN 37214",
+    "addr:city":"Nashville",
+    "addr:full":"2611 Mcgavock Pike Nashville, Tn 37214",
+    "addr:house_number":"2611",
     "addr:housenumber":"2611",
+    "addr:phone":"+1 615-885-8020",
     "addr:postcode":"37214",
+    "addr:road":"Mcgavock Pike",
+    "addr:state":"TN",
     "addr:street":"Mcgavock Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.699068,36.217327,-86.699068,36.217327",
-    "geom:latitude":36.217327,
-    "geom:longitude":-86.699068,
+    "geom:bbox":"-86.69658,36.21718,-86.69658,36.21718",
+    "geom:latitude":36.21718,
+    "geom:longitude":-86.69658,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2611 McGavock Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 615 885 8020",
     "sg:postcode":"37214",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525035
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700058,
         "sg:id":"SG_4uvl32CkXpFXkPPCgzMzqR_36.217327_-86.699068@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602013,
-    "wof:geomhash":"86530ccadb58d54b520dbe909a59c8f7",
+    "wof:geomhash":"888a79c686ff9247fdc35002d6b15531",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":806900647,
-    "wof:lastmodified":1472646179,
+    "wof:lastmodified":1534535264,
     "wof:name":"Music Valley Car Museum",
     "wof:parent_id":85824383,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.699068,
-    36.217327,
-    -86.699068,
-    36.217327
+    -86.69658,
+    36.21718,
+    -86.69658,
+    36.21718
 ],
-  "geometry": {"coordinates":[-86.699068,36.217327],"type":"Point"}
+  "geometry": {"coordinates":[-86.69658,36.21718],"type":"Point"}
 }

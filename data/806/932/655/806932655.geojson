@@ -7,6 +7,7 @@
     "addr:postcode":"38103",
     "addr:street":"Adams Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049824,35.147783,-90.049824,35.147783",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.049824,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"140 Adams Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462602295,
-    "wof:geomhash":"c17c8d91bbd6a2d40f4a580480e1af57",
+    "wof:geomhash":"ea35401b7b3ed4eb848bd036a17d3d26",
     "wof:hierarchy":[],
     "wof:id":806932655,
-    "wof:lastmodified":1472646190,
+    "wof:lastmodified":1534535241,
     "wof:name":"Law Library Of Memphis",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773506081
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "special",

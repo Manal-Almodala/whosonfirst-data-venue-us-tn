@@ -14,6 +14,7 @@
     "geom:longitude":-89.894622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5050 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597622,
-    "wof:geomhash":"d193d0a7c7240a33bd30333be8310711",
+    "wof:geomhash":"f8c45a31bc4c72cfd58c616e65a42830",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806373065,
-    "wof:lastmodified":1472645312,
+    "wof:lastmodified":1534535256,
     "wof:name":"MOL Inc",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807112927
+    ],
     "wof:tags":[
         "company",
         "steamship"

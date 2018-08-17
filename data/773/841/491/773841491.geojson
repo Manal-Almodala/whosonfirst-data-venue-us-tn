@@ -7,6 +7,7 @@
     "addr:postcode":"37208",
     "addr:street":"5Th Ave N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.781365,36.164791,-86.781365,36.164791",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.781365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"425 5th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588833,
-    "wof:geomhash":"817dbf0178c1a61c44e6e7e7307d9f1f",
+    "wof:geomhash":"fdec237c44b830e13b627a1a10bc4299",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":773841491,
-    "wof:lastmodified":1472646017,
+    "wof:lastmodified":1534535230,
     "wof:name":"Communcble Envmtl Disease Svcs",
     "wof:parent_id":85893445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806460089
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

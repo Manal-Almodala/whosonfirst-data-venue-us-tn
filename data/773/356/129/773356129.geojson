@@ -7,6 +7,7 @@
     "addr:postcode":"38501",
     "addr:street":"S Jefferson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.500953,36.144455,-85.500953,36.144455",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.500953,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"768 S Jefferson Ave",
     "sg:city":"Cookeville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585091,
-    "wof:geomhash":"843b72a400482ea4f7d67a0f4c6727e9",
+    "wof:geomhash":"485f86c850d403a06cc26577e13f3a71",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":773356129,
-    "wof:lastmodified":1472645814,
+    "wof:lastmodified":1534535238,
     "wof:name":"The Electronic Express Inc",
     "wof:parent_id":85809425,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806581767
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

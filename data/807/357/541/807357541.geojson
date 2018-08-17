@@ -14,6 +14,7 @@
     "geom:longitude":-83.939087,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2001 Laurel Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606617,
-    "wof:geomhash":"b6c8a3c4130a242423a925f9da0de997",
+    "wof:geomhash":"b183653bf068ea8e0e9efe99b604eab5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":807357541,
-    "wof:lastmodified":1472646061,
+    "wof:lastmodified":1534535255,
     "wof:name":"Urology Assoc of Knoxville PC",
     "wof:parent_id":85867177,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823218753
+    ],
     "wof:tags":[
         "urologist"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"37203",
     "addr:street":"W End Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.797392,36.152422,-86.797392,36.152422",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.797392,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1808 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601188,
-    "wof:geomhash":"5350255a9091f2a48b2b9e995d1d5522",
+    "wof:geomhash":"6145a8c3aa28d6b573f0a5266c140132",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":806800435,
-    "wof:lastmodified":1472646142,
+    "wof:lastmodified":1534535233,
     "wof:name":"Tennessee Citizen Action",
     "wof:parent_id":85893465,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790218445
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

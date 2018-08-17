@@ -7,6 +7,7 @@
     "addr:postcode":"37919",
     "addr:street":"Kingston Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.035411,35.928853,-84.035411,35.928853",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.035411,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7315 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597463,
-    "wof:geomhash":"49ede7b45355eff2cdbf8ce5fe1f5e81",
+    "wof:geomhash":"a2f8bace350d4f96ac7b77c0d48b5670",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":790625381,
-    "wof:lastmodified":1472645765,
+    "wof:lastmodified":1534535261,
     "wof:name":"TOMO Japanese Restaurant",
     "wof:parent_id":85855645,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823274579
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

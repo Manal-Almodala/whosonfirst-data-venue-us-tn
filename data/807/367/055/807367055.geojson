@@ -7,6 +7,7 @@
     "addr:postcode":"37214",
     "addr:street":"Donelson Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.678721,36.093393,-86.678721,36.093393",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.678721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1410 Donelson Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606753,
-    "wof:geomhash":"dd14c244a1b9ee40ab55e46d3c78ce01",
+    "wof:geomhash":"60a618bd377c7ad66fea64c33c13475a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":807367055,
-    "wof:lastmodified":1472646056,
+    "wof:lastmodified":1534535240,
     "wof:name":"Fractionair",
     "wof:parent_id":85804275,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790318361
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "aircraft",

@@ -14,6 +14,7 @@
     "geom:longitude":-86.810503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"830 Crescent Centre Dr",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585647,
-    "wof:geomhash":"92219b1d8a2fcdb8fae457390452f657",
+    "wof:geomhash":"714df94d4874b3dffa2eaaaac5dea7bb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":773428123,
-    "wof:lastmodified":1472645872,
+    "wof:lastmodified":1534535236,
     "wof:name":"AFL Telecommunications",
     "wof:parent_id":85830431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806519593
+    ],
     "wof:tags":[
         "harness",
         "wire"

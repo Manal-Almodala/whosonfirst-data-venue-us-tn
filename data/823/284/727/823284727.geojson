@@ -2,18 +2,23 @@
   "id": 823284727,
   "type": "Feature",
   "properties": {
-    "addr:full":"1275 Royal Oaks Cv Memphis TN 38116",
+    "addr:city":"Memphis",
+    "addr:full":"1275 Royal Oaks Cove Memphis, Tn 38116",
+    "addr:house_number":"1275",
     "addr:housenumber":"1275",
     "addr:postcode":"38116",
+    "addr:road":"Royal Oaks Cove",
+    "addr:state":"TN",
     "addr:street":"Royal Oaks Cv",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.020795,35.052822,-90.020795,35.052822",
-    "geom:latitude":35.052822,
-    "geom:longitude":-90.020795,
+    "geom:bbox":"-90.02108,35.05258,-90.02108,35.05258",
+    "geom:latitude":35.05258,
+    "geom:longitude":-90.02108,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1275 Royal Oaks Cv",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -27,7 +32,12 @@
     "sg:phone":"+1 901 396 3914",
     "sg:postcode":"38116",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527185,
+        102532141,
+        102533635
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700415,
         "sg:id":"SG_6dbjk9tVQiFSEggWeTMnda_35.052822_-90.020795@1303262742"
     },
     "wof:country":"US",
     "wof:created":1462610504,
-    "wof:geomhash":"75da38fab7b3b89d28a36b0268dd12b7",
+    "wof:geomhash":"375bc3ac35481f68b74c400aa97c2d99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +66,8 @@
         }
     ],
     "wof:id":823284727,
-    "wof:lastmodified":1472645754,
-    "wof:name":"W C Handy Blues Museum & Performing Arts Center",
+    "wof:lastmodified":1534535263,
+    "wof:name":"W C Handy Blues Museum And Performing Arts",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -65,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.020795,
-    35.052822,
-    -90.020795,
-    35.052822
+    -90.02108,
+    35.05258,
+    -90.02108,
+    35.05258
 ],
-  "geometry": {"coordinates":[-90.02079500000001,35.052822],"type":"Point"}
+  "geometry": {"coordinates":[-90.02108,35.05258],"type":"Point"}
 }

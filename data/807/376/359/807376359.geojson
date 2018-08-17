@@ -7,6 +7,7 @@
     "addr:postcode":"38109",
     "addr:street":"W Peebles Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.073058,35.066843,-90.073058,35.066843",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.073058,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"240 W Peebles Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606876,
-    "wof:geomhash":"079fbb58a8b3333f986437cd6294df0e",
+    "wof:geomhash":"bee134e26700d34f3df2c84427005bc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":807376359,
-    "wof:lastmodified":1472646077,
+    "wof:lastmodified":1534535263,
     "wof:name":"Police & Special Svc",
     "wof:parent_id":420542147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823282049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

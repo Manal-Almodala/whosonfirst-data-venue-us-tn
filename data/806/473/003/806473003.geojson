@@ -7,6 +7,7 @@
     "addr:postcode":"38103",
     "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.050552,35.146733,-90.050552,35.146733",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.050552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"147 Jefferson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598409,
-    "wof:geomhash":"e239be5e7d721471ce69d5596d98c72f",
+    "wof:geomhash":"e28364ea01e0d730ab468c5b211207c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":806473003,
-    "wof:lastmodified":1472645683,
+    "wof:lastmodified":1534535232,
     "wof:name":"Hanna & Associates",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773373823
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "banker"

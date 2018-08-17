@@ -2,17 +2,22 @@
   "id": 773265101,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 S 2nd St Clarksville TN 37040",
+    "addr:city":"Clarksville",
+    "addr:full":"200 S. 2Nd Street Clarksville, Tn 37040",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 931-648-5780",
     "addr:postcode":"37040",
+    "addr:road":"S. 2Nd Street",
+    "addr:state":"TN",
     "addr:street":"S 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-87.358047,36.525589,-87.358047,36.525589",
-    "geom:latitude":36.525589,
-    "geom:longitude":-87.358047,
+    "geom:bbox":"-87.35839,36.5263,-87.35839,36.5263",
+    "geom:latitude":36.5263,
+    "geom:longitude":-87.35839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -29,21 +34,26 @@
     "sg:phone":"+1 931 648 5780",
     "sg:postcode":"37040",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525367,
+        102533711
+    ],
     "wof:belongsto":[
-        85688701,
+        102086353,
         85633793,
-        85807343,
-        102086353
+        85688701,
+        85807343
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409400896,
         "osm:way":239165927,
         "sg:id":"SG_3944TxElnBlQ6ev4muFwQ2_36.525589_-87.358047@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584397,
-    "wof:geomhash":"1577053471080c6385320c7c14591938",
+    "wof:geomhash":"3e6b7fd8dcf020f71e2557c3aa3cd552",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +64,7 @@
         }
     ],
     "wof:id":773265101,
-    "wof:lastmodified":1510942122,
+    "wof:lastmodified":1534535264,
     "wof:name":"Customs House Museum",
     "wof:parent_id":85807343,
     "wof:placetype":"venue",
@@ -64,10 +74,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -87.358047,
-    36.525589,
-    -87.358047,
-    36.525589
+    -87.35839,
+    36.5263,
+    -87.35839,
+    36.5263
 ],
-  "geometry": {"coordinates":[-87.358047,36.525589],"type":"Point"}
+  "geometry": {"coordinates":[-87.35839,36.5263],"type":"Point"}
 }

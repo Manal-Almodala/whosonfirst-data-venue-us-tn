@@ -14,6 +14,7 @@
     "geom:longitude":-88.828042,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2021 N Highland Ave",
     "sg:city":"Jackson",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584257,
-    "wof:geomhash":"6dc3da2263fdc5916dc39adf522d5e84",
+    "wof:geomhash":"dcb87c846792552f18de52d9433f9091",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":773246059,
-    "wof:lastmodified":1472645600,
+    "wof:lastmodified":1534535259,
     "wof:name":"Little's Jewelers",
     "wof:parent_id":85824843,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823208693
+    ],
     "wof:tags":[
         "jeweler"
     ]

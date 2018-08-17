@@ -2,18 +2,24 @@
   "id": 823285517,
   "type": "Feature",
   "properties": {
-    "addr:full":"575 S Mendenhall Rd Memphis TN 38117",
+    "addr:city":"Memphis",
+    "addr:full":"575 South Mendenhall Memphis, Tn 38103-3659",
+    "addr:house_number":"575",
     "addr:housenumber":"575",
-    "addr:postcode":"38117",
+    "addr:phone":"+1 901-578-2787",
+    "addr:postcode":"38103-3659",
+    "addr:road":"South Mendenhall",
+    "addr:state":"TN",
     "addr:street":"S Mendenhall Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-89.895879,35.115344,-89.895879,35.115344",
-    "geom:latitude":35.115344,
-    "geom:longitude":-89.895879,
+    "geom:bbox":"-89.8959,35.11563,-89.8959,35.11563",
+    "geom:latitude":35.11563,
+    "geom:longitude":-89.8959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"575 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -40,7 +46,11 @@
         "science"
     ],
     "sg:website":"http://www.urbanartcommission.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527185,
+        102533635
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -51,11 +61,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700359,
         "sg:id":"SG_5LmCzpFLNVXN7jjcb0CQGg_35.115344_-89.895879@1303262742"
     },
     "wof:country":"US",
     "wof:created":1462610531,
-    "wof:geomhash":"79734a2e6d457de3a72314ea55d5e5ec",
+    "wof:geomhash":"3265a0b060ea38e6a8834f993c925671",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -68,7 +79,7 @@
         }
     ],
     "wof:id":823285517,
-    "wof:lastmodified":1472645732,
+    "wof:lastmodified":1534535264,
     "wof:name":"Artsmemphis",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",
@@ -84,10 +95,10 @@
     ]
 },
   "bbox": [
-    -89.895879,
-    35.115344,
-    -89.895879,
-    35.115344
+    -89.8959,
+    35.11563,
+    -89.8959,
+    35.11563
 ],
-  "geometry": {"coordinates":[-89.89587899999999,35.115344],"type":"Point"}
+  "geometry": {"coordinates":[-89.8959,35.11563],"type":"Point"}
 }

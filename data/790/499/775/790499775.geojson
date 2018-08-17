@@ -7,6 +7,7 @@
     "addr:postcode":"37923",
     "addr:street":"Unicorn Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.075472,35.919681,-84.075472,35.919681",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.075472,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"8705 Unicorn Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596366,
-    "wof:geomhash":"831c3675ec8f075f7e149d95e7b77149",
+    "wof:geomhash":"dacdbf3984d0b4b381a45c55fcc55cb4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":790499775,
-    "wof:lastmodified":1472645513,
+    "wof:lastmodified":1534535251,
     "wof:name":"Leisure World Gameland Inc",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        404024681
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "drinking"

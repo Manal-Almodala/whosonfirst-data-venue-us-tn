@@ -2,18 +2,24 @@
   "id": 773371031,
   "type": "Feature",
   "properties": {
-    "addr:full":"342 Pusser St Adamsville TN 38310",
+    "addr:city":"Adamsville",
+    "addr:full":"342 Pusser St Adamsville, Tn 38310",
+    "addr:house_number":"342",
     "addr:housenumber":"342",
+    "addr:phone":"+1 731-632-4080",
     "addr:postcode":"38310",
+    "addr:road":"Pusser St",
+    "addr:state":"TN",
     "addr:street":"Pusser St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.384741,35.231891,-88.384741,35.231891",
-    "geom:latitude":35.231891,
-    "geom:longitude":-88.384741,
+    "geom:bbox":"-88.38374,35.23181,-88.38374,35.23181",
+    "geom:latitude":35.23181,
+    "geom:longitude":-88.38374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"342 Pusser St",
     "sg:city":"Adamsville",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 731 632 4080",
     "sg:postcode":"38310",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420541905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700113,
         "sg:id":"SG_5TWYeLvuS74YwykrnQYW3O_35.231891_-88.384741@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585188,
-    "wof:geomhash":"90ce4423acb8672d6ba4acc829736488",
+    "wof:geomhash":"4c0c5b2a6e8cc636ccbb65334856dc57",
     "wof:hierarchy":[],
     "wof:id":773371031,
-    "wof:lastmodified":1472645831,
-    "wof:name":"Buford Pusser Home & Museum",
+    "wof:lastmodified":1534535232,
+    "wof:name":"Buford Pusser Home And Museum",
     "wof:parent_id":420541905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.384741,
-    35.231891,
-    -88.384741,
-    35.231891
+    -88.38374,
+    35.23181,
+    -88.38374,
+    35.23181
 ],
-  "geometry": {"coordinates":[-88.38474100000001,35.231891],"type":"Point"}
+  "geometry": {"coordinates":[-88.38374,35.23181],"type":"Point"}
 }

@@ -2,18 +2,24 @@
   "id": 773387369,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 E M L King Blvd Chattanooga TN 37403",
+    "addr:city":"Chattanooga",
+    "addr:full":"200 E Ml King Blvd Chattanooga, Tn 37403",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 423-266-8658",
     "addr:postcode":"37403",
+    "addr:road":"E Ml King Blvd",
+    "addr:state":"TN",
     "addr:street":"E M L King Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.30599,35.04491,-85.30599,35.04491",
-    "geom:latitude":35.04491,
-    "geom:longitude":-85.30599,
+    "geom:bbox":"-85.3069,35.04516,-85.3069,35.04516",
+    "geom:latitude":35.04516,
+    "geom:longitude":-85.3069,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 E M L King Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533789
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700124,
         "sg:id":"SG_44vR5qvc7YxI1m7seZ7pxR_35.044910_-85.305990@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585306,
-    "wof:geomhash":"91648ee55d72294750f6de32631e66a7",
+    "wof:geomhash":"fcf73b1383ac47a886a9068e81cf7807",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":773387369,
-    "wof:lastmodified":1472645861,
-    "wof:name":"African-American Museum",
+    "wof:lastmodified":1534535233,
+    "wof:name":"Chattanooga African American Museum",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -85.30599,
-    35.04491,
-    -85.30599,
-    35.04491
+    -85.3069,
+    35.04516,
+    -85.3069,
+    35.04516
 ],
-  "geometry": {"coordinates":[-85.30598999999999,35.04491],"type":"Point"}
+  "geometry": {"coordinates":[-85.3069,35.04516],"type":"Point"}
 }

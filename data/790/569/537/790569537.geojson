@@ -2,18 +2,24 @@
   "id": 790569537,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Chestnut St Chattanooga TN 37402",
+    "addr:city":"Chattanooga",
+    "addr:full":"400 Chestnut St Chattanooga, Tn 37402",
+    "addr:house_number":"400",
     "addr:housenumber":"400",
+    "addr:phone":"+1 423-265-3247",
     "addr:postcode":"37402",
+    "addr:road":"Chestnut St",
+    "addr:state":"TN",
     "addr:street":"Chestnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.311775,35.052212,-85.311775,35.052212",
-    "geom:latitude":35.052212,
-    "geom:longitude":-85.311775,
+    "geom:bbox":"-85.31122,35.05111,-85.31122,35.05111",
+    "geom:latitude":35.05111,
+    "geom:longitude":-85.31122,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"400 Chestnut St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533789
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700110,
         "sg:id":"SG_2Ot9LMfwMqi1qWobh3S8Sj_35.052212_-85.311775@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596957,
-    "wof:geomhash":"b873dcb1a24fb046ae010015e739d711",
+    "wof:geomhash":"07692502e302b22c1d7f2ba2fa4c0db8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":790569537,
-    "wof:lastmodified":1472645598,
-    "wof:name":"Chattnoga Rgnal History Museum",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Chattanooga Regional History",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -85.311775,
-    35.052212,
-    -85.311775,
-    35.052212
+    -85.31122,
+    35.05111,
+    -85.31122,
+    35.05111
 ],
-  "geometry": {"coordinates":[-85.311775,35.052212],"type":"Point"}
+  "geometry": {"coordinates":[-85.31122000000001,35.05111],"type":"Point"}
 }

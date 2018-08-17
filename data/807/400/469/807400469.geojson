@@ -14,6 +14,7 @@
     "geom:longitude":-83.91877,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"706 Walnut St SW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607291,
-    "wof:geomhash":"6747b56f09f7276110d2b6774cdee7a4",
+    "wof:geomhash":"29dbbb724c3738efcf50c9bf9959f0ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":807400469,
-    "wof:lastmodified":1472646092,
+    "wof:lastmodified":1534535260,
     "wof:name":"National Parks & Conservation",
     "wof:parent_id":85867175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773059623
+    ],
     "wof:tags":[
         "environmental",
         "org"

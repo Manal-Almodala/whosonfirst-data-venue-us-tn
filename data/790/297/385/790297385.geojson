@@ -14,6 +14,7 @@
     "geom:longitude":-89.841854,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3150 Lenox Park Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462594747,
-    "wof:geomhash":"5ea8396f25ed5b345ffb3ee245fc1342",
+    "wof:geomhash":"610dc7f572c5568e765d80cdc667d764",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":790297385,
-    "wof:lastmodified":1472645303,
+    "wof:lastmodified":1534535238,
     "wof:name":"Keystone Emergency Management",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807387279
+    ],
     "wof:tags":[
         "notification",
         "emergency"

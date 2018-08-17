@@ -7,6 +7,7 @@
     "addr:postcode":"37208",
     "addr:street":"Dr D;Jr Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.805662,36.166952,-86.805662,36.166952",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.805662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1005 Dr D B Todd Jr Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607069,
-    "wof:geomhash":"674d32cd5cc697cf8dd56a06bd32031e",
+    "wof:geomhash":"77dfbc1d516334c0bf4ef9af2208c68b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":807389689,
-    "wof:lastmodified":1472646094,
+    "wof:lastmodified":1534535259,
     "wof:name":"Elam Mental Health Clinic",
     "wof:parent_id":85893473,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823265023
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "counselor",

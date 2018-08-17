@@ -14,6 +14,7 @@
     "geom:longitude":-83.927635,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"930 E Emerald Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603005,
-    "wof:geomhash":"80894ac14599e554e0b7d45f6527ca14",
+    "wof:geomhash":"2a2f324dfc47f7c182d02293962fa470",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":807017237,
-    "wof:lastmodified":1472645166,
+    "wof:lastmodified":1534535245,
     "wof:name":"Ob-Gyn Specialists-Knoxville",
     "wof:parent_id":85878559,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806442125
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

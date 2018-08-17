@@ -7,6 +7,7 @@
     "addr:postcode":"37748",
     "addr:street":"Devonia St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.55149,35.935765,-84.55149,35.935765",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.55149,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"415 Devonia St",
     "sg:city":"Harriman",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588928,
-    "wof:geomhash":"7daed6face6006a21f807ac0bbc89bea",
+    "wof:geomhash":"ec944ab2ce4ec78200f5609eb168a1df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":789582809,
-    "wof:lastmodified":1472645071,
+    "wof:lastmodified":1534535259,
     "wof:name":"W E Bennett MD",
     "wof:parent_id":85841801,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806646467
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

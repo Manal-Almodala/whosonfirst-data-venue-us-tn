@@ -7,6 +7,7 @@
     "addr:postcode":"37402",
     "addr:street":"Broad St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.310678,35.047527,-85.310678,35.047527",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.310678,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"735 Broad St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605407,
-    "wof:geomhash":"a8df9837dbfd0796da70fb090cb276cc",
+    "wof:geomhash":"f20166b74423038fdab1c5dde87a25ee",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":807257651,
-    "wof:lastmodified":1472645827,
+    "wof:lastmodified":1534535255,
     "wof:name":"William Heck Attorney",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807366757
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

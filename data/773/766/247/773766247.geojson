@@ -7,6 +7,7 @@
     "addr:postcode":"37203",
     "addr:street":"10Th Ave S",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.782178,36.155001,-86.782178,36.155001",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.782178,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"209 10th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588215,
-    "wof:geomhash":"0cc6147c7d7bdf059f81c52af187ab83",
+    "wof:geomhash":"61ffa1a5f255d2e2b0dc9a7c183e6d6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":773766247,
-    "wof:lastmodified":1472645993,
+    "wof:lastmodified":1534535253,
     "wof:name":"Bauer Associates Architecture",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823196067
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "architectural"

@@ -7,6 +7,7 @@
     "addr:postcode":"37228",
     "addr:street":"Vantage Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-86.790904,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1 Vantage Way",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":807316877,
-    "wof:lastmodified":1510695367,
+    "wof:lastmodified":1534535247,
     "wof:name":"American Lung Assn",
     "wof:parent_id":85813213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790407957
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

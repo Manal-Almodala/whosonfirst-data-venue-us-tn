@@ -14,6 +14,7 @@
     "geom:longitude":-85.311523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 W 11th St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584436,
-    "wof:geomhash":"71591f919cb008fb7cc8325497a1c3ad",
+    "wof:geomhash":"e77cfbfe78ba61cad5847e6d94efca48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":773269087,
-    "wof:lastmodified":1472645798,
+    "wof:lastmodified":1534535229,
     "wof:name":"Chattanooga Employee Benefits",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773311123
+    ],
     "wof:tags":[
         "village"
     ]

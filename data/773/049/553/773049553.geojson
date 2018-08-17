@@ -7,6 +7,7 @@
     "addr:postcode":"38115",
     "addr:street":"E Raines Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.834239,35.034872,-89.834239,35.034872",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.834239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6915 E Raines Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462582755,
-    "wof:geomhash":"1f25bfdf68b93f01dc6a0aadb211532c",
+    "wof:geomhash":"6680df03e9dafa54e81428ba35fb2ca1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":773049553,
-    "wof:lastmodified":1472645157,
+    "wof:lastmodified":1534535263,
     "wof:name":"Gateway Tire & Svc Ctr",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823283889
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "tire"

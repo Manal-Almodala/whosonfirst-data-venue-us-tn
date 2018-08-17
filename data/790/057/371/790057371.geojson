@@ -7,6 +7,7 @@
     "addr:postcode":"37738",
     "addr:street":"E Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.497814,35.721192,-83.497814,35.721192",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.497814,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"705 E Pkwy",
     "sg:city":"Gatlinburg",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592797,
-    "wof:geomhash":"70c7e1094d6c5e8a6251a95e9c8f14b7",
+    "wof:geomhash":"18150f707705763b45fc0c38d2b0cc9e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":790057371,
-    "wof:lastmodified":1472645084,
+    "wof:lastmodified":1534535257,
     "wof:name":"Alamo Steakhouse & Saloon",
     "wof:parent_id":85823215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823250275
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

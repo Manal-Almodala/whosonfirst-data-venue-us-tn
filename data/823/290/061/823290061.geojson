@@ -14,6 +14,7 @@
     "geom:longitude":-89.89307,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3950 New Covington Pike",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610696,
-    "wof:geomhash":"61ee1ae6262b61f30ce4a909fc8c7b80",
+    "wof:geomhash":"db873fcd0a902b7e3797b5dabf365fab",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":823290061,
-    "wof:lastmodified":1472645760,
+    "wof:lastmodified":1534535263,
     "wof:name":"The Surgery Group P C",
     "wof:parent_id":85843675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789644269
+    ],
     "wof:tags":[
         "physician",
         "surgeon",

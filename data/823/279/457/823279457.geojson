@@ -14,6 +14,7 @@
     "geom:longitude":-90.020791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"321 S Bellevue Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -52,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610293,
-    "wof:geomhash":"894b539b9740c4acaa8549b2ad2acac3",
+    "wof:geomhash":"d96a7ade81f32658c954c6a2ace03e42",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,13 +66,15 @@
         }
     ],
     "wof:id":823279457,
-    "wof:lastmodified":1472645725,
+    "wof:lastmodified":1534535263,
     "wof:name":"Memphis Plan The",
     "wof:parent_id":85846027,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806824641
+    ],
     "wof:tags":[
         "medical",
         "commercial",

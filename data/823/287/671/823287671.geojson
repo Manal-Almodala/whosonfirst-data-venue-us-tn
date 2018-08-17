@@ -7,6 +7,7 @@
     "addr:postcode":"38120",
     "addr:street":"Humphreys Ctr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.857322,35.129175,-89.857322,35.129175",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.857322,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"50 Humphreys Ctr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -53,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610612,
-    "wof:geomhash":"67839917e9f89e81d723c5fa9180c3ba",
+    "wof:geomhash":"985fb5dae38048c327961852a7688869",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -66,13 +68,17 @@
         }
     ],
     "wof:id":823287671,
-    "wof:lastmodified":1472645742,
+    "wof:lastmodified":1534535263,
     "wof:name":"Sekisui East",
     "wof:parent_id":85844747,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        823287781
+    ],
+    "wof:supersedes":[
+        807290537
+    ],
     "wof:tags":[
         "japanese",
         "pan",

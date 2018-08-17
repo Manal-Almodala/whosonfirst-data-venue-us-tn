@@ -2,18 +2,24 @@
   "id": 806751379,
   "type": "Feature",
   "properties": {
-    "addr:full":"1711 Dandridge Ave Knoxville TN 37915",
+    "addr:city":"Knoxville",
+    "addr:full":"1711 Dandridge Avenue Knoxville, Tn 37915",
+    "addr:house_number":"1711",
     "addr:housenumber":"1711",
+    "addr:phone":"+1 865-522-8661",
     "addr:postcode":"37915",
+    "addr:road":"Dandridge Avenue",
+    "addr:state":"TN",
     "addr:street":"Dandridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.901775,35.971886,-83.901775,35.971886",
-    "geom:latitude":35.971886,
-    "geom:longitude":-83.901775,
+    "geom:bbox":"-83.90258,35.97162,-83.90258,35.97162",
+    "geom:latitude":35.97162,
+    "geom:longitude":-83.90258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1711 Dandridge Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527233
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700056,
         "sg:id":"SG_0OgW16Dm55LFCzXW2gAU6r_35.971886_-83.901775@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600777,
-    "wof:geomhash":"894a0ff431ea3ec904a3c1f431dba65e",
+    "wof:geomhash":"985e291b7f8009ea84e669d52dfac8fb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":806751379,
-    "wof:lastmodified":1472646126,
-    "wof:name":"Mabry-Hazen House Museum",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Mabry-Hazen House",
     "wof:parent_id":85878555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -83.901775,
-    35.971886,
-    -83.901775,
-    35.971886
+    -83.90258,
+    35.97162,
+    -83.90258,
+    35.97162
 ],
-  "geometry": {"coordinates":[-83.901775,35.971886],"type":"Point"}
+  "geometry": {"coordinates":[-83.90258,35.97162],"type":"Point"}
 }

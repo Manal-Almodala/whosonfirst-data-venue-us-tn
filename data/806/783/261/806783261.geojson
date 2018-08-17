@@ -2,17 +2,22 @@
   "id": 806783261,
   "type": "Feature",
   "properties": {
-    "addr:full":"702 Murfreesboro Pike Nashville TN 37217",
+    "addr:city":"Nashville",
+    "addr:full":"702 Murfreesboro Pike Nashville, Tn 37210-4522",
+    "addr:house_number":"702",
     "addr:housenumber":"702",
-    "addr:postcode":"37217",
+    "addr:phone":"+1 615-742-7445",
+    "addr:postcode":"37210-4522",
+    "addr:road":"Murfreesboro Pike",
+    "addr:state":"TN",
     "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-86.735419,36.139947,-86.735419,36.139947",
-    "geom:latitude":36.139947,
-    "geom:longitude":-86.735419,
+    "geom:bbox":"-86.73421,36.13955,-86.73421,36.13955",
+    "geom:latitude":36.13955,
+    "geom:longitude":-86.73421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -33,7 +38,10 @@
         "gallery"
     ],
     "sg:website":"www.lanemotormuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525035
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -45,12 +53,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700176,
         "osm:way":308674568,
         "sg:id":"SG_3Y4c0WtRP8MdzpcKOrCgfa_36.139947_-86.735419@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601046,
-    "wof:geomhash":"c0267ea434bf7f7c619e09d86eb1ba5f",
+    "wof:geomhash":"20417aad7388c2be3c2cc0ecbbc8c1c3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -72,7 +81,7 @@
         }
     ],
     "wof:id":806783261,
-    "wof:lastmodified":1510943485,
+    "wof:lastmodified":1534535264,
     "wof:name":"Lane Motor Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -84,10 +93,10 @@
     ]
 },
   "bbox": [
-    -86.735419,
-    36.139947,
-    -86.735419,
-    36.139947
+    -86.73421,
+    36.13955,
+    -86.73421,
+    36.13955
 ],
-  "geometry": {"coordinates":[-86.73541899999999,36.139947],"type":"Point"}
+  "geometry": {"coordinates":[-86.73421,36.13955],"type":"Point"}
 }

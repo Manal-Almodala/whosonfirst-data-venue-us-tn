@@ -7,6 +7,7 @@
     "addr:postcode":"38017",
     "addr:street":"W Poplar Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.712136,35.047246,-89.712136,35.047246",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.712136,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1500 W Poplar Ave",
     "sg:city":"Collierville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462607919,
-    "wof:geomhash":"4f9bf468f5702e9f7c3e7c4e9a4738ce",
+    "wof:geomhash":"7ca53fd1b7a36440510e8e3660b0098e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":823169195,
-    "wof:lastmodified":1472645446,
+    "wof:lastmodified":1534535255,
     "wof:name":"Memphis Gastroenterology Group",
     "wof:parent_id":85804201,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789676611
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

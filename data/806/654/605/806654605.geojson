@@ -14,6 +14,7 @@
     "geom:longitude":-86.827337,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"128 Holiday Ct",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599946,
-    "wof:geomhash":"841423ae9d615dcde344fbb311e573d5",
+    "wof:geomhash":"1429b2ba94548a53d99678c6146a9432",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":806654605,
-    "wof:lastmodified":1472646080,
+    "wof:lastmodified":1534535244,
     "wof:name":"Legacy Five",
     "wof:parent_id":85830431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773153795
+    ],
     "wof:tags":[
         "establishment"
     ]

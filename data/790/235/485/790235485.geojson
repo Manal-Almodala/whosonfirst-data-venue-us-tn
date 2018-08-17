@@ -2,18 +2,24 @@
   "id": 790235485,
   "type": "Feature",
   "properties": {
-    "addr:full":"26 S Broad St Lexington TN 38351",
+    "addr:city":"Lexington",
+    "addr:full":"26 S Broad St Lexington, Tn 38351",
+    "addr:house_number":"26",
     "addr:housenumber":"26",
+    "addr:phone":"+1 731-967-0306",
     "addr:postcode":"38351",
+    "addr:road":"S Broad St",
+    "addr:state":"TN",
     "addr:street":"S Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.394319,35.650175,-88.394319,35.650175",
-    "geom:latitude":35.650175,
-    "geom:longitude":-88.394319,
+    "geom:bbox":"-88.39356,35.65081,-88.39356,35.65081",
+    "geom:latitude":35.65081,
+    "geom:longitude":-88.39356,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"26 S Broad St",
     "sg:city":"Lexington",
     "sg:classifiers":[
@@ -27,18 +33,20 @@
     "sg:phone":"+1 731 967 0306",
     "sg:postcode":"38351",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700122,
         "sg:id":"SG_3nM23l9UeErklWBMq67JNt_35.650175_-88.394319@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594213,
-    "wof:geomhash":"a461bc63329d0640193aeb89627f8ebb",
+    "wof:geomhash":"d09554b72e875016a034d66b6983468d",
     "wof:hierarchy":[],
     "wof:id":790235485,
-    "wof:lastmodified":1472645271,
+    "wof:lastmodified":1534535234,
     "wof:name":"Beech River Heritage Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +56,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.394319,
-    35.650175,
-    -88.394319,
-    35.650175
+    -88.39356,
+    35.65081,
+    -88.39356,
+    35.65081
 ],
-  "geometry": {"coordinates":[-88.394319,35.650175],"type":"Point"}
+  "geometry": {"coordinates":[-88.39355999999999,35.65081],"type":"Point"}
 }

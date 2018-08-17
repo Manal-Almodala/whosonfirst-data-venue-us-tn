@@ -7,6 +7,7 @@
     "addr:postcode":"37027",
     "addr:street":"Maryland Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.799677,36.033329,-86.799677,36.033329",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.799677,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5115 Maryland Way",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605552,
-    "wof:geomhash":"e725c4b525175c47d9c52644867075fe",
+    "wof:geomhash":"b7a94c156769a7b1d76833ce64fdce99",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":807270699,
-    "wof:lastmodified":1472645833,
+    "wof:lastmodified":1534535255,
     "wof:name":"Quadrascan Technologies LLC",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807372773
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consultant"

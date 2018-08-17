@@ -14,6 +14,7 @@
     "geom:longitude":-89.884842,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2725 S Mendenhall Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610480,
-    "wof:geomhash":"3591d6d6de62526459b9a991a1eae637",
+    "wof:geomhash":"863b81d715d3f08ce9995575595f14a2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -70,13 +71,15 @@
         }
     ],
     "wof:id":823284181,
-    "wof:lastmodified":1472645725,
+    "wof:lastmodified":1534535263,
     "wof:name":"Wells Fargo Guard Services",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789650969
+    ],
     "wof:tags":[
         "guard",
         "patrol"

@@ -7,6 +7,7 @@
     "addr:postcode":"37221",
     "addr:street":"Clofton Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.938691,36.063256,-86.938691,36.063256",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.938691,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"361 Clofton Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605513,
-    "wof:geomhash":"fb7a83b5d94c33bb784c58bde3212422",
+    "wof:geomhash":"580a99e87a4079481e3ca4b1a48e8052",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":807267409,
-    "wof:lastmodified":1472645814,
+    "wof:lastmodified":1534535260,
     "wof:name":"City Limits Bakery & Cafe LLC",
     "wof:parent_id":85854361,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823267879
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "eating"

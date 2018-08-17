@@ -7,6 +7,7 @@
     "addr:postcode":"38119",
     "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.861907,35.100006,-89.861907,35.100006",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.861907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6005 Park Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608978,
-    "wof:geomhash":"dde5c29842ed7a4324468f9225c8b0b0",
+    "wof:geomhash":"1d857d8737f35f9d4384600fe6127e39",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":823231471,
-    "wof:lastmodified":1472645611,
+    "wof:lastmodified":1534535258,
     "wof:name":"East Memphis Orthopedic Group",
     "wof:parent_id":85857485,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773200973
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

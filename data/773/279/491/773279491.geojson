@@ -14,6 +14,7 @@
     "geom:longitude":-84.082804,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"9000 Executive Park Dr NW",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584512,
-    "wof:geomhash":"c6eac884d8378a5372db4fa64090162c",
+    "wof:geomhash":"feb417acc3690956cf49937c0c2f801b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":773279491,
-    "wof:lastmodified":1472645822,
+    "wof:lastmodified":1534535229,
     "wof:name":"NHC Home Care",
     "wof:parent_id":85810021,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773031079
+    ],
     "wof:tags":[
         "home"
     ]

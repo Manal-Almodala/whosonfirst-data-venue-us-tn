@@ -7,6 +7,7 @@
     "addr:postcode":"37204",
     "addr:street":"Thompson Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-86.764605,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"719 Thompson Ln",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":807162433,
-    "wof:lastmodified":1511323484,
+    "wof:lastmodified":1534535238,
     "wof:name":"Petsmart",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773458321
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "pet",

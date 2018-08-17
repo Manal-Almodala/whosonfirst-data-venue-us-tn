@@ -2,18 +2,24 @@
   "id": 807182773,
   "type": "Feature",
   "properties": {
-    "addr:full":"139 Rock Castle Ln Hendersonville TN 37075",
+    "addr:city":"Hendersonvlle",
+    "addr:full":"139 Rock Castle Ln Hendersonvlle, Tn 37075-4522",
+    "addr:house_number":"139",
     "addr:housenumber":"139",
-    "addr:postcode":"37075",
+    "addr:phone":"+1 615-824-0502",
+    "addr:postcode":"37075-4522",
+    "addr:road":"Rock Castle Ln",
+    "addr:state":"TN",
     "addr:street":"Rock Castle Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.596122,36.281437,-86.596122,36.281437",
-    "geom:latitude":36.281437,
-    "geom:longitude":-86.596122,
+    "geom:bbox":"-86.59604,36.2811,-86.59604,36.2811",
+    "geom:latitude":36.2811,
+    "geom:longitude":-86.59604,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"139 Rock Castle Ln",
     "sg:city":"Hendersonville",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 615 824 0502",
     "sg:postcode":"37075",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525035
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700373,
         "sg:id":"SG_6pn5ltaxmmc9ozSEDquz0l_36.281437_-86.596122@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604613,
-    "wof:geomhash":"436fde29c8144f767c7001447eea7e66",
+    "wof:geomhash":"815fad7420ca8d04dca5034b23b7c21d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":807182773,
-    "wof:lastmodified":1472645704,
+    "wof:lastmodified":1534535263,
     "wof:name":"Rock Castle",
     "wof:parent_id":85826807,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.596122,
-    36.281437,
-    -86.596122,
-    36.281437
+    -86.59604,
+    36.2811,
+    -86.59604,
+    36.2811
 ],
-  "geometry": {"coordinates":[-86.59612199999999,36.281437],"type":"Point"}
+  "geometry": {"coordinates":[-86.59604,36.2811],"type":"Point"}
 }

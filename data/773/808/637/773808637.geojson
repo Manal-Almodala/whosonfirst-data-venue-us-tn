@@ -2,18 +2,24 @@
   "id": 773808637,
   "type": "Feature",
   "properties": {
-    "addr:full":"114 N 3rd St Selmer TN 38375",
+    "addr:city":"Selmer",
+    "addr:full":"114 N 3Rd St Selmer, Tn 38375",
+    "addr:house_number":"114",
     "addr:housenumber":"114",
+    "addr:phone":"+1 731-646-0018",
     "addr:postcode":"38375",
+    "addr:road":"N 3Rd St",
+    "addr:state":"TN",
     "addr:street":"N 3Rd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-88.592565,35.171079,-88.592565,35.171079",
-    "geom:latitude":35.171079,
-    "geom:longitude":-88.592565,
+    "geom:bbox":"-88.59288,35.17082,-88.59288,35.17082",
+    "geom:latitude":35.17082,
+    "geom:longitude":-88.59288,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"114 N 3rd St",
     "sg:city":"Selmer",
     "sg:classifiers":[
@@ -27,19 +33,23 @@
     "sg:phone":"+1 731 646 0018",
     "sg:postcode":"38375",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "src:geom":"mudf",
+    "wof:airports":[],
+    "wof:belongsto":[
+        420541905
+    ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700057,
         "sg:id":"SG_7dlDzRAsxIaP5ZdeVqLLNF_35.171079_-88.592565@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588539,
-    "wof:geomhash":"7980c36417b2e8f69bcfde54417d7a1c",
+    "wof:geomhash":"181abf190ad7e6818225b87bee099355",
     "wof:hierarchy":[],
     "wof:id":773808637,
-    "wof:lastmodified":1472646003,
-    "wof:name":"Mc Nairy County Museum",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Mcnairy County Museum",
     "wof:parent_id":420541905,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -88.592565,
-    35.171079,
-    -88.592565,
-    35.171079
+    -88.59288,
+    35.17082,
+    -88.59288,
+    35.17082
 ],
-  "geometry": {"coordinates":[-88.59256499999999,35.171079],"type":"Point"}
+  "geometry": {"coordinates":[-88.59287999999999,35.17082],"type":"Point"}
 }

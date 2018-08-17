@@ -14,6 +14,7 @@
     "geom:longitude":-87.319398,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"229 Dunbar Cave Rd",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599508,
-    "wof:geomhash":"6775920f7ce485615b707ffc19a00db8",
+    "wof:geomhash":"640f2321d1f324cc9537e600d48140c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":806602175,
-    "wof:lastmodified":1472646023,
+    "wof:lastmodified":1534535240,
     "wof:name":"Sunrise Community Of Tennessee",
     "wof:parent_id":85833385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806587053
+    ],
     "wof:tags":[
         "organization",
         "welfare"

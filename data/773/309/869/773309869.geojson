@@ -7,6 +7,7 @@
     "addr:postcode":"37211",
     "addr:street":"Seaboard Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.749299,36.09981,-86.749299,36.09981",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.749299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3020 Seaboard Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584761,
-    "wof:geomhash":"c0de72430927dd4981ba157115f4645c",
+    "wof:geomhash":"07bbe540b14a001e1de612186c3504e0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":773309869,
-    "wof:lastmodified":1472645851,
+    "wof:lastmodified":1534535259,
     "wof:name":"BENTEX Services",
     "wof:parent_id":85843601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823265929
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "trucking"

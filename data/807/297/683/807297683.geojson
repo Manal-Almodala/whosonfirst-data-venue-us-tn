@@ -2,18 +2,24 @@
   "id": 807297683,
   "type": "Feature",
   "properties": {
-    "addr:full":"601 S Gay St Knoxville TN 37902",
+    "addr:city":"Knoxville",
+    "addr:full":"601 S Gay St Knoxville, Tn 37901",
+    "addr:house_number":"601",
     "addr:housenumber":"601",
-    "addr:postcode":"37902",
+    "addr:phone":"+1 865-215-8830",
+    "addr:postcode":"37901",
+    "addr:road":"S Gay St",
+    "addr:state":"TN",
     "addr:street":"S Gay St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.917481,35.963871,-83.917481,35.963871",
-    "geom:latitude":35.963871,
-    "geom:longitude":-83.917481,
+    "geom:bbox":"-83.91779,35.96422,-83.91779,35.96422",
+    "geom:latitude":35.96422,
+    "geom:longitude":-83.91779,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"601 S Gay St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 865 215 8788",
     "sg:postcode":"37902",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527233
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700055,
         "sg:id":"SG_5ZIsWjwFCqw9aX2kgfirqj_35.963871_-83.917481@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462605828,
-    "wof:geomhash":"5ec6844b57b9ee790a5d59bfe51db112",
+    "wof:geomhash":"3580c07f41df52598e185aa2ad7c00b7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":807297683,
-    "wof:lastmodified":1472645989,
-    "wof:name":"Museum Of East Tn History",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Museum Of East Tennessee History",
     "wof:parent_id":85867175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.917481,
-    35.963871,
-    -83.917481,
-    35.963871
+    -83.91779,
+    35.96422,
+    -83.91779,
+    35.96422
 ],
-  "geometry": {"coordinates":[-83.917481,35.963871],"type":"Point"}
+  "geometry": {"coordinates":[-83.91779,35.96422],"type":"Point"}
 }

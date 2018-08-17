@@ -2,18 +2,24 @@
   "id": 807136481,
   "type": "Feature",
   "properties": {
-    "addr:full":"700 Hall of Fame Dr Knoxville TN 37915",
+    "addr:city":"Knoxville",
+    "addr:full":"700 Hall Of Fame Dr Knoxville, Tn 37915",
+    "addr:house_number":"700",
     "addr:housenumber":"700",
+    "addr:phone":"+1 865-633-9000",
     "addr:postcode":"37915",
+    "addr:road":"Hall Of Fame Dr",
+    "addr:state":"TN",
     "addr:street":"Hall Of Fame Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.911585,35.963733,-83.911585,35.963733",
-    "geom:latitude":35.963733,
-    "geom:longitude":-83.911585,
+    "geom:bbox":"-83.91156,35.96388,-83.91156,35.96388",
+    "geom:latitude":35.96388,
+    "geom:longitude":-83.91156,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"700 Hall of Fame Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -33,7 +39,10 @@
     "sg:postcode":"37915",
     "sg:province":"TN",
     "sg:website":"www.wbhof.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527233
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -44,11 +53,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700017,
         "sg:id":"SG_35Y0HH69FDz1teGnZMAl2y_35.963733_-83.911585@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604126,
-    "wof:geomhash":"5aa54339d4d9150e8b78de1fe4e89fde",
+    "wof:geomhash":"28124503bc5f14b6fbde0dfca92bad25",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,8 +71,8 @@
         }
     ],
     "wof:id":807136481,
-    "wof:lastmodified":1472645565,
-    "wof:name":"Women's Basketball Hall-Fame",
+    "wof:lastmodified":1534535263,
+    "wof:name":"Women'S Basketball Hall Of Fame",
     "wof:parent_id":85878571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -71,10 +81,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.911585,
-    35.963733,
-    -83.911585,
-    35.963733
+    -83.91156,
+    35.96388,
+    -83.91156,
+    35.96388
 ],
-  "geometry": {"coordinates":[-83.911585,35.963733],"type":"Point"}
+  "geometry": {"coordinates":[-83.91155999999999,35.96388],"type":"Point"}
 }

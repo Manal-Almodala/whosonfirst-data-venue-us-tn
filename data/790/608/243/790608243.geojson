@@ -7,6 +7,7 @@
     "addr:postcode":"38573",
     "addr:street":"Post Office Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.244695,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"108 Post Office Ln",
     "sg:city":"Monroe",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"611445e0d2dbe3a9fcadcd3407f0c32b",
     "wof:hierarchy":[],
     "wof:id":790608243,
-    "wof:lastmodified":1510603029,
+    "wof:lastmodified":1534535263,
     "wof:name":"US Post Office",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823292747
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

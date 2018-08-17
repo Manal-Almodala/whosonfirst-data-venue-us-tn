@@ -7,6 +7,7 @@
     "addr:postcode":"38122",
     "addr:street":"Summer Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-89.943094,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"3522 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -53,12 +54,14 @@
         }
     ],
     "wof:id":823288061,
-    "wof:lastmodified":1511323116,
+    "wof:lastmodified":1534535234,
     "wof:name":"Family Dollar Store",
     "wof:parent_id":85893409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790230925
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

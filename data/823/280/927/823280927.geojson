@@ -2,18 +2,24 @@
   "id": 823280927,
   "type": "Feature",
   "properties": {
-    "addr:full":"374 Metal Museum Dr Memphis TN 38106",
+    "addr:city":"Memphis",
+    "addr:full":"374 Metal Museum Dr Memphis, Tn 38106-1547",
+    "addr:house_number":"374",
     "addr:housenumber":"374",
-    "addr:postcode":"38106",
+    "addr:phone":"+1 901-774-6380",
+    "addr:postcode":"38106-1547",
+    "addr:road":"Metal Museum Dr",
+    "addr:state":"TN",
     "addr:street":"Metal Museum Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.07568,35.12281,-90.07568,35.12281",
-    "geom:latitude":35.12281,
-    "geom:longitude":-90.07568,
+    "geom:bbox":"-90.07507,35.12363,-90.07507,35.12363",
+    "geom:latitude":35.12363,
+    "geom:longitude":-90.07507,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"374 Metal Museum Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -28,19 +34,24 @@
     "sg:postcode":"38106",
     "sg:province":"TN",
     "sg:website":"http://www.metalmuseum.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527185,
+        102532141
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700381,
         "sg:id":"SG_22FJyyrbDHdoWJvehES7VI_35.122810_-90.075680@1303262741"
     },
     "wof:country":"US",
     "wof:created":1462610349,
-    "wof:geomhash":"4e85293b171e4a904c60181e42946a8d",
+    "wof:geomhash":"ebffe0ef77977461428ef7d097943302",
     "wof:hierarchy":[],
     "wof:id":823280927,
-    "wof:lastmodified":1472645750,
-    "wof:name":"National Ornamental Metal Museum Foundation Inc",
+    "wof:lastmodified":1534535264,
+    "wof:name":"National Ornamental Metal Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -49,10 +60,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.07568,
-    35.12281,
-    -90.07568,
-    35.12281
+    -90.07507,
+    35.12363,
+    -90.07507,
+    35.12363
 ],
-  "geometry": {"coordinates":[-90.07568000000001,35.12281],"type":"Point"}
+  "geometry": {"coordinates":[-90.07507,35.12363],"type":"Point"}
 }

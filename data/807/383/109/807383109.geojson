@@ -14,6 +14,7 @@
     "geom:longitude":-83.91793,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"531 S Gay St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606967,
-    "wof:geomhash":"40a2f1372177b22a207b9728b7e1f9be",
+    "wof:geomhash":"eb997739b1f83373a5afbdba4e9f0cc3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,16 @@
         }
     ],
     "wof:id":807383109,
-    "wof:lastmodified":1472646073,
+    "wof:lastmodified":1534535257,
     "wof:name":"Cardinal Construction LLC",
     "wof:parent_id":85867175,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773267467,
+        823176483
+    ],
     "wof:tags":[
         "general",
         "contractor"

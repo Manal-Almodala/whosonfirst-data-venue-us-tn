@@ -14,6 +14,7 @@
     "geom:longitude":-84.248907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 New York Ave",
     "sg:city":"Oak Ridge",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584311,
-    "wof:geomhash":"6747b80a7f37c07879dd6374a447ba92",
+    "wof:geomhash":"48c4d7c90bd83864205ce9fff2475bed",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":773252411,
-    "wof:lastmodified":1472645684,
+    "wof:lastmodified":1534535259,
     "wof:name":"Women's Health Assoc",
     "wof:parent_id":85827263,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        403891881
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

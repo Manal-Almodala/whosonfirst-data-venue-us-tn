@@ -14,6 +14,7 @@
     "geom:longitude":-86.724591,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1451 Elm Hill Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585541,
-    "wof:geomhash":"04bb579469b810bfa95c0100b10d8ff2",
+    "wof:geomhash":"92a9e1f36c3e870435d647d9d5341845",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":773415815,
-    "wof:lastmodified":1472645883,
+    "wof:lastmodified":1534535235,
     "wof:name":"Applied Thermal Systems Inc",
     "wof:parent_id":85822001,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773397743
+    ],
     "wof:tags":[
         "plumbing"
     ]

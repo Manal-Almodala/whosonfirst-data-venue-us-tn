@@ -7,6 +7,7 @@
     "addr:postcode":"37066",
     "addr:street":"Belvedere Dr N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.480561,36.37988,-86.480561,36.37988",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.480561,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"355 Belvedere Dr N",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589193,
-    "wof:geomhash":"cac5fc41de09b373d2bffb7e261efaba",
+    "wof:geomhash":"954692f735f0a1b4d19a677d37e3b6f2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,12 +59,14 @@
         }
     ],
     "wof:id":789616519,
-    "wof:lastmodified":1472645112,
+    "wof:lastmodified":1534535232,
     "wof:name":"Sumner County Clerk",
     "wof:parent_id":85852687,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773378089
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "county"

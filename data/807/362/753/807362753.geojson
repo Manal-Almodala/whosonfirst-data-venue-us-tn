@@ -7,6 +7,7 @@
     "addr:postcode":"37215",
     "addr:street":"Abbott Martin Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.816195,36.106229,-86.816195,36.106229",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.816195,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2126 Abbott Martin Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606693,
-    "wof:geomhash":"8d655c41dbb001480af508e0df6df1a3",
+    "wof:geomhash":"91588c92e9a76a481ae94b1d699e80b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":807362753,
-    "wof:lastmodified":1472646064,
+    "wof:lastmodified":1534535245,
     "wof:name":"Betsey Johnson/Green Hill",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773555669
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,23 @@
   "id": 823264361,
   "type": "Feature",
   "properties": {
-    "addr:full":"1200 Forrest Park Dr Nashville TN 37205",
+    "addr:city":"Nashville",
+    "addr:full":"1200 Forrest Park Drive Nashville, Tn 37205-4242",
+    "addr:house_number":"1200",
     "addr:housenumber":"1200",
-    "addr:postcode":"37205",
+    "addr:postcode":"37205-4242",
+    "addr:road":"Forrest Park Drive",
+    "addr:state":"TN",
     "addr:street":"Forrest Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.872307,36.085979,-86.872307,36.085979",
-    "geom:latitude":36.085979,
-    "geom:longitude":-86.872307,
+    "geom:bbox":"-86.86943,36.08584,-86.86943,36.08584",
+    "geom:latitude":36.08584,
+    "geom:longitude":-86.86943,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1200 Forrest Park Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -27,19 +32,23 @@
     "sg:phone":"+1 615 356 8000",
     "sg:postcode":"37205",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525035
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409502035,
         "sg:id":"SG_5ob0EHzS8lFORA7blsroQX_36.085979_-86.872307@1303262736"
     },
     "wof:country":"US",
     "wof:created":1462609692,
-    "wof:geomhash":"1af530d55d1b4b1277bd2c18d555107e",
+    "wof:geomhash":"0dce0ba0a9e91071aa9152f1e07d2478",
     "wof:hierarchy":[],
     "wof:id":823264361,
-    "wof:lastmodified":1472645672,
-    "wof:name":"Cheekwood Botanical Gardens and Museum of Art",
+    "wof:lastmodified":1534535263,
+    "wof:name":"Cheekwood Botanical Garden & Museum Of Art",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -48,10 +57,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.872307,
-    36.085979,
-    -86.872307,
-    36.085979
+    -86.86943,
+    36.08584,
+    -86.86943,
+    36.08584
 ],
-  "geometry": {"coordinates":[-86.87230700000001,36.085979],"type":"Point"}
+  "geometry": {"coordinates":[-86.86942999999999,36.08584],"type":"Point"}
 }

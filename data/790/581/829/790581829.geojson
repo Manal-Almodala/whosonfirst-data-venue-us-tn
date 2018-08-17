@@ -7,6 +7,7 @@
     "addr:postcode":"38134",
     "addr:street":"Stage Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.843588,35.20481,-89.843588,35.20481",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.843588,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6600 Stage Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597057,
-    "wof:geomhash":"236dec0a811d94f85192e276e332db5a",
+    "wof:geomhash":"4f9cb7874efd6d03ba0a60732af27c18",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":790581829,
-    "wof:lastmodified":1472645665,
+    "wof:lastmodified":1534535229,
     "wof:name":"Sun Com Wireless-Retail Stores",
     "wof:parent_id":85838691,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790109801
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "telephone",

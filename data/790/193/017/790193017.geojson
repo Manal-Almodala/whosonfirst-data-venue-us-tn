@@ -7,6 +7,7 @@
     "addr:postcode":"37421",
     "addr:street":"Napier Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.152419,35.044978,-85.152419,35.044978",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.152419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2307 Napier Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593880,
-    "wof:geomhash":"00024efc3369717f81c767603c903bed",
+    "wof:geomhash":"e15e4723e25135be27ee46bf195f578f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +57,17 @@
         }
     ],
     "wof:id":790193017,
-    "wof:lastmodified":1472645192,
+    "wof:lastmodified":1534535239,
     "wof:name":"Caring Senior Service Inc",
     "wof:parent_id":85815159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        806598223
+    ],
+    "wof:supersedes":[
+        790022083
+    ],
     "wof:tags":[]
 },
   "bbox": [

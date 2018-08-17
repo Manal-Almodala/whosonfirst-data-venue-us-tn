@@ -7,6 +7,7 @@
     "addr:postcode":"37067",
     "addr:street":"Cool Springs Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.829655,35.942799,-86.829655,35.942799",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.829655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"354 Cool Springs Blvd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584732,
-    "wof:geomhash":"f87c404b97ebb24bdda0de2a4b43eb3b",
+    "wof:geomhash":"685bbe019190cd3cfd0d9e4b9359a8f1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":773306277,
-    "wof:lastmodified":1472645829,
+    "wof:lastmodified":1534535258,
     "wof:name":"Pam R Fillmore",
     "wof:parent_id":85808771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823262145
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

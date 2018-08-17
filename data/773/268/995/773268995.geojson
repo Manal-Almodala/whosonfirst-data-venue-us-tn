@@ -7,6 +7,7 @@
     "addr:postcode":"38103",
     "addr:street":"N 3Rd St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.049759,35.145672,-90.049759,35.145672",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.049759,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"46 N 3rd St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584435,
-    "wof:geomhash":"42316cc81e191240a04e4bc582149952",
+    "wof:geomhash":"e0ca6ede999d2e192abaaceef8b79c82",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":773268995,
-    "wof:lastmodified":1472645868,
+    "wof:lastmodified":1534535229,
     "wof:name":"Thomas W Mc Daniel",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789730645
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

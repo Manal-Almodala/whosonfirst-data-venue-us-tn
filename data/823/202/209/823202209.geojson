@@ -7,6 +7,7 @@
     "addr:postcode":"37055",
     "addr:street":"S Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-87.3905,36.074832,-87.3905,36.074832",
@@ -14,6 +15,7 @@
     "geom:longitude":-87.3905,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"202 S Main St",
     "sg:city":"Dickson",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608394,
-    "wof:geomhash":"2c8d9ca0d84525ee0ad9ec7064439a19",
+    "wof:geomhash":"5ecdeb2ba79a83a41499e2dfaf235718",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,12 +55,14 @@
         }
     ],
     "wof:id":823202209,
-    "wof:lastmodified":1472645540,
+    "wof:lastmodified":1534535235,
     "wof:name":"Treasurers Office",
     "wof:parent_id":85842607,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806545049
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

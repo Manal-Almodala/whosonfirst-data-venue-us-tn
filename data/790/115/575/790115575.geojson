@@ -7,6 +7,7 @@
     "addr:postcode":"38115",
     "addr:street":"Lenox Park Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.84201,35.062091,-89.84201,35.062091",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.84201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3175 Lenox Park Blvd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593257,
-    "wof:geomhash":"f2fc1d56d7826bc327593e9b81c5c312",
+    "wof:geomhash":"7c4e36e0f67870581de7134660499d7e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +60,17 @@
         }
     ],
     "wof:id":790115575,
-    "wof:lastmodified":1472645140,
+    "wof:lastmodified":1534535249,
     "wof:name":"United States AVI Underwriters",
     "wof:parent_id":85870787,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        806692305
+    ],
+    "wof:supersedes":[
+        823204205
+    ],
     "wof:tags":[
         "carrie"
     ]

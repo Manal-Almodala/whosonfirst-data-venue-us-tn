@@ -2,18 +2,24 @@
   "id": 807146237,
   "type": "Feature",
   "properties": {
-    "addr:full":"220 Willow St Nashville TN 37210",
+    "addr:city":"Nashville",
+    "addr:full":"220 Willow St Nashville, Tn 37210-2159",
+    "addr:house_number":"220",
     "addr:housenumber":"220",
-    "addr:postcode":"37210",
+    "addr:phone":"+1 615-244-9001",
+    "addr:postcode":"37210-2159",
+    "addr:road":"Willow St",
+    "addr:state":"TN",
     "addr:street":"Willow St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.754346,36.15491,-86.754346,36.15491",
-    "geom:latitude":36.15491,
-    "geom:longitude":-86.754346,
+    "geom:bbox":"-86.75404,36.15489,-86.75404,36.15489",
+    "geom:latitude":36.15489,
+    "geom:longitude":-86.75404,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"220 Willow St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525035
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700498,
         "sg:id":"SG_60LXQDu7qLYg14BEED5lL1_36.154910_-86.754346@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604231,
-    "wof:geomhash":"15e07fa6c19a16747b5789d7a04f059d",
+    "wof:geomhash":"a8f8e6221b047917964b5fe510c2bbe7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":807146237,
-    "wof:lastmodified":1472645593,
-    "wof:name":"Tennessee Central Rlwy Museum",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Tennessee Central Railway Museum",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -86.754346,
-    36.15491,
-    -86.754346,
-    36.15491
+    -86.75404,
+    36.15489,
+    -86.75404,
+    36.15489
 ],
-  "geometry": {"coordinates":[-86.754346,36.15491],"type":"Point"}
+  "geometry": {"coordinates":[-86.75404,36.15489],"type":"Point"}
 }

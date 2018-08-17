@@ -7,6 +7,7 @@
     "addr:postcode":"38103",
     "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.031198,35.142715,-90.031198,35.142715",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.031198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"842 Jefferson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592391,
-    "wof:geomhash":"00c97bf3ea7c5a147dfcdda45839be90",
+    "wof:geomhash":"8a294487137adf55c1d9fc9c73ec6ac8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":790007735,
-    "wof:lastmodified":1472645083,
+    "wof:lastmodified":1534535261,
     "wof:name":"Regional Medical Ctr Tenessee",
     "wof:parent_id":85893411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823278407
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

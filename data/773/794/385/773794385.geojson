@@ -2,18 +2,23 @@
   "id": 773794385,
   "type": "Feature",
   "properties": {
-    "addr:full":"340 Clemmer Dr Chuckey TN 37641",
+    "addr:city":"Chuckey",
+    "addr:full":"340 Clemmer Drive Chuckey, Tn 37641-5611",
+    "addr:house_number":"340",
     "addr:housenumber":"340",
-    "addr:postcode":"37641",
+    "addr:postcode":"37641-5611",
+    "addr:road":"Clemmer Drive",
+    "addr:state":"TN",
     "addr:street":"Clemmer Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.683597,36.205588,-82.683597,36.205588",
-    "geom:latitude":36.205588,
-    "geom:longitude":-82.683597,
+    "geom:bbox":"-82.68095,36.20896,-82.68095,36.20896",
+    "geom:latitude":36.20896,
+    "geom:longitude":-82.68095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"340 Clemmer Dr",
     "sg:city":"Chuckey",
     "sg:classifiers":[
@@ -30,21 +35,25 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528203
+    ],
     "wof:belongsto":[
-        85688701,
+        85842363,
         85633793,
         101722677,
         102086377,
-        85842363
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700513,
         "sg:id":"SG_2YqYCaqGOKpzNumhJKegB8_36.205588_-82.683597@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462588426,
-    "wof:geomhash":"9c1c775cba7674a471a5eeedb561e156",
+    "wof:geomhash":"ac9d6cf6caf0fa9a2ed1e1ed6a253270",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +65,7 @@
         }
     ],
     "wof:id":773794385,
-    "wof:lastmodified":1472645999,
+    "wof:lastmodified":1534535263,
     "wof:name":"Earnest Family Fort House",
     "wof:parent_id":85842363,
     "wof:placetype":"venue",
@@ -68,10 +77,10 @@
     ]
 },
   "bbox": [
-    -82.683597,
-    36.205588,
-    -82.683597,
-    36.205588
+    -82.68095,
+    36.20896,
+    -82.68095,
+    36.20896
 ],
-  "geometry": {"coordinates":[-82.68359700000001,36.205588],"type":"Point"}
+  "geometry": {"coordinates":[-82.68095,36.20896],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-90.043839,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"842 Jefferson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610239,
-    "wof:geomhash":"3be514c7b1514798fce90e8b93e00e4b",
+    "wof:geomhash":"a70632759f29a7ca3ba313679e9bb8a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":823278407,
-    "wof:lastmodified":1472645719,
+    "wof:lastmodified":1534535261,
     "wof:name":"Regional Medical Ctr Tenessee",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790007735
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

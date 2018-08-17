@@ -7,6 +7,7 @@
     "addr:postcode":"37188",
     "addr:street":"Hwy 31 W",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,6 +16,7 @@
     "geom:longitude":-86.64551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3300 Hwy 31 W",
     "sg:city":"White House",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589057,
-    "wof:geomhash":"d55c5d750cf8746d84552e6f533dae22",
+    "wof:geomhash":"04633e58696979a30093f86e2bded218",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":789599021,
-    "wof:lastmodified":1491939242,
+    "wof:lastmodified":1534535256,
     "wof:name":"Hollywood Grille & Fun Center",
     "wof:parent_id":-3,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823245397
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"38555",
     "addr:street":"Sweeney Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.01999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"361 Sweeney Dr",
     "sg:city":"Crossville",
     "sg:classifiers":[
@@ -33,7 +34,9 @@
         "wear"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420541467
+    ],
     "wof:brand_id":1125156161,
     "wof:breaches":[],
     "wof:concordances":{
@@ -44,12 +47,14 @@
     "wof:geomhash":"160ec94d2b284f48d8a8ce4a3769337b",
     "wof:hierarchy":[],
     "wof:id":823170701,
-    "wof:lastmodified":1510613148,
+    "wof:lastmodified":1534535235,
     "wof:name":"Van Heusen",
     "wof:parent_id":420541467,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806540475
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wear"

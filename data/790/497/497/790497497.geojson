@@ -2,18 +2,24 @@
   "id": 790497497,
   "type": "Feature",
   "properties": {
-    "addr:full":"1220 W Governor John Sevier Hwy Knoxville TN 37920",
+    "addr:city":"Knoxville",
+    "addr:full":"1220 W Governor John Sevier Hwy Knoxville, Tn 37920",
+    "addr:house_number":"1220",
     "addr:housenumber":"1220",
+    "addr:phone":"+1 865-573-5508",
     "addr:postcode":"37920",
+    "addr:road":"W Governor John Sevier Hwy",
+    "addr:state":"TN",
     "addr:street":"W Governor John Sevier Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.877034,35.898362,-83.877034,35.898362",
-    "geom:latitude":35.898362,
-    "geom:longitude":-83.877034,
+    "geom:bbox":"-83.85518,35.89961,-83.85518,35.89961",
+    "geom:latitude":35.89961,
+    "geom:longitude":-83.85518,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1220 W Governor John Sevier Hwy",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -30,21 +36,25 @@
     "sg:tags":[
         "marble"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527233
+    ],
     "wof:belongsto":[
-        85688701,
+        85835143,
         85633793,
         101722865,
         102086455,
-        85835143
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700051,
         "sg:id":"SG_1qKqjxbGB5XogVim4Ax10M_35.898362_-83.877034@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596349,
-    "wof:geomhash":"27e7de05073d0333d4d51aa82de68803",
+    "wof:geomhash":"af8a2e5aa8c77ddac3d90ccd56f67d10",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":790497497,
-    "wof:lastmodified":1472645493,
+    "wof:lastmodified":1534535263,
     "wof:name":"Marble Springs",
     "wof:parent_id":85835143,
     "wof:placetype":"venue",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -83.877034,
-    35.898362,
-    -83.877034,
-    35.898362
+    -83.85518,
+    35.89961,
+    -83.85518,
+    35.89961
 ],
-  "geometry": {"coordinates":[-83.87703399999999,35.898362],"type":"Point"}
+  "geometry": {"coordinates":[-83.85518,35.89961],"type":"Point"}
 }

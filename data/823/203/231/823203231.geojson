@@ -7,6 +7,7 @@
     "addr:postcode":"37067",
     "addr:street":"Royal Oaks Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.827019,35.921526,-86.827019,35.921526",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.827019,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"225 Royal Oaks Blvd",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462608412,
-    "wof:geomhash":"fcfd0a4dc9e55de81c0696dc3ec6c4eb",
+    "wof:geomhash":"314e83a24c6cb20989a111f141eee6f9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":823203231,
-    "wof:lastmodified":1472645540,
+    "wof:lastmodified":1534535230,
     "wof:name":"Battleground Hospital-Animals",
     "wof:parent_id":85830431,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773291161
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "veterinarian"

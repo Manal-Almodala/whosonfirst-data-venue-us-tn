@@ -7,6 +7,7 @@
     "addr:postcode":"37064",
     "addr:street":"Century Ct",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.883696,35.898274,-86.883696,35.898274",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.883696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"408 Century Ct",
     "sg:city":"Franklin",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588707,
-    "wof:geomhash":"d243de56670a31664173d80b6356f84b",
+    "wof:geomhash":"84a76a8c714419e59803bdbd4769ecc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":773828481,
-    "wof:lastmodified":1472646011,
+    "wof:lastmodified":1534535241,
     "wof:name":"County Jail Administration",
     "wof:parent_id":85851291,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806614985
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "county",

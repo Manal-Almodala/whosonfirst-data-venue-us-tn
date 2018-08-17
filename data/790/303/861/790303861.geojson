@@ -2,18 +2,24 @@
   "id": 790303861,
   "type": "Feature",
   "properties": {
-    "addr:full":"315 E Main St Johnson City TN 37601",
+    "addr:city":"Johnson City",
+    "addr:full":"315 E Main St Johnson City, Tn 37601-5709",
+    "addr:house_number":"315",
     "addr:housenumber":"315",
-    "addr:postcode":"37601",
+    "addr:phone":"+1 423-928-6509",
+    "addr:postcode":"37601-5709",
+    "addr:road":"E Main St",
+    "addr:state":"TN",
     "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.349927,36.317551,-82.349927,36.317551",
-    "geom:latitude":36.317551,
-    "geom:longitude":-82.349927,
+    "geom:bbox":"-82.36162,36.31629,-82.36162,36.31629",
+    "geom:latitude":36.31629,
+    "geom:longitude":-82.36162,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"315 E Main St",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526971
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700402,
         "sg:id":"SG_5HuKSivymu9hZzERnzLRMo_36.317551_-82.349927@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462594795,
-    "wof:geomhash":"6ba2dc7adecdc4e3409258f32d7daa41",
+    "wof:geomhash":"c0a5949eeea2f1cc0f73293cf55aec21",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,8 +68,8 @@
         }
     ],
     "wof:id":790303861,
-    "wof:lastmodified":1472645338,
-    "wof:name":"Hands On Regional Museum Inc",
+    "wof:lastmodified":1534535238,
+    "wof:name":"Hands On! Regional Museum",
     "wof:parent_id":85844181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -82.349927,
-    36.317551,
-    -82.349927,
-    36.317551
+    -82.36162,
+    36.31629,
+    -82.36162,
+    36.31629
 ],
-  "geometry": {"coordinates":[-82.34992699999999,36.317551],"type":"Point"}
+  "geometry": {"coordinates":[-82.36162,36.31629],"type":"Point"}
 }

@@ -7,6 +7,7 @@
     "addr:postcode":"38079",
     "addr:street":"Church St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.485049,36.378325,-89.485049,36.378325",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.485049,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"229 Church St",
     "sg:city":"Tiptonville",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1462604783,
-    "wof:geomhash":"48cca26ee1626acacb3e014a262aa9e5",
+    "wof:geomhash":"3d0f9ee4834abb70e61835ea57b15acd",
     "wof:hierarchy":[],
     "wof:id":807198447,
-    "wof:lastmodified":1472645706,
+    "wof:lastmodified":1534535256,
     "wof:name":"Lake County Tax Assessor's Ofc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823235043
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "county",

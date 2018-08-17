@@ -7,6 +7,7 @@
     "addr:postcode":"38114",
     "addr:street":"S Parkway E",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.987662,35.114682,-89.987662,35.114682",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.987662,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2270 S Parkway E",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -37,7 +39,7 @@
     },
     "wof:country":"US",
     "wof:created":1462610458,
-    "wof:geomhash":"3bf38443a8cedfef40325a62b0e2cacb",
+    "wof:geomhash":"4d899e95f8d245bca574bf4ccaf6b725",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -50,12 +52,14 @@
         }
     ],
     "wof:id":823283653,
-    "wof:lastmodified":1472645744,
+    "wof:lastmodified":1534535263,
     "wof:name":"Salem Manor",
     "wof:parent_id":85867181,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823283467
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -2,18 +2,24 @@
   "id": 773427921,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 Mitchell Blvd Tullahoma TN 37388",
+    "addr:city":"Tullahoma",
+    "addr:full":"101 Mitchell Blvd Tullahoma, Tn 37388-4001",
+    "addr:house_number":"101",
     "addr:housenumber":"101",
-    "addr:postcode":"37388",
+    "addr:phone":"+1 931-455-8387",
+    "addr:postcode":"37388-4001",
+    "addr:road":"Mitchell Blvd",
+    "addr:state":"TN",
     "addr:street":"Mitchell Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.195307,35.363003,-86.195307,35.363003",
-    "geom:latitude":35.363003,
-    "geom:longitude":-86.195307,
+    "geom:bbox":"-86.19353,35.3612,-86.19353,35.3612",
+    "geom:latitude":35.3612,
+    "geom:longitude":-86.19353,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"101 Mitchell Blvd",
     "sg:city":"Tullahoma",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 931 455 8387",
     "sg:postcode":"37388",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527855
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700331,
         "sg:id":"SG_33rljFExntojJNPHxdtT83_35.363003_-86.195307@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462585646,
-    "wof:geomhash":"3a76350adfe21fde80eb817bd7126671",
+    "wof:geomhash":"dc82e4ce028694198ae0e743e215c494",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":773427921,
-    "wof:lastmodified":1472645888,
-    "wof:name":"Hands-On Science Ctr",
+    "wof:lastmodified":1534535236,
+    "wof:name":"Hands-On Science Center",
     "wof:parent_id":420541459,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.195307,
-    35.363003,
-    -86.195307,
-    35.363003
+    -86.19353,
+    35.3612,
+    -86.19353,
+    35.3612
 ],
-  "geometry": {"coordinates":[-86.195307,35.363003],"type":"Point"}
+  "geometry": {"coordinates":[-86.19353,35.3612],"type":"Point"}
 }

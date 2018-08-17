@@ -14,6 +14,7 @@
     "geom:longitude":-85.237669,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2051 Hamill Rd",
     "sg:city":"Hixson",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605625,
-    "wof:geomhash":"41aecd4310409373cf49d1f3b9cbbfcd",
+    "wof:geomhash":"c1460fca3d64b6f57ca644cc60c4a3ea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":807277809,
-    "wof:lastmodified":1472645855,
+    "wof:lastmodified":1534535252,
     "wof:name":"North Rver Oncology Hematology",
     "wof:parent_id":420541703,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773830631
+    ],
     "wof:tags":[
         "medical"
     ]

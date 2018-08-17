@@ -2,18 +2,24 @@
   "id": 807014233,
   "type": "Feature",
   "properties": {
-    "addr:full":"209 10th Ave S Nashville TN 37203",
+    "addr:city":"Nashville",
+    "addr:full":"209 10Th Ave S Nashville, Tn 37203",
+    "addr:house_number":"209",
     "addr:housenumber":"209",
+    "addr:phone":"+1 615-259-9664",
     "addr:postcode":"37203",
+    "addr:road":"10Th Ave S",
+    "addr:state":"TN",
     "addr:street":"10Th Ave S",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.782178,36.155001,-86.782178,36.155001",
-    "geom:latitude":36.155001,
-    "geom:longitude":-86.782178,
+    "geom:bbox":"-86.78277,36.15592,-86.78277,36.15592",
+    "geom:latitude":36.15592,
+    "geom:longitude":-86.78277,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"209 10th Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -36,7 +42,10 @@
         "architectural"
     ],
     "sg:website":"www.aiamidtn.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525035
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -47,11 +56,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700114,
         "sg:id":"SG_3rLbbi56lpIZWcHZRwsVEx_36.155001_-86.782178@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462602981,
-    "wof:geomhash":"0cc6147c7d7bdf059f81c52af187ab83",
+    "wof:geomhash":"127eeebc57d3e350614eb556271c4fd8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,8 +74,8 @@
         }
     ],
     "wof:id":807014233,
-    "wof:lastmodified":1472645134,
-    "wof:name":"American Inst of Architects",
+    "wof:lastmodified":1534535245,
+    "wof:name":"American Institute-Architects",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -76,10 +86,10 @@
     ]
 },
   "bbox": [
-    -86.782178,
-    36.155001,
-    -86.782178,
-    36.155001
+    -86.78277,
+    36.15592,
+    -86.78277,
+    36.15592
 ],
-  "geometry": {"coordinates":[-86.782178,36.155001],"type":"Point"}
+  "geometry": {"coordinates":[-86.78277,36.15592],"type":"Point"}
 }

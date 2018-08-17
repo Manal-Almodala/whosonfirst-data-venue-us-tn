@@ -2,18 +2,24 @@
   "id": 773591187,
   "type": "Feature",
   "properties": {
-    "addr:full":"1300 Cordell Hull Memorial Dr Byrdstown TN 38549",
+    "addr:city":"Byrdstown",
+    "addr:full":"1300 Cordell Hill Memorial Drive Byrdstown, Tn 38549",
+    "addr:house_number":"1300",
     "addr:housenumber":"1300",
+    "addr:phone":"+1 615-864-3511",
     "addr:postcode":"38549",
+    "addr:road":"Cordell Hill Memorial Drive",
+    "addr:state":"TN",
     "addr:street":"Cordell;Memorial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.183128,36.581866,-85.183128,36.581866",
-    "geom:latitude":36.581866,
-    "geom:longitude":-85.183128,
+    "geom:bbox":"-85.18081,36.58018,-85.18081,36.58018",
+    "geom:latitude":36.58018,
+    "geom:longitude":-85.18081,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1300 Cordell Hull Memorial Dr",
     "sg:city":"Byrdstown",
     "sg:classifiers":[
@@ -30,19 +36,21 @@
     "sg:tags":[
         "parks"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700100,
         "sg:id":"SG_38DyDuVAVTvwgxMOZWR6L7_36.581866_-85.183128@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586882,
-    "wof:geomhash":"2db87be1bdc7daa634367368b5671c2d",
+    "wof:geomhash":"56173f6b055e517d5b946e00d470f736",
     "wof:hierarchy":[],
     "wof:id":773591187,
-    "wof:lastmodified":1472645931,
-    "wof:name":"Cordell Hull Birthplace",
+    "wof:lastmodified":1534535248,
+    "wof:name":"Cordell Hull Birthplace & Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -53,10 +61,10 @@
     ]
 },
   "bbox": [
-    -85.183128,
-    36.581866,
-    -85.183128,
-    36.581866
+    -85.18081,
+    36.58018,
+    -85.18081,
+    36.58018
 ],
-  "geometry": {"coordinates":[-85.183128,36.581866],"type":"Point"}
+  "geometry": {"coordinates":[-85.18080999999999,36.58018],"type":"Point"}
 }

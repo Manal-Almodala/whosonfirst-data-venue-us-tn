@@ -2,18 +2,24 @@
   "id": 823235921,
   "type": "Feature",
   "properties": {
-    "addr:full":"502 SE Broad St Murfreesboro TN 37130",
+    "addr:city":"Murfreesboro",
+    "addr:full":"502 Se Broad St Murfreesboro, Tn 37130-4237",
+    "addr:house_number":"502",
     "addr:housenumber":"502",
-    "addr:postcode":"37130",
+    "addr:phone":"+1 615-890-2300",
+    "addr:postcode":"37130-4237",
+    "addr:road":"Se Broad St",
+    "addr:state":"TN",
     "addr:street":"Se Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.386459,35.838909,-86.386459,35.838909",
-    "geom:latitude":35.838909,
-    "geom:longitude":-86.386459,
+    "geom:bbox":"-86.38572,35.8382,-86.38572,35.8382",
+    "geom:latitude":35.8382,
+    "geom:longitude":-86.38572,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"502 SE Broad St",
     "sg:city":"Murfreesboro",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "gift"
     ],
     "sg:website":"http://www.discoverycenteronline.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102526759
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700401,
         "sg:id":"SG_529jnZeY8QRvsjIEUa0OmF_35.838421_-86.386191@1293134755"
     },
     "wof:country":"US",
     "wof:created":1462609066,
-    "wof:geomhash":"98ba59d489ecd5270a2709a031a42495",
+    "wof:geomhash":"2191d34e8da4c3466722bf23f33c33f6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,7 +70,7 @@
         }
     ],
     "wof:id":823235921,
-    "wof:lastmodified":1472645633,
+    "wof:lastmodified":1534535264,
     "wof:name":"Discovery Center At Murfree Spring",
     "wof:parent_id":85835585,
     "wof:placetype":"venue",
@@ -73,10 +83,10 @@
     ]
 },
   "bbox": [
-    -86.386459,
-    35.838909,
-    -86.386459,
-    35.838909
+    -86.38572,
+    35.8382,
+    -86.38572,
+    35.8382
 ],
-  "geometry": {"coordinates":[-86.386459,35.838909],"type":"Point"}
+  "geometry": {"coordinates":[-86.38572000000001,35.8382],"type":"Point"}
 }

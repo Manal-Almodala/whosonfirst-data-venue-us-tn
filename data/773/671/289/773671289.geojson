@@ -14,6 +14,7 @@
     "geom:longitude":-86.816811,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3200 W End Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587475,
-    "wof:geomhash":"be17a69bd98e9b318438f3881cff4a72",
+    "wof:geomhash":"816da6b93fc5151e13bf7d61e6b65fc9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":773671289,
-    "wof:lastmodified":1472645959,
+    "wof:lastmodified":1534535249,
     "wof:name":"ISDN-Net Inc",
     "wof:parent_id":85893447,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807076887
+    ],
     "wof:tags":[
         "internet"
     ]

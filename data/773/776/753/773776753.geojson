@@ -7,6 +7,7 @@
     "addr:postcode":"37027",
     "addr:street":"Franklin Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.792039,36.027179,-86.792039,36.027179",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.792039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"330 Franklin Rd",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588291,
-    "wof:geomhash":"413d20fb4944ca2940e9151f770326bd",
+    "wof:geomhash":"0bff06c8eb01561f94a2b514e0d3db06",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":773776753,
-    "wof:lastmodified":1472646011,
+    "wof:lastmodified":1534535248,
     "wof:name":"Coast Dental Services (de)",
     "wof:parent_id":85807259,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807035415
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "dentist"

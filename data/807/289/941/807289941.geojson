@@ -7,6 +7,7 @@
     "addr:postcode":"37902",
     "addr:street":"S Gay St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-83.915699,35.961069,-83.915699,35.961069",
@@ -14,6 +15,7 @@
     "geom:longitude":-83.915699,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"912 S Gay St",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462605745,
-    "wof:geomhash":"4bf485e11a5ba9642e71622be4907d23",
+    "wof:geomhash":"fff1cf3d0f495f82196a846a68e09fce",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":807289941,
-    "wof:lastmodified":1472645912,
+    "wof:lastmodified":1534535248,
     "wof:name":"KNOX County Telecommunications",
     "wof:parent_id":85878571,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773587423
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

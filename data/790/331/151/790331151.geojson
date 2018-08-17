@@ -14,6 +14,7 @@
     "geom:longitude":-90.033173,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"777 Washington Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462595000,
-    "wof:geomhash":"d027a3219e58e8c4029bb513a3180051",
+    "wof:geomhash":"9fcb1de6871f9aa38ff05512cc0411d4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":790331151,
-    "wof:lastmodified":1472645292,
+    "wof:lastmodified":1534535239,
     "wof:name":"Pediatric Neurology",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823280397
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

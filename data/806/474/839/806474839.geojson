@@ -14,6 +14,7 @@
     "geom:longitude":-87.311281,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1731 Memorial Dr",
     "sg:city":"Clarksville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598422,
-    "wof:geomhash":"fa0a6237226dcb004032afcd84b0a666",
+    "wof:geomhash":"21a78077b06b312f8392494b42f21f0e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":806474839,
-    "wof:lastmodified":1472645708,
+    "wof:lastmodified":1534535231,
     "wof:name":"Clarksville Surgical Assoc",
     "wof:parent_id":85811909,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807346601
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

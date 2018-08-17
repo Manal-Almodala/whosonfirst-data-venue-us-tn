@@ -7,6 +7,7 @@
     "addr:postcode":"38108",
     "addr:street":"N Watkins St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-90.008246,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1515 N Watkins St",
     "sg:city":"Memphis",
     "sg:classifiers":[],
@@ -51,12 +52,14 @@
         }
     ],
     "wof:id":823281649,
-    "wof:lastmodified":1510941920,
+    "wof:lastmodified":1534535262,
     "wof:name":"Mid-South U-Pull-It Auto Parts",
     "wof:parent_id":420542131,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823281657
+    ],
     "wof:supersedes":[
         823205695
     ],

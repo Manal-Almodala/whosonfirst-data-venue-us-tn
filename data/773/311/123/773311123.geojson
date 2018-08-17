@@ -7,6 +7,7 @@
     "addr:postcode":"37402",
     "addr:street":"W 11Th St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-85.311523,35.0439,-85.311523,35.0439",
@@ -14,6 +15,7 @@
     "geom:longitude":-85.311523,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 W 11th St",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462584771,
-    "wof:geomhash":"71591f919cb008fb7cc8325497a1c3ad",
+    "wof:geomhash":"e77cfbfe78ba61cad5847e6d94efca48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":773311123,
-    "wof:lastmodified":1472645812,
+    "wof:lastmodified":1534535229,
     "wof:name":"Employees Beneifts",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773269087
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "carrier"

@@ -7,6 +7,7 @@
     "addr:postcode":"37922",
     "addr:street":"Kingston Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.110329,35.905891,-84.110329,35.905891",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.110329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9724 Kingston Pike",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462596619,
-    "wof:geomhash":"ee5e40dff4869bfb0445be90dd6e1726",
+    "wof:geomhash":"549f470df6ec63515893ff5a39f74723",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":790529307,
-    "wof:lastmodified":1472645529,
+    "wof:lastmodified":1534535250,
     "wof:name":"Media Directions Advertising",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806850001
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "agency",

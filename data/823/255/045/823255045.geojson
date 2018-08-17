@@ -7,6 +7,7 @@
     "addr:postcode":"38117",
     "addr:street":"Park Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-89.891947,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"5112 Park Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -68,12 +69,14 @@
         }
     ],
     "wof:id":823255045,
-    "wof:lastmodified":1510876608,
+    "wof:lastmodified":1534535261,
     "wof:name":"Perkins Restaurant & Bakery",
     "wof:parent_id":85870779,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823285399
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sandwich",

@@ -7,6 +7,7 @@
     "addr:postcode":"37027",
     "addr:street":"Virginia Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.806117,36.032352,-86.806117,36.032352",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.806117,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5123 Virginia Way",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601938,
-    "wof:geomhash":"7bb7088f7015b7ac26f949106afd99a2",
+    "wof:geomhash":"72c2266c94808e3a11422131fccc4acc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806890677,
-    "wof:lastmodified":1472646179,
+    "wof:lastmodified":1534535257,
     "wof:name":"Hammel Fincl Advisory Group",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        773207827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory",

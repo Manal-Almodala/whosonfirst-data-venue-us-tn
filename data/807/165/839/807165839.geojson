@@ -7,6 +7,7 @@
     "addr:postcode":"37215",
     "addr:street":"Crestmoor Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.819481,36.109943,-86.819481,36.109943",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.819481,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2400 Crestmoor Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604435,
-    "wof:geomhash":"af72ba42ca70b453442d4ee0808d3ff5",
+    "wof:geomhash":"a0e6826b54d2c28c8552a24720694214",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":807165839,
-    "wof:lastmodified":1472645656,
+    "wof:lastmodified":1534535241,
     "wof:name":"Lawrence Wilson",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790335653
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

@@ -2,18 +2,24 @@
   "id": 806568503,
   "type": "Feature",
   "properties": {
-    "addr:full":"3031 Wilcox Blvd Chattanooga TN 37411",
+    "addr:city":"Chattanooga",
+    "addr:full":"3031 Wilcox Blvd Chattanooga, Tn 37411",
+    "addr:house_number":"3031",
     "addr:housenumber":"3031",
+    "addr:phone":"+1 423-629-7651",
     "addr:postcode":"37411",
+    "addr:road":"Wilcox Blvd",
+    "addr:state":"TN",
     "addr:street":"Wilcox Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-85.246686,35.047916,-85.246686,35.047916",
-    "geom:latitude":35.047916,
-    "geom:longitude":-85.246686,
+    "geom:bbox":"-85.24345,35.04864,-85.24345,35.04864",
+    "geom:latitude":35.04864,
+    "geom:longitude":-85.24345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3031 Wilcox Blvd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 423 622 3217",
     "sg:postcode":"37411",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533789
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700019,
         "sg:id":"SG_4eLdDhHjfNFMz61e1PD88P_35.047916_-85.246686@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599194,
-    "wof:geomhash":"554d04f322cdbc863d5c65a64a6a04b3",
+    "wof:geomhash":"21612bd1ede96512a3662f00b5224ae1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":806568503,
-    "wof:lastmodified":1472645850,
+    "wof:lastmodified":1534535237,
     "wof:name":"Walker Mary Foundation",
     "wof:parent_id":85804063,
     "wof:placetype":"venue",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -85.246686,
-    35.047916,
-    -85.246686,
-    35.047916
+    -85.24345,
+    35.04864,
+    -85.24345,
+    35.04864
 ],
-  "geometry": {"coordinates":[-85.246686,35.047916],"type":"Point"}
+  "geometry": {"coordinates":[-85.24345,35.04864],"type":"Point"}
 }

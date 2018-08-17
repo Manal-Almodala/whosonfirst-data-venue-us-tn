@@ -7,6 +7,7 @@
     "addr:postcode":"37027",
     "addr:street":"Westpark Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.801498,36.037378,-86.801498,36.037378",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.801498,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"109 Westpark Dr",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588973,
-    "wof:geomhash":"fb358dff237955008097d32ccd736cae",
+    "wof:geomhash":"c046423a17c1e7132aa2457016a0c867",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":789588167,
-    "wof:lastmodified":1472645082,
+    "wof:lastmodified":1534535229,
     "wof:name":"Access Museum Services LLC",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790113775
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -7,6 +7,7 @@
     "addr:postcode":"37115",
     "addr:street":"Gallatin Pike N",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-86.694529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2021 Gallatin Pike N",
     "sg:city":"Madison",
     "sg:classifiers":[
@@ -64,12 +65,14 @@
         }
     ],
     "wof:id":807122607,
-    "wof:lastmodified":1511321407,
+    "wof:lastmodified":1534535236,
     "wof:name":"Curves For Women",
     "wof:parent_id":85817321,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789902633
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "club",

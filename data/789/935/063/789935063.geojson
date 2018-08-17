@@ -2,18 +2,24 @@
   "id": 789935063,
   "type": "Feature",
   "properties": {
-    "addr:full":"1927 Dandridge Ave Knoxville TN 37915",
+    "addr:city":"Knoxville",
+    "addr:full":"1927 Dandridge Ave Knoxville, Tn 37915-1909",
+    "addr:house_number":"1927",
     "addr:housenumber":"1927",
-    "addr:postcode":"37915",
+    "addr:phone":"+1 865-215-8748",
+    "addr:postcode":"37915-1909",
+    "addr:road":"Dandridge Ave",
+    "addr:state":"TN",
     "addr:street":"Dandridge Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.898889,35.972439,-83.898889,35.972439",
-    "geom:latitude":35.972439,
-    "geom:longitude":-83.898889,
+    "geom:bbox":"-83.89723,35.97266,-83.89723,35.97266",
+    "geom:latitude":35.97266,
+    "geom:longitude":-83.89723,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1927 Dandridge Ave",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 865 673 6261",
     "sg:postcode":"37915",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527233
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700260,
         "sg:id":"SG_6uyC9cxmK1RyVhmO0FHcTm_35.972439_-83.898889@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462591752,
-    "wof:geomhash":"d423097ad9915bb459c02991e26b3793",
+    "wof:geomhash":"d7eeb388b91759cb138493dcce20ba88",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":789935063,
-    "wof:lastmodified":1472645313,
-    "wof:name":"Beck Cultural Exchange Ctr",
+    "wof:lastmodified":1534535239,
+    "wof:name":"Beck Cultural Exchange Center",
     "wof:parent_id":85878555,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.898889,
-    35.972439,
-    -83.898889,
-    35.972439
+    -83.89723,
+    35.97266,
+    -83.89723,
+    35.97266
 ],
-  "geometry": {"coordinates":[-83.898889,35.972439],"type":"Point"}
+  "geometry": {"coordinates":[-83.89722999999999,35.97266],"type":"Point"}
 }

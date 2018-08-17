@@ -14,6 +14,7 @@
     "geom:longitude":-86.785159,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"500 James Robertson Pkwy",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599992,
-    "wof:geomhash":"dbe40557ec5e01746b6af1d2599e1686",
+    "wof:geomhash":"1c9777ed6a3fbcf7f98e3dd88a9dfa6f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":806659517,
-    "wof:lastmodified":1472646078,
+    "wof:lastmodified":1534535245,
     "wof:name":"Fire Prevention Commission",
     "wof:parent_id":85893445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807210911
+    ],
     "wof:tags":[
         "prevention"
     ]

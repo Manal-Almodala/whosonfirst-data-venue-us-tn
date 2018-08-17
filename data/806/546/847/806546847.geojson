@@ -14,6 +14,7 @@
     "geom:longitude":-86.800345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1215 21st Ave S",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599011,
-    "wof:geomhash":"2186d8263547bc56018f7872e452d379",
+    "wof:geomhash":"80332ad92183fc7807b4ec14abf90601",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":806546847,
-    "wof:lastmodified":1472645802,
+    "wof:lastmodified":1534535235,
     "wof:name":"Bill Wilkerson Vanderbilt Ctr",
     "wof:parent_id":85893455,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        789816157
+    ],
     "wof:tags":[
         "establishment"
     ]

@@ -7,6 +7,7 @@
     "addr:postcode":"37209",
     "addr:street":"Alabama Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.8511,36.152912,-86.8511,36.152912",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.8511,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5205 Alabama Ave",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604952,
-    "wof:geomhash":"da3ca24f30ff0cef0a4d58ebf26bcef0",
+    "wof:geomhash":"8ed5e37603789b7bdffc9059e29a57d6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":807215449,
-    "wof:lastmodified":1472645752,
+    "wof:lastmodified":1534535259,
     "wof:name":"Latondress Auto World Inc",
     "wof:parent_id":85844411,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823265153
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "repairing",

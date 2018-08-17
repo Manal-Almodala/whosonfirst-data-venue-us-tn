@@ -7,6 +7,7 @@
     "addr:postcode":"37203",
     "addr:street":"Church St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.779298,36.163635,-86.779298,36.163635",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.779298,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"424 Church St",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462597456,
-    "wof:geomhash":"26886097e87d02f4d095c7a43191bb19",
+    "wof:geomhash":"3899a78eea7902bc3890f677b3649caa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":790624339,
-    "wof:lastmodified":1472645761,
+    "wof:lastmodified":1534535241,
     "wof:name":"Bowne Financial Print",
     "wof:parent_id":85893477,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806598867
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "printer"

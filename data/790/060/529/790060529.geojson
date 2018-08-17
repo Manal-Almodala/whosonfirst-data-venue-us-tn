@@ -7,6 +7,7 @@
     "addr:postcode":"38125",
     "addr:street":"Clubview Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.789279,35.047959,-89.789279,35.047959",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.789279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3754 Clubview Dr",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462592825,
-    "wof:geomhash":"9104780b3c1ba95d09a54d58e97a317e",
+    "wof:geomhash":"a11ccb55987a1e641966132c25e435ec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":790060529,
-    "wof:lastmodified":1472645102,
+    "wof:lastmodified":1534535263,
     "wof:name":"Paint Master Plus",
     "wof:parent_id":85850355,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823288645
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "hanging",

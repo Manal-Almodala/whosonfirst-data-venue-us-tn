@@ -2,18 +2,24 @@
   "id": 773038781,
   "type": "Feature",
   "properties": {
-    "addr:full":"320 Winfield Dunn Pkwy Sevierville TN 37876",
+    "addr:city":"Sevierville",
+    "addr:full":"320 Winfield Dunn Pkwy Sevierville, Tn 37876",
+    "addr:house_number":"320",
     "addr:housenumber":"320",
+    "addr:phone":"+1 865-908-0882",
     "addr:postcode":"37876",
+    "addr:road":"Winfield Dunn Pkwy",
+    "addr:state":"TN",
     "addr:street":"Winfield Dunn Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.569843,35.874083,-83.569843,35.874083",
-    "geom:latitude":35.874083,
-    "geom:longitude":-83.569843,
+    "geom:bbox":"-83.56936,35.87362,-83.56936,35.87362",
+    "geom:latitude":35.87362,
+    "geom:longitude":-83.56936,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"320 Winfield Dunn Pkwy",
     "sg:city":"Sevierville",
     "sg:classifiers":[
@@ -31,21 +37,25 @@
         "car"
     ],
     "sg:website":"www.musclecarmuseum.com",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530789
+    ],
     "wof:belongsto":[
-        85688701,
+        85809817,
         85633793,
         101722577,
         102086245,
-        85809817
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700081,
         "sg:id":"SG_7N0rvQPGrakSYm91U8hY4t_35.874083_-83.569843@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462582654,
-    "wof:geomhash":"1ccee1b6f797632415d2d60f86d2e4a5",
+    "wof:geomhash":"63eb3ee0fac80a04727808a00cf522e3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,8 +67,8 @@
         }
     ],
     "wof:id":773038781,
-    "wof:lastmodified":1472645139,
-    "wof:name":"Garrett's Muscle Car Museum",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Garrett'S Muscle Car Museum",
     "wof:parent_id":85809817,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -69,10 +79,10 @@
     ]
 },
   "bbox": [
-    -83.569843,
-    35.874083,
-    -83.569843,
-    35.874083
+    -83.56936,
+    35.87362,
+    -83.56936,
+    35.87362
 ],
-  "geometry": {"coordinates":[-83.56984300000001,35.874083],"type":"Point"}
+  "geometry": {"coordinates":[-83.56936,35.87362],"type":"Point"}
 }

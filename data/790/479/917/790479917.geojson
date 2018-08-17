@@ -7,6 +7,7 @@
     "addr:postcode":"38024",
     "addr:street":"Lake Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.396053,36.066607,-89.396053,36.066607",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.396053,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2700 Lake Rd",
     "sg:city":"Dyersburg",
     "sg:classifiers":[
@@ -33,22 +35,26 @@
         "plate"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420541547
+    ],
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1wXG8cYO620d8Eu32Y5Kui_36.066607_-89.396053@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462596189,
-    "wof:geomhash":"1021dbe3821d2b57e36648e9833cdfd5",
+    "wof:geomhash":"8542236c2630640cce05bbf21caf3aef",
     "wof:hierarchy":[],
     "wof:id":790479917,
-    "wof:lastmodified":1472645471,
+    "wof:lastmodified":1534535252,
     "wof:name":"Jones Jewelry Store",
     "wof:parent_id":420541547,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806968551
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "collectible",

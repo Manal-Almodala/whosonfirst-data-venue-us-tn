@@ -7,6 +7,7 @@
     "addr:postcode":"38112",
     "addr:street":"Tillman St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-89.961229,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"580 Tillman St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -70,12 +71,14 @@
         }
     ],
     "wof:id":823221921,
-    "wof:lastmodified":1511323407,
+    "wof:lastmodified":1534535263,
     "wof:name":"Safelite Auto Glass",
     "wof:parent_id":85803961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823283313
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "plate",

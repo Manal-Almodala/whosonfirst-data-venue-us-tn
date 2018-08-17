@@ -7,6 +7,7 @@
     "addr:postcode":"37217",
     "addr:street":"Murfreesboro Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.697508,36.116422,-86.697508,36.116422",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.697508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1321 Murfreesboro Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462603795,
-    "wof:geomhash":"9bb4955e9bb3fd56b176026adacfac9e",
+    "wof:geomhash":"521eb83092ca16cc436e908f9913d7c8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,15 @@
         }
     ],
     "wof:id":807106081,
-    "wof:lastmodified":1472645521,
+    "wof:lastmodified":1534535249,
     "wof:name":"Jan-Pro Cleaning Systems",
     "wof:parent_id":85821799,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806647531,
+        773687595
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "janitor"

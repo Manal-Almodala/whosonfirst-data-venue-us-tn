@@ -2,18 +2,24 @@
   "id": 806690125,
   "type": "Feature",
   "properties": {
-    "addr:full":"101 W McKee St Greeneville TN 37743",
+    "addr:city":"Greeneville",
+    "addr:full":"101 W Mckee St Greeneville, Tn 37743-4813",
+    "addr:house_number":"101",
     "addr:housenumber":"101",
-    "addr:postcode":"37743",
+    "addr:phone":"+1 423-636-1558",
+    "addr:postcode":"37743-4813",
+    "addr:road":"W Mckee St",
+    "addr:state":"TN",
     "addr:street":"W Mckee St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-82.834457,36.161259,-82.834457,36.161259",
-    "geom:latitude":36.161259,
-    "geom:longitude":-82.834457,
+    "geom:bbox":"-82.83265,36.16052,-82.83265,36.16052",
+    "geom:latitude":36.16052,
+    "geom:longitude":-82.83265,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"101 W McKee St",
     "sg:city":"Greeneville",
     "sg:classifiers":[
@@ -30,21 +36,25 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528203
+    ],
     "wof:belongsto":[
-        85688701,
+        85826147,
         85633793,
         101722681,
         102086377,
-        85826147
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700403,
         "sg:id":"SG_03fQxTUuxSDsMjZeYt6hYL_36.161259_-82.834457@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462600259,
-    "wof:geomhash":"c1317e64b97fcac5a95be0d5ef764f29",
+    "wof:geomhash":"757a0e2d1ff825116a323481de4cd541",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":806690125,
-    "wof:lastmodified":1472646103,
-    "wof:name":"Nathanael Greene Museum Inc",
+    "wof:lastmodified":1534535248,
+    "wof:name":"Nathanael Greene Museum",
     "wof:parent_id":85826147,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -82.834457,
-    36.161259,
-    -82.834457,
-    36.161259
+    -82.83265,
+    36.16052,
+    -82.83265,
+    36.16052
 ],
-  "geometry": {"coordinates":[-82.834457,36.161259],"type":"Point"}
+  "geometry": {"coordinates":[-82.83265,36.16052],"type":"Point"}
 }

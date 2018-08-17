@@ -7,6 +7,7 @@
     "addr:postcode":"37923",
     "addr:street":"Park West Blvd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-84.100858,35.917849,-84.100858,35.917849",
@@ -14,6 +15,7 @@
     "geom:longitude":-84.100858,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"9330 Park West Blvd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462587204,
-    "wof:geomhash":"32fbfd40e88529a95f2bc5dcc0f6b97f",
+    "wof:geomhash":"c221b3053c9c7184c2ac698ad5a3f15b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":773634253,
-    "wof:lastmodified":1472645938,
+    "wof:lastmodified":1534535232,
     "wof:name":"Ronald W Bryan MD",
     "wof:parent_id":85803755,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806497895
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

@@ -7,6 +7,7 @@
     "addr:postcode":"37854",
     "addr:street":"N Gateway Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-84.656152,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"1324 N Gateway Ave",
     "sg:city":"Rockwood",
     "sg:classifiers":[
@@ -35,7 +36,9 @@
         "american"
     ],
     "src:geom":"simplegeo",
-    "wof:belongsto":[],
+    "wof:belongsto":[
+        420542059
+    ],
     "wof:brand_id":420574111,
     "wof:breaches":[],
     "wof:concordances":{
@@ -46,12 +49,14 @@
     "wof:geomhash":"42b627dc81518063433034171253d5bf",
     "wof:hierarchy":[],
     "wof:id":823251439,
-    "wof:lastmodified":1512000607,
+    "wof:lastmodified":1534535241,
     "wof:name":"Sonic",
     "wof:parent_id":420542059,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789974679
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "burger",

@@ -2,18 +2,24 @@
   "id": 806585811,
   "type": "Feature",
   "properties": {
-    "addr:full":"106 Showplace Blvd Pigeon Forge TN 37863",
+    "addr:city":"Pigeon Forge",
+    "addr:full":"106 Showplace Blvd Pigeon Forge, Tn 37863",
+    "addr:house_number":"106",
     "addr:housenumber":"106",
+    "addr:phone":"+1 865-428-4003",
     "addr:postcode":"37863",
+    "addr:road":"Showplace Blvd",
+    "addr:state":"TN",
     "addr:street":"Showplace Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.572649,35.814791,-83.572649,35.814791",
-    "geom:latitude":35.814791,
-    "geom:longitude":-83.572649,
+    "geom:bbox":"-83.57788,35.81555,-83.57788,35.81555",
+    "geom:latitude":35.81555,
+    "geom:longitude":-83.57788,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"106 Showplace Blvd",
     "sg:city":"Pigeon Forge",
     "sg:classifiers":[
@@ -30,21 +36,25 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530789
+    ],
     "wof:belongsto":[
-        85688701,
+        85841771,
         85633793,
         101722577,
         102086245,
-        85841771
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700109,
         "sg:id":"SG_0uMTHiRMy3jSzgwHjzSTPL_35.814791_-83.572649@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462599364,
-    "wof:geomhash":"9a53e020cf1314695df4f6a39c20a619",
+    "wof:geomhash":"963e769df9392a9386ce39049acb62de",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,8 +66,8 @@
         }
     ],
     "wof:id":806585811,
-    "wof:lastmodified":1472645892,
-    "wof:name":"Dinosaur Walk Museum Inc",
+    "wof:lastmodified":1534535238,
+    "wof:name":"Dinosaur Walk Museum",
     "wof:parent_id":85841771,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -83.572649,
-    35.814791,
-    -83.572649,
-    35.814791
+    -83.57788,
+    35.81555,
+    -83.57788,
+    35.81555
 ],
-  "geometry": {"coordinates":[-83.572649,35.814791],"type":"Point"}
+  "geometry": {"coordinates":[-83.57787999999999,35.81555],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-86.670806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2622 Old Lebanon Rd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462599689,
-    "wof:geomhash":"a48950b8f63bcc012b195249e3e4298f",
+    "wof:geomhash":"154e7d3bec2a34339cb3301f6c587224",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":806624527,
-    "wof:lastmodified":1472646046,
+    "wof:lastmodified":1534535242,
     "wof:name":"Conders Auto Heat & Air",
     "wof:parent_id":85830675,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806527559
+    ],
     "wof:tags":[
         "automotive",
         "supply"

@@ -2,18 +2,24 @@
   "id": 773250361,
   "type": "Feature",
   "properties": {
-    "addr:full":"1327 Circle Park Dr Knoxville TN 37916",
+    "addr:city":"Knoxville",
+    "addr:full":"1327 Circle Park Dr Knoxville, Tn 37996",
+    "addr:house_number":"1327",
     "addr:housenumber":"1327",
-    "addr:postcode":"37916",
+    "addr:phone":"+1 865-974-2144",
+    "addr:postcode":"37996",
+    "addr:road":"Circle Park Dr",
+    "addr:state":"TN",
     "addr:street":"Circle Park Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-83.927546,35.952788,-83.927546,35.952788",
-    "geom:latitude":35.952788,
-    "geom:longitude":-83.927546,
+    "geom:bbox":"-83.93499,35.95324,-83.93499,35.95324",
+    "geom:latitude":35.95324,
+    "geom:longitude":-83.93499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1327 Circle Park Dr",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -27,7 +33,10 @@
     "sg:phone":"+1 865 974 2144",
     "sg:postcode":"37916",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527233
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +47,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700087,
         "sg:id":"SG_2Tcdrw2LQNTKWr86JithGd_35.952788_-83.927546@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462584292,
-    "wof:geomhash":"8db791bb49b739d50aff74ff5547c829",
+    "wof:geomhash":"03d959fc7349a55ea62533528b5bd9ad",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,8 +65,8 @@
         }
     ],
     "wof:id":773250361,
-    "wof:lastmodified":1472645699,
-    "wof:name":"Frank H Mc Clundg Museum",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Frank H Mc Clung Museum",
     "wof:parent_id":85878551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -65,10 +75,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -83.927546,
-    35.952788,
-    -83.927546,
-    35.952788
+    -83.93499,
+    35.95324,
+    -83.93499,
+    35.95324
 ],
-  "geometry": {"coordinates":[-83.92754600000001,35.952788],"type":"Point"}
+  "geometry": {"coordinates":[-83.93499,35.95324],"type":"Point"}
 }

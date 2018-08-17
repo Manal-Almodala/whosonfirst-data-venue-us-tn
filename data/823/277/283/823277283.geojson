@@ -7,6 +7,7 @@
     "addr:postcode":"38053",
     "addr:street":"Lucy Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.937314,35.301073,-89.937314,35.301073",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.937314,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3249 Lucy Rd",
     "sg:city":"Millington",
     "sg:classifiers":[
@@ -63,15 +65,17 @@
     },
     "wof:country":"US",
     "wof:created":1462610200,
-    "wof:geomhash":"abb72153db81279aa23da593e0c5f7cd",
+    "wof:geomhash":"ebd63f0f47dba90e9b22fe021461f855",
     "wof:hierarchy":[],
     "wof:id":823277283,
-    "wof:lastmodified":1472645706,
+    "wof:lastmodified":1534535242,
     "wof:name":"Advanced Maintenance & Sheet Metal, Inc.",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        790351603
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "sheet",

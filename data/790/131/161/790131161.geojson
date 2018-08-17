@@ -7,6 +7,7 @@
     "addr:postcode":"37214",
     "addr:street":"Perimeter Place Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.679849,36.1487,-86.679849,36.1487",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.679849,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2525 Perimeter Place Dr",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1462593368,
-    "wof:geomhash":"bf9913df6b0e14de18761bc6c40e29fb",
+    "wof:geomhash":"0696c73c00c9dd0b738d0d25b3d6af8a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +67,14 @@
         }
     ],
     "wof:id":790131161,
-    "wof:lastmodified":1472645160,
+    "wof:lastmodified":1534535239,
     "wof:name":"Tennessee One Call Systems Inc",
     "wof:parent_id":85833877,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789957659
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "association",

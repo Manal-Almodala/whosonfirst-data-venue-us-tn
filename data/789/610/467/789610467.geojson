@@ -14,6 +14,7 @@
     "geom:longitude":-83.29851,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"511 W 2nd North St",
     "sg:city":"Morristown",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1462589141,
-    "wof:geomhash":"0bb6fd0a602ff9320e35113aa6f7b4d1",
+    "wof:geomhash":"cbfac584c8870a82e9aba77487ea93b0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +57,15 @@
         }
     ],
     "wof:id":789610467,
-    "wof:lastmodified":1472645107,
+    "wof:lastmodified":1534535253,
     "wof:name":"Assessor of Property",
     "wof:parent_id":85825433,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773716241
+    ],
     "wof:tags":[
         "policy"
     ]

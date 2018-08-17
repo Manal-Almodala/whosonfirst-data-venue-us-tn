@@ -2,17 +2,22 @@
   "id": 807194859,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 W Hill Ave Knoxville TN 37902",
+    "addr:city":"Knoxville",
+    "addr:full":"200 W Hill Ave Knoxville, Tn 37902",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 865-525-2375",
     "addr:postcode":"37902",
+    "addr:road":"W Hill Ave",
+    "addr:state":"TN",
     "addr:street":"W Hill Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
-    "geom:bbox":"-83.915726,35.960934,-83.915726,35.960934",
-    "geom:latitude":35.960934,
-    "geom:longitude":-83.915726,
+    "geom:bbox":"-83.91467,35.96127,-83.91467,35.96127",
+    "geom:latitude":35.96127,
+    "geom:longitude":-83.91467,
     "iso:country":"US",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
@@ -33,7 +38,10 @@
         "historical"
     ],
     "sg:website":"www.blountmansion.org",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527233
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -44,12 +52,13 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700115,
         "osm:way":477948941,
         "sg:id":"SG_5QWN6QkicBRrgs8mhn34Bp_35.960934_-83.915726@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462604741,
-    "wof:geomhash":"ba72d8503a102576885be8a0a23491c2",
+    "wof:geomhash":"c24a99241561e4c1f9a26e475ed7ca3e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,7 +71,7 @@
         }
     ],
     "wof:id":807194859,
-    "wof:lastmodified":1510942761,
+    "wof:lastmodified":1534535264,
     "wof:name":"Blount Mansion",
     "wof:parent_id":85878571,
     "wof:placetype":"venue",
@@ -74,10 +83,10 @@
     ]
 },
   "bbox": [
-    -83.915726,
-    35.960934,
-    -83.915726,
-    35.960934
+    -83.91467,
+    35.96127,
+    -83.91467,
+    35.96127
 ],
-  "geometry": {"coordinates":[-83.91572600000001,35.960934],"type":"Point"}
+  "geometry": {"coordinates":[-83.91467,35.96127],"type":"Point"}
 }

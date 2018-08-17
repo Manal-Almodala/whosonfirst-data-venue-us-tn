@@ -7,6 +7,7 @@
     "addr:postcode":"38116",
     "addr:street":"Millbranch Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.007601,35.021722,-90.007601,35.021722",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.007601,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4641 Millbranch Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601094,
-    "wof:geomhash":"1bb56c380cc9c68cf0033831d199e30e",
+    "wof:geomhash":"381d69def138c89dfde7310ef56aac26",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":806788743,
-    "wof:lastmodified":1472646139,
+    "wof:lastmodified":1534535260,
     "wof:name":"Crumpy's Hot Wings",
     "wof:parent_id":420542123,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823284859
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

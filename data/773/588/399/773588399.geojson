@@ -2,18 +2,24 @@
   "id": 773588399,
   "type": "Feature",
   "properties": {
-    "addr:full":"162 8th Ave N Nashville TN 37203",
+    "addr:city":"Nashville",
+    "addr:full":"162 8Th Ave N Nashville, Tn 37203",
+    "addr:house_number":"162",
     "addr:housenumber":"162",
+    "addr:phone":"+1 615-742-5678",
     "addr:postcode":"37203",
+    "addr:road":"8Th Ave N",
+    "addr:state":"TN",
     "addr:street":"8Th Ave N",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.782526,36.159374,-86.782526,36.159374",
-    "geom:latitude":36.159374,
-    "geom:longitude":-86.782526,
+    "geom:bbox":"-86.78239,36.15952,-86.78239,36.15952",
+    "geom:latitude":36.15952,
+    "geom:longitude":-86.78239,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"162 8th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -32,7 +38,10 @@
         "toy",
         "gift"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102525035
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -43,11 +52,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700052,
         "sg:id":"SG_5lDdYE1wmiFkVdzL8GqhJC_36.159374_-86.782526@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462586860,
-    "wof:geomhash":"59f95f49c83b836f9ba5726ea12f7380",
+    "wof:geomhash":"474f923827f9f4163dc2010145d0e877",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,8 +70,8 @@
         }
     ],
     "wof:id":773588399,
-    "wof:lastmodified":1472645933,
-    "wof:name":"Nashville Toy Museum Inc",
+    "wof:lastmodified":1534535248,
+    "wof:name":"Nashville Toy Museum",
     "wof:parent_id":85871389,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -74,10 +84,10 @@
     ]
 },
   "bbox": [
-    -86.782526,
-    36.159374,
-    -86.782526,
-    36.159374
+    -86.78239,
+    36.15952,
+    -86.78239,
+    36.15952
 ],
-  "geometry": {"coordinates":[-86.782526,36.159374],"type":"Point"}
+  "geometry": {"coordinates":[-86.78239000000001,36.15952],"type":"Point"}
 }

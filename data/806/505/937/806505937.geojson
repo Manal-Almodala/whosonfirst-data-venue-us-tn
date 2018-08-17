@@ -7,6 +7,7 @@
     "addr:postcode":"37013",
     "addr:street":"Hickory Hollow Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.6574,36.048417,-86.6574,36.048417",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.6574,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5252 Hickory Hollow Pkwy",
     "sg:city":"Antioch",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598679,
-    "wof:geomhash":"b052a452569911fd43d728c59415042f",
+    "wof:geomhash":"ac82348cb856892175929f5ef7c4bca3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +62,14 @@
         }
     ],
     "wof:id":806505937,
-    "wof:lastmodified":1472645755,
+    "wof:lastmodified":1534535230,
     "wof:name":"Walls Art & Framing",
     "wof:parent_id":85846409,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789740655
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "art",

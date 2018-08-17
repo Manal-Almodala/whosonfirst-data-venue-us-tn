@@ -14,6 +14,7 @@
     "geom:longitude":-89.882957,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"5384 Poplar Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598346,
-    "wof:geomhash":"c77dfb08f9344cdb90683728775e4244",
+    "wof:geomhash":"e1377841f930ee3b0e2b8ea259ba4642",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":806463919,
-    "wof:lastmodified":1472645623,
+    "wof:lastmodified":1534535230,
     "wof:name":"Carman Financial Services",
     "wof:parent_id":85807811,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        806843065
+    ],
     "wof:tags":[
         "advisory"
     ]

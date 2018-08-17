@@ -14,6 +14,7 @@
     "geom:longitude":-84.011823,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1114 E Weisgarber Rd",
     "sg:city":"Knoxville",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462585990,
-    "wof:geomhash":"dab9401fe5b9da63c8ed0e5fdd6b5c12",
+    "wof:geomhash":"29ff0d3e27d33f66f281a4b6c271bd10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":773470157,
-    "wof:lastmodified":1472645892,
+    "wof:lastmodified":1534535239,
     "wof:name":"Weisgarber Medical Lab Inc",
     "wof:parent_id":85855769,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773455643
+    ],
     "wof:tags":[
         "hematology"
     ]

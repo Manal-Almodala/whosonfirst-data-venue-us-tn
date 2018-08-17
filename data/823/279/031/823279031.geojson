@@ -7,6 +7,7 @@
     "addr:postcode":"38103",
     "addr:street":"N Main St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.051727,35.147884,-90.051727,35.147884",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.051727,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"100 N Main St Bldg",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -40,15 +42,17 @@
     },
     "wof:country":"US",
     "wof:created":1462610264,
-    "wof:geomhash":"cf90603aca1a098b04126e9796ee1b5e",
+    "wof:geomhash":"a5cc8221567538778b6598f039a41622",
     "wof:hierarchy":[],
     "wof:id":823279031,
-    "wof:lastmodified":1472645695,
+    "wof:lastmodified":1534535248,
     "wof:name":"Heaton & Moore P C Attorneys At Law",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807040555
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney",

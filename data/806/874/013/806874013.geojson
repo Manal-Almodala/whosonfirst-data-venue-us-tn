@@ -7,6 +7,7 @@
     "addr:postcode":"38103",
     "addr:street":"Jefferson Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.047394,35.146029,-90.047394,35.146029",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.047394,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"200 Jefferson Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601805,
-    "wof:geomhash":"37a76a159a4d9eb6864c5466fe614d57",
+    "wof:geomhash":"68eb36dfe0f8e80829a0848937539462",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":806874013,
-    "wof:lastmodified":1472646165,
+    "wof:lastmodified":1534535252,
     "wof:name":"Wagerman Law Firm",
     "wof:parent_id":85867179,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807277903
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "attorney"

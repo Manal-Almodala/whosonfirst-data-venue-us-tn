@@ -14,6 +14,7 @@
     "geom:longitude":-86.781365,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"425 5th Ave N",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462598313,
-    "wof:geomhash":"817dbf0178c1a61c44e6e7e7307d9f1f",
+    "wof:geomhash":"fdec237c44b830e13b627a1a10bc4299",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":806460089,
-    "wof:lastmodified":1472645597,
+    "wof:lastmodified":1534535230,
     "wof:name":"Tennessee Communicable Disease",
     "wof:parent_id":85893445,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        773841491
+    ],
     "wof:tags":[
         "state",
         "program",

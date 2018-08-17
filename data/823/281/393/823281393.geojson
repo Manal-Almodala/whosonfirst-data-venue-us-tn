@@ -2,18 +2,24 @@
   "id": 823281393,
   "type": "Feature",
   "properties": {
-    "addr:full":"826 N 2nd St Memphis TN 38107",
+    "addr:city":"Memphis",
+    "addr:full":"826 N 2Nd St Memphis, Tn 38107",
+    "addr:house_number":"826",
     "addr:housenumber":"826",
+    "addr:phone":"+1 901-527-7711",
     "addr:postcode":"38107",
+    "addr:road":"N 2Nd St",
+    "addr:state":"TN",
     "addr:street":"N 2Nd St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-90.043543,35.164848,-90.043543,35.164848",
-    "geom:latitude":35.164848,
-    "geom:longitude":-90.043543,
+    "geom:bbox":"-90.04324,35.16449,-90.04324,35.16449",
+    "geom:latitude":35.16449,
+    "geom:longitude":-90.04324,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"826 N 2nd St",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -27,7 +33,11 @@
     "sg:phone":"+1 901 527 7711",
     "sg:postcode":"38107",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527185,
+        102532141
+    ],
     "wof:belongsto":[
         85688701,
         102191575,
@@ -38,11 +48,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700027,
         "sg:id":"SG_0pSAVpm4qqVWBucOidRGwd_35.164848_-90.043543@1303262741"
     },
     "wof:country":"US",
     "wof:created":1462610368,
-    "wof:geomhash":"ebdcf2ef1d52638b104fcf0f2178de0b",
+    "wof:geomhash":"c54d3126522ff33e8021136c468dd4b8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +66,7 @@
         }
     ],
     "wof:id":823281393,
-    "wof:lastmodified":1472645718,
+    "wof:lastmodified":1534535263,
     "wof:name":"Slave Haven Underground Railroad",
     "wof:parent_id":420542121,
     "wof:placetype":"venue",
@@ -65,10 +76,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -90.043543,
-    35.164848,
-    -90.043543,
-    35.164848
+    -90.04324,
+    35.16449,
+    -90.04324,
+    35.16449
 ],
-  "geometry": {"coordinates":[-90.043543,35.164848],"type":"Point"}
+  "geometry": {"coordinates":[-90.04324,35.16449],"type":"Point"}
 }

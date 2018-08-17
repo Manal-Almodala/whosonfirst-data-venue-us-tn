@@ -7,6 +7,7 @@
     "addr:postcode":"37030",
     "addr:street":"Dixon Springs Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.95263,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"84 Dixon Springs Hwy",
     "sg:city":"Carthage",
     "sg:classifiers":[
@@ -41,12 +42,14 @@
     "wof:geomhash":"be7d1c0ec418ee8a0e42d09b3f4b4e49",
     "wof:hierarchy":[],
     "wof:id":807344735,
-    "wof:lastmodified":1511317767,
+    "wof:lastmodified":1534535256,
     "wof:name":"Hardee's",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823242157
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

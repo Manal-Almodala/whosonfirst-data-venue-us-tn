@@ -7,6 +7,7 @@
     "addr:postcode":"38122",
     "addr:street":"Summer Ave",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.908056,35.148643,-89.908056,35.148643",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.908056,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4539 Summer Ave",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604453,
-    "wof:geomhash":"1bb018fd9ebe7a4d9abf0655f525421d",
+    "wof:geomhash":"60f2b60d6d92ce4449c640156add6612",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,12 +64,14 @@
         }
     ],
     "wof:id":807167365,
-    "wof:lastmodified":1472645644,
+    "wof:lastmodified":1534535262,
     "wof:name":"Berclair Television Inc",
     "wof:parent_id":85805805,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823287919
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "radio",

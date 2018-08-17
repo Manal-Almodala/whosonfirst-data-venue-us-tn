@@ -14,6 +14,7 @@
     "geom:longitude":-86.903185,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6949 Charlotte Pike",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606115,
-    "wof:geomhash":"7e6b1cbf067ee97403e7da20c687b151",
+    "wof:geomhash":"7d642a6b7dba3ec740eb8d109cfefa70",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,15 @@
         }
     ],
     "wof:id":807323939,
-    "wof:lastmodified":1472646048,
+    "wof:lastmodified":1534535254,
     "wof:name":"CSS Alarms",
     "wof:parent_id":85855925,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807321953
+    ],
     "wof:tags":[
         "alarm",
         "burglar",

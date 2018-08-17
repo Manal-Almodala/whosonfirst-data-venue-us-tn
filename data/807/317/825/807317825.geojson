@@ -14,6 +14,7 @@
     "geom:longitude":-86.824026,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"40 Burton Hills Blvd",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462606036,
-    "wof:geomhash":"f9ada4337c7f1080b0ff5885319103dd",
+    "wof:geomhash":"289565644696b85dc516d1d4db805145",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":807317825,
-    "wof:lastmodified":1472646030,
+    "wof:lastmodified":1534535253,
     "wof:name":"Continental Property Mgmt Inc",
     "wof:parent_id":85893463,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        807153595
+    ],
     "wof:tags":[
         "management"
     ]

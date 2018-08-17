@@ -7,6 +7,7 @@
     "addr:postcode":"37421",
     "addr:street":"Napier Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-85.152419,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"2307 Napier Rd",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -58,12 +59,14 @@
         }
     ],
     "wof:id":807262915,
-    "wof:lastmodified":1511995952,
+    "wof:lastmodified":1534535235,
     "wof:name":"Allstate Insurance Co",
     "wof:parent_id":85815159,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        806535811
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -14,6 +14,7 @@
     "geom:longitude":-85.30885,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"900 Georgia Ave",
     "sg:city":"Chattanooga",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1462588580,
-    "wof:geomhash":"fa79858be72d4bea36668208da790ea7",
+    "wof:geomhash":"662f519d70fd89c6acc7dcfa9766c63b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":773813513,
-    "wof:lastmodified":1472646003,
+    "wof:lastmodified":1534535250,
     "wof:name":"Federal Bar Association",
     "wof:parent_id":85876727,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        790441397
+    ],
     "wof:tags":[
         "business"
     ]

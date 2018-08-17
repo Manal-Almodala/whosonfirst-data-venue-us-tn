@@ -7,6 +7,7 @@
     "addr:postcode":"38134",
     "addr:street":"Stage Village Cove",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-89.855272,35.204135,-89.855272,35.204135",
@@ -14,6 +15,7 @@
     "geom:longitude":-89.855272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2851 Stage Village Cove",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601660,
-    "wof:geomhash":"97b975eb9e08f8f303532c91a77940ad",
+    "wof:geomhash":"cad5e23b685860a9cc1826d97c494dc7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":806856465,
-    "wof:lastmodified":1472646164,
+    "wof:lastmodified":1534535251,
     "wof:name":"Adams & Assoc",
     "wof:parent_id":85870775,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807233969
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

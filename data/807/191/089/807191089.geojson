@@ -7,6 +7,7 @@
     "addr:postcode":"37604",
     "addr:street":"Sunset Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-82.376592,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"208 Sunset Dr",
     "sg:city":"Johnson City",
     "sg:classifiers":[
@@ -61,12 +62,14 @@
         }
     ],
     "wof:id":807191089,
-    "wof:lastmodified":1510698951,
+    "wof:lastmodified":1534535256,
     "wof:name":"US Labor Dept Wage & Hour Div",
     "wof:parent_id":85852457,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789678933
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "federal"

@@ -7,6 +7,7 @@
     "addr:postcode":"38116",
     "addr:street":"Millbranch Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-90.007446,35.032323,-90.007446,35.032323",
@@ -14,6 +15,7 @@
     "geom:longitude":-90.007446,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4210 Millbranch Rd",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462604649,
-    "wof:geomhash":"042c1126cdd72760764d762e5cfdf7a3",
+    "wof:geomhash":"20f25c44ad3e53d64ee0827b93028efd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":807185951,
-    "wof:lastmodified":1472645716,
+    "wof:lastmodified":1534535260,
     "wof:name":"Peyton Company Realtors Inc",
     "wof:parent_id":85867187,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823284643
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "manager"

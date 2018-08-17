@@ -2,18 +2,24 @@
   "id": 806779507,
   "type": "Feature",
   "properties": {
-    "addr:full":"400 Dinah Shore Blvd Winchester TN 37398",
+    "addr:city":"Winchester",
+    "addr:full":"400 Dinah Shore Blvd Winchester, Tn 37398-1421",
+    "addr:house_number":"400",
     "addr:housenumber":"400",
-    "addr:postcode":"37398",
+    "addr:phone":"+1 931-759-6007",
+    "addr:postcode":"37398-1421",
+    "addr:road":"Dinah Shore Blvd",
+    "addr:state":"TN",
     "addr:street":"Dinah Shore Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-86.109609,35.188345,-86.109609,35.188345",
-    "geom:latitude":35.188345,
-    "geom:longitude":-86.109609,
+    "geom:bbox":"-86.13233,35.19067,-86.13233,35.19067",
+    "geom:latitude":35.19067,
+    "geom:longitude":-86.13233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"400 Dinah Shore Blvd",
     "sg:city":"Winchester",
     "sg:classifiers":[
@@ -27,21 +33,25 @@
     "sg:phone":"+1 931 967 0524",
     "sg:postcode":"37398",
     "sg:province":"TN",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102527855
+    ],
     "wof:belongsto":[
-        85688701,
+        85805347,
         85633793,
         101722723,
         102086227,
-        85805347
+        85688701
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8404700384,
         "sg:id":"SG_7NsNgVfUhmYU5pJuQPdJVL_35.188345_-86.109609@1294204733"
     },
     "wof:country":"US",
     "wof:created":1462601011,
-    "wof:geomhash":"6d664c1aebec9eda5c167bb56ff5f7e9",
+    "wof:geomhash":"c1826d29b4e215d2c719afea0dbf5aef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":806779507,
-    "wof:lastmodified":1472646138,
-    "wof:name":"Franklin County Old Jail",
+    "wof:lastmodified":1534535264,
+    "wof:name":"Old Jail Museum",
     "wof:parent_id":85805347,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -86.109609,
-    35.188345,
-    -86.109609,
-    35.188345
+    -86.13233,
+    35.19067,
+    -86.13233,
+    35.19067
 ],
-  "geometry": {"coordinates":[-86.10960900000001,35.188345],"type":"Point"}
+  "geometry": {"coordinates":[-86.13233,35.19067],"type":"Point"}
 }

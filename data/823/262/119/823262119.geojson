@@ -7,6 +7,7 @@
     "addr:postcode":"37066",
     "addr:street":"Nashville Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.523041,36.34685,-86.523041,36.34685",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.523041,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1955 Nashville Pike",
     "sg:city":"Gallatin",
     "sg:classifiers":[
@@ -53,15 +55,17 @@
     },
     "wof:country":"US",
     "wof:created":1462609601,
-    "wof:geomhash":"394ecbc8106767aedc8702b00ac5fc2d",
+    "wof:geomhash":"c825a122b407509f6e0c8c89a5659fca",
     "wof:hierarchy":[],
     "wof:id":823262119,
-    "wof:lastmodified":1472645663,
+    "wof:lastmodified":1534535235,
     "wof:name":"Young's Nursery & Greenhouses",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        789878757
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "florists'",

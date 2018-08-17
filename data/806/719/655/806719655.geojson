@@ -7,6 +7,7 @@
     "addr:postcode":"37210",
     "addr:street":"Fesslers Pkwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.742995,36.149225,-86.742995,36.149225",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.742995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"830 Fesslers Pkwy",
     "sg:city":"Nashville",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1462600498,
-    "wof:geomhash":"ae68391a7c9d1dfe9e58c2d11188875b",
+    "wof:geomhash":"1c3413bcd5271fc549007f74ec1c0f9d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":806719655,
-    "wof:lastmodified":1472646116,
+    "wof:lastmodified":1534535251,
     "wof:name":"Signius",
     "wof:parent_id":85835935,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        823160953
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "answering"

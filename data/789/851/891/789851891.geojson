@@ -7,6 +7,7 @@
     "addr:postcode":"37027",
     "addr:street":"Maryland Way",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.799499,36.033271,-86.799499,36.033271",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.799499,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"5111 Maryland Way",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1462591041,
-    "wof:geomhash":"6b90c11716f31d337862d6fd79b1dbfe",
+    "wof:geomhash":"cfba7fd5bba3ee8fcb25f14fbb4f6478",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":789851891,
-    "wof:lastmodified":1472645248,
+    "wof:lastmodified":1534535247,
     "wof:name":"Crye-Leike Inc",
     "wof:parent_id":85833469,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807026583
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

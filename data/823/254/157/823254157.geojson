@@ -14,6 +14,7 @@
     "geom:longitude":-90.053815,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"150 Peabody Pl",
     "sg:city":"Memphis",
     "sg:classifiers":[
@@ -47,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462609425,
-    "wof:geomhash":"13cd8ad7b7ac041c8f6714875fe25e37",
+    "wof:geomhash":"6474f67000fe89fe0d8f0b6502b8fdbc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,13 +61,16 @@
         }
     ],
     "wof:id":823254157,
-    "wof:lastmodified":1472645647,
+    "wof:lastmodified":1534535258,
     "wof:name":"Jillian's",
     "wof:parent_id":85867183,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        823200641,
+        807317997
+    ],
     "wof:tags":[
         "american",
         "pub"

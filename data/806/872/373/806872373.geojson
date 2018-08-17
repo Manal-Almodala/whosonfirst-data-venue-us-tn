@@ -7,6 +7,7 @@
     "addr:postcode":"37027",
     "addr:street":"Cadillac Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-17",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-86.795065,36.036059,-86.795065,36.036059",
@@ -14,6 +15,7 @@
     "geom:longitude":-86.795065,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"6 Cadillac Dr",
     "sg:city":"Brentwood",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1462601788,
-    "wof:geomhash":"e73dc6fa5765ff03468de1d0746203e1",
+    "wof:geomhash":"adbaef2c9d9255f011021d2c152a1619",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":806872373,
-    "wof:lastmodified":1472646170,
+    "wof:lastmodified":1534535251,
     "wof:name":"Edgenet Inc",
     "wof:parent_id":85805711,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-tn",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        807242721
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "development",
